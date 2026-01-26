@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Financial Report</title>
+    <title>Daily Financial News</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
@@ -91,6 +91,7 @@
 
             const translations = {
                 en: {
+                    title: "Daily Financial News",
                     financialReport: "Financial Report",
                     lastUpdated: "Last updated",
                     marketOverview: "Market Overview",
@@ -102,6 +103,7 @@
                     langToggle: "中文"
                 },
                 zh: {
+                    title: "每日财经新闻",
                     financialReport: "财务报告",
                     lastUpdated: "最后更新",
                     marketOverview: "市场概览",
@@ -228,6 +230,7 @@
 
             function updateContent() {
                 const t = translations[currentLang];
+                document.title = t.title;
 
                 // Update header
                 document.querySelector('h1').textContent = t.financialReport;
