@@ -116,6 +116,29 @@
                 }
             };
 
+            const marqueeTranslations = {
+                'NVDA': '英伟达',
+                'MSFT': '微软',
+                'AAPL': '苹果',
+                'GOOGL': '谷歌',
+                'AMZN': '亚马逊',
+                'META': 'Meta',
+                'AVGO': '博通',
+                'TSM': '台积电',
+                'TSLA': '特斯拉',
+                'LLY': '礼来',
+                '0700.HK': '腾讯控股',
+                '1299.HK': '友邦保险',
+                '0005.HK': '汇丰控股',
+                '0941.HK': '中国移动',
+                '0883.HK': '中国海洋石油',
+                '0857.HK': '中国石油股份',
+                '3988.HK': '中国银行',
+                '1398.HK': '工商银行',
+                '0939.HK': '建设银行',
+                '3690.HK': '美团'
+            };
+
             let marketData = [];
             let marqueeData = [];
 
@@ -325,18 +348,27 @@
                         <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-1 text-xs">${t.source}: ${item.source}</a>
                     </li>
                 `).join('');
+
+                populateMarquee();
             }
 
             function populateMarquee() {
                 const marqueeContent = document.querySelector('.marquee-content');
                 const marqueeItems = [...marqueeData, ...marqueeData]; // Duplicate for seamless loop
-                marqueeContent.innerHTML = marqueeItems.map(item => `
+                marqueeContent.innerHTML = marqueeItems.map(item => {
+                    let displayName = item.name;
+                    if (currentLang === 'zh' && marqueeTranslations[item.symbol]) {
+                        displayName = marqueeTranslations[item.symbol];
+                    }
+                    
+                    return `
                     <div class="flex items-center space-x-4">
-                        <span class="font-semibold"><span class="text-nowrap">${item.name}</span></span>
+                        <span class="font-semibold"><span class="text-nowrap">${displayName}</span></span>
                         <span class="${getColor(item.change)}">${item.price}</span>
                         <span class="${getColor(item.change)}">${item.change}</span>
                     </div>
-                `).join('');
+                    `;
+                }).join('');
             }
 
             document.getElementById('lang-toggle').addEventListener('click', () => {
