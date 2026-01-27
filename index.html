@@ -19,7 +19,7 @@
             <h1 class="text-2xl font-bold">Financial Report</h1>
             <div class="flex items-center space-x-4">
                 <div class="text-sm text-gray-400">
-                    <span>Last updated: January 26, 2026</span>
+                    <span>Last updated: January 27, 2026</span>
                 </div>
                 <button id="lang-toggle" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
                     中文
@@ -116,96 +116,88 @@
                 }
             };
 
-            const marketData = [
-                { en: { name: 'S&P 500', reasons: ['Strong tech sector performance.', 'Positive market momentum despite volatility.'] }, zh: { name: '标准普尔500指数', reasons: ['科技板块表现强劲。', '尽管市场波动，但势头良好。'] }, price: '6,945.10', change: '+0.43%' },
-                { en: { name: 'Nasdaq', reasons: ['AI-related stocks like Nvidia driving gains.', 'Overall bullish sentiment in the tech industry.'] }, zh: { name: '纳斯达克指数', reasons: ['英伟达等AI相关股票带动上涨。', '科技行业整体看涨情绪。'] }, price: '23,600.38', change: '+0.42%' },
-                { en: { name: 'USD/JPY', reasons: ['Political instability in Japan strengthens the yen.', 'Investors seek safety in the yen amid uncertainty.'] }, zh: { name: '美元/日元', reasons: ['日本政局不稳导致日元走强。', '不确定性中投资者寻求日元避险。'] }, price: '153.7550', change: '-0.33%' },
-                { en: { name: 'USD/CNY', reasons: ["Concerns over the Fed's independence create dollar weakness.", "Slight gains suggest mixed market sentiment."] }, zh: { name: '美元/人民币', reasons: ['对美联储独立性的担忧导致美元走弱。', '小幅上涨表明市场情绪复杂。'] }, price: '7.24', change: '+0.02%' },
-                { en: { name: 'SGD/CNY', reasons: ['Regional economic data influencing currency pair.', 'Broader market trends affecting emerging market currencies.'] }, zh: { name: '新元/人民币', reasons: ['区域经济数据影响货币对。', '更广泛的市场趋势影响新兴市场货币。'] }, price: '5.4885', change: '-0.38%' },
-                { en: { name: '2Y UST', reasons: ['Yields fall as investors seek safe-haven assets.', 'Geopolitical tensions increase demand for short-term bonds.'] }, zh: { name: '2年期美国国债', reasons: ['投资者寻求避险资产导致收益率下降。', '地缘政治紧张局势增加了对短期债券的需求。'] }, price: '3.60%', change: '-0.59%' },
-                { en: { name: '10Y UST', reasons: ['Flight to safety amid global uncertainty.', 'Concerns over geopolitical events in Europe and Asia.'] }, zh: { name: '10年期美国国债', reasons: ['全球不确定性下的避险需求。', '对欧美地缘政治事件的担忧。'] }, price: '4.23%', change: '-0.44%' },
-                { en: { name: 'Brent', reasons: ['Supply disruption fears from Iran are priced in.', 'Prospect of more supply from Venezuela eases prices.'] }, zh: { name: '布伦特原油', reasons: ['伊朗供应中断的担忧已计入价格。', '委内瑞拉增加供应的前景使价格回落。'] }, price: '65.51', change: '-1.18%' },
-                { en: { name: 'Gold', reasons: ['Record highs driven by geopolitical tensions.', 'Weakening dollar and flight from US Treasuries.'] }, zh: { name: '黄金', reasons: ['地缘政治紧张局势推动金价创下历史新高。', '美元走弱以及资金从美国国债流出。'] }, price: '5,089.63', change: '+2.14%' },
-                { en: { name: 'Silver', reasons: ['Surges alongside gold as a safe-haven asset.', 'Strong investor demand amid market uncertainty.'] }, zh: { name: '白银', reasons: ['作为避险资产，与黄金一同飙升。', '市场不确定性中投资者需求强劲。'] }, price: '110.22', change: '+7.04%' },
-            ];
+            let marketData = [];
+
+            function fetchMarketData() {
+                const translationsMap = {
+                    '^GSPC': { name: '标准普尔500指数', reasons: ['科技板块表现强劲。', '尽管市场波动，但势头良好。'] },
+                    '^IXIC': { name: '纳斯达克指数', reasons: ['英伟达等AI相关股票带动上涨。', '科技行业整体看涨情绪。'] },
+                    'JPY=X': { name: '美元/日元', reasons: ['日本政局不稳导致日元走强。', '不确定性中投资者寻求日元避险。'] },
+                    'CNY=X': { name: '美元/人民币', reasons: ['对美联储独立性的担忧导致美元走弱。', '小幅上涨表明市场情绪复杂。'] },
+                    'SGDCNY=X': { name: '新元/人民币', reasons: ['区域经济数据影响货币对。', '更广泛的市场趋势影响新兴市场货币。'] },
+                    '^FVX': { name: '2年期美国国债', reasons: ['投资者寻求避险资产导致收益率下降。', '地缘政治紧张局势增加了对短期债券的需求。'] },
+                    '^TNX': { name: '10年期美国国债', reasons: ['全球不确定性下的避险需求。', '对欧美地缘政治事件的担忧。'] },
+                    'BZ=F': { name: '布伦特原油', reasons: ['伊朗供应中断的担忧已计入价格。', '委内瑞拉增加供应的前景使价格回落。'] },
+                    'GC=F': { name: '黄金', reasons: ['地缘政治紧张局势推动金价创下历史新高。', '美元走弱以及资金从美国国债流出。'] },
+                    'SI=F': { name: '白银', reasons: ['作为避险资产，与黄金一同飙升。', '市场不确定性中投资者需求强劲。'] }
+                };
+
+                const enNamesMap = {
+                    '^GSPC': 'S&P 500',
+                    '^IXIC': 'Nasdaq',
+                    'JPY=X': 'USD/JPY',
+                    'CNY=X': 'USD/CNY',
+                    'SGDCNY=X': 'SGD/CNY',
+                    '^FVX': '2Y UST',
+                    '^TNX': '10Y UST',
+                    'BZ=F': 'Brent',
+                    'GC=F': 'Gold',
+                    'SI=F': 'Silver'
+                };
+
+                return fetch('http://127.0.0.1:5001/api/market-data')
+                    .then(response => response.json())
+                    .then(data => {
+                        marketData = data.map(item => {
+                            const symbol = item.symbol;
+                            const enName = enNamesMap[symbol] || item.en.name || symbol;
+                            const zhTranslation = translationsMap[symbol] || { name: enName, reasons: [] };
+                            const enReasons = enReasonsMap[symbol] || [];
+
+                            return {
+                                ...item,
+                                en: { name: enName, reasons: enReasons },
+                                zh: { name: zhTranslation.name, reasons: zhTranslation.reasons }
+                            };
+                        });
+                        renderMarketOverviewAndCharts();
+                        updateContent();
+                    })
+                    .catch(error => console.error('Error fetching market data:', error));
+            }
 
             const newsData = [
                 {
-                    en: { title: "US Considers New Sanctions on Russia", summary: "The US is considering new sanctions on Russian financial institutions and energy, which could impact global markets and increase volatility. This has led to a flight to safety, with gold prices rising." },
-                    zh: { title: "美国考虑对俄罗斯实施新制裁", summary: "美国正考虑对俄罗斯金融机构和能源实施新制裁，这可能影响全球市场并增加波动性。此举导致资金流向避险资产，黄金价格上涨。" },
+                    en: { title: "Wall Street Edges Higher in a Wobbly Start to 2026", summary: "U.S. stocks mostly edged higher on Wall Street in a wobbly start to the new year. The S&P 500 rose 0.2%, while the Dow Jones Industrial Average rose 0.7%. The Nasdaq composite fell less than 0.1%." },
+                    zh: { title: "华尔街在2026年开局不稳的情况下小幅走高", summary: "美国股市在新年伊始涨跌互现。标准普尔500指数上涨0.2%，道琼斯工业平均指数上涨0.7%。纳斯达克综合指数下跌不到0.1%。" },
+                    source: "AP News",
+                    sourceUrl: "https://www.usnews.com/news/business/articles/2026-01-01/shares-are-higher-in-asia-in-an-upbeat-start-to-the-new-year"
+                },
+                {
+                    en: { title: "S&P, Nasdaq futures slide to one-month lows on Greenland concerns", summary: "All three major Wall Street indexes ended Tuesday with their biggest one-day drops in three months, in a broad selloff triggered by concerns that fresh tariff threats from President Donald Trump against Europe could signal renewed market volatility." },
+                    zh: { title: "对格陵兰的担忧导致标普和纳斯达克期货跌至一个月低点", summary: "华尔街三大股指周二均创下三个月来最大单日跌幅，因市场担心美国总统唐纳德·特朗普对欧洲发出新的关税威胁可能预示着市场将再现动荡。" },
                     source: "Reuters",
-                    sourceUrl: "https://www.reuters.com/world/us-readies-new-russia-sanctions-if-putin-rejects-peace-deal-bloomberg-news-2025-12-17/"
+                    sourceUrl: "https://www.reuters.com/business/sp-nasdaq-futures-slide-one-month-lows-greenland-concerns-2026-01-20/"
                 },
                 {
-                    en: { title: "OPEC+ Agrees to Surprise Production Cut", summary: "OPEC+ has agreed to a surprise production cut, sending oil prices higher. This move is expected to have a wide-ranging impact on the global economy, from inflation to consumer spending." },
-                    zh: { title: "OPEC+意外同意减产", summary: "OPEC+已同意意外减产，推动油价上涨。此举预计将对全球经济产生广泛影响，从通货膨胀到消费者支出。" },
-                    source: "Fortune",
-                    sourceUrl: "https://www.theguardian.com/business/2023/apr/02/opec-announces-surprise-cuts-in-oil-production-of-about-115-mbpd"
-                },
-                {
-                    en: { title: "Fed Signals Hawkish Stance on Inflation", summary: "The Federal Reserve has signaled a more hawkish stance on inflation, suggesting that interest rates may stay higher for longer. This has led to a selloff in US Treasuries and a strengthening of the dollar." },
-                    zh: { title: "美联储暗示对通胀持鹰派立场", summary: "美联储暗示对通胀采取更强硬的立场，表明利率可能在更长时间内保持高位。这导致美国国债遭抛售，美元走强。" },
+                    en: { title: "Stocks and Treasuries calm after Fed indictment jitters, dollar weakens", summary: "Wall Street stock indexes and U.S. government bonds steadied on Monday as traders digested the Trump administration's threat to indict the Federal Reserve, although renewed questions about the independence of the world's most influential central bank weighed on the dollar and boosted gold." },
+                    zh: { title: "美联储遭起诉引发市场紧张情绪后，股市和国债趋于平稳，美元走弱", summary: "周一，华尔街股指和美国国债趋于稳定，交易员正在消化特朗普政府威胁起诉美联储的消息，但对这家全球最具影响力的央行独立性的再次质疑令美元承压，并提振了金价。" },
                     source: "Reuters",
-                    sourceUrl: "https://www.reuters.com/business/feds-schmid-inflation-is-too-hot-policy-is-where-it-should-be-2025-11-14/"
-                },
-                {
-                    en: { title: "Japan Intervenes to Support the Yen", summary: "Japan has intervened in the currency market to support the yen for the first time in 24 years. This move comes as the yen has fallen to a multi-decade low against the dollar." },
-                    zh: { title: "日本干预以支撑日元", summary: "日本24年来首次干预货币市场以支撑日元。此举正值日元兑美元汇率跌至数十年低点。" },
-                    source: "CNBC",
-                    sourceUrl: "https://finance.yahoo.com/news/yen-jumps-most-since-august-195335182.html"
-                },
-                {
-                    en: { title: "Global Supply Chain Disruptions", summary: "Ongoing geopolitical tensions and logistical challenges are causing significant disruptions in global supply chains. This has led to increased costs for many companies and is a contributing factor to inflationary pressures, affecting indices like the S&P 500." },
-                    zh: { title: "全球供应链中断", summary: "持续的地缘政治紧张局势和物流挑战正导致全球供应链出现严重中断。这导致许多公司成本增加，并成为影响标准普尔500等指数的通胀压力因素之一。" },
-                    source: "Reuters",
-                    sourceUrl: "https://www.reuters.com/business/autos-transportation/container-shipping-crisis-is-getting-worse-2021-08-20/"
-                },
-                {
-                    en: { title: "ECB's Hawkish Stance", summary: "The European Central Bank has signaled a more hawkish stance on inflation, leading to a strengthening of the Euro against the dollar. This has implications for international trade and currency markets, including the USD/CNY and USD/JPY pairs." },
-                    zh: { title: "欧洲央行的鹰派立场", summary: "欧洲央行暗示对通胀采取更强硬的立场，导致欧元兑美元走强。这对国际贸易和货币市场（包括美元/人民币和美元/日元货币对）产生影响。" },
-                    source: "Bloomberg",
-                    sourceUrl: "https://www.bloomberg.com/news/articles/2024-01-25/ecb-keeps-rates-unchanged-in-unanimous-decision-as-inflation-cools"
-                },
-                {
-                    en: { title: "China's Economic Slowdown", summary: "Recent data from China indicates a slowdown in economic growth, raising concerns about global demand. This has a direct impact on commodity prices like Brent crude and influences Asian currency pairs such as CNY/SGD." },
-                    zh: { title: "中国经济放缓", summary: "中国近期数据显示经济增长放缓，引发了对全球需求的担忧。这对布伦特原油等大宗商品价格产生直接影响，并影响新元/人民币等亚洲货币对。" },
-                    source: "The Economist",
-                    sourceUrl: "https://www.economist.com/finance-and-economics/2023/07/17/chinas-economy-is-slowing-down"
-                },
-                {
-                    en: { title: "OPEC+ Production Cuts", summary: "OPEC and its allies have agreed to significant production cuts to stabilize oil prices. This decision has a direct impact on the price of Brent crude, with ripple effects across the global economy." },
-                    zh: { title: "OPEC+减产", summary: "OPEC及其盟国已同意大幅减产以稳定油价。这一决定对布伦特原油价格产生直接影响，并在全球经济中产生连锁反应。" },
-                    source: "CNBC",
-                    sourceUrl: "https://www.cnbc.com/2023/10/04/oil-prices-opec-traders-watch-for-meeting-for-supply-policy.html"
-                },
-                {
-                    en: { title: "US Inflation Data", summary: "The latest Consumer Price Index (CPI) data in the US will be a key factor for the Federal Reserve's next move. Higher-than-expected inflation could lead to a more aggressive stance, impacting Treasury yields and the dollar." },
-                    zh: { title: "美国通胀数据", summary: "美国最新的消费者价格指数（CPI）数据将是美联储下一步行动的关键因素。高于预期的通胀可能导致更激进的立场，从而影响国债收益率和美元。" },
-                    source: "Bureau of Labor Statistics",
-                    sourceUrl: "https://www.bls.gov/cpi/"
-                },
-                {
-                    en: { title: "Rise of Retail Investors", summary: "The increasing influence of retail investors, often coordinating on social media, has brought new volatility to the market. This phenomenon has been visible in sharp movements in specific stocks and even some commodities, challenging traditional market analysis." },
-                    zh: { title: "散户投资者的崛起", summary: "散户投资者的影响力日益增强，他们经常在社交媒体上协调行动，给市场带来了新的波动性。这种现象在特定股票甚至某些商品的剧烈波动中显而易见，对传统市场分析提出了挑战。" },
-                    source: "Forbes",
-                    sourceUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/01/the-rise-of-the-retail-investor-what-does-it-mean-for-the-market/"
+                    sourceUrl: "https://www.reuters.com/business/finance/global-markets-global-markets-2026-01-12/"
                 }
             ];
 
             const ipoData = [
-                { en: { company: "EquipmentShare (EQPT)", status: "Completed", details: "EquipmentShare, a construction technology and equipment rental provider, priced its IPO of 30.5 million shares at $24.50 per share." }, zh: { company: "EquipmentShare (EQPT)", status: "已完成", details: "建筑技术和设备租赁提供商EquipmentShare以每股24.50美元的价格发行了3050万股IPO。" }, valuation: "$777.8M", source: "Investing.com", sourceUrl: "https://www.investing.com/news/stock-market-news/equipmentshare-prices-ipo-at-2450-per-share-begins-trading-today-93CH-3955282" },
-                { en: { company: "BitGo Holdings (BTGO)", status: "Completed", details: "Digital asset infrastructure company BitGo Holdings began trading on the NYSE, marking its public debut." }, zh: { company: "BitGo Holdings (BTGO)", status: "已完成", details: "数字资产基础设施公司BitGo Holdings在纽约证券交易所开始交易，标志着其公开上市。" }, valuation: "$201.0M", source: "Investing.com", sourceUrl: "https://www.investing.com/news/stock-market-news/bitgo-debuts-on-nyse-under-ticker-symbol-btgo-93CH-3955280" },
-                { en: { company: "Andersen Group (ANDG)", status: "Completed", details: "Andersen Group Inc. had its IPO on Dec 17, 2025, with a price of $16.00 per share." }, zh: { company: "Andersen Group (ANDG)", status: "已完成", details: "Andersen Group Inc.于2025年12月17日进行IPO，发行价为每股16.00美元。" }, valuation: "$16.00/share", source: "Stock Analysis", sourceUrl: "https://stockanalysis.com/ipos/2025/" },
-                { en: { company: "Medline Inc. (MDLN)", status: "Completed", details: "Medline Inc. completed its IPO on Dec 17, 2025, pricing at $29.00 per share." }, zh: { company: "Medline Inc. (MDLN)", status: "已完成", details: "Medline Inc.于2025年12月17日完成IPO，定价为每股29.00美元。" }, valuation: "$29.00/share", source: "Stock Analysis", sourceUrl: "https://stockanalysis.com/ipos/2025/" },
-                { en: { company: "Wealthfront Corporation (WLTH)", status: "Completed", details: "Wealthfront Corporation's IPO took place on Dec 12, 2025, at $14.00 per share." }, zh: { company: "Wealthfront Corporation (WLTH)", status: "已完成", details: "Wealthfront Corporation的IPO于2025年12月12日进行，发行价为每股14.00美元。" }, valuation: "$14.00/share", source: "Stock Analysis", sourceUrl: "https://stockanalysis.com/ipos/2025/" }
+                { en: { company: "SpaceX", status: "Upcoming", details: "SpaceX is preparing for a possible public offering in 2026 to fund its Starship rocket, AI data centers in space, and a moon base." }, zh: { company: "SpaceX", status: "即将进行", details: "SpaceX正准备在2026年进行可能的公开募股，以为其星际飞船火箭、太空中的人工智能数据中心和月球基地提供资金。" }, valuation: "N/A", source: "Bloomberg", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
+                { en: { company: "OpenAI", status: "Upcoming", details: "OpenAI is laying the groundwork for a potential debut in late 2026 or 2027, which could be one of the largest IPOs in market history." }, zh: { company: "OpenAI", status: "即将进行", details: "OpenAI正在为可能在2026年底或2027年进行的首次亮相奠定基础，这可能成为市场历史上最大规模的IPO之一。" }, valuation: "N/A", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
+                { en: { company: "Kraken", status: "Upcoming", details: "The U.S. crypto exchange Kraken is reportedly targeting a U.S. stock market debut as early as the first quarter of 2026." }, zh: { company: "Kraken", status: "即将进行", details: "据报道，美国加密货币交易所Kraken的目标最早在2026年第一季度在美国股市首次亮相。" }, valuation: "$15B", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
+                { en: { company: "Canva", status: "Upcoming", details: "Canva's co-founder and COO indicated in November 2025 that an IPO is 'probably imminent' and likely to happen within the 'next couple of years'." }, zh: { company: "Canva", status: "即将进行", details: "Canva的联合创始人兼首席运营官在2025年11月表示，IPO“可能即将到来”，并可能在“未来几年内”发生。" }, valuation: "N/A", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" }
             ];
 
             const maData = [
-                { en: { deal: "EQT to Acquire Coller Capital", status: "Announced", details: "EQT has announced its intention to acquire private equity firm Coller Capital for up to $3.7 billion." }, zh: { deal: "EQT将收购Coller Capital", status: "已宣布", details: "EQT已宣布有意以高达37亿美元的价格收购私募股权公司Coller Capital。" }, value: "$3.7B", source: "Intellizence", sourceUrl: "https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/" },
-                { en: { deal: "Deutsche Börse to Acquire Allfunds", status: "Announced", details: "Deutsche Börse will acquire Allfunds for $6.19 billion, expanding its reach in the wealth management space." }, zh: { deal: "德意志交易所将收购Allfunds", status: "已宣布", details: "德意志交易所将以61.9亿美元收购Allfunds，以扩大其在财富管理领域的影响力。" }, value: "$6.19B", source: "Intellizence", sourceUrl: "https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/" },
-                { en: { deal: "GSK to Acquire RAPT", status: "Announced", details: "GSK is set to acquire RAPT for $2.2 billion to bolster its treatments for food allergies." }, zh: { deal: "葛兰素史克将收购RAPT", status: "已宣布", details: "葛兰素史克将以22亿美元收购RAPT，以加强其对食物过敏的治疗。" }, value: "$2.2B", source: "Intellizence", sourceUrl: "https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/" },
-                { en: { deal: "Smithfield Foods to acquire Nathan’s Famous", status: "Announced", details: "Smithfield Foods will acquire the hot dog brand Nathan’s Famous for $450 million." }, zh: { deal: "Smithfield Foods将收购Nathan’s Famous", status: "已宣布", details: "Smithfield Foods将以4.5亿美元收购热狗品牌Nathan’s Famous。" }, value: "$450M", source: "Intellizence", sourceUrl: "https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/" },
-                { en: { deal: "Denny’s to Go Private", status: "Announced", details: "Denny's has agreed to be taken private in a deal valued at $322 million." }, zh: { deal: "Denny’s将私有化", status: "已宣布", details: "Denny's已同意一项价值3.22亿美元的私有化交易。" }, value: "$322M", source: "Intellizence", sourceUrl: "https://intellizence.com/insights/merger-and-acquisition/largest-merger-acquisition-deals/" }
+                { en: { deal: "Global M&A volumes hit USD 3 trillion in 2025", status: "Completed", details: "Global M&A volumes hit USD 3 trillion, up 33% year on year with 45 mega deals over USD 10 billion." }, zh: { deal: "2025年全球并购交易额达3万亿美元", status: "已完成", details: "全球并购交易额达到3万亿美元，同比增长33%，其中有45笔超过100亿美元的大型交易。" }, value: "$3T", source: "Baker McKenzie", sourceUrl: "https://www.bakermckenzie.com/en/insight/publications/2026/01/ma-reawakes-more-complex-2026" },
+                { en: { deal: "M&A lawyers see 'bulging pipeline' for 2026", status: "Outlook", details: "Dealmakers at top firms told Reuters they expect this year to be at least as busy as 2025." }, zh: { deal: "并购律师预计2026年将有“大量交易”", status: "展望", details: "顶级公司的交易撮合者告诉路透社，他们预计今年的业务至少会和2025年一样繁忙。" }, value: "N/A", source: "Reuters", sourceUrl: "https://www.reuters.com/legal/transactional/ma-lawyers-see-bulging-pipeline-2026-after-deal-crazed-year-2026-01-07/" },
+                { en: { deal: "Lazard expects multiple drivers to sustain elevated deal value in 2026", status: "Outlook", details: "Rising strategic ambition among large corporates, potential monetization of long-held private equity assets, and continuity in the regulatory environment are expected to sustain elevated deal value." }, zh: { deal: "Lazard预计多种驱动因素将维持2026年较高的交易额", status: "展望", details: "大型企业日益增长的战略雄心、长期持有的私募股权资产的潜在货币化以及监管环境的连续性，预计将维持较高的交易额。" }, value: "N/A", source: "Lazard", sourceUrl: "https://www.lazard.com/research-insights/lazard-2025-ma-review-and-2026-outlook/" }
             ];
 
             function getColor(change) {
@@ -220,12 +212,38 @@
                 return '#9ca3af'; // gray-400
             }
 
-            function generateSparklineData() {
-                const data = [];
-                for (let i = 0; i < 20; i++) {
-                    data.push(Math.floor(Math.random() * 100));
-                }
-                return data;
+            function renderMarketOverviewAndCharts() {
+                const marketOverview = document.querySelector('#market-overview .grid');
+                marketOverview.innerHTML = marketData.map((item, index) => `
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="font-bold text-lg"></h3>
+                        <p class="text-2xl font-semibold">${item.price}</p>
+                        <p class="text-lg ${getColor(item.changePercent)}">${item.change} (${item.changePercent})</p>
+                        <div id="chart-${index}" class="mt-2"></div>
+                        <ul class="mt-3 text-sm text-gray-400 space-y-1"></ul>
+                    </div>
+                `).join('');
+
+                marketData.forEach((item, index) => {
+                    const options = {
+                        chart: { type: 'area', height: 50, sparkline: { enabled: true } },
+                        series: [{ data: item.sparkline }],
+                        stroke: { curve: 'smooth', width: 2 },
+                        colors: [getChartColor(item.changePercent)],
+                        fill: {
+                            type: 'gradient',
+                            gradient: {
+                                shadeIntensity: 1,
+                                opacityFrom: 0.7,
+                                opacityTo: 0.3,
+                                stops: [0, 90, 100]
+                            }
+                        },
+                        tooltip: { enabled: false }
+                    };
+                    const chart = new ApexCharts(document.querySelector(`#chart-${index}`), options);
+                    chart.render();
+                });
             }
 
             function updateContent() {
@@ -235,8 +253,8 @@
                 // Update header
                 document.querySelector('h1').textContent = t.financialReport;
                 const now = new Date();
-            const timeString = now.toTimeString().split(' ')[0];
-            document.querySelector('.text-sm.text-gray-400 span').textContent = `${t.lastUpdated}: January 26, 2026 ${timeString}`;
+                const timeString = now.toTimeString().split(' ')[0];
+                document.querySelector('.text-sm.text-gray-400 span').textContent = `${t.lastUpdated}: January 26, 2026 ${timeString}`;
                 document.getElementById('lang-toggle').textContent = t.langToggle;
 
                 // Update section titles
@@ -245,6 +263,13 @@
                 document.querySelector('#deals h2').textContent = t.recentIPOsMA;
                 document.querySelector('#deals h3:first-of-type').textContent = t.recentUpcomingIPOs;
                 document.querySelector('#deals h3:last-of-type').textContent = t.maActivity;
+
+                // Update Market Overview text
+                document.querySelectorAll('#market-overview .grid > div').forEach((card, index) => {
+                    const item = marketData[index];
+                    card.querySelector('h3').textContent = item[currentLang].name;
+                    card.querySelector('ul').innerHTML = item[currentLang].reasons.map(reason => `<li>- ${reason}</li>`).join('');
+                });
 
                 // Populate Marquee
                 const marqueeContent = document.querySelector('.marquee-content');
@@ -256,47 +281,6 @@
                         <span class="${getColor(item.change)}">${item.change}</span>
                     </div>
                 `).join('');
-
-                // Populate Market Overview
-                const marketOverview = document.querySelector('#market-overview .grid');
-                marketOverview.innerHTML = marketData.map((item, index) => `
-                    <div class="bg-gray-800 p-4 rounded-lg">
-                        <h3 class="font-bold text-lg">${item[currentLang].name}</h3>
-                        <p class="text-2xl font-semibold">${item.price}</p>
-                        <p class="text-lg ${getColor(item.change)}">${item.change}</p>
-                        <div id="chart-${index}" class="mt-2"></div>
-                        <ul class="mt-3 text-sm text-gray-400 space-y-1">
-                            ${item[currentLang].reasons.map(reason => `<li>- ${reason}</li>`).join('')}
-                        </ul>
-                    </div>
-                `).join('');
-
-                // Render sparklines
-                marketData.forEach((item, index) => {
-                    const options = {
-                        chart: {
-                            type: 'line',
-                            height: 50,
-                            sparkline: {
-                                enabled: true
-                            }
-                        },
-                        series: [{
-                            data: generateSparklineData()
-                        }],
-                        stroke: {
-                            curve: 'smooth',
-                            width: 2
-                        },
-                        colors: [getChartColor(item.change)],
-                        tooltip: {
-                            enabled: false
-                        }
-                    };
-
-                    const chart = new ApexCharts(document.querySelector(`#chart-${index}`), options);
-                    chart.render();
-                });
 
                 // Populate News
                 const newsContainer = document.querySelector('#news .grid');
@@ -334,8 +318,8 @@
                 updateContent();
             });
 
-            // Initial content load
-            updateContent();
+            // Initial render
+            fetchMarketData();
         });
     </script>
 
