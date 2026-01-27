@@ -117,6 +117,18 @@
             };
 
             let marketData = [];
+            let marqueeData = [];
+
+            function fetchMarqueeData() {
+                return fetch('./marquee_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        marqueeData = data;
+                        populateMarquee();
+                    })
+                    .catch(error => console.error('Error fetching marquee data:', error));
+            }
+
 
             function fetchMarketData() {
                 const translationsMap = {
@@ -284,17 +296,6 @@
                     card.querySelector('ul').innerHTML = item[currentLang].reasons.map(reason => `<li>- ${reason}</li>`).join('');
                 });
 
-                // Populate Marquee
-                const marqueeContent = document.querySelector('.marquee-content');
-                const marqueeItems = [...marketData, ...marketData]; // Duplicate for seamless loop
-                marqueeContent.innerHTML = marqueeItems.map(item => `
-                    <div class="flex items-center space-x-4">
-                        <span class="font-semibold"><span class="text-nowrap">${item[currentLang].name}</span></span>
-                        <span class="${getColor(item.change)}">${item.price}</span>
-                        <span class="${getColor(item.change)}">${item.change}</span>
-                    </div>
-                `).join('');
-
                 // Populate News
                 const newsContainer = document.querySelector('#news .grid');
                 newsContainer.innerHTML = newsData.map(item => `
@@ -311,7 +312,7 @@
                     <li class="bg-gray-800 p-3 rounded-lg">
                         <p class="font-semibold">${item[currentLang].company} - ${item.valuation} (${item[currentLang].status})</p>
                         <p class="text-sm text-gray-400">${item[currentLang].details}</p>
-                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline text-xs mt-1">${t.source}: ${item.source}</a>
+                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-1 text-xs">${t.source}: ${item.source}</a>
                     </li>
                 `).join('');
 
@@ -319,20 +320,32 @@
                 const maList = document.getElementById('ma-list');
                 maList.innerHTML = maData.map(item => `
                     <li class="bg-gray-800 p-3 rounded-lg">
-                        <p class="font-semibold">${item[currentLang].deal} - ${item.value} (${item[currentLang].status})</p>
+                        <p class="font-semibold">${item[currentLang].deal} (${item[currentLang].status})</p>
                         <p class="text-sm text-gray-400">${item[currentLang].details}</p>
-                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline text-xs mt-1">${t.source}: ${item.source}</a>
+                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-1 text-xs">${t.source}: ${item.source}</a>
                     </li>
                 `).join('');
             }
 
-            document.getElementById('lang-toggle').addEventListener('click', function() {
+            function populateMarquee() {
+                const marqueeContent = document.querySelector('.marquee-content');
+                const marqueeItems = [...marqueeData, ...marqueeData]; // Duplicate for seamless loop
+                marqueeContent.innerHTML = marqueeItems.map(item => `
+                    <div class="flex items-center space-x-4">
+                        <span class="font-semibold"><span class="text-nowrap">${item.name}</span></span>
+                        <span class="${getColor(item.change)}">${item.price}</span>
+                        <span class="${getColor(item.change)}">${item.change}</span>
+                    </div>
+                `).join('');
+            }
+
+            document.getElementById('lang-toggle').addEventListener('click', () => {
                 currentLang = currentLang === 'en' ? 'zh' : 'en';
                 updateContent();
             });
 
-            // Initial render
             fetchMarketData();
+            fetchMarqueeData();
         });
     </script>
 
