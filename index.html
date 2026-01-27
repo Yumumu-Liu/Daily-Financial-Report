@@ -158,7 +158,7 @@
                     'SI=F': ['Surged along with gold as a safe-haven asset.', 'Strong investor demand amid market uncertainty.']
                 };
 
-                return fetch('market_data.json')
+                return fetch('./market_data.json')
                     .then(response => response.json())
                     .then(data => {
                         marketData = data.map(item => {
