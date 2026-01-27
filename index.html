@@ -145,6 +145,19 @@
                     'SI=F': 'Silver'
                 };
 
+                const enReasonsMap = {
+                    '^GSPC': ['Tech sector showing strong performance.', 'Good momentum despite market volatility.'],
+                    '^IXIC': ['Boosted by AI-related stocks like Nvidia.', 'Overall bullish sentiment in the tech industry.'],
+                    'JPY=X': ['Yen strengthened due to political instability in Japan.', 'Investors seeking safe haven in yen amid uncertainty.'],
+                    'CNY=X': ['Dollar weakened on concerns about Fed independence.', 'Slight gain indicates mixed market sentiment.'],
+                    'SGDCNY=X': ['Regional economic data influencing the currency pair.', 'Broader market trends affecting emerging market currencies.'],
+                    '^FVX': ['Yields dropped as investors sought safe-haven assets.', 'Geopolitical tensions increased demand for short-term bonds.'],
+                    '^TNX': ['Safe-haven demand amid global uncertainty.', 'Concerns over geopolitical events in Europe and the US.'],
+                    'BZ=F': ['Concerns about supply disruptions from Iran priced in.', 'Prices eased on prospects of increased supply from Venezuela.'],
+                    'GC=F': ['Geopolitical tensions pushed gold to record highs.', 'Weakening dollar and flight from US Treasuries.'],
+                    'SI=F': ['Surged along with gold as a safe-haven asset.', 'Strong investor demand amid market uncertainty.']
+                };
+
                 return fetch('market_data.json')
                     .then(response => response.json())
                     .then(data => {
