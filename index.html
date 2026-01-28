@@ -141,6 +141,7 @@
 
             let marketData = [];
             let marqueeData = [];
+            let newsData = [];
 
             function fetchMarqueeData() {
                 return fetch('./marquee_data.json')
@@ -150,6 +151,16 @@
                         populateMarquee();
                     })
                     .catch(error => console.error('Error fetching marquee data:', error));
+            }
+
+            function fetchNewsData() {
+                return fetch('./news_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        newsData = data;
+                        populateNews();
+                    })
+                    .catch(error => console.error('Error fetching news data:', error));
             }
 
 
@@ -214,27 +225,6 @@
                     .catch(error => console.error('Error fetching market data:', error));
             }
 
-            const newsData = [
-                {
-                    en: { title: "Wall Street Edges Higher in a Wobbly Start to 2026", summary: "U.S. stocks mostly edged higher on Wall Street in a wobbly start to the new year. The S&P 500 rose 0.2%, while the Dow Jones Industrial Average rose 0.7%. The Nasdaq composite fell less than 0.1%." },
-                    zh: { title: "华尔街在2026年开局不稳的情况下小幅走高", summary: "美国股市在新年伊始涨跌互现。标准普尔500指数上涨0.2%，道琼斯工业平均指数上涨0.7%。纳斯达克综合指数下跌不到0.1%。" },
-                    source: "AP News",
-                    sourceUrl: "https://www.usnews.com/news/business/articles/2026-01-01/shares-are-higher-in-asia-in-an-upbeat-start-to-the-new-year"
-                },
-                {
-                    en: { title: "S&P, Nasdaq futures slide to one-month lows on Greenland concerns", summary: "All three major Wall Street indexes ended Tuesday with their biggest one-day drops in three months, in a broad selloff triggered by concerns that fresh tariff threats from President Donald Trump against Europe could signal renewed market volatility." },
-                    zh: { title: "对格陵兰的担忧导致标普和纳斯达克期货跌至一个月低点", summary: "华尔街三大股指周二均创下三个月来最大单日跌幅，因市场担心美国总统唐纳德·特朗普对欧洲发出新的关税威胁可能预示着市场将再现动荡。" },
-                    source: "Reuters",
-                    sourceUrl: "https://www.reuters.com/business/sp-nasdaq-futures-slide-one-month-lows-greenland-concerns-2026-01-20/"
-                },
-                {
-                    en: { title: "Stocks and Treasuries calm after Fed indictment jitters, dollar weakens", summary: "Wall Street stock indexes and U.S. government bonds steadied on Monday as traders digested the Trump administration's threat to indict the Federal Reserve, although renewed questions about the independence of the world's most influential central bank weighed on the dollar and boosted gold." },
-                    zh: { title: "美联储遭起诉引发市场紧张情绪后，股市和国债趋于平稳，美元走弱", summary: "周一，华尔街股指和美国国债趋于稳定，交易员正在消化特朗普政府威胁起诉美联储的消息，但对这家全球最具影响力的央行独立性的再次质疑令美元承压，并提振了金价。" },
-                    source: "Reuters",
-                    sourceUrl: "https://www.reuters.com/business/finance/global-markets-global-markets-2026-01-12/"
-                }
-            ];
-
             const ipoData = [
                 { en: { company: "SpaceX", status: "Upcoming", details: "SpaceX is preparing for a possible public offering in 2026 to fund its Starship rocket, AI data centers in space, and a moon base." }, zh: { company: "SpaceX", status: "即将进行", details: "SpaceX正准备在2026年进行可能的公开募股，以为其星际飞船火箭、太空中的人工智能数据中心和月球基地提供资金。" }, valuation: "N/A", source: "Bloomberg", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
                 { en: { company: "OpenAI", status: "Upcoming", details: "OpenAI is laying the groundwork for a potential debut in late 2026 or 2027, which could be one of the largest IPOs in market history." }, zh: { company: "OpenAI", status: "即将进行", details: "OpenAI正在为可能在2026年底或2027年进行的首次亮相奠定基础，这可能成为市场历史上最大规模的IPO之一。" }, valuation: "N/A", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
@@ -294,6 +284,29 @@
                 });
             }
 
+            function populateNews() {
+                const newsSection = document.querySelector('#news .grid');
+                newsSection.innerHTML = newsData.map(item => {
+                    const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    const sourceLabel = translations[currentLang].source;
+                    // Format timestamp if available, else use publisher
+                    let dateStr = "";
+                    if (item.publish_time) {
+                        dateStr = new Date(item.publish_time * 1000).toLocaleDateString();
+                    }
+                    
+                    return `
+                    <div class="bg-gray-800 p-6 rounded-lg">
+                        <h3 class="font-bold text-xl mb-2"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></h3>
+                        <div class="text-sm text-gray-400 mt-4 flex justify-between">
+                            <span>${sourceLabel}: ${item.publisher}</span>
+                            <span>${dateStr}</span>
+                        </div>
+                    </div>
+                    `;
+                }).join('');
+            }
+
             function updateContent() {
                 const t = translations[currentLang];
                 document.title = t.title;
@@ -302,58 +315,71 @@
                 document.querySelector('h1').textContent = t.financialReport;
                 const now = new Date();
                 const timeString = now.toTimeString().split(' ')[0];
-                document.querySelector('.text-sm.text-gray-400 span').textContent = `${t.lastUpdated}: January 26, 2026 ${timeString}`;
+                document.querySelector('.text-sm.text-gray-400 span').textContent = `${t.lastUpdated}: ${now.toLocaleDateString()} ${timeString}`;
                 document.getElementById('lang-toggle').textContent = t.langToggle;
 
                 // Update section titles
                 document.querySelector('#market-overview h2').textContent = t.marketOverview;
                 document.querySelector('#news h2').textContent = t.newsAnalysis;
-                document.querySelector('#deals h2').textContent = t.recentIPOsMA;
+                // Use a more specific selector or ID for deals section title if needed, 
+                // but the previous one seemed to work: #deals > h2
+                const dealsHeader = document.querySelector('#deals > h2') || document.querySelector('#deals h2');
+                if (dealsHeader) dealsHeader.textContent = t.recentIPOsMA;
+                
                 document.querySelector('#deals h3:first-of-type').textContent = t.recentUpcomingIPOs;
                 document.querySelector('#deals h3:last-of-type').textContent = t.maActivity;
 
                 // Update Market Overview text
                 document.querySelectorAll('#market-overview .grid > div').forEach((card, index) => {
-                    const item = marketData[index];
-                    card.querySelector('h3').textContent = item[currentLang].name;
-                    card.querySelector('ul').innerHTML = item[currentLang].reasons.map(reason => `<li>- ${reason}</li>`).join('');
+                    if (marketData[index]) {
+                        const item = marketData[index];
+                        const nameEl = card.querySelector('h3');
+                        if (nameEl) nameEl.textContent = item[currentLang].name;
+                        
+                        const ulEl = card.querySelector('ul');
+                        if (ulEl) ulEl.innerHTML = item[currentLang].reasons.map(reason => `<li>- ${reason}</li>`).join('');
+                    }
                 });
 
-                // Populate News
-                const newsContainer = document.querySelector('#news .grid');
-                newsContainer.innerHTML = newsData.map(item => `
-                    <article class="bg-gray-800 p-4 rounded-lg flex flex-col h-full">
-                        <h3 class="font-bold text-xl mb-2">${item[currentLang].title}</h3>
-                        <p class="text-gray-400 flex-grow">${item[currentLang].summary}</p>
-                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-2 self-start">${t.source}: ${item.source}</a>
-                    </article>
-                `).join('');
-
-                // Populate IPOs
+                // Re-render components that depend on language
+                populateMarquee();
+                populateNews();
+                
+                // Update IPO and M&A lists (static data structure remains nested for now)
                 const ipoList = document.getElementById('ipo-list');
                 ipoList.innerHTML = ipoData.map(item => `
-                    <li class="bg-gray-800 p-3 rounded-lg">
-                        <p class="font-semibold">${item[currentLang].company} - ${item.valuation} (${item[currentLang].status})</p>
-                        <p class="text-sm text-gray-400">${item[currentLang].details}</p>
-                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-1 text-xs">${t.source}: ${item.source}</a>
+                    <li class="bg-gray-800 p-4 rounded-lg">
+                        <div class="flex justify-between items-start mb-2">
+                            <span class="font-bold text-lg">${item[currentLang].company}</span>
+                            <span class="bg-blue-900 text-blue-200 text-xs px-2 py-1 rounded">${item[currentLang].status}</span>
+                        </div>
+                        <p class="text-gray-300 text-sm mb-2">${item[currentLang].details}</p>
+                        <div class="text-xs text-gray-500 flex justify-between">
+                            <span>Valuation: ${item.valuation}</span>
+                            <span>${t.source}: <a href="${item.sourceUrl}" class="text-blue-400 hover:underline" target="_blank">${item.source}</a></span>
+                        </div>
                     </li>
                 `).join('');
 
-                // Populate M&A
                 const maList = document.getElementById('ma-list');
                 maList.innerHTML = maData.map(item => `
-                    <li class="bg-gray-800 p-3 rounded-lg">
-                        <p class="font-semibold">${item[currentLang].deal} (${item[currentLang].status})</p>
-                        <p class="text-sm text-gray-400">${item[currentLang].details}</p>
-                        <a href="${item.sourceUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-400 hover:underline mt-1 text-xs">${t.source}: ${item.source}</a>
+                    <li class="bg-gray-800 p-4 rounded-lg">
+                        <div class="flex justify-between items-start mb-2">
+                            <span class="font-bold text-lg">${item[currentLang].deal}</span>
+                            <span class="bg-green-900 text-green-200 text-xs px-2 py-1 rounded">${item[currentLang].status}</span>
+                        </div>
+                        <p class="text-gray-300 text-sm mb-2">${item[currentLang].details}</p>
+                        <div class="text-xs text-gray-500 flex justify-between">
+                            <span>Value: ${item.value}</span>
+                            <span>${t.source}: <a href="${item.sourceUrl}" class="text-blue-400 hover:underline" target="_blank">${item.source}</a></span>
+                        </div>
                     </li>
                 `).join('');
-
-                populateMarquee();
             }
 
             function populateMarquee() {
                 const marqueeContent = document.querySelector('.marquee-content');
+                if (!marqueeData.length) return;
                 const marqueeItems = [...marqueeData, ...marqueeData]; // Duplicate for seamless loop
                 marqueeContent.innerHTML = marqueeItems.map(item => {
                     let displayName = item.name;
@@ -378,6 +404,7 @@
 
             fetchMarketData();
             fetchMarqueeData();
+            fetchNewsData();
         });
     </script>
 
