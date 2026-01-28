@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yfinance
+          pip install --upgrade --force-reinstall yfinance
 
       - name: Run update scripts
         run: |
@@ -36,6 +36,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Pull latest changes to avoid conflicts
+          git pull --rebase origin main || echo "No remote changes to pull"
           git add market_data.json marquee_data.json
           # Commit only if there are changes
           git diff --staged --quiet || git commit -m "Automated market data update"

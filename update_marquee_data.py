@@ -1,6 +1,7 @@
 
 import yfinance as yf
 import json
+import time
 from pathlib import Path
 
 def update_marquee_data():
@@ -14,36 +15,52 @@ def update_marquee_data():
     
     data = []
     for ticker_symbol in all_tickers:
-        try:
-            ticker = yf.Ticker(ticker_symbol)
-            
-            # Fetch current market data
-            info = ticker.info
-            price = info.get('regularMarketPrice') or info.get('currentPrice') or info.get('previousClose')
-            
-            if price is None:
-                print(f"Error: Could not retrieve price for {ticker_symbol}. Skipping.")
-                continue
+        retries = 3
+        while retries > 0:
+            try:
+                ticker = yf.Ticker(ticker_symbol)
+                
+                # Fetch current market data
+                try:
+                    price = ticker.fast_info.last_price
+                    prev_close = ticker.fast_info.previous_close
+                except:
+                    info = ticker.info
+                    price = info.get('regularMarketPrice') or info.get('currentPrice') or info.get('previousClose')
+                    prev_close = info.get('previousClose')
+                
+                if price is None:
+                    print(f"Error: Could not retrieve price for {ticker_symbol}.")
+                    raise ValueError("Price is None")
 
-            prev_close = info.get('previousClose')
-            if prev_close is None:
-                 print(f"Warning: No previous close for {ticker_symbol}, change will be 0.")
-                 change = 0
-            else:
-                change = price - prev_close
-            
-            # Use shortName for display, fallback to symbol
-            name = info.get('shortName', ticker_symbol)
+                if prev_close is None:
+                     print(f"Warning: No previous close for {ticker_symbol}, change will be 0.")
+                     change = 0
+                else:
+                    change = price - prev_close
+                
+                # Use shortName for display, fallback to symbol
+                try:
+                     name = ticker.info.get('shortName', ticker_symbol)
+                except:
+                     name = ticker_symbol
 
-            # Prepare the data structure
-            data.append({
-                "symbol": ticker_symbol,
-                "name": name,
-                "price": f"{price:,.2f}",
-                "change": f"{change:+.2f}",
-            })
-        except Exception as e:
-            print(f"An error occurred while fetching data for {ticker_symbol}: {e}")
+                # Prepare the data structure
+                data.append({
+                    "symbol": ticker_symbol,
+                    "name": name,
+                    "price": f"{price:,.2f}",
+                    "change": f"{change:+.2f}",
+                })
+                break
+            except Exception as e:
+                print(f"Error fetching {ticker_symbol}: {e}. Retries left: {retries-1}")
+                retries -= 1
+                time.sleep(2)
+
+    if not data:
+        print("Error: No data fetched. Aborting update.")
+        exit(1)
 
     # Define the output path relative to the script's location
     output_path = Path(__file__).parent / 'marquee_data.json'

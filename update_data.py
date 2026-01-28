@@ -1,6 +1,7 @@
 
 import yfinance as yf
 import json
+import time
 from pathlib import Path
 
 def update_market_data():
@@ -15,44 +16,59 @@ def update_market_data():
     
     data = []
     for ticker_symbol in tickers:
-        try:
-            ticker = yf.Ticker(ticker_symbol)
-            
-            # Fetch historical data for the sparkline chart (1 month)
-            hist = ticker.history(period="1mo")
-            if hist.empty:
-                print(f"Warning: No history found for {ticker_symbol}, skipping sparkline.")
-                sparkline = []
-            else:
-                sparkline = hist['Close'].tolist()
+        retries = 3
+        while retries > 0:
+            try:
+                ticker = yf.Ticker(ticker_symbol)
+                
+                # Fetch historical data for the sparkline chart (1 month)
+                hist = ticker.history(period="1mo")
+                if hist.empty:
+                    print(f"Warning: No history found for {ticker_symbol}, skipping sparkline.")
+                    sparkline = []
+                else:
+                    sparkline = hist['Close'].tolist()
 
-            # Fetch current market data
-            info = ticker.info
-            price = info.get('regularMarketPrice') or info.get('currentPrice') or info.get('previousClose')
-            
-            if price is None:
-                print(f"Error: Could not retrieve price for {ticker_symbol}. Skipping.")
-                continue
+                # Fetch current market data
+                # Try fast_info first as it's often more reliable/faster
+                try:
+                    price = ticker.fast_info.last_price
+                    prev_close = ticker.fast_info.previous_close
+                except:
+                    info = ticker.info
+                    price = info.get('regularMarketPrice') or info.get('currentPrice') or info.get('previousClose')
+                    prev_close = info.get('previousClose')
 
-            prev_close = info.get('previousClose')
-            if prev_close is None:
-                 print(f"Warning: No previous close for {ticker_symbol}, change will be 0.")
-                 change = 0
-            else:
-                change = price - prev_close
+                if price is None:
+                    print(f"Error: Could not retrieve price for {ticker_symbol}.")
+                    raise ValueError("Price is None")
 
-            change_percent = (change / prev_close) * 100 if prev_close else 0
+                if prev_close is None:
+                     print(f"Warning: No previous close for {ticker_symbol}, change will be 0.")
+                     change = 0
+                     prev_close = price # Avoid division by zero
+                else:
+                    change = price - prev_close
 
-            # Prepare the data structure
-            data.append({
-                "symbol": ticker_symbol,
-                "price": f"{price:,.2f}",
-                "change": f"{change:+.2f}",
-                "changePercent": f"{change_percent:+.2f}%",
-                "sparkline": sparkline,
-            })
-        except Exception as e:
-            print(f"An error occurred while fetching data for {ticker_symbol}: {e}")
+                change_percent = (change / prev_close) * 100 if prev_close else 0
+
+                # Prepare the data structure
+                data.append({
+                    "symbol": ticker_symbol,
+                    "price": f"{price:,.2f}",
+                    "change": f"{change:+.2f}",
+                    "changePercent": f"{change_percent:+.2f}%",
+                    "sparkline": sparkline,
+                })
+                break # Success, exit retry loop
+            except Exception as e:
+                print(f"Error fetching {ticker_symbol}: {e}. Retries left: {retries-1}")
+                retries -= 1
+                time.sleep(2) # Wait before retry
+    
+    if not data:
+        print("Error: No data fetched. Aborting update.")
+        exit(1)
 
     # Define the output path relative to the script's location
     output_path = Path(__file__).parent / 'market_data.json'
