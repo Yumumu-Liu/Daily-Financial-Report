@@ -4,6 +4,14 @@ import time
 from pathlib import Path
 from deep_translator import GoogleTranslator
 from datetime import datetime
+import re
+
+def clean_html(raw_html):
+    if not raw_html:
+        return ""
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext.strip()
 
 def parse_iso_date(date_str):
     try:
@@ -35,7 +43,7 @@ def fetch_news(tickers, limit=10, keywords=None):
                     # New structure
                     content = item['content']
                     title = content.get('title')
-                    summary = content.get('summary') or content.get('description')
+                    summary = clean_html(content.get('summary') or content.get('description'))
                     
                     # Try to find link
                     if content.get('clickThroughUrl'):
@@ -54,7 +62,7 @@ def fetch_news(tickers, limit=10, keywords=None):
                     link = item.get('link')
                     publisher = item.get('publisher')
                     publish_time = item.get('providerPublishTime')
-                    summary = item.get('summary')
+                    summary = clean_html(item.get('summary'))
 
                 # Validation
                 if not title or not link:

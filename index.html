@@ -377,7 +377,7 @@
                     return `
                     <div class="bg-gray-800 p-6 rounded-lg h-full flex flex-col">
                         <h3 class="font-bold text-xl mb-2"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></h3>
-                        ${summary ? `<p class="text-gray-300 text-sm mb-4 line-clamp-5 flex-grow">${summary}</p>` : '<div class="flex-grow"></div>'}
+                        ${summary ? `<div class="text-gray-300 text-sm mb-4 line-clamp-5 flex-grow">${summary}</div>` : '<div class="flex-grow"></div>'}
                         <div class="text-sm text-gray-400 mt-auto flex justify-between">
                             <a href="${item.link}" target="_blank" class="hover:text-blue-400 hover:underline">
                                 ${sourceLabel}: ${item.publisher}
