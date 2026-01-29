@@ -58,13 +58,13 @@
             <h2 class="text-3xl font-bold mb-4">Recent IPOs & M&A</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
-                    <h3 class="text-2xl font-semibold mb-3">Recent & Upcoming IPOs</h3>
+                    <h3 id="ipo-header" class="text-2xl font-semibold mb-3">Recent & Upcoming IPOs</h3>
                     <ul id="ipo-list" class="space-y-4">
                         <!-- IPO items will be injected here -->
                     </ul>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-semibold mb-3">M&A Activity</h3>
+                    <h3 id="ma-header" class="text-2xl font-semibold mb-3">M&A Activity</h3>
                     <ul id="ma-list" class="space-y-4">
                         <!-- M&A items will be injected here -->
                     </ul>
@@ -369,10 +369,10 @@
                     }
                     
                     return `
-                    <div class="bg-gray-800 p-6 rounded-lg">
+                    <div class="bg-gray-800 p-6 rounded-lg h-full flex flex-col">
                         <h3 class="font-bold text-xl mb-2"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></h3>
-                        ${summary ? `<p class="text-gray-300 text-sm mb-4 line-clamp-3">${summary}</p>` : ''}
-                        <div class="text-sm text-gray-400 mt-4 flex justify-between">
+                        ${summary ? `<p class="text-gray-300 text-sm mb-4 line-clamp-5 flex-grow">${summary}</p>` : '<div class="flex-grow"></div>'}
+                        <div class="text-sm text-gray-400 mt-auto flex justify-between">
                             <a href="${item.link}" target="_blank" class="hover:text-blue-400 hover:underline">
                                 ${sourceLabel}: ${item.publisher}
                             </a>
@@ -397,13 +397,12 @@
                 // Update section titles
                 document.querySelector('#market-overview h2').textContent = t.marketOverview;
                 document.querySelector('#news h2').textContent = t.newsAnalysis;
-                // Use a more specific selector or ID for deals section title if needed, 
-                // but the previous one seemed to work: #deals > h2
+                
                 const dealsHeader = document.querySelector('#deals > h2') || document.querySelector('#deals h2');
                 if (dealsHeader) dealsHeader.textContent = t.recentIPOsMA;
                 
-                document.querySelector('#deals h3:first-of-type').textContent = t.recentUpcomingIPOs;
-                document.querySelector('#deals h3:last-of-type').textContent = t.maActivity;
+                document.getElementById('ipo-header').textContent = t.recentUpcomingIPOs;
+                document.getElementById('ma-header').textContent = t.maActivity;
 
                 // Update Market Overview text
                 document.querySelectorAll('#market-overview .grid > div').forEach((card, index) => {
