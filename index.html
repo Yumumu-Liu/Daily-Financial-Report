@@ -257,6 +257,7 @@
                 }
                 ipoList.innerHTML = ipoData.map(item => {
                     const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    const summary = currentLang === 'zh' ? (item.summary_zh || item.summary) : item.summary;
                     let dateStr = "";
                     if (item.publish_time) {
                         dateStr = new Date(item.publish_time * 1000).toLocaleDateString();
@@ -266,9 +267,12 @@
                         <div class="mb-2">
                             <span class="font-bold text-lg"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></span>
                         </div>
+                        ${summary ? `<p class="text-gray-300 text-sm mb-2 line-clamp-2">${summary}</p>` : ''}
                         <div class="text-xs text-gray-500 flex justify-between mt-2">
                             <span>${dateStr}</span>
-                            <span>${t.source}: ${item.publisher}</span>
+                            <a href="${item.link}" target="_blank" class="hover:text-blue-400 hover:underline">
+                                ${t.source}: ${item.publisher}
+                            </a>
                         </div>
                     </li>
                     `;
@@ -284,6 +288,7 @@
                 }
                 maList.innerHTML = maData.map(item => {
                     const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    const summary = currentLang === 'zh' ? (item.summary_zh || item.summary) : item.summary;
                     let dateStr = "";
                     if (item.publish_time) {
                         dateStr = new Date(item.publish_time * 1000).toLocaleDateString();
@@ -293,9 +298,12 @@
                         <div class="mb-2">
                             <span class="font-bold text-lg"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></span>
                         </div>
+                        ${summary ? `<p class="text-gray-300 text-sm mb-2 line-clamp-2">${summary}</p>` : ''}
                         <div class="text-xs text-gray-500 flex justify-between mt-2">
                             <span>${dateStr}</span>
-                            <span>${t.source}: ${item.publisher}</span>
+                            <a href="${item.link}" target="_blank" class="hover:text-blue-400 hover:underline">
+                                ${t.source}: ${item.publisher}
+                            </a>
                         </div>
                     </li>
                     `;
@@ -352,6 +360,7 @@
                 const newsSection = document.querySelector('#news .grid');
                 newsSection.innerHTML = newsData.map(item => {
                     const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    const summary = currentLang === 'zh' ? (item.summary_zh || item.summary) : item.summary;
                     const sourceLabel = translations[currentLang].source;
                     // Format timestamp if available, else use publisher
                     let dateStr = "";
@@ -362,8 +371,11 @@
                     return `
                     <div class="bg-gray-800 p-6 rounded-lg">
                         <h3 class="font-bold text-xl mb-2"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></h3>
+                        ${summary ? `<p class="text-gray-300 text-sm mb-4 line-clamp-3">${summary}</p>` : ''}
                         <div class="text-sm text-gray-400 mt-4 flex justify-between">
-                            <span>${sourceLabel}: ${item.publisher}</span>
+                            <a href="${item.link}" target="_blank" class="hover:text-blue-400 hover:underline">
+                                ${sourceLabel}: ${item.publisher}
+                            </a>
                             <span>${dateStr}</span>
                         </div>
                     </div>

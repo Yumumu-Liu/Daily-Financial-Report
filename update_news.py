@@ -29,11 +29,13 @@ def fetch_news(tickers, limit=10, keywords=None):
                 link = None
                 publisher = None
                 publish_time = 0
+                summary = None
 
                 if 'content' in item and isinstance(item['content'], dict):
                     # New structure
                     content = item['content']
                     title = content.get('title')
+                    summary = content.get('summary') or content.get('description')
                     
                     # Try to find link
                     if content.get('clickThroughUrl'):
@@ -52,6 +54,7 @@ def fetch_news(tickers, limit=10, keywords=None):
                     link = item.get('link')
                     publisher = item.get('publisher')
                     publish_time = item.get('providerPublishTime')
+                    summary = item.get('summary')
 
                 # Validation
                 if not title or not link:
@@ -75,9 +78,21 @@ def fetch_news(tickers, limit=10, keywords=None):
                     print(f"Translation failed for '{title}': {e}")
                     title_zh = title 
 
+                # Translate summary
+                summary_zh = ""
+                if summary:
+                    try:
+                        # Truncate summary to avoid too long translation requests
+                        summary_zh = translator.translate(summary[:900])
+                    except Exception as e:
+                        print(f"Translation failed for summary: {e}")
+                        summary_zh = summary
+
                 all_news.append({
                     'title': title,
                     'title_zh': title_zh,
+                    'summary': summary,
+                    'summary_zh': summary_zh,
                     'link': link,
                     'publisher': publisher,
                     'publish_time': publish_time,
