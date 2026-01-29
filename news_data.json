@@ -1,10 +1,10 @@
 [
     {
-        "title": "Caterpillar stock surges on revenue and earnings beats, demand for power-generation equipment",
-        "title_zh": "卡特彼勒股价因收入和盈利增长以及对发电设备的需求而飙升",
+        "title": "Caterpillar stock rises on revenue and earnings beats, demand for power-generation equipment",
+        "title_zh": "卡特彼勒股价因收入和盈利增长以及对发电设备的需求而上涨",
         "summary": "Caterpillar stock surged on Thursday after fourth quarter earnings showed even more demand for the power generation equipment required to power AI buildouts.",
         "summary_zh": "卡特彼勒股价周四飙升，此前第四季度财报显示，对人工智能扩建所需的发电设备的需求更大。",
-        "link": "https://finance.yahoo.com/news/caterpillar-stock-surges-on-revenue-and-earnings-beats-demand-for-power-generation-equipment-155829055.html",
+        "link": "https://finance.yahoo.com/news/caterpillar-stock-rises-on-revenue-and-earnings-beats-demand-for-power-generation-equipment-155829983.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1769673509,
         "type": "News"
@@ -12,18 +12,18 @@
     {
         "title": "Analysis-Is chip giant ASML about to hit a ceiling, or break through it?",
         "title_zh": "分析——芯片巨头ASML即将触顶天花板，还是突破天花板？",
-        "summary": "ASML's latest results reignited the rally that has made it Europe's most valuable company, until questions about its capacity to meet record orders sent the stock sliding - highlighting just how stretched ​expectations have become.  The whipsaw trading underscores how the firm, whose tools are used by chipmakers such as Taiwan's TSMC to produce AI chips for Nvidia, is testing the ‌limits of investor appetite.  ASML shares are up 34% so far this month and trade at 42 times 2026 earnings estimates, well above Nvidia's 25 times, as analysts have ratcheted up forecasts.",
-        "summary_zh": "ASML 的最新业绩重新点燃了涨势，使其成为欧洲最有价值的公司，直到对其满足创纪录订单的能力的质疑导致该股下跌 - 凸显了预期已经变得多么高。  洗盘交易突显出该公司正在测试投资者兴趣的极限。台湾台积电等芯片制造商使用该公司的工具为英伟达生产人工智能芯片。  本月到目前为止，ASML 股价已上涨 34%，其 2026 年盈利预期市盈率为 42 倍，远高于英伟达的 25 倍，因为分析师上调了预期。",
-        "link": "https://finance.yahoo.com/news/analysis-chip-giant-asml-hit-154606088.html",
+        "summary": "ASML's latest results reignited the rally that has made it Europe's most valuable company, until questions about its capacity to meet record orders sent the stock sliding - highlighting just how stretched ​expectations have become.",
+        "summary_zh": "ASML 的最新业绩重新点燃了涨势，使其成为欧洲最有价值的公司，直到对其满足创纪录订单的能力的质疑导致该股下跌 - 凸显了预期已经变得多么高。",
+        "link": "https://finance.yahoo.com/news/analysis-chip-giant-asml-hit-155536952.html",
         "publisher": "Reuters",
-        "publish_time": 1769672766,
+        "publish_time": 1769673336,
         "type": "News"
     },
     {
         "title": "Tesla Q4 earnings: 3 key takeaways",
         "title_zh": "特斯拉第四季度收益：3 个关键要点",
-        "summary": "Tesla (TSLA) reported earnings that topped fourth quarter estimates. The company also plans to spend $20 billion on artificial intelligence (AI) capital expenditures (CapEx) this year.Yahoo Finance Senior Autos Reporter Pras Subramanian outlines the details.To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.",
-        "summary_zh": "特斯拉 (TSLA) 公布的第四季度盈利超出预期。该公司还计划今年在人工智能 (AI) 资本支出 (CapEx) 上投入 200 亿美元。雅虎财经高级汽车记者 Pras Subramanian 概述了详细信息。要观看更多专家对最新市场走势的见解和分析，请查看更多 Morning Brief。",
+        "summary": "Tesla (TSLA) reported earnings that topped fourth quarter estimates.",
+        "summary_zh": "特斯拉 (TSLA) 公布的第四季度盈利超出预期。",
         "link": "https://finance.yahoo.com/video/tesla-q4-earnings-3-key-takeaways-153845395.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1769672325,
@@ -32,8 +32,8 @@
     {
         "title": "Zuckerberg, Musk Vie for AI Primacy With $155 Billion Spree",
         "title_zh": "扎克伯格、马斯克斥资 1550 亿美元争夺 AI 主导地位",
-        "summary": "Tesla Inc. will spend $20 billion this year on pursuits including AI, self-driving vehicles and robotics — almost double Wall Street estimates — and plow another $2 billion into Chief Executive Officer Elon Musk’s xAI startup.  Musk also said Tesla needs to build its own semiconductor factory.",
-        "summary_zh": "特斯拉公司今年将斥资 200 亿美元用于人工智能、自动驾驶汽车和机器人等领域，几乎是华尔街预期的两倍，并将另外投入 20 亿美元用于首席执行官埃隆·马斯克 (Elon Musk) 的 xAI 初创公司。  马斯克还表示，特斯拉需要建立自己的半导体工厂。",
+        "summary": "Tesla Inc. will spend $20 billion this year on pursuits including AI, self-driving vehicles and robotics — almost double Wall Street estimates — and plow another $2 billion into Chief Executive Officer Elon Musk’s xAI startup.",
+        "summary_zh": "特斯拉公司今年将斥资 200 亿美元用于人工智能、自动驾驶汽车和机器人等领域，几乎是华尔街预期的两倍，并将另外投入 20 亿美元用于首席执行官埃隆·马斯克 (Elon Musk) 的 xAI 初创公司。",
         "link": "https://finance.yahoo.com/news/samsung-chip-profit-soars-ai-224818003.html",
         "publisher": "Bloomberg",
         "publish_time": 1769670609,
@@ -62,8 +62,8 @@
     {
         "title": "Microsoft stock falls around CapEx spending concerns: Earnings",
         "title_zh": "微软股价因资本支出担忧而下跌：收益",
-        "summary": "Microsoft (MSFT) reported fiscal second quarter results, with adjusted earnings of $5.16 per share and revenue figures ($81.27 billion vs. estimates of $80.31 billion) that topped Wall Street expectations. The stock continues to drop in Thursday's pre-market trading.Yahoo Finance Tech Editor Dan Howley outlines the biggest concerns that investors saw in Microsoft's earnings results, including slowing cloud sales growth and its CapEx spending.To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.",
-        "summary_zh": "微软 (MSFT) 公布了第二财季业绩，调整后每股收益为 5.16 美元，营收数据（812.7 亿美元，预期为 803.1 亿美元）超出了华尔街预期。该股在周四的盘前交易中继续下跌。雅虎财经技术编辑 Dan Howley 概述了投资者对微软盈利业绩的最大担忧，包括云销售增长放缓和资本支出支出。要观看有关最新市场走势的更多专家见解和分析，请查看更多早间简报。",
+        "summary": "Microsoft (MSFT) reported fiscal second quarter results, with adjusted earnings of $5.16 per share and revenue figures ($81.27 billion vs. estimates of $80.31 billion) that topped Wall Street expectations.",
+        "summary_zh": "微软 (MSFT) 公布了第二财季业绩，调整后每股收益为 5.16 美元，营收数据（812.7 亿美元，预期为 803.1 亿美元）超出了华尔街预期。",
         "link": "https://finance.yahoo.com/video/microsoft-stock-falls-around-capex-spending-concerns-earnings-142107561.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1769667667,
@@ -72,8 +72,8 @@
     {
         "title": "Tesla's Optimus 3 will 'move the needle' for US GDP: Elon Musk",
         "title_zh": "埃隆·马斯克：特斯拉的 Optimus 3 将“推动”美国 GDP",
-        "summary": "Tesla (TSLA) released fourth quarter results after Wednesday's market close, reporting adjusted earnings of $0.50 per share compared to estimates of $0.45 and revenue of $24.90 billion versus estimates of $25.11 billion.In Wednesday's earnings call, Tesla CEO Elon Musk expanded upon his vision for the company's Optimus 3 humanoid robot.Watch the video above to hear more.To watch more expert insights and analysis on the latest market action, check out Yahoo Finance.",
-        "summary_zh": "特斯拉 (TSLA) 在周三收盘后发布了第四季度业绩，报告调整后每股收益为 0.50 美元，而预期为 0.45 美元；收入为 249 亿美元，而预期为 251.1 亿美元。在周三的财报电话会议上，特斯拉首席执行官埃隆·马斯克阐述了他对该公司 Optimus 3 人形机器人的愿景。观看上面的视频以了解更多信息。要观看更多专家对最新市场行动的见解和分析，请查看雅虎财经。",
+        "summary": "Tesla (TSLA) released fourth quarter results after Wednesday's market close, reporting adjusted earnings of $0.50 per share compared to estimates of $0.45 and revenue of $24.90 billion versus estimates of $25.11 billion.In Wednesday's earnings call, Tesla CEO Elon Musk expande...",
+        "summary_zh": "特斯拉 (TSLA) 在周三收盘后发布了第四季度业绩，报告调整后每股收益为 0.50 美元，而预期为 0.45 美元；营收为 249 亿美元，而预期为 251.1 亿美元。",
         "link": "https://finance.yahoo.com/video/teslas-optimus-3-will-move-the-needle-for-us-gdp-elon-musk-135918130.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1769666358,

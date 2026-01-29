@@ -13,6 +13,31 @@ def clean_html(raw_html):
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext.strip()
 
+def smart_truncate(text, max_chars):
+    if not text:
+        return ""
+    if len(text) <= max_chars:
+        return text
+    
+    # Try to split by sentences (period followed by space)
+    # This is a simple approximation
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    result = ""
+    
+    for s in sentences:
+        if len(result) + len(s) + 1 <= max_chars:
+            result += s + " "
+        else:
+            break
+            
+    result = result.strip()
+    
+    # Fallback if even the first sentence is too long or no sentences found
+    if not result:
+        return text[:max_chars-3] + "..."
+        
+    return result
+
 def parse_iso_date(date_str):
     try:
         # Example: 2026-01-26T14:30:00Z
@@ -97,12 +122,19 @@ def fetch_news(tickers, limit=10, keywords=None):
                     print(f"Translation failed for '{title}': {e}")
                     title_zh = title 
 
+                # Truncate summary before translation to keep it short and save tokens
+                # Target ~5 lines: 280 chars for English
+                if summary:
+                    summary = smart_truncate(summary, 280)
+
                 # Translate summary
                 summary_zh = ""
                 if summary:
                     try:
-                        # Truncate summary to avoid too long translation requests
-                        summary_zh = translator.translate(summary[:900])
+                        # Translate the already truncated summary
+                        summary_zh = translator.translate(summary)
+                        # Truncate Chinese summary as well (~140 chars)
+                        summary_zh = smart_truncate(summary_zh, 140)
                     except Exception as e:
                         print(f"Translation failed for summary: {e}")
                         summary_zh = summary
