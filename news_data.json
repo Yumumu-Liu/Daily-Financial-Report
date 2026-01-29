@@ -1,25 +1,5 @@
 [
     {
-        "title": "3 Top AI Stocks for Gen Z Investors to Consider Buying Now",
-        "title_zh": "Z 世代投资者现在可以考虑购买的 3 只顶级人工智能股票",
-        "summary": "Buy small stakes in these stocks and hold them for the long run.",
-        "summary_zh": "购买这些股票的少量股份并长期持有。",
-        "link": "https://finance.yahoo.com/news/3-top-ai-stocks-gen-113500836.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1769657700,
-        "type": "News"
-    },
-    {
-        "title": "Dow Jones Futures Rise As Meta Jumps, Microsoft Slumps; Elon Musk Plans Tesla CapEx Surge",
-        "title_zh": "道琼斯期货上涨，Meta 上涨，微软暴跌；埃隆·马斯克计划大幅增加特斯拉资本支出",
-        "summary": "Tesla, Microsoft and Meta headlined huge earnings late after the stock market paused at record highs.",
-        "summary_zh": "在股市创下历史新高后，特斯拉、微软和 Meta 均在尾盘公布了巨额盈利。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-meta-microsoft-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1769657687,
-        "type": "News"
-    },
-    {
         "title": "Apple's Q1 earnings: Why expectations are 'reasonably high'",
         "title_zh": "苹果第一季度收益：为何预期“相当高”",
         "summary": "Apple (AAPL) reports first quarter earnings results this Thursday, Jan. 29 after markets close.KeyBanc Capital Markets equity research analyst Brandon Nispel joins Market Catalysts host Julie Hyman to discuss the upcoming earnings print.To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
@@ -40,26 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Why Taiwan Semiconductor Manufacturing Stock Could Be the Best AI Value on the Market",
-        "title_zh": "为什么台积电股票可能是市场上最具人工智能价值的股票",
-        "summary": "It has tons of opportunity and a solid, reliable business.",
-        "summary_zh": "它拥有大量的机会和稳固、可靠的业务。",
-        "link": "https://finance.yahoo.com/news/why-taiwan-semiconductor-manufacturing-stock-112000820.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1769656800,
-        "type": "News"
-    },
-    {
-        "title": "Nokia Q4 Earnings Call Highlights",
-        "title_zh": "诺基亚第四季度财报电话会议亮点",
-        "summary": "Nokia (NYSE:NOK) reported fourth-quarter and full-year 2025 results that management said were in line with expectations, citing disciplined execution and progress on strategic repositioning. The company posted fourth-quarter net sales of EUR 6.1 billion, up 3% year-over-year, with operating profit o",
-        "summary_zh": "诺基亚 (NYSE:NOK) 公布了 2025 年第四季度和全年业绩，管理层称其符合预期，理由是严格的执行和战略重新定位的进展。该公司第四季度净销售额为 61 亿欧元，同比增长 3%，营业利润为",
-        "link": "https://finance.yahoo.com/news/nokia-q4-earnings-call-highlights-110654771.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1769656014,
-        "type": "News"
-    },
-    {
         "title": "Zuckerberg, Musk Vie for AI Supremacy With $155 Billion Splurge",
         "title_zh": "扎克伯格、马斯克斥资 1550 亿美元争夺人工智能霸主地位",
         "summary": "Tesla Inc. will spend $20 billion this year on pursuits including AI, self-driving vehicles and robotics - almost double Wall Street estimates — and plow another $2 billion into Chief Executive Officer Elon Musk’s xAI startup.  Musk also said Tesla needs to build its own semiconductor factory.",
@@ -77,6 +37,46 @@
         "link": "https://finance.yahoo.com/news/bank-of-england-uk-stablecoin-tokenisation-plan-105513598.html",
         "publisher": "Yahoo Finance UK",
         "publish_time": 1769655313,
+        "type": "News"
+    },
+    {
+        "title": "Samsung, SK Hynix warn of squeezed chip supplies for PCs, phones due to AI boom",
+        "title_zh": "三星、SK 海力士警告称，由于人工智能的蓬勃发展，个人电脑和手机的芯片供应将受到挤压",
+        "summary": "Two of the world's top chipmakers warned on Thursday that computer and smartphone companies were set to bear the brunt of a worsening shortage of DRAM chips used in ​their products, as the makers prioritise demand for more lucrative chips required to build AI infrastructure.  The warnings by Samsung Electronics ‌and SK Hynix, which control two thirds of the DRAM chip market and count the likes of Apple as customers, underscore growing margin pressure on consumer electronics makers ‌and potential supply chain disruptions.  \"PC and mobile customers are having difficulties securing memory supplies, as they are being directly and indirectly affected by supply constraints and strong demand for server-related products,\" Park Joon Deok, head of DRAM marketing at SK Hynix, told analysts on a post-earnings call.",
+        "summary_zh": "全球两家顶级芯片制造商周四警告称，计算机和智能手机公司将首当其冲地承受其产品中使用的 DRAM 芯片日益短缺的冲击，因为制造商优先考虑构建人工智能基础设施所需的利润更高的芯片的需求。  三星电子和 SK 海力士控制着三分之二的 DRAM 芯片市场，并将苹果等公司视为客户，它们的警告凸显了消费电子制造商日益增长的利润压力以及潜在的供应链中断。  SK 海力士 DRAM 营销主管 Park Joon Deok 在财报后电话会议上对分析师表示：“PC 和移动客户在确保内存供应方面遇到困难，因为他们直接或间接受到供应限制和服务器相关产品强劲需求的影响。”",
+        "link": "https://finance.yahoo.com/news/samsung-sk-hynix-warn-squeezed-102533740.html",
+        "publisher": "Reuters",
+        "publish_time": 1769653533,
+        "type": "News"
+    },
+    {
+        "title": "Memory Maker Kioxia Names New CEO to Navigate AI Chip Boom",
+        "title_zh": "内存制造商 Kioxia 任命新首席执行官以引领 AI 芯片热潮",
+        "summary": "Oota, 63, will succeed Nobuo Hayasaka, 70, who will become a senior executive adviser.  The leadership change will take effect following shareholder approval at the company’s annual meeting scheduled for June, the Apple Inc. supplier said in a statement Thursday.",
+        "summary_zh": "63 岁的大田将接替 70 岁的早坂伸男，后者将成为高级执行顾问。  苹果公司供应商周四在一份声明中表示，领导层变动将在定于 6 月举行的公司年会上获得股东批准后生效。",
+        "link": "https://finance.yahoo.com/news/memory-maker-kioxia-names-ceo-045601151.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1769651720,
+        "type": "News"
+    },
+    {
+        "title": "Trending tickers: Meta, Microsoft, Tesla, IBM and EasyJet",
+        "title_zh": "热门股票：Meta、微软、特斯拉、IBM 和 EasyJet",
+        "summary": "The latest investor updates on stocks that are trending on Thursday.",
+        "summary_zh": "投资者对周四趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/meta-microsoft-tesla-ibm-easyjet-trending-tickers-093520763.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1769650520,
+        "type": "News"
+    },
+    {
+        "title": "Tesla earnings call: Musk explains 'amazing abundance' mission",
+        "title_zh": "特斯拉财报电话会议：马斯克解释“惊人的丰富”使命",
+        "summary": "Tesla (TSLA) released fourth quarter results after Wednesday's market close, reporting adjusted earnings of $0.50 per share compared to estimates of $0.45 and revenue of $24.90 billion versus estimates of $25.11 billion.In Wednesday's earnings call, Tesla CEO Elon Musk explained the reasoning behind the company's new mission statement: \"amazing abundance.\"Watch the video above to hear more.To watch more expert insights and analysis on the latest market action, check out Yahoo Finance.",
+        "summary_zh": "特斯拉 (TSLA) 在周三收盘后发布了第四季度业绩，报告调整后每股收益为 0.50 美元，而预期为 0.45 美元；收入为 249 亿美元，而预期为 251.1 亿美元。在周三的财报电话会议上，特斯拉首席执行官埃隆·马斯克解释了公司新使命宣言背后的原因：“惊人的丰富。”观看上面的视频以了解更多信息。要观看更多关于最新市场行为的专家见解和分析，请查看雅虎财经。",
+        "link": "https://finance.yahoo.com/video/tesla-earnings-call-musk-explains-amazing-abundance-mission-233551778.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1769614551,
         "type": "News"
     }
 ]

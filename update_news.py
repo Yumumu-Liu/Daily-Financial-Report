@@ -60,6 +60,17 @@ def fetch_news(tickers, limit=10, keywords=None):
                 if not title or not link:
                     continue
                 
+                # Publisher Filtering
+                # User requested: Yahoo, Reuters, Bloomberg
+                allowed_providers = ['yahoo', 'reuters', 'bloomberg']
+                if not publisher:
+                    continue
+                    
+                pub_lower = publisher.lower()
+                if not any(p in pub_lower for p in allowed_providers):
+                    # print(f"Skipping publisher: {publisher}")
+                    continue
+
                 # Deduplication
                 if title in seen_titles:
                     continue
