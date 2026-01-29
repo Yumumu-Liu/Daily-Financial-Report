@@ -1,1 +1,52 @@
-[]
+[
+    {
+        "title": "Oracle Data Center Power Outage Disrupts TikTok For Users In US Days After App's High-Stakes Joint Venture Deal",
+        "title_zh": "在应用程序达成高风险合资交易后几天，甲骨文数据中心停电导致 TikTok 用户中断",
+        "summary": "A weather-related power outage at an Oracle Corp. (NYSE:ORCL) data center caused technical disruptions for TikTok's U.S. users days after the app shifted its American operations to new U.S.-led ownership.",
+        "summary_zh": "甲骨文公司（纽约证券交易所股票代码：ORCL）数据中心因天气原因停电，导致 TikTok 美国用户的技术中断。几天前，该应用程序将其美国业务转移到美国主导的新所有权之下。",
+        "link": "https://finance.yahoo.com/news/oracle-data-center-power-outage-160108690.html",
+        "publisher": "Benzinga",
+        "publish_time": 1769673668,
+        "type": "News"
+    },
+    {
+        "title": "Citizens Analyst Report Says Sprinklr (CXM) Could Be a Future Acquisition Target",
+        "title_zh": "Citizens 分析师报告称 Sprinklr (CXM) 可能成为未来的收购目标",
+        "summary": "Sprinklr Inc. (NYSE:CXM) is one of the Best Tech Stocks Under $10 to Buy, at least based on a bullish analysis report from Citizens.",
+        "summary_zh": "Sprinklr Inc.（纽约证券交易所股票代码：CXM）是 10 美元以下最值得买入的科技股之一，至少根据 Citizens 的看涨分析报告来看是这样。",
+        "link": "https://finance.yahoo.com/news/citizens-analyst-report-says-sprinklr-154546995.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1769672746,
+        "type": "News"
+    },
+    {
+        "title": "Oracle TikTok Deal Recasts Cloud Role And Data Oversight Risks",
+        "title_zh": "Oracle TikTok 交易重塑了云角色和数据监管风险",
+        "summary": "Oracle, NYSE:ORCL, has finalized its investment and operational role in a new U.S.-based TikTok joint venture. The agreement expands Oracle's responsibilities for storing and securing TikTok's U.S. user data.",
+        "summary_zh": "甲骨文（纽约证券交易所股票代码：ORCL）已敲定其在一家新的美国 TikTok 合资企业中的投资和运营角色。该协议扩大了甲骨文存储和保护 TikTok 美国用户数据的责任。",
+        "link": "https://finance.yahoo.com/news/oracle-tiktok-deal-recasts-cloud-111140525.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769656300,
+        "type": "News"
+    },
+    {
+        "title": "KKR enters $1.4bn deal to sell Goodpack stake back to founding family – report",
+        "title_zh": "KKR 达成 14 亿美元协议，将 Goodpack 股份出售给创始家族 - 报告",
+        "summary": "KKR’s decision to divest comes after it explored options for selling the reusable bulk container provider in October 2024.",
+        "summary_zh": "KKR 在探索 2024 年 10 月出售这家可重复使用散装集装箱供应商的选择后，做出了剥离的决定。",
+        "link": "https://finance.yahoo.com/news/kkr-enters-1-4bn-deal-113221136.html",
+        "publisher": "Packaging Gateway",
+        "publish_time": 1769571141,
+        "type": "News"
+    },
+    {
+        "title": "Fund-Raising and Dealmaking Will Dominate Private Asset Managers’ Earnings",
+        "title_zh": "融资和交易将主导私募资产管理公司的盈利",
+        "summary": "Blackstone, KKR, Apollo Global Management and Brookfield are getting ready to report quarterly earnings.",
+        "summary_zh": "Blackstone、KKR、Apollo Global Management 和 Brookfield 正准备报告季度收益。",
+        "link": "https://www.barrons.com/articles/private-assets-stocks-profits-fees-c862c4fc?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1769518380,
+        "type": "News"
+    }
+]

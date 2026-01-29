@@ -46,7 +46,7 @@ def parse_iso_date(date_str):
     except Exception:
         return 0
 
-def fetch_news(tickers, limit=10, keywords=None):
+def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
     all_news = []
     seen_titles = set()
     translator = GoogleTranslator(source='auto', target='zh-CN')
@@ -94,15 +94,16 @@ def fetch_news(tickers, limit=10, keywords=None):
                     continue
                 
                 # Publisher Filtering
-                # User requested: Yahoo, Reuters, Bloomberg
-                allowed_providers = ['yahoo', 'reuters', 'bloomberg']
-                if not publisher:
-                    continue
-                    
-                pub_lower = publisher.lower()
-                if not any(p in pub_lower for p in allowed_providers):
-                    # print(f"Skipping publisher: {publisher}")
-                    continue
+                if strict_providers:
+                    # User requested: Yahoo, Reuters, Bloomberg
+                    allowed_providers = ['yahoo', 'reuters', 'bloomberg']
+                    if not publisher:
+                        continue
+                        
+                    pub_lower = publisher.lower()
+                    if not any(p in pub_lower for p in allowed_providers):
+                        # print(f"Skipping publisher: {publisher}")
+                        continue
 
                 # Deduplication
                 if title in seen_titles:
@@ -163,38 +164,56 @@ def save_json(data, filename):
     print(f"Successfully updated {filename}")
 
 def main():
-    # 1. General News
-    general_tickers = ["^GSPC", "NVDA", "AAPL", "MSFT", "TSLA", "AMZN"]
-    news_data = fetch_news(general_tickers, limit=8)
-    if not news_data:
-        print("Warning: No general news found.")
-        save_json([], 'news_data.json')
-    else:
-        save_json(news_data, 'news_data.json')
+    # Fetch General News
+    print("Fetching General News...")
+    # Top US Tech & Market Tickers
+    news_tickers = ['^GSPC', '^IXIC', 'NVDA', 'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'META']
+    news_data = fetch_news(news_tickers, limit=9, strict_providers=True)
 
-    # 2. M&A News
-    # MNA is a Merger Arbitrage ETF. Also looking at big tech for deals.
-    ma_tickers = ["MNA", "MSFT", "GOOG", "AVGO", "CSCO", "CRM"] 
-    ma_keywords = ['acquisition', 'merger', 'buyout', 'deal', 'takeover', 'acquire', 'purchase', 'buying']
-    ma_data = fetch_news(ma_tickers, limit=5, keywords=ma_keywords)
-    
-    if ma_data:
-        save_json(ma_data, 'ma_data.json')
-    else:
+    with open('news_data.json', 'w', encoding='utf-8') as f:
+        json.dump(news_data, f, ensure_ascii=False, indent=4)
+    print("Successfully updated news_data.json")
+
+    # Fetch M&A News
+    print("Fetching M&A News...")
+    # Use specific M&A ETFs or tickers, plus major sector ETFs and big tech/banks to catch big deals
+    ma_tickers = [
+        'MNA', 'ARB', 'MRGR',   # M&A ETFs
+        '^GSPC', '^DJI', '^IXIC', # Major Indices
+        'XLK', 'XLF', 'XLV', 'XLC', # Sector ETFs
+        'MSFT', 'GOOG', 'AMZN', 'AAPL', 'NVDA', # Big Tech
+        'JPM', 'GS', 'MS', # Big Banks
+        'BX', 'KKR', 'APO', 'CG', # Private Equity (Big M&A players)
+        'CSCO', 'INTC', 'CRM', 'ORCL' # Enterprise Tech
+    ]
+    ma_keywords = ['Merger', 'Acquisition', 'Takeover', 'Buyout', 'Deal', 'Offer']
+    ma_data = fetch_news(ma_tickers, limit=20, keywords=ma_keywords, strict_providers=False)
+
+    if not ma_data:
         print("Warning: No M&A news found.")
-        save_json([], 'ma_data.json')
-
-    # 3. IPO News
-    # IPO, FPX are IPO ETFs
-    ipo_tickers = ["IPO", "FPX", "RENA"] 
-    ipo_keywords = ['IPO', 'public offering', 'listing', 'debut', 'filing', 'go public']
-    ipo_data = fetch_news(ipo_tickers, limit=5, keywords=ipo_keywords)
-    
-    if ipo_data:
-        save_json(ipo_data, 'ipo_data.json')
     else:
+        # Ensure only 5 items
+        ma_data = ma_data[:5]
+
+    with open('ma_data.json', 'w', encoding='utf-8') as f:
+        json.dump(ma_data, f, ensure_ascii=False, indent=4)
+    print("Successfully updated ma_data.json")
+
+    # Fetch IPO News
+    print("Fetching IPO News...")
+    ipo_tickers = ['IPO', 'FPX', '^GSPC']
+    ipo_keywords = ['IPO', 'Initial Public Offering', 'Listing', 'Public Debut']
+    ipo_data = fetch_news(ipo_tickers, limit=5, keywords=ipo_keywords, strict_providers=False)
+
+    if not ipo_data:
         print("Warning: No IPO news found.")
-        save_json([], 'ipo_data.json')
+    else:
+        # Ensure only 5 items
+        ipo_data = ipo_data[:5]
+
+    with open('ipo_data.json', 'w', encoding='utf-8') as f:
+        json.dump(ipo_data, f, ensure_ascii=False, indent=4)
+    print("Successfully updated ipo_data.json")
 
 if __name__ == '__main__':
     main()
