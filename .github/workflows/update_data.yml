@@ -39,7 +39,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # Pull latest changes to avoid conflicts
           git pull --rebase origin main || echo "No remote changes to pull"
-          git add market_data.json marquee_data.json news_data.json
+          git add market_data.json marquee_data.json news_data.json ipo_data.json ma_data.json
           # Commit only if there are changes
           git diff --staged --quiet || git commit -m "Automated market data update"
           git push

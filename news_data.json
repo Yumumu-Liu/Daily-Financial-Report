@@ -1,10 +1,66 @@
 [
     {
-        "title": null,
-        "title_zh": null,
-        "link": null,
-        "publisher": null,
-        "publish_time": null,
+        "title": "Apple Is the Second-Worst-Performing Dow Jones Stock So Far in 2026. Is the Sell-Off a Buying Opportunity?",
+        "title_zh": "苹果是 2026 年迄今为止表现第二差的道琼斯股票。抛售是买入机会吗？",
+        "link": "https://finance.yahoo.com/news/apple-second-worst-performing-dow-103500822.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1769654100,
+        "type": "News"
+    },
+    {
+        "title": "Samsung, SK Hynix warn of squeezed chip supplies for PCs, phones due to AI boom",
+        "title_zh": "三星、SK 海力士警告称，由于人工智能的蓬勃发展，个人电脑和手机的芯片供应将受到挤压",
+        "link": "https://finance.yahoo.com/news/samsung-sk-hynix-warn-squeezed-102533740.html",
+        "publisher": "Reuters",
+        "publish_time": 1769653533,
+        "type": "News"
+    },
+    {
+        "title": "China’s H200 Approval Adds New Layer To Nvidia Valuation Debate",
+        "title_zh": "中国 H200 的批准为 Nvidia 估值争论增添了新的层面",
+        "link": "https://finance.yahoo.com/news/china-h200-approval-adds-layer-101414535.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769652854,
+        "type": "News"
+    },
+    {
+        "title": "US Stock Market Today S&P 500 Futures Edge Higher As Rate Tension Builds",
+        "title_zh": "今日美国股市随着利率紧张局势加剧，标普 500 指数期货小幅走高",
+        "link": "https://finance.yahoo.com/news/us-stock-market-today-p-101247522.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769652767,
+        "type": "News"
+    },
+    {
+        "title": "Amazon India Compliance Ruling And What It Means For AMZN Valuation",
+        "title_zh": "亚马逊印度合规裁决及其对亚马逊估值的影响",
+        "link": "https://finance.yahoo.com/news/amazon-india-compliance-ruling-means-101125320.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769652685,
+        "type": "News"
+    },
+    {
+        "title": "Jim Cramer Says Buy 2 AI Stocks Up 190% and 230% Since Early 2023",
+        "title_zh": "Jim Cramer 表示，自 2023 年初以来，买入 2 只 AI 股票分别上涨 190% 和 230%",
+        "link": "https://finance.yahoo.com/news/jim-cramer-says-buy-2-101000313.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1769652600,
+        "type": "News"
+    },
+    {
+        "title": "Global Penny Stocks: 3 Hidden Gems With Market Caps Under US$2B",
+        "title_zh": "全球细价股：市值低于 20 亿美元的 3 只隐藏宝石",
+        "link": "https://finance.yahoo.com/news/global-penny-stocks-3-hidden-100537393.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769652337,
+        "type": "News"
+    },
+    {
+        "title": "US Job Losses Stoke Recession Fears: What It Could Mean for Crypto",
+        "title_zh": "美国失业引发经济衰退担忧：这对加密货币意味着什么",
+        "link": "https://finance.yahoo.com/news/us-job-losses-stoke-recession-100050071.html",
+        "publisher": "BeInCrypto",
+        "publish_time": 1769652050,
         "type": "News"
     }
 ]

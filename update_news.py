@@ -3,18 +3,19 @@ import json
 import time
 from pathlib import Path
 from deep_translator import GoogleTranslator
+from datetime import datetime
 
-def update_news():
-    """
-    Fetches the latest news from Yahoo Finance for major tickers and translates titles to Chinese.
-    Saves the data to news_data.json.
-    """
-    # Use major indices and tech giants to get broad market news
-    tickers = ["^GSPC", "NVDA", "AAPL", "MSFT"]
-    
+def parse_iso_date(date_str):
+    try:
+        # Example: 2026-01-26T14:30:00Z
+        dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
+        return int(dt.timestamp())
+    except Exception:
+        return 0
+
+def fetch_news(tickers, limit=10, keywords=None):
     all_news = []
     seen_titles = set()
-    
     translator = GoogleTranslator(source='auto', target='zh-CN')
 
     for ticker_symbol in tickers:
@@ -23,14 +24,48 @@ def update_news():
             news_items = ticker.news
             
             for item in news_items:
-                title = item.get('title')
-                link = item.get('link')
-                publisher = item.get('publisher')
-                publish_time = item.get('providerPublishTime')
+                # Handle different data structures
+                title = None
+                link = None
+                publisher = None
+                publish_time = 0
+
+                if 'content' in item and isinstance(item['content'], dict):
+                    # New structure
+                    content = item['content']
+                    title = content.get('title')
+                    
+                    # Try to find link
+                    if content.get('clickThroughUrl'):
+                        link = content['clickThroughUrl'].get('url')
+                    elif content.get('canonicalUrl'):
+                        link = content['canonicalUrl'].get('url')
+                    
+                    if content.get('provider'):
+                        publisher = content['provider'].get('displayName')
+                    
+                    if content.get('pubDate'):
+                        publish_time = parse_iso_date(content['pubDate'])
+                else:
+                    # Old structure
+                    title = item.get('title')
+                    link = item.get('link')
+                    publisher = item.get('publisher')
+                    publish_time = item.get('providerPublishTime')
+
+                # Validation
+                if not title or not link:
+                    continue
                 
-                # Deduplicate news based on title
+                # Deduplication
                 if title in seen_titles:
                     continue
+                
+                # Keyword filtering
+                if keywords:
+                    if not any(k.lower() in title.lower() for k in keywords):
+                        continue
+
                 seen_titles.add(title)
                 
                 # Translate title
@@ -38,7 +73,7 @@ def update_news():
                     title_zh = translator.translate(title)
                 except Exception as e:
                     print(f"Translation failed for '{title}': {e}")
-                    title_zh = title # Fallback to English
+                    title_zh = title 
 
                 all_news.append({
                     'title': title,
@@ -46,35 +81,54 @@ def update_news():
                     'link': link,
                     'publisher': publisher,
                     'publish_time': publish_time,
-                    'type': item.get('type', 'News')
+                    'type': 'News'
                 })
-                
-                # Limit to latest 10 news items overall to keep it clean
-                if len(all_news) >= 10:
-                    break
         except Exception as e:
             print(f"Error fetching news for {ticker_symbol}: {e}")
-        
-        if len(all_news) >= 10:
-            break
-
-    # Sort by publish time descending
+    
+    # Sort and limit
     all_news.sort(key=lambda x: x.get('publish_time', 0), reverse=True)
-    
-    # Keep top 8
-    all_news = all_news[:8]
+    return all_news[:limit]
 
-    if not all_news:
-        print("Warning: No news found.")
-    
-    # Define the output path
-    output_path = Path(__file__).parent / 'news_data.json'
-    
-    # Write data to the JSON file
+def save_json(data, filename):
+    output_path = Path(__file__).parent / filename
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(all_news, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Successfully updated {filename}")
 
-    print(f"Successfully updated news data to {output_path}")
+def main():
+    # 1. General News
+    general_tickers = ["^GSPC", "NVDA", "AAPL", "MSFT", "TSLA", "AMZN"]
+    news_data = fetch_news(general_tickers, limit=8)
+    if not news_data:
+        print("Warning: No general news found.")
+        save_json([], 'news_data.json')
+    else:
+        save_json(news_data, 'news_data.json')
+
+    # 2. M&A News
+    # MNA is a Merger Arbitrage ETF. Also looking at big tech for deals.
+    ma_tickers = ["MNA", "MSFT", "GOOG", "AVGO", "CSCO", "CRM"] 
+    ma_keywords = ['acquisition', 'merger', 'buyout', 'deal', 'takeover', 'acquire', 'purchase', 'buying']
+    ma_data = fetch_news(ma_tickers, limit=5, keywords=ma_keywords)
+    
+    if ma_data:
+        save_json(ma_data, 'ma_data.json')
+    else:
+        print("Warning: No M&A news found.")
+        save_json([], 'ma_data.json')
+
+    # 3. IPO News
+    # IPO, FPX are IPO ETFs
+    ipo_tickers = ["IPO", "FPX", "RENA"] 
+    ipo_keywords = ['IPO', 'public offering', 'listing', 'debut', 'filing', 'go public']
+    ipo_data = fetch_news(ipo_tickers, limit=5, keywords=ipo_keywords)
+    
+    if ipo_data:
+        save_json(ipo_data, 'ipo_data.json')
+    else:
+        print("Warning: No IPO news found.")
+        save_json([], 'ipo_data.json')
 
 if __name__ == '__main__':
-    update_news()
+    main()

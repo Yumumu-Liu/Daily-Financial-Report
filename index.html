@@ -142,6 +142,8 @@
             let marketData = [];
             let marqueeData = [];
             let newsData = [];
+            let ipoData = [];
+            let maData = [];
 
             function fetchMarqueeData() {
                 return fetch('./marquee_data.json')
@@ -162,6 +164,27 @@
                     })
                     .catch(error => console.error('Error fetching news data:', error));
             }
+
+            function fetchIPOData() {
+                return fetch('./ipo_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        ipoData = data;
+                        renderIPOList();
+                    })
+                    .catch(error => console.error('Error fetching IPO data:', error));
+            }
+
+            function fetchMAData() {
+                return fetch('./ma_data.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        maData = data;
+                        renderMAList();
+                    })
+                    .catch(error => console.error('Error fetching M&A data:', error));
+            }
+
 
 
             function fetchMarketData() {
@@ -225,18 +248,59 @@
                     .catch(error => console.error('Error fetching market data:', error));
             }
 
-            const ipoData = [
-                { en: { company: "SpaceX", status: "Upcoming", details: "SpaceX is preparing for a possible public offering in 2026 to fund its Starship rocket, AI data centers in space, and a moon base." }, zh: { company: "SpaceX", status: "即将进行", details: "SpaceX正准备在2026年进行可能的公开募股，以为其星际飞船火箭、太空中的人工智能数据中心和月球基地提供资金。" }, valuation: "N/A", source: "Bloomberg", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
-                { en: { company: "OpenAI", status: "Upcoming", details: "OpenAI is laying the groundwork for a potential debut in late 2026 or 2027, which could be one of the largest IPOs in market history." }, zh: { company: "OpenAI", status: "即将进行", details: "OpenAI正在为可能在2026年底或2027年进行的首次亮相奠定基础，这可能成为市场历史上最大规模的IPO之一。" }, valuation: "N/A", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
-                { en: { company: "Kraken", status: "Upcoming", details: "The U.S. crypto exchange Kraken is reportedly targeting a U.S. stock market debut as early as the first quarter of 2026." }, zh: { company: "Kraken", status: "即将进行", details: "据报道，美国加密货币交易所Kraken的目标最早在2026年第一季度在美国股市首次亮相。" }, valuation: "$15B", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" },
-                { en: { company: "Canva", status: "Upcoming", details: "Canva's co-founder and COO indicated in November 2025 that an IPO is 'probably imminent' and likely to happen within the 'next couple of years'." }, zh: { company: "Canva", status: "即将进行", details: "Canva的联合创始人兼首席运营官在2025年11月表示，IPO“可能即将到来”，并可能在“未来几年内”发生。" }, valuation: "N/A", source: "Interactive Brokers", sourceUrl: "https://www.interactivebrokers.com/campus/traders-insight/securities/stocks/opening-day-ten-ipos-to-watch-in-2026/" }
-            ];
+            function renderIPOList() {
+                const ipoList = document.getElementById('ipo-list');
+                const t = translations[currentLang];
+                if (!ipoData || !ipoData.length) {
+                    ipoList.innerHTML = `<li class="text-gray-400 text-sm">No recent IPO news found.</li>`;
+                    return;
+                }
+                ipoList.innerHTML = ipoData.map(item => {
+                    const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    let dateStr = "";
+                    if (item.publish_time) {
+                        dateStr = new Date(item.publish_time * 1000).toLocaleDateString();
+                    }
+                    return `
+                    <li class="bg-gray-800 p-4 rounded-lg">
+                        <div class="mb-2">
+                            <span class="font-bold text-lg"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></span>
+                        </div>
+                        <div class="text-xs text-gray-500 flex justify-between mt-2">
+                            <span>${dateStr}</span>
+                            <span>${t.source}: ${item.publisher}</span>
+                        </div>
+                    </li>
+                    `;
+                }).join('');
+            }
 
-            const maData = [
-                { en: { deal: "Global M&A volumes hit USD 3 trillion in 2025", status: "Completed", details: "Global M&A volumes hit USD 3 trillion, up 33% year on year with 45 mega deals over USD 10 billion." }, zh: { deal: "2025年全球并购交易额达3万亿美元", status: "已完成", details: "全球并购交易额达到3万亿美元，同比增长33%，其中有45笔超过100亿美元的大型交易。" }, value: "$3T", source: "Baker McKenzie", sourceUrl: "https://www.bakermckenzie.com/en/insight/publications/2026/01/ma-reawakes-more-complex-2026" },
-                { en: { deal: "M&A lawyers see 'bulging pipeline' for 2026", status: "Outlook", details: "Dealmakers at top firms told Reuters they expect this year to be at least as busy as 2025." }, zh: { deal: "并购律师预计2026年将有“大量交易”", status: "展望", details: "顶级公司的交易撮合者告诉路透社，他们预计今年的业务至少会和2025年一样繁忙。" }, value: "N/A", source: "Reuters", sourceUrl: "https://www.reuters.com/legal/transactional/ma-lawyers-see-bulging-pipeline-2026-after-deal-crazed-year-2026-01-07/" },
-                { en: { deal: "Lazard expects multiple drivers to sustain elevated deal value in 2026", status: "Outlook", details: "Rising strategic ambition among large corporates, potential monetization of long-held private equity assets, and continuity in the regulatory environment are expected to sustain elevated deal value." }, zh: { deal: "Lazard预计多种驱动因素将维持2026年较高的交易额", status: "展望", details: "大型企业日益增长的战略雄心、长期持有的私募股权资产的潜在货币化以及监管环境的连续性，预计将维持较高的交易额。" }, value: "N/A", source: "Lazard", sourceUrl: "https://www.lazard.com/research-insights/lazard-2025-ma-review-and-2026-outlook/" }
-            ];
+            function renderMAList() {
+                const maList = document.getElementById('ma-list');
+                const t = translations[currentLang];
+                if (!maData || !maData.length) {
+                    maList.innerHTML = `<li class="text-gray-400 text-sm">No recent M&A news found.</li>`;
+                    return;
+                }
+                maList.innerHTML = maData.map(item => {
+                    const title = currentLang === 'zh' ? (item.title_zh || item.title) : item.title;
+                    let dateStr = "";
+                    if (item.publish_time) {
+                        dateStr = new Date(item.publish_time * 1000).toLocaleDateString();
+                    }
+                    return `
+                    <li class="bg-gray-800 p-4 rounded-lg">
+                        <div class="mb-2">
+                            <span class="font-bold text-lg"><a href="${item.link}" target="_blank" class="hover:text-blue-400">${title}</a></span>
+                        </div>
+                        <div class="text-xs text-gray-500 flex justify-between mt-2">
+                            <span>${dateStr}</span>
+                            <span>${t.source}: ${item.publisher}</span>
+                        </div>
+                    </li>
+                    `;
+                }).join('');
+            }
 
             function getColor(change) {
                 if (change.startsWith('+')) return 'text-green-500';
@@ -345,36 +409,9 @@
                 populateMarquee();
                 populateNews();
                 
-                // Update IPO and M&A lists (static data structure remains nested for now)
-                const ipoList = document.getElementById('ipo-list');
-                ipoList.innerHTML = ipoData.map(item => `
-                    <li class="bg-gray-800 p-4 rounded-lg">
-                        <div class="flex justify-between items-start mb-2">
-                            <span class="font-bold text-lg">${item[currentLang].company}</span>
-                            <span class="bg-blue-900 text-blue-200 text-xs px-2 py-1 rounded">${item[currentLang].status}</span>
-                        </div>
-                        <p class="text-gray-300 text-sm mb-2">${item[currentLang].details}</p>
-                        <div class="text-xs text-gray-500 flex justify-between">
-                            <span>Valuation: ${item.valuation}</span>
-                            <span>${t.source}: <a href="${item.sourceUrl}" class="text-blue-400 hover:underline" target="_blank">${item.source}</a></span>
-                        </div>
-                    </li>
-                `).join('');
-
-                const maList = document.getElementById('ma-list');
-                maList.innerHTML = maData.map(item => `
-                    <li class="bg-gray-800 p-4 rounded-lg">
-                        <div class="flex justify-between items-start mb-2">
-                            <span class="font-bold text-lg">${item[currentLang].deal}</span>
-                            <span class="bg-green-900 text-green-200 text-xs px-2 py-1 rounded">${item[currentLang].status}</span>
-                        </div>
-                        <p class="text-gray-300 text-sm mb-2">${item[currentLang].details}</p>
-                        <div class="text-xs text-gray-500 flex justify-between">
-                            <span>Value: ${item.value}</span>
-                            <span>${t.source}: <a href="${item.sourceUrl}" class="text-blue-400 hover:underline" target="_blank">${item.source}</a></span>
-                        </div>
-                    </li>
-                `).join('');
+                // Update IPO and M&A lists
+                renderIPOList();
+                renderMAList();
             }
 
             function populateMarquee() {
@@ -405,6 +442,8 @@
             fetchMarketData();
             fetchMarqueeData();
             fetchNewsData();
+            fetchIPOData();
+            fetchMAData();
         });
     </script>
 
