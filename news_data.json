@@ -1,32 +1,82 @@
 [
     {
-        "title": "Musk's SpaceX Said to Weigh Tie-Up With Tesla or xAI",
-        "title_zh": "马斯克旗下 SpaceX 据称正在权衡与特斯拉或 xAI 的合作",
-        "summary": "SpaceX is said to be considering a potential merger with Tesla or xAI, as Elon Musk weighs how to consolidate his empire. Bloomberg Tech's Ed Ludlow discusses what's at stake on \"Bloomberg: The Asia Trade.\"",
-        "summary_zh": "据说 SpaceX 正在考虑与特斯拉或 xAI 合并，埃隆·马斯克正在权衡如何巩固他的帝国。彭博科技公司的埃德·勒德洛 (Ed Ludlow) 在“彭博社：亚洲贸易”中讨论了利害攸关的问题。",
-        "link": "https://finance.yahoo.com/video/musks-spacex-said-weigh-tie-023633648.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1769740593,
+        "title": "Gold prices fall 3% as Trump expected to announce Kevin Warsh as Fed chair pick",
+        "title_zh": "特朗普预计将宣布凯文·沃什(Kevin Warsh)当选美联储主席，金价下跌3%",
+        "summary": "Gold prices slid after reports that US president Donald Trump is expected to nominate Kevin Warsh as the next chair of the Federal Reserve.",
+        "summary_zh": "有报道称美国总统唐纳德·特朗普预计将提名凯文·沃什为下一任美联储主席，金价下跌。",
+        "link": "https://finance.yahoo.com/news/gold-prices-trump-fed-announcement-oil-pound-latest-100213276.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1769767333,
         "type": "News"
     },
     {
-        "title": "Apple sees surging March revenue with strong iPhone demand in Asia",
-        "title_zh": "苹果预计 3 月份营收将大幅增长，亚洲 iPhone 需求强劲",
-        "summary": "STORY: Apple forecast a surge in revenue for the start of the year, thanks to strong demand for its iPhones and its China business bouncing back.On Thursday, it estimated an up to 16% leap for January to March, well ahead of Wall Street's expectations.That came after a strong ...",
-        "summary_zh": "故事：由于 iPhone 需求强劲以及中国业务反弹，苹果公司预计今年年初收入将大幅增长。周四，该公司预计 1 月至 3 月收入将增长 16%，远远超出华尔街的预期。",
-        "link": "https://finance.yahoo.com/video/apple-sees-surging-march-revenue-005258234.html",
+        "title": "Trending tickers: Apple, Microsoft, Sandisk, Caterpillar and AstraZeneca",
+        "title_zh": "热门股票：Apple、Microsoft、Sandisk、Caterpillar 和 AstraZeneca",
+        "summary": "The latest investor updates on stocks that are trending on Friday",
+        "summary_zh": "投资者对周五趋势股票的最新更新",
+        "link": "https://finance.yahoo.com/news/apple-microsoft-sandisk-caterpillar-astrazeneca-trending-tickers-094358235.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1769766238,
+        "type": "News"
+    },
+    {
+        "title": "Exclusive-China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources",
+        "title_zh": "独家-中国有条件批准 DeepSeek 购买 Nvidia 的 H200 芯片 - 消息人士",
+        "summary": "By Fanny Potkin SINGAPORE, Jan 30 (Reuters) - China has given its top AI startup DeepSeek approval to buy Nvidia's H200 artificial intelligence chips with regulatory conditions that are still being",
+        "summary_zh": "路透新加坡 1 月 30 日 - 中国已批准其顶级人工智能初创公司 DeepSeek 购买 Nvidia 的 H200 人工智能芯片，监管条件仍在审查中",
+        "link": "https://finance.yahoo.com/news/exclusive-china-conditionally-approves-deepseek-065114115.html",
+        "publisher": "Reuters",
+        "publish_time": 1769756254,
+        "type": "News"
+    },
+    {
+        "title": "China conditionally approves DeepSeek to buy Nvidia's H200 chips, sources say",
+        "title_zh": "消息人士称，中国有条件批准 DeepSeek 购买 Nvidia 的 H200 芯片",
+        "summary": "China has given its top AI startup DeepSeek approval to buy Nvidia's H200 artificial intelligence chips with regulatory conditions that ​are still being finalised, two people familiar with the matter told Reuters.",
+        "summary_zh": "两位知情人士告诉路透社，中国已批准其顶级人工智能初创公司 DeepSeek 购买 Nvidia 的 H200 人工智能芯片，监管条件仍在敲定中。",
+        "link": "https://finance.yahoo.com/news/exclusive-china-conditionally-approves-deepseek-065114403.html",
+        "publisher": "Reuters",
+        "publish_time": 1769755874,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX in merger talks with other Musk companies ahead of IPO",
+        "title_zh": "SpaceX 在 IPO 前与其他马斯克公司进行合并谈判",
+        "summary": "STORY: SpaceX is exploring&nbsp;deals with other companies helmed by Elon Musk.The rocket maker is in discussions to merge with artificial intelligence company xAI ahead of a blockbuster public offering planned for this year.The combination would bring Musk’s rockets, Starlink...",
+        "summary_zh": "故事：SpaceX 正在探索与埃隆·马斯克 (Elon Musk) 掌舵的其他公司进行交易。这家火箭制造商正在讨论与人工智能公司 xAI 合并，并计划在今年进行大规模公开募股。此次合并将带来马斯克的火箭、星链……",
+        "link": "https://finance.yahoo.com/video/spacex-merger-talks-other-musk-062802914.html",
         "publisher": "Reuters Videos",
-        "publish_time": 1769734378,
+        "publish_time": 1769754482,
         "type": "News"
     },
     {
-        "title": "Amazon in Talks to Invest $50 Billion in OpenAI, Expand Ties",
-        "title_zh": "亚马逊正在洽谈向 OpenAI 投资 500 亿美元，扩大合作伙伴关系",
-        "summary": "OpenAI is also weighing a deal in which Amazon would use the startup’s artificial intelligence models, which power the popular ChatGPT chatbot, in its products and platforms, the person said. Amazon’s employees could also access the model for their work.",
-        "summary_zh": "该人士表示，OpenAI 还在考虑一项交易，亚马逊将在其产品和平台中使用这家初创公司的人工智能模型，该模型为流行的 ChatGPT 聊天机器人提供支持。亚马逊的员工也可以访问该模型来进行工作。",
-        "link": "https://finance.yahoo.com/news/amazon-talks-invest-50-billion-235627171.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1769730987,
+        "title": "Apple to prioritize premium iPhone launches in 2026 amid memory crunch, Nikkei Asia reports",
+        "title_zh": "据日经亚洲报道，由于内存短缺，苹果将在 2026 年优先推出高端 iPhone",
+        "summary": "Apple is prioritizing production and shipment of its three highest-end iPhone models for 2026 while ​delaying the rollout of its standard model due to ‌a marketing strategy shift and supply-chain constraints, Nikkei Asia reported on Friday, citing ‌four people with knowledge o...",
+        "summary_zh": "据《日经亚洲》周五援引四名知情人士的话报道，苹果将优先考虑 2026 年三款最高端 iPhone 机型的生产和出货，同时由于营销策略转变和供应链限制而推迟标准机型的推出。",
+        "link": "https://finance.yahoo.com/news/apple-prioritize-premium-iphone-launches-062329303.html",
+        "publisher": "Reuters",
+        "publish_time": 1769754209,
+        "type": "News"
+    },
+    {
+        "title": "Barclays expands startups platform to add market access",
+        "title_zh": "巴克莱扩大初创公司平台以增加市场准入",
+        "summary": "Barclays is trying to fix one of the biggest issues for early-stage startups: inefficient fundraising and limited access to customers.",
+        "summary_zh": "巴克莱银行正试图解决早期初创企业面临的最大问题之一：融资效率低下和接触客户的机会有限。",
+        "link": "https://finance.yahoo.com/news/barclays-startups-funding-markets-060031222.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1769752831,
+        "type": "News"
+    },
+    {
+        "title": "Horticulturists told us our seeds business 'is not what people want, love'",
+        "title_zh": "园艺师告诉我们，我们的种子业务“不是人们想要的，亲爱的”",
+        "summary": "She Grows Veg founders have taken an online community of female veg growers and turned it into a Chelsea Flower Show-winning, heirloom seed business.",
+        "summary_zh": "She Grows Veg 的创始人将一个女性蔬菜种植者的在线社区变成了切尔西花卉展获奖的传家宝种子业务。",
+        "link": "https://finance.yahoo.com/news/she-grows-veg-heirloom-seeds-060023979.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1769752823,
         "type": "News"
     },
     {
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-trumps-fed-pick-apple-earnings-take-focus-234128194.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1769730088,
-        "type": "News"
-    },
-    {
-        "title": "S&P 500, Nasdaq slip as Big Tech ramps up AI spending",
-        "title_zh": "随着大型科技公司加大人工智能支出，标准普尔 500 指数和纳斯达克指数下滑",
-        "summary": "STORY: Stocks finished mixed Thursday with the Dow posting a small gain, the S&P 500 falling fractionally and the Nasdaq losing seven-tenths of one percent.Investors were rattled by the latest earnings reports and worried about whether hefty spending on artificial intelligence...",
-        "summary_zh": "故事：周四股市收盘涨跌互现，道琼斯指数小幅上涨，标准普尔 500 指数小幅下跌，纳斯达克指数下跌十分之七百分之一。投资者对最新的收益报告感到不安，并担心在人工智能方面的巨额支出是否......",
-        "link": "https://finance.yahoo.com/video/p-500-nasdaq-slip-big-233312756.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1769729592,
-        "type": "News"
-    },
-    {
-        "title": "Earnings live: Sandisk stock surges on huge profit beat, Deckers stock soars, Apple earnings beat estimates",
-        "title_zh": "财报直播：Sandisk 股价因利润大幅上涨而飙升，Deckers 股价飙升，苹果盈利超出预期",
-        "summary": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
-        "summary_zh": "第四季度财报季本周进入高潮，微软、Meta、特斯拉和苹果等大型科技公司的业绩成为财报日历的头条新闻。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-sandisk-stock-surges-on-huge-profit-beat-deckers-stock-soars-apple-earnings-beat-estimates-215834036.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1769723914,
-        "type": "News"
-    },
-    {
-        "title": "Amazon to reportedly invest up to $50B in OpenAI: WSJ",
-        "title_zh": "据《华尔街日报》报道，亚马逊将向 OpenAI 投资高达 500 亿美元",
-        "summary": "Amazon (AMZN) is reportedly in talks to invest in OpenAI (OPAI.PVT), according to the Wall Street Journal.Market Domination Overtime host Josh Lipton outlines the details.To watch more expert insights and analysis on the latest market action, check out more Market Domination O...",
-        "summary_zh": "据《华尔街日报》报道，亚马逊 (AMZN) 正在洽谈投资 OpenAI (OPAI.PVT)。Market Domination Overtime 主持人 Josh Lipton 概述了详细信息。要观看有关最新市场行动的更多专家见解和分析，请查看更多 Market Domi...",
-        "link": "https://finance.yahoo.com/video/amazon-to-reportedly-invest-up-to-50b-in-openai-wsj-215717725.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1769723837,
-        "type": "News"
-    },
-    {
-        "title": "Apple tops Q1 earnings estimates on record-breaking iPhone sales",
-        "title_zh": "iPhone 销量破纪录 苹果第一季度盈利预期超预期",
-        "summary": "Apple reported its first quarter earnings after the bell Thursday.",
-        "summary_zh": "苹果公司周四盘后公布了第一季度财报。",
-        "link": "https://finance.yahoo.com/news/apple-tops-q1-earnings-estimates-on-record-breaking-iphone-sales-213019517.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1769722219,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq fall as Microsoft leads tech lower with Apple earnings on deck",
-        "title_zh": "今日股市：标普 500 指数和纳斯达克指数下跌，因微软引领科技股走低，苹果财报公布",
-        "summary": "Wall Street is in the middle of Big Tech earnings, with Apple the next 'Magnificent Seven' member set to report.",
-        "summary_zh": "华尔街正处于大型科技公司财报的中期，苹果公司将成为下一个“七巨头”的成员。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-fall-as-microsoft-leads-tech-lower-with-apple-earnings-on-deck-210050303.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1769720450,
         "type": "News"
     }
 ]

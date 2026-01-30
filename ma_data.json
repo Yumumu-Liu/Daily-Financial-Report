@@ -1,5 +1,15 @@
 [
     {
+        "title": "Cisco’s Polish Solar Deal Adds New Dimension To ESG And Growth Story",
+        "title_zh": "思科的波兰太阳能交易为 ESG 和增长故事增添了新的维度",
+        "summary": "Cisco Systems (NasdaqGS:CSCO) has entered a 15 year virtual power purchase agreement tied to four new solar projects in Poland. The deal supports additional renewable energy capacity in one of Europe’s more carbon intensive grids.",
+        "summary_zh": "思科系统公司（NasdaqGS：CSCO）已与波兰的四个新太阳能项目签订为期 15 年的虚拟电力购买协议。该协议支持欧洲碳密集度较高的电网之一增加可再生能源容量。",
+        "link": "https://finance.yahoo.com/news/cisco-polish-solar-deal-adds-070828866.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769756908,
+        "type": "News"
+    },
+    {
         "title": "JPMorgan Deepens Retirement Push With Trump Accounts Match And WealthOS Deal",
         "title_zh": "摩根大通通过特朗普账户匹配和WealthOS交易加深退休推动",
         "summary": "JPMorgan Chase (NYSE:JPM) plans to match U.S. government contributions to new Trump Accounts for eligible employees' children, alongside Bank of America.",
@@ -30,20 +40,10 @@
         "type": "News"
     },
     {
-        "title": "Oracle Data Center Power Outage Disrupts TikTok For Users In US Days After App's High-Stakes Joint Venture Deal",
-        "title_zh": "甲骨文数据中心停电导致 TikTok 在美国的用户在高风险合资交易后几天中断",
-        "summary": "A weather-related power outage at an Oracle Corp. (NYSE:ORCL) data center caused technical disruptions for TikTok's U.S. users days after the app shifted its American operations to new U.S.-led ownership.",
-        "summary_zh": "甲骨文公司（纽约证券交易所股票代码：ORCL）数据中心因天气原因停电，导致 TikTok 美国用户的技术中断。几天前，该应用程序将其美国业务转移到美国主导的新所有权之下。",
-        "link": "https://finance.yahoo.com/news/oracle-data-center-power-outage-160108690.html",
-        "publisher": "Benzinga",
-        "publish_time": 1769702468,
-        "type": "News"
-    },
-    {
         "title": "KKR enters $1.4bn deal to sell Goodpack stake back to founding family – report",
         "title_zh": "KKR 达成 14 亿美元协议，将 Goodpack 股份出售给创始家族 - 报告",
         "summary": "KKR’s decision to divest comes after it explored options for selling the reusable bulk container provider in October 2024.",
-        "summary_zh": "KKR 于 2024 年 10 月探讨了出售这家可重复使用散装集装箱提供商的选择后，做出了剥离的决定。",
+        "summary_zh": "KKR 在探索 2024 年 10 月出售这家可重复使用散装集装箱供应商的选择后，做出了剥离的决定。",
         "link": "https://finance.yahoo.com/news/kkr-enters-1-4bn-deal-113221136.html",
         "publisher": "Packaging Gateway",
         "publish_time": 1769599941,
