@@ -20,7 +20,6 @@ def smart_truncate(text, max_chars):
         return text
     
     # Try to split by sentences (period followed by space)
-    # This is a simple approximation
     sentences = re.split(r'(?<=[.!?])\s+', text)
     result = ""
     
@@ -40,11 +39,114 @@ def smart_truncate(text, max_chars):
 
 def parse_iso_date(date_str):
     try:
-        # Example: 2026-01-26T14:30:00Z
         dt = datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
         return int(dt.timestamp())
     except Exception:
         return 0
+
+def save_json(data, filename):
+    output_path = Path(__file__).parent / filename
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"Successfully updated {filename}")
+
+def get_price_data(ticker_symbol, retries=3):
+    while retries > 0:
+        try:
+            ticker = yf.Ticker(ticker_symbol)
+            
+            # Try fast_info first
+            try:
+                price = ticker.fast_info.last_price
+                prev_close = ticker.fast_info.previous_close
+            except:
+                info = ticker.info
+                price = info.get('regularMarketPrice') or info.get('currentPrice') or info.get('previousClose')
+                prev_close = info.get('previousClose')
+            
+            if price is None:
+                raise ValueError(f"Price is None for {ticker_symbol}")
+
+            if prev_close is None:
+                change = 0
+                prev_close = price 
+            else:
+                change = price - prev_close
+            
+            change_percent = (change / prev_close) * 100 if prev_close else 0
+            
+            return {
+                "price": price,
+                "change": change,
+                "change_percent": change_percent,
+                "ticker_obj": ticker # Return object if needed for history/info
+            }
+        except Exception as e:
+            # print(f"Error fetching {ticker_symbol}: {e}. Retries left: {retries-1}")
+            retries -= 1
+            time.sleep(1)
+    return None
+
+def update_market_data():
+    print("Fetching Market Overview Data...")
+    tickers = [
+        "^GSPC", "^IXIC", "JPY=X", "CNY=X", "SGDCNY=X",
+        "^FVX", "^TNX", "BZ=F", "GC=F", "SI=F"
+    ]
+    
+    data = []
+    for symbol in tickers:
+        market_info = get_price_data(symbol)
+        if not market_info:
+            print(f"Failed to fetch data for {symbol}")
+            continue
+            
+        # Fetch sparkline (history)
+        try:
+            hist = market_info["ticker_obj"].history(period="1mo")
+            sparkline = [] if hist.empty else hist['Close'].tolist()
+        except:
+            sparkline = []
+
+        data.append({
+            "symbol": symbol,
+            "price": f"{market_info['price']:,.2f}",
+            "change": f"{market_info['change']:+.2f}",
+            "changePercent": f"{market_info['change_percent']:+.2f}%",
+            "sparkline": sparkline,
+        })
+    
+    if data:
+        save_json(data, 'market_data.json')
+
+def update_marquee_data():
+    print("Fetching Marquee Data...")
+    us_tickers = ["NVDA", "MSFT", "AAPL", "GOOGL", "AMZN", "META", "AVGO", "TSM", "TSLA", "LLY"]
+    hk_tickers = ["0700.HK", "1299.HK", "0005.HK", "0941.HK", "0883.HK", "0857.HK", "3988.HK", "1398.HK", "0939.HK", "3690.HK"]
+    all_tickers = us_tickers + hk_tickers
+    
+    data = []
+    for symbol in all_tickers:
+        market_info = get_price_data(symbol)
+        if not market_info:
+            print(f"Failed to fetch data for {symbol}")
+            continue
+            
+        # Get name
+        try:
+            name = market_info["ticker_obj"].info.get('shortName', symbol)
+        except:
+            name = symbol
+
+        data.append({
+            "symbol": symbol,
+            "name": name,
+            "price": f"{market_info['price']:,.2f}",
+            "change": f"{market_info['change']:+.2f}",
+        })
+
+    if data:
+        save_json(data, 'marquee_data.json')
 
 def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
     all_news = []
@@ -57,7 +159,6 @@ def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
             news_items = ticker.news
             
             for item in news_items:
-                # Handle different data structures
                 title = None
                 link = None
                 publisher = None
@@ -65,12 +166,10 @@ def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
                 summary = None
 
                 if 'content' in item and isinstance(item['content'], dict):
-                    # New structure
                     content = item['content']
                     title = content.get('title')
                     summary = clean_html(content.get('summary') or content.get('description'))
                     
-                    # Try to find link
                     if content.get('clickThroughUrl'):
                         link = content['clickThroughUrl'].get('url')
                     elif content.get('canonicalUrl'):
@@ -82,34 +181,26 @@ def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
                     if content.get('pubDate'):
                         publish_time = parse_iso_date(content['pubDate'])
                 else:
-                    # Old structure
                     title = item.get('title')
                     link = item.get('link')
                     publisher = item.get('publisher')
                     publish_time = item.get('providerPublishTime')
                     summary = clean_html(item.get('summary'))
 
-                # Validation
                 if not title or not link:
                     continue
                 
-                # Publisher Filtering
                 if strict_providers:
-                    # User requested: Yahoo, Reuters, Bloomberg
                     allowed_providers = ['yahoo', 'reuters', 'bloomberg']
                     if not publisher:
                         continue
-                        
                     pub_lower = publisher.lower()
                     if not any(p in pub_lower for p in allowed_providers):
-                        # print(f"Skipping publisher: {publisher}")
                         continue
 
-                # Deduplication
                 if title in seen_titles:
                     continue
                 
-                # Keyword filtering
                 if keywords:
                     if not any(k.lower() in title.lower() for k in keywords):
                         continue
@@ -119,25 +210,19 @@ def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
                 # Translate title
                 try:
                     title_zh = translator.translate(title)
-                except Exception as e:
-                    print(f"Translation failed for '{title}': {e}")
+                except Exception:
                     title_zh = title 
 
-                # Truncate summary before translation to keep it short and save tokens
-                # Target ~5 lines: 280 chars for English
+                # Truncate and Translate summary
                 if summary:
                     summary = smart_truncate(summary, 280)
-
-                # Translate summary
+                
                 summary_zh = ""
                 if summary:
                     try:
-                        # Translate the already truncated summary
                         summary_zh = translator.translate(summary)
-                        # Truncate Chinese summary as well (~140 chars)
                         summary_zh = smart_truncate(summary_zh, 140)
-                    except Exception as e:
-                        print(f"Translation failed for summary: {e}")
+                    except Exception:
                         summary_zh = summary
 
                 all_news.append({
@@ -153,67 +238,69 @@ def fetch_news(tickers, limit=10, keywords=None, strict_providers=True):
         except Exception as e:
             print(f"Error fetching news for {ticker_symbol}: {e}")
     
-    # Sort and limit
     all_news.sort(key=lambda x: x.get('publish_time', 0), reverse=True)
     return all_news[:limit]
 
-def save_json(data, filename):
-    output_path = Path(__file__).parent / filename
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f"Successfully updated {filename}")
-
-def main():
-    # Fetch General News
+def update_news_data():
+    # General News
     print("Fetching General News...")
-    # Top US Tech & Market Tickers
     news_tickers = ['^GSPC', '^IXIC', 'NVDA', 'AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA', 'META']
     news_data = fetch_news(news_tickers, limit=9, strict_providers=True)
+    save_json(news_data, 'news_data.json')
 
-    with open('news_data.json', 'w', encoding='utf-8') as f:
-        json.dump(news_data, f, ensure_ascii=False, indent=4)
-    print("Successfully updated news_data.json")
-
-    # Fetch M&A News
+    # M&A News
     print("Fetching M&A News...")
-    # Use specific M&A ETFs or tickers, plus major sector ETFs and big tech/banks to catch big deals
     ma_tickers = [
         'MNA', 'ARB', 'MRGR',   # M&A ETFs
         '^GSPC', '^DJI', '^IXIC', # Major Indices
         'XLK', 'XLF', 'XLV', 'XLC', # Sector ETFs
         'MSFT', 'GOOG', 'AMZN', 'AAPL', 'NVDA', # Big Tech
         'JPM', 'GS', 'MS', # Big Banks
-        'BX', 'KKR', 'APO', 'CG', # Private Equity (Big M&A players)
+        'BX', 'KKR', 'APO', 'CG', # Private Equity
         'CSCO', 'INTC', 'CRM', 'ORCL' # Enterprise Tech
     ]
     ma_keywords = ['Merger', 'Acquisition', 'Takeover', 'Buyout', 'Deal', 'Offer']
     ma_data = fetch_news(ma_tickers, limit=20, keywords=ma_keywords, strict_providers=False)
-
-    if not ma_data:
-        print("Warning: No M&A news found.")
+    
+    if ma_data:
+        ma_data = ma_data[:5] # Ensure max 5
     else:
-        # Ensure only 5 items
-        ma_data = ma_data[:5]
+        print("Warning: No M&A news found.")
+        
+    save_json(ma_data, 'ma_data.json')
 
-    with open('ma_data.json', 'w', encoding='utf-8') as f:
-        json.dump(ma_data, f, ensure_ascii=False, indent=4)
-    print("Successfully updated ma_data.json")
-
-    # Fetch IPO News
+    # IPO News
     print("Fetching IPO News...")
     ipo_tickers = ['IPO', 'FPX', '^GSPC']
     ipo_keywords = ['IPO', 'Initial Public Offering', 'Listing', 'Public Debut']
     ipo_data = fetch_news(ipo_tickers, limit=5, keywords=ipo_keywords, strict_providers=False)
-
-    if not ipo_data:
-        print("Warning: No IPO news found.")
-    else:
-        # Ensure only 5 items
+    
+    if ipo_data:
         ipo_data = ipo_data[:5]
+    else:
+        print("Warning: No IPO news found.")
+        
+    save_json(ipo_data, 'ipo_data.json')
 
-    with open('ipo_data.json', 'w', encoding='utf-8') as f:
-        json.dump(ipo_data, f, ensure_ascii=False, indent=4)
-    print("Successfully updated ipo_data.json")
+def main():
+    print("Starting Data Update...")
+    
+    try:
+        update_market_data()
+    except Exception as e:
+        print(f"Error in update_market_data: {e}")
+        
+    try:
+        update_marquee_data()
+    except Exception as e:
+        print(f"Error in update_marquee_data: {e}")
+        
+    try:
+        update_news_data()
+    except Exception as e:
+        print(f"Error in update_news_data: {e}")
+        
+    print("All updates completed.")
 
 if __name__ == '__main__':
     main()
