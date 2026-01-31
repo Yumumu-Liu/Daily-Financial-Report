@@ -1,5 +1,45 @@
 [
     {
+        "title": "The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice",
+        "title_zh": "OpenAI 与 Nvidia 之间 1000 亿美元的巨额交易陷入僵局",
+        "summary": "Nvidia CEO Jensen Huang has privately played down the likelihood the original deal will be finalized, although the two companies will continue to have a close collaboration.",
+        "summary_zh": "英伟达首席执行官黄仁勋私下淡化了最初交易敲定的可能性，尽管两家公司将继续密切合作。",
+        "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1769816820,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce Army deal exposes $5.6 billion hype trap",
+        "title_zh": "Salesforce Army 交易暴露 56 亿美元炒作陷阱",
+        "summary": "Salesforce (CRM) is in the news again, clinching a huge government contract: the U.S. Army gave the cloud-based software company a $5.6 billion, 10-year contract deal to help with modernization and preparedness.",
+        "summary_zh": "Salesforce (CRM) 再次成为新闻焦点，赢得了一份巨额政府合同：美国陆军向这家基于云的软件公司提供了一份价值 56 亿美元、为期 10 年的合同协议，以帮助其现代化和做好准备。",
+        "link": "https://finance.yahoo.com/news/salesforce-army-deal-exposes-5-184700155.html",
+        "publisher": "TheStreet",
+        "publish_time": 1769798820,
+        "type": "News"
+    },
+    {
+        "title": "MS or JEF: Which Stock to Bet on Amid Surge in Deal-making and IPOs?",
+        "title_zh": "MS 或 JEF：在交易和 IPO 激增的情况下押注哪只股票？",
+        "summary": "Morgan Stanley and Jefferies are riding the rebound in deal-making, but diverge in growth paths, earnings power and investor favor. Which IB stock is a buy now?",
+        "summary_zh": "摩根士丹利和杰富瑞正在利用交易量的反弹，但在增长路径、盈利能力和投资者青睐方面存在分歧。现在值得买入哪些 IB 股票？",
+        "link": "https://finance.yahoo.com/news/ms-jef-stock-bet-amid-123000359.html",
+        "publisher": "Zacks",
+        "publish_time": 1769776200,
+        "type": "News"
+    },
+    {
+        "title": "Software sector offers 'really interesting buying opportunities'",
+        "title_zh": "软件行业提供“非常有趣的购买机会”",
+        "summary": "Software stocks, including Microsoft (MSFT), Salesforce (CRM), and ServiceNow (NOW), are getting slammed in Thursday trading amid pressure on the sector (IGV) from artificial intelligence (AI) disruption concerns.Wolfe Research managing director and head of software research A...",
+        "summary_zh": "由于人工智能（AI）颠覆担忧给该行业（IGV）带来压力，包括微软（MSFT）、Salesforce（CRM）和ServiceNow（NOW）在内的软件股在周四交易中遭受重挫。Wolfe Research董事总经理兼软件研究主管A...",
+        "link": "https://finance.yahoo.com/video/software-sector-offers-really-interesting-buying-opportunities-123000531.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1769776200,
+        "type": "News"
+    },
+    {
         "title": "Cisco’s Polish Solar Deal Adds New Dimension To ESG And Growth Story",
         "title_zh": "思科的波兰太阳能交易为 ESG 和增长故事增添了新的维度",
         "summary": "Cisco Systems (NasdaqGS:CSCO) has entered a 15 year virtual power purchase agreement tied to four new solar projects in Poland. The deal supports additional renewable energy capacity in one of Europe’s more carbon intensive grids.",
@@ -7,46 +47,6 @@
         "link": "https://finance.yahoo.com/news/cisco-polish-solar-deal-adds-070828866.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1769756908,
-        "type": "News"
-    },
-    {
-        "title": "JPMorgan Deepens Retirement Push With Trump Accounts Match And WealthOS Deal",
-        "title_zh": "摩根大通通过特朗普账户匹配和WealthOS交易加深退休推动",
-        "summary": "JPMorgan Chase (NYSE:JPM) plans to match U.S. government contributions to new Trump Accounts for eligible employees' children, alongside Bank of America.",
-        "summary_zh": "摩根大通（纽约证券交易所股票代码：JPM）计划与美国银行一起，为符合条件的员工子女提供美国政府对新特朗普账户的捐款。",
-        "link": "https://finance.yahoo.com/news/jpmorgan-deepens-retirement-push-trump-221422148.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1769724862,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia Just Dealt a Devastating Blow To Intel. Here's What It Means for Investors.",
-        "title_zh": "英伟达刚刚对英特尔造成了毁灭性的打击。这对投资者意味着什么。",
-        "summary": "Nvidia tested Intel's 18A process, but decided not to use it.",
-        "summary_zh": "Nvidia测试了Intel的18A工艺，但决定不使用它。",
-        "link": "https://finance.yahoo.com/news/nvidia-just-dealt-devastating-blow-215000257.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1769723400,
-        "type": "News"
-    },
-    {
-        "title": "BlackRock, Morgan Stanley, and Partners Group Team Up on New Alts Offering",
-        "title_zh": "贝莱德、摩根士丹利和合众集团联手推出新的替代产品",
-        "summary": "The new separately managed accounts are oriented around specific goals and include seven underlying private funds.",
-        "summary_zh": "新的独立管理账户以特定目标为导向，包括七只基础私募基金。",
-        "link": "https://www.barrons.com/advisor/articles/blackrock-morgan-stanley-partners-group-alts-sma-d1702884?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1769718960,
-        "type": "News"
-    },
-    {
-        "title": "KKR enters $1.4bn deal to sell Goodpack stake back to founding family – report",
-        "title_zh": "KKR 达成 14 亿美元协议，将 Goodpack 股份出售给创始家族 - 报告",
-        "summary": "KKR’s decision to divest comes after it explored options for selling the reusable bulk container provider in October 2024.",
-        "summary_zh": "KKR 在探索 2024 年 10 月出售这家可重复使用散装集装箱供应商的选择后，做出了剥离的决定。",
-        "link": "https://finance.yahoo.com/news/kkr-enters-1-4bn-deal-113221136.html",
-        "publisher": "Packaging Gateway",
-        "publish_time": 1769599941,
         "type": "News"
     }
 ]
