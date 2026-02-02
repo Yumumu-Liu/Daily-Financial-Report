@@ -1,42 +1,82 @@
 [
     {
-        "title": "Nvidia CEO Says New OpenAI Investment May Be Largest Yet",
-        "title_zh": "Nvidia 首席执行官表示新的 Openai 投资可能是迄今为止最大的一笔",
-        "summary": "“We will invest a great deal of money,” Huang told reporters while visiting Taipei on Saturday.",
-        "summary_zh": "“我们将投入大量资金，”黄在周六访问台北时告诉记者。",
-        "link": "https://finance.yahoo.com/news/nvidia-investment-openai-round-nothing-125431708.html",
+        "title": "Google Joins Singapore’s Green Fuel Tests Ahead of Flight Levy",
+        "title_zh": "谷歌在飞行征费前加入新加坡绿色燃料测试",
+        "summary": "A total of nine firms plan to join the voluntary trial to purchase SAF through the Singapore Sustainable Aviation Fuel Company Ltd., or SAFCo, an entity being established under plans to begin charging a world-first green levy on departing flights from October.",
+        "summary_zh": "共有九家公司计划参加自愿试验，通过新加坡可持续航空燃料有限公司（SAFCo）购买 SAF。该实体是根据计划从 10 月开始对出发航班征收世界首个绿色税而成立的。",
+        "link": "https://finance.yahoo.com/news/google-joins-singapore-green-fuel-024804271.html",
         "publisher": "Bloomberg",
-        "publish_time": 1769917990,
+        "publish_time": 1770000484,
         "type": "News"
     },
     {
-        "title": "'People's dad' Jensen Huang praises, pushes Nvidia suppliers on mobbed Taiwan visit",
-        "title_zh": "“人民爸爸”黄仁勋称赞并推动英伟达供应商访问台湾",
-        "summary": "Nvidia CEO Jensen Huang praised and lightly cajoled his major Taiwanese suppliers to produce more to help power strong demand for AI, capping a visit ​to the island of his birth, where he has been mobbed by adoring fans at ‌every step.",
-        "summary_zh": "英伟达首席执行官黄仁勋赞扬并轻描淡写地劝说他的主要台湾供应商生产更多产品，以帮助满足对人工智能的强劲需求，结束了对他出生的岛屿的访问，在那里他的每一步都被崇拜的粉丝团团围住。",
-        "link": "https://finance.yahoo.com/news/peoples-dad-jensen-huang-praises-013920074.html",
-        "publisher": "Reuters",
-        "publish_time": 1769909960,
+        "title": "Oracle to Raise Up to $50 Billion in 2026 for Cloud Buildup",
+        "title_zh": "Oracle 将于 2026 年筹集高达 500 亿美元用于云建设",
+        "summary": "Oracle is raising money to build additional capacity to meet the contracted demand from the company’s largest cloud customers, including Advanced Micro Devices Inc., Meta Platforms Inc., Nvidia Corp., OpenAI, TikTok Inc. and xAI Corp., the company said in a statement Sunday.",
+        "summary_zh": "甲骨文周日在一份声明中表示，该公司正在筹集资金建设额外产能，以满足该公司最大云客户的合同需求，这些客户包括 Advanced Micro Devices Inc.、Meta Platforms Inc.、Nvidia Corp.、OpenAI、TikTok Inc.",
+        "link": "https://finance.yahoo.com/news/oracle-raise-50-billion-2026-235033434.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1769997058,
         "type": "News"
     },
     {
-        "title": "Apple: Could the memory chip shortage raise iPhone prices?",
-        "title_zh": "苹果：存储芯片短缺会导致iPhone价格上涨吗？",
-        "summary": "In Apple's (AAPL) earnings call, CEO Tim Cook warned that the memory chip shortage could have an impact on the iPhone maker's gross margin in its fiscal second quarter.Maxim Group managing director and senior consumer internet analyst Tom Forte — who upgraded Apple stock to a ...",
-        "summary_zh": "在苹果公司 (AAPL) 的财报电话会议上，首席执行官蒂姆·库克 (Tim Cook) 警告称，存储芯片短缺可能会影响这家 iPhone 制造商第二财季的毛利率。Maxim Group 董事总经理兼高级消费者互联网分析师汤姆·福特 (Tom Forte) 将苹果股票评级上调...",
-        "link": "https://finance.yahoo.com/video/apple-could-the-memory-chip-shortage-raise-iphone-prices-190000012.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1769886000,
-        "type": "News"
-    },
-    {
-        "title": "Apple faces iPhone pricing challenge, supply crunch as AI demand deepens global memory chip shortage",
-        "title_zh": "随着人工智能需求加剧全球存储芯片短缺，苹果面临 iPhone 定价挑战和供应紧缩",
-        "summary": "Apple's iPhones are getting stung by the global memory shortage.",
-        "summary_zh": "苹果公司的 iPhone 正受到全球内存短缺的困扰。",
-        "link": "https://finance.yahoo.com/news/apple-faces-iphone-pricing-challenge-supply-crunch-as-ai-demand-deepens-global-memory-chip-shortage-163018393.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge ahead of week defined by Trump's Fed pick, jobs data",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货在特朗普的美联储选择和就业数据的影响下暴跌",
+        "summary": "Wall Street is in the throes of a contentious earnings season following a brutal week for commodities.",
+        "summary_zh": "在大宗商品经历了残酷的一周之后，华尔街正处于充满争议的财报季的阵痛之中。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-ahead-of-week-defined-by-trumps-fed-pick-jobs-data-002413401.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1769877018,
+        "publish_time": 1769991853,
+        "type": "News"
+    },
+    {
+        "title": "Oracle says it plans to raise up to $50 billion in debt and equity this year",
+        "title_zh": "甲骨文表示，计划今年筹集高达 500 亿美元的债务和股本",
+        "summary": "Oracle expects to raise $45 billion to $50 billion in 2026 to build additional capacity for ​its cloud infrastructure, the software company said on Sunday.",
+        "summary_zh": "该软件公司周日表示，预计到 2026 年将筹集 450 亿至 500 亿美元资金，为其云基础设施建设额外容量。",
+        "link": "https://finance.yahoo.com/news/oracle-plans-raise-45-billion-233951418.html",
+        "publisher": "Reuters",
+        "publish_time": 1769989191,
+        "type": "News"
+    },
+    {
+        "title": "Could there be risks to allowing AI chip sales to China?",
+        "title_zh": "允许向中国销售人工智能芯片是否存在风险？",
+        "summary": "Christopher Miller, professor at Tufts University's Fletcher School, weighs in on whether the decision to allow Nvidia (NVDA) to sale H200 chips to China may be ultimately problematic.Miller is also the author of \"Chip War: The Fight for the World's Most Critical Technology.\"T...",
+        "summary_zh": "塔夫茨大学弗莱彻学院教授克里斯托弗·米勒 (Christopher Miller) 权衡了允许英伟达 (NVDA) 向中国出售 H200 芯片的决定是否最终会出现问题。米勒还是《芯片战争：争夺世界最关键技术》一书的作者。",
+        "link": "https://finance.yahoo.com/video/could-there-be-risks-to-allowing-ai-chip-sales-to-china-190000232.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1769972400,
+        "type": "News"
+    },
+    {
+        "title": "'The haves and the have nots': Wall Street sees divide in tech stock performance after earnings reports",
+        "title_zh": "“富人和穷人”：财报发布后，华尔街认为科技股表现存在分歧",
+        "summary": "A bifurcated picture of tech earnings is emerging during this season of quarterly reports.",
+        "summary_zh": "在本季度的季度报告中，科技公司的盈利情况出现了分歧。",
+        "link": "https://finance.yahoo.com/news/the-haves-and-the-have-nots-wall-street-sees-divide-in-tech-stock-performance-after-earnings-reports-153043282.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1769959843,
+        "type": "News"
+    },
+    {
+        "title": "How investors should look at the new Tesla as it leaves EVs behind",
+        "title_zh": "投资者应该如何看待新款特斯拉，因为它已经将电动汽车抛在了后面",
+        "summary": "It's time to be real on Tesla.",
+        "summary_zh": "是时候真正对待特斯拉了。",
+        "link": "https://finance.yahoo.com/news/how-investors-should-look-at-the-new-tesla-as-it-leaves-evs-behind-133025915.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1769952625,
+        "type": "News"
+    },
+    {
+        "title": "January jobs data, Alphabet and Amazon earnings, more Warsh fallout: What to watch this week",
+        "title_zh": "1 月份就业数据、Alphabet 和亚马逊收益，以及沃什的更多影响：本周值得关注的内容",
+        "summary": "Crucial labor market data, more earnings from Big Tech giants, and continued discussion over where Kevin Warsh may lead the central bank should set the agenda in the week ahead.",
+        "summary_zh": "重要的劳动力市场数据、大型科技巨头的更多收益，以及关于凯文·沃什可能领导央行的持续讨论，应该会在未来一周确定议程。",
+        "link": "https://finance.yahoo.com/news/january-jobs-data-alphabet-and-amazon-earnings-more-warsh-fallout-what-to-watch-this-week-124723942.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1769950043,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/news/minivan-sales-surge-21-in-2025-as-millennial-dads-lead-demand-for-cars-offering-the-best-bang-for-your-buck-143022892.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1769869822,
-        "type": "News"
-    },
-    {
-        "title": "What Tesla's 'profound shift' could mean for investors",
-        "title_zh": "特斯拉的“深刻转变”对投资者意味着什么",
-        "summary": "Tesla (TSLA) released fourth quarter results after Wednesday's market close.",
-        "summary_zh": "特斯拉（TSLA）在周三收盘后发布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/video/what-teslas-profound-shift-could-mean-for-investors-130000768.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1769864400,
-        "type": "News"
-    },
-    {
-        "title": "US stocks end lower after Trump names Fed Chair nominee",
-        "title_zh": "特朗普任命美联储主席候选人后美股收低",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/us-stocks-end-lower-trump-234532097.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1769816732,
-        "type": "News"
-    },
-    {
-        "title": "Tesla just made it clear: It's no longer a car company",
-        "title_zh": "特斯拉刚刚明确表示：它不再是一家汽车公司",
-        "summary": "“We're really moving into a future that is based on autonomy,” Tesla CEO Elon Musk said on Q4 earrings call.",
-        "summary_zh": "特斯拉首席执行官埃隆·马斯克在第四季度电话会议上表示：“我们确实正在迈入一个基于自主的未来。”",
-        "link": "https://finance.yahoo.com/news/tesla-just-made-it-clear-its-no-longer-a-car-company-181935814.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1769710775,
-        "type": "News"
-    },
-    {
-        "title": "Why your utility bills are out of control: It’s not just the arctic blast, or AI",
-        "title_zh": "为什么你的水电费失控：不仅仅是北极爆炸或人工智能",
-        "summary": "Utility bills are rising faster than the rate of inflation. The aging grid, natural gas prices, and, yes, data centers, are to blame.",
-        "summary_zh": "公用事业账单的增长速度快于通货膨胀率。老化的电网、天然气价格，当然还有数据中心，都是罪魁祸首。",
-        "link": "https://finance.yahoo.com/news/why-your-utility-bills-are-out-of-control-its-not-just-the-arctic-blast-or-ai-100008895.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1769508008,
         "type": "News"
     }
 ]

@@ -1,12 +1,32 @@
 [
     {
-        "title": "Will the S&P 500 Crash in 2026? History Offers a Strikingly Clear Answer.",
-        "title_zh": "标准普尔 500 指数会在 2026 年崩盘吗？历史提供了极其明确的答案。",
-        "summary": "In spite of market gains, one thing has weighed on investors' minds in recent months.",
-        "summary_zh": "尽管市场上涨，但近几个月来有一件事一直困扰着投资者。",
-        "link": "https://finance.yahoo.com/news/p-500-crash-2026-history-233000942.html",
+        "title": "Salesforce Extends AI Reach With Army Deal And Wildfire Initiative",
+        "title_zh": "Salesforce 通过陆军交易和野火计划扩大人工智能范围",
+        "summary": "Salesforce (NYSE:CRM) secured a US$5.6b, 10 year contract with the U.S. Army to modernize operations and support AI deployment across military personnel.",
+        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）与美国陆军签订了一份价值 5.6 亿美元、为期 10 年的合同，旨在实现运营现代化并支持军事人员的人工智能部署。",
+        "link": "https://finance.yahoo.com/news/salesforce-extends-ai-reach-army-031252763.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1770001972,
+        "type": "News"
+    },
+    {
+        "title": "FTEC Offers Broader Tech Exposure Than XLK, But There's a Hidden Downside",
+        "title_zh": "FTEC 提供比 XLK 更广泛的技术展示，但有一个隐藏的缺点",
+        "summary": "Explore how two popular tech ETFs differ in diversification, holdings, and risk -- key factors for building a resilient portfolio.",
+        "summary_zh": "探索两种受欢迎的科技 ETF 在多元化、持有量和风险方面有何不同，这些是构建弹性投资组合的关键因素。",
+        "link": "https://finance.yahoo.com/news/ftec-offers-broader-tech-exposure-002002155.html",
         "publisher": "Motley Fool",
-        "publish_time": 1769902200,
+        "publish_time": 1769991602,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft Perplexity AI Deal Tests Azure Growth And Spending Concerns",
+        "title_zh": "微软 Perplexity AI 交易考验 Azure 增长和支出担忧",
+        "summary": "Microsoft has signed a three year, $750 million multi cloud AI infrastructure deal with Perplexity, centered on Azure. The agreement positions Azure as a core platform for hosting advanced AI models from partners such as OpenAI, Anthropic, and xAI.",
+        "summary_zh": "微软与 Perplexity 签署了一份为期三年、价值 7.5 亿美元的多云人工智能基础设施协议，以 Azure 为中心。该协议将 Azure 定位为托管 OpenAI、Anthropic 和 xAI 等合作伙伴的高级 AI 模型的核心平台。",
+        "link": "https://finance.yahoo.com/news/microsoft-perplexity-ai-deal-tests-211042525.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1769980242,
         "type": "News"
     },
     {
@@ -20,33 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Bristol-Myers Squibb Expands Cancer Efforts With New AI And Drug Deals",
-        "title_zh": "百时美施贵宝通过新的人工智能和药物交易扩大抗癌努力",
-        "summary": "Bristol-Myers Squibb (NYSE:BMY) has entered a new collaboration with Microsoft to use AI for earlier lung cancer detection, with a focus on underserved communities.",
-        "summary_zh": "百时美施贵宝（纽约证券交易所股票代码：BMY）已与微软达成新的合作，利用人工智能进行早期肺癌检测，重点关注服务不足的社区。",
-        "link": "https://finance.yahoo.com/news/bristol-myers-squibb-expands-cancer-191127932.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1769886687,
-        "type": "News"
-    },
-    {
-        "title": "Amazon’s Potential US$50b OpenAI Deal And What It Means For Investors",
-        "title_zh": "亚马逊潜在的 500 亿美元 OpenAI 交易及其对投资者意味着什么",
-        "summary": "Amazon.com (NasdaqGS:AMZN) is reportedly in advanced talks to invest up to US$50b in OpenAI. The potential deal would be part of a wider US$100b funding round for OpenAI. CEO Andy Jassy is said to be directly involved in discussions with OpenAI CEO Sam Altman.",
-        "summary_zh": "据报道，亚马逊 (NasdaqGS:AMZN) 正在就向 OpenAI 投资最多 500 亿美元进行深入谈判。这笔潜在交易将成为 OpenAI 一轮更广泛的 1000 亿美元融资的一部分。据称，首席执行官 Andy Jassy 直接参与了与 OpenAI 首席执行官 Sam...",
-        "link": "https://finance.yahoo.com/news/amazon-potential-us-50b-openai-171219829.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1769879539,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft’s US$750m Perplexity Deal And What It Means For Azure Valuation",
-        "title_zh": "微软 7.5 亿美元的 Perplexity 交易及其对 Azure 估值的影响",
-        "summary": "Microsoft, ticker NasdaqGS:MSFT, signed a three year, US$750 million Azure agreement with AI startup Perplexity. Perplexity plans to deploy models from OpenAI, Anthropic, and xAI through Microsoft Foundry as part of a multi cloud setup.",
-        "summary_zh": "微软（股票代码 NasdaqGS：MSFT）与人工智能初创公司 Perplexity 签署了一份为期三年、价值 7.5 亿美元的 Azure 协议。 Perplexity 计划通过 Microsoft Foundry 部署 OpenAI、Anthropic 和 xAI 的模...",
-        "link": "https://finance.yahoo.com/news/microsoft-us-750m-perplexity-deal-160756487.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1769875676,
+        "title": "Minivan sales surge 21% in 2025 as millennial dads lead demand for cars offering the 'best bang for your buck'",
+        "title_zh": "千禧一代的爸爸们引领了对“物超所值”汽车的需求，2025 年小型货车销量将猛增 21%",
+        "summary": "Most carmakers are only focused on the truck and SUV buyer, but one model saw a surge in popularity last year — the trusty family minivan.",
+        "summary_zh": "大多数汽车制造商只关注卡车和 SUV 买家，但去年有一款车型人气飙升——值得信赖的家庭小型货车。",
+        "link": "https://finance.yahoo.com/news/minivan-sales-surge-21-in-2025-as-millennial-dads-lead-demand-for-cars-offering-the-best-bang-for-your-buck-143022892.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1769869822,
         "type": "News"
     }
 ]
