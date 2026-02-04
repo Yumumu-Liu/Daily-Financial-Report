@@ -2,121 +2,121 @@
     {
         "symbol": "NVDA",
         "name": "NVIDIA Corporation",
-        "price": "185.61",
-        "change": "-6.41"
+        "price": "180.34",
+        "change": "-5.87"
     },
     {
         "symbol": "MSFT",
         "name": "Microsoft Corporation",
-        "price": "423.37",
-        "change": "-9.86"
+        "price": "411.21",
+        "change": "-12.76"
     },
     {
         "symbol": "AAPL",
         "name": "Apple Inc.",
-        "price": "270.01",
-        "change": "+15.09"
+        "price": "269.48",
+        "change": "+0.94"
     },
     {
         "symbol": "GOOGL",
         "name": "Alphabet Inc.",
-        "price": "343.69",
-        "change": "+6.17"
+        "price": "339.71",
+        "change": "-7.21"
     },
     {
         "symbol": "AMZN",
         "name": "Amazon.com, Inc.",
-        "price": "242.96",
-        "change": "+1.16"
+        "price": "238.62",
+        "change": "-5.32"
     },
     {
         "symbol": "META",
         "name": "Meta Platforms, Inc.",
-        "price": "706.41",
-        "change": "-15.47"
+        "price": "691.70",
+        "change": "-15.38"
     },
     {
         "symbol": "AVGO",
         "name": "Broadcom Inc.",
-        "price": "331.11",
-        "change": "+0.25"
+        "price": "320.33",
+        "change": "-12.69"
     },
     {
         "symbol": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
-        "price": "341.36",
-        "change": "+3.35"
+        "price": "335.75",
+        "change": "-6.85"
     },
     {
         "symbol": "TSLA",
         "name": "Tesla, Inc.",
-        "price": "421.81",
-        "change": "-9.89"
+        "price": "421.96",
+        "change": "-2.73"
     },
     {
         "symbol": "LLY",
         "name": "Eli Lilly and Company",
-        "price": "1,044.13",
-        "change": "+21.36"
+        "price": "1,003.46",
+        "change": "-42.72"
     },
     {
         "symbol": "0700.HK",
         "name": "TENCENT",
-        "price": "580.00",
-        "change": "-18.50"
+        "price": "561.50",
+        "change": "-19.50"
     },
     {
         "symbol": "1299.HK",
         "name": "AIA",
         "price": "90.10",
-        "change": "+1.05"
+        "change": "+0.65"
     },
     {
         "symbol": "0005.HK",
         "name": "HSBC HOLDINGS",
-        "price": "138.00",
-        "change": "+3.30"
+        "price": "138.30",
+        "change": "-0.60"
     },
     {
         "symbol": "0941.HK",
         "name": "CHINA MOBILE",
-        "price": "78.55",
-        "change": "+0.55"
+        "price": "79.20",
+        "change": "+0.90"
     },
     {
         "symbol": "0883.HK",
         "name": "CNOOC",
-        "price": "23.52",
-        "change": "+0.30"
+        "price": "23.72",
+        "change": "+0.36"
     },
     {
         "symbol": "0857.HK",
         "name": "PETROCHINA",
-        "price": "8.98",
-        "change": "+0.03"
+        "price": "9.07",
+        "change": "+0.10"
     },
     {
         "symbol": "3988.HK",
         "name": "BANK OF CHINA",
-        "price": "4.64",
-        "change": "+0.02"
+        "price": "4.66",
+        "change": "+0.06"
     },
     {
         "symbol": "1398.HK",
         "name": "ICBC",
-        "price": "6.44",
-        "change": "+0.03"
+        "price": "6.43",
+        "change": "+0.05"
     },
     {
         "symbol": "0939.HK",
         "name": "CCB",
-        "price": "7.87",
-        "change": "+0.04"
+        "price": "7.84",
+        "change": "+0.03"
     },
     {
         "symbol": "3690.HK",
         "name": "MEITUAN-W",
-        "price": "93.25",
-        "change": "-1.60"
+        "price": "91.15",
+        "change": "-2.05"
     }
 ]
