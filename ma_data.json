@@ -1,5 +1,35 @@
 [
     {
+        "title": "Texas Instruments makes a $7.5B deal no one saw coming",
+        "title_zh": "德州仪器 (TI) 达成一项无人预见的 7.5B 美元交易",
+        "summary": "In a move that caught Wall Street off guard, semiconductor giant Texas Instruments (TI) revealed that it is acquiringSilicon Labs. The news comes a week after TI announced its fourth-quarter earnings on Jan. 27, and coincides with Silicon Labs’ Q4 report, released Feb. 4.",
+        "summary_zh": "半导体巨头德州仪器 (TI) 透露，其正在收购 Silicon Labs，此举令华尔街措手不及。这一消息是在 TI 于 1 月 27 日公布第四季度收益一周后发布的，与 Silicon Labs 于 2 月 4 日发布的第四季度报告一致。",
+        "link": "https://finance.yahoo.com/news/texas-instruments-makes-7-5b-013700660.html",
+        "publisher": "TheStreet",
+        "publish_time": 1770255420,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+        "title_zh": "Alphabet 不会谈论谷歌与苹果的人工智能交易，即使是对投资者",
+        "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
+        "summary_zh": "Alphabet 首席执行官在公司财报电话会议上跳过了分析师有关苹果的问题。",
+        "link": "https://finance.yahoo.com/news/alphabet-won-t-talk-google-232831031.html",
+        "publisher": "TechCrunch",
+        "publish_time": 1770247711,
+        "type": "News"
+    },
+    {
+        "title": "The Dealmaking 3: Super Bowl LX & Top Issues Behind Big Game",
+        "title_zh": "交易 3：超级碗 LX 和大型比赛背后的热门问题",
+        "summary": "Watch The Dealmaking 3 of the Week Below: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features a Super Bowl special, with $1 million in the Big Game ads costs and sold out ads, $1.7 billion in its expected legal wagers, $129 per viewer spending with m...",
+        "summary_zh": "观看本周《The Dealmaking 3》：本周《体育教授》里克·霍罗 (Rick Horrow) 主持的《The Dealmaking 3》特别推出了超级碗特别节目，其中大型比赛的广告费用和广告售罄额为 100 万美元，预期合法投注额为 17 亿美元，每位观众在 m...",
+        "link": "https://sports.yahoo.com/articles/dealmaking-3-super-bowl-lx-213026499.html",
+        "publisher": "CorpGov.com",
+        "publish_time": 1770240626,
+        "type": "News"
+    },
+    {
         "title": "KKR Makes AI Play With Nearly $11 Billion Asia Data-Center Deal",
         "title_zh": "KKR 通过近 110 亿美元的亚洲数据中心交易让人工智能发挥作用",
         "summary": "A  KKR  -led consortium has agreed to acquire a Singapore data-center company valued at $10.9 billion, marking the U.S. firm’s largest Asia-Pacific infrastructure investment yet as the AI frenzy fuels demand for tech assets.",
@@ -10,43 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Nvidia nears deal to invest $20 billion in OpenAI funding round, source says",
-        "title_zh": "消息人士称，英伟达即将在 OpenAI 融资轮中投资 200 亿美元",
-        "summary": "Nvidia is nearing a deal to invest roughly $20 billion in OpenAI as part of its latest funding round, ​a person familiar with the matter told Reuters on Tuesday.",
-        "summary_zh": "一位知情人士周二告诉路透社，作为最新一轮融资的一部分，Nvidia 即将达成协议，向 OpenAI 投资约 200 亿美元。",
-        "link": "https://finance.yahoo.com/news/nvidia-nears-deal-invest-20-233126300.html",
-        "publisher": "Reuters",
-        "publish_time": 1770161486,
-        "type": "News"
-    },
-    {
-        "title": "Silicon Labs Stock Pops on Report of Deal Talks With Texas Instruments",
-        "title_zh": "Silicon Labs 股价因与德州仪器 (TI) 的交易谈判报告而上涨",
-        "summary": "Texas Instruments  is in advanced discussions about buying Silicon Laboratories, a maker of mixed-signal chips used in smart homes, industrial automation, and commercial applications, according to a report.",
-        "summary_zh": "据报道，德州仪器 (TI) 正在就收购 Silicon Laboratories 进行深入讨论，该公司是一家智能家居、工业自动化和商业应用混合信号芯片制造商。",
-        "link": "https://www.barrons.com/articles/silicon-labs-report-deal-texas-instruments-7d3c8f60?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1770161040,
-        "type": "News"
-    },
-    {
-        "title": "Looking At The Apple AAPL Narrative After Gemini Deal And Margin Concerns",
-        "title_zh": "看看 Gemini 交易后苹果 AAPL 的叙述和利润率担忧",
-        "summary": "The latest update on Apple’s stock story includes a small lift in fair value, from US$286.58 to US$291.65 per share, alongside a slightly higher discount rate at 8.31% and more conservative long run revenue growth assumptions at 6.99%.",
-        "summary_zh": "苹果股价的最新更新包括公允价值小幅上涨，从每股 286.58 美元升至 291.65 美元，贴现率略高至 8.31%，以及更保守的长期收入增长假设为 6.99%。",
-        "link": "https://finance.yahoo.com/news/looking-apple-aapl-narrative-gemini-220919975.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1770156559,
-        "type": "News"
-    },
-    {
-        "title": "Energy Transfer (ET) Expands Pipeline Power with New Deals",
-        "title_zh": "能源传输 (ET) 通过新交易扩大管道电力",
-        "summary": "Energy Transfer LP (NYSE:ET) is one of the best cheap stocks to buy for 2026. On January 21, Goldman Sachs increased its price target for Energy Transfer LP (NYSE:ET) to $19.00 from $18.50 and kept a Neutral rating on the stock.",
-        "summary_zh": "Energy Transfer LP (NYSE:ET) 是 2026 年最值得买入的廉价股票之一。1 月 21 日，高盛将 Energy Transfer LP (NYSE:ET) 的目标股价从 18.50 美元上调至 19.00 美元，并维持该股的中性评级。",
-        "link": "https://finance.yahoo.com/news/energy-transfer-et-expands-pipeline-125529163.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1770123329,
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
