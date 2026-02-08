@@ -43,3 +43,17 @@ jobs:
           # Commit only if there are changes
           git diff --staged --quiet || git commit -m "Automated market data update"
           git push
+
+      - name: Send Telegram Notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage \
+              -d chat_id=$TELEGRAM_CHAT_ID \
+              -d text="Daily Financial Report has been updated: https://yumumu-liu.github.io/Daily-Financial-Report/"
+          else
+            echo "Telegram secrets not set, skipping notification."
+          fi
