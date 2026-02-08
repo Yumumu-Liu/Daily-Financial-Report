@@ -34,18 +34,26 @@ jobs:
           python update_news.py
 
       - name: Commit and push changes
+        id: commit
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           # Pull latest changes to avoid conflicts
           git pull --rebase origin main || echo "No remote changes to pull"
           git add market_data.json marquee_data.json news_data.json ipo_data.json ma_data.json
-          # Commit only if there are changes
-          git diff --staged --quiet || git commit -m "Automated market data update"
-          git push
+          
+          # Check for changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "pushed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Automated market data update"
+            git push
+            echo "pushed=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Send Telegram Notification
-        if: success()
+        if: success() && steps.commit.outputs.pushed == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

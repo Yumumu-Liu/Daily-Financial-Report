@@ -282,25 +282,35 @@ def update_news_data():
         
     save_json(ipo_data, 'ipo_data.json')
 
+import sys
+
 def main():
     print("Starting Data Update...")
+    has_error = False
     
     try:
         update_market_data()
     except Exception as e:
         print(f"Error in update_market_data: {e}")
+        has_error = True
         
     try:
         update_marquee_data()
     except Exception as e:
         print(f"Error in update_marquee_data: {e}")
+        has_error = True
         
     try:
         update_news_data()
     except Exception as e:
         print(f"Error in update_news_data: {e}")
+        has_error = True
         
-    print("All updates completed.")
+    if has_error:
+        print("Update completed with errors.")
+        sys.exit(1)
+    else:
+        print("All updates completed successfully.")
 
 if __name__ == '__main__':
     main()
