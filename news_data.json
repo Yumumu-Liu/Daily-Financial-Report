@@ -1,5 +1,65 @@
 [
     {
+        "title": "Tech’s AI Push Risks a Bond Market Blowback: Credit Weekly",
+        "title_zh": "科技股人工智能推动债券市场面临反弹风险：《信贷周刊》",
+        "summary": "Microsoft Corp., Oracle Corp. and other “hyperscalers” are in an arms race to invest in AI and beat competitors in a technology that could change vast parts of the economy. Google parent Alphabet Inc.",
+        "summary_zh": "微软公司、甲骨文公司和其他“超大规模企业”正在展开军备竞赛，投资人工智能，并在一项可能改变大部分经济领域的技术上击败竞争对手。谷歌母公司Alphabet Inc.",
+        "link": "https://finance.yahoo.com/news/tech-ai-push-risks-bond-190132451.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1770490892,
+        "type": "News"
+    },
+    {
+        "title": "Op-ed: Rotation isn't the answer to the tech uncertainty",
+        "title_zh": "专栏：轮换并不是解决技术不确定性的答案",
+        "summary": "Economist Mohamed El-Erian considers the current tech sell-off brought on by \"secular uncertainty\" and suggests that swapping one theme for another might not work this time.",
+        "summary_zh": "经济学家穆罕默德·埃尔-埃里安认为，当前的科技股抛售是由“长期不确定性”引起的，并表示这次将一个主题换成另一个主题可能行不通。",
+        "link": "https://finance.yahoo.com/news/op-ed-rotation-isnt-the-answer-to-the-tech-uncertainty-160019288.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770480019,
+        "type": "News"
+    },
+    {
+        "title": "India-US trade deal gives tariff-free access to Harley bikes, no reprieve for Tesla",
+        "title_zh": "印美贸易协议给予哈雷摩托车免关税，特斯拉也没有得到缓刑",
+        "summary": "By Shivangi Acharya NEW DELHI, Feb 7 (Reuters) - India will slash tariffs on high-end American cars to 30% from as high as 110% and eliminate ​duties on Harley-Davidson bikes under an interim trade pact, an official ‌said, but will not make concessions for electric vehicles, a...",
+        "summary_zh": "路透新德里 2 月 7 日 - 一位官员表示，印度将根据临时贸易协定将美国高端汽车的关税从高达 110% 削减至 30%，并取消哈雷戴维森自行车的关税，但不会对电动汽车做出让步。",
+        "link": "https://finance.yahoo.com/news/india-us-trade-deal-gives-155720482.html",
+        "publisher": "Reuters",
+        "publish_time": 1770479840,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech companies are starting to look like IBM in the 1960s",
+        "title_zh": "大型科技公司开始变得像 20 世纪 60 年代的 IBM",
+        "summary": "The race to dominate the burgeoning AI market is pushing tech giants to adopt business models reminiscent of IBM's in the 1960s.",
+        "summary_zh": "为了主导新兴的人工智能市场，科技巨头纷纷采用让人想起 20 世纪 60 年代 IBM 的商业模式。",
+        "link": "https://finance.yahoo.com/news/big-tech-companies-are-starting-to-look-like-ibm-in-the-1960s-150030684.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770476430,
+        "type": "News"
+    },
+    {
+        "title": "AI chips: How AMD's product pipeline stacks up with competitors",
+        "title_zh": "AI 芯片：AMD 的产品线如何与竞争对手竞争",
+        "summary": "While Advanced Micro Devices (AMD) stock falls in spite of topping fourth quarter estimates and revenue guidance forecasts, Benchmark Company managing director and senior semiconductor research analyst Cody Acre discusses how AMD is positioned to compete with rival chipmakers ...",
+        "summary_zh": "虽然 Advanced Micro Devices (AMD) 的股价尽管超出第四季度预期和收入指导预测，但仍下跌，但 Benchmark Company 董事总经理兼高级半导体研究分析师 Cody Acre 讨论了 AMD 如何定位与竞争对手芯片制造商竞争......",
+        "link": "https://finance.yahoo.com/video/ai-chips-amds-product-pipeline-130041711.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1770469241,
+        "type": "News"
+    },
+    {
+        "title": "Gold's 'safe haven' that's trading like a meme stock",
+        "title_zh": "黄金的“避风港”，其交易就像模因股票",
+        "summary": "A rough week that battered stocks and crypto also clarified gold's standing, not as a safe-haven asset, but as another investment with volatile, stock-like elements.",
+        "summary_zh": "股市和加密货币遭受重创的艰难一周也澄清了黄金的地位，它不是作为避险资产，而是作为另一种具有波动性、类似股票成分的投资。",
+        "link": "https://finance.yahoo.com/news/golds-safe-haven-thats-trading-like-a-meme-stock-110036585.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770462036,
+        "type": "News"
+    },
+    {
         "title": "Dow closes above 50,000, Nvidia soars as traders focus on AI spending",
         "title_zh": "道指收于 50,000 点上方，交易员关注人工智能支出，英伟达股价飙升",
         "summary": "STORY: The Dow Jones Industrial Average blew past the historic 50,000 mark on Friday, climbing nearly 2.5%, while the S&P 500 gained about 2% and the Nasdaq added more than 2%.Chip stocks led the way, rallying on expectations they would benefit from increased spending on AI da...",
@@ -10,83 +70,13 @@
         "type": "News"
     },
     {
-        "title": "Markets have witnessed 'coalescence of risk taking' last 2 years",
-        "title_zh": "过去两年市场见证了“风险承担的合并”",
-        "summary": "As US stocks (^DJI, ^IXIC, ^GSPC) recovered from this week's sell-off in the tech and software industries, the Dow Jones Industrial Average managed to close above 50,000 points on Friday.",
-        "summary_zh": "随着美国股市（^DJI、^IXIC、^GSPC）从本周科技和软件行业的抛售中恢复过来，道琼斯工业平均指数周五收于 50,000 点之上。",
-        "link": "https://finance.yahoo.com/video/markets-witnessed-coalescence-risk-taking-223000056.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1770417000,
-        "type": "News"
-    },
-    {
-        "title": "Jennifer Garner-backed kids' food brand Once Upon a Farm rises 16% in Wall Street debut",
-        "title_zh": "Jennifer Garner 支持的儿童食品品牌 Once Upon a Farm 在华尔街上市首日股价上涨 16%",
-        "summary": "The stock jumped in its public debut to $21 per share.",
-        "summary_zh": "该股首次公开亮相时飙升至每股 21 美元。",
-        "link": "https://finance.yahoo.com/news/jennifer-garner-backed-kids-food-brand-once-upon-a-farm-rises-16-in-wall-street-debut-221123011.html",
+        "title": "Consumer Reports' 2026 top 10 cars all have one important feature",
+        "title_zh": "《消费者报告》2026 年十大汽车都有一个重要特征",
+        "summary": "Consumer Reports' top 10 best new cars for 2026 all feature one important feature: hybrid or fully electric power.",
+        "summary_zh": "《消费者报告》评选的 2026 年 10 款最佳新车均具有一个重要特征：混合动力或全电动。",
+        "link": "https://finance.yahoo.com/news/consumer-reports-2026-top-10-cars-all-have-one-important-feature-155934138.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1770415883,
-        "type": "News"
-    },
-    {
-        "title": "Earnings live: Amazon, Reddit stocks sink to cap jam-packed earnings week",
-        "title_zh": "财报实时公布：亚马逊、Reddit 股价下跌，为拥挤的财报周画上句号",
-        "summary": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
-        "summary_zh": "标准普尔 500 指数有望实现两位数的盈利增长，迄今为止已有超过一半的公司公布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-amazon-reddit-stocks-sink-to-cap-jam-packed-earnings-week-213155571.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770413515,
-        "type": "News"
-    },
-    {
-        "title": "Tesla executives say company is hiring to support Musk’s expanded solar strategy",
-        "title_zh": "特斯拉高管表示，公司正在招聘员工以支持马斯克扩大太阳能战略",
-        "summary": "Tesla  is hiring to support founder Elon Musk's recently announced plan to become the biggest U.S. manufacturer of solar energy components, according to online posts by senior executives at the company.",
-        "summary_zh": "据该公司高管在网上发布的帖子称，特斯拉正在招聘员工，以支持创始人埃隆·马斯克最近宣布的成为美国最大太阳能组件制造商的计划。",
-        "link": "https://finance.yahoo.com/news/tesla-executives-hiring-ramping-support-212918559.html",
-        "publisher": "Reuters",
-        "publish_time": 1770413358,
-        "type": "News"
-    },
-    {
-        "title": "Tech sell-off: Investors may have just missed chance to buy the dip",
-        "title_zh": "科技股遭抛售：投资者可能错过了逢低买入的机会",
-        "summary": "As US stocks (^DJI, ^IXIC, ^GSPC) look to recover from this week's broad sell-off in tech and software stocks, is it too late for investors to have bought the dip? Manulife John Hancock Investments co-chief investment strategist Emily Roland weighs in with her thoughts.",
-        "summary_zh": "随着美国股市（^DJI、^IXIC、^GSPC）有望从本周科技和软件股的广泛抛售中恢复过来，投资者逢低买入是否为时已晚？宏利约翰汉考克投资联席首席投资策略师艾米丽罗兰发表了自己的看法。",
-        "link": "https://finance.yahoo.com/video/tech-sell-off-investors-may-211751644.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1770412671,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow closes above 50,000 for the first time as stocks soar to cap volatile week",
-        "title_zh": "今日股市：道琼斯指数首次收于 50,000 点之上，股市飙升，结束本周的波动",
-        "summary": "Wall Street is weighing whether the AI fears behind the recent tech-driven sell-off were exaggerated.",
-        "summary_zh": "华尔街正在权衡近期科技驱动的抛售背后对人工智能的担忧是否被夸大。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-closes-above-50000-for-the-first-time-as-stocks-soar-to-cap-volatile-week-192439380.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770405879,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech set to spend $650 billion in 2026 as AI investments soar",
-        "title_zh": "随着人工智能投资飙升，大型科技公司将在 2026 年花费 6500 亿美元",
-        "summary": "Alphabet, Microsoft, Amazon, and Meta are on track to spend between $635 billion and $665 billion in their respective 2026 fiscal years.",
-        "summary_zh": "Alphabet、微软、亚马逊和 Meta 预计在各自 2026 财年的支出将在 6,350 亿至 6,650 亿美元之间。",
-        "link": "https://finance.yahoo.com/news/big-tech-set-to-spend-650-billion-in-2026-as-ai-investments-soar-163907630.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770395947,
-        "type": "News"
-    },
-    {
-        "title": "Amazon e-commerce needs to grow to keep up with AI's ROI: Analyst",
-        "title_zh": "亚马逊电子商务需要增长才能跟上人工智能的投资回报率：分析师",
-        "summary": "Amazon stock (AMZN) is dropping in Friday's pre-market trading after the tech giant released forecasts of $200 billion in capex spending for 2026 alongside its fourth quarter earnings.",
-        "summary_zh": "亚马逊 (AMZN) 股价在周五盘前交易中下跌，此前这家科技巨头发布了 2026 年资本支出和第四季度收益预计将达到 2000 亿美元的预测。",
-        "link": "https://finance.yahoo.com/video/amazon-e-commerce-needs-grow-142427002.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1770387867,
+        "publish_time": 1770134374,
         "type": "News"
     }
 ]
