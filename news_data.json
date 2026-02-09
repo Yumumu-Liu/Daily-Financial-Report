@@ -1,22 +1,42 @@
 [
     {
-        "title": "The job market was bruising in 2025. The start of 2026 doesn't look much better.",
-        "title_zh": "2025 年的就业市场一片惨淡。2026 年初的情况看起来也好不了多少。",
-        "summary": "A slew of data releases this past week suggested that at the start of 2026, the job market remained stuck at best — and flashed further signs of splintering at worst.",
-        "summary_zh": "上周发布的大量数据表明，2026 年初，就业市场充其量仍处于停滞状态，而最坏的情况则显示出进一步分裂的迹象。",
-        "link": "https://finance.yahoo.com/news/the-job-market-was-bruising-in-2025-the-start-of-2026-doesnt-look-much-better-150057009.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770562857,
+        "title": "Australian AI infrastructure developer Firmus lands $10 billion debt package from Blackstone, Coatue",
+        "title_zh": "澳大利亚人工智能基础设施开发商 Firmus 从 Blackstone 和 Coatue 获得 100 亿美元的债务计划",
+        "summary": "Australian artificial intelligence company Firmus said on Monday ​it had finalised a $10 billion debt funding ‌package led by global private equity firm Blackstone and Coatue ‌Management, a New York-based technology investor.",
+        "summary_zh": "澳大利亚人工智能公司 Firmus 周一表示，已敲定由全球私募股权公司 Blackstone 和纽约科技投资者 Coatue Management 牵头的 100 亿美元债务融资方案。",
+        "link": "https://finance.yahoo.com/news/australian-ai-infrastructure-developer-firmus-020348869.html",
+        "publisher": "Reuters",
+        "publish_time": 1770602628,
         "type": "News"
     },
     {
-        "title": "AI Fear Grips Wall Street as a New Stock Market Reality Sets In",
-        "title_zh": "随着新的股市现实的到来，人工智能的恐惧笼罩着华尔街",
-        "summary": "Last week, those concerns suddenly spilled over into the stock market. In response, investors dumped a broad range of stocks, from Expedia Group Inc. to Salesforce Inc. to London Stock Exchange Group Plc.",
-        "summary_zh": "上周，这些担忧突然蔓延到股市。作为回应，投资者纷纷抛售大量股票，从 Expedia Group Inc. 到 Salesforce Inc. 再到伦敦证券交易所集团 (London Stock Exchange Group Plc)。",
-        "link": "https://finance.yahoo.com/news/ai-fear-grips-wall-street-140007396.html",
+        "title": "Goldman Traders Warn Stock Selling Isn’t Over in Choppy Market",
+        "title_zh": "高盛交易员警告称，在动荡的市场中，股票抛售尚未结束",
+        "summary": "The S&P 500 Index has already breached its short-term trigger that prompted Commodity Trading Advisers, or CTAs, to sell stocks.",
+        "summary_zh": "标准普尔 500 指数已经突破了促使商品交易顾问 (CTA) 出售股票的短期触发点。",
+        "link": "https://finance.yahoo.com/news/goldman-traders-warn-stock-selling-160000921.html",
         "publisher": "Bloomberg",
-        "publish_time": 1770559207,
+        "publish_time": 1770600553,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Wall Street looking to continue Dow 50,000 rally",
+        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克期货上涨，华尔街预计道指将延续 50,000 点涨势",
+        "summary": "Major gauge futures are rising ahead of a week defined by jobs and inflation reports.",
+        "summary_zh": "主要指标期货在就业和通胀报告定义的一周之前上涨。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-wall-street-looking-to-continue-dow-50000-rally-001401347.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770596041,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX prioritizes lunar 'self-growing city' over Mars project, Musk says",
+        "title_zh": "马斯克表示，SpaceX 优先考虑月球“自我成长城市”而不是火星项目",
+        "summary": "Elon Musk said on Sunday that SpaceX has shifted its focus to building a \"self‑growing city\" on the moon, which could be achieved in less ​than 10 years.",
+        "summary_zh": "埃隆·马斯克周日表示，SpaceX 已将重点转向在月球上建设一座“自我成长的城市”，这可能在不到 10 年内实现。",
+        "link": "https://finance.yahoo.com/news/musk-says-spacex-prioritise-building-234344484.html",
+        "publisher": "Reuters",
+        "publish_time": 1770594224,
         "type": "News"
     },
     {
@@ -40,26 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Analysis-Investors chase cheaper, smaller companies as risk aversion hits tech sector",
-        "title_zh": "分析——随着避险情绪冲击科技行业，投资者追逐更便宜、规模较小的公司",
-        "summary": "Investors are turning to cheaper, smaller companies while reassessing how much risk they are willing to take owning volatile assets after market whipsaws pounded some sectors and assets.",
-        "summary_zh": "在市场震荡重创一些行业和资产后，投资者正在转向更便宜、规模较小的公司，同时重新评估他们愿意承担持有波动性资产的风险。",
-        "link": "https://finance.yahoo.com/news/analysis-investors-chase-cheaper-smaller-110318617.html",
-        "publisher": "Reuters",
-        "publish_time": 1770548598,
-        "type": "News"
-    },
-    {
-        "title": "Op-ed: Rotation isn't the answer to the tech uncertainty",
-        "title_zh": "专栏：轮换并不是解决技术不确定性的答案",
-        "summary": "Economist Mohamed El-Erian considers the current tech sell-off brought on by \"secular uncertainty\" and suggests that swapping one theme for another might not work this time.",
-        "summary_zh": "经济学家穆罕默德·埃尔-埃里安认为，当前的科技股抛售是由“长期不确定性”引起的，并表示这次将一个主题换成另一个主题可能行不通。",
-        "link": "https://finance.yahoo.com/news/op-ed-rotation-isnt-the-answer-to-the-tech-uncertainty-160019288.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770480019,
-        "type": "News"
-    },
-    {
         "title": "Big Tech companies are starting to look like IBM in the 1960s",
         "title_zh": "大型科技公司开始变得像 20 世纪 60 年代的 IBM",
         "summary": "The race to dominate the burgeoning AI market is pushing tech giants to adopt business models reminiscent of IBM's in the 1960s.",
@@ -70,23 +70,13 @@
         "type": "News"
     },
     {
-        "title": "Jennifer Garner-backed kids' food brand Once Upon a Farm rises 16% in Wall Street debut",
-        "title_zh": "Jennifer Garner 支持的儿童食品品牌 Once Upon a Farm 在华尔街上市首日股价上涨 16%",
-        "summary": "The stock jumped in its public debut to $21 per share.",
-        "summary_zh": "该股首次公开亮相时飙升至每股 21 美元。",
-        "link": "https://finance.yahoo.com/news/jennifer-garner-backed-kids-food-brand-once-upon-a-farm-rises-16-in-wall-street-debut-221123011.html",
+        "title": "Consumer Reports' 2026 top 10 cars all have one important feature",
+        "title_zh": "《消费者报告》2026 年十大汽车都有一个重要特征",
+        "summary": "Consumer Reports' top 10 best new cars for 2026 all feature one important feature: hybrid or fully electric power.",
+        "summary_zh": "《消费者报告》评选的 2026 年 10 款最佳新车均具有一个重要特征：混合动力或全电动。",
+        "link": "https://finance.yahoo.com/news/consumer-reports-2026-top-10-cars-all-have-one-important-feature-155934138.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1770415883,
-        "type": "News"
-    },
-    {
-        "title": "Bezos's 'darkest day' and the limits of billionaire-backed media",
-        "title_zh": "贝索斯的“至暗日子”和亿万富翁支持的媒体的局限性",
-        "summary": "Billionaires aren't saving media platforms as much as they are redefining them, as Jeff Bezos has in deep cuts to the Washington Post.",
-        "summary_zh": "亿万富翁们并没有像杰夫·贝索斯（Jeff Bezos）对《华盛顿邮报》的大幅削减那样，拯救媒体平台，而是重新定义它们。",
-        "link": "https://finance.yahoo.com/news/bezoss-darkest-day-and-the-limits-of-billionaire-backed-media-110001396.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770289201,
+        "publish_time": 1770134374,
         "type": "News"
     }
 ]
