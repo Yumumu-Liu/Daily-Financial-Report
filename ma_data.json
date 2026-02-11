@@ -1,5 +1,25 @@
 [
     {
+        "title": "Analysis-Software selloff is disrupting some M&A and IPO deals, US bankers say",
+        "title_zh": "分析——美国银行家表示，软件抛售正在扰乱一些并购和首次公开募股交易",
+        "summary": "A broad selloff in software stocks is starting to stall deal-making and IPOs in the sector as volatility makes valuations unreliable and potential buyers cautious, about a dozen financial advisers and dealmakers told Reuters.",
+        "summary_zh": "大约十几名财务顾问和交易撮合者告诉路透社，软件股的广泛抛售开始阻碍该行业的交易和首次公开募股，因为波动性导致估值不可靠，潜在买家变得谨慎。",
+        "link": "https://finance.yahoo.com/news/analysis-software-selloff-disrupting-m-110332906.html",
+        "publisher": "Reuters",
+        "publish_time": 1770807812,
+        "type": "News"
+    },
+    {
+        "title": "EC approves $32bn Google-Wiz deal after market investigation",
+        "title_zh": "市场调查后，欧盟委员会批准 Google-Wiz 价值 320 亿美元的交易",
+        "summary": "Google’s acquisition of Wiz is set to bolster its cloud security capabilities and support multi-cloud operations amid AI growth.",
+        "summary_zh": "谷歌收购 Wiz 将增强其云安全能力，并在人工智能增长的背景下支持多云运营。",
+        "link": "https://finance.yahoo.com/news/ec-approves-32bn-google-wiz-103434436.html",
+        "publisher": "Verdict",
+        "publish_time": 1770806074,
+        "type": "News"
+    },
+    {
         "title": "Curbline Properties Begins Share Offering Tied to Forward Sale Agreements",
         "title_zh": "Curbline Properties 开始与远期销售协议挂钩的股票发行",
         "summary": "Curbline Properties (CURB) started an underwritten public offering of 8 million common shares throug",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/carlyle-flagship-buyout-funds-gain-050026018.html",
         "publisher": "Financial Times",
         "publish_time": 1770699626,
-        "type": "News"
-    },
-    {
-        "title": "KKR & Co. CFO Sees Better 2026 Deal Outlook, Says Diversified Earnings Aren’t Priced In",
-        "title_zh": "KKR & Co. 首席财务官认为 2026 年交易前景更好，表示多元化收益并未反映在定价中",
-        "summary": "KKR & Co. Inc. (NYSE:KKR) CFO Rob Lewin said the firm is entering 2026 with improving visibility into deal activity, stronger fundraising momentum, and a more diversified earnings base that he believes is not fully reflected in the company’s share price.",
-        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）首席财务官 Rob Lewin 表示，进入 2026 年，该公司交易活动的可见性不断提高，融资势头更加强劲，盈利基础更加多元化，他认为这些并没有完全反映在公司股价中。",
-        "link": "https://finance.yahoo.com/news/kkr-co-cfo-sees-better-023358807.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1770690838,
-        "type": "News"
-    },
-    {
-        "title": "KKR to Add Sports Franchise Exposure Through Arctos Acquisition",
-        "title_zh": "KKR 将通过收购 Arctos 增加体育特许经营业务",
-        "summary": "KKR & Co. is set to acquire Arctos Partners in a $1.4B stock-and-cash deal, boosting its sports investing platform and launching a new Solutions business.",
-        "summary_zh": "KKR & Co. 计划以 1.4 亿美元的股票和现金交易收购 Arctos Partners，从而增强其体育投资平台并推出新的解决方案业务。",
-        "link": "https://finance.yahoo.com/news/kkr-add-sports-franchise-exposure-163300403.html",
-        "publisher": "Zacks",
-        "publish_time": 1770395580,
         "type": "News"
     }
 ]
