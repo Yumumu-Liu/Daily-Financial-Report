@@ -1,22 +1,12 @@
 [
     {
-        "title": "Analysis-Software selloff is disrupting some M&A and IPO deals, US bankers say",
-        "title_zh": "分析——美国银行家表示，软件抛售正在扰乱一些并购和首次公开募股交易",
-        "summary": "A broad selloff in software stocks is starting to stall deal-making and IPOs in the sector as volatility makes valuations unreliable and potential buyers cautious, about a dozen financial advisers and dealmakers told Reuters.",
-        "summary_zh": "大约十几名财务顾问和交易撮合者告诉路透社，软件股的广泛抛售开始阻碍该行业的交易和首次公开募股，因为波动性导致估值不可靠，潜在买家变得谨慎。",
-        "link": "https://finance.yahoo.com/news/analysis-software-selloff-disrupting-m-110332906.html",
-        "publisher": "Reuters",
-        "publish_time": 1770807812,
-        "type": "News"
-    },
-    {
-        "title": "EC approves $32bn Google-Wiz deal after market investigation",
-        "title_zh": "市场调查后，欧盟委员会批准 Google-Wiz 价值 320 亿美元的交易",
-        "summary": "Google’s acquisition of Wiz is set to bolster its cloud security capabilities and support multi-cloud operations amid AI growth.",
-        "summary_zh": "谷歌收购 Wiz 将增强其云安全能力，并在人工智能增长的背景下支持多云运营。",
-        "link": "https://finance.yahoo.com/news/ec-approves-32bn-google-wiz-103434436.html",
-        "publisher": "Verdict",
-        "publish_time": 1770806074,
+        "title": "Cathie Wood Bets Big On Musk As SpaceX–xAI Merger Anchors 17.5% Of ARK Fund",
+        "title_zh": "SpaceX 与 xAI 合并，凯茜·伍德 (Cathie Wood) 在马斯克身上押下重注，持有 ARK 基金 17.5% 的股份",
+        "summary": "Cathie Wood's flagship venture fund has realigned its heaviest bets following a record-breaking merger between Elon Musk's aerospace giant and his artificial intelligence startup.",
+        "summary_zh": "在埃隆·马斯克的航空航天巨头和他的人工智能初创公司破纪录的合并之后，凯西·伍德的旗舰风险基金重新调整了其最大的赌注。",
+        "link": "https://finance.yahoo.com/news/cathie-wood-bets-big-musk-223106626.html",
+        "publisher": "Benzinga",
+        "publish_time": 1770849066,
         "type": "News"
     },
     {
@@ -30,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Goldman’s Solomon Bullish on Dealmaking, but Expects ‘Speed Bump’",
-        "title_zh": "高盛的所罗门看好交易，但预计会出现“减速”",
-        "summary": "Goldman Sachs's chief executive reiterated a bullish forecast for mergers and acquisitions in 2026, but cautioned about a possible speed bump ahead.",
-        "summary_zh": "高盛首席执行官重申了对 2026 年并购的乐观预测，但警告称未来可能会出现放缓。",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-10-2026/card/goldman-s-solomon-bullish-on-dealmaking-but-expects-speed-bump--xRb0va2rAq6qoEX1mjji?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1770734885,
-        "type": "News"
-    },
-    {
         "title": "Carlyle’s flagship buyout funds gain after flurry of portfolio IPOs",
         "title_zh": "凯雷旗舰收购基金在一系列投资组合首次公开募股后获利",
         "summary": "US private equity pioneer Carlyle Group says performance in its flagship buyout business has stabilised after taking a handful of investments...",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/news/carlyle-flagship-buyout-funds-gain-050026018.html",
         "publisher": "Financial Times",
         "publish_time": 1770699626,
+        "type": "News"
+    },
+    {
+        "title": "KKR & Co. CFO Sees Better 2026 Deal Outlook, Says Diversified Earnings Aren’t Priced In",
+        "title_zh": "KKR & Co. 首席财务官认为 2026 年交易前景更好，表示多元化收益并未反映在定价中",
+        "summary": "KKR & Co. Inc. (NYSE:KKR) CFO Rob Lewin said the firm is entering 2026 with improving visibility into deal activity, stronger fundraising momentum, and a more diversified earnings base that he believes is not fully reflected in the company’s share price.",
+        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）首席财务官 Rob Lewin 表示，进入 2026 年，该公司交易活动的可见性不断提高，融资势头更加强劲，盈利基础更加多元化，他认为这些并没有完全反映在公司股价中。",
+        "link": "https://finance.yahoo.com/news/kkr-co-cfo-sees-better-023358807.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1770690838,
+        "type": "News"
+    },
+    {
+        "title": "KKR to Add Sports Franchise Exposure Through Arctos Acquisition",
+        "title_zh": "KKR 将通过收购 Arctos 增加体育特许经营业务",
+        "summary": "KKR & Co. is set to acquire Arctos Partners in a $1.4B stock-and-cash deal, boosting its sports investing platform and launching a new Solutions business.",
+        "summary_zh": "KKR & Co. 计划以 1.4 亿美元的股票和现金交易收购 Arctos Partners，从而增强其体育投资平台并推出新的解决方案业务。",
+        "link": "https://finance.yahoo.com/news/kkr-add-sports-franchise-exposure-163300403.html",
+        "publisher": "Zacks",
+        "publish_time": 1770395580,
         "type": "News"
     }
 ]

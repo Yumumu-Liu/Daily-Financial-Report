@@ -1,15 +1,5 @@
 [
     {
-        "title": "Analysis-Software selloff is disrupting some M&A and IPO deals, US bankers say",
-        "title_zh": "分析——美国银行家表示，软件抛售正在扰乱一些并购和首次公开募股交易",
-        "summary": "A broad selloff in software stocks is starting to stall deal-making and IPOs in the sector as volatility makes valuations unreliable and potential buyers cautious, about a dozen financial advisers and dealmakers told Reuters.",
-        "summary_zh": "大约十几名财务顾问和交易撮合者告诉路透社，软件股的广泛抛售开始阻碍该行业的交易和首次公开募股，因为波动性导致估值不可靠，潜在买家变得谨慎。",
-        "link": "https://finance.yahoo.com/news/analysis-software-selloff-disrupting-m-110332906.html",
-        "publisher": "Reuters",
-        "publish_time": 1770807812,
-        "type": "News"
-    },
-    {
         "title": "U.S. IPO Proceeds Set to Quadruple in 2026? ETFs to Consider",
         "title_zh": "2026 年美国 IPO 收益将翻两番？值得考虑的ETF",
         "summary": "As dealmaking momentum builds, the U.S. IPO market may be gearing up for a comeback in 2026. ETFs like FPX, IPO, FPXI and IPOS provide a low-stress way to play the trend.",
@@ -43,10 +33,20 @@
         "title": "The IPO Market Is Poised to Reopen. Canva, Kraken, Databricks Could Be on Deck.",
         "title_zh": "IPO市场即将重新开放。 Canva、Kraken、Databricks 都可以使用。",
         "summary": "Avery Marquez, IPO specialist at Renaissance Capital, offers advice for investors as the market for initial public offerings heats up again.",
-        "summary_zh": "随着首次公开募股市场再次升温，Renaissance Capital IPO 专家艾弗里·马尔克斯 (Avery Marquez) 为投资者提供建议。",
+        "summary_zh": "随着首次公开募股市场再次升温，文艺复兴资本 (Renaissance Capital) IPO 专家艾弗里·马尔克斯 (Avery Marquez) 为投资者提供建议。",
         "link": "https://www.barrons.com/articles/ipo-market-outlook-canva-kraken-databricks-initial-public-offerings-78b20a4c?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1763100000,
+        "type": "News"
+    },
+    {
+        "title": "IPO Market Rebounds In Q3; These Small IPOs More Than Double",
+        "title_zh": "第三季度IPO市场反弹；这些小型 IPO 数量增加了一倍多",
+        "summary": "After a slowdown in the second quarter, the IPO market is back in full stride in the third quarter, with the most initial public offerings and the most $100-million deals since 2021.",
+        "summary_zh": "经过第二季度的放缓后，IPO 市场在第三季度全面恢复，首次公开募股和 1 亿美元交易数量创 2021 年以来之最。",
+        "link": "https://www.investors.com/news/ipos-ipo-market-klarna-figma/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1758734439,
         "type": "News"
     }
 ]
