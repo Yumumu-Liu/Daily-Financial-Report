@@ -1,92 +1,92 @@
 [
     {
-        "title": "WhatsApp Says Russia Has Tried to Block Its Messaging Service",
-        "title_zh": "WhatsApp 称俄罗斯已试图阻止其消息服务",
-        "summary": "WhatsApp, which is owned by Meta Platforms Inc., said in a statement on Wednesday it was doing everything it could to keep its more than 100 million Russian users connected.",
+        "title": "Samsung Claims Lead in Race to Ship AI Chips to Nvidia",
+        "title_zh": "三星声称在向 Nvidia 运送 AI 芯片的竞赛中处于领先地位",
+        "summary": "The company said on Thursday it had sent the first commercial shipments of HBM4 to customers, without naming Nvidia, signaling a comeback after falling behind domestic contender SK Hynix Inc. in recent years.",
+        "summary_zh": "该公司周四表示，已向客户发送了首批 HBM4 商业出货量，但未点名英伟达，这标志着近年来落后于国内竞争者 SK 海力士公司后的东山再起。",
+        "link": "https://finance.yahoo.com/news/samsung-claims-lead-race-ship-081125113.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1770892990,
+        "type": "News"
+    },
+    {
+        "title": "Bitcoin price steadies but fresh fears suggest slide to $52k",
+        "title_zh": "比特币价格稳定，但新的担忧表明比特币价格跌至 5.2 万美元",
+        "summary": "Bitcoin price is up roughly 1% over the past 24 hours, but remains down nearly 4.7% over the past week.",
+        "summary_zh": "比特币价格在过去 24 小时内上涨了约 1%，但在过去一周仍下跌了近 4.7%。",
+        "link": "https://finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770891154,
+        "type": "News"
+    },
+    {
+        "title": "Gold rally loses steam after strong US jobs data",
+        "title_zh": "美国就业数据强劲后金价涨势失去动力",
+        "summary": "Stronger-than-expected US January jobs data dented expectations for near-term interest rate cuts.",
+        "summary_zh": "强于预期的美国 1 月份就业数据削弱了近期降息的预期。",
+        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-us-jobs-091523620.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770887723,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks higher as GDP figures paint mixed picture of growth",
+        "title_zh": "富时 100 实时指数：GDP 数据描绘出喜忧参半的增长图景，股市走高",
+        "summary": "UK economy grew by 0.1% in the final quarter of 2025, but the growth was slower than economists had expected.",
+        "summary_zh": "英国经济2025年最后一个季度增长0.1%，但增速低于经济学家预期。",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-uk-gdp-ons-090533529.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770887133,
+        "type": "News"
+    },
+    {
+        "title": "WhatsApp Says Russia Tries to Block Its Messaging Service",
+        "title_zh": "WhatsApp 称俄罗斯试图阻止其消息服务",
+        "summary": "WhatsApp, owned by Meta Platforms Inc., said in a statement Wednesday that it was doing everything it could to keep its more than 100 million Russian users connected.",
         "summary_zh": "Meta Platforms Inc. 旗下的 WhatsApp 在周三的一份声明中表示，该公司正在竭尽全力保持 1 亿多俄罗斯用户的联网。",
         "link": "https://finance.yahoo.com/news/whatsapp-says-russia-tried-block-013100789.html",
         "publisher": "Bloomberg",
-        "publish_time": 1770859860,
+        "publish_time": 1770887057,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after jobs surprise puts focus back on Fed's rate path",
+        "title": "UK housing market showing early signs of recovery, surveyors say",
+        "title_zh": "调查人员表示，英国房地产市场显示出复苏的早期迹象",
+        "summary": "Price drops also appear to be stabilising, according to data compiled by Royal Institution of Chartered Surveyors",
+        "summary_zh": "根据英国皇家特许测量师学会编制的数据，价格下跌似乎也趋于稳定",
+        "link": "https://finance.yahoo.com/news/uk-house-price-property-market-rics-060011910.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770876011,
+        "type": "News"
+    },
+    {
+        "title": "UK's favourite supermarket revealed",
+        "title_zh": "英国最受欢迎的超市揭晓",
+        "summary": "Marks & Spencer has been named the UK's favourite supermarket for the fifth year in a row, according to the latest Which? annual ranking.",
+        "summary_zh": "根据最新的《Which?》杂志，Marks & Spencer 连续第五年被评为英国最受欢迎的超市。年度排名。",
+        "link": "https://finance.yahoo.com/news/uk-favourite-supermarket-marks-and-spencer-which-060005374.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770876005,
+        "type": "News"
+    },
+    {
+        "title": "The UK's most affordable city for single homebuyers",
+        "title_zh": "英国单身购房者最负担得起的城市",
+        "summary": "Zoopla has revealed the areas where singles can buy for under £800 per month.",
+        "summary_zh": "Zoopla 透露了单身人士每月可以花 800 英镑以下购买的区域。",
+        "link": "https://finance.yahoo.com/news/uk-affordable-cities-single-home-buyers-zoopla-mortgage-060005343.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1770876005,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after jobs surprise puts focus back on Fed's rate path",
         "title_zh": "今日股市：就业意外让人们重新关注美联储的利率路径，道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨",
-        "summary": "Markets reacted positively to a strong January jobs report as earnings continue to roll in.",
-        "summary_zh": "随着企业盈利持续增长，市场对 1 月份强劲的就业报告做出了积极反应。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-after-jobs-surprise-puts-focus-back-on-feds-rate-path-233948599.html",
+        "summary": "Wall Street is gearing up for an update on the Fed's favored inflation gauge after the jobs report bolstered the case against cutting rates.",
+        "summary_zh": "在就业报告支持反对降息的理由后，华尔街正准备更新美联储青睐的通胀指标。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-jobs-surprise-puts-focus-back-on-feds-rate-path-233948352.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1770853188,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends muted after strong jobs data lowers rate cut bets",
-        "title_zh": "强劲的就业数据降低了降息预期，华尔街收盘低迷",
-        "summary": "STORY: US stocks were muted on Wednesday, with the Dow ticking down slightly, the S&P 500 unchanged and the Nasdaq nudging lower.The indexes had started the session on a strong note, with the S&P 500 and Nasdaq hitting their highest level in more than a week after the closely-...",
-        "summary_zh": "故事：美国股市周三表现平静，道琼斯指数小幅下跌，标准普尔 500 指数持平，纳斯达克指数微幅走低。各股指开盘走强，标准普尔 500 指数和纳斯达克指数在收盘后触及一周多来的最高水平。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-muted-strong-232651022.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1770852411,
-        "type": "News"
-    },
-    {
-        "title": "What is Google's Project Genie?",
-        "title_zh": "什么是 Google 的 Project Genie？",
-        "summary": "Google's (GOOG, GOOGL) Project Genie is making waves in the gaming sector, impacting companies like Unity (U) and Roblox (RBLX).",
-        "summary_zh": "Google（GOOG、GOOGL）的 Project Genie 正在游戏领域掀起波澜，影响了 Unity (U) 和 Roblox (RBLX) 等公司。",
-        "link": "https://finance.yahoo.com/video/googles-project-genie-225050333.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1770850250,
-        "type": "News"
-    },
-    {
-        "title": "AppLovin beats quarterly revenue estimates",
-        "title_zh": "AppLovin 超出季度收入预期",
-        "summary": "Marketing platform AppLovin beat market estimates for fourth-quarter sales on Wednesday, boosted by strong demand for its advertising services and artificial-intelligence powered tools.",
-        "summary_zh": "营销平台 AppLovin 周三第四季度的销售额超出了市场预期，这得益于其广告服务和人工智能工具的强劲需求。",
-        "link": "https://finance.yahoo.com/news/applovin-misses-quarterly-revenue-estimates-223737111.html",
-        "publisher": "Reuters",
-        "publish_time": 1770849457,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic to shoulder some costs as data center expansions threaten to raise power bills",
-        "title_zh": "由于数据中心扩建可能导致电费上涨，Anthropic 将承担部分成本",
-        "summary": "Artificial intelligence company Anthropic on Wednesday announced initiatives to limit the impact of data centers on consumer ‌energy prices amid increased investment in power-hungry infrastructure necessary for ‌AI tech.",
-        "summary_zh": "人工智能公司 Anthropic 周三宣布采取举措，限制数据中心对消费者能源价格的影响，同时增加对人工智能技术所需的耗电基础设施的投资。",
-        "link": "https://finance.yahoo.com/news/anthropic-shoulder-costs-data-center-211711768.html",
-        "publisher": "Reuters",
-        "publish_time": 1770844631,
-        "type": "News"
-    },
-    {
-        "title": "Cisco posts quarterly gross margin below estimates, shares fall",
-        "title_zh": "思科公布季度毛利率低于预期，股价下跌",
-        "summary": "Cisco Systems posted quarterly adjusted gross margin below market estimates on Wednesday, as the networking equipment provider grapples with the ‌fallout of a global memory price increase, sending its shares down 7% in ‌extended trading.",
-        "summary_zh": "思科系统公司周三公布的季度调整后毛利率低于市场预期，这家网络设备提供商正在努力应对全球内存价格上涨的影响，导致其股价在盘后交易中下跌 7%。",
-        "link": "https://finance.yahoo.com/news/cisco-raises-annual-resulsts-forecast-211224560.html",
-        "publisher": "Reuters",
-        "publish_time": 1770844344,
-        "type": "News"
-    },
-    {
-        "title": "McDonald's sales top forecasts as value push, promotions boost US results for third-straight quarter",
-        "title_zh": "麦当劳销售额超过预期，价值推动，促销活动连续第三个季度提振美国业绩",
-        "summary": "McDonald's reported another quarter of growth on Wednesday as its sales continue to turn around in the US.",
-        "summary_zh": "麦当劳周三报告称，随着其在美国的销售继续好转，该公司又实现了一个季度的增长。",
-        "link": "https://finance.yahoo.com/news/mcdonalds-sales-top-forecasts-as-value-push-promotions-boost-us-results-for-third-straight-quarter-210623181.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770843983,
-        "type": "News"
-    },
-    {
-        "title": "Meta's Indiana AI data center: 3 key details to know",
-        "title_zh": "Meta 印第安纳州人工智能数据中心：需要了解的 3 个关键细节",
-        "summary": "Meta (META) announced plans to build a $10 billion artificial intelligence (AI) data center in Indiana. Meanwhile, Pershing Square (PSHZF) CEO and hedge fund manager Bill Ackman revealed that the firm holds a large stake in Meta.",
-        "summary_zh": "Meta (META) 宣布计划斥资 100 亿美元在印第安纳州建设一座人工智能 (AI) 数据中心。与此同时，Pershing Square (PSHZF) 首席执行官兼对冲基金经理 Bill Ackman 透露，该公司持有 Meta 的大量股份。",
-        "link": "https://finance.yahoo.com/video/metas-indiana-ai-data-center-210142910.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1770843702,
         "type": "News"
     }
 ]

@@ -30,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "The IPO Market Is Poised to Reopen. Canva, Kraken, Databricks Could Be on Deck.",
-        "title_zh": "IPO市场即将重新开放。 Canva、Kraken、Databricks 都可以使用。",
-        "summary": "Avery Marquez, IPO specialist at Renaissance Capital, offers advice for investors as the market for initial public offerings heats up again.",
-        "summary_zh": "随着首次公开募股市场再次升温，文艺复兴资本 (Renaissance Capital) IPO 专家艾弗里·马尔克斯 (Avery Marquez) 为投资者提供建议。",
-        "link": "https://www.barrons.com/articles/ipo-market-outlook-canva-kraken-databricks-initial-public-offerings-78b20a4c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1763100000,
-        "type": "News"
-    },
-    {
         "title": "IPO Market Rebounds In Q3; These Small IPOs More Than Double",
         "title_zh": "第三季度IPO市场反弹；这些小型 IPO 数量增加了一倍多",
         "summary": "After a slowdown in the second quarter, the IPO market is back in full stride in the third quarter, with the most initial public offerings and the most $100-million deals since 2021.",
@@ -47,6 +37,16 @@
         "link": "https://www.investors.com/news/ipos-ipo-market-klarna-figma/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "publish_time": 1758734439,
+        "type": "News"
+    },
+    {
+        "title": "U.S. IPO Market Rebounding Fast: ETFs Likely to Gain",
+        "title_zh": "美国IPO市场快速反弹：ETF有望上涨",
+        "summary": "IPO activity is rebounding in 2025. Chances of easier Fed policy, a strong stock market, receding trade tensions and AI boom fuel momentum.",
+        "summary_zh": "IPO 活动将在 2025 年反弹。美联储政策宽松、股市强劲、贸易紧张局势缓和以及人工智能繁荣可能会推动势头。",
+        "link": "https://finance.yahoo.com/news/u-ipo-market-rebounding-fast-113300081.html",
+        "publisher": "Zacks",
+        "publish_time": 1757676780,
         "type": "News"
     }
 ]

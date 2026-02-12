@@ -1,22 +1,12 @@
 [
     {
-        "title": "Cathie Wood Bets Big On Musk As SpaceX–xAI Merger Anchors 17.5% Of ARK Fund",
-        "title_zh": "SpaceX 与 xAI 合并，凯茜·伍德 (Cathie Wood) 在马斯克身上押下重注，持有 ARK 基金 17.5% 的股份",
-        "summary": "Cathie Wood's flagship venture fund has realigned its heaviest bets following a record-breaking merger between Elon Musk's aerospace giant and his artificial intelligence startup.",
-        "summary_zh": "在埃隆·马斯克的航空航天巨头和他的人工智能初创公司破纪录的合并之后，凯西·伍德的旗舰风险基金重新调整了其最大的赌注。",
-        "link": "https://finance.yahoo.com/news/cathie-wood-bets-big-musk-223106626.html",
-        "publisher": "Benzinga",
-        "publish_time": 1770849066,
-        "type": "News"
-    },
-    {
-        "title": "Curbline Properties Begins Share Offering Tied to Forward Sale Agreements",
-        "title_zh": "Curbline Properties 开始与远期销售协议挂钩的股票发行",
-        "summary": "Curbline Properties (CURB) started an underwritten public offering of 8 million common shares throug",
-        "summary_zh": "Curbline Properties (CURB) 开始通过承销公开发行 800 万股普通股",
-        "link": "https://finance.yahoo.com/news/curbline-properties-begins-share-offering-225423380.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1770764063,
+        "title": "Astera Labs Deepens AI Infrastructure Role With Israel R&D And Hyperscaler Deals",
+        "title_zh": "Astera Labs 通过以色列研发和超大规模交易深化人工智能基础设施作用",
+        "summary": "Astera Labs opened a new R&D and design center in Israel, focused on addressing memory and data bottlenecks in AI workloads. The company announced new partnerships with Microsoft, Intel, SAP, and Amazon to advance AI connectivity and CXL attached memory solutions.",
+        "summary_zh": "Astera Labs 在以色列开设了一个新的研发和设计中心，专注于解决人工智能工作负载中的内存和数据瓶颈。该公司宣布与微软、英特尔、SAP 和亚马逊建立新的合作伙伴关系，以推进人工智能连接和 CXL 附加内存解决方案。",
+        "link": "https://finance.yahoo.com/news/astera-labs-deepens-ai-infrastructure-061354788.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1770876834,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/kkr-add-sports-franchise-exposure-163300403.html",
         "publisher": "Zacks",
         "publish_time": 1770395580,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
