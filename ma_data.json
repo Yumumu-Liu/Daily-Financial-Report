@@ -1,35 +1,5 @@
 [
     {
-        "title": "Nvidia Deepens AI Inference Push With Groq Deal And Rubin Platform",
-        "title_zh": "Nvidia 通过 Groq Deal 和 Rubin 平台深化人工智能推理推动",
-        "summary": "Nvidia agreed to acquire Groq's AI inference chip assets for $20b, aiming to expand its position in AI deployment hardware. The company introduced its new Rubin chip platform, designed around next generation memory technology for inference workloads.",
-        "summary_zh": "Nvidia 同意以 200 亿美元收购 Groq 的 AI 推理芯片资产，旨在扩大其在 AI 部署硬件领域的地位。该公司推出了新的 Rubin 芯片平台，该平台围绕下一代推理工作负载内存技术而设计。",
-        "link": "https://finance.yahoo.com/news/nvidia-deepens-ai-inference-push-021355437.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1770948835,
-        "type": "News"
-    },
-    {
-        "title": "VDC Offers Broader Consumer Staples Exposure Than XLP, But Is It Really the Better Buy?",
-        "title_zh": "VDC 提供比 XLP 更广泛的消费必需品曝光，但它真的是更好的选择吗？",
-        "summary": "Explore how these two leading ETFs differ in diversification and portfolio structure for consumer staples investors.",
-        "summary_zh": "探索这两只领先的 ETF 在消费品投资者的多元化和投资组合结构方面有何不同。",
-        "link": "https://finance.yahoo.com/news/vdc-offers-broader-consumer-staples-010030463.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1770944430,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today, Feb. 12: Transocean Advances as $5.8 Billion Valaris Deal Reshapes Offshore Drilling Landscape",
-        "title_zh": "今日股市，2 月 12 日：Transocean 股价上涨，58 亿美元的 Valaris 交易重塑海上钻探格局",
-        "summary": "Transocean’s planned Valaris acquisition and expanding contract backlog are reframing its long-term earnings outlook.",
-        "summary_zh": "Transocean 计划收购 Valaris 和不断扩大的合同积压正在重塑其长期盈利前景。",
-        "link": "https://finance.yahoo.com/news/stock-market-today-feb-12-234802533.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1770940082,
-        "type": "News"
-    },
-    {
         "title": "Salesforce Reshapes Workforce Around AI As Cimulate Deal Tests Narrative",
         "title_zh": "Salesforce 围绕 AI 重塑员工队伍，模拟交易测试叙事",
         "summary": "Salesforce announced a new workforce reduction affecting nearly 1,000 roles as part of an AI focused reorganization. The company is reshuffling senior leadership to concentrate operations around its AI first strategy.",
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/news/nuveens-13-3b-deal-222-120114130.html",
         "publisher": "Pitchbook",
         "publish_time": 1770897674,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle’s flagship buyout funds gain after flurry of portfolio IPOs",
+        "title_zh": "凯雷旗舰收购基金在一系列投资组合首次公开募股后获利",
+        "summary": "US private equity pioneer Carlyle Group says performance in its flagship buyout business has stabilised after taking a handful of investments...",
+        "summary_zh": "美国私募股权先驱凯雷集团表示，在进行了少量投资后，其旗舰收购业务的业绩已趋于稳定......",
+        "link": "https://finance.yahoo.com/news/carlyle-flagship-buyout-funds-gain-050026018.html",
+        "publisher": "Financial Times",
+        "publish_time": 1770699626,
+        "type": "News"
+    },
+    {
+        "title": "KKR & Co. CFO Sees Better 2026 Deal Outlook, Says Diversified Earnings Aren’t Priced In",
+        "title_zh": "KKR & Co. 首席财务官认为 2026 年交易前景更好，表示多元化收益并未反映在定价中",
+        "summary": "KKR & Co. Inc. (NYSE:KKR) CFO Rob Lewin said the firm is entering 2026 with improving visibility into deal activity, stronger fundraising momentum, and a more diversified earnings base that he believes is not fully reflected in the company’s share price.",
+        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）首席财务官 Rob Lewin 表示，进入 2026 年，该公司交易活动的可见性不断提高，融资势头更加强劲，盈利基础更加多元化，他认为这些并没有完全反映在公司股价中。",
+        "link": "https://finance.yahoo.com/news/kkr-co-cfo-sees-better-023358807.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1770690838,
+        "type": "News"
+    },
+    {
+        "title": "KKR to Add Sports Franchise Exposure Through Arctos Acquisition",
+        "title_zh": "KKR 将通过收购 Arctos 增加体育特许经营权",
+        "summary": "KKR & Co. is set to acquire Arctos Partners in a $1.4B stock-and-cash deal, boosting its sports investing platform and launching a new Solutions business.",
+        "summary_zh": "KKR & Co. 计划以 1.4 亿美元的股票和现金交易收购 Arctos Partners，从而增强其体育投资平台并推出新的解决方案业务。",
+        "link": "https://finance.yahoo.com/news/kkr-add-sports-franchise-exposure-163300403.html",
+        "publisher": "Zacks",
+        "publish_time": 1770395580,
         "type": "News"
     }
 ]
