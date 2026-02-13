@@ -1,92 +1,92 @@
 [
     {
-        "title": "Samsung Claims Lead in Race to Ship AI Chips to Nvidia",
-        "title_zh": "三星声称在向 Nvidia 运送 AI 芯片的竞赛中处于领先地位",
-        "summary": "The company said on Thursday it had sent the first commercial shipments of HBM4 to customers, without naming Nvidia, signaling a comeback after falling behind domestic contender SK Hynix Inc. in recent years.",
-        "summary_zh": "该公司周四表示，已向客户发送了首批 HBM4 商业出货量，但未点名英伟达，这标志着近年来落后于国内竞争者 SK 海力士公司后的东山再起。",
-        "link": "https://finance.yahoo.com/news/samsung-claims-lead-race-ship-081125113.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1770892990,
+        "title": "Anthropic hits $380 billion valuation in new funding round",
+        "title_zh": "Anthropic 在新一轮融资中估值达到 3800 亿美元",
+        "summary": "STORY: Anthropic has raised $30 billion in a new funding round that more than doubled the Claude chatbot maker's valuation to $380 billion.The round included a portion of previously announced investments from Microsoft and Nvidia.Anthropic, backed by Google and Amazon, has dif...",
+        "summary_zh": "故事：Anthropic 在新一轮融资中筹集了 300 亿美元，这家 Claude 聊天机器人制造商的估值增加了一倍多，达到 3800 亿美元。该轮融资包括微软和 Nvidia 之前宣布的部分投资。Anthropic 在谷歌和亚马逊的支持下，已...",
+        "link": "https://finance.yahoo.com/video/anthropic-hits-380-billion-valuation-050131822.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1770958891,
         "type": "News"
     },
     {
-        "title": "Bitcoin price steadies but fresh fears suggest slide to $52k",
-        "title_zh": "比特币价格稳定，但新的担忧表明比特币价格跌至 5.2 万美元",
-        "summary": "Bitcoin price is up roughly 1% over the past 24 hours, but remains down nearly 4.7% over the past week.",
-        "summary_zh": "比特币价格在过去 24 小时内上涨了约 1%，但在过去一周仍下跌了近 4.7%。",
-        "link": "https://finance.yahoo.com/news/bitcoin-price-crypto-us-jobs-101234268.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770891154,
+        "title": "Indian shares open lower as IT rout deepens",
+        "title_zh": "随着 IT 溃败加深，印度股市开盘走低",
+        "summary": "Feb 13 (Reuters) - Indian shares opened lower on Friday, tracking a drop in Wall Street and Asian equities, with information technology shares tumbling as much as 5%, extending their losses on",
+        "summary_zh": "路透 2 月 13 日 - 印度股市周五开盘走低，追随华尔街和亚洲股市的下跌，其中信息技术股跌幅高达 5%，延续了 2019 年以来的跌幅。",
+        "link": "https://finance.yahoo.com/news/indian-shares-open-lower-rout-040555761.html",
+        "publisher": "Reuters",
+        "publish_time": 1770955555,
         "type": "News"
     },
     {
-        "title": "Gold rally loses steam after strong US jobs data",
-        "title_zh": "美国就业数据强劲后金价涨势失去动力",
-        "summary": "Stronger-than-expected US January jobs data dented expectations for near-term interest rate cuts.",
-        "summary_zh": "强于预期的美国 1 月份就业数据削弱了近期降息的预期。",
-        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-us-jobs-091523620.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770887723,
-        "type": "News"
-    },
-    {
-        "title": "FTSE 100 LIVE: Stocks higher as GDP figures paint mixed picture of growth",
-        "title_zh": "富时 100 实时指数：GDP 数据描绘出喜忧参半的增长图景，股市走高",
-        "summary": "UK economy grew by 0.1% in the final quarter of 2025, but the growth was slower than economists had expected.",
-        "summary_zh": "英国经济2025年最后一个季度增长0.1%，但增速低于经济学家预期。",
-        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-uk-gdp-ons-090533529.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770887133,
-        "type": "News"
-    },
-    {
-        "title": "WhatsApp Says Russia Tries to Block Its Messaging Service",
-        "title_zh": "WhatsApp 称俄罗斯试图阻止其消息服务",
-        "summary": "WhatsApp, owned by Meta Platforms Inc., said in a statement Wednesday that it was doing everything it could to keep its more than 100 million Russian users connected.",
-        "summary_zh": "Meta Platforms Inc. 旗下的 WhatsApp 在周三的一份声明中表示，该公司正在竭尽全力保持 1 亿多俄罗斯用户的联网。",
-        "link": "https://finance.yahoo.com/news/whatsapp-says-russia-tried-block-013100789.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1770887057,
-        "type": "News"
-    },
-    {
-        "title": "UK housing market showing early signs of recovery, surveyors say",
-        "title_zh": "调查人员表示，英国房地产市场显示出复苏的早期迹象",
-        "summary": "Price drops also appear to be stabilising, according to data compiled by Royal Institution of Chartered Surveyors",
-        "summary_zh": "根据英国皇家特许测量师学会编制的数据，价格下跌似乎也趋于稳定",
-        "link": "https://finance.yahoo.com/news/uk-house-price-property-market-rics-060011910.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770876011,
-        "type": "News"
-    },
-    {
-        "title": "UK's favourite supermarket revealed",
-        "title_zh": "英国最受欢迎的超市揭晓",
-        "summary": "Marks & Spencer has been named the UK's favourite supermarket for the fifth year in a row, according to the latest Which? annual ranking.",
-        "summary_zh": "根据最新的《Which?》杂志，Marks & Spencer 连续第五年被评为英国最受欢迎的超市。年度排名。",
-        "link": "https://finance.yahoo.com/news/uk-favourite-supermarket-marks-and-spencer-which-060005374.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770876005,
-        "type": "News"
-    },
-    {
-        "title": "The UK's most affordable city for single homebuyers",
-        "title_zh": "英国单身购房者最负担得起的城市",
-        "summary": "Zoopla has revealed the areas where singles can buy for under £800 per month.",
-        "summary_zh": "Zoopla 透露了单身人士每月可以花 800 英镑以下购买的区域。",
-        "link": "https://finance.yahoo.com/news/uk-affordable-cities-single-home-buyers-zoopla-mortgage-060005343.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770876005,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after jobs surprise puts focus back on Fed's rate path",
-        "title_zh": "今日股市：就业意外让人们重新关注美联储的利率路径，道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨",
-        "summary": "Wall Street is gearing up for an update on the Fed's favored inflation gauge after the jobs report bolstered the case against cutting rates.",
-        "summary_zh": "在就业报告支持反对降息的理由后，华尔街正准备更新美联储青睐的通胀指标。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-jobs-surprise-puts-focus-back-on-feds-rate-path-233948352.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures flat as AI fears return ahead of CPI inflation report",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货持平，因人工智能担忧在 CPI 通胀报告发布前卷土重来",
+        "summary": "Stock futures are eking out gains after an AI-led sale for the major gauges.",
+        "summary_zh": "在人工智能主导的主要股指抛售之后，股票期货正在勉强上涨。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-flat-as-ai-fears-return-ahead-of-cpi-inflation-report-234823748.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1770853188,
+        "publish_time": 1770940103,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street sinks as tech rout deepens on AI angst",
+        "title_zh": "人工智能焦虑加剧，科技股溃败，华尔街下沉",
+        "summary": "STORY: Wall Street's main indexes fell sharply on Thursday, with the Dow dropping more than 1.3%, the S&P 500 shedding more than one-and-a-half percent and the Nasdaq slumping 2%.At a time when investors have been stressed about the impact AI would have on competition, a less-...",
+        "summary_zh": "故事：华尔街主要股指周四大幅下跌，道琼斯指数跌幅超过 1.3%，标准普尔 500 指数跌幅超过 1.5%，纳斯达克指数下跌 2%。在投资者对人工智能对竞争的影响感到压力之际，...",
+        "link": "https://finance.yahoo.com/video/wall-street-sinks-tech-rout-233234830.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1770939154,
+        "type": "News"
+    },
+    {
+        "title": "Apple fends off 4G wireless patent lawsuit at third trial",
+        "title_zh": "苹果在第三次审判中驳回 4G 无线专利诉讼",
+        "summary": "Apple won a defense verdict on Thursday in a lawsuit by intellectual-property management company Optis Wireless, which ‌had accused the tech giant of violating its patent rights in ‌4G wireless technology.",
+        "summary_zh": "周四，苹果在知识产权管理公司 Optis Wireless 提起的诉讼中赢得了辩护判决，该公司指控这家科技巨头侵犯了其 4G 无线技术的专利权。",
+        "link": "https://finance.yahoo.com/news/apple-fends-off-4g-wireless-225738111.html",
+        "publisher": "Reuters",
+        "publish_time": 1770937058,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI Claims DeepSeek Distilled US Models to Gain an Edge",
+        "title_zh": "OpenAI 声称 DeepSeek 提炼了美国模型以获得优势",
+        "summary": "In the memo, sent Thursday to the House Select Committee on China, OpenAI said that DeepSeek had used so-called distillation techniques as part of “ongoing efforts to free-ride on the capabilities developed by OpenAI and other US frontier labs.”  OpenAI began privately raising...",
+        "summary_zh": "OpenAI 在周四发给众议院中国问题特别委员会的备忘录中表示，DeepSeek 使用了所谓的蒸馏技术，作为“持续努力搭便车利用 OpenAI 和其他美国前沿实验室开发的功能”的一部分。  OpenAI 开始私募...",
+        "link": "https://finance.yahoo.com/news/openai-accuses-deepseek-distilling-us-213928567.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1770935453,
+        "type": "News"
+    },
+    {
+        "title": "Arista Networks forecasts upbeat revenue as AI speeding lifts demand, shares jump",
+        "title_zh": "随着人工智能加速提升需求，Arista Networks 预测收入乐观，股价上涨",
+        "summary": "Networking equipment provider Arista Networks forecast annual revenue above Wall ‌Street estimates on Thursday, betting on steady ‌demand for its electronic hardware amid the expanding presence ​of data centers, sending its shares up more than 17% in extended trading.",
+        "summary_zh": "网络设备提供商 Arista Networks 周四预测的年收入将高于华尔街的预期，押注在数据中心不断扩大的情况下对其电子硬件的需求稳定，导致其股价在盘后交易中上涨超过 17%。",
+        "link": "https://finance.yahoo.com/news/arista-networks-forecasts-upbeat-revenue-222236769.html",
+        "publisher": "Reuters",
+        "publish_time": 1770934956,
+        "type": "News"
+    },
+    {
+        "title": "Unity CEO talks Google's Project Genie, Q4 earnings beat, & more",
+        "title_zh": "Unity 首席执行官谈论 Google 的 Project Genie、第四季度盈利预期等",
+        "summary": "Google's (GOOG, GOOGL) Project Genie is making waves in the gaming world, impacting companies like Unity (U) and Roblox (RBLX). Meanwhile, on Wednesday, Unity surpassed fourth quarter expectations on both the top and bottom lines.",
+        "summary_zh": "Google（GOOG、GOOGL）的 Project Genie 正在游戏界掀起波澜，影响了 Unity (U) 和 Roblox (RBLX) 等公司。与此同时，周三，Unity 的营收和利润都超出了第四季度的预期。",
+        "link": "https://finance.yahoo.com/video/unity-ceo-talks-googles-project-213338579.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1770932018,
+        "type": "News"
+    },
+    {
+        "title": "AI fears spark sell-off in shipping, freight stocks in sign 'every corner of the market' is an AI target",
+        "title_zh": "对人工智能的担忧引发航运业和货运股的抛售，表明“市场的每个角落”都是人工智能的目标",
+        "summary": "The sell-off that started in tech has spread through a multitude of sectors as investors attempt to navigate the \"AI scare trade.\"",
+        "summary_zh": "随着投资者试图驾驭“人工智能恐慌交易”，始于科技领域的抛售已蔓延到多个行业。",
+        "link": "https://finance.yahoo.com/news/ai-fears-spark-sell-off-in-shipping-freight-stocks-in-sign-every-corner-of-the-market-is-an-ai-target-212041918.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770931241,
         "type": "News"
     }
 ]
