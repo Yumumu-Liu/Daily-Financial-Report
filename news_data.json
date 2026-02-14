@@ -40,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Amazon Mired in Longest Losing Streak Since 2006 on Capex Angst",
-        "title_zh": "亚马逊因资本支出焦虑而陷入自 2006 年以来最长的连续亏损",
-        "summary": "The stock shed 18% over the latest stretch, erasing about $463 billion in market valuation.",
-        "summary_zh": "该股最近一段时间下跌 18%，市值蒸发约 4,630 亿美元。",
-        "link": "https://finance.yahoo.com/news/amazon-eyes-longest-losing-streak-152331939.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1771016970,
-        "type": "News"
-    },
-    {
         "title": "Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow",
         "title_zh": "今日股市：随着对人工智能的担忧加剧，道琼斯指数、标准普尔 500 指数和纳斯达克指数均上涨失败，结束了一周的大幅下跌",
         "summary": "Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.",
@@ -80,13 +70,23 @@
         "type": "News"
     },
     {
-        "title": "SpaceX considering dual-class shares in IPO, Bloomberg News reports",
-        "title_zh": "据彭博社报道，SpaceX 考虑在 IPO 中采用双重股权结构",
-        "summary": "Feb 13 (Reuters) - Elon Musk's SpaceX is considering a dual-class share structure in its planned IPO this year, Bloomberg News reported on Friday, citing people familiar with the matter.",
-        "summary_zh": "路透 2 月 13 日 - 据彭博社周五援引知情人士消息报道，埃隆·马斯克 (Elon Musk) 旗下的 SpaceX 正在考虑在今年计划的 IPO 中采用双层股权结构。",
-        "link": "https://finance.yahoo.com/news/spacex-considering-dual-class-shares-191452069.html",
-        "publisher": "Reuters",
-        "publish_time": 1771010092,
+        "title": "Trump's potential steel, aluminum rollback would be latest tariff reversal amid broader affordability push",
+        "title_zh": "特朗普可能取消钢铁和铝关税，这将是在更广泛的负担能力推动下最新的关税逆转",
+        "summary": "A move to simplify tariffs on metals would be the latest of about half a dozen changes in Trump's tariff policy in recent months.",
+        "summary_zh": "简化金属关税的举措将是特朗普近几个月关税政策的六项变化中的最新一项。",
+        "link": "https://finance.yahoo.com/news/trumps-potential-steel-aluminum-rollback-would-be-latest-tariff-reversal-amid-broader-affordability-push-185956950.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771009196,
+        "type": "News"
+    },
+    {
+        "title": "Space exec. weighs in on SpaceX IPO, xAI merger",
+        "title_zh": "太空执行官SpaceX 首次公开募股、xAI 合并",
+        "summary": "As SpaceX (SPAX.PVT) prepares for a supposed IPO this year after merging with xAI, Xplore COO Lisa Rich comes on Asking for a Trend to discuss the value of Elon Musk's private space venture and what the addition of xAI brings to the table.",
+        "summary_zh": "随着 SpaceX (SPAX.PVT) 与 xAI 合并后准备今年的首次公开募股 (IPO)，Xplore 首席运营官丽莎·里奇 (Lisa Rich) 在“寻求趋势”节目中讨论了埃隆·马斯克 (Elon Musk) 私人太空企业的价值以及 xAI 的加入带来了什么。",
+        "link": "https://finance.yahoo.com/video/space-exec-weighs-spacex-ipo-183007844.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771007407,
         "type": "News"
     }
 ]
