@@ -1,92 +1,92 @@
 [
     {
-        "title": "US equity funds see outflows on rate-cut uncertainty, AI worries",
-        "title_zh": "AI担忧降息不确定性导致美国股票基金出现资金外流",
-        "summary": "Feb 13 (Reuters) - U.S. equity funds recorded outflows in the week to February 11 on worries over AI-related corporate spending and as a stronger jobs report dampened expectations of Federal Reserve",
-        "summary_zh": "路透 2 月 13 日 - 截至 2 月 11 日当周，美国股票基金录得资金流出，原因是对人工智能相关企业支出的担忧以及强劲的就业报告打压了美联储的预期",
-        "link": "https://finance.yahoo.com/news/us-equity-funds-see-outflows-104304873.html",
+        "title": "S&P 500 ends up slightly as tech dips, inflation cools",
+        "title_zh": "随着科技股下跌、通胀降温，标普 500 指数小幅收涨",
+        "summary": "STORY: U.S.",
+        "summary_zh": "故事：美国",
+        "link": "https://finance.yahoo.com/video/p-500-ends-slightly-tech-001645134.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1771028205,
+        "type": "News"
+    },
+    {
+        "title": "Market Talk: Stock's selloff most 'befuddling' of my career",
+        "title_zh": "市场谈话：股票抛售是我职业生涯中最“令人困惑”的",
+        "summary": "STORY: :: Lisa Bernhard, Reuters:: Nancy Tengler, CEO and Chief Investment Officer, Laffer Tengler InvestmentsFinancial markets, juiced for months with investor enthusiasm about the AI trade, got a rude awakening recently when software stocks around the globe sank on worries t...",
+        "summary_zh": "故事：Lisa Bernhard，路透社：南希·滕格勒 (Nancy Tengler)，Laffer Tengler Investments 首席执行官兼首席投资官 几个月来，金融市场一直因投资者对人工智能交易的热情而兴奋不已，但最近，当全球软件股因担忧人工智能而下跌时，金...",
+        "link": "https://finance.yahoo.com/video/market-talk-stocks-selloff-most-230951978.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1771024191,
+        "type": "News"
+    },
+    {
+        "title": "Tesla is still a 'long way off' from functional humanoid robots",
+        "title_zh": "特斯拉离功能性人形机器人还有“很长的路要走”",
+        "summary": "Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology.",
+        "summary_zh": "埃隆·马斯克对机器人技术和此类技术的大规模采用有着巨大的愿景。",
+        "link": "https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771022100,
+        "type": "News"
+    },
+    {
+        "title": "Musk's AI chatbot Grok gains US market share amid sexualized images backlash, data shows",
+        "title_zh": "数据显示，马斯克的人工智能聊天机器人 Grok 在色情图像强烈反对的情况下赢得了美国市场份额",
+        "summary": "Grok, Elon Musk's AI chatbot, has been gaining ground in the U.S. over the past months, data showed, even as it draws global ‌censure and regulatory scrutiny after being used to generate a wave of non-consensual sexualized images of ‌women and minors. U.S.",
+        "summary_zh": "数据显示，埃隆·马斯克 (Elon Musk) 的人工智能聊天机器人 Grok 在过去几个月在美国不断普及，尽管它在被用来生成一波未经同意的女性和未成年人性图像后受到了全球的谴责和监管审查。我们。",
+        "link": "https://finance.yahoo.com/news/musks-ai-chatbot-groks-us-213957629.html",
         "publisher": "Reuters",
-        "publish_time": 1770979384,
+        "publish_time": 1771018797,
         "type": "News"
     },
     {
-        "title": "EU project to rival Starlink must meet buyer expectations, Eutelsat CEO says",
-        "title_zh": "欧洲通信卫星公司首席执行官表示，与星链竞争的欧盟项目必须满足买家的期望",
-        "summary": "By Gianluca Lo Nostro and Maria Rugamer PARIS, Feb 13 (Reuters) - Eutelsat said on Friday that Europe's planned IRIS2 satellite network must meet customer expectations in terms of pricing and",
-        "summary_zh": "路透巴黎 2 月 13 日 - 欧洲通信卫星公司 (Eutelsat) 周五表示，欧洲规划的 IRIS2 卫星网络必须满足客户在定价和服务方面的期望。",
-        "link": "https://finance.yahoo.com/news/eu-project-rival-starlink-must-103914842.html",
+        "title": "Amazon Mired in Longest Losing Streak Since 2006 on Capex Angst",
+        "title_zh": "亚马逊因资本支出焦虑而陷入自 2006 年以来最长的连续亏损",
+        "summary": "The stock shed 18% over the latest stretch, erasing about $463 billion in market valuation.",
+        "summary_zh": "该股最近一段时间下跌 18%，市值蒸发约 4,630 亿美元。",
+        "link": "https://finance.yahoo.com/news/amazon-eyes-longest-losing-streak-152331939.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1771016970,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow",
+        "title_zh": "今日股市：随着对人工智能的担忧加剧，道琼斯指数、标准普尔 500 指数和纳斯达克指数均上涨失败，结束了一周的大幅下跌",
+        "summary": "Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.",
+        "summary_zh": "在“核心”消费者通胀率降至四年来最低水平后，美联储六月份降息的可能性有所上升。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-ai-fears-grow-210219798.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771016539,
+        "type": "News"
+    },
+    {
+        "title": "Apple stock struggles from Siri delay, Rivian rips higher",
+        "title_zh": "苹果股价因 Siri 延迟而陷入困境，Rivian 上涨",
+        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination host Josh Lipton take a closer look at some of Friday's trending tickers and stories.",
+        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 和《市场支配》主持人 Josh Lipton 仔细研究了周五的一些热门行情和故事。",
+        "link": "https://finance.yahoo.com/video/apple-stock-struggles-siri-delay-205439178.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771016079,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet bonds' lack of guardrails highlights investor confidence",
+        "title_zh": "Alphabet债券缺乏护栏凸显投资者信心",
+        "summary": "Alphabet Inc's global bond sale this week underscored the high level of investor demand for the major AI hyperscalers, but raised concerns about the debt's lack of ‌protections for existing and future bondholders.",
+        "summary_zh": "Alphabet Inc 本周的全球债券发行凸显了投资者对主要人工智能超大规模企业的高需求，但引发了人们对该债务缺乏对现有和未来债券持有人的保护的担忧。",
+        "link": "https://finance.yahoo.com/news/alphabet-bonds-lack-guardrails-highlights-193402073.html",
         "publisher": "Reuters",
-        "publish_time": 1770979154,
+        "publish_time": 1771011242,
         "type": "News"
     },
     {
-        "title": "Gold prices climb ahead of US inflation data",
-        "title_zh": "金价在美国通胀数据公布前攀升",
-        "summary": "Gold prices rose on Friday morning, as investors awaited the release of US inflation data later in the day.",
-        "summary_zh": "周五上午金价上涨，因投资者等待当天晚些时候公布的美国通胀数据。",
-        "link": "https://finance.yahoo.com/news/gold-prices-us-inflation-pound-oil-latest-092230683.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770974550,
-        "type": "News"
-    },
-    {
-        "title": "Capgemini CEO dismisses calls for full European tech autonomy",
-        "title_zh": "凯捷首席执行官驳回了欧洲科技完全自主权的呼吁",
-        "summary": "Capgemini CEO Aiman Ezzat on Friday dismissed calls for a total technological sovereignty in Europe, at a time when fraying ‌transatlantic relations have stoked concerns about the region's dependence on U.S. tech majors.",
-        "summary_zh": "凯捷首席执行官艾曼·埃扎特 (Aiman Ezzat) 周五驳回了欧洲全面技术主权的呼吁，目前跨大西洋关系的紧张引发了人们对该地区对美国科技巨头依赖的担忧。",
-        "link": "https://finance.yahoo.com/news/capgemini-ceo-dismisses-calls-full-090908245.html",
+        "title": "SpaceX considering dual-class shares in IPO, Bloomberg News reports",
+        "title_zh": "据彭博社报道，SpaceX 考虑在 IPO 中采用双重股权结构",
+        "summary": "Feb 13 (Reuters) - Elon Musk's SpaceX is considering a dual-class share structure in its planned IPO this year, Bloomberg News reported on Friday, citing people familiar with the matter.",
+        "summary_zh": "路透 2 月 13 日 - 据彭博社周五援引知情人士消息报道，埃隆·马斯克 (Elon Musk) 旗下的 SpaceX 正在考虑在今年计划的 IPO 中采用双层股权结构。",
+        "link": "https://finance.yahoo.com/news/spacex-considering-dual-class-shares-191452069.html",
         "publisher": "Reuters",
-        "publish_time": 1770973748,
-        "type": "News"
-    },
-    {
-        "title": "Europe, Asia lead equity fund inflows as US records weekly outflow",
-        "title_zh": "欧洲和亚洲引领股票基金流入，而美国创下每周资金流出记录",
-        "summary": "Feb 13 (Reuters) - European and Asian equity funds drew strong inflows in the week ended February 11 as investors trimmed exposure to U.S. mega-cap stocks on concerns about stretched valuations and",
-        "summary_zh": "路透 2 月 13 日 - 截至 2 月 11 日当周，欧洲和亚洲股票基金吸引了大量资金流入，原因是投资者因担心估值过高而削减了对美国大型股的投资。",
-        "link": "https://finance.yahoo.com/news/europe-asia-lead-equity-fund-083539568.html",
-        "publisher": "Reuters",
-        "publish_time": 1770971739,
-        "type": "News"
-    },
-    {
-        "title": "NatWest posts 24% surge in annual profits as it beats estimates",
-        "title_zh": "NatWest 年度利润飙升 24%，超出预期",
-        "summary": "NatWest has reported a 24% jump in operating profit for the year, in annual results that beat expectations.",
-        "summary_zh": "NatWest 报告今年营业利润增长 24%，年度业绩超出预期。",
-        "link": "https://finance.yahoo.com/news/natwest-profits-results-beats-estimates-fourth-quarter-074011468.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770968411,
-        "type": "News"
-    },
-    {
-        "title": "Indian IT stocks set to lose $50 billion in worst week since pandemic on AI fears",
-        "title_zh": "由于人工智能担忧，印度 IT 股票将损失 500 亿美元，这是自大流行以来最糟糕的一周",
-        "summary": "By Vivek Kumar M and Nandan Mandayam Feb 13 (Reuters) - Indian IT shares were headed for their worst week since March 2020 on Friday, losing about $50 billion in market value in a rout sparked by",
-        "summary_zh": "作者：Vivek Kumar M 和 Nandan Mandayam 2 月 13 日（路透社）——周五，印度 IT 股迎来 2020 年 3 月以来最糟糕的一周，在印度 IT 股引发的暴跌中损失了约 500 亿美元的市值。",
-        "link": "https://finance.yahoo.com/news/indian-stocks-extend-slump-head-043748390.html",
-        "publisher": "Reuters",
-        "publish_time": 1770968154,
-        "type": "News"
-    },
-    {
-        "title": "What is a UK digital gilt, and how can you buy one?",
-        "title_zh": "什么是英国数字金边债券？如何购买？",
-        "summary": "The UK is preparing to issue its first-ever “digital gilt,” a government bond recorded using blockchain technology.",
-        "summary_zh": "英国正准备发行首支“数字金边债券”，这是一种使用区块链技术记录的政府债券。",
-        "link": "https://finance.yahoo.com/news/uk-digital-gilt-crypto-ethereum-060005989.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770962405,
-        "type": "News"
-    },
-    {
-        "title": "'Our booze-infused business gives smoked salmon a rock and roll persona'",
-        "title_zh": "“我们的酒类业务赋予熏鲑鱼摇滚风格”",
-        "summary": "James Eagle founded UK artisan brand The Pished Fish in 2014 and is known for its booze-infused, Scandinavian style smoked salmon.",
-        "summary_zh": "James Eagle 于 2014 年创立了英国手工品牌 The Pished Fish，以其加酒的斯堪的纳维亚风格熏鲑鱼而闻名。",
-        "link": "https://finance.yahoo.com/news/smoked-salmon-uk-pished-fish-060100399.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1770962400,
+        "publish_time": 1771010092,
         "type": "News"
     }
 ]

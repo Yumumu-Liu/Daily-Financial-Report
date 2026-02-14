@@ -1,12 +1,32 @@
 [
     {
-        "title": "Salesforce Reshapes Workforce Around AI As Cimulate Deal Tests Narrative",
-        "title_zh": "Salesforce 围绕 AI 重塑员工队伍，模拟交易测试叙事",
-        "summary": "Salesforce announced a new workforce reduction affecting nearly 1,000 roles as part of an AI focused reorganization. The company is reshuffling senior leadership to concentrate operations around its AI first strategy.",
-        "summary_zh": "作为以人工智能为重点的重组的一部分，Salesforce 宣布了一项新的裁员计划，影响近 1,000 个职位。该公司正在改组高级领导层，以将运营重点集中在人工智能优先战略上。",
-        "link": "https://finance.yahoo.com/news/salesforce-reshapes-workforce-around-ai-221300210.html",
+        "title": "Marvell Expands AI And Cloud Role With Celestial AI And XConn Deals",
+        "title_zh": "Marvell 通过 Celestial AI 和 XConn 交易扩展 AI 和云角色",
+        "summary": "Marvell Technology (NasdaqGS:MRVL) has completed its acquisitions of Celestial AI and XConn Technologies. The deals expand Marvell's AI hardware and data center networking capabilities and deepen ties with major cloud providers, including Amazon.",
+        "summary_zh": "Marvell Technology（纳斯达克股票代码：MRVL）已完成对 Celestial AI 和 XConn Technologies 的收购。这些交易扩大了 Marvell 的人工智能硬件和数据中心网络能力，并加深了与亚马逊等主要云提供商的联系。",
+        "link": "https://finance.yahoo.com/news/marvell-expands-ai-cloud-role-042519007.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1770934380,
+        "publish_time": 1771043119,
+        "type": "News"
+    },
+    {
+        "title": "Blackstone Repositions Portfolio With Urbaser Deal And Larger Anthropic Stake",
+        "title_zh": "Blackstone 通过 Urbaser 交易和更大的 Anthropic 股份重新定位投资组合",
+        "summary": "Blackstone (NYSE:BX), alongside EQT, has agreed to acquire Spain based waste management company Urbaser, expanding its exposure to infrastructure and environmental services.",
+        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）与 EQT 已同意收购西班牙废物管理公司 Urbaser，扩大其在基础设施和环境服务领域的业务。",
+        "link": "https://finance.yahoo.com/news/blackstone-repositions-portfolio-urbaser-deal-031739081.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771039059,
+        "type": "News"
+    },
+    {
+        "title": "Apollo Global Management (APO) Valuation Check After Q4 Beat Schroders Deal And EMEA Leadership Move",
+        "title_zh": "第四季度击败施罗德交易和欧洲、中东和非洲领导层变动后阿波罗全球管理公司 (APO) 的估值检查",
+        "summary": "Apollo Global Management (APO) is in focus after a cluster of updates, including Q4 earnings that beat expectations, a new Schroders partnership in wealth and retirement products, and senior leadership changes in its EMEA business.",
+        "summary_zh": "阿波罗全球管理公司 (APO) 在一系列更新后成为焦点，包括第四季度收益超出预期、施罗德在财富和退休产品方面建立新的合作伙伴关系，以及其欧洲、中东和非洲业务的高级领导层变动。",
+        "link": "https://finance.yahoo.com/news/apollo-global-management-apo-valuation-181419368.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771006459,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/carlyle-flagship-buyout-funds-gain-050026018.html",
         "publisher": "Financial Times",
         "publish_time": 1770699626,
-        "type": "News"
-    },
-    {
-        "title": "KKR & Co. CFO Sees Better 2026 Deal Outlook, Says Diversified Earnings Aren’t Priced In",
-        "title_zh": "KKR & Co. 首席财务官认为 2026 年交易前景更好，表示多元化收益并未反映在定价中",
-        "summary": "KKR & Co. Inc. (NYSE:KKR) CFO Rob Lewin said the firm is entering 2026 with improving visibility into deal activity, stronger fundraising momentum, and a more diversified earnings base that he believes is not fully reflected in the company’s share price.",
-        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）首席财务官 Rob Lewin 表示，进入 2026 年，该公司交易活动的可见性不断提高，融资势头更加强劲，盈利基础更加多元化，他认为这些并没有完全反映在公司股价中。",
-        "link": "https://finance.yahoo.com/news/kkr-co-cfo-sees-better-023358807.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1770690838,
-        "type": "News"
-    },
-    {
-        "title": "KKR to Add Sports Franchise Exposure Through Arctos Acquisition",
-        "title_zh": "KKR 将通过收购 Arctos 增加体育特许经营权",
-        "summary": "KKR & Co. is set to acquire Arctos Partners in a $1.4B stock-and-cash deal, boosting its sports investing platform and launching a new Solutions business.",
-        "summary_zh": "KKR & Co. 计划以 1.4 亿美元的股票和现金交易收购 Arctos Partners，从而增强其体育投资平台并推出新的解决方案业务。",
-        "link": "https://finance.yahoo.com/news/kkr-add-sports-franchise-exposure-163300403.html",
-        "publisher": "Zacks",
-        "publish_time": 1770395580,
         "type": "News"
     }
 ]
