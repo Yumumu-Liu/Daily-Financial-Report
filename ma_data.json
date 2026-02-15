@@ -1,12 +1,32 @@
 [
     {
-        "title": "GLD Offers Direct Gold Exposure and More Price Stability While SLVP Delivers Bigger Swings",
-        "title_zh": "GLD 提供直接黄金敞口和更高的价格稳定性，而 SLVP 提供更大的波动",
-        "summary": "These precious metal powerhouse funds offer diverse ways to invest in rare metals such as gold and silver.",
-        "summary_zh": "这些贵金属巨头基金提供了投资黄金和白银等稀有金属的多种方式。",
-        "link": "https://finance.yahoo.com/news/gld-offers-direct-gold-exposure-013327477.html",
+        "title": "Vanguard's BND Offers Bigger Pay and Lower Fees Than Fidelity's FIGB",
+        "title_zh": "Vanguard 的 BND 提供比 Fidelity 的 FigB 更高的薪酬和更低的费用",
+        "summary": "These two bond ETFs offer broad exposure to the bond market, but one of the funds in particular may have a conisderable advantage.",
+        "summary_zh": "这两只债券 ETF 提供了广泛的债券市场敞口，但其中一只基金可能具有相当大的优势。",
+        "link": "https://finance.yahoo.com/news/vanguards-bnd-offers-bigger-pay-073642326.html",
         "publisher": "Motley Fool",
-        "publish_time": 1771119207,
+        "publish_time": 1771141002,
+        "type": "News"
+    },
+    {
+        "title": "Vanguard BND Offers Broader Bond Mix Than BlackRock's IEI",
+        "title_zh": "Vanguard BND 提供比贝莱德 IEI 更广泛的债券组合",
+        "summary": "These two fixed-income ETFs hold much more safer bonds compared to other funds, but which one will be right for you?",
+        "summary_zh": "与其他基金相比，这两种固定收益 ETF 持有的债券更安全，但哪一种适合您呢？",
+        "link": "https://finance.yahoo.com/news/vanguard-bnd-offers-broader-bond-063827712.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1771137507,
+        "type": "News"
+    },
+    {
+        "title": "Morning Movers: Tri Pointe surges after deal to be acquired",
+        "title_zh": "Morning Movers：收购交易后 Tri Pointe 股价飙升",
+        "summary": "Stock futures were trending lower, extending the pain from a sharp selloff in the previous session, but have improved following the January CPI release.",
+        "summary_zh": "股票期货呈走低趋势，延续前一交易日大幅抛售带来的痛苦，但在 1 月份 CPI 发布后有所改善。",
+        "link": "https://finance.yahoo.com/news/morning-movers-tri-pointe-surges-140123529.html",
+        "publisher": "TipRanks",
+        "publish_time": 1771077683,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/blackstone-repositions-portfolio-urbaser-deal-031739081.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1771039059,
-        "type": "News"
-    },
-    {
-        "title": "Apollo Global Management (APO) Valuation Check After Q4 Beat Schroders Deal And EMEA Leadership Move",
-        "title_zh": "第四季度击败施罗德交易和欧洲、中东和非洲领导层变动后阿波罗全球管理公司 (APO) 的估值检查",
-        "summary": "Apollo Global Management (APO) is in focus after a cluster of updates, including Q4 earnings that beat expectations, a new Schroders partnership in wealth and retirement products, and senior leadership changes in its EMEA business.",
-        "summary_zh": "阿波罗全球管理公司 (APO) 在一系列更新后成为焦点，包括第四季度收益超出预期、施罗德在财富和退休产品方面建立新的合作伙伴关系，以及其欧洲、中东和非洲业务的高级领导层变动。",
-        "link": "https://finance.yahoo.com/news/apollo-global-management-apo-valuation-181419368.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771006459,
-        "type": "News"
-    },
-    {
-        "title": "Nuveen's $13.3B deal for 222-year-old Schroders bolsters its public-to-private offering",
-        "title_zh": "Nuveen 以 13.3B 美元收购拥有 222 年历史的施罗德 (Schroders)，增强了其公私合一发行",
-        "summary": "US asset manager Nuveen has agreed to take London-listed Schroders private at a £9.9 billion (about $13.3 billion) valuation, a deal that would create a $2.5 trillion investment giant and expand its public-to-private platform.",
-        "summary_zh": "美国资产管理公司 Nuveen 同意以 99 亿英镑（约合 133 亿美元）的估值将伦敦上市公司施罗德 (Schroders) 私有化，这笔交易将创建一个价值 2.5 万亿美元的投资巨头，并扩大其公私合作平台。",
-        "link": "https://finance.yahoo.com/news/nuveens-13-3b-deal-222-120114130.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1770897674,
         "type": "News"
     }
 ]
