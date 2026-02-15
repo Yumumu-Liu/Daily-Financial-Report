@@ -1,5 +1,15 @@
 [
     {
+        "title": "AI Bubble Fears Are Creating New Derivatives",
+        "title_zh": "人工智能泡沫恐惧正在创造新的衍生品",
+        "summary": "Credit derivatives tied to single companies didn’t exist on many high-grade Big Tech issuers a year ago, and are now some of the most actively traded US contracts in the market outside of the financial sector, according to Depository Trust & Clearing Corp.",
+        "summary_zh": "根据存款信托与清算公司的数据，一年前，许多高级大型科技发行人并不存在与单一公司挂钩的信用衍生品，但现在它们已成为金融领域以外市场上交易最活跃的美国合约之一。",
+        "link": "https://finance.yahoo.com/news/ai-bubble-fears-creating-derivatives-200000530.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1771099200,
+        "type": "News"
+    },
+    {
         "title": "S&P 500 ends up slightly as tech dips, inflation cools",
         "title_zh": "随着科技股下跌、通胀降温，标普 500 指数小幅收涨",
         "summary": "STORY: U.S.",
@@ -7,66 +17,6 @@
         "link": "https://finance.yahoo.com/video/p-500-ends-slightly-tech-001645134.html",
         "publisher": "Reuters Videos",
         "publish_time": 1771028205,
-        "type": "News"
-    },
-    {
-        "title": "Market Talk: Stock's selloff most 'befuddling' of my career",
-        "title_zh": "市场谈话：股票抛售是我职业生涯中最“令人困惑”的",
-        "summary": "STORY: :: Lisa Bernhard, Reuters:: Nancy Tengler, CEO and Chief Investment Officer, Laffer Tengler InvestmentsFinancial markets, juiced for months with investor enthusiasm about the AI trade, got a rude awakening recently when software stocks around the globe sank on worries t...",
-        "summary_zh": "故事：Lisa Bernhard，路透社：南希·滕格勒 (Nancy Tengler)，Laffer Tengler Investments 首席执行官兼首席投资官 几个月来，金融市场一直因投资者对人工智能交易的热情而兴奋不已，但最近，当全球软件股因担忧人工智能而下跌时，金...",
-        "link": "https://finance.yahoo.com/video/market-talk-stocks-selloff-most-230951978.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1771024191,
-        "type": "News"
-    },
-    {
-        "title": "Tesla is still a 'long way off' from functional humanoid robots",
-        "title_zh": "特斯拉离功能性人形机器人还有“很长的路要走”",
-        "summary": "Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology.",
-        "summary_zh": "埃隆·马斯克对机器人技术和此类技术的大规模采用有着巨大的愿景。",
-        "link": "https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771022100,
-        "type": "News"
-    },
-    {
-        "title": "Musk's AI chatbot Grok gains US market share amid sexualized images backlash, data shows",
-        "title_zh": "数据显示，马斯克的人工智能聊天机器人 Grok 在色情图像强烈反对的情况下赢得了美国市场份额",
-        "summary": "Grok, Elon Musk's AI chatbot, has been gaining ground in the U.S. over the past months, data showed, even as it draws global ‌censure and regulatory scrutiny after being used to generate a wave of non-consensual sexualized images of ‌women and minors. U.S.",
-        "summary_zh": "数据显示，埃隆·马斯克 (Elon Musk) 的人工智能聊天机器人 Grok 在过去几个月在美国不断普及，尽管它在被用来生成一波未经同意的女性和未成年人性图像后受到了全球的谴责和监管审查。我们。",
-        "link": "https://finance.yahoo.com/news/musks-ai-chatbot-groks-us-213957629.html",
-        "publisher": "Reuters",
-        "publish_time": 1771018797,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq gains fizzle to cap week of sharp losses as AI fears grow",
-        "title_zh": "今日股市：随着对人工智能的担忧加剧，道琼斯指数、标准普尔 500 指数和纳斯达克指数均上涨失败，结束了一周的大幅下跌",
-        "summary": "Odds of a Fed rate cut in June nudge higher after 'core' consumer inflation comes in at its lowest rate in four years.",
-        "summary_zh": "在“核心”消费者通胀率降至四年来最低水平后，美联储六月份降息的可能性有所上升。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-gains-fizzle-to-cap-week-of-sharp-losses-as-ai-fears-grow-210219798.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771016539,
-        "type": "News"
-    },
-    {
-        "title": "Apple stock struggles from Siri delay, Rivian rips higher",
-        "title_zh": "苹果股价因 Siri 延迟而陷入困境，Rivian 上涨",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination host Josh Lipton take a closer look at some of Friday's trending tickers and stories.",
-        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 和《市场支配》主持人 Josh Lipton 仔细研究了周五的一些热门行情和故事。",
-        "link": "https://finance.yahoo.com/video/apple-stock-struggles-siri-delay-205439178.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771016079,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet bonds' lack of guardrails highlights investor confidence",
-        "title_zh": "Alphabet债券缺乏护栏凸显投资者信心",
-        "summary": "Alphabet Inc's global bond sale this week underscored the high level of investor demand for the major AI hyperscalers, but raised concerns about the debt's lack of ‌protections for existing and future bondholders.",
-        "summary_zh": "Alphabet Inc 本周的全球债券发行凸显了投资者对主要人工智能超大规模企业的高需求，但引发了人们对该债务缺乏对现有和未来债券持有人的保护的担忧。",
-        "link": "https://finance.yahoo.com/news/alphabet-bonds-lack-guardrails-highlights-193402073.html",
-        "publisher": "Reuters",
-        "publish_time": 1771011242,
         "type": "News"
     },
     {
@@ -80,13 +30,23 @@
         "type": "News"
     },
     {
-        "title": "Space exec. weighs in on SpaceX IPO, xAI merger",
-        "title_zh": "太空执行官SpaceX 首次公开募股、xAI 合并",
-        "summary": "As SpaceX (SPAX.PVT) prepares for a supposed IPO this year after merging with xAI, Xplore COO Lisa Rich comes on Asking for a Trend to discuss the value of Elon Musk's private space venture and what the addition of xAI brings to the table.",
-        "summary_zh": "随着 SpaceX (SPAX.PVT) 与 xAI 合并后准备今年的首次公开募股 (IPO)，Xplore 首席运营官丽莎·里奇 (Lisa Rich) 在“寻求趋势”节目中讨论了埃隆·马斯克 (Elon Musk) 私人太空企业的价值以及 xAI 的加入带来了什么。",
-        "link": "https://finance.yahoo.com/video/space-exec-weighs-spacex-ipo-183007844.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771007407,
+        "title": "Big Tech's data center push has sent electricity bills higher. Lawmakers want to slow them down.",
+        "title_zh": "大型科技公司的数据中心建设导致电费上涨。立法者希望减缓他们的速度。",
+        "summary": "As Big Tech has surged ahead with a mass data center build-out, state congressional leaders have begun introducing bills that would pause developments in their states.",
+        "summary_zh": "随着大型科技公司大规模扩建数据中心，各州国会领导人已开始提出暂停本州开发的法案。",
+        "link": "https://finance.yahoo.com/news/big-techs-data-center-push-has-sent-electricity-bills-higher-lawmakers-want-to-slow-them-down-144555492.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770907555,
+        "type": "News"
+    },
+    {
+        "title": "Retirement investors go global",
+        "title_zh": "退休投资者走向全球",
+        "summary": "Retirement investors are turning their attention overseas and putting more money into international stocks and emerging markets, according to a new report.",
+        "summary_zh": "一份新报告显示，退休投资者正在将注意力转向海外，并将更多资金投入国际股票和新兴市场。",
+        "link": "https://finance.yahoo.com/news/retirement-investors-go-global-181205806.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1770833525,
         "type": "News"
     }
 ]
