@@ -1,5 +1,65 @@
 [
     {
+        "title": "The stock traits to prioritize when rotating out of risk",
+        "title_zh": "摆脱风险时应优先考虑的股票特征",
+        "summary": "As more investors pivot out of high-risk sectors — especially after February's software stock sell-off sparked by AI concerns — CIBC Capital Markets managing director and head of equity & portfolio strategy, Chris Harvey explains the characteristics that he is looking for in s...",
+        "summary_zh": "随着越来越多的投资者撤离高风险行业——尤其是在 2 月份因人工智能担忧引发软件股抛售之后——CIBC 资本市场董事总经理兼股票和投资组合策略主管 Chris Harvey 解释了他在软件股票中寻找的特征。",
+        "link": "https://finance.yahoo.com/video/stock-traits-prioritize-rotating-risk-110014222.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771239614,
+        "type": "News"
+    },
+    {
+        "title": "The Big Tech losers as AI fears wipe billions of dollars off valuations",
+        "title_zh": "由于对人工智能的担忧，大型科技公司的输家使估值损失了数十亿美元",
+        "summary": "Concerns over risks to Microsoft's AI business and growing competition from Google ‌and Anthropic have wiped roughly $613 billion off its market value.",
+        "summary_zh": "对微软人工智能业务风险的担忧以及来自谷歌和 Anthropic 日益激烈的竞争已使其市值蒸发约 6130 亿美元。",
+        "link": "https://finance.yahoo.com/news/big-tech-stocks-lose-billions-093834534.html",
+        "publisher": "Reuters",
+        "publish_time": 1771234714,
+        "type": "News"
+    },
+    {
+        "title": "Gold prices dip as investors book profits",
+        "title_zh": "随着投资者获利了结，金价下跌",
+        "summary": "Thin holiday trading and profit-taking pushed bullion lower",
+        "summary_zh": "假日交易清淡和获利回吐推低金价",
+        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-us-jobs-cpi-us-iran-092017243.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771233617,
+        "type": "News"
+    },
+    {
+        "title": "Fund Beating 99% of Peers Sees Few Software Firms Surviving AI",
+        "title_zh": "击败 99% 同行的基金发现很少有软件公司能在人工智能中幸存",
+        "summary": "“We think application software faces an existential threat from AI,” said Evans, whose $12 billion global technology fund beat 99% of peers over one year and 97% over five.",
+        "summary_zh": "埃文斯表示：“我们认为应用软件面临着来自人工智能的生存威胁。”他的 120 亿美元全球技术基金在一年内击败了 99% 的同行，在五年内击败了 97% 的同行。",
+        "link": "https://finance.yahoo.com/news/fund-beating-99-peers-sees-090000453.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1771232400,
+        "type": "News"
+    },
+    {
+        "title": "China's humanoid robots ready for Lunar New Year showtime",
+        "title_zh": "中国仿人机器人准备迎接农历新年表演",
+        "summary": "China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and Beijing's push to dominate humanoid robots and the future of manufacturing.",
+        "summary_zh": "中国收视率最高的电视节目，一年一度的中央电视台春节联欢晚会，将于周一晚些时候播出，展示中国前沿的产业政策以及北京推动人形机器人和制造业未来主导地位的努力。",
+        "link": "https://finance.yahoo.com/news/chinas-humanoid-robots-ready-lunar-080728852.html",
+        "publisher": "Reuters",
+        "publish_time": 1771229248,
+        "type": "News"
+    },
+    {
+        "title": "House prices 'stand still' in February at an average £368,019",
+        "title_zh": "2月份房价“停滞不前”，平均为368,019英镑",
+        "summary": "House prices in Britain have held steady in February, with the average price of a newly listed home coming in at £368,019, says Rightmove.",
+        "summary_zh": "Rightmove 表示，2 月份英国房价保持稳定，新上市房屋的平均价格为 368,019 英镑。",
+        "link": "https://finance.yahoo.com/news/house-prices-property-february-rightmove-060057828.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771221657,
+        "type": "News"
+    },
+    {
         "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis",
         "title_zh": "人工智能对内存的旺盛需求正在加剧日益严重的芯片危机",
         "summary": "Since the start of 2026, Tesla Inc., Apple Inc. and a dozen other major corporations have signaled that the shortage of DRAM, or dynamic random access memory — the fundamental building block of almost all technology — will constrain production.",
@@ -27,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1771171254,
-        "type": "News"
-    },
-    {
-        "title": "Walmart earnings, spending data, and more AI disruptions: What to watch this week",
-        "title_zh": "沃尔玛盈利、支出数据和更多人工智能颠覆：本周值得关注的内容",
-        "summary": "A holiday-shortened trading week and a continuing series of rolling AI sell-off greet investors in the week ahead.",
-        "summary_zh": "未来一周，投资者将迎来假期缩短的交易周和一系列持续的人工智能抛售。",
-        "link": "https://finance.yahoo.com/news/walmart-earnings-spending-data-and-more-ai-disruptions-what-to-watch-this-week-125712762.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771160232,
-        "type": "News"
-    },
-    {
-        "title": "As AI agents take over, security is becoming a bigger concern",
-        "title_zh": "随着人工智能代理的接管，安全性正成为一个更大的问题",
-        "summary": "A new report from Microsoft says AI agents could pose a cybersecurity threat to some businesses.",
-        "summary_zh": "微软的一份新报告称，人工智能代理可能对某些企业构成网络安全威胁。",
-        "link": "https://finance.yahoo.com/news/as-ai-agents-take-over-security-is-becoming-a-bigger-concern-160109297.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1770739269,
         "type": "News"
     }
 ]

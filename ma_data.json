@@ -1,25 +1,5 @@
 [
     {
-        "title": "'Taipei Is Home': Nvidia Seals The Deal On Massive New Taiwan Headquarters",
-        "title_zh": "“台北是家”：英伟达签署大型新台湾总部协议",
-        "summary": "Taiwan is reinforcing its role as a global AI and semiconductor hub as Nvidia Corp. (NASDAQ:NVDA) moves forward with plans for a major new headquarters in Taipei.",
-        "summary_zh": "随着英伟达公司（纳斯达克股票代码：NVDA）推进在台北设立主要新总部的计划，台湾正在加强其作为全球人工智能和半导体中心的作用。",
-        "link": "https://finance.yahoo.com/news/taipei-home-nvidia-seals-deal-153224032.html",
-        "publisher": "Benzinga",
-        "publish_time": 1771169544,
-        "type": "News"
-    },
-    {
-        "title": "Apple Goes Full Netflix: The 'Severance' Deal Reveals Its Next Big Bet",
-        "title_zh": "苹果全面收购 Netflix：“遣散费”交易揭示了其下一个大赌注",
-        "summary": "Decades ago, when Netflix Inc (NASDAQ:NFLX) launched its streaming service, the company relied on established movie and television studios for content. Today, Netflix is raking in profits with its own, self-produced content.",
-        "summary_zh": "几十年前，当 Netflix Inc（纳斯达克股票代码：NFLX）推出流媒体服务时，该公司依赖成熟的电影和电视工作室来提供内容。如今，Netflix 正在通过自己制作的内容赚取利润。",
-        "link": "https://finance.yahoo.com/news/apple-goes-full-netflix-severance-114603158.html",
-        "publisher": "Benzinga",
-        "publish_time": 1771155963,
-        "type": "News"
-    },
-    {
         "title": "Blackstone Repositions Portfolio With Urbaser Deal And Larger Anthropic Stake",
         "title_zh": "Blackstone 通过 Urbaser 交易和更大的 Anthropic 股份重新定位投资组合",
         "summary": "Blackstone (NYSE:BX), alongside EQT, has agreed to acquire Spain based waste management company Urbaser, expanding its exposure to infrastructure and environmental services.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/news/nuveens-13-3b-deal-222-120114130.html",
         "publisher": "Pitchbook",
         "publish_time": 1770897674,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle’s flagship buyout funds gain after flurry of portfolio IPOs",
+        "title_zh": "凯雷旗舰收购基金在一系列投资组合首次公开募股后获利",
+        "summary": "US private equity pioneer Carlyle Group says performance in its flagship buyout business has stabilised after taking a handful of investments...",
+        "summary_zh": "美国私募股权先驱凯雷集团表示，在进行了少量投资后，其旗舰收购业务的业绩已趋于稳定......",
+        "link": "https://finance.yahoo.com/news/carlyle-flagship-buyout-funds-gain-050026018.html",
+        "publisher": "Financial Times",
+        "publish_time": 1770699626,
+        "type": "News"
+    },
+    {
+        "title": "KKR & Co. CFO Sees Better 2026 Deal Outlook, Says Diversified Earnings Aren’t Priced In",
+        "title_zh": "KKR & Co. 首席财务官认为 2026 年交易前景更好，表示多元化收益并未反映在定价中",
+        "summary": "KKR & Co. Inc. (NYSE:KKR) CFO Rob Lewin said the firm is entering 2026 with improving visibility into deal activity, stronger fundraising momentum, and a more diversified earnings base that he believes is not fully reflected in the company’s share price.",
+        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）首席财务官 Rob Lewin 表示，进入 2026 年，该公司交易活动的可见性不断提高，融资势头更加强劲，盈利基础更加多元化，他认为这些并没有完全反映在公司股价中。",
+        "link": "https://finance.yahoo.com/news/kkr-co-cfo-sees-better-023358807.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1770690838,
         "type": "News"
     }
 ]
