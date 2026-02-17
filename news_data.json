@@ -1,42 +1,82 @@
 [
     {
-        "title": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year",
-        "title_zh": "莫迪抓住人工智能峰会的机会，在艰难的一年后重申印度的全球雄心",
-        "summary": "Two months into the new year, he’s secured major trade pacts with the European Union and the US, will host several foreign leaders in the coming weeks who want to clinch their own deals, is riding a wave of popular support following key state elections, and his top officials e...",
-        "summary_zh": "新年伊始两个月，他与欧盟和美国达成了重大贸易协定，将在未来几周内接待几位希望达成自己协议的外国领导人，在关键州选举后获得民众支持，他的高级官员...",
-        "link": "https://finance.yahoo.com/news/modi-seizes-ai-summit-assert-000000628.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1771302236,
-        "type": "News"
-    },
-    {
-        "title": "Asia markets make cautious start, oil rises on US-Iran talks",
-        "title_zh": "亚洲市场谨慎开局，美伊谈判推动油价上涨",
-        "summary": "By Scott Murdoch SYDNEY, Feb 17 (Reuters) - Asian financial markets were treading carefully on Tuesday in holiday-thinned trading, but oil pushed higher with U.S and Iran nuclear negotiations in",
-        "summary_zh": "路透悉尼 2 月 17 日 - 周二，亚洲金融市场在假期清淡的交易中谨慎行事，但随着美国和伊朗核谈判的推动，油价走高。",
-        "link": "https://finance.yahoo.com/news/asia-markets-cautious-start-oil-011826465.html",
+        "title": "India's Infosys ties up with Anthropic, days after IT selloff",
+        "title_zh": "IT 抛售几天后，印度 Infosys 与 Anthropic 合作",
+        "summary": "By Sai Ishwarbharath B and Haripriya Suresh BENGALURU, Feb 17 (Reuters) - Infosys unveiled a partnership with Anthropic on Tuesday, days after investor concerns that AI tools would disrupt the",
+        "summary_zh": "作者：Sai Ishwarbharath B 和 Haripriya Suresh 班加罗尔，2 月 17 日（路透社）——Infosys 周二公布了与 Anthropic 的合作伙伴关系，几天前，投资者担心人工智能工具会扰乱人工智能工具的发展。",
+        "link": "https://finance.yahoo.com/news/infosys-reveals-ai-revenue-share-073815757.html",
         "publisher": "Reuters",
-        "publish_time": 1771291106,
+        "publish_time": 1771326737,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb into shortened week with AI disruption fears in focus",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货进入缩短的一周，人工智能颠覆担忧成为焦点",
+        "title": "AI: Is Microsoft's growth keeping up with investor expectations?",
+        "title_zh": "AI：微软的增长符合投资者的预期吗？",
+        "summary": "Jefferies senior analyst Brent Thill takes a closer look at Microsoft's (MSFT) path for growth as it continues to be a key player in the AI race and how investors seem to be reacting, expecting an inflection point to materialize in the tech stock.",
+        "summary_zh": "杰富瑞 (Jefferies) 高级分析师布伦特·蒂尔 (Brent Thill) 仔细研究了微软 (MSFT) 的增长路径，因为它仍然是人工智能竞赛中的关键参与者，以及投资者似乎如何反应，预计科技股将出现拐点。",
+        "link": "https://finance.yahoo.com/video/ai-microsofts-growth-keeping-investor-110035368.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771326035,
+        "type": "News"
+    },
+    {
+        "title": "Stock Pickers See Their Moment to Shine in Market’s AI Freak-Out",
+        "title_zh": "选股者看到了自己在人工智能市场的疯狂浪潮中大放异彩的时刻",
+        "summary": "Yes, artificial intelligence is likely to disrupt companies and put some of them out of business. When a new AI tool threatens to upset an industry, investors are simply selling the whole group.",
+        "summary_zh": "是的，人工智能很可能会颠覆企业，并导致一些企业破产。当一种新的人工智能工具有可能扰乱一个行业时，投资者只会卖掉整个行业。",
+        "link": "https://finance.yahoo.com/news/stock-pickers-see-moment-shine-103000798.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1771324200,
+        "type": "News"
+    },
+    {
+        "title": "Trending tickers: Nvidia, AMD, Antofagasta, Debenhams and IHG",
+        "title_zh": "热门股票：Nvidia、AMD、Antofagasta、Debenhams 和 IHG",
+        "summary": "The latest investor updates on stocks that are trending on Tuesday.",
+        "summary_zh": "投资者对周二股票趋势的最新更新。",
+        "link": "https://finance.yahoo.com/news/nvidia-amd-antofagasta-debenhams-ihg-trending-tickers-095554435.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771322154,
+        "type": "News"
+    },
+    {
+        "title": "Pound drops as traders anticipate interest rate cut in March",
+        "title_zh": "交易员预计三月份降息，英镑下跌",
+        "summary": "Sterling has fallen to its lowest rate since 6 February",
+        "summary_zh": "英镑汇率跌至2月6日以来的最低水平",
+        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-interest-rates-085954062.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771318794,
+        "type": "News"
+    },
+    {
+        "title": "UK unemployment reaches five-year high and wage growth continues to slow",
+        "title_zh": "英国失业率创五年新高 工资增长持续放缓",
+        "summary": "The rate of UK unemployment rose to 5.2% in October to December, its highest point since early 2021",
+        "summary_zh": "英国10月至12月失业率升至5.2%，创2021年初以来最高点",
+        "link": "https://finance.yahoo.com/news/uk-unemployment-five-year-high-wage-growth-jobs-073218919.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771313538,
+        "type": "News"
+    },
+    {
+        "title": "Adani bets $100 billion on data centres to power India’s AI ambitions",
+        "title_zh": "阿达尼斥资 1000 亿美元建设数据中心，以推动印度的人工智能雄心",
+        "summary": "Adani Enterprises said on Tuesday that it will invest $100 billion to build renewable-powered AI-ready data centres by 2035, positioning India as ‌a contender in the global AI race.",
+        "summary_zh": "Adani Enterprises 周二表示，将在 2035 年之前投资 1000 亿美元建设可再生能源驱动的人工智能数据中心，使印度成为全球人工智能竞赛的竞争者。",
+        "link": "https://finance.yahoo.com/news/indias-adani-invest-100-billion-070737912.html",
+        "publisher": "Reuters",
+        "publish_time": 1771312057,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall ahead of shortened week with AI disruption fears in focus",
+        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货在本周缩短前下跌，人工智能颠覆担忧成为焦点",
         "summary": "Wall Street is in the middle of an AI shake-up as a tech sell-off has now extended to a wide range of industries.",
         "summary_zh": "华尔街正处于人工智能变革之中，科技股的抛售现已蔓延到广泛的行业。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-into-shortened-week-with-ai-disruption-fears-in-focus-235251283.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-ahead-of-shortened-week-with-ai-disruption-fears-in-focus-235251983.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1771285971,
-        "type": "News"
-    },
-    {
-        "title": "Stocks, Bonds Fluctuate in Holiday-Thinned Trade: Markets Wrap",
-        "title_zh": "股票、债券在假日交易清淡中波动：市场总结",
-        "summary": "NatWest Group Plc climbed 4.8% after Citigroup Inc. raised its price target on the UK lender. German bunds and Treasury futures were steady after US yields touched the lowest since December on Friday.",
-        "summary_zh": "花旗集团上调英国银行的目标股价后，NatWest Group Plc 股价上涨 4.8%。在美国国债收益率周五触及 12 月以来的最低水平后，德国国债和国债期货保持稳定。",
-        "link": "https://finance.yahoo.com/news/stocks-gain-bonds-steady-holiday-124715230.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1771278656,
         "type": "News"
     },
     {
@@ -47,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/ai-disrupting-drug-discovery-faster-130019696.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1771246819,
-        "type": "News"
-    },
-    {
-        "title": "China's humanoid robots take centre stage for Lunar New Year showtime",
-        "title_zh": "中国人形机器人成为农历新年表演的焦点",
-        "summary": "China's most-watched TV show, the annual CCTV Spring Festival gala, on Monday showcased the country's cutting-edge industrial policy and Beijing's push to dominate humanoid robots and the future of manufacturing.",
-        "summary_zh": "中国收视率最高的电视节目，一年一度的中央电视台春节联欢晚会，周一展示了该国的前沿产业政策以及北京主导人形机器人和制造业未来的努力。",
-        "link": "https://finance.yahoo.com/news/chinas-humanoid-robots-ready-lunar-080728852.html",
-        "publisher": "Reuters",
-        "publish_time": 1771229248,
-        "type": "News"
-    },
-    {
-        "title": "'The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears",
-        "title_zh": "“人工智能的阴暗面”：华尔街因担心颠覆而权衡近期股票抛售",
-        "summary": "Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.",
-        "summary_zh": "投资者对人工智能颠覆的担忧推动了财富管理、运输和物流行业的股市抛售。",
-        "link": "https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771171254,
-        "type": "News"
-    },
-    {
-        "title": "Walmart earnings, spending data, and more AI disruptions: What to watch this week",
-        "title_zh": "沃尔玛盈利、支出数据和更多人工智能颠覆：本周值得关注的内容",
-        "summary": "A holiday-shortened trading week and a continuing series of rolling AI sell-off greet investors in the week ahead.",
-        "summary_zh": "未来一周，投资者将迎来假期缩短的交易周和一系列持续的人工智能抛售。",
-        "link": "https://finance.yahoo.com/news/walmart-earnings-spending-data-and-more-ai-disruptions-what-to-watch-this-week-125712762.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771160232,
         "type": "News"
     }
 ]

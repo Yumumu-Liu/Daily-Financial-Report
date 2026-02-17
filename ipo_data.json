@@ -1,15 +1,5 @@
 [
     {
-        "title": "Billionaire Bill Ackman Sold Hilton Worldwide And Bought This Artificial Intelligence (AI) Stock Up 1,650% Since Its IPO",
-        "title_zh": "亿万富翁比尔·阿克曼 (Bill Ackman) 出售希尔顿全球范围并买入这支人工智能 (AI) 股票，自 IPO 以来股价上涨 1,650%",
-        "summary": "Ackman's most recent AI stock purchase is another great opportunity for investors.",
-        "summary_zh": "阿克曼最近购买的人工智能股票对投资者来说是另一个绝佳机会。",
-        "link": "https://finance.yahoo.com/news/billionaire-bill-ackman-sold-hilton-000500152.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1771286700,
-        "type": "News"
-    },
-    {
         "title": "Chart of the Day 2-16-26- With Past IPOs Slumping, Will Mega-Deals Proceed",
         "title_zh": "每日图表 2-16-26-过去的 IPO 数量大幅下滑，大型交易是否会继续进行",
         "summary": "This COULD be the year of the mega-IPO – with top Artificial Intelligence (AI) companies and SpaceX eyeing 2026 public market debuts. But the performance of past Initial Public Offerings is souring, raising questions about investor enthusiasm for big deals.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/2026-massive-ipos-120000205.html",
         "publisher": "Zacks",
         "publish_time": 1766059200,
+        "type": "News"
+    },
+    {
+        "title": "IPO Market Rebounds In Q3; These Small IPOs More Than Double",
+        "title_zh": "第三季度IPO市场反弹；这些小型 IPO 数量增加了一倍多",
+        "summary": "After a slowdown in the second quarter, the IPO market is back in full stride in the third quarter, with the most initial public offerings and the most $100-million deals since 2021.",
+        "summary_zh": "经过第二季度的放缓后，IPO 市场在第三季度全面恢复，首次公开募股和 1 亿美元交易数量创 2021 年以来之最。",
+        "link": "https://www.investors.com/news/ipos-ipo-market-klarna-figma/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1758734439,
         "type": "News"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
-        "title": "Nebius Group’s AI Deals With Microsoft And Meta Shift Growth Profile",
-        "title_zh": "Nebius Group 的人工智能业务与微软和 Meta Shift 增长概况",
-        "summary": "Nebius Group (NasdaqGS:NBIS) has signed multi billion dollar, multi year partnerships with Microsoft and Meta to support its AI data center operations. The company reports a sharp increase in annual recurring revenue alongside its first period of positive EBITDA.",
-        "summary_zh": "Nebius Group（纳斯达克GS：NBIS）已与微软和 Meta 签署了价值数十亿美元的多年合作伙伴关系，以支持其人工智能数据中心运营。该公司报告称，在首次实现正 EBITDA 的同时，年度经常性收入也大幅增长。",
-        "link": "https://finance.yahoo.com/news/nebius-group-ai-deals-microsoft-191126696.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771269086,
+        "title": "Danaher closes in on nearly $10bn deal for medical device maker Masimo",
+        "title_zh": "丹纳赫完成对医疗设备制造商 Masimo 的近 100 亿美元交易",
+        "summary": "US life sciences manufacturer Danaher is closing in on a nearly $10bn deal to buy medical technology company Masimo, two years after an activist...",
+        "summary_zh": "美国生命科学制造商丹纳赫 (Danaher) 即将以近 100 亿美元的价格收购医疗技术公司 Masimo，两年前，激进分子...",
+        "link": "https://finance.yahoo.com/news/danaher-closes-nearly-10bn-deal-053341536.html",
+        "publisher": "Financial Times",
+        "publish_time": 1771306421,
         "type": "News"
     },
     {
@@ -17,16 +17,6 @@
         "link": "https://finance.yahoo.com/news/salesforce-leans-ai-cimulate-deal-171206074.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1771261926,
-        "type": "News"
-    },
-    {
-        "title": "Marketplaces Are the Next Frontier in Publisher Deals With AI Companies",
-        "title_zh": "市场是出版商与人工智能公司交易的下一个前沿",
-        "summary": "Microsoft, Amazon and others are planting flags in a new cottage industry as publishers look for additional revenue.",
-        "summary_zh": "随着出版商寻求额外收入，微软、亚马逊和其他公司正在新的家庭手工业中插旗。",
-        "link": "https://www.wsj.com/business/media/marketplaces-are-the-next-frontier-in-publisher-deals-with-ai-companies-11515b00?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1771257600,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/blackstone-repositions-portfolio-urbaser-deal-031739081.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1771039059,
+        "type": "News"
+    },
+    {
+        "title": "Apollo Global Management (APO) Valuation Check After Q4 Beat Schroders Deal And EMEA Leadership Move",
+        "title_zh": "第四季度打败施罗德交易和欧洲、中东和非洲领导层变动后阿波罗全球管理公司 (APO) 的估值检查",
+        "summary": "Apollo Global Management (APO) is in focus after a cluster of updates, including Q4 earnings that beat expectations, a new Schroders partnership in wealth and retirement products, and senior leadership changes in its EMEA business.",
+        "summary_zh": "阿波罗全球管理公司 (APO) 在一系列更新后成为焦点，包括第四季度收益超出预期、施罗德在财富和退休产品方面建立新的合作伙伴关系，以及其欧洲、中东和非洲业务的高级领导层变动。",
+        "link": "https://finance.yahoo.com/news/apollo-global-management-apo-valuation-181419368.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771006459,
         "type": "News"
     }
 ]
