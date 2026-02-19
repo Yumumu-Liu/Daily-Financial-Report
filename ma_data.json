@@ -1,5 +1,25 @@
 [
     {
+        "title": "Meta Nvidia AI Deal Tests Meta’s Valuation And Growth Narrative",
+        "title_zh": "Meta Nvidia 人工智能交易测试 Meta 的估值和增长叙事",
+        "summary": "Meta Platforms (NasdaqGS:META) has announced a multi year partnership with Nvidia to build out its next generation AI infrastructure. The deal includes large scale deployment of Nvidia GPUs and Grace CPUs across Meta's hyperscale data centers.",
+        "summary_zh": "Meta Platforms（纳斯达克股票代码：META）宣布与 Nvidia 建立多年合作伙伴关系，以构建其下一代人工智能基础设施。该交易包括在 Meta 的超大规模数据中心大规模部署 Nvidia GPU 和 Grace CPU。",
+        "link": "https://finance.yahoo.com/news/meta-nvidia-ai-deal-tests-111149553.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771499509,
+        "type": "News"
+    },
+    {
+        "title": "Wayfair (W) Valuation Check As Earnings, Affirm Expansion And Google AI Deal Draw Investor Focus",
+        "title_zh": "Wayfair (W) 估值检查作为盈利、确认扩张和谷歌人工智能交易吸引投资者关注",
+        "summary": "Wayfair (W) heads into today’s earnings release with several moving parts for investors to weigh, including expanding buy now, pay later options with Affirm and a new AI focused commerce partnership with Google. See our latest analysis for Wayfair.",
+        "summary_zh": "Wayfair (W) 今天将发布财报，其中有几个值得投资者权衡的变动因素，包括扩大立即购买、与 Affirm 合作的稍后付款选项，以及与谷歌建立新的以人工智能为重点的商业合作伙伴关系。请参阅我们对 Wayfair 的最新分析。",
+        "link": "https://finance.yahoo.com/news/wayfair-w-valuation-check-earnings-061045812.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771481445,
+        "type": "News"
+    },
+    {
         "title": "Blackstone Expands Into Essential Home Services With Champions Group Deal",
         "title_zh": "Blackstone 通过 Champions Group 交易扩展到基本家庭服务",
         "summary": "Blackstone (NYSE:BX) has signed a definitive deal to acquire Champions Group, a major home services provider. The transaction will see Odyssey Investment Partners retain a significant minority stake in Champions Group.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/blackstone-nears-2-5-billion-220932190.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1771366172,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone Inc (BX) Strikes Big Deal in Women’s Healthcare Space",
-        "title_zh": "Blackstone Inc (BX) 在女性医疗保健领域达成重大交易",
-        "summary": "Blackstone Inc (NYSE:BX) is one of the best NYSE stocks to buy for the long term. Blackstone Inc (NYSE:BX) led a $10 billion debt investment in the Australian AI infrastructure company Firmus, Reuters reported on February 9.",
-        "summary_zh": "黑石公司（纽约证券交易所代码：BX）是最适合长期购买​​的纽约证券交易所股票之一。据路透社 2 月 9 日报道，黑石公司（纽约证券交易所股票代码：BX）牵头对澳大利亚人工智能基础设施公司 Firmus 进行了 100 亿美元的债务投资。",
-        "link": "https://finance.yahoo.com/news/blackstone-inc-bx-strikes-big-192340825.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1771356220,
-        "type": "News"
-    },
-    {
-        "title": "ARES Signals Strong 2026 Deal Momentum, Reaffirms Growth Targets",
-        "title_zh": "ARES 预示 2026 年交易势头强劲，重申增长目标",
-        "summary": "Ares Management signals accelerating 2026 deal momentum with record pipeline and reaffirms double-digit growth targets.",
-        "summary_zh": "Ares Management 表示将通过创纪录的管道加速 2026 年的交易势头，并重申两位数的增长目标。",
-        "link": "https://finance.yahoo.com/news/ares-signals-strong-2026-deal-165000368.html",
-        "publisher": "Zacks",
-        "publish_time": 1771347000,
         "type": "News"
     }
 ]
