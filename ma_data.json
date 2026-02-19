@@ -1,32 +1,22 @@
 [
     {
-        "title": "Meta's multibillion-dollar Nvidia deal sends a signal the chip giant's rivals can't ignore",
-        "title_zh": "Meta 价值数十亿美元的 Nvidia 交易发出了一个信号，这家芯片巨头的竞争对手不能忽视",
-        "summary": "As AMD shares fell and Google's TPU ambitions stalled, Meta's commitment to Nvidia's full chip stack amounts to a strong vote of confidence that should (at least temporarily) settle investor nerves For Nvidia Corp (NASDAQ:NVDA, XETRA:NVD), the timing could hardly be better.",
-        "summary_zh": "随着 AMD 股价下跌和谷歌 TPU 野心陷入停滞，Meta 对 Nvidia 完整芯片堆栈的承诺相当于投下了一张强有力的信任票，这应该（至少暂时）安抚投资者的紧张情绪。对于 Nvidia Corp（纳斯达克股票代码：NVDA，XETRA：NVD）来说，时机再好不过了。",
-        "link": "https://finance.yahoo.com/news/metas-multibillion-dollar-nvidia-deal-083000927.html",
-        "publisher": "Proactive",
-        "publish_time": 1771403400,
+        "title": "Blackstone Expands Into Essential Home Services With Champions Group Deal",
+        "title_zh": "Blackstone 通过 Champions Group 交易扩展到基本家庭服务",
+        "summary": "Blackstone (NYSE:BX) has signed a definitive deal to acquire Champions Group, a major home services provider. The transaction will see Odyssey Investment Partners retain a significant minority stake in Champions Group.",
+        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）已签署收购主要家庭服务提供商 Champions Group 的最终协议。此次交易将使 Odyssey Investment Partners 保留 Champions Group 的大量少数股权。",
+        "link": "https://finance.yahoo.com/news/blackstone-expands-essential-home-services-221544542.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771452944,
         "type": "News"
     },
     {
-        "title": "Best credit card deals of the week",
-        "title_zh": "本周最佳信用卡优惠",
-        "summary": "Discover the best credit cards to save money, earn rewards and travel smarter",
-        "summary_zh": "探索最适合省钱、赚取奖励和更智能旅行的信用卡",
-        "link": "https://finance.yahoo.com/news/best-credit-card-deals-093401129.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1771400019,
-        "type": "News"
-    },
-    {
-        "title": "Dow Jones Futures: Meta-Nvidia Deal Lifts Nvidia, Hits AI Rivals",
-        "title_zh": "道琼斯期货：Meta-Nvidia 交易提振 Nvidia，打击人工智能竞争对手",
-        "summary": "The still-divided stock market reversed higher for slim gains Tuesday. Nvidia rose late on a Meta AI deal, but AMD and Broadcom slumped.",
-        "summary_zh": "周二，仍存在分歧的股市反转走高，小幅上涨。 Nvidia 因 Meta AI 交易而上涨，但 AMD 和 Broadcom 下跌。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-deal-nvidia-ai-rivals/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1771387328,
+        "title": "Citizens Financial Strengthens Advisory Platform With Matrix Deal",
+        "title_zh": "Citizens Financial 通过 Matrix Deal 加强咨询平台",
+        "summary": "CFG is set to expand its advisory platform through the planned acquisition of Matrix, expanding expertise in Downstream Energy & Convenience Retail.",
+        "summary_zh": "CFG 将通过计划收购 Matrix 来扩大其咨询平台，扩大下游能源和便利零售领域的专业知识。",
+        "link": "https://finance.yahoo.com/news/citizens-financial-strengthens-advisory-platform-173500103.html",
+        "publisher": "Zacks",
+        "publish_time": 1771436100,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/blackstone-inc-bx-strikes-big-192340825.html",
         "publisher": "Insider Monkey",
         "publish_time": 1771356220,
+        "type": "News"
+    },
+    {
+        "title": "ARES Signals Strong 2026 Deal Momentum, Reaffirms Growth Targets",
+        "title_zh": "ARES 预示 2026 年交易势头强劲，重申增长目标",
+        "summary": "Ares Management signals accelerating 2026 deal momentum with record pipeline and reaffirms double-digit growth targets.",
+        "summary_zh": "Ares Management 表示将通过创纪录的管道加速 2026 年的交易势头，并重申两位数的增长目标。",
+        "link": "https://finance.yahoo.com/news/ares-signals-strong-2026-deal-165000368.html",
+        "publisher": "Zacks",
+        "publish_time": 1771347000,
         "type": "News"
     }
 ]
