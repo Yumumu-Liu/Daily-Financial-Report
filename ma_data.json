@@ -1,22 +1,32 @@
 [
     {
-        "title": "Meta Nvidia AI Deal Tests Meta’s Valuation And Growth Narrative",
-        "title_zh": "Meta Nvidia 人工智能交易测试 Meta 的估值和增长叙事",
-        "summary": "Meta Platforms (NasdaqGS:META) has announced a multi year partnership with Nvidia to build out its next generation AI infrastructure. The deal includes large scale deployment of Nvidia GPUs and Grace CPUs across Meta's hyperscale data centers.",
-        "summary_zh": "Meta Platforms（纳斯达克股票代码：META）宣布与 Nvidia 建立多年合作伙伴关系，以构建其下一代人工智能基础设施。该交易包括在 Meta 的超大规模数据中心大规模部署 Nvidia GPU 和 Grace CPU。",
-        "link": "https://finance.yahoo.com/news/meta-nvidia-ai-deal-tests-111149553.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771499509,
+        "title": "Nvidia nears deal for scaled-down investment in OpenAI: report",
+        "title_zh": "Nvidia 接近达成缩减 OpenAI 投资的协议：报告",
+        "summary": "Nvidia is on the cusp of investing $30 billion in OpenAI, scaling back a plan to pump $100 billion into the ChatGPT maker, the Financial Times reported Thursday.Huang made the remarks late in January after the Wall Street Journal reported that Nvidia's plan to invest up to $10...",
+        "summary_zh": "据《金融时报》周四报道，Nvidia 即将向 OpenAI 投资 300 亿美元，从而缩减向 ChatGPT 制造商注资 1000 亿美元的计划。黄在 1 月底发表上述言论是在《华尔街日报》报道 Nvidia 计划投资最多 10 美元之后。",
+        "link": "https://finance.yahoo.com/news/nvidia-nears-deal-scaled-down-033619564.html",
+        "publisher": "AFP",
+        "publish_time": 1771558579,
         "type": "News"
     },
     {
-        "title": "Wayfair (W) Valuation Check As Earnings, Affirm Expansion And Google AI Deal Draw Investor Focus",
-        "title_zh": "Wayfair (W) 估值检查作为盈利、确认扩张和谷歌人工智能交易吸引投资者关注",
-        "summary": "Wayfair (W) heads into today’s earnings release with several moving parts for investors to weigh, including expanding buy now, pay later options with Affirm and a new AI focused commerce partnership with Google. See our latest analysis for Wayfair.",
-        "summary_zh": "Wayfair (W) 今天将发布财报，其中有几个值得投资者权衡的变动因素，包括扩大立即购买、与 Affirm 合作的稍后付款选项，以及与谷歌建立新的以人工智能为重点的商业合作伙伴关系。请参阅我们对 Wayfair 的最新分析。",
-        "link": "https://finance.yahoo.com/news/wayfair-w-valuation-check-earnings-061045812.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771481445,
+        "title": "As Microsoft Extends 20% OpenAI Deal, Is the Bull Case for MSFT Stronger Here?",
+        "title_zh": "随着微软延长 20% 的 OpenAI 协议，微软的看涨理由是否更强？",
+        "summary": "With Microsoft’s OpenAI revenue arrangement now extended through 2032, should investors see this as fresh fuel for the MSFT bull story?",
+        "summary_zh": "随着微软的 OpenAI 收入安排现已延长至 2032 年，投资者是否应该将其视为 MSFT 牛市故事的新动力？",
+        "link": "https://finance.yahoo.com/news/microsoft-extends-20-openai-deal-203918549.html",
+        "publisher": "Barchart",
+        "publish_time": 1771533558,
+        "type": "News"
+    },
+    {
+        "title": "The Buyout Case for Salesforce Is Real, but Marc Benioff Stands in the Way",
+        "title_zh": "Salesforce 的收购案例是真实的，但马克·贝尼奥夫阻碍了",
+        "summary": "Salesforce (NYSE: CRM) stock has shed almost 30% year-to-date, closing at $184.29 on February 17, 2026, down sharply from the $264.91 year-end close. That discount raises a question investors rarely ask about dominant software franchises: could Salesforce go private?",
+        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）股价今年迄今已下跌近 30%，2026 年 2 月 17 日收于 184.29 美元，较年末收盘价 264.91 美元大幅下跌。这种折扣引发了投资者很少询问主导软件特许经营权的一个问题：Salesforce 可以私有化吗？",
+        "link": "https://finance.yahoo.com/news/buyout-case-salesforce-real-marc-121550208.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1771503350,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/citizens-financial-strengthens-advisory-platform-173500103.html",
         "publisher": "Zacks",
         "publish_time": 1771436100,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone Nears $2.5 Billion Deal for Champions Group",
-        "title_zh": "Blackstone 接近以 25 亿美元收购 Champions Group",
-        "summary": "Private equity firm said to be close to acquiring landscaping services provider.",
-        "summary_zh": "据称私募股权公司即将收购园林绿化服务提供商。",
-        "link": "https://finance.yahoo.com/news/blackstone-nears-2-5-billion-220932190.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1771366172,
         "type": "News"
     }
 ]
