@@ -1,12 +1,72 @@
 [
     {
-        "title": "Amazon's cloud unit hit by at least two outages involving AI tools, FT says",
-        "title_zh": "英国《金融时报》称，亚马逊云部门至少遭遇两次涉及人工智能工具的故障",
-        "summary": "Amazon's ‌cloud ‌unit has suffered ​at least two outages ‌stemming ⁠from errors involving ⁠its own ​AI ​tools, ​the Financial ‌Times reported on Friday, citing ‌people ​familiar ​with ​the ‌matter. Reuters could not ​immediately ​verify the ​report.",
-        "summary_zh": "英国《金融时报》周五援引知情人士的话报道称，亚马逊的云部门因涉及其自己的人工智能工具的错误而遭受了至少两次中断。路透社无法立即验证该报道。",
-        "link": "https://finance.yahoo.com/news/amazons-cloud-unit-hit-least-051016019.html",
+        "title": "Nvidia close to investing $30 billion in OpenAI's funding round: source",
+        "title_zh": "Nvidia 接近在 OpenAI 融资中投资 300 亿美元：来源",
+        "summary": "STORY: Nvidia is reportedly close to finalizing a $30 billion investment in OpenAI.As the chipmaker moves to take a stake in one of its largest customers.That's according to a source speaking to Reuters.They said the investment is part of a fundraising round in which OpenAI is...",
+        "summary_zh": "故事：据报道，Nvidia 即将敲定对 OpenAI 的 300 亿美元投资。这家芯片制造商将入股其最大客户之一。据路透社报道，消息人士称。他们表示，这笔投资是 OpenAI 一轮融资的一部分。",
+        "link": "https://finance.yahoo.com/video/nvidia-close-investing-30-billion-103720299.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1771583840,
+        "type": "News"
+    },
+    {
+        "title": "Global shares climb as risk appetite holds firm, US-Iran tensions boost oil",
+        "title_zh": "由于风险偏好坚挺，全球股市上涨，美伊紧张局势提振油价",
+        "summary": "By Niket Nishant and Tom Westbrook LONDON/SINGAPORE, Feb 20 (Reuters) - Global shares edged higher on Friday, brushing aside heightened tensions over a potential conflict between the United States and",
+        "summary_zh": "作者：Niket Nishant 和 Tom Westbrook 伦敦/新加坡，2 月 20 日（路透社）——周五全球股市小幅走高，忽略了因美国和印度之间潜在冲突而加剧的紧张局势。",
+        "link": "https://finance.yahoo.com/news/global-shares-climb-risk-appetite-103234319.html",
         "publisher": "Reuters",
-        "publish_time": 1771564216,
+        "publish_time": 1771583554,
+        "type": "News"
+    },
+    {
+        "title": "Gold prices rise as investors eye US-Iran tensions",
+        "title_zh": "投资者关注美伊紧张局势，金价上涨",
+        "summary": "Gold prices rose on Friday morning, as tensions between the US and Iran fuelled demand for safe haven assets.",
+        "summary_zh": "由于美国和伊朗之间的紧张局势刺激了对避险资产的需求，金价周五上午上涨。",
+        "link": "https://finance.yahoo.com/news/gold-prices-us-iran-oil-pound-latest-093312091.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771579992,
+        "type": "News"
+    },
+    {
+        "title": "Trending tickers: Walmart, Super Micro, Opendoor, Klarna and Anglo American",
+        "title_zh": "热门股票：沃尔玛、超微、Opendoor、Klarna 和英美资源集团",
+        "summary": "The latest investor updates on stocks that are trending on Friday.",
+        "summary_zh": "投资者对周五趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/walmart-super-micro-opendoor-klarna-anglo-american-trending-tickers-092209421.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771579329,
+        "type": "News"
+    },
+    {
+        "title": "UK records largest ever budget surplus in boost for Reeves ahead of spring forecast",
+        "title_zh": "英国创下有史以来最大的预算盈余，为里夫斯在春季预测之前提振",
+        "summary": "The public sector recorded a surplus of £30.4bn in January, according to figures from the Office for National Statistics.",
+        "summary_zh": "英国国家统计局的数据显示，1 月份公共部门盈余为 304 亿英镑。",
+        "link": "https://finance.yahoo.com/news/uk-budget-surplus-borrowing-reeves-spring-forecast-074539268.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771573539,
+        "type": "News"
+    },
+    {
+        "title": "I want to return TM Lewin to its former glories, says CEO",
+        "title_zh": "首席执行官表示，我想让 TM Lewin 恢复昔日辉煌",
+        "summary": "Heritage menswear retailer TM Lewin is back on the high street and growing under CEO Dan Ferris.",
+        "summary_zh": "传统男装零售商 TM Lewin 重返商业街，并在首席执行官 Dan Ferris 的领导下不断发展。",
+        "link": "https://finance.yahoo.com/news/tm-lewin-menswear-clothing-leisurewear-060046516.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771567246,
+        "type": "News"
+    },
+    {
+        "title": "What crypto investors need to know about the UK's sandbox scheme",
+        "title_zh": "加密货币投资者需要了解英国沙盒计划的哪些信息",
+        "summary": "The FCA's regulatory sandbox allows financial firms to test innovative products and services in a controlled environment.",
+        "summary_zh": "FCA 的监管沙箱允许金融公司在受控环境中测试创新产品和服务。",
+        "link": "https://finance.yahoo.com/news/sandbox-crypto-investors-bitcoin-regulation-fca-060001700.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771567201,
         "type": "News"
     },
     {
@@ -20,73 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Tesla unveils cheaper Cybertruck model in US, cuts Cyberbeast price",
-        "title_zh": "特斯拉在美国推出更便宜的 Cyber​​truck 车型，降低 Cyber​​beast 价格",
-        "summary": "Tesla unveiled a new cheaper Cybertruck model in the ‌U.S. on Thursday, priced at $59,990, making ‌the dual-motor all-wheel-drive version its \"most affordable\" Cybertruck yet.",
-        "summary_zh": "特斯拉在美国推出了一款更便宜的新型 Cyber​​truck 车型周四，售价 59,990 美元，使双电机全轮驱动版本成为迄今为止“最实惠”的 Cyber​​truck。",
+        "title": "Tesla unveils cheaper Cybertruck variant, cuts Cyberbeast price to drive demand",
+        "title_zh": "特斯拉推出更便宜的 Cyber​​truck 版本，降低 Cyber​​beast 价格以推动需求",
+        "summary": "Tesla unveiled a cheaper Cybertruck variant in the U.S. on Thursday and slashed ‌the price of its most-expensive model, Cyberbeast, as the electric-vehicle ‌maker struggles to find buyers for its pickup trucks.",
+        "summary_zh": "特斯拉周四在美国推出了一款更便宜的 Cyber​​truck 车型，并大幅削减了其最昂贵车型 Cyber​​beast 的价格，因为这家电动汽车制造商正在努力为其皮卡寻找买家。",
         "link": "https://finance.yahoo.com/news/tesla-cuts-price-cybertruck-model-021741512.html",
         "publisher": "Reuters",
         "publish_time": 1771553861,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia close to investing $30 billion in OpenAI's mega funding round, source says",
-        "title_zh": "消息人士称，Nvidia 即将在 OpenAI 的大型融资轮中投资 300 亿美元",
-        "summary": "Nvidia is close to finalizing a $30 billion investment in OpenAI, as ‌the chipmaker moves to take a stake in one of ‌its largest customers, a person familiar with the matter said.",
-        "summary_zh": "一位知情人士表示，Nvidia 即将敲定对 OpenAI 的 300 亿美元投资，这家芯片制造商将入股其最大客户之一。",
-        "link": "https://finance.yahoo.com/news/nvidia-close-finalizing-30-billion-002456305.html",
-        "publisher": "Reuters",
-        "publish_time": 1771547096,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as US-Iran tensions rise, PCE inflation looms",
-        "title_zh": "今日股市：美伊紧张局势加剧，个人消费支出通胀迫在眉睫，道指、标准普尔 500 指数、纳斯达克期货上涨",
-        "summary": "Wall Street is approaching the end to a contentious earnings season defined by an AI sell-off.",
-        "summary_zh": "华尔街因人工智能抛售而引发争议的财报季即将结束。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-us-iran-tensions-rise-pce-inflation-looms-000113842.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771545673,
-        "type": "News"
-    },
-    {
-        "title": "Meta cuts stock awards by 5% for most employees, FT reports",
-        "title_zh": "据英国《金融时报》报道，Meta 将大多数员工的股票奖励削减了 5%",
-        "summary": "Meta reduced its annual distribution of stock options by about 5% for most of its ‌staff, as CEO Mark Zuckerberg ploughs billions of dollars ‌into its artificial intelligence goals, the Financial Times reported on Thursday.",
-        "summary_zh": "据英国《金融时报》周四报道，随着首席执行官马克扎克伯格将数十亿美元投入其人工智能目标，Meta 将其大多数员工的年度股票期权分配减少了约 5%。",
-        "link": "https://finance.yahoo.com/news/most-meta-staff-5-less-225305201.html",
-        "publisher": "Reuters",
-        "publish_time": 1771541585,
-        "type": "News"
-    },
-    {
-        "title": "Why Tesla is facing a retail vs. institutional investor tug-of-war",
-        "title_zh": "为什么特斯拉面临散户投资者与机构投资者的拉锯战",
-        "summary": "Institutional investors have been selling their Tesla (TSLA) stakes, while retail investors are piling in. Yahoo Finance Senior Autos Reporter Pras Subramanian jumps on Market Domination Overtime to chat with Josh Lipton about what's driving this recent trend.",
-        "summary_zh": "机构投资者一直在抛售特斯拉 (TSLA) 股份，而散户投资者则纷纷涌入。雅虎财经高级汽车记者 Pras Subramanian 跳上市场统治加班节目，与乔什·利普顿 (Josh Lipton) 讨论了推动这一近期趋势的因素。",
-        "link": "https://finance.yahoo.com/video/why-tesla-facing-retail-vs-213018287.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771536618,
-        "type": "News"
-    },
-    {
-        "title": "Today in tech: OpenAI's new funding, Nvidia comes for AMD & Intel",
-        "title_zh": "今日科技：OpenAI 获得新资金，Nvidia 收购 AMD 和英特尔",
-        "summary": "Yahoo Finance Tech Editor Dan Howley comes on Market Domination to break down the day's leading and trending tech stories.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 在《市场统治》节目中剖析了当天的领先和热门科技故事。",
-        "link": "https://finance.yahoo.com/video/today-tech-openais-funding-nvidia-205920523.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771534760,
-        "type": "News"
-    },
-    {
-        "title": "Why US markets are ignoring 'pretty, pretty good' Q4 earnings",
-        "title_zh": "为什么美国市场忽视“非常非常好的”第四季度收益",
-        "summary": "While earnings season has seen a strong showing from industry leaders, why does it seem like the market (^DJI, ^IXIC, ^GSPC) is ignoring all the positive results and revenue growth?",
-        "summary_zh": "虽然行业领导者在财报季表现强劲，但为什么市场（^DJI、^IXIC、^GSPC）似乎忽略了所有积极的业绩和收入增长？",
-        "link": "https://finance.yahoo.com/video/why-us-markets-ignoring-pretty-203903924.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771533543,
         "type": "News"
     }
 ]

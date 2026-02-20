@@ -1,12 +1,22 @@
 [
     {
-        "title": "Nvidia nears deal for scaled-down investment in OpenAI: report",
-        "title_zh": "Nvidia 接近达成缩减 OpenAI 投资的协议：报告",
-        "summary": "Nvidia is on the cusp of investing $30 billion in OpenAI, scaling back a plan to pump $100 billion into the ChatGPT maker, the Financial Times reported Thursday.Huang made the remarks late in January after the Wall Street Journal reported that Nvidia's plan to invest up to $10...",
-        "summary_zh": "据《金融时报》周四报道，Nvidia 即将向 OpenAI 投资 300 亿美元，从而缩减向 ChatGPT 制造商注资 1000 亿美元的计划。黄在 1 月底发表上述言论是在《华尔街日报》报道 Nvidia 计划投资最多 10 美元之后。",
-        "link": "https://finance.yahoo.com/news/nvidia-nears-deal-scaled-down-033619564.html",
-        "publisher": "AFP",
-        "publish_time": 1771558579,
+        "title": "This AI Stock Could Offer Life-Changing Gains",
+        "title_zh": "这只人工智能股票可以带来改变生活的收益",
+        "summary": "The stock has climbed more than 120% over the past year.",
+        "summary_zh": "该股过去一年上涨了120%以上。",
+        "link": "https://finance.yahoo.com/news/ai-stock-could-offer-life-093000946.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1771579800,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
+        "title_zh": "Nvidia 和 OpenAI 放弃未完成的 1000 亿美元交易，转而投资 300 亿美元",
+        "summary": "Nvidia is close to finalising a $30bn investment into OpenAI that will replace the long-term $100bn commitment agreed by the companies last year...",
+        "summary_zh": "Nvidia 即将敲定对 OpenAI 的 300 亿美元投资，这将取代两家公司去年商定的 1000 亿美元长期承诺……",
+        "link": "https://finance.yahoo.com/news/nvidia-openai-abandon-unfinished-100bn-001404379.html",
+        "publisher": "Financial Times",
+        "publish_time": 1771546444,
         "type": "News"
     },
     {
@@ -20,6 +30,16 @@
         "type": "News"
     },
     {
+        "title": "Walmart earnings beat estimates, but company offers cautious outlook amid 'somewhat unstable' backdrop",
+        "title_zh": "沃尔玛盈利超出预期，但在“有些不稳定”的背景下，公司对前景持谨慎态度",
+        "summary": "Walmart reported results for its fiscal fourth quarter but chose to offer more conservative guidance for the year ahead.",
+        "summary_zh": "沃尔玛报告了第四财季的业绩，但选择为未来一年提供更为保守的指引。",
+        "link": "https://finance.yahoo.com/news/walmart-earnings-beat-estimates-but-company-offers-cautious-outlook-amid-somewhat-unstable-backdrop-171641909.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771510922,
+        "type": "News"
+    },
+    {
         "title": "The Buyout Case for Salesforce Is Real, but Marc Benioff Stands in the Way",
         "title_zh": "Salesforce 的收购案例是真实的，但马克·贝尼奥夫阻碍了",
         "summary": "Salesforce (NYSE: CRM) stock has shed almost 30% year-to-date, closing at $184.29 on February 17, 2026, down sharply from the $264.91 year-end close. That discount raises a question investors rarely ask about dominant software franchises: could Salesforce go private?",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/buyout-case-salesforce-real-marc-121550208.html",
         "publisher": "24/7 Wall St.",
         "publish_time": 1771503350,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone Expands Into Essential Home Services With Champions Group Deal",
-        "title_zh": "Blackstone 通过 Champions Group 交易扩展到基本家庭服务",
-        "summary": "Blackstone (NYSE:BX) has signed a definitive deal to acquire Champions Group, a major home services provider. The transaction will see Odyssey Investment Partners retain a significant minority stake in Champions Group.",
-        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）已签署收购主要家庭服务提供商 Champions Group 的最终协议。此次交易将使 Odyssey Investment Partners 保留 Champions Group 的大量少数股权。",
-        "link": "https://finance.yahoo.com/news/blackstone-expands-essential-home-services-221544542.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771452944,
-        "type": "News"
-    },
-    {
-        "title": "Citizens Financial Strengthens Advisory Platform With Matrix Deal",
-        "title_zh": "Citizens Financial 通过 Matrix Deal 加强咨询平台",
-        "summary": "CFG is set to expand its advisory platform through the planned acquisition of Matrix, expanding expertise in Downstream Energy & Convenience Retail.",
-        "summary_zh": "CFG 将通过计划收购 Matrix 来扩大其咨询平台，扩大下游能源和便利零售领域的专业知识。",
-        "link": "https://finance.yahoo.com/news/citizens-financial-strengthens-advisory-platform-173500103.html",
-        "publisher": "Zacks",
-        "publish_time": 1771436100,
         "type": "News"
     }
 ]
