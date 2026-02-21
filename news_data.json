@@ -10,6 +10,16 @@
         "type": "News"
     },
     {
+        "title": "Nvidia earnings, Trump's State of the Union: What to Watch",
+        "title_zh": "英伟达的财报、特朗普的国情咨文：值得关注的内容",
+        "summary": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch next week, starting Monday, Feb. 23. President Trump will deliver his State of the Union address on Tuesday, Feb. 24.",
+        "summary_zh": "《市场支配加班》主持人乔什·利普顿为投资者盘点了下周最值得关注的新闻，从 2 月 23 日星期一开始。特朗普总统将于 2 月 24 日星期二发表国情咨文演讲。",
+        "link": "https://finance.yahoo.com/video/nvidia-earnings-trumps-state-union-000000702.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771632000,
+        "type": "News"
+    },
+    {
         "title": "Microsoft Names Sharma to Lead Xbox, Recommits to Console",
         "title_zh": "微软任命 Sharma 领导 Xbox，重新致力于主机业务",
         "summary": "Spencer, who has run the Xbox business since 2014 and was named gaming CEO in 2022 is retiring, the company said.  Xbox games studios chief Matt Booty will become chief content officer, reporting to Sharma.",
@@ -67,16 +77,6 @@
         "link": "https://finance.yahoo.com/video/expect-cyclical-upswing-us-stocks-113000338.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1771587000,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia is moving in on Intel and AMD's home turf",
-        "title_zh": "Nvidia 正在进军英特尔和 AMD 的主场",
-        "summary": "Nvidia is getting into the CPU server market, and that could be trouble for Intel and AMD.",
-        "summary_zh": "Nvidia 正在进军 CPU 服务器市场，这可能会给英特尔和 AMD 带来麻烦。",
-        "link": "https://finance.yahoo.com/news/nvidia-is-moving-in-on-intel-and-amds-home-turf-191711635.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771528631,
         "type": "News"
     }
 ]
