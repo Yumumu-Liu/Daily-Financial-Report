@@ -1,5 +1,15 @@
 [
     {
+        "title": "Judge gives UPS green light for $150,000 buyouts to drivers",
+        "title_zh": "法官批准 UPS 向司机支付 15 万美元的收购费用",
+        "summary": "A U.S. district court in Boston has rejected a Teamsters union motion to stop UPS from buying out package car drivers in an effort to reduce excess capacity. The post Judge gives UPS green light for $150,000 buyouts to drivers appeared first on FreightWaves.",
+        "summary_zh": "美国波士顿地区法院驳回了卡车司机工会的一项动议，该动议旨在阻止 UPS 收购包裹车司机以减少过剩产能。法官批准 UPS 以 15 万美元收购司机的帖子首先出现在 FreightWaves 上。",
+        "link": "https://finance.yahoo.com/news/judge-gives-ups-green-light-184715003.html",
+        "publisher": "FreightWaves",
+        "publish_time": 1771699635,
+        "type": "News"
+    },
+    {
         "title": "TXNM Energy clears regulatory hurdle as FERC greenlights Blackstone merger deal",
         "title_zh": "FERC 批准 Blackstone 合并交易，TXNM Energy 扫清监管障碍",
         "summary": "Investing.com – TXNM Energy (NYSE: TXNM) shares are holding steady in after-hours trading following a crucial announcement that the Federal Energy Regulatory Commission (FERC) has authorized its acquisition by Blackstone Infrastructure.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/banks-boost-venture-deals-scale-160812438.html",
         "publisher": "CIO Dive",
         "publish_time": 1771603692,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone Expands Into Essential Home Services With Champions Group Deal",
-        "title_zh": "Blackstone 通过 Champions Group 交易扩展到基本家庭服务",
-        "summary": "Blackstone (NYSE:BX) has signed a definitive deal to acquire Champions Group, a major home services provider. The transaction will see Odyssey Investment Partners retain a significant minority stake in Champions Group.",
-        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）已签署收购主要家庭服务提供商 Champions Group 的最终协议。此次交易将使 Odyssey Investment Partners 保留 Champions Group 的大量少数股权。",
-        "link": "https://finance.yahoo.com/news/blackstone-expands-essential-home-services-221544542.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1771452944,
         "type": "News"
     }
 ]
