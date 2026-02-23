@@ -30,23 +30,23 @@
         "type": "News"
     },
     {
-        "title": "Earnings live: Nvidia earnings will offer crucial AI update, cap off 'Magnificent Seven' results",
-        "title_zh": "实时财报：英伟达财报将提供重要的人工智能更新，为“七雄”业绩画上圆满句号",
-        "summary": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
-        "summary_zh": "标准普尔 500 指数有望实现两位数的盈利增长，迄今为止已有超过一半的公司公布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-nvidia-earnings-will-offer-crucial-ai-update-cap-off-magnificent-seven-results-214902871.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771624142,
+        "title": "Banks boost venture deals to scale AI",
+        "title_zh": "银行增加风险交易以扩大人工智能规模",
+        "summary": "Wells Fargo and Citigroup topped the leaderboard for AI VC investments as the financial services industry works to build and scale the technology.",
+        "summary_zh": "随着金融服务业致力于构建和扩展该技术，富国银行和花旗集团在人工智能风险投资领域名列前茅。",
+        "link": "https://finance.yahoo.com/news/banks-boost-venture-deals-scale-160812438.html",
+        "publisher": "CIO Dive",
+        "publish_time": 1771603692,
         "type": "News"
     },
     {
-        "title": "JPMorgan to Test Appetite for Software Debt With $5 Billion Deal",
-        "title_zh": "摩根大通将通过 50 亿美元交易测试软件债务的需求",
-        "summary": "Proceeds will also refinance about $1.8 billion in Press Ganey’s debt, the people said.  Representatives for JPMorgan and Press Ganey declined to comment.  Representatives for Qualtrics and its owner Silver Lake Management didn’t immediately respond to a request for comment.",
-        "summary_zh": "知情人士称，所得款项还将为 Press Ganey 约 18 亿美元的债务进行再融资。  摩根大通和 Press Ganey 的代表拒绝置评。  Qualtrics 及其所有者 Silver Lake Management 的代表没有立即回应置评请求。",
-        "link": "https://finance.yahoo.com/news/jpmorgan-test-appetite-software-debt-180116623.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1771610476,
+        "title": "Citizens Financial Strengthens Advisory Platform With Matrix Deal",
+        "title_zh": "Citizens Financial 通过 Matrix Deal 加强咨询平台",
+        "summary": "CFG is set to expand its advisory platform through the planned acquisition of Matrix, expanding expertise in Downstream Energy & Convenience Retail.",
+        "summary_zh": "CFG 将通过计划收购 Matrix 来扩大其咨询平台，扩大下游能源和便利零售领域的专业知识。",
+        "link": "https://finance.yahoo.com/news/citizens-financial-strengthens-advisory-platform-173500103.html",
+        "publisher": "Zacks",
+        "publish_time": 1771436100,
         "type": "News"
     }
 ]

@@ -1,12 +1,42 @@
 [
     {
-        "title": "Xi Gains Leverage Before Trump Summit After Tariff Reversal",
-        "title_zh": "关税逆转后习近平在特朗普峰会前获得影响力",
-        "summary": "Chinese President Xi Jinping is heading to the negotiating table with Donald Trump with a boost in bargaining power, after the US leader lost his ability to quickly raise tariffs for nearly any reason.",
-        "summary_zh": "在美国领导人因几乎任何原因失去快速提高关税的能力后，中国国家主席习近平正与唐纳德·特朗普一起走上谈判桌，讨价还价能力得到增强。",
-        "link": "https://finance.yahoo.com/news/xi-gains-leverage-trump-summit-104212188.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1771818804,
+        "title": "The AI boom is helping Samsung and coming for Apple",
+        "title_zh": "人工智能热潮正在帮助三星，也将惠及苹果",
+        "summary": "Samsung is using the AI chip shortage to juice its margins. That could hurt Apple.",
+        "summary_zh": "三星正在利用人工智能芯片的短缺来提高利润。这可能会伤害苹果。",
+        "link": "https://finance.yahoo.com/news/the-ai-boom-is-helping-samsung-and-coming-for-apple-110057196.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771844457,
+        "type": "News"
+    },
+    {
+        "title": "Retail traders aren't just 'dumb money' anymore: Here's why",
+        "title_zh": "零售交易者不再只是“傻钱”：原因如下",
+        "summary": "Gen Z and millennial retail investors are becoming more sophisticated, according to a new survey from eToro (ETOR). These groups have been diversifying into assets beyond just equities, regularly reviewing their portfolios, and more.",
+        "summary_zh": "eToro (ETOR) 的一项新调查显示，Z 世代和千禧一代散户投资者正变得更加成熟。这些集团一直在多元化投资股票以外的资产，并定期审查其投资组合等。",
+        "link": "https://finance.yahoo.com/video/retail-traders-arent-just-dumb-110042587.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1771844442,
+        "type": "News"
+    },
+    {
+        "title": "Gold price hits three-week high on fresh Trump tariff jitters",
+        "title_zh": "由于新的特朗普关税紧张情绪，金价触及三周高位",
+        "summary": "Tariff uncertainty is pushing traders toward the precious metal.",
+        "summary_zh": "关税的不确定性正在推动交易者转向贵金属。",
+        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-trump-tariff-092959780.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771838999,
+        "type": "News"
+    },
+    {
+        "title": "How to make the most of your bonus pay",
+        "title_zh": "如何充分利用您的奖金",
+        "summary": "Around one in four UK employees get a bonus but to make it work hard for you, it’s key to avoid the bonus bear traps.",
+        "summary_zh": "大约四分之一的英国员工获得奖金，但为了让奖金为你工作，避免奖金熊陷阱是关键。",
+        "link": "https://finance.yahoo.com/news/bonus-pay-money-tax-060054446.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771826454,
         "type": "News"
     },
     {
@@ -17,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/sk-hynix-boss-pledges-boost-034012132.html",
         "publisher": "Bloomberg",
         "publish_time": 1771818012,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid Trump tariff fallout, with Iran-US talks on deck",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因特朗普关税影响而下滑，伊朗与美国谈判即将进行",
-        "summary": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
-        "summary_zh": "周末，华尔街受到特朗普关税之风的打击。在形势迅速发展的情况下，最高法院的一项裁决很快就被总统驳斥。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-trump-tariff-fallout-with-iran-us-talks-on-deck-234453634.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771803893,
         "type": "News"
     },
     {
@@ -50,6 +70,16 @@
         "type": "News"
     },
     {
+        "title": "Nvidia earnings, SCOTUS tariff fallout, geopolitical tensions rise: What to watch this week",
+        "title_zh": "英伟达财报、最高法院关税影响、地缘政治紧张局势加剧：本周值得关注的内容",
+        "summary": "In the upcoming week, investor attention will focus on fallout from the Supreme Court's tariff ruling, tensions in Iran, and Nvidia's fourth quarter earnings.",
+        "summary_zh": "未来一周，投资者的注意力将集中在最高法院关税裁决的影响、伊朗的紧张局势以及英伟达第四季度的收益上。",
+        "link": "https://finance.yahoo.com/news/nvidia-earnings-scotus-tariff-fallout-geopolitical-tensions-rise-what-to-watch-this-week-124717965.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771764437,
+        "type": "News"
+    },
+    {
         "title": "Nvidia is moving in on Intel and AMD's home turf",
         "title_zh": "Nvidia 正在进军英特尔和 AMD 的主场",
         "summary": "Nvidia is getting into the CPU server market, and that could be trouble for Intel and AMD.",
@@ -57,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/nvidia-is-moving-in-on-intel-and-amds-home-turf-191711635.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1771528631,
-        "type": "News"
-    },
-    {
-        "title": "Tesla: As institutional investors sell stock, retail investors pile in",
-        "title_zh": "特斯拉：随着机构投资者抛售股票，散户投资者纷纷涌入",
-        "summary": "Call it the latest tug-of-war between Tesla bulls and bears. But this time, it's institutional versus retail investors.",
-        "summary_zh": "这可以称为特斯拉多头和空头之间的最新拉锯战。但这一次，是机构投资者与散户投资者的较量。",
-        "link": "https://finance.yahoo.com/news/tesla-as-institutional-investors-sell-stock-retail-investors-pile-in-165419382.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771520059,
         "type": "News"
     }
 ]
