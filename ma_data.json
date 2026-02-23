@@ -1,5 +1,25 @@
 [
     {
+        "title": "Why The Narrative Around NRG Energy (NRG) Is Shifting With New Targets And Deal Progress",
+        "title_zh": "为什么围绕 NRG Energy (NRG) 的叙述随着新目标和交易进展而发生变化",
+        "summary": "The internal fair value estimate for NRG Energy has been adjusted slightly, moving from US$201.96 to US$202.85.",
+        "summary_zh": "NRG Energy 的内部公允价值估计略有调整，从 201.96 美元调整至 202.85 美元。",
+        "link": "https://finance.yahoo.com/news/why-narrative-around-nrg-energy-042157002.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771820517,
+        "type": "News"
+    },
+    {
+        "title": "Visa Extends Global Partnership with Red Bull Racing in Multi-Year Deal",
+        "title_zh": "Visa 与红牛车队签署多年协议扩大全球合作伙伴关系",
+        "summary": "Visa Inc. (NYSE:V) is included among the 14 Best Warren Buffett Dividend Stocks to Buy. On February 19, Visa Inc. (NYSE:V) announced a multi-year extension and expansion of its global partnership with Red Bull F1 Team’s Oracle Red Bull Racing and Visa Cash App Racing Bulls.",
+        "summary_zh": "Visa Inc.（纽约证券交易所股票代码：V）被列入 14 只最值得购买的沃伦·巴菲特股息股票之一。 2 月 19 日，Visa Inc.（纽约证券交易所股票代码：V）宣布与红牛 F1 车队的 Oracle Red Bull Racing 和 Visa Cash App ...",
+        "link": "https://finance.yahoo.com/news/visa-extends-global-partnership-red-013614129.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1771810574,
+        "type": "News"
+    },
+    {
         "title": "TXNM Energy clears regulatory hurdle as FERC greenlights Blackstone merger deal",
         "title_zh": "FERC 批准 Blackstone 合并交易，TXNM Energy 扫清监管障碍",
         "summary": "Investing.com – TXNM Energy (NYSE: TXNM) shares are holding steady in after-hours trading following a crucial announcement that the Federal Energy Regulatory Commission (FERC) has authorized its acquisition by Blackstone Infrastructure.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/jpmorgan-test-appetite-software-debt-180116623.html",
         "publisher": "Bloomberg",
         "publish_time": 1771610476,
-        "type": "News"
-    },
-    {
-        "title": "Banks boost venture deals to scale AI",
-        "title_zh": "银行增加风险交易以扩大人工智能规模",
-        "summary": "Wells Fargo and Citigroup topped the leaderboard for AI VC investments as the financial services industry works to build and scale the technology.",
-        "summary_zh": "随着金融服务业致力于构建和扩展该技术，富国银行和花旗集团在人工智能风险投资领域名列前茅。",
-        "link": "https://finance.yahoo.com/news/banks-boost-venture-deals-scale-160812438.html",
-        "publisher": "CIO Dive",
-        "publish_time": 1771603692,
-        "type": "News"
-    },
-    {
-        "title": "DTE’s Stargate Deal Turns Power Into Profits",
-        "title_zh": "DTE 的 Stargate 交易将电力转化为利润",
-        "summary": "See why DTE Energy is being framed as an AI power play: Stargate load growth, beat-and-raise results, higher capex through 2030, and key risks.",
-        "summary_zh": "了解为什么 DTE Energy 被定位为 AI 权力游戏：Stargate 负载增长、击败和提高的结果、到 2030 年更高的资本支出以及主要风险。",
-        "link": "https://finance.yahoo.com/news/dte-stargate-deal-turns-power-142600683.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1771597560,
         "type": "News"
     }
 ]
