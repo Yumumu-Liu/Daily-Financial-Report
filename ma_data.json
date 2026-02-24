@@ -1,5 +1,25 @@
 [
     {
+        "title": "Market Chatter: Kuwait Petroleum Held Talks With Investors Over Potential $7 Billion Pipeline Deal",
+        "title_zh": "市场热议：科威特石油公司与投资者就潜在的 70 亿美元管道交易进行会谈",
+        "summary": "Kuwait Petroleum had early talks with investors like BlackRock (BLK), KKR (KKR), EIG Partners, and B",
+        "summary_zh": "科威特石油公司与 BlackRock (BLK)、KKR (KKR)、EIG Partners 和 B 等投资者进行了早期谈判",
+        "link": "https://finance.yahoo.com/news/market-chatter-kuwait-petroleum-held-110941562.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1771931381,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce AI Deals Test Investor Patience As Valuation Screens Attractive",
+        "title_zh": "Salesforce AI 交易考验投资者耐心，估值极具吸引力",
+        "summary": "Salesforce (NYSE:CRM) is expanding its AI footprint through the acquisition of Momentum to strengthen conversational and unstructured data ingestion for Agentforce and Slackbot.",
+        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）正在通过收购 Momentum 来扩大其人工智能足迹，以加强 Agentforce 和 Slackbot 的对话式和非结构化数据摄取。",
+        "link": "https://finance.yahoo.com/news/salesforce-ai-deals-test-investor-071111505.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1771917071,
+        "type": "News"
+    },
+    {
         "title": "Nebius Tavily Deal Links AI Agents To Growing Cloud Infrastructure",
         "title_zh": "Nebius Tavily 交易将人工智能代理与不断发展的云基础设施联系起来",
         "summary": "Nebius Group (NasdaqGS:NBIS) has acquired Tavily, a provider of agentic search software for AI agents in financial trading and coding. The company is expanding its AI infrastructure and data center footprint to support growing demand from enterprise customers.",
@@ -14,7 +34,7 @@
         "title_zh": "派拉蒙提高对华纳兄弟的出价，试图阻止 Netflix 收购",
         "summary": "Larry Ellison’s Paramount has fired the starting gun on a blockbuster bidding war for Warner Bros after tabling a last-ditch takeover offer.",
         "summary_zh": "拉里·埃里森 (Larry Ellison) 的派拉蒙 (Paramount) 在提出最后一搏收购要约后，打响了对华纳兄弟 (Warner Bros) 轰动一时的竞购战的发令枪。",
-        "link": "https://finance.yahoo.com/news/paramount-raises-bid-warner-bros-232220629.html",
+        "link": "https://finance.yahoo.com/news/paramount-raises-bid-warner-bros-232220972.html",
         "publisher": "The Telegraph",
         "publish_time": 1771888940,
         "type": "News"
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/paramount-submits-higher-offer-warner-215448933.html",
         "publisher": "Reuters",
         "publish_time": 1771883688,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce Inc (CRM) Expands AI Capabilities With Momentum Acquisition",
-        "title_zh": "Salesforce Inc (CRM) 通过 Momentum 收购扩展人工智能能力",
-        "summary": "Salesforce Inc. (NYSE:CRM) is one of the AI stocks that will go to the moon. On February 18, Salesforce Inc. (NYSE:CRM) entered into an agreement to acquire Momentum.",
-        "summary_zh": "Salesforce Inc.（纽约证券交易所股票代码：CRM）是即将登上月球的人工智能股票之一。 2 月 18 日，Salesforce Inc.（纽约证券交易所股票代码：CRM）签署了收购 Momentum 的协议。",
-        "link": "https://finance.yahoo.com/news/salesforce-inc-crm-expands-ai-194905846.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1771876145,
-        "type": "News"
-    },
-    {
-        "title": "KKR Agrees $1.3 Billion Deal for XCL Education Stake",
-        "title_zh": "KKR 同意以 13 亿美元收购 XCL Education 股份",
-        "summary": "KKR outbids rivals for TPG's stake in Southeast Asian school operator, pending regulatory approvals.",
-        "summary_zh": "KKR 以高于竞争对手的价格收购了 TPG 在东南亚学校运营商中的股份，目前正在等待监管部门的批准。",
-        "link": "https://finance.yahoo.com/news/kkr-agrees-1-3-billion-163924051.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1771864764,
         "type": "News"
     }
 ]

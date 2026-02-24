@@ -1,5 +1,25 @@
 [
     {
+        "title": "Nvidia results are AI market's biggest test amid competitive worries",
+        "title_zh": "英伟达的业绩是人工智能市场面临竞争担忧的最大考验",
+        "summary": "As Nvidia heads into quarterly earnings on Wednesday, AI investors are seeking evidence that the chipmaker's profits are growing apace on the back of a $630 billion capital spending budget from Big Tech. After powering much of the U.S.",
+        "summary_zh": "随着 Nvidia 周三公布季度财报，人工智能投资者正在寻找证据，证明这家芯片制造商的利润在大型科技公司 6300 亿美元的资本支出预算的支持下正在快速增长。在为美国大部分地区供电之后",
+        "link": "https://finance.yahoo.com/news/nvidia-results-ai-markets-biggest-104159138.html",
+        "publisher": "Reuters",
+        "publish_time": 1771929719,
+        "type": "News"
+    },
+    {
+        "title": "Gold falls as investors book profits amid Trump tariffs",
+        "title_zh": "投资者因特朗普关税而获利了结，金价下跌",
+        "summary": "Despite drop analysts say broader narrative  for gold remains skewed to the upside",
+        "summary_zh": "尽管分析师表示金价下跌，但更广泛的叙述仍然偏向上行",
+        "link": "https://finance.yahoo.com/news/gold-prices-oil-pound-commodities-dollar-092745476.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1771925265,
+        "type": "News"
+    },
+    {
         "title": "Trump Seeks Vows from Tech Executives to Cover Data Center Costs",
         "title_zh": "特朗普寻求技术高管承诺承担数据中心成本",
         "summary": "The effort includes pressing technology executives to sign non-binding compacts vowing that their companies would take on the cost of building the necessary infrastructure to support their data center use, said the people, who requested anonymity to discuss a plan that isn’t y...",
@@ -10,10 +30,10 @@
         "type": "News"
     },
     {
-        "title": "Apple to shift some Mac Mini production to Houston from Asia, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，苹果公司将把部分 Mac Mini 生产从亚洲转移到休斯顿",
-        "summary": "Apple will move some production of its Mac Mini desktop computer to the U.S. from Asia, with a ‌new manufacturing effort set to begin later this year at a ‌Foxconn facility in north Houston, The Wall Street Journal reported on Monday. In May, U.S.",
-        "summary_zh": "据《华尔街日报》周一报道，苹果将把 Mac Mini 台式电脑的部分生产从亚洲转移到美国，新的生产工作将于今年晚些时候在休斯敦北部的富士康工厂开始。五月，美国",
+        "title": "Apple to shift some Mac Mini production to Houston from Asia",
+        "title_zh": "苹果将​​把部分 Mac Mini 生产从亚洲转移到休斯顿",
+        "summary": "Apple will move some production of its Mac Mini desktop computer to the U.S. ‌from Asia, with a new manufacturing effort set ‌to begin later this year at a facility in Houston, the iPhone ​maker said on Tuesday. The plan marks the Apple's most recent U.S.",
+        "summary_zh": "iPhone 制造商周二表示，苹果将把 Mac Mini 台式电脑的部分生产从亚洲转移到美国，新的生产工作将于今年晚些时候在休斯敦的一家工厂开始。该计划标志着苹果公司最近一次在美国上市。",
         "link": "https://finance.yahoo.com/news/apple-plans-manufacture-mac-mini-021412092.html",
         "publisher": "Reuters",
         "publish_time": 1771899252,
@@ -21,7 +41,7 @@
     },
     {
         "title": "Exclusive-China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says",
-        "title_zh": "独家——官方称，尽管美国禁令，中国 DeepSeek 在英伟达最好的芯片上训练了人工智能模型",
+        "title_zh": "官方称，尽管美国禁令，中国 DeepSeek 在英伟达最好的芯片上训练了人工智能模型",
         "summary": "By Steve Holland and Alexandra Alper WASHINGTON, Feb 23 (Reuters) - Chinese AI startup DeepSeek's latest AI model, set to be released as soon as next week, was trained on Nvidia's most advanced AI",
         "summary_zh": "作者：Steve Holland 和 Alexandra Alper 华盛顿，2 月 23 日（路透社）——中国 AI 初创公司 DeepSeek 的最新 AI 模型最快将于下周发布，该模型接受了 Nvidia 最先进的 AI 训练",
         "link": "https://finance.yahoo.com/news/exclusive-chinas-deepseek-trained-ai-001013556.html",
@@ -30,23 +50,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after AI, tariffs ignite Wall Street's latest sell-off",
-        "title_zh": "今日股市：人工智能、关税引发华尔街最新抛售后道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up after AI-fueled sell-off as new Trump tariff kicks in",
+        "title_zh": "今日股市：特朗普新关税生效，人工智能引发抛售，道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨",
         "summary": "Tariff insecurity and AI disruption are the flavors of the week as a sharp sell-off kick-started the final week of February",
         "summary_zh": "关税不安全和人工智能颠覆是本周的焦点，二月最后一周开始出现大幅抛售",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-after-ai-tariffs-ignite-wall-streets-latest-sell-off-234004429.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-ai-fueled-sell-off-as-new-trump-tariff-kicks-in-234004649.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1771890004,
-        "type": "News"
-    },
-    {
-        "title": "Earnings live: Hims & Hers stock slides, Domino's rises as investors await crucial update from Nvidia",
-        "title_zh": "实时盈利：Hims & Hers 股价下跌，Domino's 上涨，投资者等待 Nvidia 的重要更新",
-        "summary": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
-        "summary_zh": "标准普尔 500 指数有望实现两位数的盈利增长，迄今为止已有超过一半的公司公布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-hims--hers-stock-slides-dominos-rises-as-investors-await-crucial-update-from-nvidia-215905220.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771883945,
         "type": "News"
     },
     {
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/veteran-ceo-president-trumps-chaotic-tariff-policy-is-not-working-172544608.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1771867544,
-        "type": "News"
-    },
-    {
-        "title": "The AI trade is punishing Big Tech, but not Apple",
-        "title_zh": "人工智能行业正在惩罚大型科技公司，但苹果却没有",
-        "summary": "Apple's biggest weakness for a large chunk of 2025 is becoming a strength in the early weeks of 2026 as convulsions rock the AI trade.",
-        "summary_zh": "随着人工智能行业的动荡，苹果在 2025 年大部分时间里的最大弱点正在成为 2026 年初几周的优势。",
-        "link": "https://finance.yahoo.com/news/the-ai-trade-is-punishing-big-tech-but-not-apple-162049512.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771863649,
         "type": "News"
     }
 ]
