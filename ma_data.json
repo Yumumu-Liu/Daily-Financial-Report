@@ -1,52 +1,52 @@
 [
     {
-        "title": "Nasdaq Bounces Back After AMD-Meta Deal on AI Chips",
-        "title_zh": "AMD 与 AI 芯片达成 Meta 交易后纳斯达克指数反弹",
-        "summary": "Improved consumer-confidence numbers and an announcement by Anthropic about tools that could potentially be used in combination with existing software—rather than as a replacement—also helped bolster market optimism, said  Shannon Saccocia,  chief investment officer of wealth ...",
-        "summary_zh": "财富首席投资官香农·萨科西亚 (Shannon Sacccocia) 表示，消费者信心指数的提高以及 Anthropic 宣布可能与现有软件结合使用（而不是作为替代品）的工具也有助于增强市场乐观情绪。",
-        "link": "https://www.wsj.com/finance/stocks/nasdaq-bounces-back-after-amd-meta-deal-on-ai-chips-a30ef666?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1771972260,
+        "title": "Salesforce Uses Momentum Deal To Turn Calls Into CRM Value Question",
+        "title_zh": "Salesforce 利用 Momentum Deal 将来电转化为 CRM 价值问题",
+        "summary": "Salesforce (NYSE:CRM) has acquired conversational AI platform Momentum to feed voice and video data into Agentforce 360 and Slackbot.",
+        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）已收购对话式人工智能平台 Momentum，将语音和视频数据输入 Agentforce 360​​ 和 Slackbot。",
+        "link": "https://finance.yahoo.com/news/salesforce-uses-momentum-deal-turn-021215421.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772071935,
         "type": "News"
     },
     {
-        "title": "Meta strikes massive 6-gigawatt AI chip deal with AMD",
-        "title_zh": "Meta 与 AMD 达成 6 吉瓦 AI 芯片大规模交易",
-        "summary": "Meta Platforms (META) landed a multi-year, 6-gigawatt GPU deal with chipmaker Advanced Micro Devices (AMD).",
-        "summary_zh": "Meta Platforms (META) 与芯片制造商 Advanced Micro Devices (AMD) 达成了一项为期多年的 6 吉瓦 GPU 协议。",
-        "link": "https://finance.yahoo.com/video/meta-strikes-massive-6-gigawatt-213354853.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1771968834,
+        "title": "Alphabet Energy Deals Shape Long Term AI Data Center Outlook",
+        "title_zh": "Alphabet Energy 交易塑造人工智能数据中心的长期前景",
+        "summary": "Alphabet, parent of Google (NasdaqGS:GOOGL), has entered into major energy deals with Xcel Energy in Minnesota and AES Corporation in Texas to supply new data centers with large-scale clean power.",
+        "summary_zh": "谷歌（NasdaqGS：GOOGL）的母公司 Alphabet 已与明尼苏达州的 Xcel Energy 和德克萨斯州的 AES Corporation 达成重大能源交易，为新数据中心提供大规模清洁电力。",
+        "link": "https://finance.yahoo.com/news/alphabet-energy-deals-shape-long-002348064.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772065428,
         "type": "News"
     },
     {
-        "title": "Market Chatter: CoreWeave Targets $8.5 Billion Loan for Meta's Cloud Computing Deal",
-        "title_zh": "市场热议：CoreWeave 为 Meta 云计算交易提供 85 亿美元贷款",
-        "summary": "CoreWeave (CRWV) is aiming to raise nearly $8.5 billion from banks, including Morgan Stanley (MS) an",
-        "summary_zh": "CoreWeave (CRWV) 的目标是从银行筹集近 85 亿美元，其中包括摩根士丹利 (MS) 和",
-        "link": "https://finance.yahoo.com/news/market-chatter-coreweave-targets-8-210825809.html",
+        "title": "Bank of America resets AMD stock price target on deal with Meta",
+        "title_zh": "美国银行因与 Meta 的交易而重置 AMD 股价目标",
+        "summary": "Advanced Micro Devices (AMD) stock has lost about 18% in the past month, at the time of writing, Wednesday afternoon, Feb. 25, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 0.4% in the same period.",
+        "summary_zh": "据雅虎财经报道，截至本文撰写之时，即 2 月 25 日星期三下午，AMD 股价在过去一个月内下跌了约 18%。与此同时，SPDR S&P 500 指数 (SPY) 同期上涨约 0.4%。",
+        "link": "https://finance.yahoo.com/news/bank-america-resets-amd-stock-000000801.html",
+        "publisher": "TheStreet",
+        "publish_time": 1772064000,
+        "type": "News"
+    },
+    {
+        "title": "Quantum Computing Stocks: IonQ Earnings, Revenue Beat Amid Acquisitions",
+        "title_zh": "量子计算股票：IonQ 盈利、收入因收购而增长",
+        "summary": "Kicking off earnings reports for quantum computing stocks, IonQ reported Q4 profit and revenue that topped views amid an acquisition spree.",
+        "summary_zh": "IonQ 在发布量子计算股票收益报告时公布了第四季度的利润和收入，在收购热潮中表现出色。",
+        "link": "https://www.investors.com/news/technology/quantum-computing-stocks-ionq-stock-ionq-earnings-news/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1772061204,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Kuwait Petroleum Held Talks With Investors Over Potential $7 Billion Pipeline Deal",
+        "title_zh": "市场热议：科威特石油公司与投资者就潜在的 70 亿美元管道交易进行会谈",
+        "summary": "Kuwait Petroleum had early talks with investors like BlackRock (BLK), KKR (KKR), EIG Partners, and B",
+        "summary_zh": "科威特石油公司与 BlackRock (BLK)、KKR (KKR)、EIG Partners 和 B 等投资者进行了早期谈判",
+        "link": "https://finance.yahoo.com/news/market-chatter-kuwait-petroleum-held-110941562.html",
         "publisher": "MT Newswires",
-        "publish_time": 1771967305,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic launches new enterprise offerings, raising the heat on software companies",
-        "title_zh": "Anthropic 推出新的企业产品，引发软件公司的关注",
-        "summary": "Anthropic is launching a slew of new enterprise capabilities for its AI bot Claude, putting increased pressure on software companies.",
-        "summary_zh": "Anthropic 正在为其人工智能机器人 Claude 推出一系列新的企业功能，这给软件公司带来了越来越大的压力。",
-        "link": "https://finance.yahoo.com/news/anthropic-launches-new-enterprise-offerings-raising-the-heat-on-software-companies-143054933.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771943454,
-        "type": "News"
-    },
-    {
-        "title": "Meta and AMD announce 6-gigawatt GPU deal as part of AI build-out, AMD stock jumps",
-        "title_zh": "Meta 和 AMD 宣布达成 6 吉瓦 GPU 交易，作为人工智能建设的一部分，AMD 股价上涨",
-        "summary": "Meta and AMD are entering into a multiyear deal as part of the social media giant's massive AI buildout.",
-        "summary_zh": "Meta 和 AMD 正在达成一项多年期协议，作为这家社交媒体巨头大规模人工智能建设的一部分。",
-        "link": "https://finance.yahoo.com/news/meta-and-amd-announce-6-gigawatt-gpu-deal-as-part-of-ai-build-out-amd-stock-jumps-120013697.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1771934413,
+        "publish_time": 1771931381,
         "type": "News"
     }
 ]
