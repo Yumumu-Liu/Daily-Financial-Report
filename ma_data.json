@@ -1,45 +1,5 @@
 [
     {
-        "title": "Salesforce Uses Momentum Deal To Turn Calls Into CRM Value Question",
-        "title_zh": "Salesforce 利用 Momentum Deal 将来电转化为 CRM 价值问题",
-        "summary": "Salesforce (NYSE:CRM) has acquired conversational AI platform Momentum to feed voice and video data into Agentforce 360 and Slackbot.",
-        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）已收购对话式人工智能平台 Momentum，将语音和视频数据输入 Agentforce 360​​ 和 Slackbot。",
-        "link": "https://finance.yahoo.com/news/salesforce-uses-momentum-deal-turn-021215421.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772071935,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet Energy Deals Shape Long Term AI Data Center Outlook",
-        "title_zh": "Alphabet Energy 交易塑造人工智能数据中心的长期前景",
-        "summary": "Alphabet, parent of Google (NasdaqGS:GOOGL), has entered into major energy deals with Xcel Energy in Minnesota and AES Corporation in Texas to supply new data centers with large-scale clean power.",
-        "summary_zh": "谷歌（NasdaqGS：GOOGL）的母公司 Alphabet 已与明尼苏达州的 Xcel Energy 和德克萨斯州的 AES Corporation 达成重大能源交易，为新数据中心提供大规模清洁电力。",
-        "link": "https://finance.yahoo.com/news/alphabet-energy-deals-shape-long-002348064.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772065428,
-        "type": "News"
-    },
-    {
-        "title": "Bank of America resets AMD stock price target on deal with Meta",
-        "title_zh": "美国银行因与 Meta 的交易而重置 AMD 股价目标",
-        "summary": "Advanced Micro Devices (AMD) stock has lost about 18% in the past month, at the time of writing, Wednesday afternoon, Feb. 25, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 0.4% in the same period.",
-        "summary_zh": "据雅虎财经报道，截至本文撰写之时，即 2 月 25 日星期三下午，AMD 股价在过去一个月内下跌了约 18%。与此同时，SPDR S&P 500 指数 (SPY) 同期上涨约 0.4%。",
-        "link": "https://finance.yahoo.com/news/bank-america-resets-amd-stock-000000801.html",
-        "publisher": "TheStreet",
-        "publish_time": 1772064000,
-        "type": "News"
-    },
-    {
-        "title": "Quantum Computing Stocks: IonQ Earnings, Revenue Beat Amid Acquisitions",
-        "title_zh": "量子计算股票：IonQ 盈利、收入因收购而增长",
-        "summary": "Kicking off earnings reports for quantum computing stocks, IonQ reported Q4 profit and revenue that topped views amid an acquisition spree.",
-        "summary_zh": "IonQ 在发布量子计算股票收益报告时公布了第四季度的利润和收入，在收购热潮中表现出色。",
-        "link": "https://www.investors.com/news/technology/quantum-computing-stocks-ionq-stock-ionq-earnings-news/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1772061204,
-        "type": "News"
-    },
-    {
         "title": "Market Chatter: Kuwait Petroleum Held Talks With Investors Over Potential $7 Billion Pipeline Deal",
         "title_zh": "市场热议：科威特石油公司与投资者就潜在的 70 亿美元管道交易进行会谈",
         "summary": "Kuwait Petroleum had early talks with investors like BlackRock (BLK), KKR (KKR), EIG Partners, and B",
@@ -47,6 +7,26 @@
         "link": "https://finance.yahoo.com/news/market-chatter-kuwait-petroleum-held-110941562.html",
         "publisher": "MT Newswires",
         "publish_time": 1771931381,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia beats on Q4 expectations and offers better-than-anticipated Q1 outlook",
+        "title_zh": "英伟达第四季度业绩好于预期，第一季度前景好于预期",
+        "summary": "Nvidia reported its Q4 earnings on Wednesday.",
+        "summary_zh": "英伟达周三公布了第四季度财报。",
+        "link": "https://finance.yahoo.com/news/nvidia-beats-on-q4-expectations-and-offers-better-than-anticipated-q1-outlook-191031308.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1771873831,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
