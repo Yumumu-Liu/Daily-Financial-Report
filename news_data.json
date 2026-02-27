@@ -1,22 +1,42 @@
 [
     {
-        "title": "Australia's Appen says being the Switzerland of AI boosts demand for its human testing",
-        "title_zh": "澳大利亚Appen表示，作为人工智能领域的瑞士，增加了对其人体测试的需求",
-        "summary": "SYDNEY, Feb 27 (Reuters) - Australia's Appen, a big supplier of human assessment of artificial intelligence systems, said rising technology protectionism would boost demand in the United States and",
-        "summary_zh": "路透悉尼 2 月 27 日 - 人工智能系统人工评估大型供应商澳大利亚 Appen 表示，不断上升的技术保护主义将提振美国和澳大利亚的需求。",
-        "link": "https://finance.yahoo.com/news/australias-appen-says-being-switzerland-020923096.html",
+        "title": "Wartsila CEO eyes boost from Trump datacenter push",
+        "title_zh": "瓦锡兰首席执行官期待特朗普数据中心的推动",
+        "summary": "By Simon Jessop and Anne Kauranen LONDON, Feb 27 (Reuters) - A push for U.S. datacentres to use their own power will boost demand for Wartsila's more environmentally friendly products and help",
+        "summary_zh": "作者：Simon Jessop 和 Anne Kauranen 伦敦，2 月 27 日（路透社）——推动美国数据中心使用自己的电力将增加对瓦锡兰更环保产品的需求，并帮助",
+        "link": "https://finance.yahoo.com/news/wartsila-ceo-eyes-boost-trump-093018787.html",
         "publisher": "Reuters",
-        "publish_time": 1772158163,
+        "publish_time": 1772184618,
         "type": "News"
     },
     {
-        "title": "Wall St ends lower as AI fervor wanes after Nvidia results",
-        "title_zh": "英伟达公布业绩后，人工智能热情消退，华尔街收低",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-st-ends-lower-ai-000256540.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1772150576,
+        "title": "Google Wins Conditional Nod From Seoul to Offer Precision Maps",
+        "title_zh": "谷歌赢得首尔有条件许可提供精确地图",
+        "summary": "Google Maps has long offered limited functionality in South Korea because of restrictions on exporting detailed geographic data, a policy rooted in security concerns.",
+        "summary_zh": "长期以来，谷歌地图在韩国提供的功能有限，原因是出于安全考虑而限制导出详细地理数据。",
+        "link": "https://finance.yahoo.com/news/google-wins-conditional-nod-seoul-052112308.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1772176374,
+        "type": "News"
+    },
+    {
+        "title": "Why Franklin Templeton is betting big on tokenised funds",
+        "title_zh": "富兰克林邓普顿为何大举押注代币化基金",
+        "summary": "Traditional finance is shifting its focus in crypto beyond bitcoin, according to Roger Bayston of Franklin Templeton.",
+        "summary_zh": "富兰克林邓普顿 (Franklin Templeton) 的罗杰·贝斯顿 (Roger Bayston) 表示，传统金融正在将重点转向比特币之外的加密货币。",
+        "link": "https://finance.yahoo.com/news/franklin-templeton-tokenised-funds-crypto-060045473.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772172045,
+        "type": "News"
+    },
+    {
+        "title": "9 luxury homes under the £2m mansion tax threshold",
+        "title_zh": "9套豪宅税门槛低于200万英镑",
+        "summary": "The mansion tax comes into effect in April 2028 and will be based on values in 2026. Here are sumptuous homes under the £2m threshold that will be exempt.",
+        "summary_zh": "豪宅税将于 2028 年 4 月生效，并将以 2026 年的价值为基础。以下是门槛低于 200 万英镑的豪华住宅将获得豁免。",
+        "link": "https://finance.yahoo.com/news/luxury-homes-mansion-tax-threshold-060001218.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772172001,
         "type": "News"
     },
     {
@@ -30,33 +50,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after Nvidia-led slump dampens AI mood again",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，英伟达引领的股市暴跌再次打压人工智能情绪",
-        "summary": "Wall Street saw a hefty tech sell-off led by Nvidia despite the company beating analyst expectations, highlighting investor demands.",
-        "summary_zh": "尽管英伟达超出了分析师的预期，凸显了投资者的需求，但华尔街仍遭遇了以英伟达为首的科技股大幅抛售。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-nvidia-led-slump-dampens-ai-mood-again-235202719.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after Nvidia-led slump dampens AI mood again",
+        "title_zh": "今日股市：英伟达引领的股市暴跌再次打压人工智能情绪，道琼斯指数、标准普尔 500 指数、纳斯达克期货均下跌",
+        "summary": "The prospects for AI to sustain build-out spending and to harm legacy industries continue to be front of mind for Wall Street.",
+        "summary_zh": "人工智能维持扩建支出和损害传统产业的前景仍然是华尔街关注的首要问题。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-nvidia-led-slump-dampens-ai-mood-again-235202596.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772149922,
-        "type": "News"
-    },
-    {
-        "title": "Meta signs multi-billion-dollar deal to rent Google AI chips, The Information reports",
-        "title_zh": "据 The Information 报道，Meta 签署了数十亿美元的租赁谷歌人工智能芯片协议",
-        "summary": "Meta Platforms has signed a multi-billion dollar deal to rent artificial intelligence chips ‌from Google to develop new AI models, The ‌Information reported on Thursday, citing a person involved in the talks.",
-        "summary_zh": "据 The Information 周四援引一位参与谈判的人士的话报道，Meta Platforms 已签署一项价值数十亿美元的协议，从谷歌租赁人工智能芯片来开发新的人工智能模型。",
-        "link": "https://finance.yahoo.com/news/google-signs-multibillion-dollar-ai-232844608.html",
-        "publisher": "Reuters",
-        "publish_time": 1772148524,
-        "type": "News"
-    },
-    {
-        "title": "Earnings live: Block stock surges over 20% after Jack Dorsey cuts nearly half of staff, Dell stock jumps",
-        "title_zh": "财报直播：Jack Dorsey 裁员近一半后 Block 股价飙升逾 20%，戴尔股价上涨",
-        "summary": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
-        "summary_zh": "标准普尔 500 指数有望实现两位数的盈利增长，迄今为止已有超过一半的公司公布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-block-stock-surges-over-20-after-jack-dorsey-cuts-nearly-half-of-staff-dell-stock-jumps-220241966.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772143361,
         "type": "News"
     },
     {
