@@ -1,5 +1,25 @@
 [
     {
+        "title": "Constellation Energy Expansion Links Calpine Deal And Data Center Growth",
+        "title_zh": "Constellation Energy 扩建将 Calpine 交易与数据中心增长联系起来",
+        "summary": "Constellation Energy (NasdaqGS:CEG) completed its acquisition of Calpine Corporation, creating one of the largest electricity producers in the United States.",
+        "summary_zh": "Constellation Energy（纳斯达克GS：CEG）完成了对 Calpine Corporation 的收购，成为美国最大的电力生产商之一。",
+        "link": "https://finance.yahoo.com/news/constellation-energy-expansion-links-calpine-071013253.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772262613,
+        "type": "News"
+    },
+    {
+        "title": "Netflix Backs Out of the Warner Bros. Deal. 5 Reasons It's a Smart Move",
+        "title_zh": "Netflix 退出与华纳兄弟的交易。这是明智之举的 5 个理由",
+        "summary": "Netflix investors are breathing a sigh of relief, and for good reason.",
+        "summary_zh": "Netflix 的投资者松了一口气，这是有充分理由的。",
+        "link": "https://finance.yahoo.com/news/netflix-backs-warner-bros-deal-045000278.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1772254200,
+        "type": "News"
+    },
+    {
         "title": "Paramount Issuing $47 Billion of Equity at Big Premium to Stock Price for Warner Bros. Deal",
         "title_zh": "派拉蒙以较股价大幅溢价收购华纳兄弟交易发行 470 亿美元股票",
         "summary": "Paramount Skydance  received a big vote of confidence from its controlling shareholders, including the Ellison family, when they agreed to fully back an equity offering to help fund the company’s deal for  Warner Bros. Discovery  at a big premium above Paramount’s stock price.",
@@ -27,26 +47,6 @@
         "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026/card/paramount-beats-netflix-to-warner-discovery-key-twists-and-turns-7NjBxE9MqhHnjeGb2HhF?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1772195305,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley 'Absolutely' Plans to Offer Bitcoin Custody, Trading, Yield and Lending: Exec",
-        "title_zh": "摩根士丹利“绝对”计划提供比特币托管、交易、收益和贷款：执行官",
-        "summary": "Morgan Stanley wants to let clients custody and trade Bitcoin—and it's building the tech itself.",
-        "summary_zh": "摩根士丹利希望让客户托管和交易比特币，并且它正在自行开发这项技术。",
-        "link": "https://finance.yahoo.com/news/morgan-stanley-absolutely-plans-offer-211252102.html",
-        "publisher": "decrypt",
-        "publish_time": 1772140372,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]
