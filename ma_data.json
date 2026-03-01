@@ -1,22 +1,22 @@
 [
     {
-        "title": "Constellation Energy Expansion Links Calpine Deal And Data Center Growth",
-        "title_zh": "Constellation Energy 扩建将 Calpine 交易与数据中心增长联系起来",
-        "summary": "Constellation Energy (NasdaqGS:CEG) completed its acquisition of Calpine Corporation, creating one of the largest electricity producers in the United States.",
-        "summary_zh": "Constellation Energy（纳斯达克GS：CEG）完成了对 Calpine Corporation 的收购，成为美国最大的电力生产商之一。",
-        "link": "https://finance.yahoo.com/news/constellation-energy-expansion-links-calpine-071013253.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772262613,
+        "title": "The billion-dollar infrastructure deals powering the AI boom",
+        "title_zh": "数十亿美元的基础设施交易推动人工智能热潮",
+        "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+        "summary_zh": "以下是我们所了解的有关最大的人工智能基础设施项目的所有信息，包括 Meta、Oracle、微软、谷歌和 OpenAI 的主要支出。",
+        "link": "https://finance.yahoo.com/news/billion-dollar-infrastructure-deals-powering-173527896.html",
+        "publisher": "TechCrunch",
+        "publish_time": 1772311315,
         "type": "News"
     },
     {
-        "title": "Netflix Backs Out of the Warner Bros. Deal. 5 Reasons It's a Smart Move",
-        "title_zh": "Netflix 退出与华纳兄弟的交易。这是明智之举的 5 个理由",
-        "summary": "Netflix investors are breathing a sigh of relief, and for good reason.",
-        "summary_zh": "Netflix 的投资者松了一口气，这是有充分理由的。",
-        "link": "https://finance.yahoo.com/news/netflix-backs-warner-bros-deal-045000278.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1772254200,
+        "title": "Is Blackstone’s (BX) ESOP Stock Offering Quietly Reframing Its Private Credit And Power Ambitions?",
+        "title_zh": "Blackstone (BX) 的 ESOP 股票发行是否正在悄然重塑其私人信贷和权力野心？",
+        "summary": "In late February 2026, Blackstone filed a shelf registration for approximately US$1.47 billion of common stock, linked to an ESOP-related offering of 12,765,875 shares.",
+        "summary_zh": "2026 年 2 月下旬，Blackstone 提交了约 14.7 亿美元普通股的搁置登记，与 ESOP 相关的 12,765,875 股发行相关。",
+        "link": "https://finance.yahoo.com/news/blackstone-bx-esop-stock-offering-091302829.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772269982,
         "type": "News"
     },
     {
@@ -30,23 +30,13 @@
         "type": "News"
     },
     {
-        "title": "Alphabet (GOOGL) Secures Power Deals with AES, Xcel for Data Centers",
-        "title_zh": "Alphabet (GOOGL) 与 AES、Xcel 达成数据中心电力交易",
-        "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of 15 stocks with the biggest hedge fund momentum, after gaining 41 hedge fund holders during the fourth quarter of 2025. On February 24, Alphabet Inc.",
-        "summary_zh": "Alphabet Inc.（纳斯达克股票代码：GOOGL）是对冲基金势头最大的 15 只股票之一，在 2025 年第四季度获得了 41 名对冲基金持有人。2 月 24 日，Alphabet Inc.",
-        "link": "https://finance.yahoo.com/news/alphabet-googl-secures-power-deals-210448694.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1772226288,
-        "type": "News"
-    },
-    {
-        "title": "Key Twists and Turns in the Warner Deal",
-        "title_zh": "华纳交易的关键曲折",
-        "summary": "Paramount Skydance prevailed over Netflix in the fight for Warner Bros. Discovery. Here’s how it unfolded.    Sept. 11. Warner shares rocket after the Journal reports that Paramount Skydance (recently formed after another merger saga) is preparing a bid.",
-        "summary_zh": "派拉蒙 Skydance 在争夺华纳兄弟探索频道的竞争中击败了 Netflix。事情是这样展开的。    9 月 11 日。《华尔街日报》报道派拉蒙 Skydance（最近在另一起合并事件后成立）正在准备竞购后，华纳股价飙升。",
-        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-27-2026/card/paramount-beats-netflix-to-warner-discovery-key-twists-and-turns-7NjBxE9MqhHnjeGb2HhF?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1772195305,
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]

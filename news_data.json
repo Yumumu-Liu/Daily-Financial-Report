@@ -1,5 +1,35 @@
 [
     {
+        "title": "OpenAI details layered protections in US defense department pact",
+        "title_zh": "OpenAI 在美国国防部协议中详细介绍了分层保护",
+        "summary": "Feb 28 (Reuters) - OpenAI said on Saturday that the agreement it struck a day ago with the Pentagon to deploy technology on the U.S. defense department's classified network includes additional",
+        "summary_zh": "路透 2 月 28 日 - OpenAI 周六表示，一天前与五角大楼达成的在美国国防部机密网络上部署技术的协议包括额外的内容",
+        "link": "https://finance.yahoo.com/news/openai-details-layered-protections-us-230536563.html",
+        "publisher": "Reuters",
+        "publish_time": 1772328003,
+        "type": "News"
+    },
+    {
+        "title": "Mining stocks are the new market darlings, fueled by geopolitical risks and AI demand",
+        "title_zh": "在地缘政治风险和人工智能需求的推动下，矿业股成为市场新宠",
+        "summary": "Mining stocks are rising as the sector becomes a strategic long-term asset for investors.",
+        "summary_zh": "随着矿业股成为投资者的战略性长期资产，矿业股正在上涨。",
+        "link": "https://finance.yahoo.com/news/mining-stocks-are-the-new-market-darlings-fueled-by-geopolitical-risks-and-ai-demand-173005780.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772299805,
+        "type": "News"
+    },
+    {
+        "title": "This moment of AI disruption is full of mixed messages",
+        "title_zh": "人工智能颠覆的这一时刻充满了复杂的信息",
+        "summary": "When the economy gets to the other side of the AI transformation, it will be hard to tell if the markets are winner-take-all or if the winners are simply standing over the wreckage.",
+        "summary_zh": "当经济发展到人工智能转型的另一边时，很难判断市场是赢家通吃还是赢家只是站在废墟上。",
+        "link": "https://finance.yahoo.com/news/this-moment-of-ai-disruption-is-full-of-mixed-messages-110026521.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772276426,
+        "type": "News"
+    },
+    {
         "title": "Wall St notches monthly declines on AI, tariff, geopolitical worries",
         "title_zh": "华尔街因人工智能、关税和地缘政治担忧而月度下跌",
         "summary": "STORY: U.S.",
@@ -7,66 +37,6 @@
         "link": "https://finance.yahoo.com/video/wall-st-notches-monthly-declines-231941097.html",
         "publisher": "Reuters Videos",
         "publish_time": 1772234381,
-        "type": "News"
-    },
-    {
-        "title": "Earnings live: Block mass layoffs earn Wall Street's approval, Duolingo shares plunge",
-        "title_zh": "财报直播：大规模裁员获得华尔街认可，Duolingo 股价暴跌",
-        "summary": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
-        "summary_zh": "标准普尔 500 指数有望实现两位数的盈利增长，迄今为止已有超过一半的公司公布了第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/earnings-live-block-mass-layoffs-earn-wall-streets-approval-duolingo-shares-plunge-214740021.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772228860,
-        "type": "News"
-    },
-    {
-        "title": "CoreWeave Suffers Worst Rout in Six Months Over Spending Fears",
-        "title_zh": "CoreWeave 因支出担忧而遭遇六个月来最严重的挫败",
-        "summary": "Analysts had estimated about 72 cents on average, according to data compiled by Bloomberg.  The company, an operator of AI data centers, also said that 2026 capital spending will be $30 billion to $35 billion — a bigger figure than analysts anticipated.",
-        "summary_zh": "根据彭博社汇编的数据，分析师平均估计约为 72 美分。  该公司是人工智能数据中心的运营商，还表示，2026 年的资本支出将达到 300 亿至 350 亿美元，这个数字比分析师预期的要高。",
-        "link": "https://finance.yahoo.com/news/coreweave-shares-slide-heavy-spending-104424431.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1772227341,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall to end volatile month as AI worries buffet markets",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克指数下跌，结束动荡的月份，因人工智能担忧自助市场",
-        "summary": "The prospects for AI to sustain build-out spending and to harm legacy industries continue to be front of mind for Wall Street.",
-        "summary_zh": "人工智能维持扩建支出和损害传统产业的前景仍然是华尔街关注的首要问题。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-to-end-volatile-month-as-ai-worries-buffet-markets-211239963.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772226759,
-        "type": "News"
-    },
-    {
-        "title": "Coinbase exec says crypto 'corrections' are simple math, not a catastrophe",
-        "title_zh": "Coinbase 高管表示加密货币“修正”是简单的数学，而不是灾难",
-        "summary": "Coinbase's John D'Agostino explains catalysts that will fuel crypto's next move.",
-        "summary_zh": "Coinbase 的 John D'Agostino 解释了推动加密货币下一步发展的催化剂。",
-        "link": "https://finance.yahoo.com/news/coinbase-exec-says-crypto-corrections-are-simple-math-not-a-catastrophe-191545557.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772219745,
-        "type": "News"
-    },
-    {
-        "title": "A look at Warren Buffett's final moves as Berkshire CEO",
-        "title_zh": "沃伦·巴菲特作为伯克希尔首席执行官的最后举动",
-        "summary": "Berkshire Hathaway (BRK-B, BRK-A) will release fourth quarter earnings results on Saturday.",
-        "summary_zh": "伯克希尔哈撒韦公司（BRK-B，BRK-A）将于周六发布第四季度盈利结果。",
-        "link": "https://finance.yahoo.com/video/look-warren-buffetts-final-moves-161408880.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772208848,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia will remain the bellwether of AI, analyst explains",
-        "title_zh": "分析师解释说，英伟达仍将是人工智能领域的领头羊",
-        "summary": "After Nvidia's (NVDA) overwhelmingly positive fourth quarter earnings still weren't enough to impress Wall Street investors, is the chipmaking giant still a bellwether for markets (^DJI, ^IXIC, ^GSPC) and the AI trade? Stifel applied technology analyst Ruben Roy and D.A.",
-        "summary_zh": "英伟达（NVDA）第四季度的压倒性盈利仍不足以打动华尔街投资者，这家芯片制造巨头是否仍然是市场（^DJI、^IXIC、^GSPC）和人工智能行业的领头羊？ Stifel 应用技术分析师 Ruben Roy 和 D.A.",
-        "link": "https://finance.yahoo.com/video/nvidia-remain-bellwether-ai-analyst-113019100.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772191819,
         "type": "News"
     }
 ]
