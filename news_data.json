@@ -1,12 +1,62 @@
 [
     {
-        "title": "OpenAI details layered protections in US defense department pact",
-        "title_zh": "OpenAI 在美国国防部协议中详细介绍了分层保护",
-        "summary": "Feb 28 (Reuters) - OpenAI said on Saturday that the agreement it struck a day ago with the Pentagon to deploy technology on the U.S. defense department's classified network includes additional",
-        "summary_zh": "路透 2 月 28 日 - OpenAI 周六表示，一天前与五角大楼达成的在美国国防部机密网络上部署技术的协议包括额外的内容",
-        "link": "https://finance.yahoo.com/news/openai-details-layered-protections-us-230536563.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink, oil prices surge as markets react to Iran conflict",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，市场对伊朗冲突做出反应，油价飙升",
+        "summary": "Wall Street is reacting to joint attacks from the US and Israel on Iran. Oil and currencies have seen the greatest jumps.",
+        "summary_zh": "华尔街正在对美国和以色列对伊朗的联合攻击做出反应。石油和货币的涨幅最大。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-oil-prices-surge-as-markets-react-to-iran-conflict-235000315.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772409000,
+        "type": "News"
+    },
+    {
+        "title": "Amazon India slashes seller referral fees in retail growth push",
+        "title_zh": "亚马逊印度大幅削减卖家推荐费以推动零售增长",
+        "summary": "March 2 (Reuters) - Amazon will stop charging sellers in India referral fees for products under 1,000 rupees ($10.98), the company said on Monday, as it looks to attract more merchants to its online",
+        "summary_zh": "路透 3 月 2 日 - 亚马逊周一表示，将停止向印度卖家收取 1,000 卢比（10.98 美元）以下产品的推荐费，以吸引更多商家使用其在线产品",
+        "link": "https://finance.yahoo.com/news/amazon-india-slashes-seller-referral-203149296.html",
         "publisher": "Reuters",
-        "publish_time": 1772328003,
+        "publish_time": 1772397109,
+        "type": "News"
+    },
+    {
+        "title": "NFL quarterback Jameis Winston on how he turned from burning through cash to investing strategically",
+        "title_zh": "NFL 四分卫杰梅斯·温斯顿 (Jameis Winston) 讲述他如何从烧钱转向战略投资",
+        "summary": "Winston's costly evolution is a reminder to \"be where your feet are\" and invest in companies you know.",
+        "summary_zh": "温斯顿代价高昂的演变提醒我们“脚踏实地”并投资于您认识的公司。",
+        "link": "https://finance.yahoo.com/news/nfl-quarterback-jameis-winston-on-how-he-turned-from-burning-through-cash-to-investing-strategically-180010780.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772388010,
+        "type": "News"
+    },
+    {
+        "title": "\"A stark contrast\": Wall Street weighs winners and losers amid AI-driven tech sell-off",
+        "title_zh": "“形成鲜明对比”：华尔街在人工智能驱动的科技股抛售中权衡赢家和输家",
+        "summary": "Wall Street strategists see key distinctions among certain names in tech in the near term.",
+        "summary_zh": "华尔街策略师认为，短期内科技领域的某些名字之间存在关键区别。",
+        "link": "https://finance.yahoo.com/news/a-stark-contrast-wall-street-weighs-winners-and-losers-amid-ai-driven-tech-sell-off-160017420.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772380817,
+        "type": "News"
+    },
+    {
+        "title": "Here's the great Nvidia stock mystery",
+        "title_zh": "这是英伟达股票的巨大谜团",
+        "summary": "Nvidia could use some sizzle, or so thinks the market.",
+        "summary_zh": "市场认为英伟达可以利用一些热度。",
+        "link": "https://finance.yahoo.com/news/heres-the-great-nvidia-stock-mystery-133025474.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772371825,
+        "type": "News"
+    },
+    {
+        "title": "February jobs data, Broadcom earnings, and AI fears abound: What to watch this week",
+        "title_zh": "2 月份就业数据、博通财报和人工智能担忧比比皆是：本周值得关注的内容",
+        "summary": "After Nvidia's earnings failed to impress investors and sent the market into a downturn, attention turns this week to quarterly results from Broadcom and more worries about the state of the AI trade.",
+        "summary_zh": "在英伟达的盈利未能给投资者留下深刻印象并导致市场陷入低迷之后，本周的注意力转向博通的季度业绩以及对人工智能行业状况的更多担忧。",
+        "link": "https://finance.yahoo.com/news/february-jobs-data-broadcom-earnings-and-ai-fears-abound-what-to-watch-this-week-124739613.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772369259,
         "type": "News"
     },
     {
@@ -17,26 +67,6 @@
         "link": "https://finance.yahoo.com/news/mining-stocks-are-the-new-market-darlings-fueled-by-geopolitical-risks-and-ai-demand-173005780.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772299805,
-        "type": "News"
-    },
-    {
-        "title": "This moment of AI disruption is full of mixed messages",
-        "title_zh": "人工智能颠覆的这一时刻充满了复杂的信息",
-        "summary": "When the economy gets to the other side of the AI transformation, it will be hard to tell if the markets are winner-take-all or if the winners are simply standing over the wreckage.",
-        "summary_zh": "当经济发展到人工智能转型的另一边时，很难判断市场是赢家通吃还是赢家只是站在废墟上。",
-        "link": "https://finance.yahoo.com/news/this-moment-of-ai-disruption-is-full-of-mixed-messages-110026521.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772276426,
-        "type": "News"
-    },
-    {
-        "title": "Wall St notches monthly declines on AI, tariff, geopolitical worries",
-        "title_zh": "华尔街因人工智能、关税和地缘政治担忧而月度下跌",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-st-notches-monthly-declines-231941097.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1772234381,
         "type": "News"
     }
 ]
