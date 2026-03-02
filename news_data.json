@@ -1,22 +1,82 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink, oil prices surge as markets react to Iran conflict",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，市场对伊朗冲突做出反应，油价飙升",
-        "summary": "Wall Street is reacting to joint attacks from the US and Israel on Iran. Oil and currencies have seen the greatest jumps.",
-        "summary_zh": "华尔街正在对美国和以色列对伊朗的联合攻击做出反应。石油和货币的涨幅最大。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-oil-prices-surge-as-markets-react-to-iran-conflict-235000315.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772409000,
+        "title": "Nokia expands partnerships with TIM Brasil, Deutsche Telekom in AI technology push",
+        "title_zh": "诺基亚扩大与 TIM Brasil 和德国电信的合作伙伴关系，推动人工智能技术的发展",
+        "summary": "March 2 (Reuters) - Nokia said on Monday it was expanding partnerships with TIM Brasil and Deutsche Telekom, as the Finnish 5G gear maker seeks to capitalise on adoption of AI-based technologies",
+        "summary_zh": "3 月 2 日（路透社）——诺基亚周一表示，正在扩大与 TIM Brasil 和德国电信的合作伙伴关系，这家芬兰 5G 设备制造商寻求利用基于人工智能的技术",
+        "link": "https://finance.yahoo.com/news/nokia-expands-partnerships-tim-brasil-092843261.html",
+        "publisher": "Reuters",
+        "publish_time": 1772443723,
         "type": "News"
     },
     {
-        "title": "Amazon India slashes seller referral fees in retail growth push",
-        "title_zh": "亚马逊印度大幅削减卖家推荐费以推动零售增长",
-        "summary": "March 2 (Reuters) - Amazon will stop charging sellers in India referral fees for products under 1,000 rupees ($10.98), the company said on Monday, as it looks to attract more merchants to its online",
-        "summary_zh": "路透 3 月 2 日 - 亚马逊周一表示，将停止向印度卖家收取 1,000 卢比（10.98 美元）以下产品的推荐费，以吸引更多商家使用其在线产品",
-        "link": "https://finance.yahoo.com/news/amazon-india-slashes-seller-referral-203149296.html",
+        "title": "Trending tickers: Palantir, Berkshire Hathaway, Lockheed Martin, Exxon Mobil and Bunzl",
+        "title_zh": "热门股票：Palantir、伯克希尔·哈撒韦、洛克希德·马丁、埃克森美孚和 Bunzl",
+        "summary": "The latest investor updates on stocks that are trending on Monday",
+        "summary_zh": "投资者对周一趋势股票的最新更新",
+        "link": "https://finance.yahoo.com/news/palantir-berkshire-hathaway-lockheed-martin-exxon-mobil-bunzl-trending-tickers-092233524.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772443353,
+        "type": "News"
+    },
+    {
+        "title": "Stocks Slump as US-Iran War Lifts Brent Toward $80: Markets Wrap",
+        "title_zh": "美伊战争将布伦特原油推向 80 美元，股市暴跌：市场收尾",
+        "summary": "Brent crude traded near $80 a barrel after the conflict effectively shut the Strait of Hormuz — a vital artery off Iran’s coast that carries about a fifth of the world’s oil and significant volumes of gas.",
+        "summary_zh": "冲突导致霍尔木兹海峡关闭后，布伦特原油价格接近每桶 80 美元。霍尔木兹海峡是伊朗海岸附近的一条重要动脉，运载着世界上约五分之一的石油和大量天然气。",
+        "link": "https://finance.yahoo.com/news/dollar-surges-traders-brace-war-201322505.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1772440980,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Cloud Disrupted After ‘Objects’ Hit UAE Data Center",
+        "title_zh": "“物体”袭击阿联酋数据中心后亚马逊云中断",
+        "summary": "AWS said the incident, which took place around 4:30 p.m. Dubai time on Sunday, impacted services from the data center in one of its regional groups.",
+        "summary_zh": "AWS 表示，该事件发生在下午 4:30 左右。迪拜时间周日，其一个区域集团的数据中心的服务受到影响。",
+        "link": "https://finance.yahoo.com/news/amazon-cloud-suffers-outage-objects-041018117.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1772437415,
+        "type": "News"
+    },
+    {
+        "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
+        "title_zh": "沃达丰与亚马逊卫星合作连接欧洲和非洲的桅杆",
+        "summary": "Mobile company Vodafone said on Monday it had ‌signed a deal with Amazon ‌Leo, the U.S. company's low Earth orbit satellite network, ​to connect 4G and 5G mobile masts in remote areas in Europe and Africa.",
+        "summary_zh": "移动公司沃达丰周一表示，它已与美国公司的近地轨道卫星网络亚马逊 Leo 签署了一项协议，以连接欧洲和非洲偏远地区的 4G 和 5G 移动基站。",
+        "link": "https://finance.yahoo.com/news/vodafone-teams-amazons-satellites-connect-070559774.html",
         "publisher": "Reuters",
-        "publish_time": 1772397109,
+        "publish_time": 1772435159,
+        "type": "News"
+    },
+    {
+        "title": "Amazon's AWS reports power, connectivity issues in Bahrain, UAE amid Iran strikes",
+        "title_zh": "亚马逊 AWS 报告伊朗袭击期间巴林和阿联酋出现电力和连接问题",
+        "summary": "Amazon cloud unit's data centers in Bahrain and the UAE were facing ‌power and connectivity issues on Monday, the ‌company said, as Iranian retaliatory strikes hit airports, ports, and ​residential areas across the wider Gulf.",
+        "summary_zh": "该公司表示，随着伊朗的报复性袭击袭击了整个海湾地区的机场、港口和住宅区，亚马逊云部门位于巴林和阿联酋的数据中心周一面临电力和连接问题。",
+        "link": "https://finance.yahoo.com/news/amazons-aws-reports-power-connectivity-064840792.html",
+        "publisher": "Reuters",
+        "publish_time": 1772434120,
+        "type": "News"
+    },
+    {
+        "title": "What are expat mortgages and how high are the interest rates?",
+        "title_zh": "什么是侨民抵押贷款以及利率有多高？",
+        "summary": "Buying from abroad? These niche mortgage products can help you",
+        "summary_zh": "从国外买？这些利基抵押贷款产品可以帮助您",
+        "link": "https://finance.yahoo.com/news/expat-mortgage-interest-rates-uk-property-060025519.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772431225,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge while oil prices surge as Iran conflict jolts markets",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货暴跌，而伊朗冲突震撼市场，油价飙升",
+        "summary": "Wall Street is reacting to joint attacks from the US and Israel on Iran, which has spurred a retreat from risk assets.",
+        "summary_zh": "华尔街正在对美国和以色列对伊朗的联合攻击做出反应，这引发了风险资产的撤退。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-while-oil-prices-surge-as-iran-conflict-jolts-markets-235000492.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772409000,
         "type": "News"
     },
     {
@@ -27,46 +87,6 @@
         "link": "https://finance.yahoo.com/news/nfl-quarterback-jameis-winston-on-how-he-turned-from-burning-through-cash-to-investing-strategically-180010780.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772388010,
-        "type": "News"
-    },
-    {
-        "title": "\"A stark contrast\": Wall Street weighs winners and losers amid AI-driven tech sell-off",
-        "title_zh": "“形成鲜明对比”：华尔街在人工智能驱动的科技股抛售中权衡赢家和输家",
-        "summary": "Wall Street strategists see key distinctions among certain names in tech in the near term.",
-        "summary_zh": "华尔街策略师认为，短期内科技领域的某些名字之间存在关键区别。",
-        "link": "https://finance.yahoo.com/news/a-stark-contrast-wall-street-weighs-winners-and-losers-amid-ai-driven-tech-sell-off-160017420.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772380817,
-        "type": "News"
-    },
-    {
-        "title": "Here's the great Nvidia stock mystery",
-        "title_zh": "这是英伟达股票的巨大谜团",
-        "summary": "Nvidia could use some sizzle, or so thinks the market.",
-        "summary_zh": "市场认为英伟达可以利用一些热度。",
-        "link": "https://finance.yahoo.com/news/heres-the-great-nvidia-stock-mystery-133025474.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772371825,
-        "type": "News"
-    },
-    {
-        "title": "February jobs data, Broadcom earnings, and AI fears abound: What to watch this week",
-        "title_zh": "2 月份就业数据、博通财报和人工智能担忧比比皆是：本周值得关注的内容",
-        "summary": "After Nvidia's earnings failed to impress investors and sent the market into a downturn, attention turns this week to quarterly results from Broadcom and more worries about the state of the AI trade.",
-        "summary_zh": "在英伟达的盈利未能给投资者留下深刻印象并导致市场陷入低迷之后，本周的注意力转向博通的季度业绩以及对人工智能行业状况的更多担忧。",
-        "link": "https://finance.yahoo.com/news/february-jobs-data-broadcom-earnings-and-ai-fears-abound-what-to-watch-this-week-124739613.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772369259,
-        "type": "News"
-    },
-    {
-        "title": "Mining stocks are the new market darlings, fueled by geopolitical risks and AI demand",
-        "title_zh": "在地缘政治风险和人工智能需求的推动下，矿业股成为市场新宠",
-        "summary": "Mining stocks are rising as the sector becomes a strategic long-term asset for investors.",
-        "summary_zh": "随着矿业股成为投资者的战略性长期资产，矿业股正在上涨。",
-        "link": "https://finance.yahoo.com/news/mining-stocks-are-the-new-market-darlings-fueled-by-geopolitical-risks-and-ai-demand-173005780.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772299805,
         "type": "News"
     }
 ]
