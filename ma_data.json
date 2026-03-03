@@ -20,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Tech stocks today: Nvidia invests $4B in photonics makers, Apple announces low-cost iPhone, OpenAI strikes deal with Pentagon",
-        "title_zh": "今日科技股：英伟达向光子制造商投资 40 亿美元，苹果推出低成本 iPhone，OpenAI 与五角大楼达成协议",
-        "summary": "All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.",
-        "summary_zh": "由于人工智能担忧继续困扰市场，所有目光都集中在英伟达将于周三收盘后公布的第四季度业绩。",
-        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-invests-4b-in-photonics-makers-apple-announces-low-cost-iphone-openai-strikes-deal-with-pentagon-163709849.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772469429,
-        "type": "News"
-    },
-    {
         "title": "This Networking Stock Is Set to Win on an AMD-Meta Deal — and It Pays a Dividend Too",
         "title_zh": "这支网络股票将在 AMD-Meta 交易中获胜——而且它也会带来股息",
         "summary": "Cisco offers a straightforward way to play Meta’s $100 billion-plus AMD AI chip deal because every new GPU rack needs a high-performance, power-efficient network.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/blackstone-bx-esop-stock-offering-091302829.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1772269982,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
