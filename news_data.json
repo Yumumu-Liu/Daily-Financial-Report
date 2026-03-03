@@ -1,92 +1,92 @@
 [
     {
-        "title": "Nokia expands partnerships with TIM Brasil, Deutsche Telekom in AI technology push",
-        "title_zh": "诺基亚扩大与 TIM Brasil 和德国电信的合作伙伴关系，推动人工智能技术的发展",
-        "summary": "March 2 (Reuters) - Nokia said on Monday it was expanding partnerships with TIM Brasil and Deutsche Telekom, as the Finnish 5G gear maker seeks to capitalise on adoption of AI-based technologies",
-        "summary_zh": "3 月 2 日（路透社）——诺基亚周一表示，正在扩大与 TIM Brasil 和德国电信的合作伙伴关系，这家芬兰 5G 设备制造商寻求利用基于人工智能的技术",
-        "link": "https://finance.yahoo.com/news/nokia-expands-partnerships-tim-brasil-092843261.html",
-        "publisher": "Reuters",
-        "publish_time": 1772443723,
-        "type": "News"
-    },
-    {
-        "title": "Trending tickers: Palantir, Berkshire Hathaway, Lockheed Martin, Exxon Mobil and Bunzl",
-        "title_zh": "热门股票：Palantir、伯克希尔·哈撒韦、洛克希德·马丁、埃克森美孚和 Bunzl",
-        "summary": "The latest investor updates on stocks that are trending on Monday",
-        "summary_zh": "投资者对周一趋势股票的最新更新",
-        "link": "https://finance.yahoo.com/news/palantir-berkshire-hathaway-lockheed-martin-exxon-mobil-bunzl-trending-tickers-092233524.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1772443353,
-        "type": "News"
-    },
-    {
-        "title": "Stocks Slump as US-Iran War Lifts Brent Toward $80: Markets Wrap",
-        "title_zh": "美伊战争将布伦特原油推向 80 美元，股市暴跌：市场收尾",
-        "summary": "Brent crude traded near $80 a barrel after the conflict effectively shut the Strait of Hormuz — a vital artery off Iran’s coast that carries about a fifth of the world’s oil and significant volumes of gas.",
-        "summary_zh": "冲突导致霍尔木兹海峡关闭后，布伦特原油价格接近每桶 80 美元。霍尔木兹海峡是伊朗海岸附近的一条重要动脉，运载着世界上约五分之一的石油和大量天然气。",
-        "link": "https://finance.yahoo.com/news/dollar-surges-traders-brace-war-201322505.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1772440980,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Cloud Disrupted After ‘Objects’ Hit UAE Data Center",
-        "title_zh": "“物体”袭击阿联酋数据中心后亚马逊云中断",
-        "summary": "AWS said the incident, which took place around 4:30 p.m. Dubai time on Sunday, impacted services from the data center in one of its regional groups.",
-        "summary_zh": "AWS 表示，该事件发生在下午 4:30 左右。迪拜时间周日，其一个区域集团的数据中心的服务受到影响。",
-        "link": "https://finance.yahoo.com/news/amazon-cloud-suffers-outage-objects-041018117.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1772437415,
-        "type": "News"
-    },
-    {
-        "title": "Vodafone teams up with Amazon's satellites to connect masts in Europe and Africa",
-        "title_zh": "沃达丰与亚马逊卫星合作连接欧洲和非洲的桅杆",
-        "summary": "Mobile company Vodafone said on Monday it had ‌signed a deal with Amazon ‌Leo, the U.S. company's low Earth orbit satellite network, ​to connect 4G and 5G mobile masts in remote areas in Europe and Africa.",
-        "summary_zh": "移动公司沃达丰周一表示，它已与美国公司的近地轨道卫星网络亚马逊 Leo 签署了一项协议，以连接欧洲和非洲偏远地区的 4G 和 5G 移动基站。",
-        "link": "https://finance.yahoo.com/news/vodafone-teams-amazons-satellites-connect-070559774.html",
-        "publisher": "Reuters",
-        "publish_time": 1772435159,
-        "type": "News"
-    },
-    {
-        "title": "Amazon's AWS reports power, connectivity issues in Bahrain, UAE amid Iran strikes",
-        "title_zh": "亚马逊 AWS 报告伊朗袭击期间巴林和阿联酋出现电力和连接问题",
-        "summary": "Amazon cloud unit's data centers in Bahrain and the UAE were facing ‌power and connectivity issues on Monday, the ‌company said, as Iranian retaliatory strikes hit airports, ports, and ​residential areas across the wider Gulf.",
-        "summary_zh": "该公司表示，随着伊朗的报复性袭击袭击了整个海湾地区的机场、港口和住宅区，亚马逊云部门位于巴林和阿联酋的数据中心周一面临电力和连接问题。",
-        "link": "https://finance.yahoo.com/news/amazons-aws-reports-power-connectivity-064840792.html",
-        "publisher": "Reuters",
-        "publish_time": 1772434120,
-        "type": "News"
-    },
-    {
-        "title": "What are expat mortgages and how high are the interest rates?",
-        "title_zh": "什么是侨民抵押贷款以及利率有多高？",
-        "summary": "Buying from abroad? These niche mortgage products can help you",
-        "summary_zh": "从国外买？这些利基抵押贷款产品可以帮助您",
-        "link": "https://finance.yahoo.com/news/expat-mortgage-interest-rates-uk-property-060025519.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1772431225,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures plunge while oil prices surge as Iran conflict jolts markets",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货暴跌，而伊朗冲突震撼市场，油价飙升",
-        "summary": "Wall Street is reacting to joint attacks from the US and Israel on Iran, which has spurred a retreat from risk assets.",
-        "summary_zh": "华尔街正在对美国和以色列对伊朗的联合攻击做出反应，这引发了风险资产的撤退。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-plunge-while-oil-prices-surge-as-iran-conflict-jolts-markets-235000492.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street weighs Iran war impact",
+        "title_zh": "今日股市：华尔街权衡伊朗战争影响，道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌",
+        "summary": "Wall Street is assessing the fallout from an expanding conflict in Iran as the US and Israel commit to protracted military action.",
+        "summary_zh": "随着美国和以色列承诺采取长期军事行动，华尔街正在评估伊朗冲突不断扩大的影响。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-weighs-iran-war-impact-235309265.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1772409000,
+        "publish_time": 1772495589,
         "type": "News"
     },
     {
-        "title": "NFL quarterback Jameis Winston on how he turned from burning through cash to investing strategically",
-        "title_zh": "NFL 四分卫杰梅斯·温斯顿 (Jameis Winston) 讲述他如何从烧钱转向战略投资",
-        "summary": "Winston's costly evolution is a reminder to \"be where your feet are\" and invest in companies you know.",
-        "summary_zh": "温斯顿代价高昂的演变提醒我们“脚踏实地”并投资于您认识的公司。",
-        "link": "https://finance.yahoo.com/news/nfl-quarterback-jameis-winston-on-how-he-turned-from-burning-through-cash-to-investing-strategically-180010780.html",
+        "title": "US stocks end mixed, trading volatile amid Iran conflict",
+        "title_zh": "美股收盘涨跌互现，伊朗冲突导致交易波动",
+        "summary": "STORY: U.S. stocks ended narrowly mixed after a volatile session on Monday, with the Dow ticking down marginally, the S&P 500 ending close to flat and the Nasdaq adding just over a third of a percent.Shares dropped early following weekend U.S.",
+        "summary_zh": "故事：经过周一的波动，美国股市收盘涨跌互现，道琼斯指数小幅下跌，标准普尔 500 指数收盘接近持平，纳斯达克指数上涨略高于 1/3%。周末后美国股市早盘下跌。",
+        "link": "https://finance.yahoo.com/video/us-stocks-end-mixed-trading-233033291.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1772494233,
+        "type": "News"
+    },
+    {
+        "title": "Amazon data center unit acquires George Washington University Virginia campus",
+        "title_zh": "亚马逊数据中心部门收购乔治华盛顿大学弗吉尼亚校区",
+        "summary": "Amazon unit Amazon Data Services is acquiring George Washington University's Virginia Science ‌and Technology campus for $427 million, the university said on ‌Monday, part of a rapid expansion of infrastructure to support artificial intelligence.",
+        "summary_zh": "乔治华盛顿大学周一表示，亚马逊子公司亚马逊数据服务公司将以 4.27 亿美元收购乔治华盛顿大学弗吉尼亚科学与技术校区，这是支持人工智能的基础设施快速扩张的一部分。",
+        "link": "https://finance.yahoo.com/news/amazon-data-center-unit-acquires-225048385.html",
+        "publisher": "Reuters",
+        "publish_time": 1772491848,
+        "type": "News"
+    },
+    {
+        "title": "March seasonality: What to expect from stocks this month",
+        "title_zh": "三月季节性：本月股票的预期",
+        "summary": "Listen and subscribe to Stocks In Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcast. While US stocks (^DJI, ^IXIC, ^GSPC) saw monthly declines in February — the Nasdaq Composite dropped over 3.5% — what is in store for equities in March?",
+        "summary_zh": "在 Apple 播客、Spotify 或任何您能找到您最喜欢的播客的地方收听并订阅《股票翻译》。虽然美国股市（^DJI、^IXIC、^GSPC）在 2 月份出现月度下跌（纳斯达克综合指数下跌超过 3.5%），但 3 月份的股市前景如何？",
+        "link": "https://finance.yahoo.com/video/march-seasonality-expect-stocks-month-214500224.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772487900,
+        "type": "News"
+    },
+    {
+        "title": "Apple unveils low-cost iPhone 17e with a price tag of $599",
+        "title_zh": "苹果推出低价 iPhone 17e，售价 599 美元",
+        "summary": "Apple (AAPL) has announced a lower-cost iPhone 17e model with a price tag of $599 alongside other new products ahead of the tech company's March 4 launch event.",
+        "summary_zh": "苹果 (AAPL) 在 3 月 4 日的发布会之前宣布推出一款价格为 599 美元的低成本 iPhone 17e 机型以及其他新产品。",
+        "link": "https://finance.yahoo.com/video/apple-unveils-low-cost-iphone-213438035.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772487278,
+        "type": "News"
+    },
+    {
+        "title": "Markets react to geopolitical risks, BYD teases 'disruptive tech'",
+        "title_zh": "市场对地缘政治风险做出反应，比亚迪嘲笑“颠覆性技术”",
+        "summary": "Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including how equities (^DJI, ^IXIC, ^GSPC), oil prices (CL=F, BZ=F), and US bond yields (^TYX, ^TNX, ^FVX) are reacting to rising geopolitical risk following US airs...",
+        "summary_zh": "雅虎财经的约翰·海兰 (John Hyland) 在本《市场分钟》中追踪当今走势最强劲的股票和最大的市场故事，包括股票 (^DJI、^IXIC、^GSPC)、油价 (CL=F、BZ=F) 和美国债券收益率 (^TYX、^TNX、^FVX) 如何应对美国航空空袭后不断上升的地...",
+        "link": "https://finance.yahoo.com/video/markets-react-geopolitical-risks-byd-180820728.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772474900,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: Nvidia invests $4B in photonics makers, Apple announces low-cost iPhone, OpenAI strikes deal with Pentagon",
+        "title_zh": "今日科技股：英伟达向光子制造商投资 40 亿美元，苹果推出低成本 iPhone，OpenAI 与五角大楼达成协议",
+        "summary": "All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.",
+        "summary_zh": "由于人工智能担忧继续困扰市场，所有目光都集中在英伟达将于周三收盘后公布的第四季度业绩。",
+        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-invests-4b-in-photonics-makers-apple-announces-low-cost-iphone-openai-strikes-deal-with-pentagon-163709849.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1772388010,
+        "publish_time": 1772469429,
+        "type": "News"
+    },
+    {
+        "title": "BYD stock jumps on 'disruptive tech'  teaser, despite 41% sales tumble",
+        "title_zh": "尽管销量暴跌 41%，比亚迪股价仍因“颠覆性科技”预告而上涨",
+        "summary": "Chinese EV maker BYD stock jumped on Monday after the company said it would reveal \"disruptive technology\" at an event later this week. This comes after BYD said global sales tumbled in February.",
+        "summary_zh": "中国电动汽车制造商比亚迪股价周一上涨，此前该公司表示将在本周晚些时候的一次活动中展示“颠覆性技术”。此前，比亚迪表示二月份全球销量大幅下滑。",
+        "link": "https://finance.yahoo.com/news/byd-stock-jumps-on-disruptive-tech-teaser-despite-41-sales-tumble-160609328.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772467569,
+        "type": "News"
+    },
+    {
+        "title": "The one 'silver lining' of a weakened labor market",
+        "title_zh": "劳动力市场疲软的唯一“一线希望”",
+        "summary": "Piper Sandler chief investment strategist Michael Kantrowitz sits down with Morning Brief Host Julie Hyman to talk about the relationship with equity markets (^DJI, ^IXIC, ^GSPC) and economic indicators such as inflation, interest rates, and US employment.",
+        "summary_zh": "Piper Sandler 首席投资策略师 Michael Kantrowitz 与早间简报主持人 Julie Hyman 坐下来讨论与股票市场（^DJI、^IXIC、^GSPC）以及通胀、利率和美国就业等经济指标的关系。",
+        "link": "https://finance.yahoo.com/video/one-silver-lining-weakened-labor-110047444.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772449247,
         "type": "News"
     }
 ]

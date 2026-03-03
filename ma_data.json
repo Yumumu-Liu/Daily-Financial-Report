@@ -1,32 +1,42 @@
 [
     {
-        "title": "Streaming Is Going to Cost More. That’s the Price of Mergers.",
-        "title_zh": "流媒体的成本将会更高。这就是合并的代价。",
-        "summary": "‘While consolidation has a tendency to increase pricing, it decreases churn,’ said Alex Holtz, research director of IDC.",
-        "summary_zh": "IDC 研究总监 Alex Holtz 表示，虽然整合有提高定价的趋势，但它会减少客户流失。",
-        "link": "https://www.barrons.com/articles/paramount-stock-price-warner-merger-76c6dda7?siteid=yhoof2&yptr=yahoo",
+        "title": "Stock Market Today, March 2: Netflix Advances After Dropping Pursuit of Warner Bros. Deal",
+        "title_zh": "3 月 2 日今日股市：Netflix 在放弃华纳兄弟交易后股价上涨",
+        "summary": "Netflix rose as investors backed management’s decision to forgo a Warner Bros. acquisition, favoring balance-sheet discipline and organic cash flow growth.",
+        "summary_zh": "Netflix 股价上涨，因投资者支持管理层放弃华纳兄弟收购的决定，支持资产负债表纪律和有机现金流增长。",
+        "link": "https://finance.yahoo.com/news/stock-market-today-march-2-231156530.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1772493116,
+        "type": "News"
+    },
+    {
+        "title": "AES to Be Taken Private in $33 Billion Deal. Why It’s the S&P 500’s Worst Stock Today.",
+        "title_zh": "AES 将以 330 亿美元的交易私有化。为什么它是今天标准普尔 500 指数中表现最差的股票。",
+        "summary": "AES  the utilities and clean energy company, is being taken private by an investor consortium that includes an  EQT Group  infrastructure fund and  BlackRock  -owned Global Infrastructure Partners.",
+        "summary_zh": "AES 是一家公用事业和清洁能源公司，正在被一个投资者财团私有化，该财团包括 EQT 集团基础设施基金和贝莱德旗下的全球基础设施合作伙伴。",
+        "link": "https://www.barrons.com/articles/aes-stock-take-private-acquisition-3d7d72be?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "publish_time": 1772431200,
+        "publish_time": 1772487000,
         "type": "News"
     },
     {
-        "title": "TSMC’s US$2t Milestone And Apple Deal Reshape Chip Investment Case",
-        "title_zh": "台积电2吨里程碑与苹果交易重塑芯片投资案例",
-        "summary": "Taiwan Semiconductor Manufacturing (NYSE:TSM) has reached a market capitalization of about US$2t, placing it among the most highly valued companies globally.",
-        "summary_zh": "台积电 (NYSE:TSM) 的市值已达到约 2 吨美元，跻身全球估值最高的公司之列。",
-        "link": "https://finance.yahoo.com/news/tsmc-us-2t-milestone-apple-151051171.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772377851,
+        "title": "Tech stocks today: Nvidia invests $4B in photonics makers, Apple announces low-cost iPhone, OpenAI strikes deal with Pentagon",
+        "title_zh": "今日科技股：英伟达向光子制造商投资 40 亿美元，苹果推出低成本 iPhone，OpenAI 与五角大楼达成协议",
+        "summary": "All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.",
+        "summary_zh": "由于人工智能担忧继续困扰市场，所有目光都集中在英伟达将于周三收盘后公布的第四季度业绩。",
+        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-invests-4b-in-photonics-makers-apple-announces-low-cost-iphone-openai-strikes-deal-with-pentagon-163709849.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772469429,
         "type": "News"
     },
     {
-        "title": "The billion-dollar infrastructure deals powering the AI boom",
-        "title_zh": "数十亿美元的基础设施交易推动人工智能热潮",
-        "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-        "summary_zh": "以下是我们所了解的有关最大的人工智能基础设施项目的所有信息，包括 Meta、Oracle、微软、谷歌和 OpenAI 的主要支出。",
-        "link": "https://finance.yahoo.com/news/billion-dollar-infrastructure-deals-powering-173527896.html",
-        "publisher": "TechCrunch",
-        "publish_time": 1772311315,
+        "title": "This Networking Stock Is Set to Win on an AMD-Meta Deal — and It Pays a Dividend Too",
+        "title_zh": "这支网络股票将在 AMD-Meta 交易中获胜——而且它也会带来股息",
+        "summary": "Cisco offers a straightforward way to play Meta’s $100 billion-plus AMD AI chip deal because every new GPU rack needs a high-performance, power-efficient network.",
+        "summary_zh": "思科提供了一种直接的方式来参与 Meta 价值超过 1000 亿美元的 AMD AI 芯片交易，因为每个新的 GPU 机架都需要高性能、高能效的网络。",
+        "link": "https://finance.yahoo.com/news/networking-stock-set-win-amd-154502557.html",
+        "publisher": "Barchart",
+        "publish_time": 1772466302,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/blackstone-bx-esop-stock-offering-091302829.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1772269982,
-        "type": "News"
-    },
-    {
-        "title": "Paramount Issuing $47 Billion of Equity at Big Premium to Stock Price for Warner Bros. Deal",
-        "title_zh": "派拉蒙以较股价大幅溢价收购华纳兄弟交易发行 470 亿美元股票",
-        "summary": "Paramount Skydance  received a big vote of confidence from its controlling shareholders, including the Ellison family, when they agreed to fully back an equity offering to help fund the company’s deal for  Warner Bros. Discovery  at a big premium above Paramount’s stock price.",
-        "summary_zh": "派拉蒙 Skydance 获得了包括埃里森家族在内的控股股东的大力信任票，他们同意全额支持股票发行，以帮助该公司以高于派拉蒙股价的溢价收购华纳兄弟探索公司的交易提供资金。",
-        "link": "https://www.barrons.com/articles/paramount-equity-offering-warner-bros-discovery-18215416?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1772236860,
         "type": "News"
     }
 ]
