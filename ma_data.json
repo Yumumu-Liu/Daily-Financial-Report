@@ -1,22 +1,32 @@
 [
     {
-        "title": "Stock Market Today, March 2: Netflix Advances After Dropping Pursuit of Warner Bros. Deal",
-        "title_zh": "3 月 2 日今日股市：Netflix 在放弃华纳兄弟交易后股价上涨",
-        "summary": "Netflix rose as investors backed management’s decision to forgo a Warner Bros. acquisition, favoring balance-sheet discipline and organic cash flow growth.",
-        "summary_zh": "Netflix 股价上涨，因投资者支持管理层放弃华纳兄弟收购的决定，支持资产负债表纪律和有机现金流增长。",
-        "link": "https://finance.yahoo.com/news/stock-market-today-march-2-231156530.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1772493116,
+        "title": "Update: Market Chatter: JPMorgan, Wells Fargo to Provide $1 Billion Loan for Select Medical Buyout",
+        "title_zh": "更新：市场热议：摩根大通和富国银行将为部分医疗收购提供 10 亿美元贷款",
+        "summary": "(Updates with statement from Wells Fargo in fourth paragraph.) JPMorgan Chase (JPM) and Wells Far",
+        "summary_zh": "（更新第四段中富国银行的声明。）摩根大通 (JPM) 和富国银行",
+        "link": "https://finance.yahoo.com/news/market-chatter-jpmorgan-wells-fargo-195922845.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1772567962,
         "type": "News"
     },
     {
-        "title": "AES to Be Taken Private in $33 Billion Deal. Why It’s the S&P 500’s Worst Stock Today.",
-        "title_zh": "AES 将以 330 亿美元的交易私有化。为什么它是今天标准普尔 500 指数中表现最差的股票。",
-        "summary": "AES  the utilities and clean energy company, is being taken private by an investor consortium that includes an  EQT Group  infrastructure fund and  BlackRock  -owned Global Infrastructure Partners.",
-        "summary_zh": "AES 是一家公用事业和清洁能源公司，正在被一个投资者财团私有化，该财团包括 EQT 集团基础设施基金和贝莱德旗下的全球基础设施合作伙伴。",
-        "link": "https://www.barrons.com/articles/aes-stock-take-private-acquisition-3d7d72be?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1772487000,
+        "title": "VCTR Proposes the Acquisition of JHG, Sees $500M in Cost Synergies",
+        "title_zh": "VCTR 提议收购 JHG，预计可带来 5 亿美元的成本协同效应",
+        "summary": "Victory Capital proposes a fully financed acquisition of Janus Henderson and expects $500M in cost synergies from the transaction.",
+        "summary_zh": "Victory Capital 提议对 Janus Henderson 进行全额融资收购，预计此次交易将带来 5 亿美元的成本协同效应。",
+        "link": "https://finance.yahoo.com/news/vctr-proposes-acquisition-jhg-sees-154500335.html",
+        "publisher": "Zacks",
+        "publish_time": 1772552700,
+        "type": "News"
+    },
+    {
+        "title": "Apollo Global Management Sued for Denying Business Dealings With Jeffrey Epstein",
+        "title_zh": "阿波罗全球管理层因拒绝与杰弗里·爱泼斯坦进行业务往来而被起诉",
+        "summary": "Apollo Global Management's (APO) shareholders on Monday sued the company in a proposed class action",
+        "summary_zh": "阿波罗全球管理公司 (APO) 的股东周一在拟议的集体诉讼中起诉该公司",
+        "link": "https://finance.yahoo.com/news/apollo-global-management-sued-denying-100715236.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1772532435,
         "type": "News"
     },
     {
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/news/networking-stock-set-win-amd-154502557.html",
         "publisher": "Barchart",
         "publish_time": 1772466302,
-        "type": "News"
-    },
-    {
-        "title": "Is Blackstone’s (BX) ESOP Stock Offering Quietly Reframing Its Private Credit And Power Ambitions?",
-        "title_zh": "Blackstone (BX) 的 ESOP 股票发行是否正在悄然重塑其私人信贷和权力野心？",
-        "summary": "In late February 2026, Blackstone filed a shelf registration for approximately US$1.47 billion of common stock, linked to an ESOP-related offering of 12,765,875 shares.",
-        "summary_zh": "2026 年 2 月下旬，Blackstone 提交了约 14.7 亿美元普通股的搁置登记，与 ESOP 相关的 12,765,875 股发行相关。",
-        "link": "https://finance.yahoo.com/news/blackstone-bx-esop-stock-offering-091302829.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772269982,
         "type": "News"
     },
     {
