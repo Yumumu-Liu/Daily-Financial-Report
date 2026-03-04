@@ -1,5 +1,45 @@
 [
     {
+        "title": "Oil prices jump as Hormuz tensions escalate amid Iran threat",
+        "title_zh": "伊朗威胁导致霍尔木兹紧张局势升级，油价上涨",
+        "summary": "Goldman Sachs ⁠raised its Q2 2026 average price forecast for Brent crude oil by $10 ​to $76 per barrel.",
+        "summary_zh": "高盛将布伦特原油 2026 年第二季度平均价格预测上调 10 美元，至每桶 76 美元。",
+        "link": "https://finance.yahoo.com/news/oil-prices-trump-iran-hormuz-gold-pound-dollar-092120611.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772616080,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: London flat and Asia nosedives as Israel launches fresh strikes on Iran and Lebanon",
+        "title_zh": "富时 100 实时指数：随着以色列对伊朗和黎巴嫩发动新的打击，伦敦股市持平，亚洲股市暴跌",
+        "summary": "The US military said it has hit nearly 2,000 targets since first launching deadly strikes with Israel on Iran on Saturday.",
+        "summary_zh": "美国军方表示，自周六首次与以色列对伊朗发动致命袭击以来，已袭击了近 2000 个目标。",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-london-israel-strikes-iran-lebanon-us-090051719.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772614851,
+        "type": "News"
+    },
+    {
+        "title": "Exclusive-Walmart-backed PhonePe targets up to $10.5 billion valuation in India IPO, sources say",
+        "title_zh": "消息人士称，沃尔玛独家支持的 PhonePe 在印度 IPO 的估值目标高达 105 亿美元",
+        "summary": "Walmart-backed Indian fintech firm PhonePe, the country's most used payments platform, is aiming to list at a valuation of between $9 billion and $10.5 billion, two people with direct knowledge ‌of the matter said.",
+        "summary_zh": "两位直接了解情况的人士表示，沃尔玛支持的印度金融科技公司 PhonePe 是印度最常用的支付平台，其上市目标是估值在 90 亿美元至 105 亿美元之间。",
+        "link": "https://finance.yahoo.com/news/exclusive-walmart-backed-phonepe-targets-064007482.html",
+        "publisher": "Reuters",
+        "publish_time": 1772606407,
+        "type": "News"
+    },
+    {
+        "title": "German union aims for breakthrough at Tesla Berlin plant",
+        "title_zh": "德国工会致力于在特斯拉柏林工厂取得突破",
+        "summary": "BERLIN, March 4 (Reuters) - Germany's top industrial union is fighting for more influence at Tesla's gigafactory outside ‌Berlin, where staff are voting for a new works ‌council after a campaign marked by mud-slinging and legal challenges.",
+        "summary_zh": "路透柏林 3 月 4 日 - 德国最高工业工会正在柏林郊外的特斯拉超级工厂争取更多影响力，在一场以诽谤和法律挑战为标志的运动之后，该工厂的员工正在投票支持新的工会。",
+        "link": "https://finance.yahoo.com/news/german-union-aims-breakthrough-tesla-060852052.html",
+        "publisher": "Reuters",
+        "publish_time": 1772604532,
+        "type": "News"
+    },
+    {
         "title": "Bill Gates, Leon Black Testimony Sought for Epstein Probe",
         "title_zh": "爱泼斯坦调查寻求比尔·盖茨和莱昂·布莱克的证词",
         "summary": "The two billionaires were among seven people House Oversight Committee Chair James Comer sent letters to on Tuesday requesting interviews for the panel’s investigation. Other recipients include Goldman Sachs Group Inc.",
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/news/live/earnings-live-ross-stores-stock-jumps-on-upbeat-results-crowdstrike-posts-slight-top--and-bottom-line-beats-220558338.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772575558,
-        "type": "News"
-    },
-    {
-        "title": "Oil prices still surging as stocks navigate geopolitical pressures",
-        "title_zh": "随着股市应对地缘政治压力，油价仍在飙升",
-        "summary": "US markets (^DJI, ^GSPC, ^IXIC) are still in negative territory but clawing back some ground ahead of Tuesday's market close.",
-        "summary_zh": "美国市场（^DJI、^GSPC、^IXIC）仍处于负值区域，但在周二收盘前收复部分失地。",
-        "link": "https://finance.yahoo.com/video/oil-prices-still-surging-stocks-213206100.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772573526,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq trim losses but end sharply lower as Wall Street assesses Iran war worries",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数收窄跌幅，但因华尔街评估伊朗战争担忧而大幅收低",
-        "summary": "The fresh wave of Israeli-led attacks has jolted markets that on Monday mostly managed to shake off the initial shock of the outbreak.",
-        "summary_zh": "以色列领导的新一波袭击震动了周一的市场，市场基本上摆脱了疫情爆发的最初冲击。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-trim-losses-but-end-sharply-lower-as-wall-street-assesses-iran-war-worries-210028258.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772571750,
-        "type": "News"
-    },
-    {
-        "title": "Virginia appeals injunction against social media time limit for children",
-        "title_zh": "弗吉尼亚州对儿童社交媒体时间限制禁令提出上诉",
-        "summary": "By Jonathan Stempel March 3 (Reuters) - Virginia has appealed a judge's preliminary injunction against a state law limiting children under 16 to one hour of social media use a day.",
-        "summary_zh": "乔纳森·斯坦普尔 (Jonathan Stempel) 3 月 3 日（路透社）——弗吉尼亚州已对法官针对一项限制 16 岁以下儿童每天使用社交媒体一小时的州法律的初步禁令提出上诉。",
-        "link": "https://www.yahoo.com/news/articles/virginia-appeals-injunction-against-social-200529770.html",
-        "publisher": "Reuters",
-        "publish_time": 1772568329,
-        "type": "News"
-    },
-    {
-        "title": "US strikes in Iran 'reinforce' a coming surge in defense spending. 3 key contractors are set to benefit.",
-        "title_zh": "美国对伊朗的打击“强化”了即将到来的国防开支激增。 3 个主要承包商将受益。",
-        "summary": "As geopolitical shocks send indexes into the red, a 20% valuation gap and a surge in Pentagon contracts make the defense sector the ultimate hedge.",
-        "summary_zh": "随着地缘政治冲击导致指数出现亏损，20% 的估值差距和五角大楼合同的激增使国防部门成为最终的对冲工具。",
-        "link": "https://finance.yahoo.com/news/us-strikes-in-iran-reinforce-a-coming-surge-in-defense-spending-3-key-contractors-are-set-to-benefit-190716169.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772564836,
         "type": "News"
     }
 ]
