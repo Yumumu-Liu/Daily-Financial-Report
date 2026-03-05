@@ -1,5 +1,55 @@
 [
     {
+        "title": "Oil price climbs 3% as Iran and Israel escalate attacks",
+        "title_zh": "伊朗和以色列升级袭击，油价上涨3%",
+        "summary": "Deutsche Bank says oil is rising because there are no signs of de-escalation yet in the Middle East conflict",
+        "summary_zh": "德意志银行表示油价上涨是因为中东冲突尚无缓和迹象",
+        "link": "https://finance.yahoo.com/news/oil-prices-trump-iran-israel-gold-pound-bank-of-england-dollar-092508924.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772702708,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks fall and oil rises as Iran and Israel launch fresh wave of attacks",
+        "title_zh": "富时 100 实时指数：伊朗和以色列发动新一波袭击，股市下跌，油价上涨",
+        "summary": "Global markets have been thrown into turmoil this week after the US and Israel began strikes against Iran over the weekend.",
+        "summary_zh": "在美国和以色列周末开始对伊朗发动袭击后，全球市场本周陷入混乱。",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-oil-iran-israel-us-090520112.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772701520,
+        "type": "News"
+    },
+    {
+        "title": "Iran War Punctures Favored Strategy of ‘Sell America, Buy Asia’",
+        "title_zh": "伊朗战争刺破了“卖美国、买亚洲”的战略",
+        "summary": "Despite a rebound Thursday, the MSCI Asia Pacific Index has tumbled about 6% this week, compared with a 0.1% slide in the S&P 500.",
+        "summary_zh": "尽管周四反弹，但 MSCI 亚太指数本周仍下跌约 6%，而标准普尔 500 指数则下跌 0.1%。",
+        "link": "https://finance.yahoo.com/news/iran-war-punctures-favored-strategy-083508690.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1772699708,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI tops $25 billion in annualized revenue, The Information reports",
+        "title_zh": "据 The Information 报道，OpenAI 年收入突破 250 亿美元",
+        "summary": "Artificial intelligence startup OpenAI topped $25 billion in annualized revenue as of the ‌end of last month, The Information reported ‌on Wednesday, citing a person familiar with the figure.",
+        "summary_zh": "据 The Information 周三援引一位知情人士的话报道，截至上月底，人工智能初创公司 OpenAI 的年化收入突破了 250 亿美元。",
+        "link": "https://finance.yahoo.com/news/openai-tops-25-billion-annualized-033836274.html",
+        "publisher": "Reuters",
+        "publish_time": 1772681916,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall after Wall Street's bounce back",
+        "title_zh": "今日股市：华尔街反弹后道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌",
+        "summary": "Wall Street is in a downward pattern after days of volatility. Markets have been buffeted by developments in the conflict in Iran, now entering it's sixth day.",
+        "summary_zh": "经过几天的波动后，华尔街正处于下行模式。市场受到伊朗冲突事态发展的打击，目前已进入第六天。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-after-wall-streets-bounce-back-235517929.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772668517,
+        "type": "News"
+    },
+    {
         "title": "US stocks close up on Iran diplomacy hopes; tech leads rebound",
         "title_zh": "伊朗外交希望推动美股收盘；科技股引领反弹",
         "summary": "STORY: U.S.",
@@ -30,36 +80,6 @@
         "type": "News"
     },
     {
-        "title": "Amazon cuts more jobs; this time in robotics unit",
-        "title_zh": "亚马逊裁员更多；这次在机器人单元",
-        "summary": "SAN FRANCISCO, March 4 (Reuters) - Amazon on Tuesday confirmed it laid off staff across its robotics unit, ‌with at least 100 white-collar jobs affected, two people ‌familiar with the matter told Reuters.",
-        "summary_zh": "路透旧金山 3 月 4 日 - 两位知情人士告诉路透，亚马逊周二证实，其机器人部门裁员，至少 100 名白领工作受到影响。",
-        "link": "https://finance.yahoo.com/news/amazon-cuts-more-jobs-time-212928090.html",
-        "publisher": "Reuters",
-        "publish_time": 1772659963,
-        "type": "News"
-    },
-    {
-        "title": "Broadcom sees over $100 billion in AI chip sales by 2027 on robust custom chip demand",
-        "title_zh": "由于定制芯片需求强劲，博通预计到 2027 年 AI 芯片销售额将超过 1000 亿美元",
-        "summary": "Chip designer Broadcom on Wednesday projected its artificial intelligence chip revenue would exceed $100 billion next year, signaling surging demand for custom chips in a market dominated by Nvidia.",
-        "summary_zh": "芯片设计商博通周三预计，明年其人工智能芯片收入将超过 1000 亿美元，这表明由 Nvidia 主导的市场对定制芯片的需求激增。",
-        "link": "https://finance.yahoo.com/news/broadcom-forecasts-second-quarter-revenue-211818853.html",
-        "publisher": "Reuters",
-        "publish_time": 1772659098,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq rebound on hopes of Iran deescalation as bitcoin surges",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数因比特币飙升而伊朗局势缓和的希望而反弹",
-        "summary": "Investors are weighing a NYT report that Iran has indirectly approached the US to discuss terms for ending the conflict.",
-        "summary_zh": "投资者正在权衡《纽约时报》的一篇报道，该报道称伊朗已间接与美国接触，讨论结束冲突的条款。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rebound-on-hopes-of-iran-deescalation-as-bitcoin-surges-210937794.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772658577,
-        "type": "News"
-    },
-    {
         "title": "Tech stocks today: Nvidia CEO Jensen Huang suggests end of OpenAI investments, Apple unveils MacBook Neo",
         "title_zh": "今日科技股：英伟达首席执行官黄仁勋建议结束 OpenAI 投资，苹果推出 MacBook Neo",
         "summary": "All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.",
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-ceo-jensen-huang-suggests-end-of-openai-investments-apple-unveils-macbook-neo-201826536.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772655506,
-        "type": "News"
-    },
-    {
-        "title": "Moderna reaches vaccine settlement, GitLab's guidance disappoints",
-        "title_zh": "Moderna 达成疫苗和解协议，GitLab 的指导令人失望",
-        "summary": "Yahoo Finance anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute. US stock exchanges, in particular the NASDAQ (^IXIC, ^GSPC, ^DJI), climb following jobs data and news of potential Iran-US negotiations.",
-        "summary_zh": "雅虎财经主播乔什·利普顿 (Josh Lipton) 在本《市场分钟》中追踪当今走势最强劲的股票和最大的市场故事。美国股市，尤其是纳斯达克（^IXIC、^GSPC、^DJI），在就业数据和伊朗与美国潜在谈判的消息传出后上涨。",
-        "link": "https://finance.yahoo.com/video/moderna-reaches-vaccine-settlement-gitlabs-192753846.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772652473,
-        "type": "News"
-    },
-    {
-        "title": "CPUs are back en vogue in the data center",
-        "title_zh": "CPU 在数据中心重新流行",
-        "summary": "CPUs are back in style thanks to AI.",
-        "summary_zh": "得益于人工智能，CPU 又重新流行起来。",
-        "link": "https://finance.yahoo.com/news/cpus-are-back-en-vogue-in-the-data-center-184504720.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772649904,
         "type": "News"
     }
 ]
