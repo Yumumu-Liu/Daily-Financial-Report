@@ -1,12 +1,32 @@
 [
     {
-        "title": "Update: Market Chatter: JPMorgan, Wells Fargo to Provide $1 Billion Loan for Select Medical Buyout",
-        "title_zh": "更新：市场热议：摩根大通和富国银行将为部分医疗收购提供 10 亿美元贷款",
-        "summary": "(Updates with statement from Wells Fargo in fourth paragraph.) JPMorgan Chase (JPM) and Wells Far",
-        "summary_zh": "（更新第四段中富国银行的声明。）摩根大通 (JPM) 和富国银行",
-        "link": "https://finance.yahoo.com/news/market-chatter-jpmorgan-wells-fargo-195922845.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1772567962,
+        "title": "Gemini Lawsuit And Apple Deal Reframe Alphabet’s AI Risk And Reward",
+        "title_zh": "Gemini 诉讼和苹果交易重新定义了 Alphabet 的人工智能风险和回报",
+        "summary": "Alphabet (NasdaqGS:GOOGL) is facing a landmark wrongful death lawsuit alleging its Gemini chatbot contributed to an individual's suicide.",
+        "summary_zh": "Alphabet（NasdaqGS：GOOGL）正面临一场具有里程碑意义的非正常死亡诉讼，指控其 Gemini 聊天机器人导致了个人自杀。",
+        "link": "https://finance.yahoo.com/news/gemini-lawsuit-apple-deal-reframe-021911317.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772677151,
+        "type": "News"
+    },
+    {
+        "title": "A Look At Applied Digital (APLD) Valuation After Its $2.15b AI Data Center Financing Deal",
+        "title_zh": "Applied Digital (APLD) 2.15b 美元人工智能数据中心融资交易后的估值",
+        "summary": "Applied Digital (APLD) has just priced a US$2.15 billion private offering of senior secured notes to help fund its Polaris Forge 2 AI data center in North Dakota, backed by Oracle leases and new 1.2-gigawatt power arrangements. See our latest analysis for Applied Digital.",
+        "summary_zh": "Applied Digital (APLD) 刚刚定价了 21.5 亿美元的高级担保票据私募发行，以为其位于北达科他州的 Polaris Forge 2 人工智能数据中心提供资金，该数据中心得到了 Oracle 租赁和新的 1.2 吉瓦电力安排的支持。请参阅我们对 Appl...",
+        "link": "https://finance.yahoo.com/news/look-applied-digital-apld-valuation-021830714.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772677110,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce Uses Formula 1 Deal To Showcase Agentforce AI Growth Potential",
+        "title_zh": "Salesforce 使用 Formula 1 交易展示 Agentforce AI 增长潜力",
+        "summary": "Salesforce (NYSE:CRM) and Formula 1 are expanding their partnership to launch an AI-powered fan companion agent using Salesforce's Agentforce platform. The new agent is designed to scale and personalize engagement for F1’s global fanbase across digital channels.",
+        "summary_zh": "Salesforce (NYSE:CRM) 和 Formula 1 正在扩大合作伙伴关系，利用 Salesforce 的 Agentforce 平台推出一款由人工智能驱动的粉丝伴侣代理。新代理旨在通过数字渠道扩大 F1 全球粉丝群的参与度并实现个性化。",
+        "link": "https://finance.yahoo.com/news/salesforce-uses-formula-1-deal-201202682.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772655122,
         "type": "News"
     },
     {
@@ -17,26 +37,6 @@
         "link": "https://finance.yahoo.com/news/vctr-proposes-acquisition-jhg-sees-154500335.html",
         "publisher": "Zacks",
         "publish_time": 1772552700,
-        "type": "News"
-    },
-    {
-        "title": "Apollo Global Management Sued for Denying Business Dealings With Jeffrey Epstein",
-        "title_zh": "阿波罗全球管理层因拒绝与杰弗里·爱泼斯坦进行业务往来而被起诉",
-        "summary": "Apollo Global Management's (APO) shareholders on Monday sued the company in a proposed class action",
-        "summary_zh": "阿波罗全球管理公司 (APO) 的股东周一在拟议的集体诉讼中起诉该公司",
-        "link": "https://finance.yahoo.com/news/apollo-global-management-sued-denying-100715236.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1772532435,
-        "type": "News"
-    },
-    {
-        "title": "This Networking Stock Is Set to Win on an AMD-Meta Deal — and It Pays a Dividend Too",
-        "title_zh": "这支网络股票将在 AMD-Meta 交易中获胜——而且它也会带来股息",
-        "summary": "Cisco offers a straightforward way to play Meta’s $100 billion-plus AMD AI chip deal because every new GPU rack needs a high-performance, power-efficient network.",
-        "summary_zh": "思科提供了一种直接的方式来参与 Meta 价值超过 1000 亿美元的 AMD AI 芯片交易，因为每个新的 GPU 机架都需要高性能、高能效的网络。",
-        "link": "https://finance.yahoo.com/news/networking-stock-set-win-amd-154502557.html",
-        "publisher": "Barchart",
-        "publish_time": 1772466302,
         "type": "News"
     },
     {
