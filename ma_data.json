@@ -1,52 +1,52 @@
 [
     {
-        "title": "Gemini Lawsuit And Apple Deal Reframe Alphabet’s AI Risk And Reward",
-        "title_zh": "Gemini 诉讼和苹果交易重新定义了 Alphabet 的人工智能风险和回报",
-        "summary": "Alphabet (NasdaqGS:GOOGL) is facing a landmark wrongful death lawsuit alleging its Gemini chatbot contributed to an individual's suicide.",
-        "summary_zh": "Alphabet（NasdaqGS：GOOGL）正面临一场具有里程碑意义的非正常死亡诉讼，指控其 Gemini 聊天机器人导致了个人自杀。",
-        "link": "https://finance.yahoo.com/news/gemini-lawsuit-apple-deal-reframe-021911317.html",
+        "title": "Microsoft Faces Japan Antitrust Probe As Gaming Shifts And AI Deals Grow",
+        "title_zh": "随着游戏业的转变和人工智能交易的增长，微软面临日本反垄断调查",
+        "summary": "Japan's Fair Trade Commission raided Microsoft (NasdaqGS:MSFT) offices in Tokyo over suspected monopoly abuse related to its software and cloud practices.",
+        "summary_zh": "日本公平贸易委员会突击搜查了微软（NasdaqGS：MSFT）位于东京的办事处，原因是其软件和云业务涉嫌滥用垄断。",
+        "link": "https://finance.yahoo.com/news/microsoft-faces-japan-antitrust-probe-011043353.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1772677151,
+        "publish_time": 1772759443,
         "type": "News"
     },
     {
-        "title": "A Look At Applied Digital (APLD) Valuation After Its $2.15b AI Data Center Financing Deal",
-        "title_zh": "Applied Digital (APLD) 2.15b 美元人工智能数据中心融资交易后的估值",
-        "summary": "Applied Digital (APLD) has just priced a US$2.15 billion private offering of senior secured notes to help fund its Polaris Forge 2 AI data center in North Dakota, backed by Oracle leases and new 1.2-gigawatt power arrangements. See our latest analysis for Applied Digital.",
-        "summary_zh": "Applied Digital (APLD) 刚刚定价了 21.5 亿美元的高级担保票据私募发行，以为其位于北达科他州的 Polaris Forge 2 人工智能数据中心提供资金，该数据中心得到了 Oracle 租赁和新的 1.2 吉瓦电力安排的支持。请参阅我们对 Appl...",
-        "link": "https://finance.yahoo.com/news/look-applied-digital-apld-valuation-021830714.html",
+        "title": "JPMorgan’s EA Buyout Role Tests Growth Plans In Branches And AI",
+        "title_zh": "摩根大通的 EA 收购角色测试分支机构和人工智能的增长计划",
+        "summary": "JPMorgan Chase is leading the debt financing for a record-setting $55b leveraged buyout of Electronic Arts. The bank is ramping up a new U.S. branch expansion focused on underserved areas.",
+        "summary_zh": "摩根大通 (JPMorgan Chase) 正在牵头为艺电 (Electronic Arts) 创纪录的 550 亿美元杠杆收购债务融资。该银行正在加大美国新分行的扩张力度，重点关注服务欠缺的地区。",
+        "link": "https://finance.yahoo.com/news/jpmorgan-ea-buyout-role-tests-231939739.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1772677110,
+        "publish_time": 1772752779,
         "type": "News"
     },
     {
-        "title": "Salesforce Uses Formula 1 Deal To Showcase Agentforce AI Growth Potential",
-        "title_zh": "Salesforce 使用 Formula 1 交易展示 Agentforce AI 增长潜力",
-        "summary": "Salesforce (NYSE:CRM) and Formula 1 are expanding their partnership to launch an AI-powered fan companion agent using Salesforce's Agentforce platform. The new agent is designed to scale and personalize engagement for F1’s global fanbase across digital channels.",
-        "summary_zh": "Salesforce (NYSE:CRM) 和 Formula 1 正在扩大合作伙伴关系，利用 Salesforce 的 Agentforce 平台推出一款由人工智能驱动的粉丝伴侣代理。新代理旨在通过数字渠道扩大 F1 全球粉丝群的参与度并实现个性化。",
-        "link": "https://finance.yahoo.com/news/salesforce-uses-formula-1-deal-201202682.html",
+        "title": "F1 season kicks into high gear with new Apple TV streaming deal",
+        "title_zh": "F1 赛季通过新的 Apple TV 流媒体协议进入高潮",
+        "summary": "The Formula One is changing lanes in March with Apple TV (AAPL) becoming the exclusive streamer for the international racing league.",
+        "summary_zh": "随着 Apple TV (AAPL) 成为国际赛车联盟的独家流媒体，一级方程式赛车将于 3 月改变车道。",
+        "link": "https://finance.yahoo.com/video/f1-season-kicks-high-gear-230000742.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772751600,
+        "type": "News"
+    },
+    {
+        "title": "JPMorgan Prepares $14.5 Billion Debt Sale for $55 Billion EA Buyout",
+        "title_zh": "摩根大通准备出售 145 亿美元债务以收购 EA 550 亿美元",
+        "summary": "Wall Street banks plan US and European offerings as investors show early interest in financing tied to Electronic Arts acquisition.",
+        "summary_zh": "由于投资者对与艺电收购相关的融资表现出早期兴趣，华尔街银行计划在美国和欧洲发行股票。",
+        "link": "https://finance.yahoo.com/news/jpmorgan-prepares-14-5-billion-204242389.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1772743362,
+        "type": "News"
+    },
+    {
+        "title": "Apple’s New Budget Devices And F1 Deal Test Ecosystem Stickiness",
+        "title_zh": "苹果的新预算设备和 F1 交易测试生态系统粘性",
+        "summary": "Apple launched the budget-focused MacBook Neo and entry-level iPhone 17e, both powered by the latest Apple silicon and targeted at price-sensitive buyers.",
+        "summary_zh": "苹果推出了注重预算的 MacBook Neo 和入门级 iPhone 17e，两款产品均采用最新的苹果芯片，面向对价格敏感的买家。",
+        "link": "https://finance.yahoo.com/news/apple-budget-devices-f1-deal-180904981.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1772655122,
-        "type": "News"
-    },
-    {
-        "title": "VCTR Proposes the Acquisition of JHG, Sees $500M in Cost Synergies",
-        "title_zh": "VCTR 提议收购 JHG，预计可带来 5 亿美元的成本协同效应",
-        "summary": "Victory Capital proposes a fully financed acquisition of Janus Henderson and expects $500M in cost synergies from the transaction.",
-        "summary_zh": "Victory Capital 提议对 Janus Henderson 进行全额融资收购，预计此次交易将带来 5 亿美元的成本协同效应。",
-        "link": "https://finance.yahoo.com/news/vctr-proposes-acquisition-jhg-sees-154500335.html",
-        "publisher": "Zacks",
-        "publish_time": 1772552700,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
+        "publish_time": 1772734144,
         "type": "News"
     }
 ]
