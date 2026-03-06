@@ -1,22 +1,22 @@
 [
     {
-        "title": "Foxconn says Iran conflict having limited impact so far",
-        "title_zh": "富士康表示伊朗冲突迄今为止影响有限",
-        "summary": "The ‌U.S. and Israeli ‌conflict with Iran is ​having limited impact on Foxconn, the chairman of the ‌world's largest ⁠electronics maker and Nvidia's key ⁠AI server maker said on Friday.",
-        "summary_zh": "美国全球最大电子制造商、英伟达主要人工智能服务器制造商的董事长周五表示，以色列与伊朗的冲突对富士康的影响有限。",
-        "link": "https://finance.yahoo.com/news/foxconn-says-iran-conflict-having-030345801.html",
-        "publisher": "Reuters",
-        "publish_time": 1772766225,
-        "type": "News"
-    },
-    {
         "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales",
         "title_zh": "美国考虑向 Nvidia 和 AMD 全球 AI 芯片销售申请许可证",
         "summary": "Now, the Trump administration is considering taking a formal role in the industry that would include similarly sweeping powers.",
         "summary_zh": "现在，特朗普政府正在考虑在该行业发挥正式作用，其中包括类似的广泛权力。",
         "link": "https://finance.yahoo.com/news/us-mulls-requiring-permits-global-174126617.html",
         "publisher": "Bloomberg",
-        "publish_time": 1772764234,
+        "publish_time": 1772769037,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic Vows Legal Fight Against Pentagon Sanction in AI Feud",
+        "title_zh": "Anthropic 誓言对五角大楼在人工智能争端中的制裁进行法律斗争",
+        "summary": "“We do not believe this action is legally sound, and we see no choice but to challenge it in court,” Chief Executive Officer Dario Amodei said in a blog post Thursday, hours after Bloomberg News reported on the Pentagon finding.",
+        "summary_zh": "“我们认为这一行动在法律上不合理，我们别无选择，只能在法庭上提出质疑，”首席执行官达里奥·阿莫迪周四在博客文章中表示，就在彭博新闻报道五角大楼的调查结果几个小时后。",
+        "link": "https://finance.yahoo.com/news/anthropic-says-no-choice-fight-005607253.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1772768995,
         "type": "News"
     },
     {
@@ -30,21 +30,11 @@
         "type": "News"
     },
     {
-        "title": "Broadcom well placed for 'generational' AI investment, CIO says",
-        "title_zh": "首席信息官表示，博通在“一代”人工智能投资方面处于有利地位",
-        "summary": "STORY: Broadcom shares jumped on Thursday after the company predicted over $100 billion in AI chip sales next year, signaling rapid share gains in the market dominated by Nvidia.As demand for AI training, inference and automated “agent” systems grows, Ahlsten says companies ar...",
-        "summary_zh": "故事：博通公司预计明年 AI 芯片销售额将超过 1000 亿美元，这表明 Nvidia 主导的市场份额将迅速增长，周四该公司股价上涨。随着对 AI 训练、推理和自动化“代理”系统的需求增长，Ahlsten 表示，公司正在...",
-        "link": "https://finance.yahoo.com/video/broadcom-well-placed-generational-ai-021549075.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1772763349,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb with key jobs report set to cap volatile week",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨，关键就业报告将结束本周的波动",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures inch up with key jobs report set to cap volatile week",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨，关键就业报告将结束本周的波动",
         "summary": "Stock markets continue to be dominated by developments in the Middle East as the major gauges are on track for a week of losses.",
         "summary_zh": "股市继续受到中东事态发展的主导，主要股指有望连续一周下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-key-jobs-report-set-to-cap-volatile-week-235247764.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-up-with-key-jobs-report-set-to-cap-volatile-week-235247731.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772754767,
         "type": "News"
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/news/marvell-forecasts-first-quarter-revenue-210820027.html",
         "publisher": "Reuters",
         "publish_time": 1772744900,
+        "type": "News"
+    },
+    {
+        "title": "Investors are 'staying in US market' despite oil surge above $80",
+        "title_zh": "尽管油价飙升至 80 美元以上，投资者仍“留在美国市场”",
+        "summary": "Stocks (^DJI, ^GSPC, ^IXIC) are under pressure as oil prices (BZ=F, CL=F) climb above $80 per barrel amid rising tensions in the Middle East.",
+        "summary_zh": "由于中东紧张局势加剧，油价 (BZ=F, CL=F) 攀升至每桶 80 美元以上，股市 (^DJI、^GSPC、^IXIC) 面临压力。",
+        "link": "https://finance.yahoo.com/video/investors-staying-us-market-despite-205755644.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772744275,
         "type": "News"
     }
 ]

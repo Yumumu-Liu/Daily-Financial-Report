@@ -30,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "JPMorgan Prepares $14.5 Billion Debt Sale for $55 Billion EA Buyout",
-        "title_zh": "摩根大通准备出售 145 亿美元债务以收购 EA 550 亿美元",
-        "summary": "Wall Street banks plan US and European offerings as investors show early interest in financing tied to Electronic Arts acquisition.",
-        "summary_zh": "由于投资者对与艺电收购相关的融资表现出早期兴趣，华尔街银行计划在美国和欧洲发行股票。",
-        "link": "https://finance.yahoo.com/news/jpmorgan-prepares-14-5-billion-204242389.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1772743362,
-        "type": "News"
-    },
-    {
         "title": "Apple’s New Budget Devices And F1 Deal Test Ecosystem Stickiness",
         "title_zh": "苹果的新预算设备和 F1 交易测试生态系统粘性",
         "summary": "Apple launched the budget-focused MacBook Neo and entry-level iPhone 17e, both powered by the latest Apple silicon and targeted at price-sensitive buyers.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/apple-budget-devices-f1-deal-180904981.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1772734144,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce Uses Formula 1 Deal To Showcase Agentforce AI Growth Potential",
+        "title_zh": "Salesforce 使用 Formula 1 交易展示 Agentforce AI 增长潜力",
+        "summary": "Salesforce (NYSE:CRM) and Formula 1 are expanding their partnership to launch an AI-powered fan companion agent using Salesforce's Agentforce platform. The new agent is designed to scale and personalize engagement for F1’s global fanbase across digital channels.",
+        "summary_zh": "Salesforce (NYSE:CRM) 和 Formula 1 正在扩大合作伙伴关系，利用 Salesforce 的 Agentforce 平台推出一款由人工智能驱动的粉丝伴侣代理。新代理旨在通过数字渠道扩大 F1 全球粉丝群的参与度并实现个性化。",
+        "link": "https://finance.yahoo.com/news/salesforce-uses-formula-1-deal-201202682.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772655122,
         "type": "News"
     }
 ]
