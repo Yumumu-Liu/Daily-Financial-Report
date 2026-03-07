@@ -1,7 +1,17 @@
 [
     {
+        "title": "The Weekend: Iran war shakes markets and rattles energy sector",
+        "title_zh": "周末：伊朗战争震动市场并扰乱能源行业",
+        "summary": "Iran conflict overshadowed UK spring statement as fears over energy supplies and inflation persisted",
+        "summary_zh": "由于对能源供应和通胀的担忧持续存在，伊朗冲突给英国春季声明蒙上阴影",
+        "link": "https://finance.yahoo.com/news/iran-war-energy-inflation-markets-060053457.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1772863253,
+        "type": "News"
+    },
+    {
         "title": "US stocks close down as oil spikes 12%, job market weakens",
-        "title_zh": "油价飙升 12% 美股收跌，就业市场疲软",
+        "title_zh": "美股收跌，油价飙升12%，就业市场疲软",
         "summary": "STORY: Wall Street's main indexes tumbled on Friday, with the Dow dropping almost one percent, the S&P 500 shedding one-and-a-third percent for its biggest weekly percentage drop since October, and the Nasdaq losing about 1.6%.A disappointing payrolls report from the Labor Dep...",
         "summary_zh": "故事：华尔街主要股指周五暴跌，道琼斯指数下跌近百分之一，标准普尔 500 指数下跌三分之一，创 10 月份以来最大单周百分比跌幅，纳斯达克指数下跌约 1.6%。劳工部令人失望的非农就业报告...",
         "link": "https://finance.yahoo.com/video/us-stocks-close-down-oil-015539043.html",
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-says-it-will-fight-pentagons-supply-chain-risk-label-nvidia-stops-h200-chip-production-142534547.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772807134,
-        "type": "News"
-    },
-    {
-        "title": "Are investors rotating out of market leaders for the long-term?",
-        "title_zh": "长期来看，投资者是否会退出市场领导者？",
-        "summary": "Northwestern Mutual Wealth Management chief portfolio manager Matt Stucky sits down with Josh Lipton to address recent notes out from Goldman Sachs on the global market outlook and the new market leadership that investors are rotating into.",
-        "summary_zh": "西北共同财富管理公司首席投资组合经理马特·斯塔基 (Matt Stucky) 与乔什·利普顿 (Josh Lipton) 坐下来讨论高盛最近发布的有关全球市场前景和投资者正在转向的新市场领导地位的报告。",
-        "link": "https://finance.yahoo.com/video/investors-rotating-market-leaders-long-123021530.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772800221,
         "type": "News"
     }
 ]

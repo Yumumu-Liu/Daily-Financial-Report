@@ -1,5 +1,25 @@
 [
     {
+        "title": "Google gives CEO new pay deal worth up to $692 million",
+        "title_zh": "谷歌为首席执行官提供价值高达 6.92 亿美元的新薪酬协议",
+        "summary": "The CEO of Google and its parent company Alphabet could earn up to $692 million over the next three years under a new compensation plan published Friday by the US Securities and Exchange Commission.Under the plan, Pichai's three-year salary of $6 million, or $2 million per yea...",
+        "summary_zh": "根据美国证券交易委员会周五公布的一项新薪酬计划，谷歌及其母公司 Alphabet 的首席执行官未来三年的收入最高可达 6.92 亿美元。根据该计划，皮查伊的三年薪水为 600 万美元，即每年 200 万美元。",
+        "link": "https://finance.yahoo.com/news/google-gives-ceo-pay-deal-074821498.html",
+        "publisher": "AFP",
+        "publish_time": 1772869701,
+        "type": "News"
+    },
+    {
+        "title": "Applied Digital Ties AI Growth To Oracle Lease And Power Deal",
+        "title_zh": "Applied Digital 将人工智能增长与 Oracle 租赁和电力交易联系起来",
+        "summary": "Applied Digital (NasdaqGS:APLD) completed a secured note offering of about US$2.15b to fund its Polaris Forge 2 AI data center campus in North Dakota. The Polaris Forge 2 facility is planned as a 200MW AI data center, pre-leased to Oracle under a long-term agreement.",
+        "summary_zh": "Applied Digital（纳斯达克股票代码：APLD）完成了约 2.15 亿美元的担保票据发行，为其位于北达科他州的 Polaris Forge 2 人工智能数据中心园区提供资金。 Polaris Forge 2 设施规划为 200MW 人工智能数据中心，根据长期协议...",
+        "link": "https://finance.yahoo.com/news/applied-digital-ties-ai-growth-070804582.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772867284,
+        "type": "News"
+    },
+    {
         "title": "The Dealmaking 3: Wicket Makes Canadian Deal, F1’s Latest Deal with Apple, F1 Q4 Earnings",
         "title_zh": "交易 3：Wicket 达成加拿大交易、F1 与苹果的最新交易、F1 第四季度收益",
         "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features the Calgary Flames becoming Wicket’s first Canadian customer with VIP facial recognition for ticketing deployment, Apple Inc.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/mountain-ends-talks-former-executives-190318276.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1772823798,
-        "type": "News"
-    },
-    {
-        "title": "VCTR Proposes the Acquisition of JHG, Sees $500M in Cost Synergies",
-        "title_zh": "VCTR 提议收购 JHG，预计可带来 5 亿美元的成本协同效应",
-        "summary": "Victory Capital proposes a fully financed acquisition of Janus Henderson and expects $500M in cost synergies from the transaction.",
-        "summary_zh": "Victory Capital 提议对 Janus Henderson 进行全额融资收购，预计此次交易将带来 5 亿美元的成本协同效应。",
-        "link": "https://finance.yahoo.com/news/vctr-proposes-acquisition-jhg-sees-154500335.html",
-        "publisher": "Zacks",
-        "publish_time": 1772552700,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]
