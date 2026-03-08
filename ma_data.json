@@ -1,5 +1,25 @@
 [
     {
+        "title": "Lumentum’s S&P 500 Debut And NVIDIA Deal Reshape AI Optics Outlook",
+        "title_zh": "Lumentum 首次登陆 S&P 500 以及 NVIDIA 交易重塑 AI 光学前景",
+        "summary": "Lumentum Holdings (NasdaqGS:LITE) has been added to the S&P 500 Index. The company announced a multiyear partnership with NVIDIA that includes a US$2b investment. The NVIDIA arrangement involves a significant private placement in Lumentum shares.",
+        "summary_zh": "Lumentum Holdings (NasdaqGS:LITE) 已被纳入标准普尔 500 指数。该公司宣布与 NVIDIA 建立多年合作伙伴关系，其中包括 20 亿美元的投资。 NVIDIA 的安排涉及 Lumentum 股票的大规模私募。",
+        "link": "https://finance.yahoo.com/news/lumentum-p-500-debut-nvidia-041952784.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772943592,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Faces Data Center Strikes As OpenAI AI Deal Reshapes Growth Narrative",
+        "title_zh": "OpenAI 人工智能交易重塑增长叙事，亚马逊数据中心面临攻击",
+        "summary": "AWS data centers in the UAE and Bahrain were hit by drone strikes, causing structural damage and service disruption to Amazon's cloud infrastructure.",
+        "summary_zh": "位于阿联酋和巴林的AWS数据中心遭到无人机袭击，对亚马逊云基础设施造成结构性损坏和服务中断。",
+        "link": "https://finance.yahoo.com/news/amazon-faces-data-center-strikes-031123562.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772939483,
+        "type": "News"
+    },
+    {
         "title": "Amazon Expands AI Footprint With $427 Million George Washington University Campus Acquisition As Data Center Arms Race Intensifies",
         "title_zh": "随着数据中心军备竞赛加剧，亚马逊斥资 4.27 亿美元收购乔治华盛顿大学校园，扩大人工智能足迹",
         "summary": "Amazon.com, Inc. is reportedly acquiring George Washington University's Virginia Science and Technology campus in a $427 million dea. Amazon Deepens Virginia Data Center Bet Amazon, through its Amazon Data Services unit, is purchasing the campus in Ashburn, a key hub for U.S.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/kkr-leans-sports-arctos-deal-001825007.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1772929105,
-        "type": "News"
-    },
-    {
-        "title": "Apple’s Cheaper Devices And F1 Deal Test Growth And Valuation",
-        "title_zh": "苹果更便宜的设备和 F1 交易考验增长和估值",
-        "summary": "Apple (NasdaqGS:AAPL) has introduced the MacBook Neo and iPhone 17e, targeting the budget-conscious segment of the device market. The company is also set to become the exclusive streaming partner for Formula 1, expanding its media and content footprint.",
-        "summary_zh": "苹果（NasdaqGS：AAPL）推出了 MacBook Neo 和 iPhone 17e，瞄准了设备市场中注重预算的部分。该公司还将成为一级方程式赛车的独家流媒体合作伙伴，扩大其媒体和内容足迹。",
-        "link": "https://finance.yahoo.com/news/apple-cheaper-devices-f1-deal-200811946.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772914091,
-        "type": "News"
-    },
-    {
-        "title": "How The GeoPark (NYSE:GPRK) Investment Story Is Shifting With New Targets And Takeover Tensions",
-        "title_zh": "地质公园（纽约证券交易所股票代码：GPRK）的投资故事如何随着新目标和收购紧张局势而变化",
-        "summary": "GeoPark’s updated fair value estimate has moved slightly, with the price target adjusted from US$11.32 per share to US$11.40 per share.",
-        "summary_zh": "GeoPark更新后的公允价值预估略有变动，目标价格从每股11.32美元调整至每股11.40美元。",
-        "link": "https://finance.yahoo.com/news/geopark-nyse-gprk-investment-story-200738988.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772914058,
         "type": "News"
     }
 ]
