@@ -1,5 +1,25 @@
 [
     {
+        "title": "OpenAI head of robotics resigns after deal with Pentagon",
+        "title_zh": "OpenAI 机器人技术负责人在与五角大楼达成协议后辞职",
+        "summary": "Caitlin Kalinowski, head of robotics and consumer hardware at OpenAI, announced her resignation ‌on Saturday, citing concerns about the company's agreement with ‌the Department of Defense.",
+        "summary_zh": "OpenAI 机器人和消费硬件主管凯特琳·卡利诺夫斯基 (Caitlin Kalinowski) 于周六宣布辞职，理由是对该公司与国防部达成协议的担忧。",
+        "link": "https://finance.yahoo.com/news/openai-robotics-head-resigns-deal-203714099.html",
+        "publisher": "Reuters",
+        "publish_time": 1772915834,
+        "type": "News"
+    },
+    {
+        "title": "Qualcomm has 'significant advantage' over Nvidia in edge AI: CFO",
+        "title_zh": "高通首席财务官：在边缘人工智能领域比英伟达拥有“显着优势”",
+        "summary": "Mobile tech conference Mobile World Congress took place in Barcelona last week, where Qualcomm (QCOM) outlined its artificial intelligence (AI) strategy and upcoming innovations.",
+        "summary_zh": "移动技术会议世界移动大会上周在巴塞罗那举行，高通 (QCOM) 概述了其人工智能 (AI) 战略和即将推出的创新。",
+        "link": "https://finance.yahoo.com/video/qualcomm-significant-advantage-over-nvidia-130023982.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772888423,
+        "type": "News"
+    },
+    {
         "title": "The Weekend: Iran war shakes markets and rattles energy sector",
         "title_zh": "周末：伊朗战争震动市场并扰乱能源行业",
         "summary": "Iran conflict overshadowed UK spring statement as fears over energy supplies and inflation persisted",
@@ -20,46 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center",
-        "title_zh": "Oracle 和 OpenAI 结束扩建旗舰数据中心的计划",
-        "summary": "The collapsed talks created an opening for Meta Platforms Inc. to step in and consider leasing the planned expansion site in Abilene, Texas, from developer Crusoe, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，此次谈判的失败为 Meta Platforms Inc. 介入并考虑从开发商 Crusoe 手中租赁位于德克萨斯州阿比林的计划扩建场地创造了机会。",
-        "link": "https://finance.yahoo.com/news/oracle-openai-end-plans-expand-201106441.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1772842299,
-        "type": "News"
-    },
-    {
-        "title": "How Amazon and Google are taking on smart homes with AI",
-        "title_zh": "亚马逊和谷歌如何利用人工智能挑战智能家居",
-        "summary": "Amazon (AMZN) and Google (GOOG, GOOGL) are trying to revive smart home adoption with artificial intelligence (AI).",
-        "summary_zh": "亚马逊（AMZN）和谷歌（GOOG、GOOGL）正试图通过人工智能（AI）重振智能家居的采用。",
-        "link": "https://finance.yahoo.com/video/amazon-google-taking-smart-homes-220941695.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772834981,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq drop to end volatile week as oil surges above $90",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数下跌，结束动荡的一周，因油价飙升至 90 美元上方",
-        "summary": "Stock markets continue to be dominated by developments in the Middle East as the major gauges posted a week of losses.",
-        "summary_zh": "股市继续受到中东事态发展的主导，主要股指连续一周下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-drop-to-end-volatile-week-as-oil-surges-above-90-210059886.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772830859,
-        "type": "News"
-    },
-    {
-        "title": "The structural tailwind behind AI, tech stocks right now",
-        "title_zh": "目前人工智能、科技股背后的结构性推动因素",
-        "summary": "US Bank Wealth Management senior investment strategist Rob Haworth sat down with the Market Domination team to discuss his perspective on the US stock market (^DJI, ^IXIC, ^GSPC), treasury yields (^TYX, ^TNX, ^FVX), and the tech sector at large in the current market environment.",
-        "summary_zh": "美国银行财富管理高级投资策略师 Rob Haworth 与 Market Domination 团队坐下来讨论了他对美国股市 (^DJI、^IXIC、^GSPC)、国债收益率 (^TYX、^TNX、^FVX) 以及当前市场环境下整个科技行业的看法。",
-        "link": "https://finance.yahoo.com/video/structural-tailwind-behind-ai-tech-183000825.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772821800,
-        "type": "News"
-    },
-    {
         "title": "Formula 1 and Apple's big gamble kicks off this weekend",
         "title_zh": "一级方程式赛车和苹果的豪赌将于本周末拉开帷幕",
         "summary": "A big change is coming in the all-important US market for F1: Gone is ESPN, which offered up the sport of F1 to the masses, and in its place is tech giant Apple.",
@@ -67,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/formula-1-and-apples-big-gamble-kicks-off-this-weekend-155644302.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1772812604,
-        "type": "News"
-    },
-    {
-        "title": "Investing amid uncertainty: Why volatility can be your 'friend'",
-        "title_zh": "在不确定性中投资：为什么波动性可以成为你的“朋友”",
-        "summary": "Geopolitical uncertainty is making it difficult for investors to get a clear read on which parts of the market (^DJI, ^GSPC, ^IXIC) they should be putting their money into.",
-        "summary_zh": "地缘政治的不确定性使投资者很难清楚地了解他们应该将资金投入市场的哪些部分（^DJI、^GSPC、^IXIC）。",
-        "link": "https://finance.yahoo.com/video/investing-amid-uncertainty-why-volatility-155011063.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772812211,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Anthropic says it will fight Pentagon's 'supply chain risk' label, Nvidia stops H200 chip production",
-        "title_zh": "今日科技股：Anthropic表示将对抗五角大楼的“供应链风险”标签，英伟达停止H200芯片生产",
-        "summary": "Nvidia is shifting H200 chip output, Anthropic is restarting talks with the US military, and Apple is releasing new gadgets for consumers.",
-        "summary_zh": "Nvidia 正在转移 H200 芯片产量，Anthropic 正在重启与美国军方的谈判，Apple 正在为消费者发布新产品。",
-        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-anthropic-says-it-will-fight-pentagons-supply-chain-risk-label-nvidia-stops-h200-chip-production-142534547.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772807134,
         "type": "News"
     }
 ]
