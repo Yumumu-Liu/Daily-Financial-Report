@@ -1,42 +1,52 @@
 [
     {
-        "title": "OpenAI head of robotics resigns after deal with Pentagon",
-        "title_zh": "OpenAI 机器人技术负责人在与五角大楼达成协议后辞职",
-        "summary": "Caitlin Kalinowski, head of robotics and consumer hardware at OpenAI, announced her resignation ‌on Saturday, citing concerns about the company's agreement with ‌the Department of Defense.",
-        "summary_zh": "OpenAI 机器人和消费硬件主管凯特琳·卡利诺夫斯基 (Caitlin Kalinowski) 于周六宣布辞职，理由是对该公司与国防部达成协议的担忧。",
-        "link": "https://finance.yahoo.com/news/openai-robotics-head-resigns-deal-203714099.html",
-        "publisher": "Reuters",
-        "publish_time": 1772915834,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm has 'significant advantage' over Nvidia in edge AI: CFO",
-        "title_zh": "高通首席财务官：在边缘人工智能领域比英伟达拥有“显着优势”",
-        "summary": "Mobile tech conference Mobile World Congress took place in Barcelona last week, where Qualcomm (QCOM) outlined its artificial intelligence (AI) strategy and upcoming innovations.",
-        "summary_zh": "移动技术会议世界移动大会上周在巴塞罗那举行，高通 (QCOM) 概述了其人工智能 (AI) 战略和即将推出的创新。",
-        "link": "https://finance.yahoo.com/video/qualcomm-significant-advantage-over-nvidia-130023982.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1772888423,
-        "type": "News"
-    },
-    {
-        "title": "The Weekend: Iran war shakes markets and rattles energy sector",
-        "title_zh": "周末：伊朗战争震动市场并扰乱能源行业",
-        "summary": "Iran conflict overshadowed UK spring statement as fears over energy supplies and inflation persisted",
-        "summary_zh": "由于对能源供应和通胀的担忧持续存在，伊朗冲突给英国春季声明蒙上阴影",
-        "link": "https://finance.yahoo.com/news/iran-war-energy-inflation-markets-060053457.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1772863253,
-        "type": "News"
-    },
-    {
-        "title": "Formula 1 and Apple's big gamble kicks off this weekend",
-        "title_zh": "一级方程式赛车和苹果的豪赌将于本周末拉开帷幕",
-        "summary": "A big change is coming in the all-important US market for F1: Gone is ESPN, which offered up the sport of F1 to the masses, and in its place is tech giant Apple.",
-        "summary_zh": "对于 F1 至关重要的美国市场正在发生重大变化：向大众提供 F1 运动的 ESPN 已经不复存在，取而代之的是科技巨头苹果。",
-        "link": "https://finance.yahoo.com/news/formula-1-and-apples-big-gamble-kicks-off-this-weekend-155644302.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slammed as oil prices surge to over $100 a barrel",
+        "title_zh": "今日股市：随着油价飙升至每桶 100 美元以上，道指、标准普尔 500 指数、纳斯达克期货暴跌",
+        "summary": "Markets are tumbling rapidly as surging oil prices have thrown equities into an unstable position amid global volatility.",
+        "summary_zh": "由于油价飙升导致股市在全球波动中陷入不稳定状态，市场正在迅速下跌。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slammed-as-oil-prices-surge-to-over-100-a-barrel-224103058.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1772812604,
+        "publish_time": 1773009663,
+        "type": "News"
+    },
+    {
+        "title": "Apple now has a MacBook for everyone, and that should worry Google and Microsoft",
+        "title_zh": "苹果现在为所有人提供了 MacBook，这应该让谷歌和微软感到担忧",
+        "summary": "Apple's MacBook Neo is a threat to Microsoft's PC empire and the Google Chromebook's grip on the education market.",
+        "summary_zh": "苹果的 MacBook Neo 对微软的 PC 帝国和谷歌 Chromebook 对教育市场的控制构成了威胁。",
+        "link": "https://finance.yahoo.com/news/apple-now-has-a-macbook-for-everyone-and-that-should-worry-google-and-microsoft-150018709.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772982018,
+        "type": "News"
+    },
+    {
+        "title": "The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off",
+        "title_zh": "人工智能行业仍然“有活力”：华尔街分析师在市场抛售中权衡科技股选择",
+        "summary": "Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.",
+        "summary_zh": "美伊冲突引发的市场涟漪正促使投资者转向科技股的避风港。",
+        "link": "https://finance.yahoo.com/news/the-ai-trade-still-has-legs-wall-street-analysts-weigh-tech-stock-picks-amid-market-sell-off-140003840.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772978403,
+        "type": "News"
+    },
+    {
+        "title": "Young Wall Streeters had a sad week",
+        "title_zh": "年轻的华尔街人士度过了悲伤的一周",
+        "summary": "Bad look for the next generation of Wall Streeters.",
+        "summary_zh": "下一代华尔街人的形象很糟糕。",
+        "link": "https://finance.yahoo.com/news/young-wall-streeters-had-a-sad-week-123054409.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1772973054,
+        "type": "News"
+    },
+    {
+        "title": "Amazon & Lululemon: 2 catalysts this portfolio mgr. sees for stocks",
+        "title_zh": "亚马逊和 Lululemon：该投资组合的 2 个催化剂看股票",
+        "summary": "Rockland Trust VP and portfolio manager Michael Sayers sits down with Josh Lipton to explain why he's looking favorably on shares of Lululemon (LULU) — for the athleisure brand's expected announcement of a new CEO — and Amazon (AMZN) on the growth of its AWS segment.",
+        "summary_zh": "Rockland Trust 副总裁兼投资组合经理 Michael Sayers 与 Josh Lipton 坐下来解释了为什么他看好 Lululemon (LULU) 的股票（该运动休闲品牌预计将宣布新任首席执行官）以及亚马逊 (AMZN) 的 AWS 业务增长。",
+        "link": "https://finance.yahoo.com/video/amazon-lululemon-2-catalysts-portfolio-120030488.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1772971230,
         "type": "News"
     }
 ]

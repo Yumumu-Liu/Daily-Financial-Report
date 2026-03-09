@@ -1,42 +1,12 @@
 [
     {
-        "title": "Lumentum’s S&P 500 Debut And NVIDIA Deal Reshape AI Optics Outlook",
-        "title_zh": "Lumentum 首次登陆 S&P 500 以及 NVIDIA 交易重塑 AI 光学前景",
-        "summary": "Lumentum Holdings (NasdaqGS:LITE) has been added to the S&P 500 Index. The company announced a multiyear partnership with NVIDIA that includes a US$2b investment. The NVIDIA arrangement involves a significant private placement in Lumentum shares.",
-        "summary_zh": "Lumentum Holdings (NasdaqGS:LITE) 已被纳入标准普尔 500 指数。该公司宣布与 NVIDIA 建立多年合作伙伴关系，其中包括 20 亿美元的投资。 NVIDIA 的安排涉及 Lumentum 股票的大规模私募。",
-        "link": "https://finance.yahoo.com/news/lumentum-p-500-debut-nvidia-041952784.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772943592,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Faces Data Center Strikes As OpenAI AI Deal Reshapes Growth Narrative",
-        "title_zh": "OpenAI 人工智能交易重塑增长叙事，亚马逊数据中心面临攻击",
-        "summary": "AWS data centers in the UAE and Bahrain were hit by drone strikes, causing structural damage and service disruption to Amazon's cloud infrastructure.",
-        "summary_zh": "位于阿联酋和巴林的AWS数据中心遭到无人机袭击，对亚马逊云基础设施造成结构性损坏和服务中断。",
-        "link": "https://finance.yahoo.com/news/amazon-faces-data-center-strikes-031123562.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772939483,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Expands AI Footprint With $427 Million George Washington University Campus Acquisition As Data Center Arms Race Intensifies",
-        "title_zh": "随着数据中心军备竞赛加剧，亚马逊斥资 4.27 亿美元收购乔治华盛顿大学校园，扩大人工智能足迹",
-        "summary": "Amazon.com, Inc. is reportedly acquiring George Washington University's Virginia Science and Technology campus in a $427 million dea. Amazon Deepens Virginia Data Center Bet Amazon, through its Amazon Data Services unit, is purchasing the campus in Ashburn, a key hub for U.S.",
-        "summary_zh": "据报道，亚马逊公司将以 4.27 亿美元的价格收购乔治华盛顿大学弗吉尼亚科技校区。亚马逊深化弗吉尼亚数据中心押注 亚马逊通过其亚马逊数据服务部门，正在购买位于美国重要枢纽阿什本的园区。",
-        "link": "https://finance.yahoo.com/news/amazon-expands-ai-footprint-427-023108751.html",
-        "publisher": "Benzinga",
-        "publish_time": 1772937068,
-        "type": "News"
-    },
-    {
-        "title": "AST SpaceMobile TELUS Deal Tests Valuation After Big Share Price Run",
-        "title_zh": "AST SpaceMobile TELUS 交易在股价大幅上涨后测试估值",
-        "summary": "AST SpaceMobile and TELUS Corporation have agreed to roll out space based cellular broadband across Canada, targeting remote and underserved regions. TELUS will also become an equity partner in AST SpaceMobile, aligning financial interests with the network rollout.",
-        "summary_zh": "AST SpaceMobile 和 TELUS 公司已同意在加拿大各地推出天基蜂窝宽带，目标是偏远和服务欠缺的地区。 TELUS 还将成为 AST SpaceMobile 的股权合作伙伴，使财务利益与网络的推出保持一致。",
-        "link": "https://finance.yahoo.com/news/ast-spacemobile-telus-deal-tests-020745335.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772935665,
+        "title": "H2O America (HTO) Prices 11.48M Share Offering at $53 per Share",
+        "title_zh": "H2O America (HTO) 以每股 53 美元的价格发行 1148 万股股票",
+        "summary": "H2O America (NASDAQ:HTO) is included among the Dividend Kings List: Top 15 Stocks. On March 3, H2O America (NASDAQ:HTO) priced its previously announced public offering of 11.48 million common shares at $53 per share.",
+        "summary_zh": "H2O America（纳斯达克股票代码：HTO）被列入股息之王名单：前 15 名股票。 3 月 3 日，H2O America（纳斯达克股票代码：HTO）将之前宣布的 1148 万股普通股公开发行定价为每股 53 美元。",
+        "link": "https://finance.yahoo.com/news/h2o-america-hto-prices-11-013631283.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1773020191,
         "type": "News"
     },
     {
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/news/kkr-leans-sports-arctos-deal-001825007.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1772929105,
+        "type": "News"
+    },
+    {
+        "title": "How The GeoPark (NYSE:GPRK) Investment Story Is Shifting With New Targets And Takeover Tensions",
+        "title_zh": "地质公园（纽约证券交易所股票代码：GPRK）的投资故事如何随着新目标和收购紧张局势而变化",
+        "summary": "GeoPark’s updated fair value estimate has moved slightly, with the price target adjusted from US$11.32 per share to US$11.40 per share.",
+        "summary_zh": "GeoPark更新后的公允价值预估略有变动，目标价格从每股11.32美元调整至每股11.40美元。",
+        "link": "https://finance.yahoo.com/news/geopark-nyse-gprk-investment-story-200738988.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1772914058,
+        "type": "News"
+    },
+    {
+        "title": "Blackstone, Ares Back $5 Billion Financing for Thoma Bravo's WWEX-Auctane Merger",
+        "title_zh": "Blackstone 和 Ares 为 Thoma Bravo 的 WWEX-Auctane 合并提供 50 亿美元融资",
+        "summary": "Private credit lenders fund Thoma Bravo's logistics-software tie-up, valuing the combined WWEX and Auctane business at about $11.6 billion.",
+        "summary_zh": "私人信贷机构为 Thoma Bravo 的物流软件合作提供资金，对 WWEX 和 Auctane 业务的合并估值约为 116 亿美元。",
+        "link": "https://finance.yahoo.com/news/blackstone-ares-back-5-billion-191848238.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1772824728,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
