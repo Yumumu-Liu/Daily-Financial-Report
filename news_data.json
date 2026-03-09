@@ -1,10 +1,40 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slammed as oil prices surge to over $100 a barrel",
-        "title_zh": "今日股市：随着油价飙升至每桶 100 美元以上，道指、标准普尔 500 指数、纳斯达克期货暴跌",
+        "title": "Oil price tops $100 a barrel as Iran war rattles commodity markets",
+        "title_zh": "伊朗战争扰乱大宗商品市场，油价突破每桶 100 美元",
+        "summary": "The price of oil hit its highest level since the outbreak of the war in Ukraine",
+        "summary_zh": "油价创乌克兰战争爆发以来最高水平",
+        "link": "https://finance.yahoo.com/news/oil-prices-trump-iran-israel-gold-pound-dollar-093225057.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773048745,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks tumble as G7 nations plan emergency meeting over Iran war",
+        "title_zh": "富时 100 指数实时：七国集团国家计划就伊朗战争召开紧急会议，股市暴跌",
+        "summary": "The meeting will discuss a joint release of petroleum from reserves, co-ordinated by the International Energy Agency (IEA).",
+        "summary_zh": "会议将讨论在国际能源署（IEA）的协调下联合释放石油储备的问题。",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-tumble-g7-iran-us-oil-prices-iea-091359985.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773047639,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round",
+        "title_zh": "Nvidia 支持的 Nscale 在新一轮融资中估值达 146 亿美元",
+        "summary": "Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after ‌raising $2 billion in its latest funding round, ‌the British company said on Monday.",
+        "summary_zh": "英伟达支持的人工智能集团 Nscale 周一表示，在最新一轮融资中筹集了 20 亿美元后，该公司的估值达到 146 亿美元。",
+        "link": "https://finance.yahoo.com/news/nvidia-backed-uk-ai-firm-081458066.html",
+        "publisher": "Reuters",
+        "publish_time": 1773044098,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures sell off as oil prices surge to over $110 a barrel",
+        "title_zh": "今日股市：随着油价飙升至每桶 110 美元以上，道琼斯指数、标准普尔 500 指数和纳斯达克期货均遭抛售",
         "summary": "Markets are tumbling rapidly as surging oil prices have thrown equities into an unstable position amid global volatility.",
         "summary_zh": "由于油价飙升导致股市在全球波动中陷入不稳定状态，市场正在迅速下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slammed-as-oil-prices-surge-to-over-100-a-barrel-224103058.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sell-off-as-oil-prices-surge-to-over-110-a-barrel-224103624.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773009663,
         "type": "News"
