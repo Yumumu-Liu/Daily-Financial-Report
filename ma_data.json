@@ -1,12 +1,32 @@
 [
     {
-        "title": "H2O America (HTO) Prices 11.48M Share Offering at $53 per Share",
-        "title_zh": "H2O America (HTO) 以每股 53 美元的价格发行 1148 万股股票",
-        "summary": "H2O America (NASDAQ:HTO) is included among the Dividend Kings List: Top 15 Stocks. On March 3, H2O America (NASDAQ:HTO) priced its previously announced public offering of 11.48 million common shares at $53 per share.",
-        "summary_zh": "H2O America（纳斯达克股票代码：HTO）被列入股息之王名单：前 15 名股票。 3 月 3 日，H2O America（纳斯达克股票代码：HTO）将之前宣布的 1148 万股普通股公开发行定价为每股 53 美元。",
-        "link": "https://finance.yahoo.com/news/h2o-america-hto-prices-11-013631283.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1773020191,
+        "title": "CNBC: “Oracle may be the canary in the coal mine.” For AI Deals | ORCL Stock",
+        "title_zh": "CNBC：“甲骨文可能是煤矿里的金丝雀。”对于人工智能交易 | ORCL股票",
+        "summary": "Oracle may be the canary in the coal mine. That line, from a CNBC segment recorded the day before Oracle’s most recent earnings report, carries more weight than a typical market soundbite.",
+        "summary_zh": "甲骨文可能是煤矿里的金丝雀。这句话出自甲骨文最新财报发布前一天 CNBC 的一段话，比典型的市场摘要更有分量。",
+        "link": "https://finance.yahoo.com/news/cnbc-oracle-may-canary-coal-225036304.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1773096636,
+        "type": "News"
+    },
+    {
+        "title": "Stock Market Today, March 9: Hims & Hers Health Soars on Novo Nordisk Weight-Loss Drug Deal",
+        "title_zh": "今日股市，3 月 9 日：Novo Nordisk 减肥药交易推动 Hims & Hers 健康飙升",
+        "summary": "On March 9, 2026, a new Novo Nordisk pact reshaped this telehealth player’s GLP-1 strategy, margins, and legal risk profile.",
+        "summary_zh": "2026 年 3 月 9 日，新的诺和诺德协议重塑了这家远程医疗参与者的 GLP-1 战略、利润和法律风险状况。",
+        "link": "https://finance.yahoo.com/news/stock-market-today-march-9-222501953.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1773095101,
+        "type": "News"
+    },
+    {
+        "title": "Cisco Secure AI Factory Deal Puts Sovereign AI At Center For Cisco Investors",
+        "title_zh": "思科安全人工智能工厂交易将主权人工智能置于思科投资者的中心",
+        "summary": "Cisco Systems (NasdaqGS:CSCO) is partnering with SharonAI Holdings and NVIDIA to launch Australia's first Cisco Secure AI Factory. The initiative is focused on sovereign AI capabilities and secure data processing within Australia.",
+        "summary_zh": "思科系统公司（NasdaqGS：CSCO）正在与 SharonAI Holdings 和 NVIDIA 合作推出澳大利亚首个思科安全人工智能工厂。该计划的重点是澳大利亚境内的主权人工智能能力和安全数据处理。",
+        "link": "https://finance.yahoo.com/news/cisco-secure-ai-factory-deal-190924449.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773083364,
         "type": "News"
     },
     {
@@ -20,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "How The GeoPark (NYSE:GPRK) Investment Story Is Shifting With New Targets And Takeover Tensions",
-        "title_zh": "地质公园（纽约证券交易所股票代码：GPRK）的投资故事如何随着新目标和收购紧张局势而变化",
-        "summary": "GeoPark’s updated fair value estimate has moved slightly, with the price target adjusted from US$11.32 per share to US$11.40 per share.",
-        "summary_zh": "GeoPark更新后的公允价值预估略有变动，目标价格从每股11.32美元调整至每股11.40美元。",
-        "link": "https://finance.yahoo.com/news/geopark-nyse-gprk-investment-story-200738988.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772914058,
-        "type": "News"
-    },
-    {
         "title": "Blackstone, Ares Back $5 Billion Financing for Thoma Bravo's WWEX-Auctane Merger",
         "title_zh": "Blackstone 和 Ares 为 Thoma Bravo 的 WWEX-Auctane 合并提供 50 亿美元融资",
         "summary": "Private credit lenders fund Thoma Bravo's logistics-software tie-up, valuing the combined WWEX and Auctane business at about $11.6 billion.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/blackstone-ares-back-5-billion-191848238.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1772824728,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]

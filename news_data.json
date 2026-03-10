@@ -1,82 +1,92 @@
 [
     {
-        "title": "Oil price tops $100 a barrel as Iran war rattles commodity markets",
-        "title_zh": "伊朗战争扰乱大宗商品市场，油价突破每桶 100 美元",
-        "summary": "The price of oil hit its highest level since the outbreak of the war in Ukraine",
-        "summary_zh": "油价创乌克兰战争爆发以来最高水平",
-        "link": "https://finance.yahoo.com/news/oil-prices-trump-iran-israel-gold-pound-dollar-093225057.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1773048745,
-        "type": "News"
-    },
-    {
-        "title": "FTSE 100 LIVE: Stocks tumble as G7 nations plan emergency meeting over Iran war",
-        "title_zh": "富时 100 指数实时：七国集团国家计划就伊朗战争召开紧急会议，股市暴跌",
-        "summary": "The meeting will discuss a joint release of petroleum from reserves, co-ordinated by the International Energy Agency (IEA).",
-        "summary_zh": "会议将讨论在国际能源署（IEA）的协调下联合释放石油储备的问题。",
-        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-tumble-g7-iran-us-oil-prices-iea-091359985.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1773047639,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia-backed Nscale valued at $14.6 billion in fresh funding round",
-        "title_zh": "Nvidia 支持的 Nscale 在新一轮融资中估值达 146 亿美元",
-        "summary": "Nvidia-backed artificial intelligence group Nscale was valued at $14.6 billion after ‌raising $2 billion in its latest funding round, ‌the British company said on Monday.",
-        "summary_zh": "英伟达支持的人工智能集团 Nscale 周一表示，在最新一轮融资中筹集了 20 亿美元后，该公司的估值达到 146 亿美元。",
-        "link": "https://finance.yahoo.com/news/nvidia-backed-uk-ai-firm-081458066.html",
+        "title": "German publishers reject Apple's revised app tracking rules, urge antitrust fine",
+        "title_zh": "德国出版商拒绝苹果修订后的应用程序跟踪规则，敦促反垄断罚款",
+        "summary": "Apple's proposed changes to its app tracking rules do not resolve antitrust issues in the mobile advertising market, ‌associations representing German publishers and advertisers said on Tuesday as they urged ‌the country's antitrust authority to slap a fine on the U.S.",
+        "summary_zh": "代表德国出版商和广告商的协会周二表示，苹果对其应用程序跟踪规则的拟议修改并不能解决移动广告市场的反垄断问题，同时敦促该国反垄断机构对美国处以罚款。",
+        "link": "https://finance.yahoo.com/news/german-publishers-reject-apples-revised-001046468.html",
         "publisher": "Reuters",
-        "publish_time": 1773044098,
+        "publish_time": 1773101446,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures sell off as oil prices surge to over $110 a barrel",
-        "title_zh": "今日股市：随着油价飙升至每桶 110 美元以上，道琼斯指数、标准普尔 500 指数和纳斯达克期货均遭抛售",
-        "summary": "Markets are tumbling rapidly as surging oil prices have thrown equities into an unstable position amid global volatility.",
-        "summary_zh": "由于油价飙升导致股市在全球波动中陷入不稳定状态，市场正在迅速下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sell-off-as-oil-prices-surge-to-over-110-a-barrel-224103624.html",
+        "title": "Wall Street ends higher as Trump signals Iran war resolution",
+        "title_zh": "特朗普暗示伊朗战争解决方案，华尔街收高",
+        "summary": "STORY: Wall Street stocks clawed their way back from a steep selloff to close higher on Monday, notching a final-hour rebound as U.S.",
+        "summary_zh": "故事：华尔街股市周一从大幅抛售中奋力反弹，收高收盘，随着美国股市的上涨，在最后一个小时出现反弹。",
+        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-trump-231210748.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1773097980,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall, oil slides after volatile day on Wall Street",
+        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货下跌，华尔街动荡一天后油价下跌",
+        "summary": "Wall Street is adjusting to a historic spike and fall in oil prices after the global economy was thrown into disarray.",
+        "summary_zh": "全球经济陷入混乱后，华尔街正在适应油价历史性的上涨和下跌。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-oil-slides-after-volatile-day-on-wall-street-224255423.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773009663,
+        "publish_time": 1773096175,
         "type": "News"
     },
     {
-        "title": "Apple now has a MacBook for everyone, and that should worry Google and Microsoft",
-        "title_zh": "苹果现在为所有人提供了 MacBook，这应该让谷歌和微软感到担忧",
-        "summary": "Apple's MacBook Neo is a threat to Microsoft's PC empire and the Google Chromebook's grip on the education market.",
-        "summary_zh": "苹果的 MacBook Neo 对微软的 PC 帝国和谷歌 Chromebook 对教育市场的控制构成了威胁。",
-        "link": "https://finance.yahoo.com/news/apple-now-has-a-macbook-for-everyone-and-that-should-worry-google-and-microsoft-150018709.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772982018,
-        "type": "News"
-    },
-    {
-        "title": "The AI trade still 'has legs': Wall Street analysts weigh tech stock picks amid market sell-off",
-        "title_zh": "人工智能行业仍然“有活力”：华尔街分析师在市场抛售中权衡科技股选择",
-        "summary": "Market ripples from the US-Iran conflict are sending investors toward tech's safe havens.",
-        "summary_zh": "美伊冲突引发的市场涟漪正促使投资者转向科技股的避风港。",
-        "link": "https://finance.yahoo.com/news/the-ai-trade-still-has-legs-wall-street-analysts-weigh-tech-stock-picks-amid-market-sell-off-140003840.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772978403,
-        "type": "News"
-    },
-    {
-        "title": "Young Wall Streeters had a sad week",
-        "title_zh": "年轻的华尔街人士度过了悲伤的一周",
-        "summary": "Bad look for the next generation of Wall Streeters.",
-        "summary_zh": "下一代华尔街人的形象很糟糕。",
-        "link": "https://finance.yahoo.com/news/young-wall-streeters-had-a-sad-week-123054409.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1772973054,
-        "type": "News"
-    },
-    {
-        "title": "Amazon & Lululemon: 2 catalysts this portfolio mgr. sees for stocks",
-        "title_zh": "亚马逊和 Lululemon：该投资组合的 2 个催化剂看股票",
-        "summary": "Rockland Trust VP and portfolio manager Michael Sayers sits down with Josh Lipton to explain why he's looking favorably on shares of Lululemon (LULU) — for the athleisure brand's expected announcement of a new CEO — and Amazon (AMZN) on the growth of its AWS segment.",
-        "summary_zh": "Rockland Trust 副总裁兼投资组合经理 Michael Sayers 与 Josh Lipton 坐下来解释了为什么他看好 Lululemon (LULU) 的股票（该运动休闲品牌预计将宣布新任首席执行官）以及亚马逊 (AMZN) 的 AWS 业务增长。",
-        "link": "https://finance.yahoo.com/video/amazon-lululemon-2-catalysts-portfolio-120030488.html",
+        "title": "'Make Tech Value Again': This is software's 'only hope'",
+        "title_zh": "“再次让技术价值”：这是软件的“唯一希望”",
+        "summary": "Portfolio Wealth Advisors president and chief investment officer Lee Munson chats with Yahoo Finance Markets and Data Editor Jared Blikre on the New York Stock Exchange floor to discuss the market's (^DJI, ^GSPC, ^IXIC) reaction to the Iran war, volatility (^VIX), and more.",
+        "summary_zh": "Portfolio Wealth Advisors 总裁兼首席投资官 Lee Munson 在纽约证券交易所与雅虎金融市场和数据编辑 Jared Blikre 交谈，讨论市场 (^DJI、^GSPC、^IXIC) 对伊朗战争、波动性 (^VIX) 等的反应。",
+        "link": "https://finance.yahoo.com/video/tech-value-again-softwares-only-204459687.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1772971230,
+        "publish_time": 1773089099,
+        "type": "News"
+    },
+    {
+        "title": "Oracle to report Q3 earnings as Wall Street questions AI spending",
+        "title_zh": "华尔街质疑人工智能支出，甲骨文将公布第三季度收益",
+        "summary": "Oracle will report its Q3 earnings after the bell on Tuesday.",
+        "summary_zh": "甲骨文将于周二盘后公布第三季度收益。",
+        "link": "https://finance.yahoo.com/news/oracle-to-report-q3-earnings-as-wall-street-questions-ai-spending-203555557.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773088555,
+        "type": "News"
+    },
+    {
+        "title": "Explainer-Anthropic's case against the government: what the AI company says happened",
+        "title_zh": "Explaner-Anthropic 针对政府的诉讼：人工智能公司所说的事情发生了",
+        "summary": "By Akash Sriram March 9 (Reuters) - Anthropic sued the U.S. government on Monday, escalating a dispute the AI company frames as retaliation for refusing to remove safety limits on its Claude model.",
+        "summary_zh": "作者：Akash Sriram 3 月 9 日（路透社）——Anthropic 周一起诉美国政府，使争议升级，这家人工智能公司将其视为对拒绝取消其 Claude 模型安全限制的报复。",
+        "link": "https://finance.yahoo.com/news/explainer-anthropics-case-against-government-202743286.html",
+        "publisher": "Reuters",
+        "publish_time": 1773088519,
+        "type": "News"
+    },
+    {
+        "title": "HPE projects revenue above estimates, focuses on higher-margin networking orders",
+        "title_zh": "HPE 预计收入高于预期，重点关注利润率更高的网络订单",
+        "summary": "Hewlett Packard Enterprise forecast second-quarter revenue above Wall Street estimates on Monday, betting on growing demand for its networking equipment as the company prioritizes more higher-margin orders.",
+        "summary_zh": "惠普企业周一预测第二季度收入高于华尔街预期，因为该公司优先考虑更多利润率更高的订单，因此押注对其网络设备的需求不断增长。",
+        "link": "https://finance.yahoo.com/news/hewlett-packard-enterprise-forecasts-revenue-201203750.html",
+        "publisher": "Reuters",
+        "publish_time": 1773087123,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq stage big comeback, oil plummets as Trump says war could be over soon",
+        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克指数大幅反弹，特朗普称战争可能很快结束，油价暴跌",
+        "summary": "Oil's rise above $100 per barrel has unleashed fears of a more severe economic impact from the war in the Middle East.",
+        "summary_zh": "油价上涨至每桶 100 美元以上，引发了人们对中东战争对经济造成更严重影响的担忧。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-big-comeback-oil-plummets-as-trump-says-war-could-be-over-soon-200031508.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773086431,
+        "type": "News"
+    },
+    {
+        "title": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri",
+        "title_zh": "苹果推迟智能家居显示器发布，等待新的人工智能和 Siri",
+        "summary": "The product, code-named J490, was first scheduled for spring 2025 but was postponed to let the company finish work on a new Siri digital assistant — an integral piece of the device’s interface.",
+        "summary_zh": "该产品代号为 J490，最初计划于 2025 年春季推出，但后来被推迟，以便公司完成新 Siri 数字助理（该设备界面的一个组成部分）的开发工作。",
+        "link": "https://finance.yahoo.com/news/apple-postpones-smart-home-display-184249492.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773081769,
         "type": "News"
     }
 ]
