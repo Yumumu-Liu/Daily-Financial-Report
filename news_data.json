@@ -1,9 +1,59 @@
 [
     {
+        "title": "FTSE 100 LIVE: Stocks surge after Trump says Iran war could end 'very soon'",
+        "title_zh": "富时100实时：特朗普表示伊朗战争可能“很快”结束后股市飙升",
+        "summary": "Stocks jumped on Tuesday morning, after the US president said that the war with Iran was 'very complete'",
+        "summary_zh": "在美国总统表示与伊朗的战争“非常完整”后，股市周二上午上涨",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-trump-iran-war-us-oil-prices-090324444.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773133404,
+        "type": "News"
+    },
+    {
+        "title": "TSMC Sales Grow 30% on Sustained Global Demand for AI Hardware",
+        "title_zh": "全球人工智能硬件需求持续增长，台积电销售额增长 30%",
+        "summary": "The go-to chipmaker for Nvidia Corp., Advanced Micro Devices Inc. and Broadcom Inc. serves as a barometer for the global AI industry, with attention now on how the US and Israel’s strike on Iran will affect appetite to build data centers and other digital infrastructure.",
+        "summary_zh": "这家 Nvidia 公司、Advanced Micro Devices Inc. 和 Broadcom Inc. 的首选芯片制造商是全球人工智能行业的晴雨表，目前人们的注意力集中在美国和以色列对伊朗的打击将如何影响建设数据中心和其他数字基础设施的兴趣。",
+        "link": "https://finance.yahoo.com/news/tsmc-sales-grow-30-sustained-054308789.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773121388,
+        "type": "News"
+    },
+    {
+        "title": "European freight truck makers brace for wave of low-cost Chinese rivals",
+        "title_zh": "欧洲货运卡车制造商准备迎接低成本中国竞争对手的浪潮",
+        "summary": "ANTWERP/SODERTALJE, Sweden, March 10 (Reuters) - Chinese electric freight trucks are rolling into Europe at pace this year, following the trail blazed by Chinese EVs and threatening to upend the",
+        "summary_zh": "瑞典安特卫普/索德泰利耶，3 月 10 日（路透社）——继中国电动汽车开辟的道路之后，中国电动货运卡车今年正大举进军欧洲，并有可能颠覆欧洲市场。",
+        "link": "https://finance.yahoo.com/news/european-freight-truck-makers-brace-050310853.html",
+        "publisher": "Reuters",
+        "publish_time": 1773119606,
+        "type": "News"
+    },
+    {
+        "title": "Ex-Meta AI chief Yann LeCun's AMI raises $1.03 billion for alternative AI approach",
+        "title_zh": "前 Meta AI 首席执行官 Yann LeCun 的 AMI 为替代人工智能方法筹集了 10.3 亿美元",
+        "summary": "Advanced Machine Intelligence, the startup founded by former Meta Platforms chief AI scientist Yann LeCun, said on Tuesday it ‌raised $1.03 billion based on a $3.50 billion pre-money valuation, as it seeks ‌to commercialize artificial intelligence systems built around reasonin...",
+        "summary_zh": "由前 Meta Platforms 首席人工智能科学家 Yann LeCun 创立的初创公司 Advanced Machine Intelligence 周二表示，根据 35 亿美元的投前估值，筹集了 10.3 亿美元，因为该公司寻求将围绕推理构建的人工智能系统商业化。",
+        "link": "https://finance.yahoo.com/news/ex-meta-ai-chief-yann-050123788.html",
+        "publisher": "Reuters",
+        "publish_time": 1773118883,
+        "type": "News"
+    },
+    {
+        "title": "Apple Now Makes About 25% of iPhones in India After China Pivot",
+        "title_zh": "重心转向中国后，苹果现在约 25% 的 iPhone 在印度生产",
+        "summary": "The company assembled about 55 million iPhones in India in 2025, up from 36 million a year earlier, people familiar with the matter said, asking not to be named because the numbers aren’t public.",
+        "summary_zh": "知情人士称，2025 年该公司在印度组装了约 5500 万部 iPhone，高于一年前的 3600 万部。由于数字未公开，知情人士要求不具名。",
+        "link": "https://finance.yahoo.com/news/apple-now-makes-25-iphones-024737834.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773110857,
+        "type": "News"
+    },
+    {
         "title": "German publishers reject Apple's revised app tracking rules, urge antitrust fine",
         "title_zh": "德国出版商拒绝苹果修订后的应用程序跟踪规则，敦促反垄断罚款",
-        "summary": "Apple's proposed changes to its app tracking rules do not resolve antitrust issues in the mobile advertising market, ‌associations representing German publishers and advertisers said on Tuesday as they urged ‌the country's antitrust authority to slap a fine on the U.S.",
-        "summary_zh": "代表德国出版商和广告商的协会周二表示，苹果对其应用程序跟踪规则的拟议修改并不能解决移动广告市场的反垄断问题，同时敦促该国反垄断机构对美国处以罚款。",
+        "summary": "German publishers and advertisers on Tuesday called for the country's competition authority to fine Apple over proposed changes to its app tracking ‌rules, saying they do not do enough to resolve antitrust issues.",
+        "summary_zh": "德国出版商和广告商周二呼吁该国竞争主管机构就苹果修改其应用程序跟踪规则的提议进行罚款，称他们在解决反垄断问题方面做得不够。",
         "link": "https://finance.yahoo.com/news/german-publishers-reject-apples-revised-001046468.html",
         "publisher": "Reuters",
         "publish_time": 1773101446,
@@ -20,11 +70,11 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall, oil slides after volatile day on Wall Street",
-        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货下跌，华尔街动荡一天后油价下跌",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise, oil slides after volatile day on Wall Street",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨，华尔街动荡一天后油价下跌",
         "summary": "Wall Street is adjusting to a historic spike and fall in oil prices after the global economy was thrown into disarray.",
         "summary_zh": "全球经济陷入混乱后，华尔街正在适应油价历史性的上涨和下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-oil-slides-after-volatile-day-on-wall-street-224255423.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-oil-slides-after-volatile-day-on-wall-street-224255037.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773096175,
         "type": "News"
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/video/tech-value-again-softwares-only-204459687.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1773089099,
-        "type": "News"
-    },
-    {
-        "title": "Oracle to report Q3 earnings as Wall Street questions AI spending",
-        "title_zh": "华尔街质疑人工智能支出，甲骨文将公布第三季度收益",
-        "summary": "Oracle will report its Q3 earnings after the bell on Tuesday.",
-        "summary_zh": "甲骨文将于周二盘后公布第三季度收益。",
-        "link": "https://finance.yahoo.com/news/oracle-to-report-q3-earnings-as-wall-street-questions-ai-spending-203555557.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773088555,
-        "type": "News"
-    },
-    {
-        "title": "Explainer-Anthropic's case against the government: what the AI company says happened",
-        "title_zh": "Explaner-Anthropic 针对政府的诉讼：人工智能公司所说的事情发生了",
-        "summary": "By Akash Sriram March 9 (Reuters) - Anthropic sued the U.S. government on Monday, escalating a dispute the AI company frames as retaliation for refusing to remove safety limits on its Claude model.",
-        "summary_zh": "作者：Akash Sriram 3 月 9 日（路透社）——Anthropic 周一起诉美国政府，使争议升级，这家人工智能公司将其视为对拒绝取消其 Claude 模型安全限制的报复。",
-        "link": "https://finance.yahoo.com/news/explainer-anthropics-case-against-government-202743286.html",
-        "publisher": "Reuters",
-        "publish_time": 1773088519,
-        "type": "News"
-    },
-    {
-        "title": "HPE projects revenue above estimates, focuses on higher-margin networking orders",
-        "title_zh": "HPE 预计收入高于预期，重点关注利润率更高的网络订单",
-        "summary": "Hewlett Packard Enterprise forecast second-quarter revenue above Wall Street estimates on Monday, betting on growing demand for its networking equipment as the company prioritizes more higher-margin orders.",
-        "summary_zh": "惠普企业周一预测第二季度收入高于华尔街预期，因为该公司优先考虑更多利润率更高的订单，因此押注对其网络设备的需求不断增长。",
-        "link": "https://finance.yahoo.com/news/hewlett-packard-enterprise-forecasts-revenue-201203750.html",
-        "publisher": "Reuters",
-        "publish_time": 1773087123,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq stage big comeback, oil plummets as Trump says war could be over soon",
-        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克指数大幅反弹，特朗普称战争可能很快结束，油价暴跌",
-        "summary": "Oil's rise above $100 per barrel has unleashed fears of a more severe economic impact from the war in the Middle East.",
-        "summary_zh": "油价上涨至每桶 100 美元以上，引发了人们对中东战争对经济造成更严重影响的担忧。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-stage-big-comeback-oil-plummets-as-trump-says-war-could-be-over-soon-200031508.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773086431,
-        "type": "News"
-    },
-    {
-        "title": "Apple Postpones Smart Home Display Launch as It Waits for New AI and Siri",
-        "title_zh": "苹果推迟智能家居显示器发布，等待新的人工智能和 Siri",
-        "summary": "The product, code-named J490, was first scheduled for spring 2025 but was postponed to let the company finish work on a new Siri digital assistant — an integral piece of the device’s interface.",
-        "summary_zh": "该产品代号为 J490，最初计划于 2025 年春季推出，但后来被推迟，以便公司完成新 Siri 数字助理（该设备界面的一个组成部分）的开发工作。",
-        "link": "https://finance.yahoo.com/news/apple-postpones-smart-home-display-184249492.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773081769,
         "type": "News"
     }
 ]
