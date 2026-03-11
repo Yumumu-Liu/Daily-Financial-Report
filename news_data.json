@@ -1,10 +1,50 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver amid continued Iran fallout, with CPI on deck",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因伊朗局势持续波动而消费者物价指数 (CPI) 上升",
+        "title": "Canal+ taps Google's AI for video production, content recommendation",
+        "title_zh": "Canal+ 利用 Google 人工智能进行视频制作和内容推荐",
+        "summary": "French media group Canal+ on Wednesday said it had struck a ‌multi-year partnership with Alphabet's Google Cloud to ‌deploy generative artificial intelligence across its production operations and streaming ​platform.",
+        "summary_zh": "法国媒体集团 Canal+ 周三表示，它已与 Alphabet 的谷歌云达成多年合作伙伴关系，在其制作业务和流媒体平台上部署生成人工智能。",
+        "link": "https://finance.yahoo.com/news/canal-taps-googles-ai-video-070647113.html",
+        "publisher": "Reuters",
+        "publish_time": 1773212807,
+        "type": "News"
+    },
+    {
+        "title": "Oracle sees AI boom through at least 2027, sending shares up 8%",
+        "title_zh": "甲骨文预计人工智能至少会在 2027 年蓬勃发展，股价上涨 8%",
+        "summary": "STORY: :: OracleOracle on Tuesday predicted that the AI data center boom will power its revenue above Wall Street estimates well into 2027.That sent shares in the firm up over 8% in extended trading.Oracle reported third quarter revenue of just over $17 billion, beating estima...",
+        "summary_zh": "故事：：甲骨文周二预测，人工智能数据中心的繁荣将推动其收入在 2027 年远高于华尔街的预期。这使得该公司的股价在盘后交易中上涨超过 8%。甲骨文公布的第三季度收入略高于 170 亿美元，超出了预期...",
+        "link": "https://finance.yahoo.com/video/oracle-sees-ai-boom-least-044334167.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1773204214,
+        "type": "News"
+    },
+    {
+        "title": "Nintendo Shares Soar 10% as Surprise Hit Pokémon Game Lifts Mood",
+        "title_zh": "神奇宝贝游戏出人意料提振情绪，任天堂股价飙升 10%",
+        "summary": "The rally comes as physical copies of Pokémon Pokopia, released exclusively for the Switch 2 console on March 5, have sold out at several major retailers in the US.",
+        "summary_zh": "此次集会正值 3 月 5 日专为 Switch 2 主机发售的《精灵宝可梦 Pokopia》实体版在美国几家主要零售商处售空。",
+        "link": "https://finance.yahoo.com/news/nintendo-shares-soar-10-surprise-033953303.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773200393,
+        "type": "News"
+    },
+    {
+        "title": "SoftBank's PayPay plans to price US IPO around low end of range, sources say",
+        "title_zh": "消息人士称，软银旗下 PayPay 计划将美国 IPO 定价定在区间低端附近",
+        "summary": "The initial public offering of SoftBank's PayPay is likely to price around the low end of ‌its marketing range as war in the Middle East roils markets, two people ‌familiar with the matter said.",
+        "summary_zh": "两位知情人士表示，由于中东战争扰乱市场，软银旗下 PayPay 的首次公开募股定价可能会在其营销区间的低端附近。",
+        "link": "https://finance.yahoo.com/news/softbanks-paypay-plans-price-us-005743281.html",
+        "publisher": "Reuters",
+        "publish_time": 1773190663,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid continued Iran fallout, with CPI on deck",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因伊朗局势持续下滑，消费者物价指数 (CPI) 上涨",
         "summary": "Wall Street continues to be buffeted by the winds of war, as the effects of the Iran war are being seen through widespread volatility.",
         "summary_zh": "华尔街继续受到战争之风的打击，伊朗战争的影响正在通过广泛的波动显现出来。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-amid-continued-iran-fallout-with-cpi-on-deck-231325631.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-continued-iran-fallout-with-cpi-on-deck-231325809.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773184405,
         "type": "News"
@@ -30,16 +70,6 @@
         "type": "News"
     },
     {
-        "title": "Oracle sees AI boom through at least 2027, sending shares up 8%",
-        "title_zh": "甲骨文预计人工智能至少会在 2027 年蓬勃发展，股价上涨 8%",
-        "summary": "Oracle on Tuesday predicted that the AI data center boom will power its revenue above Wall Street estimates well into 2027, sending its shares up 8.3% in extended trading.",
-        "summary_zh": "甲骨文周二预测，人工智能数据中心的繁荣将使其收入在 2027 年远超华尔街预期，推动其股价在盘后交易中上涨 8.3%。",
-        "link": "https://finance.yahoo.com/news/oracle-beats-quarterly-revenue-estimates-200839907.html",
-        "publisher": "Reuters",
-        "publish_time": 1773173319,
-        "type": "News"
-    },
-    {
         "title": "Stock market today: Dow, S&P 500 end lower, oil slides as Wall Street weighs Iran war signals",
         "title_zh": "今日股市：道指、标准普尔 500 指数收低，华尔街衡量伊朗战争信号，油价下跌",
         "summary": "Wall Street is adjusting to a historic spike and fall in oil prices after the global economy was thrown into disarray.",
@@ -57,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/former-energy-secretary-rick-perry-says-ai-revolution-hinges-on-2-limitations-181432750.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773166472,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Nvidia CEO Jensen Huang blogs about AI's impact, Anthropic sues Defense Department over ban",
-        "title_zh": "今日科技股：英伟达首席执行官黄仁勋在博客中谈论人工智能的影响，Anthropic 就禁令起诉国防部",
-        "summary": "Artificial intelligence continues to make waves in markets, spurring new investments and concerns each week.",
-        "summary_zh": "人工智能继续在市场上掀起波澜，每周都会引发新的投资和担忧。",
-        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-ceo-jensen-huang-blogs-about-ais-impact-anthropic-sues-defense-department-over-ban-154151476.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773157311,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia CEO Jensen Huang: AI will be 'foundational infrastructure'",
-        "title_zh": "英伟达首席执行官黄仁勋：人工智能将成为“基础设施”",
-        "summary": "Ahead of Nvidia's (NVDA) annual GTC developer conference starts next week, CEO Jensen Huang wrote a blog post about artificial intelligence (AI) as the infrastructure of the future.",
-        "summary_zh": "在 Nvidia (NVDA) 年度 GTC 开发者大会下周开始之前，首席执行官黄仁勋 (Jensen Huang) 撰写了一篇关于人工智能 (AI) 作为未来基础设施的博文。",
-        "link": "https://finance.yahoo.com/video/nvidia-ceo-jensen-huang-ai-141203425.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773151923,
         "type": "News"
     }
 ]
