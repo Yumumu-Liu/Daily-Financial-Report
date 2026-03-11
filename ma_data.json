@@ -1,32 +1,22 @@
 [
     {
-        "title": "CNBC: “Oracle may be the canary in the coal mine.” For AI Deals | ORCL Stock",
-        "title_zh": "CNBC：“甲骨文可能是煤矿里的金丝雀。”对于人工智能交易 | ORCL股票",
-        "summary": "Oracle may be the canary in the coal mine. That line, from a CNBC segment recorded the day before Oracle’s most recent earnings report, carries more weight than a typical market soundbite.",
-        "summary_zh": "甲骨文可能是煤矿里的金丝雀。这句话出自甲骨文最新财报发布前一天 CNBC 的一段话，比典型的市场摘要更有分量。",
-        "link": "https://finance.yahoo.com/news/cnbc-oracle-may-canary-coal-225036304.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1773096636,
+        "title": "U.S. Bancorp Expands Wealth Offerings: Will it Drive Fee Income Growth?",
+        "title_zh": "美国合众银行扩大财富产品：会推动手续费收入增长吗？",
+        "summary": "Does USB's new Wealth Connect and commission-free trading platform attract first-time investors and drive fee-income growth? Let us discuss.",
+        "summary_zh": "USB的新Wealth Connect和免佣金交易平台是否能吸引首次投资者并推动手续费收入增长？我们来讨论一下吧。",
+        "link": "https://finance.yahoo.com/news/u-bancorp-expands-wealth-offerings-173800021.html",
+        "publisher": "Zacks",
+        "publish_time": 1773164280,
         "type": "News"
     },
     {
-        "title": "Stock Market Today, March 9: Hims & Hers Health Soars on Novo Nordisk Weight-Loss Drug Deal",
-        "title_zh": "今日股市，3 月 9 日：Novo Nordisk 减肥药交易推动 Hims & Hers 健康飙升",
-        "summary": "On March 9, 2026, a new Novo Nordisk pact reshaped this telehealth player’s GLP-1 strategy, margins, and legal risk profile.",
-        "summary_zh": "2026 年 3 月 9 日，新的诺和诺德协议重塑了这家远程医疗参与者的 GLP-1 战略、利润和法律风险状况。",
-        "link": "https://finance.yahoo.com/news/stock-market-today-march-9-222501953.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1773095101,
-        "type": "News"
-    },
-    {
-        "title": "Cisco Secure AI Factory Deal Puts Sovereign AI At Center For Cisco Investors",
-        "title_zh": "思科安全人工智能工厂交易将主权人工智能置于思科投资者的中心",
-        "summary": "Cisco Systems (NasdaqGS:CSCO) is partnering with SharonAI Holdings and NVIDIA to launch Australia's first Cisco Secure AI Factory. The initiative is focused on sovereign AI capabilities and secure data processing within Australia.",
-        "summary_zh": "思科系统公司（NasdaqGS：CSCO）正在与 SharonAI Holdings 和 NVIDIA 合作推出澳大利亚首个思科安全人工智能工厂。该计划的重点是澳大利亚境内的主权人工智能能力和安全数据处理。",
-        "link": "https://finance.yahoo.com/news/cisco-secure-ai-factory-deal-190924449.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1773083364,
+        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
+        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
+        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
+        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
+        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1773153881,
         "type": "News"
     },
     {
@@ -40,13 +30,13 @@
         "type": "News"
     },
     {
-        "title": "Blackstone, Ares Back $5 Billion Financing for Thoma Bravo's WWEX-Auctane Merger",
-        "title_zh": "Blackstone 和 Ares 为 Thoma Bravo 的 WWEX-Auctane 合并提供 50 亿美元融资",
-        "summary": "Private credit lenders fund Thoma Bravo's logistics-software tie-up, valuing the combined WWEX and Auctane business at about $11.6 billion.",
-        "summary_zh": "私人信贷机构为 Thoma Bravo 的物流软件合作提供资金，对 WWEX 和 Auctane 业务的合并估值约为 116 亿美元。",
-        "link": "https://finance.yahoo.com/news/blackstone-ares-back-5-billion-191848238.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1772824728,
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
