@@ -1,42 +1,62 @@
 [
     {
-        "title": "Nissan, Uber, Wayve unveil robotaxi tie-up",
-        "title_zh": "日产、Uber、Wayve 宣布机器人出租车合作",
-        "summary": "Nissan Motor, Uber Technologies and British startup Wayve said on Thursday ‌they will collaborate on developing robotaxis, aiming ‌to roll out a pilot programme in Tokyo by late 2026.",
-        "summary_zh": "日产汽车、Uber Technologies 和英国初创公司 Wayve 周四表示，他们将合作开发机器人出租车，目标是到 2026 年底在东京推出试点项目。",
-        "link": "https://finance.yahoo.com/news/nissan-uber-wayve-announce-robotaxi-011834873.html",
-        "publisher": "Reuters",
-        "publish_time": 1773278314,
+        "title": "Trending tickers: Nebius Group, Hims & Hers, BMW, Savills and On The Beach",
+        "title_zh": "热门股票：Nebius Group、Hims & Hers、BMW、Savills 和 On The Beach",
+        "summary": "The latest investor updates on stocks that are trending on Thursday.",
+        "summary_zh": "投资者对周四趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/nebius-group-hims-hers-bmw-savills-on-the-beach-trending-tickers-092006460.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773307206,
         "type": "News"
     },
     {
         "title": "UK watchdogs press Meta, TikTok, Snap and YouTube to block children",
         "title_zh": "英国监管机构敦促 Meta、TikTok、Snap 和 YouTube 屏蔽儿童",
-        "summary": "LONDON, March 12 (Reuters) - Britain's media and privacy regulators on Thursday demanded that major social media platforms do more to keep children off their services, warning that companies were",
-        "summary_zh": "路透伦敦 3 月 12 日 - 英国媒体和隐私监管机构周四要求主要社交媒体平台采取更多措施阻止儿童使用其服务，并警告称，这些公司",
+        "summary": "LONDON, March 12 (Reuters) - Britain's media and privacy regulators on Thursday demanded that major social media platforms do more to keep children off their services, ‌warning that companies were failing to enforce their own minimum age rules.",
+        "summary_zh": "路透伦敦 3 月 12 日 - 英国媒体和隐私监管机构周四要求主要社交媒体平台采取更多措施，防止儿童使用其服务，并警告各公司未能执行自己的最低年龄规定。",
         "link": "https://finance.yahoo.com/news/uk-watchdogs-press-meta-tiktok-000613509.html",
         "publisher": "Reuters",
-        "publish_time": 1773275281,
+        "publish_time": 1773301388,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide, oil climbs as volatility continues amid Iran war",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下滑，伊朗战争期间波动持续，油价攀升",
-        "summary": "Markets continue to adjust to a fast-moving fiscal landscape dominated by the war in Iran. Oil prices flail in an unstable setting.",
-        "summary_zh": "市场继续适应以伊朗战争为主导的快速变化的财政格局。石油价格在不稳定的环境下波动。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-oil-climbs-as-volatility-continues-amid-iran-war-224627169.html",
+        "title": "Surging Air Fares Upend Global Travel as Peak Season Nears",
+        "title_zh": "旺季临近，机票价格飙升颠覆全球旅行",
+        "summary": "A cascade of more than 46,000 flight cancellations has been triggered across the region since the conflict began on Feb. 28, according to data from Cirium Ltd.",
+        "summary_zh": "Cirium Ltd. 的数据显示，自 2 月 28 日冲突爆发以来，该地区已引发超过 46,000 趟航班取消。",
+        "link": "https://finance.yahoo.com/news/horrendously-high-fares-bomb-fears-042840498.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773289720,
+        "type": "News"
+    },
+    {
+        "title": "Samsung Display CEO warns of cost pressure due to oil shock from Iran war",
+        "title_zh": "三星显示器首席执行官警告称，伊朗战争造成的石油冲击将带来成本压力",
+        "summary": "SEOUL, March 12 (Reuters) - The CEO of Samsung Display, a ‌supplier for Apple and Samsung Electronics, ‌said on Thursday the Iran war and surging ​oil prices threaten to drive up costs of energy and raw materials.",
+        "summary_zh": "首尔，3 月 12 日（路透社） - 苹果和三星电子的供应商三星显示器的首席执行官周四表示，伊朗战争和飙升的油价可能会推高能源和原材料成本。",
+        "link": "https://finance.yahoo.com/news/samsung-display-ceo-warns-higher-025148177.html",
+        "publisher": "Reuters",
+        "publish_time": 1773286627,
+        "type": "News"
+    },
+    {
+        "title": "Atlassian to Reduce 1,600 Jobs in the Latest AI-Linked Cuts",
+        "title_zh": "Atlassian 将在最新的人工智能相关裁员中裁员 1,600 人",
+        "summary": "Australian billionaire founder Mike Cannon-Brookes explained the reductions in a staff memo, while also announcing his chief technology officer was leaving the Sydney-based company.",
+        "summary_zh": "澳大利亚亿万富翁创始人迈克·坎农-布鲁克斯在一份员工备忘录中解释了裁员的原因，同时还宣布他的首席技术官将离开这家总部位于悉尼的公司。",
+        "link": "https://finance.yahoo.com/news/atlassian-ceo-cites-ai-shift-220933887.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773282580,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall, oil surges as Middle East conflict escalates",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，中东冲突升级，油价飙升",
+        "summary": "New attacks signal the Iran war is widening across the Middle East to further threaten disruption to energy supplies.",
+        "summary_zh": "新的袭击表明伊朗战争正在中东地区扩大，进一步威胁能源供应。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-oil-surges-as-middle-east-conflict-escalates-224627583.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773269187,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce’s $25 Billion Debt Sale Draws Weak Demand on AI Worry",
-        "title_zh": "Salesforce 250 亿美元债务出售引发人工智能需求疲软",
-        "summary": "Pricing on the longest part of the deal tightened by just 0.1 percentage point to 1.85 percentage point above Treasuries — while similar deals have narrowed by an average of 0.3 percentage point this year, the data show.",
-        "summary_zh": "数据显示，交易中最长部分的定价仅比国债高出 0.1 个百分点至 1.85 个百分点，而今年类似交易的定价平均收窄了 0.3 个百分点。",
-        "link": "https://finance.yahoo.com/news/salesforce-sees-tepid-demand-bond-184030282.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773264478,
         "type": "News"
     },
     {
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/video/musk-number-1-forbes-billionaires-164500619.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1773247500,
-        "type": "News"
-    },
-    {
-        "title": "Richard Haass warns the geopolitical risk tax will burden markets for years to come",
-        "title_zh": "理查德·哈斯警告说，地缘政治风险税将在未来几年给市场带来负担",
-        "summary": "The era of cheap energy and low-risk expansion is over as Wall Street prepares for a market with prolonged volatility.",
-        "summary_zh": "随着华尔街为长期波动的市场做好准备，廉价能源和低风险扩张的时代已经结束。",
-        "link": "https://finance.yahoo.com/news/richard-haass-warns-the-geopolitical-risk-tax-will-burden-markets-for-years-to-come-164035978.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773247235,
-        "type": "News"
-    },
-    {
-        "title": "Oracle had a great quarter, but falls short in one key way",
-        "title_zh": "甲骨文本季度表现出色，但在一个关键方面存在不足",
-        "summary": "Oracle (ORCL) reported third quarter earnings results on Tuesday that beat expectations.",
-        "summary_zh": "甲骨文（ORCL）周二公布的第三季度盈利结果超出预期。",
-        "link": "https://finance.yahoo.com/video/oracle-had-great-quarter-falls-155624055.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773244584,
         "type": "News"
     }
 ]

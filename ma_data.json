@@ -1,5 +1,15 @@
 [
     {
+        "title": "Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund",
+        "title_zh": "棒约翰吸引了卡塔尔支持的基金的新收购兴趣",
+        "summary": "A Qatari-backed investment fund has submitted a bid to take pizza chain  Papa John’s International  private, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，一家卡塔尔支持的投资基金已提交收购披萨连锁店棒约翰国际 (Papa John’s International) 私有化的报价。",
+        "link": "https://www.wsj.com/business/deals/papa-johns-draws-fresh-takeover-interest-85f6490a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773297120,
+        "type": "News"
+    },
+    {
         "title": "Uber’s Zoox deal latest in broad autonomous vehicle push",
         "title_zh": "Uber 与 Zoox 达成广泛自动驾驶汽车推广的最新交易",
         "summary": "Uber just announced a partnership with Zoox, Amazon’s robotaxi subsidiary, and the stock jumped nearly 3% on the news. Market analyst Jason John summed it up cleanly: “It’s another example of their foray into the AV business. I mean, this is one of many deals.",
@@ -30,23 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund",
-        "title_zh": "棒约翰吸引了卡塔尔支持的基金的新收购兴趣",
-        "summary": "A Qatari-backed investment fund has submitted a bid to take pizza chain  Papa John’s International  private, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，一家卡塔尔支持的投资基金已提交收购披萨连锁店棒约翰国际 (Papa John’s International) 私有化的报价。",
-        "link": "https://www.wsj.com/business/deals/papa-johns-draws-fresh-takeover-interest-85f6490a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1773260820,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet Closes $32B Acquisition of Cybersecurity Firm Wiz",
-        "title_zh": "Alphabet 以 32B 美元完成对网络安全公司 Wiz 的收购",
-        "summary": "Deal marks the largest acquisition in Google's history and expands cloud security capabilities.",
-        "summary_zh": "该交易标志着谷歌历史上最大的收购，并扩展了云安全能力。",
-        "link": "https://finance.yahoo.com/news/alphabet-closes-32b-acquisition-cybersecurity-190344430.html",
+        "title": "Salesforce Gears Up For Massive Bond Deal",
+        "title_zh": "Salesforce 准备进行大规模债券交易",
+        "summary": "Funding tied to major buyback plan",
+        "summary_zh": "与重大回购计划相关的资金",
+        "link": "https://finance.yahoo.com/news/salesforce-gears-massive-bond-deal-150106870.html",
         "publisher": "GuruFocus.com",
-        "publish_time": 1773255824,
+        "publish_time": 1773241266,
         "type": "News"
     }
 ]
