@@ -1,32 +1,52 @@
 [
     {
-        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
-        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
-        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
-        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
-        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1773153881,
+        "title": "Uber’s Zoox deal latest in broad autonomous vehicle push",
+        "title_zh": "Uber 与 Zoox 达成广泛自动驾驶汽车推广的最新交易",
+        "summary": "Uber just announced a partnership with Zoox, Amazon’s robotaxi subsidiary, and the stock jumped nearly 3% on the news. Market analyst Jason John summed it up cleanly: “It’s another example of their foray into the AV business. I mean, this is one of many deals.",
+        "summary_zh": "Uber 刚刚宣布与亚马逊 Robotaxi 子公司 Zoox 建立合作伙伴关系，消息传出后，该股股价上涨近 3%。市场分析师 Jason John 简洁地总结道：“这是他们进军 AV 业务的另一个例子。我的意思是，这是众多交易之一。”",
+        "link": "https://finance.yahoo.com/news/uber-zoox-deal-latest-broad-023708085.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1773283028,
         "type": "News"
     },
     {
-        "title": "KKR Leans Into Sports With Arctos Deal And Insider Share Buying",
-        "title_zh": "KKR 通过 Arctos 交易和内部股票购买进军体育领域",
-        "summary": "KKR (NYSE:KKR) has agreed to acquire Arctos Partners, a specialist investor in professional sports franchises and related assets. The deal is intended to expand KKR's exposure to sports, real estate, and media rights through Arctos' existing platform.",
-        "summary_zh": "KKR（纽约证券交易所股票代码：KKR）已同意收购 Arctos Partners，这是一家专业体育特许经营权和相关资产的专业投资者。该交易旨在通过 Arctos 的现有平台扩大 KKR 在体育、房地产和媒体版权方面的业务。",
-        "link": "https://finance.yahoo.com/news/kkr-leans-sports-arctos-deal-001825007.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1772929105,
+        "title": "Netflix Rival Strikes Deal With Google in Battle for AI Content",
+        "title_zh": "Netflix 竞争对手与谷歌达成协议，争夺人工智能内容",
+        "summary": "Media companies are going all-in on artificial intelligence to improve content recommendation tools and cut costs.",
+        "summary_zh": "媒体公司正在全力投入人工智能，以改进内容推荐工具并削减成本。",
+        "link": "https://www.barrons.com/articles/netflix-ai-canal-plus-google-45ae0899?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1773263520,
         "type": "News"
     },
     {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
+        "title": "Papa John’s Stock Jumps on Reported Takeover Bid",
+        "title_zh": "棒约翰股价因收购要约而上涨",
+        "summary": "Shares of  Papa John’s International  jumped sharply Wednesday after a report that the pizza chain has attracted fresh takeover interest.",
+        "summary_zh": "棒约翰国际公司的股价周三大幅上涨，此前有报道称这家披萨连锁店吸引了新的收购兴趣。",
+        "link": "https://www.barrons.com/articles/papa-johns-stock-jumps-reported-takeover-bid-ca9a817d?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1773263280,
+        "type": "News"
+    },
+    {
+        "title": "Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund",
+        "title_zh": "棒约翰吸引了卡塔尔支持的基金的新收购兴趣",
+        "summary": "A Qatari-backed investment fund has submitted a bid to take pizza chain  Papa John’s International  private, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，一家卡塔尔支持的投资基金已提交收购披萨连锁店棒约翰国际 (Papa John’s International) 私有化的报价。",
+        "link": "https://www.wsj.com/business/deals/papa-johns-draws-fresh-takeover-interest-85f6490a?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773260820,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet Closes $32B Acquisition of Cybersecurity Firm Wiz",
+        "title_zh": "Alphabet 以 32B 美元完成对网络安全公司 Wiz 的收购",
+        "summary": "Deal marks the largest acquisition in Google's history and expands cloud security capabilities.",
+        "summary_zh": "该交易标志着谷歌历史上最大的收购，并扩展了云安全能力。",
+        "link": "https://finance.yahoo.com/news/alphabet-closes-32b-acquisition-cybersecurity-190344430.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1773255824,
         "type": "News"
     }
 ]
