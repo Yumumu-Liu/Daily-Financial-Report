@@ -1,8 +1,28 @@
 [
     {
+        "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
+        "title_zh": "战争打破了数十年的策略，投资者纷纷寻求对冲",
+        "summary": "Government bonds, which typically rise during periods of market stress to cushion equity losses, are now moving in the same direction with stocks as oil markets are going through unprecedented turmoil.",
+        "summary_zh": "政府债券通常会在市场压力时期上涨以缓冲股票损失，但随着石油市场正在经历前所未有的动荡，政府债券现在正与股票走势相同。",
+        "link": "https://finance.yahoo.com/news/investors-hunt-hedges-war-shatters-230000716.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773381895,
+        "type": "News"
+    },
+    {
+        "title": "Apple cuts China App Store commission fees after government pressure",
+        "title_zh": "苹果在政府压力下削减中国应用商店佣金",
+        "summary": "Apple said on Thursday it would lower the commission fees collected by the company from its App Store in mainland China in a huge win for Chinese developers following apparent pressure from regulators in the ‌U.S. tech giant's second-largest market.",
+        "summary_zh": "苹果周四表示，在美国监管机构施加明显压力后，将降低该公司从中国大陆应用商店收取的佣金，这对中国开发商来说是一个巨大的胜利。科技巨头的第二大市场。",
+        "link": "https://finance.yahoo.com/news/apple-cuts-china-app-store-052943883.html",
+        "publisher": "Reuters",
+        "publish_time": 1773379783,
+        "type": "News"
+    },
+    {
         "title": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports",
         "title_zh": "据《纽约时报》报道，Meta 将人工智能模型“Avocado”的推出时间推至 5 月或更晚",
-        "summary": "Meta has postponed the release of its artificial intelligence model \"Avocado\" to at least May, from this ‌month, the New York Times reported on Thursday, citing sources.",
+        "summary": "Meta has postponed the release of its artificial intelligence model \"Avocado\" to at least May, from this month, ‌the New York Times reported on Thursday, citing sources.",
         "summary_zh": "据《纽约时报》周四援引消息人士称，Meta 已将其人工智能模型“Avocado”的发布从本月起至少推迟到 5 月。",
         "link": "https://finance.yahoo.com/news/meta-delays-rollout-ai-model-235602299.html",
         "publisher": "Reuters",
@@ -10,23 +30,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after stocks sink to lowest levels since November",
-        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货在股市跌至 11 月以来最低水平后上涨",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after stocks sink to lowest levels since November",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货在股市跌至 11 月以来最低水平后下跌",
         "summary": "Oil prices continue to surge as the Iran war escalates, damaging supply chains across the region.",
         "summary_zh": "随着伊朗战争升级，石油价格继续飙升，损害了整个地区的供应链。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-after-stocks-sink-to-lowest-levels-since-november-225332094.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-stocks-sink-to-lowest-levels-since-november-225332162.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773356012,
-        "type": "News"
-    },
-    {
-        "title": "Amazon plans to move Prime Day event to June from July, Bloomberg News reports",
-        "title_zh": "据彭博社报道，亚马逊计划将 Prime Day 活动从 7 月移至 6 月",
-        "summary": "March 12 (Reuters) - Amazon.com is planning to move its Prime Day sale event up to late June, Bloomberg News reported on Thursday, marking a rare shift in calendar for the critical, decade-old",
-        "summary_zh": "路透 3 月 12 日 - 据彭博社周四报道，亚马逊计划将 Prime Day 促销活动推迟至 6 月下旬，这标志着长达 10 年之久的关键日历的罕见转变",
-        "link": "https://finance.yahoo.com/news/amazon-plans-move-prime-day-222855584.html",
-        "publisher": "Reuters",
-        "publish_time": 1773354832,
         "type": "News"
     },
     {
@@ -61,7 +71,7 @@
     },
     {
         "title": "S&P Weighs Rule Changes That Would Speed SpaceX’s S&P 500 Entry",
-        "title_zh": "标准普尔正在权衡规则变化，以加快 SpaceX 进入标准普尔 500 指数的速度",
+        "title_zh": "标准普尔正在考虑规则变更，以加快 SpaceX 进入标准普尔 500 指数的速度",
         "summary": "Funds that track the index must buy newly added stocks, and roughly $24 trillion is tied to the S&P 500, according to Bloomberg Intelligence.  Any change to the S&P 500’s rules would be momentous.  A spokesperson for SpaceX didn’t immediately respond to a request for comment.",
         "summary_zh": "据 Bloomberg Intelligence 称，跟踪该指数的基金必须购买新增股票，大约 24 万亿美元与标准普尔 500 指数挂钩。  标准普尔 500 指数规则的任何改变都将是重大的。  SpaceX 发言人没有立即回应置评请求。",
         "link": "https://finance.yahoo.com/news/p-weighs-rule-changes-speed-195942921.html",
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/video/energy-etf-extends-record-run-183025749.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1773340225,
-        "type": "News"
-    },
-    {
-        "title": "Atlassian job cuts raise the question: Is AI driving layoffs?",
-        "title_zh": "Atlassian 裁员引发了一个问题：人工智能是否会导致裁员？",
-        "summary": "Atlassian (TEAM) plans to cut about 10% of its workforce as it shifts more resources toward artificial intelligence (AI).",
-        "summary_zh": "Atlassian (TEAM) 计划裁员约 10%，以将更多资源转向人工智能 (AI)。",
-        "link": "https://finance.yahoo.com/video/atlassian-job-cuts-raise-ai-163000380.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773333000,
         "type": "News"
     }
 ]
