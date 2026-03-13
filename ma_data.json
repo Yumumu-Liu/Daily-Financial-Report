@@ -1,5 +1,25 @@
 [
     {
+        "title": "Banks Prepare $7.15 Billion Debt Deal for Sealed Air Buyout",
+        "title_zh": "银行为 Sealed Air 收购准备 71.5 亿美元债务交易",
+        "summary": "Lenders including JPMorgan are gauging investor demand for loans and bonds backing Clayton Dubilier & Rice's Sealed Air acquisition.",
+        "summary_zh": "包括摩根大通在内的贷款机构正在评估投资者对支持 Clayton Dubilier & Rice 收购 Sealed Air 的贷款和债券的需求。",
+        "link": "https://finance.yahoo.com/news/banks-prepare-7-15-billion-204555246.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1773348355,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce surges 3% on $25 billion debt offering to fund massive share buyback",
+        "title_zh": "Salesforce 股价飙升 3%，发行 250 亿美元债券为大规模股票回购提供资金",
+        "summary": "The cloud software giant said it will deploy all net proceeds from the debt issuance into ASR transactions with certain financial institution counterparties, with prepayment and initial share delivery expected to occur on March 16, 2026.",
+        "summary_zh": "这家云软件巨头表示，将把债券发行的所有净收益用于与某些金融机构交易对手的 ASR 交易，预付款和首次股份交付预计将于 2026 年 3 月 16 日进行。",
+        "link": "https://finance.yahoo.com/news/salesforce-surges-3-25-billion-161602705.html",
+        "publisher": "Investing.com",
+        "publish_time": 1773332162,
+        "type": "News"
+    },
+    {
         "title": "Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund",
         "title_zh": "棒约翰吸引了卡塔尔支持的基金的新收购兴趣",
         "summary": "A Qatari-backed investment fund has submitted a bid to take pizza chain  Papa John’s International  private, according to people familiar with the matter.",
@@ -7,26 +27,6 @@
         "link": "https://www.wsj.com/business/deals/papa-johns-draws-fresh-takeover-interest-85f6490a?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1773297120,
-        "type": "News"
-    },
-    {
-        "title": "Uber’s Zoox deal latest in broad autonomous vehicle push",
-        "title_zh": "Uber 与 Zoox 达成广泛自动驾驶汽车推广的最新交易",
-        "summary": "Uber just announced a partnership with Zoox, Amazon’s robotaxi subsidiary, and the stock jumped nearly 3% on the news. Market analyst Jason John summed it up cleanly: “It’s another example of their foray into the AV business. I mean, this is one of many deals.",
-        "summary_zh": "Uber 刚刚宣布与亚马逊 Robotaxi 子公司 Zoox 建立合作伙伴关系，消息传出后，该股股价上涨近 3%。市场分析师 Jason John 简洁地总结道：“这是他们进军 AV 业务的另一个例子。我的意思是，这是众多交易之一。”",
-        "link": "https://finance.yahoo.com/news/uber-zoox-deal-latest-broad-023708085.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1773283028,
-        "type": "News"
-    },
-    {
-        "title": "Netflix Rival Strikes Deal With Google in Battle for AI Content",
-        "title_zh": "Netflix 竞争对手与谷歌达成协议，争夺人工智能内容",
-        "summary": "Media companies are going all-in on artificial intelligence to improve content recommendation tools and cut costs.",
-        "summary_zh": "媒体公司正在全力投入人工智能，以改进内容推荐工具并削减成本。",
-        "link": "https://www.barrons.com/articles/netflix-ai-canal-plus-google-45ae0899?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1773263520,
         "type": "News"
     },
     {
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Salesforce Gears Up For Massive Bond Deal",
-        "title_zh": "Salesforce 准备进行大规模债券交易",
-        "summary": "Funding tied to major buyback plan",
-        "summary_zh": "与重大回购计划相关的资金",
-        "link": "https://finance.yahoo.com/news/salesforce-gears-massive-bond-deal-150106870.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1773241266,
+        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
+        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
+        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
+        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
+        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1773153881,
         "type": "News"
     }
 ]
