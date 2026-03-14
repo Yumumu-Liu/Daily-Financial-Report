@@ -1,92 +1,92 @@
 [
     {
-        "title": "Investors Hunt for Hedges as War Shatters Decades-Old Strategies",
-        "title_zh": "战争打破了数十年的策略，投资者纷纷寻求对冲",
-        "summary": "Government bonds, which typically rise during periods of market stress to cushion equity losses, are now moving in the same direction with stocks as oil markets are going through unprecedented turmoil.",
-        "summary_zh": "政府债券通常会在市场压力时期上涨以缓冲股票损失，但随着石油市场正在经历前所未有的动荡，政府债券现在正与股票走势相同。",
-        "link": "https://finance.yahoo.com/news/investors-hunt-hedges-war-shatters-230000716.html",
+        "title": "Exclusive-Meta planning sweeping layoffs as AI costs mount",
+        "title_zh": "随着人工智能成本上升，Meta 计划大规模裁员",
+        "summary": "Meta is planning sweeping layoffs that could affect 20% or more of the company, three sources familiar with the matter told Reuters, as ‌Meta seeks to offset costly artificial intelligence infrastructure bets and prepare for greater efficiency brought about by AI-assisted work...",
+        "summary_zh": "三名知情人士告诉路透社，Meta 正在计划大规模裁员，这可能会影响公司 20% 或更多的员工，因为 Meta 寻求抵消昂贵的人工智能基础设施投资，并为人工智能辅助工作带来的更高效率做好准备……",
+        "link": "https://finance.yahoo.com/news/exclusive-meta-planning-sweeping-layoffs-001705452.html",
+        "publisher": "Reuters",
+        "publish_time": 1773447425,
+        "type": "News"
+    },
+    {
+        "title": "Epstein Orbited Peter Thiel for Years Over Money, Connections and Advice",
+        "title_zh": "多年来，爱泼斯坦一直在金钱、人脉和建议上围绕着彼得·泰尔",
+        "summary": "Epstein added in the 2015 message. “If I was intimidated by bad press, I would not have gotten anywhere in life... But I do hope that you’re holding up well, and that the cycle won’t go much further,” Thiel responded.",
+        "summary_zh": "爱泼斯坦在 2015 年的消息中补充道。 “如果我被负面新闻吓倒，我的人生就一事无成……但我确实希望你能坚持下去，这样的循环不会走得更远，”蒂尔回应道。",
+        "link": "https://finance.yahoo.com/news/epstein-orbited-peter-thiel-years-210330091.html",
         "publisher": "Bloomberg",
-        "publish_time": 1773381895,
+        "publish_time": 1773435810,
         "type": "News"
     },
     {
-        "title": "Apple cuts China App Store commission fees after government pressure",
-        "title_zh": "苹果在政府压力下削减中国应用商店佣金",
-        "summary": "Apple said on Thursday it would lower the commission fees collected by the company from its App Store in mainland China in a huge win for Chinese developers following apparent pressure from regulators in the ‌U.S. tech giant's second-largest market.",
-        "summary_zh": "苹果周四表示，在美国监管机构施加明显压力后，将降低该公司从中国大陆应用商店收取的佣金，这对中国开发商来说是一个巨大的胜利。科技巨头的第二大市场。",
-        "link": "https://finance.yahoo.com/news/apple-cuts-china-app-store-052943883.html",
-        "publisher": "Reuters",
-        "publish_time": 1773379783,
-        "type": "News"
-    },
-    {
-        "title": "Meta pushes AI model 'Avocado' rollout to May or later, NYT reports",
-        "title_zh": "据《纽约时报》报道，Meta 将人工智能模型“Avocado”的推出时间推至 5 月或更晚",
-        "summary": "Meta has postponed the release of its artificial intelligence model \"Avocado\" to at least May, from this month, ‌the New York Times reported on Thursday, citing sources.",
-        "summary_zh": "据《纽约时报》周四援引消息人士称，Meta 已将其人工智能模型“Avocado”的发布从本月起至少推迟到 5 月。",
-        "link": "https://finance.yahoo.com/news/meta-delays-rollout-ai-model-235602299.html",
-        "publisher": "Reuters",
-        "publish_time": 1773359762,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after stocks sink to lowest levels since November",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货在股市跌至 11 月以来最低水平后下跌",
-        "summary": "Oil prices continue to surge as the Iran war escalates, damaging supply chains across the region.",
-        "summary_zh": "随着伊朗战争升级，石油价格继续飙升，损害了整个地区的供应链。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-stocks-sink-to-lowest-levels-since-november-225332162.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slide to cap 3rd week of losses as $100 oil sparks inflation fears",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数连续第三周下跌，因 100 美元油价引发通胀担忧",
+        "summary": "Wall Street is weighing whether sticky inflation and a slowing economy make the case for a Fed rate cut.",
+        "summary_zh": "华尔街正在权衡粘性通胀和经济放缓是否有理由支持美联储降息。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-cap-3rd-week-of-losses-as-100-oil-sparks-inflation-fears-200021158.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773356012,
+        "publish_time": 1773432021,
         "type": "News"
     },
     {
-        "title": "Stryker flags disruption to orders, manufacturing a day after cyberattack",
-        "title_zh": "网络攻击一天后，史赛克 (Stryker) 表示订单和生产中断",
-        "summary": "March 12 () - Medical device maker Stryker said on Thursday a cyberattack that ‌hit its computer systems a day ‌earlier is causing widespread disruption to its business, including ​its ability to process orders, make products and ship them to customers.",
-        "summary_zh": "3 月 12 日 () - 医疗设备制造商史赛克 (Stryker) 周四表示，一天前袭击其计算机系统的网络攻击正在对其业务造成广泛干扰，包括其处理订单、制造产品并将其运送给客户的能力。",
-        "link": "https://finance.yahoo.com/news/stryker-flags-disruption-orders-manufacturing-220040586.html",
-        "publisher": "Reuters",
-        "publish_time": 1773353022,
-        "type": "News"
-    },
-    {
-        "title": "SentinelOne's quarterly profit forecast falls short of estimates amid stiff competition",
-        "title_zh": "竞争激烈，SentinelOne季度盈利预测不及预期",
-        "summary": "Cybersecurity firm SentinelOne forecast quarterly profit below Wall Street estimates on Thursday, signaling a cautious stance ‌amid intense competition from larger rivals and a finance leadership ‌transition.",
-        "summary_zh": "网络安全公司 SentinelOne 周四预测季度利润低于华尔街预期，这表明在来自较大竞争对手的激烈竞争和财务领导层过渡的情况下采取谨慎立场。",
-        "link": "https://finance.yahoo.com/news/sentinelones-quarterly-profit-forecast-falls-210337460.html",
-        "publisher": "Reuters",
-        "publish_time": 1773349417,
-        "type": "News"
-    },
-    {
-        "title": "Tech Giants Hover on Cusp of a Correction as War Heats Up",
-        "title_zh": "随着战争升温，科技巨头徘徊在调整的风口浪尖",
-        "summary": "Bloomberg’s gauge of Magnificent Seven companies — which includes titans like Nvidia Corp., Apple Inc. and Tesla Inc. — closed  lower and is close to being down 10% from its October peak.",
-        "summary_zh": "彭博社对七大公司（包括英伟达公司、苹果公司和特斯拉公司等巨头）的指数收盘走低，较 10 月份的峰值下跌了近 10%。",
-        "link": "https://finance.yahoo.com/news/tech-giants-hover-cusp-correction-180510747.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773346461,
-        "type": "News"
-    },
-    {
-        "title": "S&P Weighs Rule Changes That Would Speed SpaceX’s S&P 500 Entry",
-        "title_zh": "标准普尔正在考虑规则变更，以加快 SpaceX 进入标准普尔 500 指数的速度",
-        "summary": "Funds that track the index must buy newly added stocks, and roughly $24 trillion is tied to the S&P 500, according to Bloomberg Intelligence.  Any change to the S&P 500’s rules would be momentous.  A spokesperson for SpaceX didn’t immediately respond to a request for comment.",
-        "summary_zh": "据 Bloomberg Intelligence 称，跟踪该指数的基金必须购买新增股票，大约 24 万亿美元与标准普尔 500 指数挂钩。  标准普尔 500 指数规则的任何改变都将是重大的。  SpaceX 发言人没有立即回应置评请求。",
-        "link": "https://finance.yahoo.com/news/p-weighs-rule-changes-speed-195942921.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773345582,
-        "type": "News"
-    },
-    {
-        "title": "Energy ETF extends record run, Firefly Aerospace's successful launch",
-        "title_zh": "能源ETF延续创纪录运行，萤火虫航天成功推出",
-        "summary": "Yahoo Finance anchor Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute. US stocks move lower as oil prices rise, with conflict in the Middle East spooking investors.",
-        "summary_zh": "雅虎财经主播乔什·利普顿 (Josh Lipton) 在本《市场分钟》中追踪当今走势最强劲的股票和最大的市场故事。随着油价上涨，美国股市走低，中东冲突令投资者感到不安。",
-        "link": "https://finance.yahoo.com/video/energy-etf-extends-record-run-183025749.html",
+        "title": "Meta AI model delays, GDP growth slows, Boeing 737 Max jet delays",
+        "title_zh": "Meta AI 模型延迟、GDP 增长放缓、波音 737 Max 喷气式飞机延迟",
+        "summary": "Yahoo Finance anchor Josh Lipton tracks Friday's top moving stocks and biggest market stories in this Market Minute. Fourth quarter gross domestic product (GDP) growth slowed more than economists expected.",
+        "summary_zh": "雅虎财经主播乔什·利普顿 (Josh Lipton) 在本《市场分钟》中追踪周五走势最强劲的股票和最大的市场故事。第四季度国内生产总值（GDP）增长放缓幅度超过经济学家的预期。",
+        "link": "https://finance.yahoo.com/video/meta-ai-model-delays-gdp-183312039.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1773340225,
+        "publish_time": 1773426792,
+        "type": "News"
+    },
+    {
+        "title": "Will the Iran war deter sovereign investments?",
+        "title_zh": "伊朗战争会阻碍主权投资吗？",
+        "summary": "Laffer Tengler Investments CEO and CIO Nancy Tengler weighs in on whether the Iran war could influence or deter sovereign investment spending, especially for the AI ecosystem and Nvidia (NVDA).",
+        "summary_zh": "Laffer Tengler Investments 首席执行官兼首席信息官 Nancy Tengler 就伊朗战争是否会影响或阻止主权投资支出，特别是人工智能生态系统和 Nvidia (NVDA) 的投资支出发表了看法。",
+        "link": "https://finance.yahoo.com/video/iran-war-deter-sovereign-investments-155009508.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1773426609,
+        "type": "News"
+    },
+    {
+        "title": "GDP revives rate cut bets, Amazon to hike prices for ad-free Prime",
+        "title_zh": "GDP重振降息押注，亚马逊将提高无广告 Prime 价格",
+        "summary": "Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including how the bond market (^TYX, ^TNX, ^FVX) is reviving hopes of a 2026 interest rate cut from the Federal Reserve and Amazon (AMZN) announcing plans to raise su...",
+        "summary_zh": "雅虎财经的约翰·海兰 (John Hyland) 在本《市场分钟》中追踪当今走势最强劲的股票和最大的市场故事，包括债券市场 (^TYX、^TNX、^FVX) 如何重燃美联储 2026 年降息的希望，以及亚马逊 (AMZN) 宣布计划筹集资金...",
+        "link": "https://finance.yahoo.com/video/gdp-revives-rate-cut-bets-170956663.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1773421796,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street is 'asleep at the wheel,' but there is 'good news'",
+        "title_zh": "华尔街“在方向盘上睡着了”，但有“好消息”",
+        "summary": "Portfolio Wealth Advisors president and chief investment officer Lee Munson sits down with Opening Bid host Brian Sozzi to discuss market (^DJI, ^GSPC, ^IXIC) reactions to the ongoing oil (CL=F, BZ=F) shortage, and the philosophy of \"crisis investing.\" To watch more expert ins...",
+        "summary_zh": "Portfolio Wealth Advisors 总裁兼首席投资官 Lee Munson 与 Opening Bid 主持人 Brian Sozzi 坐下来讨论市场（^DJI、^GSPC、^IXIC）对持续石油（CL=F、BZ=F）短缺的反应以及“危机投资”的理念。观看更...",
+        "link": "https://finance.yahoo.com/video/wall-street-asleep-wheel-good-144657309.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1773413217,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: Nvidia's Huang kicks off GTC Monday, Adobe CEO stepping down",
+        "title_zh": "今日科技股：Nvidia 黄仁勋周一启动 GTC，Adobe 首席执行官辞职",
+        "summary": "Live coverage of \"Magnificent Seven\" stocks, and the latest technology news.",
+        "summary_zh": "直播报道“七大”个股，以及最新科技新闻。",
+        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidias-huang-kicks-off-gtc-monday-adobe-ceo-stepping-down-144220997.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773412940,
+        "type": "News"
+    },
+    {
+        "title": "Why investors shouldn't chase oil price spikes as the Iran war continues",
+        "title_zh": "为什么随着伊朗战争的继续，投资者不应追逐油价飙升",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are seeing gains Friday morning as oil prices (CL=F, BZ=F) pull back slightly, but remain at elevated levels shy of $100 per barrel.",
+        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）周五上午上涨，因油价（CL=F、BZ=F）小幅回落，但仍维持在每桶 100 美元以下的高位。",
+        "link": "https://finance.yahoo.com/video/why-investors-shouldnt-chase-oil-140928047.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1773410968,
         "type": "News"
     }
 ]

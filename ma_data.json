@@ -1,12 +1,32 @@
 [
     {
-        "title": "Banks Prepare $7.15 Billion Debt Deal for Sealed Air Buyout",
-        "title_zh": "银行为 Sealed Air 收购准备 71.5 亿美元债务交易",
-        "summary": "Lenders including JPMorgan are gauging investor demand for loans and bonds backing Clayton Dubilier & Rice's Sealed Air acquisition.",
-        "summary_zh": "包括摩根大通在内的贷款机构正在评估投资者对支持 Clayton Dubilier & Rice 收购 Sealed Air 的贷款和债券的需求。",
-        "link": "https://finance.yahoo.com/news/banks-prepare-7-15-billion-204555246.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1773348355,
+        "title": "Trump administration set to receive $10 billion ‘fee’ for brokering TikTok deal",
+        "title_zh": "特朗普政府将因 TikTok 交易收取 100 亿美元“费用”",
+        "summary": "Investing.com — The Trump administration is poised to receive a roughly $10 billion \"brokerage\" fee from the investor group that recently took control of TikTok’s U.S. operations, according to a report by the Wall Street Journal.",
+        "summary_zh": "Investing.com——据《华尔街日报》报道，特朗普政府准备从最近控制 TikTok 美国业务的投资集团那里获得约 100 亿美元的“经纪”费。",
+        "link": "https://finance.yahoo.com/news/trump-administration-set-receive-10-025159978.html",
+        "publisher": "Investing.com",
+        "publish_time": 1773456719,
+        "type": "News"
+    },
+    {
+        "title": "US to Receive $10 Billion Fee for TikTok Deal, WSJ Reports",
+        "title_zh": "《华尔街日报》报道，美国将因 TikTok 交易收取 100 亿美元费用",
+        "summary": "A federal law required TikTok to either be shut down in the US or sold to domestic owners at the beginning of President Donald Trump’s second term.  The White House did not immediately respond to a request for comment, but Trump had previously alluded to such a fee.",
+        "summary_zh": "一项联邦法律要求 TikTok 在美国被关闭，或者在唐纳德·特朗普总统第二任期开始时出售给国内所有者。  白宫没有立即回应置评请求，但特朗普此前曾提到过此类费用。",
+        "link": "https://finance.yahoo.com/news/us-receive-10-billion-fee-222905291.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1773440945,
+        "type": "News"
+    },
+    {
+        "title": "Applied Optoelectronics’ (AAOI) Mega $200 Million Deal Catches Analyst Attention",
+        "title_zh": "应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注",
+        "summary": "Applied Optoelectronics, Inc. (NASDAQ:AAOI) is one of the 11 Best Day Trading Stocks to Buy Now. Financial firm Rosenblatt discussed Applied Optoelectronics, Inc. (NASDAQ:AAOI)’s shares on March 9th, according to The Fly.",
+        "summary_zh": "应用光电公司（纳斯达克股票代码：AAOI）是 11 只最值得立即买入的日内交易股票之一。据 The Fly 报道，金融公司 Rosenblatt 于 3 月 9 日讨论了应用光电公司（纳斯达克股票代码：AAOI）的股票。",
+        "link": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-mega-200-185037517.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1773427837,
         "type": "News"
     },
     {
@@ -17,26 +37,6 @@
         "link": "https://finance.yahoo.com/news/salesforce-surges-3-25-billion-161602705.html",
         "publisher": "Investing.com",
         "publish_time": 1773332162,
-        "type": "News"
-    },
-    {
-        "title": "Papa John’s Draws Fresh Takeover Interest From Qatari-Backed Fund",
-        "title_zh": "棒约翰吸引了卡塔尔支持的基金的新收购兴趣",
-        "summary": "A Qatari-backed investment fund has submitted a bid to take pizza chain  Papa John’s International  private, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，一家卡塔尔支持的投资基金已提交收购披萨连锁店棒约翰国际 (Papa John’s International) 私有化的报价。",
-        "link": "https://www.wsj.com/business/deals/papa-johns-draws-fresh-takeover-interest-85f6490a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1773297120,
-        "type": "News"
-    },
-    {
-        "title": "Papa John’s Stock Jumps on Reported Takeover Bid",
-        "title_zh": "棒约翰股价因收购要约而上涨",
-        "summary": "Shares of  Papa John’s International  jumped sharply Wednesday after a report that the pizza chain has attracted fresh takeover interest.",
-        "summary_zh": "棒约翰国际公司的股价周三大幅上涨，此前有报道称这家披萨连锁店吸引了新的收购兴趣。",
-        "link": "https://www.barrons.com/articles/papa-johns-stock-jumps-reported-takeover-bid-ca9a817d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1773263280,
         "type": "News"
     },
     {
