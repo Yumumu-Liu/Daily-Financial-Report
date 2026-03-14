@@ -10,16 +10,6 @@
         "type": "News"
     },
     {
-        "title": "Epstein Orbited Peter Thiel for Years Over Money, Connections and Advice",
-        "title_zh": "多年来，爱泼斯坦一直在金钱、人脉和建议上围绕着彼得·泰尔",
-        "summary": "Epstein added in the 2015 message. “If I was intimidated by bad press, I would not have gotten anywhere in life... But I do hope that you’re holding up well, and that the cycle won’t go much further,” Thiel responded.",
-        "summary_zh": "爱泼斯坦在 2015 年的消息中补充道。 “如果我被负面新闻吓倒，我的人生就一事无成……但我确实希望你能坚持下去，这样的循环不会走得更远，”蒂尔回应道。",
-        "link": "https://finance.yahoo.com/news/epstein-orbited-peter-thiel-years-210330091.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773435810,
-        "type": "News"
-    },
-    {
         "title": "Stock market today: Dow, S&P 500, Nasdaq slide to cap 3rd week of losses as $100 oil sparks inflation fears",
         "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数连续第三周下跌，因 100 美元油价引发通胀担忧",
         "summary": "Wall Street is weighing whether sticky inflation and a slowing economy make the case for a Fed rate cut.",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/why-investors-shouldnt-chase-oil-140928047.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1773410968,
+        "type": "News"
+    },
+    {
+        "title": "Market uncertainty could lead to bond market 'fall-out'",
+        "title_zh": "市场不确定性可能导致债券市场“崩溃”",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) have been volatile as oil (CL=F, BZ=F) prices continue to spike.",
+        "summary_zh": "由于石油（CL=F，BZ=F）价格持续飙升，美国股市（^DJI、^IXIC、^GSPC）一直波动。",
+        "link": "https://finance.yahoo.com/video/market-uncertainty-could-lead-bond-110002102.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1773399602,
         "type": "News"
     }
 ]

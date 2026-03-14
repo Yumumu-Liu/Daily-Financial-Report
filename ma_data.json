@@ -1,5 +1,45 @@
 [
     {
+        "title": "Amazon Announces Inference Chips Deal With Cerebras",
+        "title_zh": "亚马逊宣布与 Cerebras 达成推理芯片交易",
+        "summary": "Amazon Web Services plans to deploy processors designed by Cerebras inside its data centers, the latest vote of confidence in the startup, which specializes in chips that power artificial-intelligence models.",
+        "summary_zh": "亚马逊网络服务计划在其数据中心内部署 Cerebras 设计的处理器，这是对这家专门生产人工智能模型芯片的初创公司的最新信任票。",
+        "link": "https://www.wsj.com/tech/amazon-announces-inference-chips-deal-with-cerebras-109ecd31?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773469920,
+        "type": "News"
+    },
+    {
+        "title": "Does Goldman Sachs (GS) Offer Value After Recent Share Price Pullback?",
+        "title_zh": "高盛 (GS) 在近期股价回调后是否具有价值？",
+        "summary": "If you are wondering whether Goldman Sachs Group's current share price lines up with its underlying worth, you are not alone. This article is here to unpack what the market might be pricing in.",
+        "summary_zh": "如果您想知道高盛集团当前的股价是否与其潜在价值相符，那么您并不孤单。本文旨在揭示市场可能定价的内容。",
+        "link": "https://finance.yahoo.com/news/does-goldman-sachs-gs-offer-042429464.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773462269,
+        "type": "News"
+    },
+    {
+        "title": "Ecuador trade deal: Trump administration targets lower food and tech levies",
+        "title_zh": "厄瓜多尔贸易协议：特朗普政府目标是降低食品和科技税",
+        "summary": "Investing.com — U.S. Trade Representative Jamieson Greer signed a finalized trade agreement with Ecuador on Friday, reducing tariffs across several industrial and agricultural sectors as the Trump administration continues to overhaul its Western Hemisphere trade strategy.",
+        "summary_zh": "Investing.com——随着特朗普政府继续改革其西半球贸易战略，美国贸易代表杰米森·格里尔周五与厄瓜多尔签署了最终贸易协议，降低了多个工业和农业部门的关税。",
+        "link": "https://finance.yahoo.com/news/ecuador-trade-deal-trump-administration-033823470.html",
+        "publisher": "Investing.com",
+        "publish_time": 1773459503,
+        "type": "News"
+    },
+    {
+        "title": "Is KKR’s (KKR) Deal Juggling Amid Liquidity Strains Reframing Its Private Markets Playbook?",
+        "title_zh": "KKR (KKR) 在流动性紧张的情况下进行的交易是否正在重新制定其私募市场策略？",
+        "summary": "In recent days, KKR has reportedly joined the bidding for Pacific Equity Partners-owned UP Education, which could fetch more than A$1.00 billion, while also exploring a potential sale of liquid-cooling provider CoolIT Systems in a deal that may exceed US$3.00 billion.",
+        "summary_zh": "据报道，最近几天，KKR 加入了对 Pacific Equity Partners 旗下的 UP Education 的竞购，该交易的售价可能超过 10 亿澳元，同时还在探索出售液冷供应商 CoolIT Systems 的可能性，交易金额可能超过 30 亿美元。",
+        "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773457884,
+        "type": "News"
+    },
+    {
         "title": "Trump administration set to receive $10 billion ‘fee’ for brokering TikTok deal",
         "title_zh": "特朗普政府将因 TikTok 交易收取 100 亿美元“费用”",
         "summary": "Investing.com — The Trump administration is poised to receive a roughly $10 billion \"brokerage\" fee from the investor group that recently took control of TikTok’s U.S. operations, according to a report by the Wall Street Journal.",
@@ -7,46 +47,6 @@
         "link": "https://finance.yahoo.com/news/trump-administration-set-receive-10-025159978.html",
         "publisher": "Investing.com",
         "publish_time": 1773456719,
-        "type": "News"
-    },
-    {
-        "title": "US to Receive $10 Billion Fee for TikTok Deal, WSJ Reports",
-        "title_zh": "《华尔街日报》报道，美国将因 TikTok 交易收取 100 亿美元费用",
-        "summary": "A federal law required TikTok to either be shut down in the US or sold to domestic owners at the beginning of President Donald Trump’s second term.  The White House did not immediately respond to a request for comment, but Trump had previously alluded to such a fee.",
-        "summary_zh": "一项联邦法律要求 TikTok 在美国被关闭，或者在唐纳德·特朗普总统第二任期开始时出售给国内所有者。  白宫没有立即回应置评请求，但特朗普此前曾提到过此类费用。",
-        "link": "https://finance.yahoo.com/news/us-receive-10-billion-fee-222905291.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1773440945,
-        "type": "News"
-    },
-    {
-        "title": "Applied Optoelectronics’ (AAOI) Mega $200 Million Deal Catches Analyst Attention",
-        "title_zh": "应用光电 (AAOI) 2 亿美元的巨额交易引起了分析师的关注",
-        "summary": "Applied Optoelectronics, Inc. (NASDAQ:AAOI) is one of the 11 Best Day Trading Stocks to Buy Now. Financial firm Rosenblatt discussed Applied Optoelectronics, Inc. (NASDAQ:AAOI)’s shares on March 9th, according to The Fly.",
-        "summary_zh": "应用光电公司（纳斯达克股票代码：AAOI）是 11 只最值得立即买入的日内交易股票之一。据 The Fly 报道，金融公司 Rosenblatt 于 3 月 9 日讨论了应用光电公司（纳斯达克股票代码：AAOI）的股票。",
-        "link": "https://finance.yahoo.com/news/applied-optoelectronics-aaoi-mega-200-185037517.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1773427837,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce surges 3% on $25 billion debt offering to fund massive share buyback",
-        "title_zh": "Salesforce 股价飙升 3%，发行 250 亿美元债券为大规模股票回购提供资金",
-        "summary": "The cloud software giant said it will deploy all net proceeds from the debt issuance into ASR transactions with certain financial institution counterparties, with prepayment and initial share delivery expected to occur on March 16, 2026.",
-        "summary_zh": "这家云软件巨头表示，将把债券发行的所有净收益用于与某些金融机构交易对手的 ASR 交易，预付款和首次股份交付预计将于 2026 年 3 月 16 日进行。",
-        "link": "https://finance.yahoo.com/news/salesforce-surges-3-25-billion-161602705.html",
-        "publisher": "Investing.com",
-        "publish_time": 1773332162,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
-        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
-        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
-        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
-        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1773153881,
         "type": "News"
     }
 ]
