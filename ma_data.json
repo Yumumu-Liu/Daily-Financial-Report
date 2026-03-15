@@ -1,12 +1,32 @@
 [
     {
-        "title": "Amazon Announces Inference Chips Deal With Cerebras",
-        "title_zh": "亚马逊宣布与 Cerebras 达成推理芯片交易",
-        "summary": "Amazon Web Services plans to deploy processors designed by Cerebras inside its data centers, the latest vote of confidence in the startup, which specializes in chips that power artificial-intelligence models.",
-        "summary_zh": "亚马逊网络服务计划在其数据中心内部署 Cerebras 设计的处理器，这是对这家专门生产人工智能模型芯片的初创公司的最新信任票。",
-        "link": "https://www.wsj.com/tech/amazon-announces-inference-chips-deal-with-cerebras-109ecd31?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1773469920,
+        "title": "‘Peak war panic’ will likely hit financial markets in 1-3 weeks, strategist predicts, as Trump says he doesn’t want to make a deal with Iran yet",
+        "title_zh": "策略师预测，“战争恐慌高峰”可能会在 1-3 周内冲击金融市场，因为特朗普表示他还不想与伊朗达成协议",
+        "summary": "\"The end is not in sight. The Strait of Hormuz is effectively closed, and markets are starting to price in a prolonged, uncertain endgame.\"",
+        "summary_zh": "“结局还遥遥无期。霍尔木兹海峡实际上已经关闭，市场开始消化长期且不确定的结局。”",
+        "link": "https://finance.yahoo.com/news/peak-war-panic-likely-hit-205847401.html",
+        "publisher": "Fortune",
+        "publish_time": 1773531672,
+        "type": "News"
+    },
+    {
+        "title": "Trump administration to be paid $10bn for brokering TikTok deal",
+        "title_zh": "特朗普政府将因促成 TikTok 交易而获得 100 亿美元",
+        "summary": "Exceptionally rare ‘fee’ to be paid by investors who took control of US operations from Chinese parent company",
+        "summary_zh": "从中国母公司手中控制美国业务的投资者需要支付极其罕见的“费用”",
+        "link": "https://finance.yahoo.com/news/trump-administration-paid-10bn-brokering-171357679.html",
+        "publisher": "The Guardian",
+        "publish_time": 1773508437,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce AI Deal With Adecco Highlights Agentforce Potential And Valuation Gap",
+        "title_zh": "Salesforce AI 与 Adecco 的交易凸显了 Agentforce 的潜力和估值差距",
+        "summary": "Adecco Group has begun a global deployment of Salesforce Agentforce 360 and Voice across its recruitment operations. The expanded, multi-year partnership is designed to support a large scale, human centric AI transformation in how Adecco recruiters work.",
+        "summary_zh": "Adecco Group 已开始在其招聘业务中全球部署 Salesforce Agentforce 360​​ 和 Voice。此次扩大的多年合作伙伴关系旨在支持德科招聘人员工作方式的大规模、以人为本的人工智能转型。",
+        "link": "https://finance.yahoo.com/news/salesforce-ai-deal-adecco-highlights-100539328.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773482739,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/news/ecuador-trade-deal-trump-administration-033823470.html",
         "publisher": "Investing.com",
         "publish_time": 1773459503,
-        "type": "News"
-    },
-    {
-        "title": "Is KKR’s (KKR) Deal Juggling Amid Liquidity Strains Reframing Its Private Markets Playbook?",
-        "title_zh": "KKR (KKR) 在流动性紧张的情况下进行的交易是否正在重新制定其私募市场策略？",
-        "summary": "In recent days, KKR has reportedly joined the bidding for Pacific Equity Partners-owned UP Education, which could fetch more than A$1.00 billion, while also exploring a potential sale of liquid-cooling provider CoolIT Systems in a deal that may exceed US$3.00 billion.",
-        "summary_zh": "据报道，最近几天，KKR 加入了对 Pacific Equity Partners 旗下的 UP Education 的竞购，该交易的售价可能超过 10 亿澳元，同时还在探索出售液冷供应商 CoolIT Systems 的可能性，交易金额可能超过 30 亿美元。",
-        "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1773457884,
-        "type": "News"
-    },
-    {
-        "title": "Trump administration set to receive $10 billion ‘fee’ for brokering TikTok deal",
-        "title_zh": "特朗普政府将因 TikTok 交易收取 100 亿美元“费用”",
-        "summary": "Investing.com — The Trump administration is poised to receive a roughly $10 billion \"brokerage\" fee from the investor group that recently took control of TikTok’s U.S. operations, according to a report by the Wall Street Journal.",
-        "summary_zh": "Investing.com——据《华尔街日报》报道，特朗普政府准备从最近控制 TikTok 美国业务的投资集团那里获得约 100 亿美元的“经纪”费。",
-        "link": "https://finance.yahoo.com/news/trump-administration-set-receive-10-025159978.html",
-        "publisher": "Investing.com",
-        "publish_time": 1773456719,
         "type": "News"
     }
 ]

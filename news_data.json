@@ -1,92 +1,32 @@
 [
     {
-        "title": "Exclusive-Meta planning sweeping layoffs as AI costs mount",
-        "title_zh": "随着人工智能成本上升，Meta 计划大规模裁员",
-        "summary": "Meta is planning sweeping layoffs that could affect 20% or more of the company, three sources familiar with the matter told Reuters, as ‌Meta seeks to offset costly artificial intelligence infrastructure bets and prepare for greater efficiency brought about by AI-assisted work...",
-        "summary_zh": "三名知情人士告诉路透社，Meta 正在计划大规模裁员，这可能会影响公司 20% 或更多的员工，因为 Meta 寻求抵消昂贵的人工智能基础设施投资，并为人工智能辅助工作带来的更高效率做好准备……",
-        "link": "https://finance.yahoo.com/news/exclusive-meta-planning-sweeping-layoffs-001705452.html",
+        "title": "Musk says Tesla's mega AI chip fab project to launch in seven days",
+        "title_zh": "马斯克称特斯拉大型人工智能芯片工厂项目将于 7 天内启动",
+        "summary": "Tesla CEO Elon Musk said on Saturday that the company's Terafab project to make artificial ‌intelligence chips will launch in seven days. Musk had said ‌last year that Tesla probably will have to build \"a gigantic chip fab\" ​to make artificial intelligence chips.",
+        "summary_zh": "特斯拉首席执行官埃隆·马斯克 (Elon Musk) 周六表示，该公司制造人工智能芯片的 Terafab 项目将于 7 天内启动。马斯克去年曾表示，特斯拉可能必须建造“一座巨大的芯片工厂”来生产人工智能芯片。",
+        "link": "https://finance.yahoo.com/news/musk-says-teslas-gigantic-chip-140051836.html",
         "publisher": "Reuters",
-        "publish_time": 1773447425,
+        "publish_time": 1773496851,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq slide to cap 3rd week of losses as $100 oil sparks inflation fears",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克指数连续第三周下跌，因 100 美元油价引发通胀担忧",
-        "summary": "Wall Street is weighing whether sticky inflation and a slowing economy make the case for a Fed rate cut.",
-        "summary_zh": "华尔街正在权衡粘性通胀和经济放缓是否有理由支持美联储降息。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-to-cap-3rd-week-of-losses-as-100-oil-sparks-inflation-fears-200021158.html",
+        "title": "Rivian's base R2 starts at $45K but won't be available until late 2027",
+        "title_zh": "Rivian 的基础版 R2 起价为 4.5 万美元，但要到 2027 年底才会上市",
+        "summary": "Rivian revealed trim levels and pricing on Thursday for its highly anticipated R2 midsize electric SUV, but the version with Tesla Model Y-killer pricing won't be coming this year.",
+        "summary_zh": "Rivian 周四公布了其备受期待的 R2 中型电动 SUV 的内饰水平和定价，但具有特斯拉 Model Y 杀手级定价的版本今年不会推出。",
+        "link": "https://finance.yahoo.com/news/rivians-base-r2-starts-at-45k-but-wont-be-available-until-late-2027-150037000.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773432021,
+        "publish_time": 1773327637,
         "type": "News"
     },
     {
-        "title": "Meta AI model delays, GDP growth slows, Boeing 737 Max jet delays",
-        "title_zh": "Meta AI 模型延迟、GDP 增长放缓、波音 737 Max 喷气式飞机延迟",
-        "summary": "Yahoo Finance anchor Josh Lipton tracks Friday's top moving stocks and biggest market stories in this Market Minute. Fourth quarter gross domestic product (GDP) growth slowed more than economists expected.",
-        "summary_zh": "雅虎财经主播乔什·利普顿 (Josh Lipton) 在本《市场分钟》中追踪周五走势最强劲的股票和最大的市场故事。第四季度国内生产总值（GDP）增长放缓幅度超过经济学家的预期。",
-        "link": "https://finance.yahoo.com/video/meta-ai-model-delays-gdp-183312039.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773426792,
-        "type": "News"
-    },
-    {
-        "title": "Will the Iran war deter sovereign investments?",
-        "title_zh": "伊朗战争会阻碍主权投资吗？",
-        "summary": "Laffer Tengler Investments CEO and CIO Nancy Tengler weighs in on whether the Iran war could influence or deter sovereign investment spending, especially for the AI ecosystem and Nvidia (NVDA).",
-        "summary_zh": "Laffer Tengler Investments 首席执行官兼首席信息官 Nancy Tengler 就伊朗战争是否会影响或阻止主权投资支出，特别是人工智能生态系统和 Nvidia (NVDA) 的投资支出发表了看法。",
-        "link": "https://finance.yahoo.com/video/iran-war-deter-sovereign-investments-155009508.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773426609,
-        "type": "News"
-    },
-    {
-        "title": "GDP revives rate cut bets, Amazon to hike prices for ad-free Prime",
-        "title_zh": "GDP重振降息押注，亚马逊将提高无广告 Prime 价格",
-        "summary": "Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including how the bond market (^TYX, ^TNX, ^FVX) is reviving hopes of a 2026 interest rate cut from the Federal Reserve and Amazon (AMZN) announcing plans to raise su...",
-        "summary_zh": "雅虎财经的约翰·海兰 (John Hyland) 在本《市场分钟》中追踪当今走势最强劲的股票和最大的市场故事，包括债券市场 (^TYX、^TNX、^FVX) 如何重燃美联储 2026 年降息的希望，以及亚马逊 (AMZN) 宣布计划筹集资金...",
-        "link": "https://finance.yahoo.com/video/gdp-revives-rate-cut-bets-170956663.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773421796,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street is 'asleep at the wheel,' but there is 'good news'",
-        "title_zh": "华尔街“在方向盘上睡着了”，但有“好消息”",
-        "summary": "Portfolio Wealth Advisors president and chief investment officer Lee Munson sits down with Opening Bid host Brian Sozzi to discuss market (^DJI, ^GSPC, ^IXIC) reactions to the ongoing oil (CL=F, BZ=F) shortage, and the philosophy of \"crisis investing.\" To watch more expert ins...",
-        "summary_zh": "Portfolio Wealth Advisors 总裁兼首席投资官 Lee Munson 与 Opening Bid 主持人 Brian Sozzi 坐下来讨论市场（^DJI、^GSPC、^IXIC）对持续石油（CL=F、BZ=F）短缺的反应以及“危机投资”的理念。观看更...",
-        "link": "https://finance.yahoo.com/video/wall-street-asleep-wheel-good-144657309.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773413217,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Nvidia's Huang kicks off GTC Monday, Adobe CEO stepping down",
-        "title_zh": "今日科技股：Nvidia 黄仁勋周一启动 GTC，Adobe 首席执行官辞职",
-        "summary": "Live coverage of \"Magnificent Seven\" stocks, and the latest technology news.",
-        "summary_zh": "直播报道“七大”个股，以及最新科技新闻。",
-        "link": "https://finance.yahoo.com/news/live/tech-stocks-today-nvidias-huang-kicks-off-gtc-monday-adobe-ceo-stepping-down-144220997.html",
+        "title": "It takes more than Nvidia's chips to build the world's data centers",
+        "title_zh": "构建全球数据中心需要的不仅仅是 Nvidia 的芯片",
+        "summary": "Nvidia is winning the AI race thanks to its chips, but it needs partners to build the data centers that use them.",
+        "summary_zh": "英伟达凭借其芯片赢得了人工智能竞赛，但它需要合作伙伴来构建使用这些芯片的数据中心。",
+        "link": "https://finance.yahoo.com/news/it-takes-more-than-nvidias-chips-to-build-the-worlds-data-centers-192335277.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773412940,
-        "type": "News"
-    },
-    {
-        "title": "Why investors shouldn't chase oil price spikes as the Iran war continues",
-        "title_zh": "为什么随着伊朗战争的继续，投资者不应追逐油价飙升",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are seeing gains Friday morning as oil prices (CL=F, BZ=F) pull back slightly, but remain at elevated levels shy of $100 per barrel.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）周五上午上涨，因油价（CL=F、BZ=F）小幅回落，但仍维持在每桶 100 美元以下的高位。",
-        "link": "https://finance.yahoo.com/video/why-investors-shouldnt-chase-oil-140928047.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773410968,
-        "type": "News"
-    },
-    {
-        "title": "Market uncertainty could lead to bond market 'fall-out'",
-        "title_zh": "市场不确定性可能导致债券市场“崩溃”",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) have been volatile as oil (CL=F, BZ=F) prices continue to spike.",
-        "summary_zh": "由于石油（CL=F，BZ=F）价格持续飙升，美国股市（^DJI、^IXIC、^GSPC）一直波动。",
-        "link": "https://finance.yahoo.com/video/market-uncertainty-could-lead-bond-110002102.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773399602,
+        "publish_time": 1773257015,
         "type": "News"
     }
 ]
