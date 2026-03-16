@@ -1,5 +1,25 @@
 [
     {
+        "title": "Trending tickers: Nvidia, Meta, Adobe and Unicredit",
+        "title_zh": "热门股票：Nvidia、Meta、Adobe 和 Unicredit",
+        "summary": "The latest investor updates on stocks that are trending on Monday.",
+        "summary_zh": "投资者对周一趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/nvidia-meta-adobe-unicredit-trending-tickers-095032851.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773654632,
+        "type": "News"
+    },
+    {
+        "title": "Foxconn's profit lags estimates as it forecasts strong revenue growth",
+        "title_zh": "富士康的利润低于预期，因为它预测收入将强劲增长",
+        "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, said on Monday it expected strong revenue growth in the first quarter and the whole of this year, even as it ‌posted a fall of 2% in quarterly profit, lagging estimates.",
+        "summary_zh": "全球最大的合约电子产品制造商台湾富士康周一表示，预计第一季度和今年全年的收入将强劲增长，尽管该公司公布的季度利润下降了 2%，低于预期。",
+        "link": "https://finance.yahoo.com/news/taiwans-foxconn-books-2-fall-063111205.html",
+        "publisher": "Reuters",
+        "publish_time": 1773642671,
+        "type": "News"
+    },
+    {
         "title": "JD.com launches Joybuy in Europe, targeting Amazon",
         "title_zh": "京东在欧洲推出Joybuy，瞄准亚马逊",
         "summary": "The launch comes as Chinese retailers and brands have been expanding abroad in the U.S. and Europe, looking for new growth drivers away ‌from the cut-throat competition and ⁠weak consumer demand they face at home.",
@@ -12,8 +32,8 @@
     {
         "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as oil rises with US and Iran targeting energy infrastructure",
         "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨，因美国和伊朗瞄准能源基础设施而油价上涨",
-        "summary": "An incredibly unstable energy market has thrown equities into disarray as the Iran war shows no signs of slowing.",
-        "summary_zh": "由于伊朗战争没有任何放缓的迹象，能源市场极其不稳定，导致股市陷入混乱。",
+        "summary": "An unstable energy market has thrown equities into disarray as the Iran war shows no signs of slowing.",
+        "summary_zh": "由于伊朗战争没有放缓的迹象，不稳定的能源市场导致股市陷入混乱。",
         "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-oil-rises-with-us-and-iran-targeting-energy-infrastructure-224643319.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773614803,

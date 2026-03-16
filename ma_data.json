@@ -1,5 +1,15 @@
 [
     {
+        "title": "IREN Microsoft Deal Recasts Crypto Miner As Emerging AI Infrastructure Player",
+        "title_zh": "IREN 微软交易将加密矿工重塑为新兴人工智能基础设施参与者",
+        "summary": "IREN (NasdaqGS:IREN) has secured a $9.7b, 200 MW infrastructure agreement with Microsoft to supply capacity for AI workloads. The deal supports IREN's shift away from a pure crypto mining focus toward broader AI infrastructure services.",
+        "summary_zh": "IREN（纳斯达克股票代码：IREN）已与微软签订了价值 9.7 亿美元、200 兆瓦的基础设施协议，为人工智能工作负载提供容量。该交易支持 IREN 从纯粹的加密货币挖矿重点转向更广泛的人工智能基础设施服务。",
+        "link": "https://finance.yahoo.com/news/iren-microsoft-deal-recasts-crypto-080826325.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773648506,
+        "type": "News"
+    },
+    {
         "title": "Alphabet Inc. (GOOG) Announces Completion of its Acquisition of Wiz",
         "title_zh": "Alphabet Inc. (GOOG) 宣布完成对 Wiz 的收购",
         "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the most profitable blue chip stocks to invest in now. Alphabet Inc. (NASDAQ:GOOG) announced the completion of its acquisition of Wiz on March 11.",
@@ -20,33 +30,23 @@
         "type": "News"
     },
     {
-        "title": "Wiz investor unpacks Google’s $32B acquisition",
-        "title_zh": "Wiz 投资者解读谷歌 32B 美元收购案",
-        "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
-        "summary_zh": "Index Ventures 的 Shardul Shah 带领我们完成了 Google 有史以来最大的收购。",
-        "link": "https://finance.yahoo.com/news/wiz-investor-unpacks-google-32b-153033051.html",
-        "publisher": "TechCrunch",
-        "publish_time": 1773588633,
+        "title": "Trump administration reportedly set to be paid $10bn for brokering TikTok deal",
+        "title_zh": "据报道，特朗普政府将因促成 TikTok 交易而获得 100 亿美元的报酬",
+        "summary": "Exceptionally rare ‘fee’ to be paid by investors who took control of US operations from Chinese parent company",
+        "summary_zh": "从中国母公司手中控制美国业务的投资者需要支付极其罕见的“费用”",
+        "link": "https://finance.yahoo.com/news/trump-administration-paid-10bn-brokering-171357679.html",
+        "publisher": "The Guardian",
+        "publish_time": 1773508437,
         "type": "News"
     },
     {
-        "title": "Amazon Deepens Digital Health Push As Logistics Deal Supports Valuation",
-        "title_zh": "物流交易支撑估值 亚马逊深化数字健康业务",
-        "summary": "Amazon.com (NasdaqGS:AMZN) is rolling out its AI powered healthcare assistant to all customers, expanding access beyond existing One Medical members.",
-        "summary_zh": "Amazon.com（NasdaqGS：AMZN）正在向所有客户推出人工智能驱动的医疗助理，将访问范围扩大到现有 One Medical 会员之外。",
-        "link": "https://finance.yahoo.com/news/amazon-deepens-digital-health-push-150709199.html",
+        "title": "Salesforce AI Deal With Adecco Highlights Agentforce Potential And Valuation Gap",
+        "title_zh": "Salesforce AI 与 Adecco 的交易凸显了 Agentforce 的潜力和估值差距",
+        "summary": "Adecco Group has begun a global deployment of Salesforce Agentforce 360 and Voice across its recruitment operations. The expanded, multi-year partnership is designed to support a large scale, human centric AI transformation in how Adecco recruiters work.",
+        "summary_zh": "Adecco Group 已开始在其招聘业务中全球部署 Salesforce Agentforce 360​​ 和 Voice。此次扩大的多年合作伙伴关系旨在支持德科招聘人员工作方式的大规模、以人为本的人工智能转型。",
+        "link": "https://finance.yahoo.com/news/salesforce-ai-deal-adecco-highlights-100539328.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1773587229,
-        "type": "News"
-    },
-    {
-        "title": "Will the Trump Bull Market Come to an Abrupt End Due to the Iran War? History Offers Its Objective and Potentially Uncomfortable Take.",
-        "title_zh": "特朗普牛市会因伊朗战争而戛然而止吗？历史提供了其客观且可能令人不安的看法。",
-        "summary": "The Trump-led Iran war presents a mixed bag for Wall Street.",
-        "summary_zh": "特朗普领导的伊朗战争给华尔街带来了好坏参半的影响。",
-        "link": "https://finance.yahoo.com/news/trump-bull-market-come-abrupt-082600933.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1773563160,
+        "publish_time": 1773482739,
         "type": "News"
     }
 ]
