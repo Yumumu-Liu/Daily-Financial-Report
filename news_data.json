@@ -1,12 +1,62 @@
 [
     {
-        "title": "Musk says Tesla's mega AI chip fab project to launch in seven days",
-        "title_zh": "马斯克称特斯拉大型人工智能芯片工厂项目将于 7 天内启动",
-        "summary": "Tesla CEO Elon Musk said on Saturday that the company's Terafab project to make artificial ‌intelligence chips will launch in seven days. Musk had said ‌last year that Tesla probably will have to build \"a gigantic chip fab\" ​to make artificial intelligence chips.",
-        "summary_zh": "特斯拉首席执行官埃隆·马斯克 (Elon Musk) 周六表示，该公司制造人工智能芯片的 Terafab 项目将于 7 天内启动。马斯克去年曾表示，特斯拉可能必须建造“一座巨大的芯片工厂”来生产人工智能芯片。",
-        "link": "https://finance.yahoo.com/news/musk-says-teslas-gigantic-chip-140051836.html",
+        "title": "JD.com launches Joybuy in Europe, targeting Amazon",
+        "title_zh": "京东在欧洲推出Joybuy，瞄准亚马逊",
+        "summary": "The launch comes as Chinese retailers and brands have been expanding abroad in the U.S. and Europe, looking for new growth drivers away ‌from the cut-throat competition and ⁠weak consumer demand they face at home.",
+        "summary_zh": "此次推出之际，中国零售商和品牌一直在美国和欧洲进行海外扩张，寻找新的增长动力，以摆脱国内激烈的竞争和疲软的消费者需求。",
+        "link": "https://finance.yahoo.com/news/jd-com-launches-joybuy-europe-000443217.html",
         "publisher": "Reuters",
-        "publish_time": 1773496851,
+        "publish_time": 1773619483,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as oil rises with US and Iran targeting energy infrastructure",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨，因美国和伊朗瞄准能源基础设施而油价上涨",
+        "summary": "An incredibly unstable energy market has thrown equities into disarray as the Iran war shows no signs of slowing.",
+        "summary_zh": "由于伊朗战争没有任何放缓的迹象，能源市场极其不稳定，导致股市陷入混乱。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-as-oil-rises-with-us-and-iran-targeting-energy-infrastructure-224643319.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773614803,
+        "type": "News"
+    },
+    {
+        "title": "A 'dividend' for your crypto? Wall Street's newest way to sweeten the deal for ETF holders",
+        "title_zh": "您的加密货币的“红利”？华尔街为 ETF 持有者提供便利交易的最新方式",
+        "summary": "Crypto investors are turning to yield-bearing digital asset products.",
+        "summary_zh": "加密货币投资者正在转向有收益的数字资产产品。",
+        "link": "https://finance.yahoo.com/news/a-dividend-for-your-crypto-wall-streets-newest-way-to-sweeten-the-deal-for-etf-holders-153053526.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773588653,
+        "type": "News"
+    },
+    {
+        "title": "Why surging oil prices should matter even if you own Apple, Nvidia, and Microsoft",
+        "title_zh": "为什么即使你拥有苹果、英伟达和微软，油价飙升也应该很重要",
+        "summary": "Connecting the dots on oil prices will serve you well.",
+        "summary_zh": "将石油价格的各个点联系起来将对您很有帮助。",
+        "link": "https://finance.yahoo.com/news/why-surging-oil-prices-should-matter-even-if-you-own-apple-nvidia-and-microsoft-123027737.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773577827,
+        "type": "News"
+    },
+    {
+        "title": "A critical Fed meeting, $100 oil, and Micron earnings: What to watch this week",
+        "title_zh": "重要的美联储会议、100 美元油价和美光财报：本周值得关注的内容",
+        "summary": "As the Iran war enters its third week, rising oil prices, Wednesday's Fed meeting, and earnings from Micron will be in focus for investors.",
+        "summary_zh": "随着伊朗战争进入第三周，油价上涨、周三的美联储会议以及美光科技的财报将成为投资者关注的焦点。",
+        "link": "https://finance.yahoo.com/news/a-critical-fed-meeting-100-oil-and-micron-earnings-what-to-watch-this-week-113002550.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773574202,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia GTC 2026: What to expect from Nvidia's biggest event of the year",
+        "title_zh": "Nvidia GTC 2026：对 Nvidia 年度最大活动有何期待",
+        "summary": "Nvidia will host its annual GTC event in San Jose, Calif., starting on Monday.",
+        "summary_zh": "Nvidia 将于周一开始在加利福尼亚州圣何塞举办年度 GTC 活动。",
+        "link": "https://finance.yahoo.com/news/nvidia-gtc-2026-what-to-expect-from-nvidias-biggest-event-of-the-year-132234592.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773408154,
         "type": "News"
     },
     {
@@ -17,16 +67,6 @@
         "link": "https://finance.yahoo.com/news/rivians-base-r2-starts-at-45k-but-wont-be-available-until-late-2027-150037000.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773327637,
-        "type": "News"
-    },
-    {
-        "title": "It takes more than Nvidia's chips to build the world's data centers",
-        "title_zh": "构建全球数据中心需要的不仅仅是 Nvidia 的芯片",
-        "summary": "Nvidia is winning the AI race thanks to its chips, but it needs partners to build the data centers that use them.",
-        "summary_zh": "英伟达凭借其芯片赢得了人工智能竞赛，但它需要合作伙伴来构建使用这些芯片的数据中心。",
-        "link": "https://finance.yahoo.com/news/it-takes-more-than-nvidias-chips-to-build-the-worlds-data-centers-192335277.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773257015,
         "type": "News"
     }
 ]

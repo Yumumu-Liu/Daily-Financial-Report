@@ -1,5 +1,45 @@
 [
     {
+        "title": "Alphabet Inc. (GOOG) Announces Completion of its Acquisition of Wiz",
+        "title_zh": "Alphabet Inc. (GOOG) 宣布完成对 Wiz 的收购",
+        "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the most profitable blue chip stocks to invest in now. Alphabet Inc. (NASDAQ:GOOG) announced the completion of its acquisition of Wiz on March 11.",
+        "summary_zh": "Alphabet Inc.（纳斯达克股票代码：GOOG）是目前投资最赚钱的蓝筹股之一。 Alphabet Inc.（纳斯达克股票代码：GOOG）于 3 月 11 日宣布完成对 Wiz 的收购。",
+        "link": "https://finance.yahoo.com/news/alphabet-inc-goog-announces-completion-183645740.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1773599805,
+        "type": "News"
+    },
+    {
+        "title": "A 'dividend' for your crypto? Wall Street's newest way to sweeten the deal for ETF holders",
+        "title_zh": "您的加密货币的“红利”？华尔街为 ETF 持有者提供便利交易的最新方式",
+        "summary": "Crypto investors are turning to yield-bearing digital asset products.",
+        "summary_zh": "加密货币投资者正在转向有收益的数字资产产品。",
+        "link": "https://finance.yahoo.com/news/a-dividend-for-your-crypto-wall-streets-newest-way-to-sweeten-the-deal-for-etf-holders-153053526.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1773588653,
+        "type": "News"
+    },
+    {
+        "title": "Wiz investor unpacks Google’s $32B acquisition",
+        "title_zh": "Wiz 投资者解读谷歌 32B 美元收购案",
+        "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+        "summary_zh": "Index Ventures 的 Shardul Shah 带领我们完成了 Google 有史以来最大的收购。",
+        "link": "https://finance.yahoo.com/news/wiz-investor-unpacks-google-32b-153033051.html",
+        "publisher": "TechCrunch",
+        "publish_time": 1773588633,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Deepens Digital Health Push As Logistics Deal Supports Valuation",
+        "title_zh": "物流交易支撑估值 亚马逊深化数字健康业务",
+        "summary": "Amazon.com (NasdaqGS:AMZN) is rolling out its AI powered healthcare assistant to all customers, expanding access beyond existing One Medical members.",
+        "summary_zh": "Amazon.com（NasdaqGS：AMZN）正在向所有客户推出人工智能驱动的医疗助理，将访问范围扩大到现有 One Medical 会员之外。",
+        "link": "https://finance.yahoo.com/news/amazon-deepens-digital-health-push-150709199.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773587229,
+        "type": "News"
+    },
+    {
         "title": "Will the Trump Bull Market Come to an Abrupt End Due to the Iran War? History Offers Its Objective and Potentially Uncomfortable Take.",
         "title_zh": "特朗普牛市会因伊朗战争而戛然而止吗？历史提供了其客观且可能令人不安的看法。",
         "summary": "The Trump-led Iran war presents a mixed bag for Wall Street.",
@@ -7,46 +47,6 @@
         "link": "https://finance.yahoo.com/news/trump-bull-market-come-abrupt-082600933.html",
         "publisher": "Motley Fool",
         "publish_time": 1773563160,
-        "type": "News"
-    },
-    {
-        "title": "This Artificial Intelligence (AI) Stock Just Landed a Deal Worth Over $100 Billion. Is It a Buy?",
-        "title_zh": "这支人工智能 (AI) 股票刚刚完成了价值超过 1000 亿美元的交易。是买入吗？",
-        "summary": "AMD is making waves as a potential challenger to Nvidia's data center dominance. Here's why it's worth considering for your portfolio.",
-        "summary_zh": "AMD 正在成为 Nvidia 数据中心主导地位的潜在挑战者。这就是为什么值得在您的投资组合中考虑它的原因。",
-        "link": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-just-052500031.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1773552300,
-        "type": "News"
-    },
-    {
-        "title": "‘Peak war panic’ will likely hit financial markets in 1-3 weeks, strategist predicts, as Trump says he doesn’t want to make a deal with Iran yet",
-        "title_zh": "策略师预测，“战争恐慌高峰”可能会在 1-3 周内冲击金融市场，因为特朗普表示他还不想与伊朗达成协议",
-        "summary": "\"The end is not in sight. The Strait of Hormuz is effectively closed, and markets are starting to price in a prolonged, uncertain endgame.\"",
-        "summary_zh": "“结局还遥遥无期。霍尔木兹海峡实际上已经关闭，市场开始消化长期且不确定的结局。”",
-        "link": "https://finance.yahoo.com/news/peak-war-panic-likely-hit-205847401.html",
-        "publisher": "Fortune",
-        "publish_time": 1773531672,
-        "type": "News"
-    },
-    {
-        "title": "Trump administration to be paid $10bn for brokering TikTok deal",
-        "title_zh": "特朗普政府将因促成 TikTok 交易而获得 100 亿美元",
-        "summary": "Exceptionally rare ‘fee’ to be paid by investors who took control of US operations from Chinese parent company",
-        "summary_zh": "从中国母公司手中控制美国业务的投资者需要支付极其罕见的“费用”",
-        "link": "https://finance.yahoo.com/news/trump-administration-paid-10bn-brokering-171357679.html",
-        "publisher": "The Guardian",
-        "publish_time": 1773508437,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce AI Deal With Adecco Highlights Agentforce Potential And Valuation Gap",
-        "title_zh": "Salesforce AI 与 Adecco 的交易凸显了 Agentforce 的潜力和估值差距",
-        "summary": "Adecco Group has begun a global deployment of Salesforce Agentforce 360 and Voice across its recruitment operations. The expanded, multi-year partnership is designed to support a large scale, human centric AI transformation in how Adecco recruiters work.",
-        "summary_zh": "Adecco Group 已开始在其招聘业务中全球部署 Salesforce Agentforce 360​​ 和 Voice。此次扩大的多年合作伙伴关系旨在支持德科招聘人员工作方式的大规模、以人为本的人工智能转型。",
-        "link": "https://finance.yahoo.com/news/salesforce-ai-deal-adecco-highlights-100539328.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1773482739,
         "type": "News"
     }
 ]
