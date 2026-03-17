@@ -1,42 +1,32 @@
 [
     {
-        "title": "IREN Microsoft Deal Recasts Crypto Miner As Emerging AI Infrastructure Player",
-        "title_zh": "IREN 微软交易将加密矿工重塑为新兴人工智能基础设施参与者",
-        "summary": "IREN (NasdaqGS:IREN) has secured a $9.7b, 200 MW infrastructure agreement with Microsoft to supply capacity for AI workloads. The deal supports IREN's shift away from a pure crypto mining focus toward broader AI infrastructure services.",
-        "summary_zh": "IREN（纳斯达克股票代码：IREN）已与微软签订了价值 9.7 亿美元、200 兆瓦的基础设施协议，为人工智能工作负载提供容量。该交易支持 IREN 从纯粹的加密货币挖矿重点转向更广泛的人工智能基础设施服务。",
-        "link": "https://finance.yahoo.com/news/iren-microsoft-deal-recasts-crypto-080826325.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1773648506,
+        "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026?",
+        "title_zh": "这支人工智能 (AI) 股票拥有 194 亿美元的微软交易、30 亿美元的元交易，现在又获得了 20 亿美元的 Nvidia 投资——是否适合 2026 年买入？",
+        "summary": "Nebius Group has emerged as a key player fueling AI infrastructure.",
+        "summary_zh": "Nebius Group 已成为推动人工智能基础设施发展的关键参与者。",
+        "link": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-19-233500308.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1773704100,
         "type": "News"
     },
     {
-        "title": "Alphabet Inc. (GOOG) Announces Completion of its Acquisition of Wiz",
-        "title_zh": "Alphabet Inc. (GOOG) 宣布完成对 Wiz 的收购",
-        "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the most profitable blue chip stocks to invest in now. Alphabet Inc. (NASDAQ:GOOG) announced the completion of its acquisition of Wiz on March 11.",
-        "summary_zh": "Alphabet Inc.（纳斯达克股票代码：GOOG）是目前投资最赚钱的蓝筹股之一。 Alphabet Inc.（纳斯达克股票代码：GOOG）于 3 月 11 日宣布完成对 Wiz 的收购。",
-        "link": "https://finance.yahoo.com/news/alphabet-inc-goog-announces-completion-183645740.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1773599805,
+        "title": "Oracle Concerns Ease as AI Deals Support Outlook",
+        "title_zh": "人工智能交易支持前景，甲骨文担忧缓解",
+        "summary": "Analysts say strong results and AI deals are easing concerns about Oracle's data-center spending.",
+        "summary_zh": "分析师表示，强劲的业绩和人工智能交易正在缓解人们对甲骨文数据中心支出的担忧。",
+        "link": "https://finance.yahoo.com/news/oracle-concerns-ease-ai-deals-190038385.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1773687638,
         "type": "News"
     },
     {
-        "title": "A 'dividend' for your crypto? Wall Street's newest way to sweeten the deal for ETF holders",
-        "title_zh": "您的加密货币的“红利”？华尔街为 ETF 持有者提供便利交易的最新方式",
-        "summary": "Crypto investors are turning to yield-bearing digital asset products.",
-        "summary_zh": "加密货币投资者正在转向有收益的数字资产产品。",
-        "link": "https://finance.yahoo.com/news/a-dividend-for-your-crypto-wall-streets-newest-way-to-sweeten-the-deal-for-etf-holders-153053526.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773588653,
-        "type": "News"
-    },
-    {
-        "title": "Trump administration reportedly set to be paid $10bn for brokering TikTok deal",
-        "title_zh": "据报道，特朗普政府将因促成 TikTok 交易而获得 100 亿美元的报酬",
-        "summary": "Exceptionally rare ‘fee’ to be paid by investors who took control of US operations from Chinese parent company",
-        "summary_zh": "从中国母公司手中控制美国业务的投资者需要支付极其罕见的“费用”",
-        "link": "https://finance.yahoo.com/news/trump-administration-paid-10bn-brokering-171357679.html",
-        "publisher": "The Guardian",
-        "publish_time": 1773508437,
+        "title": "Nebius Stock Soars on Multi-Billion Dollar Meta AI Deal",
+        "title_zh": "Nebius 股价因数十亿美元元人工智能交易而飙升",
+        "summary": "Nebius Shares Rally After Signing $27 Billion AI Infrastructure Agreement With Meta",
+        "summary_zh": "Nebius 与 Meta 签署 270 亿美元人工智能基础设施协议后股价上涨",
+        "link": "https://finance.yahoo.com/news/nebius-stock-soars-multi-billion-185918219.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1773687558,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/salesforce-ai-deal-adecco-highlights-100539328.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1773482739,
+        "type": "News"
+    },
+    {
+        "title": "Ecuador trade deal: Trump administration targets lower food and tech levies",
+        "title_zh": "厄瓜多尔贸易协议：特朗普政府目标是降低食品和科技税",
+        "summary": "Investing.com — U.S. Trade Representative Jamieson Greer signed a finalized trade agreement with Ecuador on Friday, reducing tariffs across several industrial and agricultural sectors as the Trump administration continues to overhaul its Western Hemisphere trade strategy.",
+        "summary_zh": "Investing.com——随着特朗普政府继续改革其西半球贸易战略，美国贸易代表杰米森·格里尔周五与厄瓜多尔签署了最终贸易协议，降低了多个工业和农业部门的关税。",
+        "link": "https://finance.yahoo.com/news/ecuador-trade-deal-trump-administration-033823470.html",
+        "publisher": "Investing.com",
+        "publish_time": 1773459503,
         "type": "News"
     }
 ]
