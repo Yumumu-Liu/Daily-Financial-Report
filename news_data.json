@@ -1,12 +1,42 @@
 [
     {
-        "title": "Nvidia's Huang says AI will create jobs, not cut them",
-        "title_zh": "英伟达黄仁勋表示人工智能将创造就业机会，而不是减少就业机会",
-        "summary": "STORY: :: Nvidia CEO Jensen Huang says AI will create more jobs, not eliminate them:: San Jose, California / March 17, 2026\"A lot of people say AI's coming, we're going to run out of our work, our jobs. It's exactly the opposite. The fact of the matter is PCs made us more busy.",
-        "summary_zh": "故事: :: Nvidia 首席执行官黄仁勋表示人工智能将创造更多就业机会，而不是消除就业机会:: 加利福尼亚州圣何塞 / 2026 年 3 月 17 日“很多人说人工智能即将到来，我们将失去我们的工作，我们的工作。事实恰恰相反。事实是个人电脑让我们变得更加忙碌。",
-        "link": "https://finance.yahoo.com/video/nvidias-huang-says-ai-create-030225571.html",
+        "title": "FTSE 100 LIVE: Stocks rise as investors find signs of stability",
+        "title_zh": "富时 100 实时指数：随着投资者发现稳定迹象，股市上涨",
+        "summary": "Oil prices fell on news that Iraq has signed a deal to resume exports via Turkey",
+        "summary_zh": "伊拉克签署恢复经土耳其出口协议的消息导致油价下跌",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-iraq-oil-exports-turkey-091146403.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1773825106,
+        "type": "News"
+    },
+    {
+        "title": "Amazon, Samsung see AI driving sales, chip demand",
+        "title_zh": "亚马逊和三星认为人工智能推动销售和芯片需求",
+        "summary": "STORY: Amazon CEO Andy Jassy says artificial intelligence could help cloud computing unit Amazon Web Services achieve $600 billion in annual sales.The outlook&nbsp;came in an internal all-hands meeting on Tuesday, with his comments reviewed by Reuters.&nbsp;Jassy said with wha...",
+        "summary_zh": "故事：亚马逊首席执行官安迪·贾西 (Andy Jassy) 表示，人工智能可以帮助云计算部门亚马逊网络服务 (Amazon Web Services) 实现 6000 亿美元的年销售额。这一前景是在周二的内部全体会议上提出的，路透社审阅了他的评论。贾西表示，...",
+        "link": "https://finance.yahoo.com/video/amazon-samsung-see-ai-driving-080445148.html",
         "publisher": "Reuters Videos",
-        "publish_time": 1773802945,
+        "publish_time": 1773821085,
+        "type": "News"
+    },
+    {
+        "title": "Exclusive-Meta vowed to stop illegal financial ads in Britain. It failed 1,000 times in a week",
+        "title_zh": "Exclusive-Meta 发誓要停止英国的非法金融广告。一周失败1000次",
+        "summary": "U.S. tech giant Meta has repeatedly failed to stop illegal ads for high-risk financial products running on its platforms in Britain, despite committing to block them, according to a review by the country's financial regulator.",
+        "summary_zh": "根据英国金融监管机构的审查，美国科技巨头 Meta 多次未能阻止其在英国平台上运行的高风险金融产品非法广告，尽管该公司承诺阻止这些广告。",
+        "link": "https://finance.yahoo.com/news/exclusive-meta-vowed-stop-illegal-060306523.html",
+        "publisher": "Reuters",
+        "publish_time": 1773813786,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
+        "title_zh": "据英国《金融时报》报道，微软考虑对价值 500 亿美元的亚马逊与 OpenAI 云交易采取法律行动",
+        "summary": "Microsoft is considering legal action against its partner OpenAI and Amazon over a $50 billion deal that could violate its exclusive cloud ‌agreement with the ChatGPT maker, the Financial Times reported on Wednesday.",
+        "summary_zh": "据英国《金融时报》周三报道，微软正在考虑就一项 500 亿美元的交易对其合作伙伴 OpenAI 和亚马逊采取法律行动，该交易可能违反其与 ChatGPT 制造商的独家云协议。",
+        "link": "https://finance.yahoo.com/news/microsoft-weighs-legal-action-over-050654370.html",
+        "publisher": "Reuters",
+        "publish_time": 1773810414,
         "type": "News"
     },
     {
@@ -20,20 +50,10 @@
         "type": "News"
     },
     {
-        "title": "Chinese authorities approve Nvidia's H200 AI chip sales, source says",
-        "title_zh": "消息人士称，中国当局批准了英伟达 H200 AI 芯片的销售",
-        "summary": "By Karen Freifeld NEW YORK, March 17 (Reuters) - Chinese authorities have granted approval for multiple Chinese companies to purchase H200 AI chips from Nvidia, according to a person familiar with the",
-        "summary_zh": "路透纽约 3 月 17 日 - 据一位知情人士透露，中国当局已批准多家中国公司从 Nvidia 购买 H200 AI 芯片",
-        "link": "https://finance.yahoo.com/news/chinese-authorities-approve-nvidias-h200-013235915.html",
-        "publisher": "Reuters",
-        "publish_time": 1773797555,
-        "type": "News"
-    },
-    {
         "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Fed decision on deck",
         "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因美联储决定而上涨",
-        "summary": "Stocks wavered as Wall Street is preparing for the Fed to reach a decision regarding oil-driven inflation.",
-        "summary_zh": "由于华尔街正在准备美联储就石油驱动的通胀做出决定，股市出现波动。",
+        "summary": "Wall Street is preparing for the Fed's rate decision and clues to its view of  oil-driven inflation.",
+        "summary_zh": "华尔街正在为美联储的利率决定及其对石油驱动型通胀的看法提供线索。",
         "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-225450963.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773788090,
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/bitcoin-shows-resilience-amid-iran-war-outshines-gold-and-stocks-173729098.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1773769049,
-        "type": "News"
-    },
-    {
-        "title": "Oil prices back above $100, Apple's Tim Cook denies retirement rumors",
-        "title_zh": "油价重回100美元上方 苹果蒂姆·库克否认退休传闻",
-        "summary": "Yahoo Finance Senior Producer John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute. US stocks (^DJI, ^IXIC, ^GSPC) advance for the second day in a row.",
-        "summary_zh": "雅虎财经高级制作人约翰·海兰德在本《市场分钟》中追踪当今最热门的股票和最大的市场故事。美股（^DJI、^IXIC、^GSPC）连续第二天上涨。",
-        "link": "https://finance.yahoo.com/video/oil-prices-back-above-100-173025215.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773768625,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia GTC: Why Jensen Huang's $1T forecast failed to impress",
-        "title_zh": "Nvidia GTC：为什么黄仁勋的 1T 美元预测未能给人留下深刻印象",
-        "summary": "Spear Invest founder and CIO Ivana Delevska and D.A.",
-        "summary_zh": "Spear Invest 创始人兼首席信息官 Ivana Delevska 和 D.A.",
-        "link": "https://finance.yahoo.com/video/nvidia-gtc-why-jensen-huangs-162238455.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1773764558,
         "type": "News"
     }
 ]
