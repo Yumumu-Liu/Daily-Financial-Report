@@ -1,12 +1,32 @@
 [
     {
-        "title": "Market Chatter: Microsoft Considers Legal Action Against Amazon, OpenAI Over Possible Breach of Exclusivity Deal",
-        "title_zh": "市场热议：微软考虑对亚马逊和 OpenAI 采取法律行动，因为它们可能违反排他性协议",
-        "summary": "Microsoft (MSFT) is mulling legal action against Amazon (AMZN) and OpenAI over a $50 billion contrac",
-        "summary_zh": "微软 (MSFT) 正在考虑针对亚马逊 (AMZN) 和 OpenAI 价值 500 亿美元的合同采取法律行动",
-        "link": "https://finance.yahoo.com/news/market-chatter-microsoft-considers-legal-092908993.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1773826148,
+        "title": "From NIL deals to retirement at 35: JPMorgan aims to help athletes avoid bad money habits",
+        "title_zh": "从零交易到 35 岁退休：摩根大通旨在帮助运动员避免不良的金钱习惯",
+        "summary": "JPMorgan Chase said Wednesday that it will start building wealth advising services that help athletes who come into money as a result of their talents make that money work for them a long time.",
+        "summary_zh": "摩根大通周三表示，将开始建立财富咨询服务，帮助那些因天赋而致富的运动员，让这些钱为他们服务很长时间。",
+        "link": "https://finance.yahoo.com/news/nil-deals-retirement-35-jpmorgan-204834232.html",
+        "publisher": "Associated Press Finance",
+        "publish_time": 1773866914,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft Weighs Legal Action Over Amazon-OpenAI Deal",
+        "title_zh": "微软考虑对亚马逊与 OpenAI 交易采取法律行动",
+        "summary": "Potential challenge centers on cloud partnership concerns",
+        "summary_zh": "潜在的挑战集中在云合作伙伴关系方面",
+        "link": "https://finance.yahoo.com/news/microsoft-weighs-legal-action-over-181553930.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1773857753,
+        "type": "News"
+    },
+    {
+        "title": "GOOGL's Wiz Buyout Expands Cloud Security Portfolio: What's Ahead?",
+        "title_zh": "GOOGL 的 Wiz 收购扩大了云安全产品组合：未来是什么？",
+        "summary": "Alphabet boosts Google Cloud security with Wiz deal, strengthening AI-driven growth as it battles AWS and Azure in a fast-growing cloud market.",
+        "summary_zh": "Alphabet 通过 Wiz 交易提高了谷歌云的安全性，在快速增长的云市场中与 AWS 和 Azure 展开竞争，从而加强了人工智能驱动的增长。",
+        "link": "https://finance.yahoo.com/news/googls-wiz-buyout-expands-cloud-162400540.html",
+        "publisher": "Zacks",
+        "publish_time": 1773851040,
         "type": "News"
     },
     {
@@ -20,33 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Microsoft considers legal action over $50 billion Amazon-OpenAI cloud deal, FT reports",
-        "title_zh": "据英国《金融时报》报道，微软考虑对价值 500 亿美元的亚马逊与 OpenAI 云交易采取法律行动",
-        "summary": "Microsoft is considering legal action against its partner OpenAI and Amazon over a $50 billion deal that could violate its exclusive cloud ‌agreement with the ChatGPT maker, the Financial Times reported on Wednesday.",
-        "summary_zh": "据英国《金融时报》周三报道，微软正在考虑就一项 500 亿美元的交易对其合作伙伴 OpenAI 和亚马逊采取法律行动，该交易可能违反其与 ChatGPT 制造商的独家云协议。",
-        "link": "https://finance.yahoo.com/news/microsoft-weighs-legal-action-over-050654370.html",
-        "publisher": "Reuters",
-        "publish_time": 1773810414,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft weighs legal action over $50bn Amazon-OpenAI cloud deal",
-        "title_zh": "微软考虑对亚马逊与 OpenAI 价值 500 亿美元的云交易采取法律行动",
-        "summary": "Microsoft is weighing legal action against Amazon and OpenAI over a $50bn deal that could breach its exclusive cloud partnership with the ChatGPT...",
-        "summary_zh": "微软正在考虑就一项价值 500 亿美元的交易对亚马逊和 OpenAI 采取法律行动，该交易可能违反其与 ChatGPT 的独家云合作伙伴关系……",
-        "link": "https://finance.yahoo.com/news/microsoft-weighs-legal-action-over-050027552.html",
-        "publisher": "Financial Times",
-        "publish_time": 1773810027,
-        "type": "News"
-    },
-    {
-        "title": "Apple’s MotionVFX Deal Deepens Creator Studio And Services Ecosystem",
-        "title_zh": "Apple 的 MotionVFX 交易深化了创作者工作室和服务生态系统",
-        "summary": "Apple has acquired MotionVFX, a developer of plug ins and tools for Final Cut Pro, in a move to deepen its creative software offering. The deal is aimed at building out the Creator Studio bundle and reinforcing Apple's position with professional content creators.",
-        "summary_zh": "Apple 收购了 Final Cut Pro 插件和工具开发商 MotionVFX，以深化其创意软件产品。该交易旨在打造 Creator Studio 捆绑包并巩固苹果在专业内容创作者中的地位。",
-        "link": "https://finance.yahoo.com/news/apple-motionvfx-deal-deepens-creator-001840270.html",
+        "title": "Is KKR’s (KKR) Deal Juggling Amid Liquidity Strains Reframing Its Private Markets Playbook?",
+        "title_zh": "KKR (KKR) 在流动性紧张的情况下进行的交易是否正在重新制定其私募市场策略？",
+        "summary": "In recent days, KKR has reportedly joined the bidding for Pacific Equity Partners-owned UP Education, which could fetch more than A$1.00 billion, while also exploring a potential sale of liquid-cooling provider CoolIT Systems in a deal that may exceed US$3.00 billion.",
+        "summary_zh": "据报道，最近几天，KKR 加入了对 Pacific Equity Partners 旗下的 UP Education 的竞购，该交易的售价可能超过 10 亿澳元，同时还在探索出售液冷供应商 CoolIT Systems 的可能性，交易金额可能超过 30 亿美元。",
+        "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1773793120,
+        "publish_time": 1773457884,
         "type": "News"
     }
 ]
