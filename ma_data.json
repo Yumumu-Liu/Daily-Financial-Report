@@ -20,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "GOOGL's Wiz Buyout Expands Cloud Security Portfolio: What's Ahead?",
-        "title_zh": "GOOGL 的 Wiz 收购扩大了云安全产品组合：未来是什么？",
-        "summary": "Alphabet boosts Google Cloud security with Wiz deal, strengthening AI-driven growth as it battles AWS and Azure in a fast-growing cloud market.",
-        "summary_zh": "Alphabet 通过 Wiz 交易提高了谷歌云的安全性，在快速增长的云市场中与 AWS 和 Azure 展开竞争，从而加强了人工智能驱动的增长。",
-        "link": "https://finance.yahoo.com/news/googls-wiz-buyout-expands-cloud-162400540.html",
-        "publisher": "Zacks",
-        "publish_time": 1773851040,
-        "type": "News"
-    },
-    {
         "title": "Oracle's \"Halo Effect\" Is the Real Deal. But is the AI Growth Stock a Buy in March?",
         "title_zh": "甲骨文的“光环效应”是实实在在的。但人工智能成长股在三月份值得买入吗？",
         "summary": "Down big off its high, the sell-off in Oracle could be a buying opportunity for risk-tolerant investors.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1773457884,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
+        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
+        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
+        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
+        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1773153881,
         "type": "News"
     }
 ]
