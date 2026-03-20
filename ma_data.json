@@ -1,32 +1,42 @@
 [
     {
-        "title": "From NIL deals to retirement at 35: JPMorgan aims to help athletes avoid bad money habits",
-        "title_zh": "从零交易到 35 岁退休：摩根大通旨在帮助运动员避免不良的金钱习惯",
-        "summary": "JPMorgan Chase said Wednesday that it will start building wealth advising services that help athletes who come into money as a result of their talents make that money work for them a long time.",
-        "summary_zh": "摩根大通周三表示，将开始建立财富咨询服务，帮助那些因天赋而致富的运动员，让这些钱为他们服务很长时间。",
-        "link": "https://finance.yahoo.com/news/nil-deals-retirement-35-jpmorgan-204834232.html",
-        "publisher": "Associated Press Finance",
-        "publish_time": 1773866914,
+        "title": "Nvidia to sell 1 million chips to Amazon by end of 2027 in cloud deal",
+        "title_zh": "英伟达将在 2027 年底之前通过云交易向亚马逊出售 100 万块芯片",
+        "summary": "Nvidia will sell 1 million of its graphics processing unit chips, along with a host of ‌the AI giant's other offerings, to Amazon.com's cloud computing unit by 2027, ‌a Nvidia executive told Reuters on Thursday.",
+        "summary_zh": "Nvidia 的一位高管周四告诉路透社，到 2027 年，Nvidia 将向亚马逊的云计算部门出售 100 万个图形处理单元芯片，以及该人工智能巨头的许多其他产品。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-sell-1-million-chips-213120733.html",
+        "publisher": "Reuters",
+        "publish_time": 1773955880,
         "type": "News"
     },
     {
-        "title": "Microsoft Weighs Legal Action Over Amazon-OpenAI Deal",
-        "title_zh": "微软考虑对亚马逊与 OpenAI 交易采取法律行动",
-        "summary": "Potential challenge centers on cloud partnership concerns",
-        "summary_zh": "潜在的挑战集中在云合作伙伴关系方面",
-        "link": "https://finance.yahoo.com/news/microsoft-weighs-legal-action-over-181553930.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1773857753,
+        "title": "DNOW Faces ERP Turbulence And Legal Questions After MRC Global Deal",
+        "title_zh": "MRC Global 交易后，DNOW 面临 ERP 动荡和法律问题",
+        "summary": "DNOW (NYSE:DNOW) is working through material integration challenges tied to its MRC Global acquisition, with Oracle ERP issues affecting roughly 40% of its U.S. operations.",
+        "summary_zh": "DNOW（纽约证券交易所股票代码：DNOW）正在解决与其 MRC Global 收购相关的材料集成挑战，Oracle ERP 问题影响了其约 40% 的美国业务。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dnow-faces-erp-turbulence-legal-180732574.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773943652,
         "type": "News"
     },
     {
-        "title": "Oracle's \"Halo Effect\" Is the Real Deal. But is the AI Growth Stock a Buy in March?",
-        "title_zh": "甲骨文的“光环效应”是实实在在的。但人工智能成长股在三月份值得买入吗？",
-        "summary": "Down big off its high, the sell-off in Oracle could be a buying opportunity for risk-tolerant investors.",
-        "summary_zh": "甲骨文的抛售从高点大幅下跌，对于承受风险的投资者来说可能是一个买入机会。",
-        "link": "https://finance.yahoo.com/news/oracles-halo-effect-real-deal-085000361.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1773823800,
+        "title": "Ecolab Nears Deal for KKR’s Data-Center Cooling Company",
+        "title_zh": "艺康 (Ecolab) 即将收购 KKR 数据中心冷却公司",
+        "summary": "Ecolab  is nearing a deal to acquire data-center cooling company CoolIT Systems from  KKR  for between $4.5 billion and $5 billion, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，Ecolab 即将达成协议，以 45 亿至 50 亿美元的价格从 KKR 手中收购数据中心冷却公司 CoolIT Systems。",
+        "link": "https://www.wsj.com/business/deals/ecolab-near-deal-for-kkrs-data-center-cooling-company-5290dd92?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773940020,
+        "type": "News"
+    },
+    {
+        "title": "Why Companies Are Chopping Up Big Bond Deals Into Smaller Pieces",
+        "title_zh": "为什么公司将大型债券交易分割成较小的部分",
+        "summary": "The average number of tranches on investment-grade bond deals is at a record high as companies issue jumbo deals and look for cost savings.",
+        "summary_zh": "随着公司发行巨额交易并寻求节省成本，投资级债券交易的平均批次数量创下历史新高。",
+        "link": "https://www.wsj.com/business/c-suite/why-companies-are-chopping-up-big-bond-deals-into-smaller-pieces-e00719fb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773914400,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1773457884,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: Carlyle Plans Credit Vehicle to Seed New Buyout Fund, Pay Back Investors of Older Funds",
-        "title_zh": "市场热议：凯雷计划通过信贷工具培育新的收购基金，偿还旧基金的投资者",
-        "summary": "Carlyle Group (CG) is planning a new credit vehicle internally called \"Project Potomac,\" that would",
-        "summary_zh": "凯雷集团 (CG) 正在计划一种内部称为“波托马克计划”的新信贷工具，该工具将",
-        "link": "https://finance.yahoo.com/news/market-chatter-carlyle-plans-credit-144441525.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1773153881,
         "type": "News"
     }
 ]
