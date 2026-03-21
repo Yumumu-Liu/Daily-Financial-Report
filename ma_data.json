@@ -11,7 +11,7 @@
     },
     {
         "title": "Amazon’s Rivr Deal And AI Phone Plans Shape Long Term Outlook",
-        "title_zh": "亚马逊的 Rivr 交易和人工智能手机计划塑造长期前景",
+        "title_zh": "亚马逊的 Rivr 交易和人工智能手机计划塑造了长期前景",
         "summary": "Amazon.com (NasdaqGS: AMZN) has acquired Zurich based robotics startup Rivr, which focuses on autonomous stair climbing delivery robots, to accelerate doorstep delivery automation.",
         "summary_zh": "亚马逊（NasdaqGS：AMZN）收购了总部位于苏黎世的机器人初创公司 Rivr，该公司专注于自动爬楼梯送货机器人，以加速送货上门自动化。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-rivr-deal-ai-phone-001808373.html",
@@ -30,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Nvidia Strikes Massive AI Deal With Amazon -- $1 Trillion Opportunity Looms By 2027",
-        "title_zh": "Nvidia 与亚马逊达成大规模 AI 协议——到 2027 年将带来 1 万亿美元的机遇",
-        "summary": "Nvidia will supply over 1 million GPUs and related chips to Amazon through 2027, targeting AI cloud workloads and inference",
-        "summary_zh": "到 2027 年，Nvidia 将向亚马逊供应超过 100 万个 GPU 和相关芯片，目标是人工智能云工作负载和推理",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-strikes-massive-ai-deal-181653846.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1774030613,
-        "type": "News"
-    },
-    {
         "title": "Ecolab Buying CoolIT Systems in $4.75 Billion Deal as Data Center Liquid Cooling Demand Surges",
         "title_zh": "随着数据中心液体冷却需求激增，Ecolab 以 47.5 亿美元收购 CoolIT Systems",
         "summary": "Ecolab (ECL) agreed to acquire CoolIT Systems from KKR (KKR) in a $4.75 billion deal as technology c",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ecolab-buying-coolit-systems-4-152636658.html",
         "publisher": "MT Newswires",
         "publish_time": 1774020396,
+        "type": "News"
+    },
+    {
+        "title": "Is Salesforce (CRM) Offering Value After A 30 Day Rebound And Yearlong Slump?",
+        "title_zh": "经过 30 天的反弹和长达一年的低迷之后，Salesforce (CRM) 是否能提供价值？",
+        "summary": "Wondering if Salesforce at around US$194.99 is a bargain or still pricing in a lot of optimism? This article focuses squarely on what you are paying versus what you may be getting.",
+        "summary_zh": "想知道 Salesforce 的价格在 194.99 美元左右是否便宜，还是仍然充满乐观情绪？本文主要关注您所支付的费用与您可能获得的费用。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-offering-value-30-130626487.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774011986,
         "type": "News"
     }
 ]
