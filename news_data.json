@@ -20,53 +20,23 @@
         "type": "News"
     },
     {
-        "title": "How to navigate uncertain markets during the Iranian conflict",
-        "title_zh": "如何在伊朗冲突期间驾驭不确定的市场",
-        "summary": "Morningstar Wealth CIO of the Americas, Philip Straehl, joins Yahoo Finance Head of News Myles Udland to break down the stagflationary shock hitting markets (^DJI, ^IXIC, ^GSPC) and why portfolio diversification appears to be getting more challenging for investors.",
-        "summary_zh": "晨星财富美洲区首席信息官 Philip Straehl 与雅虎财经新闻主管 Myles Udland 一起分析了市场遭受的滞胀冲击（^DJI、^IXIC、^GSPC），以及为什么投资组合多元化似乎对投资者来说变得更具挑战性。",
-        "link": "https://finance.yahoo.com/video/navigate-uncertain-markets-during-iranian-205155348.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774039915,
-        "type": "News"
-    },
-    {
-        "title": "Supermicro stock plunges 33% after US charges co-founder with conspiracy to smuggle Nvidia chips to China",
-        "title_zh": "美国指控联合创始人串谋将 Nvidia 芯片走私到中国后，超微股价暴跌 33%",
-        "summary": "Supermicro stock plummeted after an unsealed indictment revealed that the US charged two Supermicro employees and a contractor with smuggling servers containing Nvidia chips to China.",
-        "summary_zh": "在一份未密封的起诉书披露美国指控两名超微员工和一名承包商向中国走私含有英伟达芯片的服务器后，超微股价暴跌。",
-        "link": "https://finance.yahoo.com/news/supermicro-stock-plunges-33-after-us-charges-co-founder-with-conspiracy-to-smuggle-nvidia-chips-to-china-201013177.html",
+        "title": "Nvidia's changing its strategic approach to AI, going all in on inferencing and agents",
+        "title_zh": "Nvidia 正在改变其人工智能战略方法，全力投入推理和代理",
+        "summary": "Nvidia is evolving to focus on inferencing and AI agents.",
+        "summary_zh": "Nvidia 正在不断发展，专注于推理和人工智能代理。",
+        "link": "https://finance.yahoo.com/sectors/article/nvidias-changing-its-strategic-approach-to-ai-going-all-in-on-inferencing-and-agents-185557754.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1774037413,
+        "publish_time": 1773860157,
         "type": "News"
     },
     {
-        "title": "Super Micro co-founder's smuggling arrest, Planet Labs stock soars",
-        "title_zh": "Super Micro联合创始人走私被捕，Planet Labs股价飙升",
-        "summary": "Market Catalysts host Julie Hyman takes a look at some of Friday morning's trending tickers and stories. FedEx (FDX) earnings beat Wall Street's estimates on the top and bottom lines. The company also lifted its full-year guidance.",
-        "summary_zh": "市场催化剂主持人朱莉·海曼 (Julie Hyman) 回顾了周五上午的一些热门行情和故事。联邦快递（FDX）的盈利超出了华尔街的顶线和底线预期。该公司还上调了全年指引。",
-        "link": "https://finance.yahoo.com/video/super-micro-co-founders-smuggling-150601530.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774019161,
-        "type": "News"
-    },
-    {
-        "title": "The robotaxi companies have the same goal but wildly different problems",
-        "title_zh": "机器人出租车公司有着相同的目标，但问题却截然不同",
-        "summary": "The top players in the space, from Uber, to Alphabet's Waymo, to Tesla, all face technological roadblocks even as they must clear obstacles unique to their respective brands and operations.",
-        "summary_zh": "从 Uber 到 Alphabet 旗下的 Waymo，再到特斯拉，该领域的顶尖企业都面临着技术障碍，尽管他们必须清除各自品牌和运营所特有的障碍。",
-        "link": "https://finance.yahoo.com/news/the-robotaxi-companies-have-the-same-goal-but-wildly-different-problems-100052753.html",
+        "title": "BMW's new i3 EV takes on Tesla with 440-mile range",
+        "title_zh": "宝马新款 i3 电动汽车续航里程达 440 英里，与特斯拉展开较量",
+        "summary": "BMW officially unveiled the new i3 EV on Wednesday, a sedan loaded with BMW's sport-oriented DNA and a Tesla-fighting 440 miles of estimated range.",
+        "summary_zh": "周三，宝马正式推出了新款 i3 EV，这是一款搭载宝马运动型 DNA 的轿车，预计续航里程可达 440 英里，可与特斯拉相媲美。",
+        "link": "https://finance.yahoo.com/economy/article/bmws-new-i3-ev-takes-on-tesla-with-440-mile-range-143043831.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1774000852,
-        "type": "News"
-    },
-    {
-        "title": "Morning Brief: Deescalation hopes amid surging oil",
-        "title_zh": "早间简报：油价飙升带来局势缓和的希望",
-        "summary": "We've got an empty economic and corporate calendar, leaving a vacuum for the ups and downs of the oil market. The key thing to watch for: signs of deescalation.",
-        "summary_zh": "我们的经济和企业日历空空荡荡，为石油市场的涨跌留下了真空。需要注意的关键是：降级迹象。",
-        "link": "https://finance.yahoo.com/news/morning-brief-deescalation-hopes-amid-surging-oil-100016490.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774000816,
+        "publish_time": 1773844243,
         "type": "News"
     }
 ]

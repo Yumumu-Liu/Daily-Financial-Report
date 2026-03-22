@@ -1,5 +1,25 @@
 [
     {
+        "title": "How Lyft’s NVIDIA AI Integration and Freenow Deal At Lyft (LYFT) Has Changed Its Investment Story",
+        "title_zh": "Lyft 的 NVIDIA AI 集成和 Lyft (LYFT) 的 Freenow 交易如何改变了其投资故事",
+        "summary": "In March 2026, Lyft announced it will integrate NVIDIA’s AI technologies across its global operations to boost predictive modeling, mapping, and future Level 4 autonomous fleet architectures powered by NVIDIA DRIVE Hyperion.",
+        "summary_zh": "2026 年 3 月，Lyft 宣布将在其全球运营中整合 NVIDIA 的 AI 技术，以增强预测建模、地图绘制以及由 NVIDIA DRIVE Hyperion 提供支持的未来 4 级自动驾驶车队架构。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-nvidia-ai-integration-freenow-010516474.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774141516,
+        "type": "News"
+    },
+    {
+        "title": "Constellation Energy To Sell PJM Portfolio Of Generation Assets In $5 Billion Deal",
+        "title_zh": "Constellation Energy 将以 50 亿美元的价格出售 PJM 发电资产组合",
+        "summary": "Constellation Energy shares are trending on Thursday. On Wednesday, the company disclosed that it is advancing its regulatory commitments through a significant asset sale.",
+        "summary_zh": "星座能源公司的股票周四呈现走势。周三，该公司透露，它正在通过一项重大资产出售来推进其监管承诺。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/constellation-energy-sell-pjm-portfolio-100208295.html",
+        "publisher": "Benzinga",
+        "publish_time": 1774087328,
+        "type": "News"
+    },
+    {
         "title": "EA buyout debt draws $25 billion in orders as banks navigate volatile markets",
         "title_zh": "银行应对动荡的市场，EA 收购债务吸引了 250 亿美元的订单",
         "summary": "Investing.com -- Investor demand for Electronic Arts Inc (NASDAQ:EA) nearly $15 billion debt offering has reached approximately $25 billion, a sign of resilient appetite for large-scale buyouts even as Wall Street banks struggle with a \"white-knuckle\" credit environment.",
@@ -7,16 +27,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ea-buyout-debt-draws-25-002231376.html",
         "publisher": "Investing.com",
         "publish_time": 1774052551,
-        "type": "News"
-    },
-    {
-        "title": "Amazon’s Rivr Deal And AI Phone Plans Shape Long Term Outlook",
-        "title_zh": "亚马逊的 Rivr 交易和人工智能手机计划塑造了长期前景",
-        "summary": "Amazon.com (NasdaqGS: AMZN) has acquired Zurich based robotics startup Rivr, which focuses on autonomous stair climbing delivery robots, to accelerate doorstep delivery automation.",
-        "summary_zh": "亚马逊（NasdaqGS：AMZN）收购了总部位于苏黎世的机器人初创公司 Rivr，该公司专注于自动爬楼梯送货机器人，以加速送货上门自动化。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-rivr-deal-ai-phone-001808373.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774052288,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ecolab-buying-coolit-systems-4-152636658.html",
         "publisher": "MT Newswires",
         "publish_time": 1774020396,
-        "type": "News"
-    },
-    {
-        "title": "Is Salesforce (CRM) Offering Value After A 30 Day Rebound And Yearlong Slump?",
-        "title_zh": "经过 30 天的反弹和长达一年的低迷之后，Salesforce (CRM) 是否能提供价值？",
-        "summary": "Wondering if Salesforce at around US$194.99 is a bargain or still pricing in a lot of optimism? This article focuses squarely on what you are paying versus what you may be getting.",
-        "summary_zh": "想知道 Salesforce 的价格在 194.99 美元左右是否便宜，还是仍然充满乐观情绪？本文主要关注您所支付的费用与您可能获得的费用。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-offering-value-30-130626487.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774011986,
         "type": "News"
     }
 ]
