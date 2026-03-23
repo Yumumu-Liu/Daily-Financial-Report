@@ -1,42 +1,52 @@
 [
     {
-        "title": "US stocks end sharply lower; Middle East turmoil fans inflation fear",
-        "title_zh": "美股大幅收低；中东动荡加剧通胀担忧",
-        "summary": "STORY: Wall Street's main indexes ended sharply lower on Friday, with the Dow dropping nearly one percent, the S&P 500 falling one-and-a-half percent to close at it lowest level in six months, and the Nasdaq shedding two percent, nearing correction territory.The small-cap Russ...",
-        "summary_zh": "故事：华尔街主要股指周五大幅收低，其中道琼斯指数下跌近百分之一，标准普尔 500 指数下跌百分之半，收于六个月以来的最低水平，纳斯达克指数下跌百分之二，接近回调区域。",
-        "link": "https://finance.yahoo.com/video/us-stocks-end-sharply-lower-222953722.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1774045793,
-        "type": "News"
-    },
-    {
-        "title": "Market Madness: Palantir, Walmart, & other hot stock picks",
-        "title_zh": "市场疯狂：Palantir、沃尔玛和其他热门股票精选",
-        "summary": "In the second installment of Yahoo Finance's \"Market Madness\" bracket tournament, Zack's Investment Management chief market strategist Brian Mulberry joins Yahoo Finance Head of News Myles Udland to make the case for this round of corporate match-ups, which includes Robinhood ...",
-        "summary_zh": "在雅虎财经“市场疯狂”分组赛的第二期中，扎克投资管理公司首席市场策略师布莱恩·穆伯里 (Brian Mulberry) 与雅虎财经新闻主管迈尔斯·乌德兰 (Myles Udland) 一起为这一轮企业对决进行论证，其中包括 Robinhood ...",
-        "link": "https://finance.yahoo.com/video/market-madness-palantir-walmart-other-211331593.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774041211,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia's changing its strategic approach to AI, going all in on inferencing and agents",
-        "title_zh": "Nvidia 正在改变其人工智能战略方法，全力投入推理和代理",
-        "summary": "Nvidia is evolving to focus on inferencing and AI agents.",
-        "summary_zh": "Nvidia 正在不断发展，专注于推理和人工智能代理。",
-        "link": "https://finance.yahoo.com/sectors/article/nvidias-changing-its-strategic-approach-to-ai-going-all-in-on-inferencing-and-agents-185557754.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as 4-week down spiral continues, Trump threatens Iran",
+        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克期货下跌，连续 4 周螺旋式下跌，特朗普威胁伊朗",
+        "summary": "Fresh threats from Trump against Iran over energy infrastructure have cooled market confidence amid surging oil prices.",
+        "summary_zh": "特朗普就能源基础设施问题对伊朗发出新的威胁，在油价飙升之际冷却了市场信心。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-4-week-down-spiral-continues-trump-threatens-iran-230122440.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773860157,
+        "publish_time": 1774220482,
         "type": "News"
     },
     {
-        "title": "BMW's new i3 EV takes on Tesla with 440-mile range",
-        "title_zh": "宝马新款 i3 电动汽车续航里程达 440 英里，与特斯拉展开较量",
-        "summary": "BMW officially unveiled the new i3 EV on Wednesday, a sedan loaded with BMW's sport-oriented DNA and a Tesla-fighting 440 miles of estimated range.",
-        "summary_zh": "周三，宝马正式推出了新款 i3 EV，这是一款搭载宝马运动型 DNA 的轿车，预计续航里程可达 440 英里，可与特斯拉相媲美。",
-        "link": "https://finance.yahoo.com/economy/article/bmws-new-i3-ev-takes-on-tesla-with-440-mile-range-143043831.html",
+        "title": "Musk says SpaceX and Tesla to build advanced chip factories in Austin",
+        "title_zh": "马斯克表示 SpaceX 和特斯拉将在奥斯汀建造先进芯片工厂",
+        "summary": "LOS ANGELES, March 22 (Reuters) - SpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, ‌Texas, one to power cars and humanoid robots, and another designed ‌for artificial intelligence data centers in space, CEO Elon Musk said on Sunday.",
+        "summary_zh": "路透洛杉矶 3 月 22 日 - 首席执行官埃隆·马斯克 (Elon Musk) 周日表示，SpaceX 和特斯拉将在德克萨斯州奥斯汀的一座庞大工厂建造两座先进芯片工厂，一座为汽车和人形机器人提供动力，另一座为太空人工智能数据中心设计。",
+        "link": "https://finance.yahoo.com/news/musk-says-spacex-tesla-build-214536329.html",
+        "publisher": "Reuters",
+        "publish_time": 1774215936,
+        "type": "News"
+    },
+    {
+        "title": "AI is starting to look terrifying if you have a job",
+        "title_zh": "如果你有工作，人工智能就会开始变得可怕",
+        "summary": "Time to fear AI.",
+        "summary_zh": "是时候害怕人工智能了。",
+        "link": "https://finance.yahoo.com/news/ai-is-starting-to-look-terrifying-if-you-have-a-job-123053638.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1773844243,
+        "publish_time": 1774182653,
+        "type": "News"
+    },
+    {
+        "title": "3 weeks of war, possible rate hikes, and AI's 'show me' phase: What to watch this week",
+        "title_zh": "持续三周的战争、可能的加息以及人工智能的“展示”阶段：本周值得关注的内容",
+        "summary": "As the war in Iran rolls into its fourth week, continued energy market disruption and renewed bets on rate hikes by the Fed should capture investor attention in the week ahead.",
+        "summary_zh": "随着伊朗战争进入第四周，能源市场的持续混乱和美联储加息的新赌注应该会在未来一周引起投资者的关注。",
+        "link": "https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1774179460,
+        "type": "News"
+    },
+    {
+        "title": "Apple CEO Praises China Partners as Beijing Applies Pressure",
+        "title_zh": "苹果首席执行官在北京施加压力之际赞扬中国合作伙伴",
+        "summary": "Cook, speaking at the China Development Forum in Beijing on Sunday, praised the innovations of Chinese developers and the automation at the country’s manufacturing facilities.",
+        "summary_zh": "库克周日在北京举行的中国发展论坛上发表讲话，赞扬了中国开发商的创新和中国制造设施的自动化。",
+        "link": "https://finance.yahoo.com/news/apple-ceo-praises-china-partners-062420012.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774160660,
         "type": "News"
     }
 ]

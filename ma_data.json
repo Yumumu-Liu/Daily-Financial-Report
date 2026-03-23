@@ -1,32 +1,12 @@
 [
     {
-        "title": "Constellation Energy To Sell PJM Portfolio Of Generation Assets In $5 Billion Deal",
-        "title_zh": "Constellation Energy 将以 50 亿美元的价格出售 PJM 发电资产组合",
-        "summary": "Constellation Energy shares are trending on Thursday. On Wednesday, the company disclosed that it is advancing its regulatory commitments through a significant asset sale.",
-        "summary_zh": "星座能源公司的股票周四呈现走势。周三，该公司透露，它正在通过一项重大资产出售来推进其监管承诺。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/constellation-energy-sell-pjm-portfolio-100208295.html",
-        "publisher": "Benzinga",
-        "publish_time": 1774087328,
-        "type": "News"
-    },
-    {
-        "title": "EA buyout debt draws $25 billion in orders as banks navigate volatile markets",
-        "title_zh": "银行应对动荡的市场，EA 收购债务吸引了 250 亿美元的订单",
-        "summary": "Investing.com -- Investor demand for Electronic Arts Inc (NASDAQ:EA) nearly $15 billion debt offering has reached approximately $25 billion, a sign of resilient appetite for large-scale buyouts even as Wall Street banks struggle with a \"white-knuckle\" credit environment.",
-        "summary_zh": "Investing.com——投资者对艺电公司（Electronic Arts Inc，纳斯达克股票代码：EA）近150亿美元债券发行的需求已达到约250亿美元，这表明即使华尔街银行在“紧张”的信贷环境中挣扎，人们对大规模收购的兴趣依然强劲。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ea-buyout-debt-draws-25-002231376.html",
-        "publisher": "Investing.com",
-        "publish_time": 1774052551,
-        "type": "News"
-    },
-    {
-        "title": "The Dealmaking 3: MLB & Adobe Expanding Partnership, AI in Pickleball, Apple TV’s Deal with F1",
-        "title_zh": "交易 3：MLB 和 Adob​​e 扩大合作伙伴关系、Pickleball 中的人工智能、Apple TV 与 F1 的交易",
-        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features MLB and Adobe Inc.",
-        "summary_zh": "观看本周的《The Dealmaking 3》：本周由“体育教授”Rick Horrow 主持的《The Dealmaking 3》由 MLB 和 Adob​​e Inc. 报道。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-mlb-adobe-expanding-210232252.html",
-        "publisher": "CorpGov.com",
-        "publish_time": 1774040552,
+        "title": "This $7 Million Masimo Exit Came Before a 34% Surge on $9.9 Billion Acquisition",
+        "title_zh": "Masimo 的 700 万美元退出是在 99 亿美元的收购价格飙升 34% 之前进行的",
+        "summary": "Masimo develops advanced noninvasive monitoring technologies used by hospitals and healthcare providers worldwide.",
+        "summary_zh": "Masimo 开发先进的无创监测技术，供世界各地的医院和医疗保健提供者使用。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/7-million-masimo-exit-came-175649704.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1774202209,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-offering-value-30-130626487.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1774011986,
+        "type": "News"
+    },
+    {
+        "title": "Ecolab Nears Deal for KKR’s Data-Center Cooling Company",
+        "title_zh": "艺康 (Ecolab) 即将收购 KKR 数据中心冷却公司",
+        "summary": "Ecolab  is nearing a deal to acquire data-center cooling company CoolIT Systems from  KKR  for between $4.5 billion and $5 billion, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，Ecolab 即将达成协议，以 45 亿至 50 亿美元的价格从 KKR 手中收购数据中心冷却公司 CoolIT Systems。",
+        "link": "https://www.wsj.com/business/deals/ecolab-near-deal-for-kkrs-data-center-cooling-company-5290dd92?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1773940020,
+        "type": "News"
+    },
+    {
+        "title": "Is KKR’s (KKR) Deal Juggling Amid Liquidity Strains Reframing Its Private Markets Playbook?",
+        "title_zh": "KKR (KKR) 在流动性紧张的情况下进行的交易是否正在重新制定其私募市场策略？",
+        "summary": "In recent days, KKR has reportedly joined the bidding for Pacific Equity Partners-owned UP Education, which could fetch more than A$1.00 billion, while also exploring a potential sale of liquid-cooling provider CoolIT Systems in a deal that may exceed US$3.00 billion.",
+        "summary_zh": "据报道，最近几天，KKR 加入了对 Pacific Equity Partners 旗下的 UP Education 的竞购，该交易的售价可能超过 10 亿澳元，同时还在探索出售液冷供应商 CoolIT Systems 的可能性，交易金额可能超过 30 亿美元。",
+        "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1773457884,
         "type": "News"
     }
 ]
