@@ -1,5 +1,15 @@
 [
     {
+        "title": "Should You Buy the Invesco QQQ ETF During the Stock Market Sell-Off? History Offers a Clear Answer.",
+        "title_zh": "您应该在股市抛售期间购买Invesco QQQ ETF吗？历史给出了明确的答案。",
+        "summary": "Stock market volatility is a normal part of the investing journey.",
+        "summary_zh": "股市波动是投资过程中的正常组成部分。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-invesco-qqq-etf-during-085000083.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1774255800,
+        "type": "News"
+    },
+    {
         "title": "This $7 Million Masimo Exit Came Before a 34% Surge on $9.9 Billion Acquisition",
         "title_zh": "Masimo 的 700 万美元退出是在 99 亿美元的收购价格飙升 34% 之前进行的",
         "summary": "Masimo develops advanced noninvasive monitoring technologies used by hospitals and healthcare providers worldwide.",
@@ -37,16 +47,6 @@
         "link": "https://www.wsj.com/business/deals/ecolab-near-deal-for-kkrs-data-center-cooling-company-5290dd92?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1773940020,
-        "type": "News"
-    },
-    {
-        "title": "Is KKR’s (KKR) Deal Juggling Amid Liquidity Strains Reframing Its Private Markets Playbook?",
-        "title_zh": "KKR (KKR) 在流动性紧张的情况下进行的交易是否正在重新制定其私募市场策略？",
-        "summary": "In recent days, KKR has reportedly joined the bidding for Pacific Equity Partners-owned UP Education, which could fetch more than A$1.00 billion, while also exploring a potential sale of liquid-cooling provider CoolIT Systems in a deal that may exceed US$3.00 billion.",
-        "summary_zh": "据报道，最近几天，KKR 加入了对 Pacific Equity Partners 旗下的 UP Education 的竞购，该交易的售价可能超过 10 亿澳元，同时还在探索出售液冷供应商 CoolIT Systems 的可能性，交易金额可能超过 30 亿美元。",
-        "link": "https://finance.yahoo.com/news/kkr-kkr-deal-juggling-amid-031124092.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1773457884,
         "type": "News"
     }
 ]

@@ -1,10 +1,60 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as 4-week down spiral continues, Trump threatens Iran",
-        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克期货下跌，连续 4 周螺旋式下跌，特朗普威胁伊朗",
-        "summary": "Fresh threats from Trump against Iran over energy infrastructure have cooled market confidence amid surging oil prices.",
-        "summary_zh": "特朗普就能源基础设施问题对伊朗发出新的威胁，在油价飙升之际冷却了市场信心。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-4-week-down-spiral-continues-trump-threatens-iran-230122440.html",
+        "title": "Trending tickers: Tesla, Alphabet, Synopsys and Endeavour Mining",
+        "title_zh": "热门股票：Tesla、Alphabet、Synopsys 和 Endeavor Mining",
+        "summary": "The latest investor updates on stocks that are trending on Monday.",
+        "summary_zh": "投资者对周一趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/tesla-alphabet-synopsys-endeavour-mining-trending-tickers-094003362.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774258803,
+        "type": "News"
+    },
+    {
+        "title": "Bonds, Stocks Fall as US and Iran Step Up Rhetoric: Markets Wrap",
+        "title_zh": "随着美国和伊朗的言辞升级，债券和股票下跌：市场结束",
+        "summary": "S&P 500 futures dropped 0.6% hours ahead of US President Donald Trump’s deadline for Iran to reopen the Strait of Hormuz. Iran carried out fresh strikes across the Persian Gulf and kept the waterway effectively shut, with Brent crude up 0.6% around $113.",
+        "summary_zh": "在美国总统唐纳德·特朗普为伊朗重新开放霍尔木兹海峡的最后期限前几个小时，标准普尔 500 指数期货下跌 0.6%。伊朗在波斯湾发动了新的袭击，并有效关闭了水道，布伦特原油上涨0.6%，约为113美元。",
+        "link": "https://finance.yahoo.com/news/traders-brace-turbulent-open-war-193000196.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774256967,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: London plunges into correction territory as Trump gives Iran ultimatum",
+        "title_zh": "富时 100 实时：特朗普向伊朗发出最后通牒，伦敦陷入调整区间",
+        "summary": "The US President has given Tehran until the end of today to reopen the Strait of Hormuz or risk strikes on the country’s power generation facilities.",
+        "summary_zh": "美国总统已要求德黑兰在今天年底前重新开放霍尔木兹海峡，否则该国的发电设施将面临遭受袭击的风险。",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-trumps-iran-ultimatum-090908031.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774256948,
+        "type": "News"
+    },
+    {
+        "title": "Exclusive-EU digital rules should apply to Big Tech's smart TVs, broadcasters tell antitrust chief",
+        "title_zh": "广播公司告诉反垄断主管，欧盟专有数字规则应适用于大型科技公司的智能电视",
+        "summary": "Google, Amazon, Apple and Samsung's smart TVs and virtual assistants should fall under the EU's toughest tech rules because of their growing market power, the world's largest ‌broadcasters told EU antitrust chief Teresa Ribera on Monday.",
+        "summary_zh": "全球最大的广播公司周一告诉欧盟反垄断主管特蕾莎·里贝拉，谷歌、亚马逊、苹果和三星的智能电视和虚拟助手由于市场力量不断增强，应受到欧盟最严格的科技规则的约束。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-eu-digital-rules-apply-090132778.html",
+        "publisher": "Reuters",
+        "publish_time": 1774256492,
+        "type": "News"
+    },
+    {
+        "title": "Musk says SpaceX, Tesla to build advanced chip factories in Texas",
+        "title_zh": "马斯克表示 SpaceX 和特斯拉将在德克萨斯州建立先进的芯片工厂",
+        "summary": "STORY: :: SpaceXSpaceX and Tesla will build two advanced chip factories at a sprawling facility in Austin, Texas.:: FileCEO Elon Musk unveiled the so-called 'Terafab' project on Sunday.:: TeslaOne facility will make chips for cars and humanoid robots.:: SpaceXThe other is desi...",
+        "summary_zh": "故事：:: SpaceX 和特斯拉将在得克萨斯州奥斯汀的一座庞大工厂建造两座先进的芯片工厂。:: FileCEO 埃隆·马斯克周日公布了所谓的“Terafab”项目。:: Tesla 工厂将为汽车和人形机器人生产芯片。:: SpaceX 另一个工厂是设计...",
+        "link": "https://finance.yahoo.com/video/musk-says-spacex-tesla-build-033842513.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1774237122,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink as Iran launches strikes in face of Trump warning",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌，因伊朗面对特朗普警告发动袭击",
+        "summary": "Markets are on edge for an escalation in the Mideast war after Trump gave Iran a 2-day deadline to reopen Hormuz or face heavy bombing.",
+        "summary_zh": "在特朗普给伊朗两天的期限内重新开放霍尔木兹海峡后，市场对中东战争升级感到紧张，否则将面临猛烈轰炸。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-sink-as-iran-launches-strikes-in-face-of-trump-warning-230122272.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774220482,
         "type": "News"
@@ -37,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774179460,
-        "type": "News"
-    },
-    {
-        "title": "Apple CEO Praises China Partners as Beijing Applies Pressure",
-        "title_zh": "苹果首席执行官在北京施加压力之际赞扬中国合作伙伴",
-        "summary": "Cook, speaking at the China Development Forum in Beijing on Sunday, praised the innovations of Chinese developers and the automation at the country’s manufacturing facilities.",
-        "summary_zh": "库克周日在北京举行的中国发展论坛上发表讲话，赞扬了中国开发商的创新和中国制造设施的自动化。",
-        "link": "https://finance.yahoo.com/news/apple-ceo-praises-china-partners-062420012.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1774160660,
         "type": "News"
     }
 ]
