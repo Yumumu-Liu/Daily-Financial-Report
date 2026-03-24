@@ -1,5 +1,35 @@
 [
     {
+        "title": "Is Oracle (ORCL) Offering Value After Recent Share Price Weakness And AI Cloud Optimism",
+        "title_zh": "在近期股价疲软和人工智能云乐观之后，甲骨文 (ORCL) 是否能提供价值",
+        "summary": "If you are wondering whether Oracle's current share price reflects its true worth, you are not alone. This article focuses squarely on what the latest data says about value.",
+        "summary_zh": "如果您想知道甲骨文当前的股价是否反映了其真实价值，那么您并不孤单。本文重点关注最新数据对价值的看法。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-offering-value-recent-090510471.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774343110,
+        "type": "News"
+    },
+    {
+        "title": "Saudi Arabia, Kuwait Seek to Pursue Energy Deals Despite War",
+        "title_zh": "沙特阿拉伯和科威特不顾战争寻求能源交易",
+        "summary": "(Bloomberg) -- Saudi Arabia and Kuwait are attempting to press on with planned multibillion-dollar energy deals despite a widening conflict that’s seen Iran target oil and gas infrastructure across the Middle East over the past three weeks.Kuwait Petroleum Corp.’s attempts to ...",
+        "summary_zh": "（彭博社）——沙特阿拉伯和科威特正试图推进计划中的数十亿美元的能源交易，尽管冲突不断扩大，过去三周伊朗瞄准了整个中东的石油和天然气基础设施。科威特石油公司试图……",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-kuwait-seek-pursue-070840052.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774336120,
+        "type": "News"
+    },
+    {
+        "title": "Can Target's New Circle Deal Days Spark a Turnaround for the Retail Stock",
+        "title_zh": "塔吉特的新循环交易日能否引发零售股的好转",
+        "summary": "Target stock is moving higher after a CEO change. Can it keep going?",
+        "summary_zh": "首席执行官更换后，目标股价走高。还能继续下去吗？",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/targets-circle-deal-days-spark-040500372.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1774325100,
+        "type": "News"
+    },
+    {
         "title": "JPMorgan’s US$8b EA Buyout Deal And What It Means For Valuation",
         "title_zh": "摩根大通 8 亿美元收购 EA 交易及其对估值的影响",
         "summary": "JPMorgan Chase (NYSE:JPM) is leading a consortium of banks in launching an $8b junk bond sale. The debt issuance is intended to finance the leveraged buyout of video game publisher Electronic Arts.",
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-offers-clients-way-hedge-175230248.html",
         "publisher": "Bloomberg",
         "publish_time": 1774288350,
-        "type": "News"
-    },
-    {
-        "title": "Adeia CEO Highlights Patent Growth, OTT Deals and “Seminal” AMD License at Roth Conference",
-        "title_zh": "Adeia 首席执行官在 Roth 会议上强调专利增长、OTT 交易和“开创性”AMD 许可",
-        "summary": "Adeia (NASDAQ:ADEA) CEO Paul Davis outlined the company’s evolution since its separation from Xperi in October 2022, highlighting a strategy centered on research and development, patent licensing, and what he described as an expanding opportunity set across both media and semi...",
-        "summary_zh": "Adeia（纳斯达克股票代码：ADEA）首席执行官 Paul Davis 概述了该公司自 2022 年 10 月从 Xperi 分离以来的演变，强调了以研发、专利许可为中心的战略，以及他所描述的跨媒体和半领域不断扩大的机会集。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/adeia-ceo-highlights-patent-growth-174725493.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1774288045,
-        "type": "News"
-    },
-    {
-        "title": "Ecolab Buying CoolIT Systems in $4.75 Billion Deal as Data Center Liquid Cooling Demand Surges",
-        "title_zh": "随着数据中心液体冷却需求激增，Ecolab 以 47.5 亿美元收购 CoolIT Systems",
-        "summary": "Ecolab (ECL) agreed to acquire CoolIT Systems from KKR (KKR) in a $4.75 billion deal as technology c",
-        "summary_zh": "Ecolab (ECL) 同意以 47.5 亿美元的价格从 KKR (KKR) 手中收购 CoolIT Systems，作为技术合作伙伴",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ecolab-buying-coolit-systems-4-152636658.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1774020396,
-        "type": "News"
-    },
-    {
-        "title": "Ecolab Nears Deal for KKR’s Data-Center Cooling Company",
-        "title_zh": "艺康 (Ecolab) 即将收购 KKR 数据中心冷却公司",
-        "summary": "Ecolab  is nearing a deal to acquire data-center cooling company CoolIT Systems from  KKR  for between $4.5 billion and $5 billion, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，Ecolab 即将达成协议，以 45 亿至 50 亿美元的价格从 KKR 手中收购数据中心冷却公司 CoolIT Systems。",
-        "link": "https://www.wsj.com/business/deals/ecolab-near-deal-for-kkrs-data-center-cooling-company-5290dd92?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1773940020,
         "type": "News"
     }
 ]

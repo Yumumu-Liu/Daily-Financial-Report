@@ -1,22 +1,32 @@
 [
     {
-        "title": "Trump Began Iran Talks as Allies Warned War Risked Disaster",
-        "title_zh": "特朗普开始伊朗会谈，盟友警告战争可能带来灾难",
-        "summary": "(Bloomberg) -- Donald Trump’s decision to back down from his threat to destroy Iran’s power infrastructure came after US allies and Gulf countries privately warned the president of the dangers of following through with his threat, according to people familiar with the matter.",
-        "summary_zh": "（彭博社）——据知情人士透露，在美国盟友和海湾国家私下警告总统兑现威胁的危险之后，唐纳德·特朗普决定放弃摧毁伊朗电力基础设施的威胁。",
-        "link": "https://finance.yahoo.com/news/trump-began-iran-talks-allies-170932532.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1774319780,
+        "title": "FTSE 100 LIVE: Stocks lack direction as traders assess Middle East conflict",
+        "title_zh": "富时 100 实时指数：交易员评估中东冲突，股市缺乏方向",
+        "summary": "Conflicting advice over whether US-Iran truce talks have occurred leaves traders confused",
+        "summary_zh": "关于美伊休战谈判是否已经进行的相互矛盾的建议让交易员感到困惑",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-middle-east-conflict-iran-war-085910922.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774342750,
         "type": "News"
     },
     {
-        "title": "Alibaba Unveils New Chip Design to Meet Surging Demand for AI",
-        "title_zh": "阿里巴巴推出新芯片设计以满足不断增长的人工智能需求",
-        "summary": "(Bloomberg) -- Alibaba Group Holding Ltd.",
-        "summary_zh": "（彭博社）——阿里巴巴集团控股有限公司",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/alibaba-unveils-chip-design-meet-022508591.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1774319108,
+        "title": "Exclusive-Amazon says AWS' Bahrain region 'disrupted' following drone activity",
+        "title_zh": "亚马逊称 AWS 巴林地区因无人机活动而“受到干扰”",
+        "summary": "By Greg Bensinger SAN FRANCISCO, March 23 (Reuters) - Amazon said on Monday its Amazon Web Services region in Bahrain has been \"disrupted\" amid the current conflict in the Middle East.",
+        "summary_zh": "路透旧金山 3 月 23 日 - 亚马逊周一表示，其位于巴林的亚马逊网络服务区域因当前中东冲突而受到“干扰”。",
+        "link": "https://finance.yahoo.com/news/exclusive-amazon-says-aws-bahrain-052138396.html",
+        "publisher": "Reuters",
+        "publish_time": 1774329698,
+        "type": "News"
+    },
+    {
+        "title": "European car sales rise modestly in February, Tesla reverses year-long skid",
+        "title_zh": "欧洲2月汽车销量小幅增长 特斯拉扭转全年下滑",
+        "summary": "By Alessandro Parodi March 24 (Reuters) - New car sales in Europe rose in February after falling in January, while sustained demand for electric vehicles helped Elon Musk's all-electric brand Tesla",
+        "summary_zh": "路透 3 月 24 日 - 欧洲新车销量继 1 月份下降后，2 月份出现增长，而电动汽车的持续需求帮助埃隆·马斯克 (Elon Musk) 旗下的全电动品牌特斯拉 (Tesla)",
+        "link": "https://finance.yahoo.com/news/european-car-sales-rise-modestly-050129864.html",
+        "publisher": "Reuters",
+        "publish_time": 1774328489,
         "type": "News"
     },
     {
@@ -40,23 +50,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after relief rally on Trump's hint of Iran deescalation",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货因特朗普暗示伊朗局势缓和而出现缓解反弹后持稳",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Iran officials reject negotiation",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因伊朗官员拒绝谈判而波动",
         "summary": "The US-Israeli war in Iran is dominating market discussion as hopeful news emerges of hostilities winding down.",
         "summary_zh": "随着敌对行动结束的充满希望的消息出现，美以在伊朗的战争成为市场讨论的焦点。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-steady-after-relief-rally-on-trumps-hint-of-iran-deescalation-224729252.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-iran-officials-reject-negotiation-224729852.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774306049,
-        "type": "News"
-    },
-    {
-        "title": "What is Tesla's 'Terafab' and how much will it actually cost?",
-        "title_zh": "特斯拉的“Terafab”是什么？它的实际成本是多少？",
-        "summary": "Tematica Research CIO Chris Versace joins Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination Host Josh Lipton to discuss Tesla (TSLA) and SpaceX's (SPAX.PVT) recently announced project, the \"Terafab\" chip production plant.",
-        "summary_zh": "Tematica Research 首席信息官 Chris Versace 与雅虎财经高级汽车记者 Pras Subramanian 和《市场支配》主持人 Josh Lipton 一起讨论特斯拉 (TSLA) 和 SpaceX (SPAX.PVT) 最近宣布的项目“Tera...",
-        "link": "https://finance.yahoo.com/video/teslas-terafab-much-actually-cost-205318986.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774299198,
         "type": "News"
     },
     {
