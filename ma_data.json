@@ -1,22 +1,32 @@
 [
     {
-        "title": "Should You Buy the Invesco QQQ ETF During the Stock Market Sell-Off? History Offers a Clear Answer.",
-        "title_zh": "您应该在股市抛售期间购买Invesco QQQ ETF吗？历史给出了明确的答案。",
-        "summary": "Stock market volatility is a normal part of the investing journey.",
-        "summary_zh": "股市波动是投资过程中的正常组成部分。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-invesco-qqq-etf-during-085000083.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774255800,
+        "title": "JPMorgan’s US$8b EA Buyout Deal And What It Means For Valuation",
+        "title_zh": "摩根大通 8 亿美元收购 EA 交易及其对估值的影响",
+        "summary": "JPMorgan Chase (NYSE:JPM) is leading a consortium of banks in launching an $8b junk bond sale. The debt issuance is intended to finance the leveraged buyout of video game publisher Electronic Arts.",
+        "summary_zh": "摩根大通（纽约证券交易所股票代码：JPM）正在牵头一个银行财团发起 80 亿美元的垃圾债券销售。此次债券发行旨在为视频游戏发行商艺电公司的杠杆收购提供资金。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-us-8b-ea-buyout-200504190.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774296304,
         "type": "News"
     },
     {
-        "title": "This $7 Million Masimo Exit Came Before a 34% Surge on $9.9 Billion Acquisition",
-        "title_zh": "Masimo 的 700 万美元退出是在 99 亿美元的收购价格飙升 34% 之前进行的",
-        "summary": "Masimo develops advanced noninvasive monitoring technologies used by hospitals and healthcare providers worldwide.",
-        "summary_zh": "Masimo 开发先进的无创监测技术，供世界各地的医院和医疗保健提供者使用。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/7-million-masimo-exit-came-175649704.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774202209,
+        "title": "JPMorgan offers clients a new way to hedge AI debt risk",
+        "title_zh": "摩根大通为客户提供一种对冲人工智能债务风险的新方法",
+        "summary": "(Bloomberg) -- JPMorgan Chase & Co.",
+        "summary_zh": "（彭博社）——摩根大通公司",
+        "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-offers-clients-way-hedge-175230248.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774288350,
+        "type": "News"
+    },
+    {
+        "title": "Adeia CEO Highlights Patent Growth, OTT Deals and “Seminal” AMD License at Roth Conference",
+        "title_zh": "Adeia 首席执行官在 Roth 会议上强调专利增长、OTT 交易和“开创性”AMD 许可",
+        "summary": "Adeia (NASDAQ:ADEA) CEO Paul Davis outlined the company’s evolution since its separation from Xperi in October 2022, highlighting a strategy centered on research and development, patent licensing, and what he described as an expanding opportunity set across both media and semi...",
+        "summary_zh": "Adeia（纳斯达克股票代码：ADEA）首席执行官 Paul Davis 概述了该公司自 2022 年 10 月从 Xperi 分离以来的演变，强调了以研发、专利许可为中心的战略，以及他所描述的跨媒体和半领域不断扩大的机会集。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/adeia-ceo-highlights-patent-growth-174725493.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1774288045,
         "type": "News"
     },
     {
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ecolab-buying-coolit-systems-4-152636658.html",
         "publisher": "MT Newswires",
         "publish_time": 1774020396,
-        "type": "News"
-    },
-    {
-        "title": "Is Salesforce (CRM) Offering Value After A 30 Day Rebound And Yearlong Slump?",
-        "title_zh": "经过 30 天的反弹和长达一年的低迷之后，Salesforce (CRM) 是否能提供价值？",
-        "summary": "Wondering if Salesforce at around US$194.99 is a bargain or still pricing in a lot of optimism? This article focuses squarely on what you are paying versus what you may be getting.",
-        "summary_zh": "想知道 Salesforce 的价格在 194.99 美元左右是否便宜，还是仍然充满乐观情绪？本文主要关注您所支付的费用与您可能获得的费用。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-offering-value-30-130626487.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774011986,
         "type": "News"
     },
     {
