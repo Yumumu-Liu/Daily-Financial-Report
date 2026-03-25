@@ -1,52 +1,52 @@
 [
     {
-        "title": "Is Oracle (ORCL) Offering Value After Recent Share Price Weakness And AI Cloud Optimism",
-        "title_zh": "在近期股价疲软和人工智能云乐观之后，甲骨文 (ORCL) 是否能提供价值",
-        "summary": "If you are wondering whether Oracle's current share price reflects its true worth, you are not alone. This article focuses squarely on what the latest data says about value.",
-        "summary_zh": "如果您想知道甲骨文当前的股价是否反映了其真实价值，那么您并不孤单。本文重点关注最新数据对价值的看法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-offering-value-recent-090510471.html",
+        "title": "JPMorgan launches $8 billion bond sale for EA buyout",
+        "title_zh": "摩根大通发行 80 亿美元债券以收购 EA",
+        "summary": "JPMorgan Chase kicked off an $8 billion junk bond sale on March 23 to finance the $55 billion leveraged buyout of Electronic Arts. It is the largest leveraged buyout in history.",
+        "summary_zh": "摩根大通于 3 月 23 日开始发行 80 亿美元的垃圾债券，为艺电公司 550 亿美元的杠杆收购提供资金。这是历史上最大的杠杆收购。",
+        "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-launches-8-billion-bond-030700744.html",
+        "publisher": "TheStreet",
+        "publish_time": 1774408020,
+        "type": "News"
+    },
+    {
+        "title": "Adobe Links Semrush Deal And NVIDIA Alliance To AI Marketing Future",
+        "title_zh": "Adobe 将 Semrush 交易和 NVIDIA 联盟与 AI 营销的未来联系起来",
+        "summary": "Adobe, ticker NasdaqGS:ADBE, plans to acquire marketing platform Semrush for US$1.9b. The company also announced an expanded partnership with NVIDIA focused on next generation Firefly models and AI agent workflows.",
+        "summary_zh": "Adobe（股票代码 NasdaqGS：ADBE）计划以 1.9 亿美元收购营销平台 Semrush。该公司还宣布扩大与 NVIDIA 的合作伙伴关系，重点关注下一代 Firefly 模型和 AI 代理工作流程。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-links-semrush-deal-nvidia-010552646.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1774343110,
+        "publish_time": 1774400752,
         "type": "News"
     },
     {
-        "title": "Saudi Arabia, Kuwait Seek to Pursue Energy Deals Despite War",
-        "title_zh": "沙特阿拉伯和科威特不顾战争寻求能源交易",
-        "summary": "(Bloomberg) -- Saudi Arabia and Kuwait are attempting to press on with planned multibillion-dollar energy deals despite a widening conflict that’s seen Iran target oil and gas infrastructure across the Middle East over the past three weeks.Kuwait Petroleum Corp.’s attempts to ...",
-        "summary_zh": "（彭博社）——沙特阿拉伯和科威特正试图推进计划中的数十亿美元的能源交易，尽管冲突不断扩大，过去三周伊朗瞄准了整个中东的石油和天然气基础设施。科威特石油公司试图……",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-arabia-kuwait-seek-pursue-070840052.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1774336120,
-        "type": "News"
-    },
-    {
-        "title": "Can Target's New Circle Deal Days Spark a Turnaround for the Retail Stock",
-        "title_zh": "塔吉特的新循环交易日能否引发零售股的好转",
-        "summary": "Target stock is moving higher after a CEO change. Can it keep going?",
-        "summary_zh": "首席执行官更换后，目标股价走高。还能继续下去吗？",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/targets-circle-deal-days-spark-040500372.html",
+        "title": "Is Rivian's $1.25 Billion Robotaxi Deal With Uber Really a Good One for Shareholders?",
+        "title_zh": "Rivian 与 Uber 的 12.5 亿美元机器人出租车交易对股东来说真的是一件好事吗？",
+        "summary": "Rivian had to abandon a long-standing profitability goal to make the deal with Uber. Was it worth it?",
+        "summary_zh": "Rivian 不得不放弃长期的盈利目标才能与 Uber 达成交易。值得吗？",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rivians-1-25-billion-robotaxi-232600696.html",
         "publisher": "Motley Fool",
-        "publish_time": 1774325100,
+        "publish_time": 1774394760,
         "type": "News"
     },
     {
-        "title": "JPMorgan’s US$8b EA Buyout Deal And What It Means For Valuation",
-        "title_zh": "摩根大通 8 亿美元收购 EA 交易及其对估值的影响",
-        "summary": "JPMorgan Chase (NYSE:JPM) is leading a consortium of banks in launching an $8b junk bond sale. The debt issuance is intended to finance the leveraged buyout of video game publisher Electronic Arts.",
-        "summary_zh": "摩根大通（纽约证券交易所股票代码：JPM）正在牵头一个银行财团发起 80 亿美元的垃圾债券销售。此次债券发行旨在为视频游戏发行商艺电公司的杠杆收购提供资金。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-us-8b-ea-buyout-200504190.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774296304,
-        "type": "News"
-    },
-    {
-        "title": "JPMorgan offers clients a new way to hedge AI debt risk",
-        "title_zh": "摩根大通为客户提供一种对冲人工智能债务风险的新方法",
-        "summary": "(Bloomberg) -- JPMorgan Chase & Co.",
-        "summary_zh": "（彭博社）——摩根大通公司",
-        "link": "https://finance.yahoo.com/markets/options/articles/jpmorgan-offers-clients-way-hedge-175230248.html",
+        "title": "OpenAI Discontinues Support for Sora, Winds Down Disney Deal",
+        "title_zh": "OpenAI 停止支持 Sora，终止迪士尼交易",
+        "summary": "(Bloomberg) -- OpenAI plans to discontinue its Sora AI video generator six months after the high-profile launch of a standalone app for the service, as the company works to simplify its portfolio of artificial intelligence products. The ChatGPT maker and Walt Disney Co.",
+        "summary_zh": "（彭博社）——OpenAI 计划在高调推出该服务的独立应用程序六个月后停止其 Sora AI 视频生成器，因为该公司致力于简化其人工智能产品组合。 ChatGPT 制造商和华特迪士尼公司。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-discontinues-support-sora-winds-213140547.html",
         "publisher": "Bloomberg",
-        "publish_time": 1774288350,
+        "publish_time": 1774387900,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: Sumitomo Mitsui Says No Immediate Plan to Acquire Jefferies; Janus Gets $52/Share Offer From Trian, General Catalyst",
+        "title_zh": "午间热门故事：三井住友表示没有立即收购 Jefferies 的计划； Janus 从 General Catalyst Trian 处获得 52 美元/股的报价",
+        "summary": "The Dow Jones Industrial Average was up, while the S&P 500 Index and Nasdaq Composite were down, as",
+        "summary_zh": "道琼斯工业平均指数上涨，而标准普尔 500 指数和纳斯达克综合指数下跌，",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-sumitomo-mitsui-153618251.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1774366578,
         "type": "News"
     }
 ]
