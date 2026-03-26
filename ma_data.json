@@ -1,22 +1,22 @@
 [
     {
-        "title": "OpenAI Just Became Broadcom's Newest Chip Customer. Here's Why That's a Massive Deal for 2026.",
-        "title_zh": "OpenAI 刚刚成为 Broadcom 的最新芯片客户。这就是为什么这是 2026 年的一项大规模交易。",
-        "summary": "Broadcom has added OpenAI to its growing list of design partners. That makes it a stock you should seriously consider for 2026.",
-        "summary_zh": "Broadcom 已将 OpenAI 添加到其不断增长的设计合作伙伴名单中。这使得它成为你在 2026 年应该认真考虑的股票。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-just-became-broadcoms-newest-032500912.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774495500,
+        "title": "FTSE 100 LIVE: Stocks slip amid doubts over US-Iran peace deal",
+        "title_zh": "富时 100 实时指数：因美伊和平协议存疑，股市下跌",
+        "summary": "White House insists peace talks with Iran are ongoing, while Tehran has publicly rejected US overtures",
+        "summary_zh": "白宫坚称与伊朗的和平谈判正在进行中，而德黑兰则公开拒绝了美国的提议",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-us-iran-peace-deal-consumer-confidence-090651948.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774516011,
         "type": "News"
     },
     {
-        "title": "Hesai Group (HSAI) Is Down 18.6% After First Full-Year Profit And NVIDIA LiDAR Deal - What's Changed",
-        "title_zh": "禾赛集团 (HSAI) 首次实现全年盈利并与 NVIDIA LiDAR 达成交易后股价下跌 18.6% - 发生了什么变化",
-        "summary": "Hesai Group recently reported its fourth-quarter and full-year 2025 results, with full-year sales of CNY 3,027.57 million and net income of CNY 435.88 million, marking its first full-year GAAP profitability and a turnaround from the prior year’s net loss.",
-        "summary_zh": "禾赛集团近日公布了2025年第四季度及全年业绩，全年销售额30.2757亿元，净利润4.3588亿元，首次实现全年GAAP盈利，扭转了上年净亏损的局面。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-group-hsai-down-18-030945170.html",
+        "title": "Fiserv Reshapes Fintech Role With Western Alliance Deal And JP Morgan Hires",
+        "title_zh": "Fiserv 通过西方联盟交易和摩根大通招聘重塑金融科技角色",
+        "summary": "Fiserv (NasdaqGS:FISV) has entered its largest ever agent bank partnership with Western Alliance Bank, expanding its merchant technology reach in the Western US.",
+        "summary_zh": "Fiserv（纳斯达克GS：FISV）已与西部联盟银行建立有史以来最大的代理银行合作伙伴关系，扩大其在美国西部的商业技术覆盖范围。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-reshapes-fintech-role-western-070652767.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1774494585,
+        "publish_time": 1774508812,
         "type": "News"
     },
     {
@@ -30,6 +30,16 @@
         "type": "News"
     },
     {
+        "title": "Morgan Stanley Bitcoin ETF ready for ‘imminent’ launch. Here’s why that’s a big deal",
+        "title_zh": "摩根士丹利比特币 ETF 已准备好“即将”推出。这就是为什么这很重要",
+        "summary": "This is the first Bitcoin fund from a major US bank. Morgan Stanley has 16,000 financial advisors managing around $6.2 trillion. Bitcoin ETFs already hold upwards of $83 billion in assets.",
+        "summary_zh": "这是美国主要银行的第一支比特币基金。摩根士丹利拥有 16,000 名财务顾问，管理着约 6.2 万亿美元。比特币 ETF 已持有超过 830 亿美元的资产。",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bitcoin-etf-ready-021725817.html",
+        "publisher": "DLNews",
+        "publish_time": 1774491445,
+        "type": "News"
+    },
+    {
         "title": "Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.",
         "title_zh": "亚马逊正在进军人形机器人市场。关于 Fauna Robotics 收购需要了解的 3 件重要事项。",
         "summary": "Amazon is gearing up to become a much bigger player in robotics.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-entering-humanoid-robot-market-012315042.html",
         "publisher": "Motley Fool",
         "publish_time": 1774488195,
-        "type": "News"
-    },
-    {
-        "title": "KKR Strikes Deal for Nothing Bundt Cakes",
-        "title_zh": "KKR 达成无偿交易 Bundt Cakes",
-        "summary": "Private-equity giant  KKR  has struck a deal to acquire the U.S. bakery chain Nothing Bundt Cakes from Roark Capital for over $2 billion, including debt, according to people familiar with the matter. Nothing Bundt Cakes was started by two mothers in 1997.",
-        "summary_zh": "据知情人士透露，私募股权巨头 KKR 已达成协议，以超过 20 亿美元（含债务）从 Roark Capital 手中收购美国面包连锁店 Nothing Bundt Cakes。 Nothing Bundt Cakes 由两位母亲于 1997 年创立。",
-        "link": "https://www.wsj.com/business/deals/kkr-strikes-deal-for-nothing-bundt-cakes-e02bcdb9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1774461300,
         "type": "News"
     }
 ]

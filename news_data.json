@@ -1,30 +1,50 @@
 [
     {
-        "title": "Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，英伟达支持的 Reflection AI 估值有望达到 250 亿美元",
-        "summary": "Nvidia-backed startup Reflection AI is in ‌talks to raise $2.5 billion ‌at a valuation of $25 billion, the ​Wall Street Journal reported on Wednesday, citing people familiar with the matter. Here are some ‌details:",
-        "summary_zh": "据《华尔街日报》周三援引知情人士消息称，Nvidia 支持的初创公司 Reflection AI 正在洽谈融资 25 亿美元，估值为 250 亿美元。以下是一些细节：",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-backed-reflection-ai-eyes-024320600.html",
+        "title": "Trending tickers: Meta, Google, AMD, Next and Currys",
+        "title_zh": "热门股票：Meta、Google、AMD、Next 和 Currys",
+        "summary": "A landmark social media case, AI chips and CEO reshuffles moved markets on Wednesday.",
+        "summary_zh": "周三，具有里程碑意义的社交媒体案例、人工智能芯片和首席执行官改组影响了市场。",
+        "link": "https://finance.yahoo.com/news/trending-tickers-meta-google-amd-next-and-currys-092119263.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774516879,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks slip amid doubts over US-Iran peace deal",
+        "title_zh": "富时 100 实时指数：因美伊和平协议存疑，股市下跌",
+        "summary": "White House insists peace talks with Iran are ongoing, while Tehran has publicly rejected US overtures",
+        "summary_zh": "白宫坚称与伊朗的和平谈判正在进行中，而德黑兰则公开拒绝了美国的提议",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-us-iran-peace-deal-consumer-confidence-090651948.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774516011,
+        "type": "News"
+    },
+    {
+        "title": "Google top India counsel quits in latest departure amid regulatory hurdles, sources say",
+        "title_zh": "消息人士称，谷歌印度首席法律顾问因监管障碍而辞职",
+        "summary": "Google's top India counsel, Bijoya Roy, has resigned after ‌16 months in the role, two sources ‌said, a high-profile exit in a key market where the U.S. ​tech giant is facing regulatory hurdles and also lacks a government relations head.",
+        "summary_zh": "两名消息人士称，谷歌印度首席法律顾问 Bijoya Roy 在担任该职位 16 个月后辞职，这是谷歌在印度面临监管障碍且缺乏政府关系主管的关键市场的高调退出。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/google-top-india-counsel-quits-084917238.html",
         "publisher": "Reuters",
-        "publish_time": 1774493000,
+        "publish_time": 1774514957,
         "type": "News"
     },
     {
-        "title": "Meta, Google lose US case over youth addiction to social media",
-        "title_zh": "Meta、谷歌在美国因青少年沉迷社交媒体而败诉",
-        "summary": "STORY: A landmark verdict Wednesday found Meta and Google liable for designing platforms dangerous to kids and teens.Both companies were slapped with damages to the tune of $6 million.The Los Angeles jury found Meta liable for $4.2 million of that and Alphabet's&nbsp;Google fo...",
-        "summary_zh": "故事：周三，一项具有里程碑意义的判决发现 Meta 和谷歌对设计对儿童和青少年构成危险的平台负有责任。两家公司均被判损失高达 600 万美元。洛杉矶陪审团裁定 Meta 需承担其中 420 万美元的赔偿责任，而 Alphabet 旗下的谷歌则需承担 420 万美元的赔偿责任。",
-        "link": "https://finance.yahoo.com/video/meta-google-lose-us-case-234532133.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1774482332,
+        "title": "Google Memory Breakthrough Prompts Global Chipmaker Selloff",
+        "title_zh": "谷歌内存突破促使全球芯片制造商抛售",
+        "summary": "(Bloomberg) -- Shares of computer memory and storage makers slumped after Google researchers touted a new compression technique that could reduce the amount of memory needed for artificial intelligence workloads.SK Hynix Inc., a key maker of memory chips for artificial intelli...",
+        "summary_zh": "（彭博社）——在谷歌研究人员推出一种新的压缩技术后，计算机内存和存储制造商的股价暴跌，该技术可以减少人工智能工作负载所需的内存量。SK 海力士公司是人工智能内存芯片的主要制造商。",
+        "link": "https://finance.yahoo.com/news/google-breakthrough-spurs-chip-selloff-022926567.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774506632,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures flat as Wall Street weighs prospects for Iran truce",
-        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货持平，华尔街权衡伊朗休战前景",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street weighs prospects for Iran truce",
+        "title_zh": "今日股市：华尔街权衡伊朗休战前景，道指、标准普尔 500 指数、纳斯达克期货下跌",
         "summary": "The war in Iran is leading the markets on a roller coaster of moves as Trump and Tehran issue conflicting statements around negotiations.",
         "summary_zh": "随着特朗普和德黑兰围绕谈判发表相互矛盾的声明，伊朗战争正引领市场出现过山车般的波动。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-flat-as-wall-street-weighs-prospects-for-iran-truce-225159568.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-weighs-prospects-for-iran-truce-225159013.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774479119,
         "type": "News"
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/meta-youtube-found-negligent-in-landmark-social-media-addiction-lawsuit-174554492.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774460754,
-        "type": "News"
-    },
-    {
-        "title": "Disney's OpenAI partnership may shift, Meta's reported layoffs",
-        "title_zh": "迪士尼的 OpenAI 合作伙伴关系可能会发生变化，Meta 报道裁员",
-        "summary": "Yahoo Finance Senior Producer John Hyland tracks Tuesday's top moving stocks and biggest market stories.Disney (DIS) stock is under pressure due to shifts in its OpenAI (OPAI.PVT) partnership, as well as Epic Games's layoff announcement.Meta (META) is in focus amid reports of ...",
-        "summary_zh": "雅虎财经高级制作人 John Hyland 追踪周二走势最强劲的股票和最大的市场故事。由于 OpenAI (OPAI.PVT) 合作伙伴关系的变化以及 Epic Games 的裁员公告，迪士尼 (DIS) 股票面临压力。Meta (META) 成为焦点...",
-        "link": "https://finance.yahoo.com/video/disneys-openai-partnership-may-shift-metas-reported-layoffs-173626714.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774460186,
-        "type": "News"
-    },
-    {
-        "title": "Musk’s xAI ‘Doubling Down’ on AI Videos After OpenAI Nixes Sora",
-        "title_zh": "OpenAI 取消 Sora 后，马斯克的 xAI 在人工智能视频上“加倍努力”",
-        "summary": "(Bloomberg) -- Elon Musk said his artificial intelligence company, xAI, plans to upgrade its AI video generator, seizing on an opening left by rival OpenAI’s decision this week to discontinue its Sora product.",
-        "summary_zh": "（彭博社）——埃隆·马斯克表示，他的人工智能公司 xAI 计划升级其人工智能视频生成器，抓住竞争对手 OpenAI 本周决定停止其 Sora 产品留下的空缺。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/musk-xai-doubling-down-ai-172050031.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1774459250,
         "type": "News"
     }
 ]
