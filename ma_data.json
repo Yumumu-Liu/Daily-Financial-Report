@@ -1,52 +1,52 @@
 [
     {
-        "title": "FTSE 100 LIVE: Stocks slip amid doubts over US-Iran peace deal",
-        "title_zh": "富时 100 实时指数：因美伊和平协议存疑，股市下跌",
-        "summary": "White House insists peace talks with Iran are ongoing, while Tehran has publicly rejected US overtures",
-        "summary_zh": "白宫坚称与伊朗的和平谈判正在进行中，而德黑兰则公开拒绝了美国的提议",
-        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-us-iran-peace-deal-consumer-confidence-090651948.html",
-        "publisher": "Yahoo Finance UK",
-        "publish_time": 1774516011,
-        "type": "News"
-    },
-    {
-        "title": "Fiserv Reshapes Fintech Role With Western Alliance Deal And JP Morgan Hires",
-        "title_zh": "Fiserv 通过西方联盟交易和摩根大通招聘重塑金融科技角色",
-        "summary": "Fiserv (NasdaqGS:FISV) has entered its largest ever agent bank partnership with Western Alliance Bank, expanding its merchant technology reach in the Western US.",
-        "summary_zh": "Fiserv（纳斯达克GS：FISV）已与西部联盟银行建立有史以来最大的代理银行合作伙伴关系，扩大其在美国西部的商业技术覆盖范围。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-reshapes-fintech-role-western-070652767.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774508812,
-        "type": "News"
-    },
-    {
-        "title": "Dow Jones Futures: Stock Market Fades Amid Iran War Deal Hopes, Doubts",
-        "title_zh": "道琼斯期货：在伊朗战争协议的希望与怀疑中股市下跌",
-        "summary": "The stock market slashed gains amid Iran war hopes and doubts. Space play Karman Holdings reported earnings late.",
-        "summary_zh": "在伊朗战争的希望和疑虑中，股市大幅下跌。太空游戏卡曼控股公司 (Karman Holdings) 晚间公布了财报。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-war-deal-hopes-karman/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1774494395,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley Bitcoin ETF ready for ‘imminent’ launch. Here’s why that’s a big deal",
-        "title_zh": "摩根士丹利比特币 ETF 已准备好“即将”推出。这就是为什么这很重要",
-        "summary": "This is the first Bitcoin fund from a major US bank. Morgan Stanley has 16,000 financial advisors managing around $6.2 trillion. Bitcoin ETFs already hold upwards of $83 billion in assets.",
-        "summary_zh": "这是美国主要银行的第一支比特币基金。摩根士丹利拥有 16,000 名财务顾问，管理着约 6.2 万亿美元。比特币 ETF 已持有超过 830 亿美元的资产。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-bitcoin-etf-ready-021725817.html",
-        "publisher": "DLNews",
-        "publish_time": 1774491445,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Is Entering the Humanoid Robot Market. 3 Important Things to Know About the Fauna Robotics Acquisition.",
-        "title_zh": "亚马逊正在进军人形机器人市场。关于 Fauna Robotics 收购需要了解的 3 件重要事项。",
-        "summary": "Amazon is gearing up to become a much bigger player in robotics.",
-        "summary_zh": "亚马逊正准备成为机器人领域更大的参与者。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-entering-humanoid-robot-market-012315042.html",
+        "title": "Emerging Market Showdown: IEMG Offers Lower Fees Compared to EEM",
+        "title_zh": "新兴市场对决：IEMG 的费用低于 EEM",
+        "summary": "Expense ratios, portfolio breadth, and yield set these two emerging markets ETFs apart in ways that matter for cost-conscious investors.",
+        "summary_zh": "费用比率、投资组合广度和收益率使这两种新兴市场 ETF 脱颖而出，这对于注重成本的投资者来说至关重要。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/emerging-market-showdown-iemg-offers-012940804.html",
         "publisher": "Motley Fool",
-        "publish_time": 1774488195,
+        "publish_time": 1774574980,
+        "type": "News"
+    },
+    {
+        "title": "The Dealmaking 3: Pac-12 & Genius Sports Deal, YouTube & FIFA World Cup, NHL with COSM",
+        "title_zh": "The Dealmaking 3：Pac-12 和 Genius Sports Deal、YouTube 和 FIFA 世界杯、NHL 与 COSM",
+        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features the Pac-12 signing a wide-ranging deal with Genius Sports Limited (NYSE: GENI), FIFA and YouTube starting a partnership to make the latter the preferred platform ...",
+        "summary_zh": "观看本周的《交易 3》：本周《体育教授》里克·霍罗 (Rick Horrow) 主持的《交易 3》中，太平洋十二校联盟 (Pac-12) 与 Genius Sports Limited（纽约证券交易所股票代码：GENI）、国际足联 (FIFA) 和 YouTube 签署了一...",
+        "link": "https://sports.yahoo.com/articles/dealmaking-3-pac-12-genius-005151733.html",
+        "publisher": "CorpGov.com",
+        "publish_time": 1774572711,
+        "type": "News"
+    },
+    {
+        "title": "IWO vs. VUG: One Offers Broad Growth Exposure While the Other Has Lower Fees",
+        "title_zh": "IWO 与 VUG：一个提供广泛的增长机会，而另一个则费用较低",
+        "summary": "Explore how portfolio composition and sector focus set these two growth ETFs apart for investors seeking different risk profiles.",
+        "summary_zh": "探索投资组合构成和行业重点如何使这两种成长型 ETF 对于寻求不同风险状况的投资者来说与众不同。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/iwo-vs-vug-one-offers-002533039.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1774571133,
+        "type": "News"
+    },
+    {
+        "title": "Rubenstein-Backed Manna Tree Targets $500 Million Fund Amid Deal Slump",
+        "title_zh": "鲁宾斯坦支持的 Manna Tree 在交易低迷之际筹集 5 亿美元资金",
+        "summary": "Wellness-focused private equity firm pursues new fund as smaller deals and portfolio growth support continued deal flow.",
+        "summary_zh": "专注于健康的私募股权公司正在寻求新基金，因为规模较小的交易和投资组合增长支持了持续的交易流。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rubenstein-backed-manna-tree-targets-191207258.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1774552327,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: Iran Reportedly Sends Formal Response to US Ceasefire Proposal; Corebridge, Equitable to Merge in $22 Billion All-Stock Deal",
+        "title_zh": "午间热门新闻：据报道伊朗对美国停火提议做出正式回应； Corebridge 与 Equitable 将以 220 亿美元的全股票交易进行合并",
+        "summary": "All three major US stock indexes were down in late-morning trading on Thursday as investors attempt",
+        "summary_zh": "由于投资者试图买入，美国三大股指在周四早盘交易中均下跌",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-iran-reportedly-153824786.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1774539504,
         "type": "News"
     }
 ]
