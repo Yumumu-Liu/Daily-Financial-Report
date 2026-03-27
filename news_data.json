@@ -1,12 +1,32 @@
 [
     {
-        "title": "Indian shares likely to fall as Iran war drags on",
-        "title_zh": "随着伊朗战争的持续，印度股市可能下跌",
-        "summary": "March 27 (Reuters) - Indian shares are on course to open lower on Friday, tracking global stocks and elevated Brent crude prices, as hopes for a resolution to the Iran war have ebbed. U.S.",
-        "summary_zh": "路透 3 月 27 日 - 由于解决伊朗战争的希望已经减弱，印度股市周五开盘走低，追随全球股市和布伦特原油价格的上涨。我们。",
-        "link": "https://finance.yahoo.com/news/indian-shares-likely-fall-iran-023831186.html",
+        "title": "Trending tickers: Reddit, Meta, Novartis, Metlen Energy",
+        "title_zh": "热门股票：Reddit、Meta、诺华、Metlen Energy",
+        "summary": "Verdict in social media trial continued to impact markets, alongside pharma deals and delayed results",
+        "summary_zh": "社交媒体审判的判决以及制药交易和延迟结果继续影响市场",
+        "link": "https://finance.yahoo.com/news/trending-tickers-reddit-meta-novartis-metlen-energy-091050368.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774602650,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks muted as Trump delays strikes on Iran power plants",
+        "title_zh": "富时 100 实时指数：特朗普推迟对伊朗发电厂的打击，股市低迷",
+        "summary": "US president extended deadline for Iran to open the Strait of Hormuz by 10 days",
+        "summary_zh": "美国总统将伊朗开放霍尔木兹海峡的最后期限延长10天",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-muted-as-trump-delays-strikes-on-iran-power-plants-085734986.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774601854,
+        "type": "News"
+    },
+    {
+        "title": "VW's software partnership with Rivian clears investment hurdle",
+        "title_zh": "大众汽车与 Rivian 的软件合作扫清了投资障碍",
+        "summary": "BERLIN, March 27 (Reuters) - Volkswagen's software partnership with Rivian, a cornerstone of CEO Oliver Blume's turnaround strategy for the German auto group, has passed a key milestone, bringing the",
+        "summary_zh": "路透柏林 3 月 27 日 - 大众汽车与 Rivian 的软件合作伙伴关系是这家德国汽车集团首席执行官奥利弗·布鲁姆 (Oliver Blume) 扭亏为盈战略的基石，该合作伙伴关系已跨越了一个关键里程碑，使",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vws-software-partnership-rivian-clears-083240891.html",
         "publisher": "Reuters",
-        "publish_time": 1774579111,
+        "publish_time": 1774600560,
         "type": "News"
     },
     {
@@ -30,21 +50,11 @@
         "type": "News"
     },
     {
-        "title": "Nasdaq confirms correction as Iran war uncertainty spooks investors",
-        "title_zh": "由于伊朗战争的不确定性吓坏了投资者，纳斯达克确认调整",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/nasdaq-confirms-correction-iran-war-225505077.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1774565705,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump delays military action against Iranian infrastructure",
-        "title_zh": "今日股市：由于特朗普推迟对伊朗基础设施采取军事行动，道指、标准普尔 500 指数和纳斯达克期货上涨",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump delays strikes on Iran power plants",
+        "title_zh": "今日股市：由于特朗普推迟对伊朗发电厂的打击，道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨",
         "summary": "Trump has pushed attacks against Iran's energy infrastructure back in a move to calm markets.",
         "summary_zh": "特朗普已推迟对伊朗能源基础设施的攻击，以安抚市场。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-delays-military-action-against-iranian-infrastructure-224556863.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-trump-delays-strikes-on-iran-power-plants-224556714.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774565156,
         "type": "News"
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/magnificent-7-stocks-are-seeing-a-shocking-run-chart-173113172.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774546273,
-        "type": "News"
-    },
-    {
-        "title": "Job cuts at Meta, Epic Games, but new unemployment claims hold steady",
-        "title_zh": "Meta、Epic Games 裁员，但新申请失业救济人数保持稳定",
-        "summary": "Meta laid off roughly 700 workers across multiple divisions, while the Fortnite publisher Epic Games announced it was slashing over 1,000 roles.",
-        "summary_zh": "Meta 在多个部门解雇了约 700 名员工，而《堡垒之夜》发行商 Epic Games 则宣布裁员 1,000 多人。",
-        "link": "https://finance.yahoo.com/news/job-cuts-at-meta-epic-games-but-new-unemployment-claims-hold-steady-163526671.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774542926,
         "type": "News"
     }
 ]

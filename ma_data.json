@@ -1,35 +1,5 @@
 [
     {
-        "title": "Emerging Market Showdown: IEMG Offers Lower Fees Compared to EEM",
-        "title_zh": "新兴市场对决：IEMG 的费用低于 EEM",
-        "summary": "Expense ratios, portfolio breadth, and yield set these two emerging markets ETFs apart in ways that matter for cost-conscious investors.",
-        "summary_zh": "费用比率、投资组合广度和收益率使这两种新兴市场 ETF 脱颖而出，这对于注重成本的投资者来说至关重要。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/emerging-market-showdown-iemg-offers-012940804.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774574980,
-        "type": "News"
-    },
-    {
-        "title": "The Dealmaking 3: Pac-12 & Genius Sports Deal, YouTube & FIFA World Cup, NHL with COSM",
-        "title_zh": "The Dealmaking 3：Pac-12 和 Genius Sports Deal、YouTube 和 FIFA 世界杯、NHL 与 COSM",
-        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features the Pac-12 signing a wide-ranging deal with Genius Sports Limited (NYSE: GENI), FIFA and YouTube starting a partnership to make the latter the preferred platform ...",
-        "summary_zh": "观看本周的《交易 3》：本周《体育教授》里克·霍罗 (Rick Horrow) 主持的《交易 3》中，太平洋十二校联盟 (Pac-12) 与 Genius Sports Limited（纽约证券交易所股票代码：GENI）、国际足联 (FIFA) 和 YouTube 签署了一...",
-        "link": "https://sports.yahoo.com/articles/dealmaking-3-pac-12-genius-005151733.html",
-        "publisher": "CorpGov.com",
-        "publish_time": 1774572711,
-        "type": "News"
-    },
-    {
-        "title": "IWO vs. VUG: One Offers Broad Growth Exposure While the Other Has Lower Fees",
-        "title_zh": "IWO 与 VUG：一个提供广泛的增长机会，而另一个则费用较低",
-        "summary": "Explore how portfolio composition and sector focus set these two growth ETFs apart for investors seeking different risk profiles.",
-        "summary_zh": "探索投资组合构成和行业重点如何使这两种成长型 ETF 对于寻求不同风险状况的投资者来说与众不同。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/iwo-vs-vug-one-offers-002533039.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774571133,
-        "type": "News"
-    },
-    {
         "title": "Rubenstein-Backed Manna Tree Targets $500 Million Fund Amid Deal Slump",
         "title_zh": "鲁宾斯坦支持的 Manna Tree 在交易低迷之际筹集 5 亿美元资金",
         "summary": "Wellness-focused private equity firm pursues new fund as smaller deals and portfolio growth support continued deal flow.",
@@ -47,6 +17,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-iran-reportedly-153824786.html",
         "publisher": "MT Newswires",
         "publish_time": 1774539504,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "title": "Tesla Stock Tries to Break 5-Week Losing Run. SpaceX IPO, Rosy Sales Estimates May Not Be Enough.",
+        "title_zh": "特斯拉股票试图打破连续五周的下跌趋势。 SpaceX 首次公开募股，乐观的销售预期可能还不够。",
+        "summary": "It will take a positive reaction to the first-quarter sales estimates and SpaceX IPO news.  Tesla stock needs to finish above $ 367.96 to snap a five-week losing streak.  It’s the longest losing streak since January 2025, when shares fell for nine consecutive weeks.",
+        "summary_zh": "这需要对第一季度销售预期和 SpaceX IPO 消息做出积极反应。  特斯拉股价需要收于 367.96 美元以上才能结束五周连续下跌。  这是自 2025 年 1 月以来最长的连续下跌，当时股价连续九周下跌。",
+        "link": "https://www.barrons.com/articles/tesla-stock-spacex-ipo-sales-musk-cadf06e2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1774596600,
+        "type": "News"
+    },
+    {
         "title": "Chart of the Day 2-16-26- With Past IPOs Slumping, Will Mega-Deals Proceed",
         "title_zh": "每日图表 2-16-26-过去的 IPO 数量大幅下滑，大型交易是否会继续进行",
         "summary": "This COULD be the year of the mega-IPO – with top Artificial Intelligence (AI) companies and SpaceX eyeing 2026 public market debuts. But the performance of past Initial Public Offerings is souring, raising questions about investor enthusiasm for big deals.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/2026-massive-ipos-120000205.html",
         "publisher": "Zacks",
         "publish_time": 1766059200,
-        "type": "News"
-    },
-    {
-        "title": "IPO Market Rebounds In Q3; These Small IPOs More Than Double",
-        "title_zh": "第三季度IPO市场反弹；这些小型 IPO 数量增加了一倍多",
-        "summary": "After a slowdown in the second quarter, the IPO market is back in full stride in the third quarter, with the most initial public offerings and the most $100-million deals since 2021.",
-        "summary_zh": "经过第二季度的放缓后，IPO 市场在第三季度全面恢复，首次公开募股和 1 亿美元交易数量创 2021 年以来之最。",
-        "link": "https://www.investors.com/news/ipos-ipo-market-klarna-figma/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1758734439,
         "type": "News"
     }
 ]
