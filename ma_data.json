@@ -1,5 +1,15 @@
 [
     {
+        "title": "Assessing Veritone (VERI) Valuation After Oracle Cloud Deal And AI Privacy Platform Updates",
+        "title_zh": "Oracle 云交易和 AI 隐私平台更新后评估 Veritone (VERI) 估值",
+        "summary": "Veritone (VERI) has drawn fresh attention after a multi year agreement with Oracle to migrate its AI solutions to Oracle Cloud Infrastructure, along with updates to its privacy focused Redact and Data Refinery platforms. See our latest analysis for Veritone.",
+        "summary_zh": "Veritone (VERI) 与 Oracle 达成多年协议，将其人工智能解决方案迁移到 Oracle 云基础设施，并更新了其专注于隐私的 Redact 和 Data Refinery 平台，之后引起了新的关注。请参阅我们对 Veritone 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-veritone-veri-valuation-oracle-050608349.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774674368,
+        "type": "News"
+    },
+    {
         "title": "Oracle’s Veritone AI Deal And Nashville Growth Add Context To Valuation",
         "title_zh": "甲骨文的 Veritone AI 交易和纳什维尔的增长为估值增添了背景",
         "summary": "Oracle (NYSE:ORCL) has signed a multi year agreement for Veritone to run its AI solutions on Oracle Cloud Infrastructure. The company is also expanding its physical presence in Nashville with a new long term lease and plans for additional tech roles.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-iran-reportedly-153824786.html",
         "publisher": "MT Newswires",
         "publish_time": 1774539504,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]

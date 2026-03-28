@@ -1,15 +1,5 @@
 [
     {
-        "title": "Stocks tumble, Dow confirms correction, as Middle East war weighs",
-        "title_zh": "由于中东战争的影响，股市暴跌，道指确认调整",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/stocks-tumble-dow-confirms-correction-223151023.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1774650711,
-        "type": "News"
-    },
-    {
         "title": "Anthropic eyes an October IPO, which could raise over $60B",
         "title_zh": "Anthropic 计划 10 月份进行 IPO，筹集资金超过 $60B",
         "summary": "Yahoo Finance Technology Editor Dan Howley joins Josh Lipton to break down reports that Anthropic (ANTH.PVT) could go public as soon as October, as it looks to get ahead of OpenAI (OPAI.PVT) in the intensifying AI race.",
@@ -43,7 +33,7 @@
         "title": "Dow sheds nearly 800 points, stocks sink as volatility spikes higher",
         "title_zh": "道指下跌近 800 点，股市因波动性加剧而下跌",
         "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are selling off in Friday's session, marking another week of losses for all three of the major indexes.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周五交易中遭到抛售，标志着三大股指又连续一周下跌。",
+        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周五交易中遭到抛售，这标志着三大股指又连续一周下跌。",
         "link": "https://finance.yahoo.com/video/dow-sheds-nearly-800-points-stocks-sink-as-volatility-spikes-higher-204806451.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1774644486,
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/meta-stock-falls-on-court-ruling-but-it-still-has-one-chance-150615716.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1774623975,
+        "type": "News"
+    },
+    {
+        "title": "Rising volatility points to deeper market troubles beyond Iran headlines",
+        "title_zh": "波动性上升表明伊朗头条新闻之外还有更深层次的市场问题",
+        "summary": "Yahoo Finance Head of News Myles Udland joins the Morning Brief's Julie Hyman in breaking down how rising volatility (^VIX) is signaling a shift in market conditions (^DJI, ^IXIC, ^GSPC) as the first quarter of 2026 draws to a close.",
+        "summary_zh": "雅虎财经新闻主管迈尔斯·乌德兰 (Myles Udland) 与早间简报 (Morning Brief) 的朱莉·海曼 (Julie Hyman) 一起分析了随着 2026 年第一季度即将结束，波动性上升 (^VIX) 如何预示着市场状况的转变 (^DJI、^IXIC、^G...",
+        "link": "https://finance.yahoo.com/video/rising-volatility-points-to-deeper-market-troubles-beyond-iran-headlines-144720035.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1774622840,
         "type": "News"
     }
 ]
