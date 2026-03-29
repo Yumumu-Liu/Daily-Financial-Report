@@ -1,22 +1,32 @@
 [
     {
-        "title": "Anthropic eyes an October IPO, which could raise over $60B",
-        "title_zh": "Anthropic 计划 10 月份进行 IPO，筹集资金超过 $60B",
-        "summary": "Yahoo Finance Technology Editor Dan Howley joins Josh Lipton to break down reports that Anthropic (ANTH.PVT) could go public as soon as October, as it looks to get ahead of OpenAI (OPAI.PVT) in the intensifying AI race.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 一起详细分析了有关 Anthropic (ANTH.PVT) 最早可能在 10 月份上市的报道，因为它希望在日益激烈的人工智能竞赛中领先于 OpenAI (OPAI.PVT)。",
-        "link": "https://finance.yahoo.com/video/anthropic-eyes-an-october-ipo-which-could-raise-over-60b-215736166.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774648656,
+        "title": "AI schism grips Washington as tech, labor vie for upper hand",
+        "title_zh": "科技与劳工争夺上风，人工智能分裂席卷华盛顿",
+        "summary": "(Bloomberg) -- At a historic auditorium in Washington this week, Silicon Valley executives, Trump administration officials and members of Congress gathered in a sea of button-down shirts to extol the virtues of artificial intelligence.Two days later, labor leaders joined a han...",
+        "summary_zh": "（彭博社）——本周，在华盛顿一个历史悠久的礼堂，硅谷高管、特朗普政府官员和国会议员聚集在一起，盛赞人工智能的优点。两天后，劳工领袖加入了一场……",
+        "link": "https://finance.yahoo.com/economy/policy/articles/ai-schism-grips-washington-tech-130000063.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774702800,
         "type": "News"
     },
     {
-        "title": "Why you should 'never count out' Google",
-        "title_zh": "为什么你不应该“排除”谷歌",
-        "summary": "On this segment of Market Madness, GraniteShares founder and CEO Will Rhind shares his stock picks for each matchup: Palantir (PLTR) vs. Robinhood (HOOD), Eli Lilly (LLY) vs. Walmart (WMT), Google (GOOG, GOOGL) vs. AMD (AMD), and Tesla (TSLA) vs. Bank of America (BAC).",
-        "summary_zh": "在“市场疯狂”的这一部分中，GraniteShares 创始人兼首席执行官 Will Rhind 分享了他对每场比赛的股票选择：Palantir (PLTR) 与 Robinhood (HOOD)、礼来 (LLY) 与沃尔玛 (WMT)、谷歌 (GOOG、GOOGL) 与 ...",
-        "link": "https://finance.yahoo.com/video/why-you-should-never-count-out-google-215424047.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774648464,
+        "title": "Almost everything is going wrong for markets right now",
+        "title_zh": "目前市场几乎一切都出了问题",
+        "summary": "The stock market appeared to capitulate to its fears on Friday, with the S&P 500 falling into the 6,300s. But it wasn't just stocks — bonds, gold, bitcoin, and market hopes and dreams all had a rough week.",
+        "summary_zh": "周五股市似乎屈服于担忧情绪，标准普尔 500 指数跌至 6,300 点。但不仅仅是股票——债券、黄金、比特币以及市场的希望和梦想都经历了艰难的一周。",
+        "link": "https://finance.yahoo.com/news/almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1774692005,
+        "type": "News"
+    },
+    {
+        "title": "Buffett’s Zurich Acolyte Says Odds of Beating Market Keep Fading",
+        "title_zh": "巴菲特的苏黎世助手表示，跑赢市场的可能性不断减弱",
+        "summary": "(Bloomberg) -- Guy Spier keeps a bronze bust of the late Charlie Munger of Berkshire Hathaway Inc. in the hallway of his Zurich office.",
+        "summary_zh": "（彭博社）——盖伊·斯皮尔在其苏黎世办公室的走廊里保留着伯克希尔·哈撒韦公司已故查理·芒格的青铜半身像。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buffett-zurich-acolyte-says-odds-083000659.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774686600,
         "type": "News"
     },
     {
@@ -27,66 +37,6 @@
         "link": "https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774647561,
-        "type": "News"
-    },
-    {
-        "title": "Dow sheds nearly 800 points, stocks sink as volatility spikes higher",
-        "title_zh": "道指下跌近 800 点，股市因波动性加剧而下跌",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are selling off in Friday's session, marking another week of losses for all three of the major indexes.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周五交易中遭到抛售，这标志着三大股指又连续一周下跌。",
-        "link": "https://finance.yahoo.com/video/dow-sheds-nearly-800-points-stocks-sink-as-volatility-spikes-higher-204806451.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774644486,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500 clinches longest losing streak since 2022 as oil surges, 'Magnificent 7' stocks shed $300 billion",
-        "title_zh": "今日股市：随着油价飙升，标普 500 指数创下 2022 年以来最长连跌，“Magnificent 7”股票缩水 3000 亿美元",
-        "summary": "The market sell-off continued on Friday even as Trump has postponed attacks against Iran's energy infrastructure.",
-        "summary_zh": "尽管特朗普推迟了对伊朗能源基础设施的攻击，但周五市场抛售仍在继续。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774641702,
-        "type": "News"
-    },
-    {
-        "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
-        "title_zh": "苹果聘请前谷歌高管负责人工智能营销，推动改进 Siri",
-        "summary": "SAN FRANCISCO, March 27 (Reuters) - Apple on Friday said it has hired Lilian Rincon, who previously spent nearly a decade at Google overseeing its shopping and assistant products, as the vice",
-        "summary_zh": "路透旧金山 3 月 27 日 - 苹果周五表示，已聘请 Lilian Rincon 担任副总裁，她曾在谷歌工作了近十年，负责监督其购物和助理产品。",
-        "link": "https://finance.yahoo.com/news/apple-hires-ex-google-executive-174159936.html",
-        "publisher": "Reuters",
-        "publish_time": 1774633644,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic eyes IPO, Microsoft stock set for worst quarter since 2008",
-        "title_zh": "Anthropic着眼于IPO，微软股价创下2008年以来最差季度表现",
-        "summary": "Yahoo Finance Senior Producer John Hyland tracks Friday's top moving stocks and biggest market stories.Anthropic (ANTH.PVT) is reportedly considering going public as soon as October, according to the Information.Microsoft (MSFT) stock is on track for its worst quarter since 2008.",
-        "summary_zh": "雅虎财经高级制作人 John Hyland 追踪周五走势最强劲的股票和最大的市场故事。 据 Information 报道，Anthropic (ANTH.PVT) 正在考虑最早在 10 月份上市。 微软 (MSFT) 股票有望迎来 2008 年以来最糟糕的季度表现。",
-        "link": "https://finance.yahoo.com/video/anthropic-eyes-ipo-microsoft-stock-set-for-worst-quarter-since-2008-172856931.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774632536,
-        "type": "News"
-    },
-    {
-        "title": "Meta stock falls on court ruling, but it still has 'one chance'",
-        "title_zh": "Meta 股票因法院裁决而下跌，但仍有“一次机会”",
-        "summary": "Meta (META) and YouTube (GOOG, GOOGL) were just found liable for damages in a landmark social media addiction lawsuit.",
-        "summary_zh": "Meta (META) 和 YouTube (GOOG、GOOGL) 刚刚在一场具有里程碑意义的社交媒体成瘾诉讼中被判承担损害赔偿责任。",
-        "link": "https://finance.yahoo.com/video/meta-stock-falls-on-court-ruling-but-it-still-has-one-chance-150615716.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774623975,
-        "type": "News"
-    },
-    {
-        "title": "Rising volatility points to deeper market troubles beyond Iran headlines",
-        "title_zh": "波动性上升表明伊朗头条新闻之外还有更深层次的市场问题",
-        "summary": "Yahoo Finance Head of News Myles Udland joins the Morning Brief's Julie Hyman in breaking down how rising volatility (^VIX) is signaling a shift in market conditions (^DJI, ^IXIC, ^GSPC) as the first quarter of 2026 draws to a close.",
-        "summary_zh": "雅虎财经新闻主管迈尔斯·乌德兰 (Myles Udland) 与早间简报 (Morning Brief) 的朱莉·海曼 (Julie Hyman) 一起分析了随着 2026 年第一季度即将结束，波动性上升 (^VIX) 如何预示着市场状况的转变 (^DJI、^IXIC、^G...",
-        "link": "https://finance.yahoo.com/video/rising-volatility-points-to-deeper-market-troubles-beyond-iran-headlines-144720035.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774622840,
         "type": "News"
     }
 ]
