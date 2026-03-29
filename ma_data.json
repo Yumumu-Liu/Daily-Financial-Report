@@ -1,15 +1,5 @@
 [
     {
-        "title": "AtkinsRéalis Wins Major Rail Deals And NVIDIA AI Pact Reshapes Outlook",
-        "title_zh": "AtkinsRéalis 赢得重大铁路交易，NVIDIA AI 协议重塑前景",
-        "summary": "AtkinsRéalis Group (TSX:ATRL) has been awarded a major Network Rail contract to upgrade signalling and telecoms infrastructure in Southern England as part of a government backed rail modernization program.",
-        "summary_zh": "作为政府支持的铁路现代化计划的一部分，AtkinsRéalis Group（多伦多证券交易所股票代码：ATRL）已获得一份重要的网络铁路合同，用于升级英格兰南部的信号和电信基础设施。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/atkinsr-alis-wins-major-rail-020308570.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774749788,
-        "type": "News"
-    },
-    {
         "title": "Inside ‘Project Eagle,’ JPMorgan’s high-wire act to fund EA deal",
         "title_zh": "摩根大通为 EA 交易提供资金的走钢丝行为“鹰计划”",
         "summary": "(Bloomberg) -- The post from @realDonaldTrump landed at precisely 7:23 a.m.",
@@ -21,7 +11,7 @@
     },
     {
         "title": "As Claude Deals Yet Another Blow, Here’s Why HP and Intel Are the Lowest-Rated IT Stocks to Buy",
-        "title_zh": "克劳德再次遭受打击，这就是为什么惠普和英特尔是评级最低的 IT 股票",
+        "title_zh": "克劳德再次遭受打击，这就是为什么惠普和英特尔是值得购买的评级最低的 IT 股票",
         "summary": "Anthropic’s Claude is redefining AI capabilities. And as automation begins to replace core software functions, legacy players like HP and Intel are increasingly being viewed with skepticism.",
         "summary_zh": "Anthropic 的 Claude 正在重新定义人工智能功能。随着自动化开始取代核心软件功能，惠普和英特尔等传统企业越来越受到怀疑。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/claude-deals-yet-another-blow-133002579.html",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/sell-stocks-now-history-offers-095000357.html",
         "publisher": "Motley Fool",
         "publish_time": 1774691400,
+        "type": "News"
+    },
+    {
+        "title": "Assessing Veritone (VERI) Valuation After Oracle Cloud Deal And AI Privacy Platform Updates",
+        "title_zh": "Oracle 云交易和 AI 隐私平台更新后评估 Veritone (VERI) 估值",
+        "summary": "Veritone (VERI) has drawn fresh attention after a multi year agreement with Oracle to migrate its AI solutions to Oracle Cloud Infrastructure, along with updates to its privacy focused Redact and Data Refinery platforms. See our latest analysis for Veritone.",
+        "summary_zh": "Veritone (VERI) 与 Oracle 达成多年协议，将其人工智能解决方案迁移到 Oracle 云基础设施，并更新了其专注于隐私的 Redact 和 Data Refinery 平台，之后引起了新的关注。请参阅我们对 Veritone 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-veritone-veri-valuation-oracle-050608349.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774674368,
         "type": "News"
     }
 ]
