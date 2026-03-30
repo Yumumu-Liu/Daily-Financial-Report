@@ -10,16 +10,6 @@
         "type": "News"
     },
     {
-        "title": "As Claude Deals Yet Another Blow, Here’s Why HP and Intel Are the Lowest-Rated IT Stocks to Buy",
-        "title_zh": "克劳德再次遭受打击，这就是为什么惠普和英特尔是值得购买的评级最低的 IT 股票",
-        "summary": "Anthropic’s Claude is redefining AI capabilities. And as automation begins to replace core software functions, legacy players like HP and Intel are increasingly being viewed with skepticism.",
-        "summary_zh": "Anthropic 的 Claude 正在重新定义人工智能功能。随着自动化开始取代核心软件功能，惠普和英特尔等传统企业越来越受到怀疑。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/claude-deals-yet-another-blow-133002579.html",
-        "publisher": "Barchart",
-        "publish_time": 1774704602,
-        "type": "News"
-    },
-    {
         "title": "How Investors Are Reacting To KKR (KKR) Record Fundraising, Arctos Deal And New Platform Push",
         "title_zh": "投资者对 KKR (KKR) 创纪录的融资、Arctos 交易和新平台推动有何反应",
         "summary": "Earlier this week, KKR outlined its expansion plans at the RBC Capital Markets Global Financial Institutions Conference 2026, highlighting a record US$129.00 billion raised in 2025, growth initiatives across new investment sectors, and its acquisition of Arctos to deepen expos...",
@@ -30,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Should You Sell Your Stocks Right Now? History Offers a Crystal-Clear Answer.",
-        "title_zh": "你现在应该卖掉你的股票吗？历史给出了清晰的答案。",
-        "summary": "Here's how investors can prepare for potential market volatility.",
-        "summary_zh": "以下是投资者如何为潜在的市场波动做好准备。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sell-stocks-now-history-offers-095000357.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1774691400,
-        "type": "News"
-    },
-    {
         "title": "Assessing Veritone (VERI) Valuation After Oracle Cloud Deal And AI Privacy Platform Updates",
         "title_zh": "Oracle 云交易和 AI 隐私平台更新后评估 Veritone (VERI) 估值",
         "summary": "Veritone (VERI) has drawn fresh attention after a multi year agreement with Oracle to migrate its AI solutions to Oracle Cloud Infrastructure, along with updates to its privacy focused Redact and Data Refinery platforms. See our latest analysis for Veritone.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-veritone-veri-valuation-oracle-050608349.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1774674368,
+        "type": "News"
+    },
+    {
+        "title": "Oracle’s Veritone AI Deal And Nashville Growth Add Context To Valuation",
+        "title_zh": "甲骨文的 Veritone AI 交易和纳什维尔的增长为估值增添了背景",
+        "summary": "Oracle (NYSE:ORCL) has signed a multi year agreement for Veritone to run its AI solutions on Oracle Cloud Infrastructure. The company is also expanding its physical presence in Nashville with a new long term lease and plans for additional tech roles.",
+        "summary_zh": "甲骨文（纽约证券交易所股票代码：ORCL）已与 Veritone 签署了一份多年期协议，以在甲骨文云基础设施上运行其人工智能解决方案。该公司还通过新的长期租约扩大了在纳什维尔的实体业务，并计划增加更多的技术职位。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-veritone-ai-deal-nashville-010701439.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774660021,
+        "type": "News"
+    },
+    {
+        "title": "Apollo Faces Liquidity Strain While Pursuing Japan Deal And Board Changes",
+        "title_zh": "阿波罗在寻求日本交易和董事会变更时面临流动性紧张",
+        "summary": "Apollo Global Management (NYSE:APO) has imposed withdrawal limits on certain private credit funds following elevated investor redemption requests. The firm has agreed to acquire Nippon Sheet Glass in what it describes as its largest private equity investment to date in Japan.",
+        "summary_zh": "由于投资者赎回请求增加，阿波罗全球管理公司（纽约证券交易所股票代码：APO）对某些私人信贷基金实施了提款限制。该公司已同意收购日本板硝子公司，这是该公司迄今为止在日本最大的私募股权投资。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-faces-liquidity-strain-while-130442448.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1774616682,
         "type": "News"
     }
 ]
