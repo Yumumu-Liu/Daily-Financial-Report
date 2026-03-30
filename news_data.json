@@ -1,27 +1,77 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall entering shortened week featuring jobs data, war uncertainty",
-        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货下跌，进入缩短的一周，就业数据、战争不确定性",
+        "title": "Nvidia's PE sinks to seven-year low as war and AI angst weigh",
+        "title_zh": "由于战争和人工智能的担忧，英伟达的市盈率跌至七年来的最低点",
+        "summary": "As global stock markets tumble over deepening worries about war in the Middle East, Nvidia, the world's most valuable company, finds itself trading at its cheapest price-to-earnings multiple since before ChatGPT kicked off the AI boom.",
+        "summary_zh": "随着全球股市因对中东战争的担忧加深而暴跌，全球市值最高的公司英伟达 (Nvidia) 发现自己的市盈率处于 ChatGPT 开启人工智能热潮之前以来最便宜的水平。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-pe-sinks-seven-low-093400801.html",
+        "publisher": "Reuters",
+        "publish_time": 1774863240,
+        "type": "News"
+    },
+    {
+        "title": "Morgan Stanley’s Wilson Says S&P 500 Correction Nears End Stage",
+        "title_zh": "摩根士丹利威尔逊表示标普 500 指数调整已接近尾声",
+        "summary": "(Bloomberg) -- The S&P 500 correction is nearing its final stage even as the Iran war continues, according to strategists at Morgan Stanley, who warn that Federal Reserve interest-rate hikes still pose a threat to stocks.There is growing evidence that the equities slide “is ge...",
+        "summary_zh": "（彭博社）——摩根士丹利策略师表示，尽管伊朗战争仍在继续，标准普尔 500 指数的调整已接近最后阶段，他们警告称，美联储加息仍对股市构成威胁。越来越多的证据表明，股市下滑“正在……”",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-p-091053905.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774861853,
+        "type": "News"
+    },
+    {
+        "title": "Falling Yields Lift Stocks as Rate-Hike Bets Ease: Markets Wrap",
+        "title_zh": "随着加息押注的缓解，收益率下降提振股市：市场结束",
+        "summary": "(Bloomberg) -- Treasuries firmed, supporting US stocks, as fears that the war in the Middle East will trigger a sharp economic slowdown prompted traders to dial back bets on higher interest rates.",
+        "summary_zh": "（彭博社）——由于担心中东战争将引发经济急剧放缓，促使交易员撤回对加息的押注，美国国债走强，支撑了美国股市。",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/investor-unease-builds-entering-war-193125656.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774861442,
+        "type": "News"
+    },
+    {
+        "title": "Trending tickers: Exxon Mobil, Eli Lilly, Rio Tinto and Boohoo",
+        "title_zh": "热门股票：埃克森美孚、礼来、力拓和 Boohoo",
+        "summary": "The latest investor updates on stocks that are trending on Monday.",
+        "summary_zh": "投资者对周一趋势股票的最新更新。",
+        "link": "https://finance.yahoo.com/news/exxon-mobil-eli-lilly-rio-tinto-boohoo-trending-tickers-084252850.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774860172,
+        "type": "News"
+    },
+    {
+        "title": "France's Mistral raises $830 million in debt for AI data centre build-up",
+        "title_zh": "法国 Mistral 筹集 8.3 亿美元债务用于建设人工智能数据中心",
+        "summary": "Europe's leading AI provider Mistral has raised $830 million in new ‌debt to buy 13,800 Nvidia chips for a major ‌data centre near Paris, the firm told Reuters, as Europe races to scale AI ​infrastructure to compete with the U.S. and China.",
+        "summary_zh": "欧洲领先的人工智能供应商 Mistral 向路透社透露，该公司已筹集 8.3 亿美元的新债务，为巴黎附近的一个主要数据中心购买 13,800 块 Nvidia 芯片，而欧洲正在竞相扩大人工智能基础设施规模，以与美国和中国竞争。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/frances-mistral-raises-830-million-060341046.html",
+        "publisher": "Reuters",
+        "publish_time": 1774850621,
+        "type": "News"
+    },
+    {
+        "title": "BYD Signals It’s Confident Exports Will Beat 2026 Target By 15%",
+        "title_zh": "比亚迪表示有信心出口将超过 2026 年目标 15%",
+        "summary": "(Bloomberg) -- BYD Co. signaled to analysts that exports this year will probably beat its previous target by 15%, according to people familiar with the matter, as the world’s biggest electric vehicle maker leans on growth in overseas markets to counter a slump in domestic sales.",
+        "summary_zh": "（彭博社）——据知情人士透露，比亚迪公司向分析师发出信号，今年的出口量可能会超出之前的目标 15%，因为这家全球最大的电动汽车制造商依靠海外市场的增长来应对国内销量的下滑。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/byd-signals-confident-exports-beat-054030074.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1774849230,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise entering shortened week featuring jobs data, war uncertainty",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨，进入缩短的一周，就业数据、战争不确定性",
         "summary": "Trump continues to rock markets with a lack of consistency as the Iran war enters its second month.",
         "summary_zh": "随着伊朗战争进入第二个月，特朗普继续以缺乏一致性的方式震撼市场。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645777.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774825605,
         "type": "News"
     },
     {
-        "title": "A bold 2011 market call is echoed in 2026",
-        "title_zh": "2011 年大胆的市场预测与 2026 年相呼应",
-        "summary": "If you only have time for one metric, it should be earnings. They’re the most important long-term driver of stock prices.",
-        "summary_zh": "如果你只有时间衡量一个指标，那么它应该是收入。它们是股价最重要的长期驱动因素。",
-        "link": "https://finance.yahoo.com/news/a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774807340,
-        "type": "News"
-    },
-    {
         "title": "Meta and Google lost a major social media addiction lawsuit. Their troubles are far from over.",
-        "title_zh": "Meta 和谷歌在一场重大社交媒体成瘾诉讼中败诉。他们的麻烦还远未结束。",
+        "title_zh": "Meta 和谷歌在一场重大社交媒体成瘾诉讼中败诉。他们的麻烦还远没有结束。",
         "summary": "The verdict in the landmark social media addiction lawsuit could make its way to the Supreme Court.",
         "summary_zh": "具有里程碑意义的社交媒体成瘾诉讼的判决可能会提交最高法院。",
         "link": "https://finance.yahoo.com/news/meta-and-google-lost-a-major-social-media-addiction-lawsuit-their-troubles-are-far-from-over-130000496.html",
@@ -37,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774692005,
-        "type": "News"
-    },
-    {
-        "title": "OpenClaw is taking the tech world by storm. Here's what you need to know about it.",
-        "title_zh": "OpenClaw 正在席卷科技界。以下是您需要了解的内容。",
-        "summary": "OpenClaw is getting a lot of attention from AI enthusiasts and boosters. Here's what it is and why it matters.",
-        "summary_zh": "OpenClaw 受到了人工智能爱好者和支持者的广泛关注。这就是它是什么以及为什么它很重要。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/openclaw-is-taking-the-tech-world-by-storm-heres-what-you-need-to-know-about-it-153752864.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774539472,
         "type": "News"
     }
 ]

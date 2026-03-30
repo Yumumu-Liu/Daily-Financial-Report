@@ -1,5 +1,25 @@
 [
     {
+        "title": "A 10-Year-Old Acquisition Is Finally Paying off Big for Walmart. Should Amazon Investors Be Worried?",
+        "title_zh": "历时十年的收购终于为沃尔玛带来丰厚回报。亚马逊投资者应该担心吗？",
+        "summary": "Walmart's \"failed\" Jet.com deal quietly built the foundation for a $150 billion e-commerce engine that's now closing the gap with Amazon.",
+        "summary_zh": "沃尔玛“失败”的 Jet.com 交易悄然为价值 1500 亿美元的电子商务引擎奠定了基础，该引擎目前正在缩小与亚马逊的差距。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/10-old-acquisition-finally-paying-095000373.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1774864200,
+        "type": "News"
+    },
+    {
+        "title": "Canadian quantum firm Xanadu debuts on public markets after SPAC deal",
+        "title_zh": "SPAC 交易后，加拿大量子公司 Xanadu 在公开市场首次亮相",
+        "summary": "Xanadu targets fully fault-tolerant quantum computing, with near-term revenue expected from run time sales and PennyLane software.",
+        "summary_zh": "Xanadu 的目标是完全容错的量子计算，近期收入预计来自运行时销售和 PennyLane 软件。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-quantum-firm-xanadu-debuts-081913517.html",
+        "publisher": "Verdict",
+        "publish_time": 1774858753,
+        "type": "News"
+    },
+    {
         "title": "Inside ‘Project Eagle,’ JPMorgan’s high-wire act to fund EA deal",
         "title_zh": "摩根大通为 EA 交易提供资金的走钢丝行为“鹰计划”",
         "summary": "(Bloomberg) -- The post from @realDonaldTrump landed at precisely 7:23 a.m.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-veritone-veri-valuation-oracle-050608349.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1774674368,
-        "type": "News"
-    },
-    {
-        "title": "Oracle’s Veritone AI Deal And Nashville Growth Add Context To Valuation",
-        "title_zh": "甲骨文的 Veritone AI 交易和纳什维尔的增长为估值增添了背景",
-        "summary": "Oracle (NYSE:ORCL) has signed a multi year agreement for Veritone to run its AI solutions on Oracle Cloud Infrastructure. The company is also expanding its physical presence in Nashville with a new long term lease and plans for additional tech roles.",
-        "summary_zh": "甲骨文（纽约证券交易所股票代码：ORCL）已与 Veritone 签署了一份多年期协议，以在甲骨文云基础设施上运行其人工智能解决方案。该公司还通过新的长期租约扩大了在纳什维尔的实体业务，并计划增加更多的技术职位。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-veritone-ai-deal-nashville-010701439.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774660021,
-        "type": "News"
-    },
-    {
-        "title": "Apollo Faces Liquidity Strain While Pursuing Japan Deal And Board Changes",
-        "title_zh": "阿波罗在寻求日本交易和董事会变更时面临流动性紧张",
-        "summary": "Apollo Global Management (NYSE:APO) has imposed withdrawal limits on certain private credit funds following elevated investor redemption requests. The firm has agreed to acquire Nippon Sheet Glass in what it describes as its largest private equity investment to date in Japan.",
-        "summary_zh": "由于投资者赎回请求增加，阿波罗全球管理公司（纽约证券交易所股票代码：APO）对某些私人信贷基金实施了提款限制。该公司已同意收购日本板硝子公司，这是该公司迄今为止在日本最大的私募股权投资。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-faces-liquidity-strain-while-130442448.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1774616682,
         "type": "News"
     }
 ]
