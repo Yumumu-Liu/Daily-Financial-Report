@@ -1,5 +1,55 @@
 [
     {
+        "title": "Trending tickers: Micron, Unilever, Raspberry Pi and AG Barr",
+        "title_zh": "热门股票：Micron、Unilever、Raspberry Pi 和 AG Barr",
+        "summary": "The latest investor updates on stocks that are trending on Tuesday.",
+        "summary_zh": "投资者对周二股票趋势的最新更新。",
+        "link": "https://finance.yahoo.com/news/micron-unilever-raspberry-pi-ag-barr-trending-tickers-084106537.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774946466,
+        "type": "News"
+    },
+    {
+        "title": "Australia threatens legal action over under-16 social media ban law",
+        "title_zh": "澳大利亚威胁对 16 岁以下社交媒体禁令采取法律行动",
+        "summary": "STORY: Australia threatened to sue social media giants on Tuesday (March 31) for allegedly flouting the nation's social media ban for children under 16.Communications Minister Anika Wells said platforms had promised to follow the law:\"All the platforms who are covered by our s...",
+        "summary_zh": "故事：周二（3 月 31 日），澳大利亚威胁要起诉社交媒体巨头，理由是它们涉嫌藐视国家针对 16 岁以下儿童的社交媒体禁令。通信部长阿尼卡·韦尔斯 (Anika Wells) 表示，平台已承诺遵守法律：“我们的服务覆盖的所有平台......",
+        "link": "https://finance.yahoo.com/video/australia-threatens-legal-action-over-075054202.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1774943454,
+        "type": "News"
+    },
+    {
+        "title": "Nebius furthers European expansion with $10 billion AI data centre in Finland",
+        "title_zh": "Nebius 斥资 100 亿美元在芬兰建立人工智能数据中心，进一步推进欧洲扩张",
+        "summary": "AI infrastructure firm Nebius Group on Tuesday said it was continuing its rapid European ‌expansion with a 310-megawatt data centre in Finland, which would be one ‌of the continent's largest with an estimated value of more than $10 billion as demand for AI computing ​grows.",
+        "summary_zh": "人工智能基础设施公司 Nebius Group 周二表示，它将继续在欧洲快速扩张，在芬兰建立一个 310 兆瓦的数据中心，随着人工智能计算需求的增长，该数据中心将成为欧洲大陆最大的数据中心之一，估计价值超过 100 亿美元。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nebius-furthers-european-expansion-10-070209260.html",
+        "publisher": "Reuters",
+        "publish_time": 1774940529,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech's $635 billion AI spending faces energy shock test, S&P Global says",
+        "title_zh": "标准普尔全球表示，大型科技公司 6350 亿美元的人工智能支出面临能源冲击考验",
+        "summary": "Massive investments in artificial intelligence that underpinned record runs in equities face a major ‌hurdle as the Middle East crisis clouds prospects for growth ‌and energy costs, said Melissa Otto, head of research at S&P Global Visible Alpha.",
+        "summary_zh": "S&P Global Visible Alpha 研究主管梅丽莎·奥托 (Melissa Otto) 表示，由于中东危机给增长前景和能源成本蒙上阴影，支撑股市创纪录运行的人工智能大规模投资面临重大障碍。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/big-techs-635-billion-ai-062102915.html",
+        "publisher": "Reuters",
+        "publish_time": 1774938062,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft plans $1 billion investment in Thailand, Thai government says",
+        "title_zh": "泰国政府称微软计划在泰国投资10亿美元",
+        "summary": "Microsoft plans ‌to invest $1 billion ‌in Thailand over the ​next two years in cloud services and AI infrastructure, ‌the ⁠Thai government said in a ⁠statement.",
+        "summary_zh": "泰国政府在一份声明中表示，微软计划未来两年在泰国投资 10 亿美元用于云服务和人工智能基础设施。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-plans-1-billion-investment-041747181.html",
+        "publisher": "Reuters",
+        "publish_time": 1774930667,
+        "type": "News"
+    },
+    {
         "title": "Australia investigates tech giants over social media ban compliance",
         "title_zh": "澳大利亚调查科技巨头社交媒体禁令合规情况",
         "summary": "SYDNEY, March 31 (Reuters) - The Australian internet regulator said it was investigating five of the biggest social media platforms for suspected breaches of its new under-16 ban, its strongest signal",
@@ -10,23 +60,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow S&P 500, Nasdaq soar after Trump remarks on ending war with Hormuz closed",
-        "title_zh": "今日股市：特朗普关于结束与霍尔木兹战争的言论后，道指标普 500 指数和纳斯达克指数飙升",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise after Trump remarks on ending war with Hormuz closed",
+        "title_zh": "今日股市：特朗普关于结束与霍尔木兹战争结束的言论后，道琼斯指数、标准普尔 500 指数和纳斯达克指数上涨",
         "summary": "Fearful market sentiment pushes higher while oil settles over $100 as the Iran war drags on.",
         "summary_zh": "随着伊朗战争的拖延，恐惧的市场情绪推高油价，收于 100 美元以上。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-soar-after-trump-remarks-on-ending-war-with-hormuz-closed-230141142.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-trump-remarks-on-ending-war-with-hormuz-closed-230141471.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774911701,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends mostly lower as Middle East conflict weighs",
-        "title_zh": "由于中东冲突的影响，华尔街股市普遍下跌",
-        "summary": "STORY: U.S. stocks ended mostly lower on Monday, with the exception of the Dow, which edged up marginally...while the S&P 500 shed about four-tenths of a percent and the Nasdaq slid more than seven-tenths of a percent.:: FilePresident Donald Trump on Monday warned that the U.S.",
-        "summary_zh": "故事：美国股市周一收盘大多走低，道琼斯指数除外，该指数小幅上涨……而标准普尔 500 指数下跌约十分之四，纳斯达克指数下跌逾十分之七。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-mostly-lower-224514521.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1774910714,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/video/openai-anthropic-spacex-where-the-most-anticipated-ipos-stand-202351059.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1774902231,
-        "type": "News"
-    },
-    {
-        "title": "Eli Lilly bets on AI drugs in $2.75B deal: What to know",
-        "title_zh": "礼来 (Eli Lilly) 在 $2.75B 交易中押注人工智能药物：要知道什么",
-        "summary": "Eli Lilly (LLY) is bringing artificial intelligence (AI) drugs to the global market in a $2.75 billion deal with Insilico.Defiance ETFs CEO and CIO Sylvia Jablonski and Yahoo Finance Tech Editor discuss.",
-        "summary_zh": "礼来公司 (LLY) 将与 Insilico 达成 27.5 亿美元的交易，将人工智能 (AI) 药物推向全球市场。Defiance ETF 首席执行官兼首席信息官 Sylvia Jablonski 与雅虎财经技术编辑进行讨论。",
-        "link": "https://finance.yahoo.com/video/eli-lilly-bets-on-ai-drugs-in-275b-deal-what-to-know-201839291.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774901919,
-        "type": "News"
-    },
-    {
-        "title": "10 big problems facing big consumer company stocks: Chart",
-        "title_zh": "大型消费公司股票面临的10大问题：图表",
-        "summary": "Big brands, big challenges ahead.",
-        "summary_zh": "大品牌，未来的巨大挑战。",
-        "link": "https://finance.yahoo.com/news/10-big-problems-facing-big-consumer-company-stocks-chart-192128457.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774898488,
-        "type": "News"
-    },
-    {
-        "title": "How bitcoin quietly became a top-performing asset post-pullback",
-        "title_zh": "比特币如何在回调后悄然成为表现最好的资产",
-        "summary": "Bitcoin Standard Treasury Company chief investment officer Sean Bill joins Yahoo Finance Senior Reporter Brooke DiPalma to discuss bitcoin's (BTC-USD) recent comeback, where Polymarket sees bitcoin prices at the end of 2026, and more.For more predictions market insight, check ...",
-        "summary_zh": "比特币标准国库公司首席投资官肖恩·比尔 (Sean Bill) 与雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 一起讨论比特币 (BTC-USD) 最近的卷土重来，Polymarket 预计 2026 年底的比特币价格等。欲了解更多预测市场洞察，请查看...",
-        "link": "https://finance.yahoo.com/video/how-bitcoin-quietly-became-a-top-performing-asset-post-pullback-163839394.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774888719,
-        "type": "News"
-    },
-    {
-        "title": "Why Nvidia has the important stock chart in the world",
-        "title_zh": "为什么英伟达拥有世界上重要的股票图表",
-        "summary": "Pay even closer attention to Nvidia's stock right now.",
-        "summary_zh": "现在请更加密切地关注英伟达的股票。",
-        "link": "https://finance.yahoo.com/news/why-nvidia-has-the-important-stock-chart-in-the-world-145416630.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774882456,
         "type": "News"
     }
 ]

@@ -1,5 +1,25 @@
 [
     {
+        "title": "JPMorgan expands digital assets push with Mitsubishi deal as it targets $10bn in daily transactions",
+        "title_zh": "摩根大通与三菱交易扩大数字资产推动力度，目标每日交易量达 100 亿美元",
+        "summary": "Mitsubishi will use JPMorgan digital assets rails for payment solutions. The investment bank aims to double the amount of transactions used by Kinexys. It comes as Wall Street warms to crypto and blockchain technology.",
+        "summary_zh": "三菱将使用摩根大通数字资产轨道作为支付解决方案。该投资银行的目标是将 Kinexys 的交易量增加一倍。华尔街对加密货币和区块链技术产生了浓厚的兴趣。",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-expands-digital-assets-push-080003704.html",
+        "publisher": "DLNews",
+        "publish_time": 1774944003,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks rise as Trump willing to end Iran war without Hormuz deal",
+        "title_zh": "富时 100 实时：股市上涨，因为特朗普愿意在没有霍尔木兹协议的情况下结束伊朗战争",
+        "summary": "The US president reportedly has assessed that a mission to reopen the strait would push the war beyond his timeline of four to six weeks",
+        "summary_zh": "据报道，美国总统评估称，重新开放海峡的任务将使战争超出他的四到六周的时间表",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stock-markets-trump-end-iran-war-without-strait-of-hormuz-deal-070545613.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1774940745,
+        "type": "News"
+    },
+    {
         "title": "Eli Lilly bets on AI drugs in $2.75B deal: What to know",
         "title_zh": "礼来 (Eli Lilly) 在 $2.75B 交易中押注人工智能药物：要知道什么",
         "summary": "Eli Lilly (LLY) is bringing artificial intelligence (AI) drugs to the global market in a $2.75 billion deal with Insilico.Defiance ETFs CEO and CIO Sylvia Jablonski and Yahoo Finance Tech Editor discuss.",
@@ -10,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "JPMorgan's Big Deal Isn't Going Smoothly",
-        "title_zh": "摩根大通的大交易进展并不顺利",
-        "summary": "Investors question risk in Sealed Air financing",
-        "summary_zh": "投资者质疑 Sealed Air 融资的风险",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-big-deal-isnt-going-184458044.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1774896298,
-        "type": "News"
-    },
-    {
         "title": "Oil Climbs as Trump Threatens War Escalation If No Deal Soon",
         "title_zh": "特朗普威胁如果不尽快达成协议，战争升级，油价上涨",
         "summary": "(Bloomberg) -- Oil prices rose after President Donald Trump threatened attacks on Iran’s energy infrastructure, overshadowing his comments that a deal to end hostilities in the Middle East could be close.",
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/news/oil-gains-iran-war-escalates-225257722.html",
         "publisher": "Bloomberg",
         "publish_time": 1774890911,
-        "type": "News"
-    },
-    {
-        "title": "JPMorgan Faces Pushback on $7.2 Billion Sealed Air Debt Deal",
-        "title_zh": "摩根大通 72 亿美元密封空气债务交易面临阻力",
-        "summary": "Investors question terms and protections as demand builds unevenly across bonds and loans tied to CD&R's Sealed Air acquisition.",
-        "summary_zh": "由于与 CD&R 收购 Sealed Air 相关的债券和贷款的需求不均衡，投资者对条款和保护提出质疑。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-faces-pushback-7-2-163137543.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1774888297,
         "type": "News"
     },
     {
