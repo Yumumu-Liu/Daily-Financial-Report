@@ -1,5 +1,65 @@
 [
     {
+        "title": "AI Weekly: Oracle layoffs on the way, robot breaks new ground",
+        "title_zh": "AI Weekly：甲骨文裁员在即，机器人开辟新天地",
+        "summary": "STORY: From Oracle's lay offs to a groundbreaking robot...",
+        "summary_zh": "故事：从甲骨文的裁员到开创性的机器人......",
+        "link": "https://finance.yahoo.com/video/ai-weekly-oracle-layoffs-way-092439218.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1775035479,
+        "type": "News"
+    },
+    {
+        "title": "Chinese chipmakers claim nearly half of local market as Nvidia's lead shrinks",
+        "title_zh": "随着英伟达的领先优势缩小，中国芯片制造商占领了近一半的本地市场",
+        "summary": "(Corrects to clarify attribution) By Che Pan and Laurie Chen BEIJING, April 1 (Rtrs) - Chinese GPU and AI chip makers captured nearly 41% of China's AI accelerator server market last year, eroding",
+        "summary_zh": "（更正以澄清归属）作者：Che Pan 和 Laurie Chen 北京，4 月 1 日 (Rtrs) - 中国 GPU 和 AI 芯片制造商去年占领了中国近 41% 的 AI 加速服务器市场，正在蚕食",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/chinese-chipmakers-claim-nearly-half-091441757.html",
+        "publisher": "Reuters",
+        "publish_time": 1775035308,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Fuels Record First Quarter for Company Bond Sales in EMEA",
+        "title_zh": "亚马逊第一季度欧洲、中东和非洲公司债券销售创纪录",
+        "summary": "(Bloomberg) -- Amazon.com Inc.",
+        "summary_zh": "（彭博社）——亚马逊公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-fuels-record-first-quarter-083222531.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775032342,
+        "type": "News"
+    },
+    {
+        "title": "Trending tickers: Nike, Tesla, Nvidia, Oracle and Berkeley",
+        "title_zh": "热门股票：耐克、特斯拉、英伟达、甲骨文和伯克利",
+        "summary": "The latest investor updates on stocks that are trending on Wednesday",
+        "summary_zh": "周三投资者对股票趋势的最新更新",
+        "link": "https://finance.yahoo.com/news/nike-tesla-nvidia-oracle-berkeley-trending-tickers-080400179.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1775030640,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft on track to invest $5.5 billion in Singapore by 2029, WSJ reports",
+        "title_zh": "据《华尔街日报》报道，微软有望到 2029 年在新加坡投资 55 亿美元",
+        "summary": "April 1 (Reuters) - Microsoft (MSFT) ‌is on ‌track to ​invest $5.5 billion in cloud and ‌artificial ⁠intelligence infrastructure in ⁠Singapore through ​2029, ​the Wall ​Street ‌Journal reported on Wednesday.",
+        "summary_zh": "4 月 1 日（路透社） - 据《华尔街日报》周三报道，微软 (MSFT) 有望在 2029 年之前在新加坡投资 55 亿美元用于云和人工智能基础设施。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-track-invest-5-5-075818914.html",
+        "publisher": "Reuters",
+        "publish_time": 1775030298,
+        "type": "News"
+    },
+    {
+        "title": "Bitcoin snaps five-month losing streak",
+        "title_zh": "比特币结束了连续五个月的下跌",
+        "summary": "Bitcoin's March resilience may have been a relief rally within a broader crypto winter, according to Compass Point analyst Ed Engel.",
+        "summary_zh": "Compass Point 分析师埃德·恩格尔 (Ed Engel) 表示，比特币 3 月份的反弹可能是更广泛的加密货币冬季中的一次缓解性反弹。",
+        "link": "https://finance.yahoo.com/news/bitcoin-snaps-five-month-losing-streak-020352265.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775009032,
+        "type": "News"
+    },
+    {
         "title": "Apple's 50-year journey from garage to tech titan",
         "title_zh": "苹果从车库到科技巨头的 50 年历程",
         "summary": "In early 1976 in California, Steve Wozniak had just completed the design of a computer circuit board he intended to share with fellow hobbyists at a prominent local club.",
@@ -7,16 +67,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/apples-50-journey-garage-tech-003140629.html",
         "publisher": "Reuters",
         "publish_time": 1775003500,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft, Chevron and Engine No. 1 sign exclusive deal for power supply",
-        "title_zh": "微软、雪佛龙和一号引擎签署独家电源协议",
-        "summary": "Microsoft, Chevron and investment fund Engine No. 1 have entered into an exclusivity agreement ‌for power generation and supply, the three companies ‌said on Tuesday.",
-        "summary_zh": "微软、雪佛龙和投资基金 Engine No. 1 周二表示，已签订发电和供应独家协议。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-chevron-engine-no-1-233535130.html",
-        "publisher": "Reuters",
-        "publish_time": 1775000135,
         "type": "News"
     },
     {
@@ -30,16 +80,6 @@
         "type": "News"
     },
     {
-        "title": "Tesla Q1 deliveries rise 9% amid Robotaxi focus",
-        "title_zh": "特斯拉第一季度交付量增长 9%，聚焦 Robotaxi",
-        "summary": "Yahoo Finance senior autos reporter Pras Subramanian joins Asking for a Trend host Josh Lipton to discuss expectations for Tesla's ((TSLA) Q1 global deliveries.",
-        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 与 Asking for a Trend 主持人 Josh Lipton 一起讨论了对特斯拉 (TSLA) 第一季​​度全球交付量的预期。",
-        "link": "https://finance.yahoo.com/video/tesla-q1-deliveries-rise-9-amid-robotaxi-focus-222534059.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774995934,
-        "type": "News"
-    },
-    {
         "title": "OpenAI valued at $852 billion in latest funding round ahead of IPO",
         "title_zh": "OpenAI 在 IPO 前的最新一轮融资中估值达 8520 亿美元",
         "summary": "OpenAI announced its latest funding round on Tuedsay, raising $122 billion at a $852 billion valuation.",
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/article/openai-valued-at-852-billion-in-latest-funding-round-ahead-of-ipo-213943098.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774993183,
-        "type": "News"
-    },
-    {
-        "title": "Amazon partners up with Delta to provide high-speed internet",
-        "title_zh": "亚马逊与达美航空合作提供高速互联网",
-        "summary": "Yahoo Finance Tech Editor Dan Howley talks to Market Domination Host Josh Lipton about a recently announced partnership between Delta Air Lines (DAL) and Amazon (AMZN) to use Amazon's Low Earth Orbit (LEO) satellites to provide internet access on flights.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 与《市场支配》主持人乔什·利普顿 (Josh Lipton) 讨论了达美航空 (DAL) 和亚马逊 (AMZN) 最近宣布的合作伙伴关系，将使用亚马逊的低地球轨道 (LEO) 卫星在航班上提供互联网接入。",
-        "link": "https://finance.yahoo.com/video/amazon-partners-up-with-delta-to-provide-high-speed-internet-213346771.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774992826,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia investors just had a surprising first quarter",
-        "title_zh": "英伟达投资者刚刚度过了令人惊讶的第一季度",
-        "summary": "It's been a rough start to the year for the often-Teflon stock that is Nvidia.",
-        "summary_zh": "对于英伟达这样的特氟龙股票来说，今年的开局并不顺利。",
-        "link": "https://finance.yahoo.com/news/nvidia-investors-just-had-a-surprising-first-quarter-204546936.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774989946,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow soars 1,000 points, S&P 500 and Nasdaq surge in upbeat end to brutal quarter",
-        "title_zh": "今日股市：道琼斯指数飙升 1,000 点，标准普尔 500 指数和纳斯达克指数在残酷的季度结束时上涨",
-        "summary": "Stocks turned sharply higher on Tuesday afternoon as investors became hopeful that an end to the war be may coming closer while a volatile month and quarter for stocks draws to a close.",
-        "summary_zh": "周二下午，随着股市波动的月份和季度即将结束，投资者对战争可能即将结束抱有希望，股市大幅走高。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-soars-1000-points-sp-500-and-nasdaq-surge-in-upbeat-end-to-brutal-quarter-184154822.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1774988516,
-        "type": "News"
-    },
-    {
-        "title": "Q1's final trading day: A recap of market moves this quarter",
-        "title_zh": "第一季度最后交易日：本季度市场走势回顾",
-        "summary": "To wrap up the final trading day of the first quarter, Yahoo Finance Markets and Data Editor Jared Blikre takes a look at how stocks, sectors, and indexes have performed this quarter.",
-        "summary_zh": "为了结束第一季度的最后一个交易日，雅虎金融市场和数据编辑 Jared Blikre 回顾了本季度股票、板块和指数的表现。",
-        "link": "https://finance.yahoo.com/video/q1s-final-trading-day-a-recap-of-market-moves-this-quarter-194406572.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1774986246,
         "type": "News"
     }
 ]

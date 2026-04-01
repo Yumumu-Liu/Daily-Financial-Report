@@ -1,15 +1,5 @@
 [
     {
-        "title": "Microsoft, Chevron and Engine No. 1 sign exclusive deal for power supply",
-        "title_zh": "微软、雪佛龙和一号引擎签署独家电源协议",
-        "summary": "Microsoft, Chevron and investment fund Engine No. 1 have entered into an exclusivity agreement ‌for power generation and supply, the three companies ‌said on Tuesday.",
-        "summary_zh": "微软、雪佛龙和投资基金 Engine No. 1 周二表示，已签订发电和供应独家协议。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-chevron-engine-no-1-233535130.html",
-        "publisher": "Reuters",
-        "publish_time": 1775000135,
-        "type": "News"
-    },
-    {
         "title": "Oracle to cut thousands of jobs, Amazon strikes deal with Delta",
         "title_zh": "甲骨文裁员数千人，亚马逊与达美航空达成协议",
         "summary": "Yahoo Finance Host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including Business Insider reporting that Oracle (ORCL) will layoff thousands of jobs and Amazon (AMZN) striking a satellite deal with Delta Air Lines (DAL).Stay u...",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/article/amazon-inks-satellite-internet-deal-with-delta-in-major-win-over-elon-musks-spacex-152246215.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1774970566,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle Ups Stake in MAI Capital with Majority Acquisition",
+        "title_zh": "凯雷通过收购多数股权增持 MAI Capital 股份",
+        "summary": "Private equity firm Carlyle has agreed to acquire $72.6B MAI Capital from Galway Holdings at a valuation of $2.8 billion.",
+        "summary_zh": "私募股权公司凯雷已同意以 28 亿美元的估值从戈尔韦控股公司收购价值 72.6B 美元的 MAI Capital。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-ups-stake-mai-capital-130831278.html",
+        "publisher": "Wealth Management",
+        "publish_time": 1774962511,
         "type": "News"
     }
 ]
