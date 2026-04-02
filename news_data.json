@@ -1,5 +1,45 @@
 [
     {
+        "title": "Tesla's China-made EV sales rise 8.7% in March",
+        "title_zh": "特斯拉3月份中国产电动汽车销量增长8.7%",
+        "summary": "BEIJING, April 2 (Reuters) - Sales of Tesla's China-made electric vehicle grew 8.7% from a year earlier to 85,670 vehicles in March, extending gains for a fifth month, as the U.S. automaker navigated",
+        "summary_zh": "路透北京4月2日电 - 特斯拉3月份中国产电动汽车销量同比增长8.7%至85,670辆，连续第五个月延续增长势头，这家美国汽车制造商的发展势头强劲。",
+        "link": "https://finance.yahoo.com/news/teslas-china-made-ev-sales-094051781.html",
+        "publisher": "Reuters",
+        "publish_time": 1775122851,
+        "type": "News"
+    },
+    {
+        "title": "Satellite Operator Globalstar Rallies on Report That Amazon Is in Buyout Talks",
+        "title_zh": "卫星运营商 Globalstar 因亚马逊正在进行收购谈判的报道而上涨",
+        "summary": "(Bloomberg) -- Globalstar Inc. shares rose in pre-market trading after a Financial Times report that Amazon.com Inc. is in talks to acquire the satellite provider.",
+        "summary_zh": "（彭博社）——英国《金融时报》报道亚马逊公司正在就收购卫星提供商进行谈判后，Globalstar Inc. 股价在盘前交易中上涨。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-rallies-report-amazon-buyout-233704539.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775119208,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks fall after Trump threatens to hit Iran ‘extremely hard’",
+        "title_zh": "富时 100 实时指数：特朗普威胁“极其严厉”打击伊朗后股市下跌",
+        "summary": "FTSE 100 fell on Thursday morning, after US president Donald Trump threatened to ramp up Iran attacks",
+        "summary_zh": "美国总统唐纳德·特朗普威胁要加大对伊朗的袭击力度，富时 100 指数周四上午下跌",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-trump-threatens-hit-iran-extremely-hard-074818301.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1775116098,
+        "type": "News"
+    },
+    {
+        "title": "China says it supports law-abiding transnational deals after reports of Meta deal review",
+        "title_zh": "在Meta交易审查报告发布后，中国表示支持守法的跨国交易",
+        "summary": "BEIJING, April 2 () - The Chinese government supports ‌companies with transnational ‌operations and technology cooperation ​deals according to needs and the law, commerce ministry spokesperson He ‌Yadong said ⁠on Thursday.",
+        "summary_zh": "北京，4 月 2 日 - 商务部发言人何亚东周四表示，中国政府根据需要和法律支持企业开展跨国经营和技术合作。",
+        "link": "https://finance.yahoo.com/news/china-says-supports-law-abiding-073644686.html",
+        "publisher": "Reuters",
+        "publish_time": 1775115404,
+        "type": "News"
+    },
+    {
         "title": "S&P 500’s War Pattern: The Wipeout Begins Every Thursday",
         "title_zh": "标准普尔 500 指数的战争模式：每周四都会出现惨败",
         "summary": "(Bloomberg) -- Five weeks into a Middle East war that’s sending shockwaves through the global economy, the US stock market has settled into a predictable pattern.",
@@ -7,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-war-pattern-wipeout-023521930.html",
         "publisher": "Bloomberg",
         "publish_time": 1775097321,
-        "type": "News"
-    },
-    {
-        "title": "Globalstar Rallies on Report That Amazon Is in Buyout Talks",
-        "title_zh": "有报道称亚马逊正在进行收购谈判，Globalstar 股价上涨",
-        "summary": "(Bloomberg) -- Globalstar Inc. shares jumped more than 20% in late trading on a Financial Times report that Amazon.com Inc. is in talks to acquire the satellite provider.",
-        "summary_zh": "（彭博社）——英国《金融时报》报道亚马逊公司正在洽谈收购卫星提供商事宜后，Globalstar Inc. 股价在尾盘交易中上涨了 20% 以上。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-rallies-report-amazon-buyout-233704539.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775086624,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends higher on speculation about end to Iran war",
-        "title_zh": "华尔街收高，因对伊朗战争结束的猜测",
-        "summary": "STORY: U.S stocks ended higher on Wednesday, with the Dow gaining about half a percent, the S&P 500 adding almost three-quarters of a percent and the Nasdaq climbing more than one percent.President Donald Trump told Reuters on Wednesday that the U.S.",
-        "summary_zh": "故事：美国股市周三收高，道指上涨约 0.5%，标准普尔 500 指数上涨近四分之三，纳斯达克指数上涨超过 1%。 美国总统唐纳德·特朗普周三告诉路透社，美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-speculation-225332860.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1775084012,
         "type": "News"
     },
     {
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/video/could-apples-next-50-years-of-success-lie-in-ai-foldable-phones-213744964.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1775079464,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq extend rally for 2nd day on hopes of Iran war deescalation",
-        "title_zh": "今日股市：道指、标普 500 指数和纳斯达克指数因伊朗战争降温的希望而延续第二天涨势",
-        "summary": "Hope for equities is building as Iran and the US appear to be winding down aggressive rhetoric while markets seek stability.",
-        "summary_zh": "随着伊朗和美国似乎逐渐减少激进言论，同时市场寻求稳定，股市的希望正在增强。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-extend-rally-for-2nd-day-on-hopes-of-iran-war-deescalation-200008381.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775073608,
-        "type": "News"
-    },
-    {
-        "title": "Polymarket odds: Will gold, S&P, or bitcoin outperform this year?",
-        "title_zh": "Polymarket赔率：今年黄金、标准普尔或比特币的表现会跑赢大市吗？",
-        "summary": "Polymarket users are betting on whether gold (GC=F), the S&P 500 (^GSPC), or bitcoin (BTC-USD) will perform best this year.Yahoo Finance Senior Reporter Ines Ferre and BCA Research chief global strategist and director of research Peter Berezin share their thoughts.For more pre...",
-        "summary_zh": "Polymarket 用户正在押注黄金 (GC=F)、标准普尔 500 指数 (^GSPC) 或比特币 (BTC-USD) 今年是否会表现最佳。雅虎财经高级记者 Ines Ferre 和 BCA Research 首席全球策略师兼研究总监 Peter Berezin 分享了...",
-        "link": "https://finance.yahoo.com/video/polymarket-odds-will-gold-sp-or-bitcoin-outperform-this-year-141443528.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775052883,
         "type": "News"
     }
 ]
