@@ -1,12 +1,22 @@
 [
     {
-        "title": "Broadcom taps Alphabet executive Amie Thuener as next CFO",
-        "title_zh": "Broadcom 任命 Alphabet 高管 Amie Thuener 为下一任首席财务官",
-        "summary": "U.S. chip designer Broadcom on Thursday named Alphabet executive Amie Thuener as its ‌next finance chief, effective June 12, when incumbent ‌Kirsten Spears retires. Thuener is currently Alphabet's vice president, corporate controller and ​chief accounting officer.",
-        "summary_zh": "美国芯片设计商 Broadcom 周四任命 Alphabet 高管 Amie Thuener 为下一任财务总监，该任命于 6 月 12 日生效，届时现任首席财务官 Kirsten Spears 退休。 Thuener 现任 Alphabet 副总裁、公司财务总监兼首席会计官。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-taps-alphabet-executive-amie-203927290.html",
+        "title": "Tesla eyes Japan's top imported-car spot as it expands store, service network",
+        "title_zh": "特斯拉扩大商店和服务网络，瞄准日本顶级进口车市场",
+        "summary": "TOKYO, April 3 (Reuters) - Tesla plans to expand in Japan to at least 60 stores as it seeks to become the country's biggest imported car brand by as early as next year, the head of its Japan business",
+        "summary_zh": "路透东京 4 月 3 日 - 特斯拉日本业务负责人表示，特斯拉计划在日本扩张至至少 60 家门店，力求最早在明年成为日本最大的进口汽车品牌",
+        "link": "https://finance.yahoo.com/news/tesla-eyes-japans-top-imported-052905116.html",
         "publisher": "Reuters",
-        "publish_time": 1775162367,
+        "publish_time": 1775194145,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion",
+        "title_zh": "微软将在日本投资 100 亿美元用于人工智能和网络防御扩张",
+        "summary": "Microsoft on Friday said it will invest 1.6 trillion yen ($10 ‌billion) in Japan between 2026 and 2029 ‌to expand artificial intelligence infrastructure and strengthen cybersecurity cooperation with ​the government.",
+        "summary_zh": "微软周五表示，将在 2026 年至 2029 年间在日本投资 1.6 万亿日元（100 亿美元），以扩大人工智能基础设施并加强与政府的网络安全合作。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-invest-10-billion-japan-033715953.html",
+        "publisher": "Reuters",
+        "publish_time": 1775187435,
         "type": "News"
     },
     {
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/morning-brief-labor-market-data-vs-anecdotes-100039393.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775124039,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX confidentially files for IPO",
-        "title_zh": "SpaceX 秘密提交 IPO 申请",
-        "summary": "SpaceX officially kicked off its IPO process, which could result in the biggest public offering ever.",
-        "summary_zh": "SpaceX 正式启动 IPO 程序，这可能会成为有史以来规模最大的公开发行。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-confidentially-files-for-ipo-154109626.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775058069,
         "type": "News"
     }
 ]
