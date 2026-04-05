@@ -1,10 +1,20 @@
 [
     {
-        "title": "Russia’s VPN crackdown caused bank outage, Telegram founder aays",
-        "title_zh": "Telegram 创始人 aays 俄罗斯对 VPN 的打击导致银行停电",
+        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
+        "title_zh": "富士康第一季度营收大幅增长，公司对地缘政治发出警告",
+        "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, reported a 29.7% on-year rise in first-quarter revenue ‌on strong demand for artificial intelligence products, though it cautioned ‌about \"volatile\" global politics.",
+        "summary_zh": "全球最大的合同电子产品制造商台湾富士康报告称，由于对人工智能产品的强劲需求，第一季度收入同比增长 29.7%，不过该公司对“不稳定”的全球政治发出了警告。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+        "publisher": "Reuters",
+        "publish_time": 1775374835,
+        "type": "News"
+    },
+    {
+        "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
+        "title_zh": "Telegram 创始人称俄罗斯对 VPN 的打击导致银行中断",
         "summary": "(Bloomberg) -- Russia’s attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered the widespread banking outage seen across the country this week, the service’s billionaire founder Pavel Durov said.",
         "summary_zh": "（彭博社）——该服务的亿万富翁创始人帕维尔·杜罗夫（Pavel Durov）表示，俄罗斯在打压 Telegram 消息平台的过程中试图限制虚拟专用网络的使用，引发了本周全国范围内广泛的银行业务中断。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/russia-vpn-crackdown-caused-bank-120717343.html",
+        "link": "https://finance.yahoo.com/news/russia-vpn-crackdown-caused-bank-120717343.html",
         "publisher": "Bloomberg",
         "publish_time": 1775304437,
         "type": "News"
