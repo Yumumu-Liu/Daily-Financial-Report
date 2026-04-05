@@ -1,12 +1,22 @@
 [
     {
-        "title": "Hyperscale Deal Sends This Hospitality Stock To A 44% Weekly Gain",
-        "title_zh": "超大规模交易使该酒店股每周上涨 44%",
-        "summary": "AI data center buildouts stoke demand for housing and energy. Target Hospitality is expanding in this market.",
-        "summary_zh": "人工智能数据中心的建设刺激了住房和能源的需求。 Target Hospitality 正在该市场扩张。",
-        "link": "https://www.investors.com/news/hyperscale-target-hospitality-stock-soared-ai-data-centers/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1775241765,
+        "title": "Microsoft Is on a New AI Journey After Reworked OpenAI Deal",
+        "title_zh": "重新制定 OpenAI 交易后，微软踏上了新的人工智能之旅",
+        "summary": "The tech giant is pursuing new research avenues that the company hopes will put its AI models on par with rivals.",
+        "summary_zh": "这家科技巨头正在寻求新的研究途径，希望能够使其人工智能模型与竞争对手相媲美。",
+        "link": "https://www.barrons.com/articles/microsoft-ai-openai-7ae5ffe2?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1775333220,
+        "type": "News"
+    },
+    {
+        "title": "Will Alaska Air Group’s New People Chief Shape Its Post‑Merger Culture Strategy and Margins (ALK)?",
+        "title_zh": "阿拉斯加航空集团的新任首席行政官会制定合并后的文化战略和利润率 (ALK)吗？",
+        "summary": "Alaska Air Group recently appointed Lindsay-Rae McIntyre as chief people officer, tasking her with leading talent strategy, culture, and HR operations as the company expands its international footprint and integrates Hawaiian Airlines.",
+        "summary_zh": "阿拉斯加航空集团最近任命 Lindsay-Rae McIntyre 为首席人力官，在公司扩大国际业务并整合夏威夷航空的过程中，让她负责领导人才战略、文化和人力资源运营。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alaska-air-group-people-chief-180639289.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1775325999,
         "type": "News"
     },
     {
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-paying-350-000-crypto-153200457.html",
         "publisher": "Cryptonews",
         "publish_time": 1775230320,
-        "type": "News"
-    },
-    {
-        "title": "State dealer laws add up to $5K to a new vehicle’s price, think tank finds",
-        "title_zh": "智囊团发现，州经销商法使新车价格增加了 5,000 美元",
-        "summary": "“Protecting an incumbent distribution channel is not the same as protecting consumers,” the International Center for Law & Economics concluded in an issue brief.",
-        "summary_zh": "“保护现有分销渠道与保护消费者不同，”国际法律与经济中心在一份问题简报中总结道。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/state-dealer-laws-add-5k-125200079.html",
-        "publisher": "Wards Auto",
-        "publish_time": 1775220720,
         "type": "News"
     },
     {

@@ -1,72 +1,12 @@
 [
     {
-        "title": "What markets have learned since Trump's Liberation Day tariffs",
-        "title_zh": "自特朗普解放日关税以来市场学到了什么",
-        "summary": "This week marks exactly one year since President Trump enacted his \"Liberation Day\" tariffs last April 2 as the administration took aim at US trading partners and other countries around the world.Yahoo Finance Head of News Myles Udland sits down with Barron's Investor Circle N...",
-        "summary_zh": "本周是特朗普总统自去年 4 月 2 日颁布“解放日”关税以来整整一周年，政府将目标瞄准了美国贸易伙伴和世界其他国家。雅虎财经新闻主管迈尔斯·乌德兰 (Myles Udland) 与《巴伦周刊》投资者圈 N...",
-        "link": "https://finance.yahoo.com/video/what-markets-have-learned-since-trumps-liberation-day-tariffs-140614223.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775225174,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet vs. Tesla: This stock is just an 'immense cash flow machine'",
-        "title_zh": "Alphabet vs. Tesla：这只股票只是一个“巨大的现金流机器”",
-        "summary": "Yahoo Finance's \"Market Madness\" tournament has whittled down the competition of top-performing companies, pairing Alphabet (GOOG, GOOGL) against Tesla (TSLA) and Palantir Technologies (PLTR) against Walmart (WMT) in today's matchups.Carnegie Investment Counsel director of res...",
-        "summary_zh": "雅虎财经的“市场疯狂”锦标赛削弱了表现最好的公司的竞争，在今天的对决中，Alphabet (GOOG、GOOGL) 对阵特斯拉 (TSLA)，Palantir Technologies (PLTR) 对阵沃尔玛 (WMT)。卡内基投资顾问研究总监...",
-        "link": "https://finance.yahoo.com/video/alphabet-vs-tesla-this-stock-is-just-an-immense-cash-flow-machine-133000919.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775223000,
-        "type": "News"
-    },
-    {
-        "title": "How you can reevaluate your finances in times of uncertainty",
-        "title_zh": "如何在不确定的时期重新评估您的财务状况",
-        "summary": "National average gas prices have topped $4 per gallon as the Iran war continues to pressure consumer prices and fuel market uncertainty.401 Financial principal and founder Tyrone Ross Jr.",
-        "summary_zh": "由于伊朗战争继续给消费者价格和燃料市场的不确定性带来压力，全国平均汽油价格已突破每加仑 4 美元。401 金融负责人兼创始人 Tyrone Ross Jr.",
-        "link": "https://finance.yahoo.com/video/how-you-can-reevaluate-your-finances-in-times-of-uncertainty-103000442.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775212200,
-        "type": "News"
-    },
-    {
-        "title": "Morning Brief: Hope for Hormuz lifts markets",
-        "title_zh": "早间简报：霍尔木兹海峡的希望提振市场",
-        "summary": "The March jobs report is set for release at 8:30 a.m. ET, following Thursday's slightly lower-than-expected jobless claims.",
-        "summary_zh": "周四初请失业金人数略低于预期后，3 月份就业报告定于美国东部时间上午 8:30 发布。",
-        "link": "https://finance.yahoo.com/news/morning-brief-hope-for-hormuz-lifts-markets-100050282.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775210450,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO",
-        "title_zh": "SpaceX 秘密向公众提交文件，寻求 2 万亿美元巨额 IPO 估值",
-        "summary": "SpaceX officially kicked off its IPO process, which could result in the biggest public offering ever.",
-        "summary_zh": "SpaceX 正式启动 IPO 程序，这可能会成为有史以来规模最大的公开发行。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-confidentially-files-to-public-seeking-2-trillion-valuation-in-monster-ipo-154109395.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775058069,
-        "type": "News"
-    },
-    {
-        "title": "Bitcoin and ethereum price today, Friday, April 3, 2026: Prices are mixed as traders weigh long-term outlook",
-        "title_zh": "今天，2026 年 4 月 3 日星期五，比特币和以太坊价格：交易者权衡长期前景，价格涨跌互现",
-        "summary": "Bitcoin dipped while ethereum gained Friday morning after losing ground following President Trump’s prime-time address. Traders are questioning long-term outlooks.",
-        "summary_zh": "比特币下跌，而以太坊在特朗普总统黄金时段讲话后下跌，周五上午上涨。交易员对长期前景提出质疑。",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-friday-april-3-2026-prices-are-mixed-as-traders-weigh-long-term-outlook-120045802.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1774872045,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: SpaceX reportedly targets $2 trillion valuation, Microsoft invests $10 billion in Japan",
-        "title_zh": "今日科技股：据报道 SpaceX 估值目标为 2 万亿美元，微软在日本投资 100 亿美元",
-        "summary": "Live coverage of \"Magnificent Seven\" stocks, and the latest technology news.",
-        "summary_zh": "直播报道“七大”个股，以及最新科技新闻。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-spacex-reportedly-targets-2-trillion-valuation-microsoft-invests-10-billion-in-japan-144220012.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1773412940,
+        "title": "Russia’s VPN crackdown caused bank outage, Telegram founder aays",
+        "title_zh": "Telegram 创始人 aays 俄罗斯对 VPN 的打击导致银行停电",
+        "summary": "(Bloomberg) -- Russia’s attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered the widespread banking outage seen across the country this week, the service’s billionaire founder Pavel Durov said.",
+        "summary_zh": "（彭博社）——该服务的亿万富翁创始人帕维尔·杜罗夫（Pavel Durov）表示，俄罗斯在打压 Telegram 消息平台的过程中试图限制虚拟专用网络的使用，引发了本周全国范围内广泛的银行业务中断。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/russia-vpn-crackdown-caused-bank-120717343.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775304437,
         "type": "News"
     }
 ]
