@@ -1,20 +1,30 @@
 [
     {
-        "title": "Stocks Rise, Oil Pares Gain on Iran Talks Report: Markets Wrap",
-        "title_zh": "伊朗谈判报告推动股市上涨、油价上涨：市场结束",
-        "summary": "(Bloomberg) -- Stocks rose and crude oil pared gains as investors cautiously returned to equities, encouraged by indications the Iran-US conflict may be contained.Benchmark stock indexes in Japan and South Korea both gained more than 1%, helping boost the MSCI Asia Pacific Ind...",
-        "summary_zh": "（彭博社）——受伊朗与美国冲突可能得到遏制的迹象的鼓舞，投资者谨慎地重返股市，股市上涨，原油回吐涨幅。日本和韩国基准股指均上涨超过 1%，帮助提振了 MSCI 亚太指数。",
-        "link": "https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775445385,
+        "title": "It's 'time to jump in' with Palantir and these 2 stock picks",
+        "title_zh": "是时候加入 Palantir 和这两只精选股票了",
+        "summary": "Gibbens Capital president and chief investment officer Mark Gibbens chats with Yahoo Finance's Josh Lipton about three stock picks he's keeping an eye on: Palantir (PLTR), Nvidia (NVDA), and JPMorgan (JPM).",
+        "summary_zh": "Gibbens Capital 总裁兼首席投资官 Mark Gibbens 与雅虎财经的 Josh Lipton 讨论了他关注的三只股票：Palantir (PLTR)、Nvidia (NVDA) 和 JPMorgan (JPM)。",
+        "link": "https://finance.yahoo.com/video/its-time-to-jump-in-with-palantir-and-these-2-stock-picks-100000513.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775469600,
         "type": "News"
     },
     {
-        "title": "Stock market today: Oil surges, futures fall as Trump ratchets up threats against Iran",
-        "title_zh": "今日股市：特朗普加大对伊朗的威胁，油价飙升，期货下跌",
-        "summary": "Oil rose and stock futures fell on Sunday night as investors aimed to make sense of a busy weekend in the US-Iran conflict.",
-        "summary_zh": "周日晚间，油价上涨，股指期货下跌，投资者希望了解美伊冲突中繁忙的周末。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-oil-surges-futures-fall-as-trump-ratchets-up-threats-against-iran-002656735.html",
+        "title": "Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets",
+        "title_zh": "尽管特朗普的伊朗战争威胁云市场，比特币仍在上涨",
+        "summary": "(Bloomberg) -- Bitcoin rose in early trading Monday as investors weighed reports that Iran was seeking a ceasefire in the war, even as US President Donald Trump escalated threats to attack civilian infrastructure.The original cryptocurrency was up as much as 2.8%, trading arou...",
+        "summary_zh": "（彭博社）——比特币周一早盘上涨，投资者权衡了有关伊朗正在寻求战争停火的报道，尽管美国总统唐纳德·特朗普升级了攻击民用基础设施的威胁。最初的加密货币上涨了 2.8%，交易量约为 2.8%。",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775464894,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: US stock futures rise as hopes emerge for a Mideast end to hostilities",
+        "title_zh": "今日股市：随着中东结束敌对行动的希望出现，美国股指期货上涨",
+        "summary": "Reports of a ceasefire proposal are lifting hopes for an end to US-Iran hostilities.",
+        "summary_zh": "有关停火提议的报道正在提升结束美伊敌对行动的希望。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775435216,
         "type": "News"
@@ -47,16 +57,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
         "publisher": "Reuters",
         "publish_time": 1775374835,
-        "type": "News"
-    },
-    {
-        "title": "Russia’s VPN Crackdown Caused Bank Outage, Telegram Founder Says",
-        "title_zh": "Telegram 创始人称俄罗斯对 VPN 的打击导致银行中断",
-        "summary": "(Bloomberg) -- Russia’s attempts to restrict the use of virtual private networks amid a clampdown on the Telegram messaging platform triggered the widespread banking outage seen across the country this week, the service’s billionaire founder Pavel Durov said.",
-        "summary_zh": "（彭博社）——该服务的亿万富翁创始人帕维尔·杜罗夫（Pavel Durov）表示，俄罗斯在打压 Telegram 消息平台的过程中试图限制虚拟专用网络的使用，引发了本周全国范围内广泛的银行业务中断。",
-        "link": "https://finance.yahoo.com/news/russia-vpn-crackdown-caused-bank-120717343.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775304437,
         "type": "News"
     }
 ]

@@ -3,61 +3,61 @@
         "symbol": "NVDA",
         "name": "NVIDIA Corporation",
         "price": "177.39",
-        "change": "+1.31"
+        "change": "+0.72"
     },
     {
         "symbol": "MSFT",
         "name": "Microsoft Corporation",
         "price": "373.46",
-        "change": "+3.51"
+        "change": "+0.06"
     },
     {
         "symbol": "AAPL",
         "name": "Apple Inc.",
         "price": "255.92",
-        "change": "+0.94"
+        "change": "+0.57"
     },
     {
         "symbol": "GOOGL",
         "name": "Alphabet Inc.",
         "price": "295.77",
-        "change": "-1.95"
+        "change": "-0.09"
     },
     {
         "symbol": "AMZN",
         "name": "Amazon.com, Inc.",
         "price": "209.77",
-        "change": "-0.13"
+        "change": "-0.01"
     },
     {
         "symbol": "META",
         "name": "Meta Platforms, Inc.",
         "price": "574.46",
-        "change": "-4.13"
+        "change": "-0.32"
     },
     {
         "symbol": "AVGO",
         "name": "Broadcom Inc.",
         "price": "314.55",
-        "change": "+1.25"
+        "change": "+0.35"
     },
     {
         "symbol": "TSM",
         "name": "Taiwan Semiconductor Manufactur",
         "price": "339.04",
-        "change": "-3.24"
+        "change": "+2.14"
     },
     {
         "symbol": "TSLA",
         "name": "Tesla, Inc.",
         "price": "360.59",
-        "change": "-20.32"
+        "change": "-0.67"
     },
     {
         "symbol": "LLY",
         "name": "Eli Lilly and Company",
         "price": "935.58",
-        "change": "-22.75"
+        "change": "+0.02"
     },
     {
         "symbol": "0700.HK",
