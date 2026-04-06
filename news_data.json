@@ -1,5 +1,45 @@
 [
     {
+        "title": "Stocks Rise, Oil Pares Gain on Iran Talks Report: Markets Wrap",
+        "title_zh": "伊朗谈判报告推动股市上涨、油价上涨：市场结束",
+        "summary": "(Bloomberg) -- Stocks rose and crude oil pared gains as investors cautiously returned to equities, encouraged by indications the Iran-US conflict may be contained.Benchmark stock indexes in Japan and South Korea both gained more than 1%, helping boost the MSCI Asia Pacific Ind...",
+        "summary_zh": "（彭博社）——受伊朗与美国冲突可能得到遏制的迹象的鼓舞，投资者谨慎地重返股市，股市上涨，原油回吐涨幅。日本和韩国基准股指均上涨超过 1%，帮助提振了 MSCI 亚太指数。",
+        "link": "https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775445385,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Oil surges, futures fall as Trump ratchets up threats against Iran",
+        "title_zh": "今日股市：特朗普加大对伊朗的威胁，油价飙升，期货下跌",
+        "summary": "Oil rose and stock futures fell on Sunday night as investors aimed to make sense of a busy weekend in the US-Iran conflict.",
+        "summary_zh": "周日晚间，油价上涨，股指期货下跌，投资者希望了解美伊冲突中繁忙的周末。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-oil-surges-futures-fall-as-trump-ratchets-up-threats-against-iran-002656735.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775435216,
+        "type": "News"
+    },
+    {
+        "title": "Inflation readings, oil volatility, and airline earnings: What to watch this week",
+        "title_zh": "通胀数据、石油波动和航空公司盈利：本周值得关注的内容",
+        "summary": "Inflation readings, Delta earnings, and more Middle East volatility are set to headline the week ahead.",
+        "summary_zh": "通胀数据、达美航空盈利以及更多中东波动将成为未来一周的焦点。",
+        "link": "https://finance.yahoo.com/news/inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775388627,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand",
+        "title_zh": "Nvidia 合作伙伴鸿海的销售额符合人工智能强劲需求的预期",
+        "summary": "(Bloomberg) -- Hon Hai Precision Industry Co. reported a 29.7% rise in quarterly sales, a sign of sustained AI demand during the first weeks of war in the Middle East.",
+        "summary_zh": "（彭博社）——鸿海精密工业有限公司公布季度销售额增长 29.7%，这表明中东战争头几周人工智能需求持续增长。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-partner-hon-hai-sales-074937885.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775375377,
+        "type": "News"
+    },
+    {
         "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
         "title_zh": "富士康第一季度营收大幅增长，公司对地缘政治发出警告",
         "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, reported a 29.7% on-year rise in first-quarter revenue ‌on strong demand for artificial intelligence products, though it cautioned ‌about \"volatile\" global politics.",
