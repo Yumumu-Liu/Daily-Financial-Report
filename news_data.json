@@ -1,62 +1,92 @@
 [
     {
-        "title": "It's 'time to jump in' with Palantir and these 2 stock picks",
-        "title_zh": "是时候加入 Palantir 和这两只精选股票了",
-        "summary": "Gibbens Capital president and chief investment officer Mark Gibbens chats with Yahoo Finance's Josh Lipton about three stock picks he's keeping an eye on: Palantir (PLTR), Nvidia (NVDA), and JPMorgan (JPM).",
-        "summary_zh": "Gibbens Capital 总裁兼首席投资官 Mark Gibbens 与雅虎财经的 Josh Lipton 讨论了他关注的三只股票：Palantir (PLTR)、Nvidia (NVDA) 和 JPMorgan (JPM)。",
-        "link": "https://finance.yahoo.com/video/its-time-to-jump-in-with-palantir-and-these-2-stock-picks-100000513.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775469600,
-        "type": "News"
-    },
-    {
-        "title": "Bitcoin Ticks Up Even as Trump’s Iran War Threats Cloud Markets",
-        "title_zh": "尽管特朗普的伊朗战争威胁云市场，比特币仍在上涨",
-        "summary": "(Bloomberg) -- Bitcoin rose in early trading Monday as investors weighed reports that Iran was seeking a ceasefire in the war, even as US President Donald Trump escalated threats to attack civilian infrastructure.The original cryptocurrency was up as much as 2.8%, trading arou...",
-        "summary_zh": "（彭博社）——比特币周一早盘上涨，投资者权衡了有关伊朗正在寻求战争停火的报道，尽管美国总统唐纳德·特朗普升级了攻击民用基础设施的威胁。最初的加密货币上涨了 2.8%，交易量约为 2.8%。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ticks-even-trump-iran-025044624.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775464894,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: US stock futures rise as hopes emerge for a Mideast end to hostilities",
-        "title_zh": "今日股市：随着中东结束敌对行动的希望出现，美国股指期货上涨",
-        "summary": "Reports of a ceasefire proposal are lifting hopes for an end to US-Iran hostilities.",
-        "summary_zh": "有关停火提议的报道正在提升结束美伊敌对行动的希望。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775435216,
-        "type": "News"
-    },
-    {
-        "title": "Inflation readings, oil volatility, and airline earnings: What to watch this week",
-        "title_zh": "通胀数据、石油波动和航空公司盈利：本周值得关注的内容",
-        "summary": "Inflation readings, Delta earnings, and more Middle East volatility are set to headline the week ahead.",
-        "summary_zh": "通胀数据、达美航空盈利以及更多中东波动将成为未来一周的焦点。",
-        "link": "https://finance.yahoo.com/news/inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775388627,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia Partner Hon Hai’s Sales Meet Estimates on Solid AI Demand",
-        "title_zh": "Nvidia 合作伙伴鸿海的销售额符合人工智能强劲需求的预期",
-        "summary": "(Bloomberg) -- Hon Hai Precision Industry Co. reported a 29.7% rise in quarterly sales, a sign of sustained AI demand during the first weeks of war in the Middle East.",
-        "summary_zh": "（彭博社）——鸿海精密工业有限公司公布季度销售额增长 29.7%，这表明中东战争头几周人工智能需求持续增长。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-partner-hon-hai-sales-074937885.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775375377,
-        "type": "News"
-    },
-    {
-        "title": "Foxconn first-quarter revenue jumps, company cautions on geopolitics",
-        "title_zh": "富士康第一季度营收大幅增长，公司对地缘政治发出警告",
-        "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, reported a 29.7% on-year rise in first-quarter revenue ‌on strong demand for artificial intelligence products, though it cautioned ‌about \"volatile\" global politics.",
-        "summary_zh": "全球最大的合同电子产品制造商台湾富士康报告称，由于对人工智能产品的强劲需求，第一季度收入同比增长 29.7%，不过该公司对“不稳定”的全球政治发出了警告。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/foxconn-first-quarter-revenue-jumps-074035924.html",
+        "title": "Apple's foldable iPhone encounters engineering snags, faces potential shipment delays, Nikkei Asia reports",
+        "title_zh": "据《日经亚洲》报道，苹果的可折叠 iPhone 遇到工程障碍，面临潜在的发货延迟",
+        "summary": "April 6 (Reuters) - Apple has been encountering setbacks in the engineering test phase of its first foldable iPhone, which could lead to delays in its mass production and product shipment schedule,",
+        "summary_zh": "4 月 6 日（路透社）——苹果在其首款可折叠 iPhone 的工程测试阶段遇到了挫折，这可能导致其量产和产品发货时间表的延迟。",
+        "link": "https://finance.yahoo.com/news/apples-foldable-iphone-encounters-engineering-025635426.html",
         "publisher": "Reuters",
-        "publish_time": 1775374835,
+        "publish_time": 1775530706,
+        "type": "News"
+    },
+    {
+        "title": "Apple's foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports",
+        "title_zh": "据《日经亚洲》报道，苹果的可折叠 iPhone 面临工程障碍和潜在的发货延迟",
+        "summary": "Apple has been encountering setbacks in the engineering test ‌phase of its first foldable iPhone, ‌which could lead to delays in its mass ​production and product shipment schedule, Nikkei Asia reported on Monday, citing sources.",
+        "summary_zh": "据《日经亚洲》周一援引消息人士的消息称，苹果在其首款可折叠 iPhone 的工程测试阶段遇到了挫折，这可能导致其量产和产品发货计划的延迟。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apples-foldable-iphone-encounters-engineering-025635601.html",
+        "publisher": "Reuters",
+        "publish_time": 1775530595,
+        "type": "News"
+    },
+    {
+        "title": "Samsung Beats High Estimates After AI Chip Sales Defy War Fears",
+        "title_zh": "人工智能芯片销售战胜战争恐惧后，三星超出了高预期",
+        "summary": "(Bloomberg) -- Samsung Electronics Co. earned a far stronger-than-expected eight-fold leap in quarterly profit, underscoring robust demand for AI memory chips in the face of markets roiled by war in the Middle East.",
+        "summary_zh": "（彭博社）——三星电子公司的季度利润远超预期，增长了八倍，突显出在中东战争扰乱市场的情况下，对人工智能存储芯片的强劲需求。",
+        "link": "https://finance.yahoo.com/news/samsung-profit-eight-fold-ai-233241967.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775523151,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia-Backed Data Center Builder Firmus Raises $505 Million",
+        "title_zh": "Nvidia 支持的数据中心建造商 Firmus 融资 5.05 亿美元",
+        "summary": "(Bloomberg) -- Data center builder Firmus Technologies Pty raised $505 million in an investment round led by Coatue Management LLC, part of a global push to finance artificial intelligence infrastructure.",
+        "summary_zh": "（彭博社）——数据中心建造商 Firmus Technologies Pty 在由 Coatue Management LLC 领投的一轮投资中筹集了 5.05 亿美元，这是全球推动人工智能基础设施融资的一部分。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-backed-data-center-builder-200000238.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775518333,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Trump deadline for Iran deal nears",
+        "title_zh": "今日股市：随着特朗普达成伊朗协议的最后期限临近，道指、标准普尔 500 指数和纳斯达克期货下跌",
+        "summary": "Markets are facing instability as a Trump-issued deadline for a deal with Iran fast approaches.",
+        "summary_zh": "随着特朗普设定的与伊朗达成协议的最后期限迅速临近，市场面临不稳定。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-trump-deadline-for-iran-deal-nears-224408238.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775515448,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
+        "title_zh": "博通签署长期协议开发谷歌定制人工智能芯片",
+        "summary": "Broadcom said on Monday it has signed a long-term agreement with Google to develop and ‌supply future generations of custom artificial intelligence chips and ‌other components for the company's next-generation AI racks through 2031.",
+        "summary_zh": "博通周一表示，已与谷歌签署了一项长期协议，到 2031 年为该公司的下一代人工智能机架开发和供应下一代定制人工智能芯片和其他组件。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-signs-long-term-deal-223745965.html",
+        "publisher": "Reuters",
+        "publish_time": 1775515065,
+        "type": "News"
+    },
+    {
+        "title": "Wall St ends higher as investors parse US-Iran negotiations, threats",
+        "title_zh": "随着投资者分析美伊谈判和威胁，华尔街收高",
+        "summary": "STORY: U.S.",
+        "summary_zh": "故事：美国",
+        "link": "https://finance.yahoo.com/video/wall-st-ends-higher-investors-222719933.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1775514439,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom",
+        "title_zh": "Anthropic 与 Broadcom 达成交易，营业额突破 300 亿美元",
+        "summary": "(Bloomberg) -- Anthropic PBC said its revenue run rate has now topped $30 billion, up from $9 billion at the end of 2025, and confirmed plans to work with Broadcom Inc.",
+        "summary_zh": "(彭博社) -- Anthropic PBC 表示，其收入运行率现已突破 300 亿美元，高于 2025 年底的 90 亿美元，并确认了与 Broadcom Inc. 合作的计划。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-tops-30-billion-run-221045473.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775513445,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI vs. SpaceX IPO race: Can hype justify valuations?",
+        "title_zh": "OpenAI 与 SpaceX IPO 竞赛：炒作能否证明估值合理？",
+        "summary": "Futurum CEO Daniel Newman joins Yahoo Finance Markets and Data editor Jared Blikre to break down investor expectations for OpenAI (OPAI.PVT) and SpaceX's (SPAX.PVT) respective IPOs, highlighting AI competition, compute costs, and the push for real cash flow.",
+        "summary_zh": "Futurum 首席执行官 Daniel Newman 与雅虎金融市场和数据编辑 Jared Blikre 一起打破了投资者对 OpenAI (OPAI.PVT) 和 SpaceX (SPAX.PVT) 各自 IPO 的预期，强调了人工智能竞争、计算成本和对实际现金流的推动。",
+        "link": "https://finance.yahoo.com/video/openai-vs-spacex-ipo-race-can-hype-justify-valuations-205307136.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775508787,
         "type": "News"
     }
 ]
