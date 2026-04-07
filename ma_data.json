@@ -1,5 +1,25 @@
 [
     {
+        "title": "Broadcom expands chip deals with Google and Anthropic",
+        "title_zh": "博通扩大与谷歌和 Anthropic 的芯片交易",
+        "summary": "Broadcom deepens AI ties with Google and Anthropic as demand for next-generation compute infrastructure accelerates.",
+        "summary_zh": "随着对下一代计算基础设施的需求加速增长，博通加深了与谷歌和 Anthropic 的人工智能联系。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-expands-chip-deals-google-084815627.html",
+        "publisher": "Verdict",
+        "publish_time": 1775551695,
+        "type": "News"
+    },
+    {
+        "title": "Should You Really Buy Stocks Now? Fundstrat's Tom Lee and Billionaire Bill Ackman Offer an Answer That's Crystal Clear.",
+        "title_zh": "你现在真的应该购买股票吗？ Fundstrat 的汤姆·李 (Tom Lee) 和亿万富翁比尔·阿克曼 (Bill Ackman) 给出了非常明确的答案。",
+        "summary": "Various problems, including the war in Iran, have weighed on appetite for stocks.",
+        "summary_zh": "包括伊朗战争在内的各种问题都打压了股市的兴趣。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/really-buy-stocks-now-fundstrats-083500295.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1775550900,
+        "type": "News"
+    },
+    {
         "title": "Broadcom’s Google And Anthropic AI Deals Deepen Custom Chip Reliance",
         "title_zh": "Broadcom 的 Google 和 Anthropic AI 交易加深了对定制芯片的依赖",
         "summary": "Broadcom (NasdaqGS:AVGO) has signed multi-year AI chip and infrastructure agreements with Google and Anthropic. The deals run through 2031 and cover exclusive custom silicon design and supply for next generation AI platforms.",
@@ -20,33 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Broadcom Stock Gains After Filing Reveals Deal With Google",
-        "title_zh": "博通股价在提交文件披露与谷歌的交易后上涨",
-        "summary": "In a Monday afternoon filing with the Securities and Exchange Commission,  Broadcom  added some certainty to its relationship with Alphabet, for which it designs artificial-intelligence chips.  Broadcom stock rose 2.4% in after-hours trading.  Alphabet shares were unchanged.",
-        "summary_zh": "在周一下午向美国证券交易委员会提交的文件中，博通为其与 Alphabet 的关系增添了一些确定性，博通为其设计人工智能芯片。  博通股价在盘后交易中上涨 2.4%。  Alphabet 股票没有变化。",
-        "link": "https://www.barrons.com/articles/broadcom-stock-price-google-chip-deal-filing-b5a52077?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1775518560,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Trump deadline for Iran deal nears",
-        "title_zh": "今日股市：随着特朗普达成伊朗协议的最后期限临近，道指、标准普尔 500 指数和纳斯达克期货下跌",
-        "summary": "Markets are facing instability as a Trump-issued deadline for a deal with Iran fast approaches.",
-        "summary_zh": "随着特朗普设定的与伊朗达成协议的最后期限迅速临近，市场面临不稳定。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-trump-deadline-for-iran-deal-nears-224408238.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775515448,
-        "type": "News"
-    },
-    {
-        "title": "Broadcom signs long-term deal to develop Google’s custom AI chips",
-        "title_zh": "博通签署长期协议开发谷歌定制人工智能芯片",
-        "summary": "Broadcom said on Monday it has signed a long-term agreement with Google to develop and ‌supply future generations of custom artificial intelligence chips and ‌other components for the company's next-generation AI racks through 2031.",
-        "summary_zh": "博通周一表示，已与谷歌签署了一项长期协议，到 2031 年为该公司的下一代人工智能机架开发和供应下一代定制人工智能芯片和其他组件。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-signs-long-term-deal-223745965.html",
-        "publisher": "Reuters",
-        "publish_time": 1775515065,
+        "title": "Stock Market Today: Dow Up As Trump Offers This Olive Branch; AI Play Eyes Entry (Live Coverage)",
+        "title_zh": "今日股市：特朗普伸出橄榄枝，道指上涨； AI玩眼录入（直播）",
+        "summary": "The Dow Jones index and Apple rose on the stock market today. President Donald Trump offered an olive branch to Iran even amid more threats.",
+        "summary_zh": "道琼斯指数和苹果公司今天股市上涨。尽管面临更多威胁，唐纳德·特朗普总统还是向伊朗伸出了橄榄枝。",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1775507050,
         "type": "News"
     }
 ]
