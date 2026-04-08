@@ -1,22 +1,22 @@
 [
     {
-        "title": "‘Freak Out’ Indicator Soars to Record With War Sparking Trader Anxiety",
-        "title_zh": "“惊慌”指标飙升至创纪录水平，战争引发交易者焦虑",
-        "summary": "(Bloomberg) -- Investors wary of being wrong-footed by twists and turns in the Iran war are trading stocks at a record intensity, one market measure shows.",
-        "summary_zh": "（彭博社）——一项市场指标显示，投资者正以创纪录的强度进行股票交易，以免因伊朗战争的曲折而措手不及。",
-        "link": "https://finance.yahoo.com/news/freak-indicator-soars-record-war-201626474.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775609709,
+        "title": "Morning Brief: Chicago Fed's Goolsbee 'nervous' about impact of oil shock on economy",
+        "title_zh": "早间简报：芝加哥联储古尔斯比对石油冲击对经济的影响感到“紧张”",
+        "summary": "The stock market, with President Trump's threat to Iran that a \"whole civilization will die tonight\" at top of mind, still managed to eke out gains as hope remained on Tuesday of a diplomatic resolution.",
+        "summary_zh": "股市在特朗普总统威胁伊朗“整个文明今晚将消亡”的情况下，仍设法勉强上涨，因为周二外交解决方案仍抱有希望。",
+        "link": "https://finance.yahoo.com/news/morning-brief-chicago-feds-goolsbee-nervous-about-impact-of-oil-shock-on-economy-100030121.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775642430,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures surge on news of a two-week ceasefire",
-        "title_zh": "今日股市：受两周停火消息影响，道琼斯指数、标准普尔 500 指数和纳斯达克期货大幅上涨",
-        "summary": "The news of a potential ceasefire between the US and Iran has seen stock futures pop after-hours.",
-        "summary_zh": "美国和伊朗之间可能停火的消息导致股指期货盘后上涨。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-surge-on-news-of-a-two-week-ceasefire-224505599.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775601905,
+        "title": "Analysis-How the math works on a $1.75 trillion SpaceX valuation",
+        "title_zh": "分析——SpaceX 估值 1.75 万亿美元的数学原理",
+        "summary": "By Medha Singh, Echo Wang and Noel Randewich April 8 (Reuters) - Elon Musk’s SpaceX is seeking a $1.75 trillion valuation in its forthcoming initial public offering.",
+        "summary_zh": "作者：Medha Singh、Echo Wang 和 Noel Randewich 4 月 8 日（路透社）——埃隆·马斯克 (Elon Musk) 的 SpaceX 正在其即将进行的首次公开募股中寻求 1.75 万亿美元的估值。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-math-works-1-75-090131734.html",
+        "publisher": "Reuters",
+        "publish_time": 1775638891,
         "type": "News"
     },
     {
@@ -27,6 +27,16 @@
         "link": "https://finance.yahoo.com/video/anthropic-launches-new-ai-model-to-help-fight-cyberattacks-202000663.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1775593200,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq close slightly higher on hopes of Iran deadline extension",
+        "title_zh": "今日股市：因伊朗期限延长的希望，标普 500 指数和纳斯达克指数小幅收高",
+        "summary": "Markets are facing volatility as a Trump deadline to launch strikes on Iran fast approaches.",
+        "summary_zh": "随着特朗普对伊朗发动打击的最后期限迅速临近，市场面临波动。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-close-slightly-higher-on-hopes-of-iran-deadline-extension-200445471.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775592285,
         "type": "News"
     },
     {
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775576289,
-        "type": "News"
-    },
-    {
-        "title": "Ulta Beauty CEO: GLP-1 effects on hair, skin could boost demand for beauty products",
-        "title_zh": "Ulta Beauty首席执行官：GLP-1对头发、皮肤的影响可能会增加对美容产品的需求",
-        "summary": "Ulta Beauty CEO highlights a key trend impacting the business of cosmetics.",
-        "summary_zh": "Ulta Beauty 首席执行官强调了影响化妆品业务的一个关键趋势。",
-        "link": "https://finance.yahoo.com/news/ulta-beauty-ceo-glp-1-effects-on-hair-skin-could-boost-demand-for-beauty-products-143908771.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775572748,
         "type": "News"
     }
 ]

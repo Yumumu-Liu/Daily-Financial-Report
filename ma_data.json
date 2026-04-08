@@ -1,5 +1,15 @@
 [
     {
+        "title": "Does Microsoft’s Massive AI Deal And GPU Build‑Out Change The Bull Case For IREN (IREN)?",
+        "title_zh": "微软的大规模人工智能交易和 GPU 建设是否会改变 IREN (IREN) 的牛市？",
+        "summary": "Iren recently accelerated its shift from Bitcoin mining to AI cloud infrastructure, securing a five‑year US$9.70 billion Microsoft AI data center capacity deal and arranging US$9.30 billion of funding to deploy more than 150,000 Nvidia GPUs across a 4.50 GW power portfolio.",
+        "summary_zh": "Iren 最近加速了从比特币挖矿向 AI 云基础设施的转变，获得了为期五年、价值 97 亿美元的 Microsoft AI 数据中心容量协议，并安排了 93 亿美元的资金，在 4.50 GW 的电力组合中部署超过 150,000 个 Nvidia GPU。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/does-microsoft-massive-ai-deal-043211262.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1775622731,
+        "type": "News"
+    },
+    {
         "title": "Alliance Entertainment Webinar: Amazon MGM Deal, Margin Gains, and New Authentication Growth Push",
         "title_zh": "联盟娱乐网络研讨会：亚马逊米高梅交易、利润增长和新的身份验证增长推动",
         "summary": "Alliance Entertainment (NASDAQ:AENT) used a shareholder webinar to highlight its distribution scale, recent margin gains, and growth initiatives tied to exclusive studio relationships, owned brands, and product authentication technology.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
         "publisher": "Bloomberg",
         "publish_time": 1775586411,
-        "type": "News"
-    },
-    {
-        "title": "Is Oracle (ORCL) Offering Value After Recent Share Price Swings And AI Cloud Headlines",
-        "title_zh": "在最近的股价波动和人工智能云头条新闻之后，甲骨文（ORCL）是否提供价值",
-        "summary": "Wondering if Oracle at around US$145.54 is offering fair value, or if you might be paying up for the story the market is telling right now.",
-        "summary_zh": "想知道大约 145.54 美元的 Oracle 是否提供了公允价值，或者您是否可能为市场目前讲述的故事付费。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-offering-value-recent-181426345.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1775585666,
         "type": "News"
     }
 ]
