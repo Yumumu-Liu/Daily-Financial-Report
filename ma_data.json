@@ -1,52 +1,52 @@
 [
     {
-        "title": "Broadcom expands chip deals with Google and Anthropic",
-        "title_zh": "博通扩大与谷歌和 Anthropic 的芯片交易",
-        "summary": "Broadcom deepens AI ties with Google and Anthropic as demand for next-generation compute infrastructure accelerates.",
-        "summary_zh": "随着对下一代计算基础设施的需求加速增长，博通加深了与谷歌和 Anthropic 的人工智能联系。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-expands-chip-deals-google-084815627.html",
-        "publisher": "Verdict",
-        "publish_time": 1775551695,
+        "title": "Alliance Entertainment Webinar: Amazon MGM Deal, Margin Gains, and New Authentication Growth Push",
+        "title_zh": "联盟娱乐网络研讨会：亚马逊米高梅交易、利润增长和新的身份验证增长推动",
+        "summary": "Alliance Entertainment (NASDAQ:AENT) used a shareholder webinar to highlight its distribution scale, recent margin gains, and growth initiatives tied to exclusive studio relationships, owned brands, and product authentication technology.",
+        "summary_zh": "Alliance Entertainment（纳斯达克股票代码：AENT）利用股东网络研讨会强调了其发行规模、近期利润增长以及与独家工作室关系、自有品牌和产品认证技术相关的增长计划。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-entertainment-webinar-amazon-mgm-220817258.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1775599697,
         "type": "News"
     },
     {
-        "title": "Should You Really Buy Stocks Now? Fundstrat's Tom Lee and Billionaire Bill Ackman Offer an Answer That's Crystal Clear.",
-        "title_zh": "你现在真的应该购买股票吗？ Fundstrat 的汤姆·李 (Tom Lee) 和亿万富翁比尔·阿克曼 (Bill Ackman) 给出了非常明确的答案。",
-        "summary": "Various problems, including the war in Iran, have weighed on appetite for stocks.",
-        "summary_zh": "包括伊朗战争在内的各种问题都打压了股市的兴趣。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/really-buy-stocks-now-fundstrats-083500295.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1775550900,
+        "title": "Anthropic Scales Fast With Big TPU Deal",
+        "title_zh": "Anthropic 通过 TPU 大交易快速扩展",
+        "summary": "AI demand drives need for massive infrastructure",
+        "summary_zh": "人工智能需求推动了对大规模基础设施的需求",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-scales-fast-big-tpu-220413341.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1775599453,
         "type": "News"
     },
     {
-        "title": "Broadcom’s Google And Anthropic AI Deals Deepen Custom Chip Reliance",
-        "title_zh": "Broadcom 的 Google 和 Anthropic AI 交易加深了对定制芯片的依赖",
-        "summary": "Broadcom (NasdaqGS:AVGO) has signed multi-year AI chip and infrastructure agreements with Google and Anthropic. The deals run through 2031 and cover exclusive custom silicon design and supply for next generation AI platforms.",
-        "summary_zh": "Broadcom（纳斯达克GS：AVGO）已与谷歌和 Anthropic 签署了多年的人工智能芯片和基础设施协议。这些交易持续到 2031 年，涵盖下一代人工智能平台的独家定制芯片设计和供应。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-google-anthropic-ai-deals-030807543.html",
+        "title": "PIMCO weighs $14 billion debt deal for Oracle's Michigan data center, Bloomberg News reports",
+        "title_zh": "据彭博社报道，PIMCO 考虑以 140 亿美元的债务收购甲骨文密歇根数据中心",
+        "summary": "Pacific Investment Management Co. is in talks with the Bank of America to help provide roughly $14 ‌billion of debt financing to build an Oracle data ‌center in Michigan, Bloomberg News reported on Tuesday, citing people familiar with the matter.",
+        "summary_zh": "据彭博社周二援引知情人士的话报道，太平洋投资管理公司正在与美国银行进行谈判，以帮助提供约 140 亿美元的债务融资，以在密歇根州建设甲骨文数据中心。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-193044158.html",
+        "publisher": "Reuters",
+        "publish_time": 1775590244,
+        "type": "News"
+    },
+    {
+        "title": "Pimco Weighs $14 Billion Debt Deal for Oracle Data Center",
+        "title_zh": "Pimco 考虑以 140 亿美元债务收购 Oracle 数据中心",
+        "summary": "(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.",
+        "summary_zh": "(彭博社)——据知情人士透露，太平洋投资管理公司 (Pacific Investment Management Co.) 正在与美国银行 (Bank of America Corp.) 进行谈判，以帮助提供约 140 亿美元的债务融资，以在密歇根州建设一个大型甲骨文公司 (...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775586411,
+        "type": "News"
+    },
+    {
+        "title": "Is Oracle (ORCL) Offering Value After Recent Share Price Swings And AI Cloud Headlines",
+        "title_zh": "在最近的股价波动和人工智能云头条新闻之后，甲骨文（ORCL）是否提供价值",
+        "summary": "Wondering if Oracle at around US$145.54 is offering fair value, or if you might be paying up for the story the market is telling right now.",
+        "summary_zh": "想知道大约 145.54 美元的 Oracle 是否提供了公允价值，或者您是否可能为市场目前讲述的故事付费。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-offering-value-recent-181426345.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1775531287,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft’s Carbon Deal Tests How AI Growth Meets Environmental Demands",
-        "title_zh": "微软的碳交易测试人工智能增长如何满足环境需求",
-        "summary": "Microsoft has signed its first Canadian bioenergy carbon capture offtake agreement, partnering with Indigenous led consortiums to support carbon removal tied to digital infrastructure.",
-        "summary_zh": "微软签署了第一份加拿大生物能源碳捕获承购协议，与原住民领导的财团合作，支持与数字基础设施相关的碳清除。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-carbon-deal-tests-ai-001751150.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1775521071,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today: Dow Up As Trump Offers This Olive Branch; AI Play Eyes Entry (Live Coverage)",
-        "title_zh": "今日股市：特朗普伸出橄榄枝，道指上涨； AI玩眼录入（直播）",
-        "summary": "The Dow Jones index and Apple rose on the stock market today. President Donald Trump offered an olive branch to Iran even amid more threats.",
-        "summary_zh": "道琼斯指数和苹果公司今天股市上涨。尽管面临更多威胁，唐纳德·特朗普总统还是向伊朗伸出了橄榄枝。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1775507050,
+        "publish_time": 1775585666,
         "type": "News"
     }
 ]
