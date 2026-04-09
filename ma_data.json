@@ -1,15 +1,5 @@
 [
     {
-        "title": "Nebius Group’s AI Mega Deals And Insider Sales Raise Investor Questions",
-        "title_zh": "Nebius Group 的人工智能大型交易和内部销售引发投资者质疑",
-        "summary": "Nebius Group (NasdaqGS:NBIS) has entered into multi year, multi billion dollar infrastructure agreements with Meta and Nvidia, including a $27b partnership with Meta.",
-        "summary_zh": "Nebius Group（纳斯达克GS：NBIS）已与 Meta 和 Nvidia 签订了多年期、价值数十亿美元的基础设施协议，其中包括与 Meta 的 270 亿美元合作伙伴关系。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-ai-mega-deals-021302964.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1775700782,
-        "type": "News"
-    },
-    {
         "title": "Pimco Weighs $14 Billion Debt Deal for Oracle Data Center",
         "title_zh": "Pimco 考虑以 140 亿美元债务收购 Oracle 数据中心",
         "summary": "(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.",
@@ -17,16 +7,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
         "publisher": "Bloomberg",
         "publish_time": 1775586411,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: Blackstone Pushes Thoma Bravo to Offer More Equity or Relinquish Control of Medallia",
-        "title_zh": "市场议论：Blackstone 敦促 Thoma Bravo 提供更多股权或放弃对 Medallia 的控制",
-        "summary": "Blackstone(BX) and a group of private credit firms are pressuring Thoma Bravo, the owner of Medallia",
-        "summary_zh": "Blackstone (BX) 和一群私人信贷公司正在向 Medallia 所有者 Thoma Bravo 施压",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blackstone-pushes-thoma-162434898.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1775147074,
         "type": "News"
     },
     {
@@ -47,6 +27,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-ups-stake-mai-capital-130831278.html",
         "publisher": "Wealth Management",
         "publish_time": 1774962511,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]

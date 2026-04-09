@@ -1,10 +1,30 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures pause rally as Iran claims ceasefire broken in under 24 hours",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货暂停涨势，因伊朗声称停火在 24 小时内被打破",
+        "title": "From flying cars to self-driving cars: CEOs weigh in",
+        "title_zh": "从飞行汽车到自动驾驶汽车：首席执行官的参与",
+        "summary": "Archer Aviation Founder and CEO Adam Goldstein joins Opening Bid Unfiltered with Yahoo Finance Executive Editor Brian Sozzi to chat about the future of flying cars.",
+        "summary_zh": "Archer Aviation 创始人兼首席执行官 Adam Goldstein 与雅虎财经执行编辑 Brian Sozzi 一起参加 Opening Bid Unfiltered，讨论飞行汽车的未来。",
+        "link": "https://finance.yahoo.com/video/tesla-playbook-autonomous-gm-vehicles-100051276.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775728851,
+        "type": "News"
+    },
+    {
+        "title": "Pimco Seeks to Sell Parts of $14 Billion Oracle Data Center Debt",
+        "title_zh": "Pimco 寻求出售部分 140 亿美元的 Oracle 数据中心债务",
+        "summary": "(Bloomberg) -- Pacific Investment Management Co. is looking to sell a portion of the $14 billion of debt financing it’s providing for a massive Oracle Corp. data center in Michigan, according to people with knowledge of the matter.",
+        "summary_zh": "(彭博社)——据知情人士透露，太平洋投资管理公司 (Pacific Investment Management Co.) 正在寻求出售其为密歇根州甲骨文公司 (Oracle Corp.) 大型数据中心提供的 140 亿美元债务融资中的一部分。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-seeks-sell-parts-14-231153091.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775689913,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures pause rally after Iran says ceasefire has been broken",
+        "title_zh": "今日股市：伊朗称违反停火协议后，道琼斯指数、标准普尔 500 指数和纳斯达克期货暂停涨势",
         "summary": "Stock futures paused a historic rally as the tentative ceasefire between the US and Iran was broken.",
         "summary_zh": "由于美国和伊朗之间的临时停火协议被打破，股票期货暂停了历史性上涨。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pause-rally-as-iran-claims-ceasefire-broken-in-under-24-hours-225323926.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pause-rally-after-iran-says-ceasefire-has-been-broken-225323355.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775688803,
         "type": "News"
@@ -17,6 +37,16 @@
         "link": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1775678969,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq surge, oil plunges after US-Iran ceasefire sparks relief rally",
+        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克指数飙升，美伊停火引发缓解反弹后油价暴跌",
+        "summary": "Oil prices cratered as a US-Iran ceasefire was followed by signs the waterway has reopened to shipping.",
+        "summary_zh": "由于美伊停火之后有迹象表明该水道已重新开放航运，油价暴跌。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-surge-oil-plunges-after-us-iran-ceasefire-sparks-relief-rally-200305068.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775678585,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/news/us-iran-ceasefire-sends-investors-back-to-their-most-beloved-stocks-121458822.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775650498,
-        "type": "News"
-    },
-    {
-        "title": "Why Microsoft is a 'screaming buy.'",
-        "title_zh": "为什么微软是“尖叫收购”？",
-        "summary": "Big Tech and AI have been under pressure for months, but is it time to bet big on one familiar name?",
-        "summary_zh": "几个月来，大型科技公司和人工智能一直面临压力，但现在是时候在一个熟悉的名字上押下重注了吗？",
-        "link": "https://finance.yahoo.com/video/why-microsoft-is-a-screaming-buy-120727667.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775650047,
-        "type": "News"
-    },
-    {
-        "title": "Retail investors are buying the dip in Tesla stock",
-        "title_zh": "散户投资者正在买入特斯拉股票的下跌",
-        "summary": "The bottom fishers come out for Tesla.",
-        "summary_zh": "底层渔民为特斯拉出击。",
-        "link": "https://finance.yahoo.com/news/retail-investors-are-buying-the-dip-in-tesla-stock-113341252.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775648021,
-        "type": "News"
-    },
-    {
-        "title": "Morning Brief: Chicago Fed's Goolsbee 'nervous' about impact of oil shock on economy",
-        "title_zh": "早间简报：芝加哥联储古尔斯比对石油冲击对经济的影响感到“紧张”",
-        "summary": "The stock market, with President Trump's threat to Iran that a \"whole civilization will die tonight\" at top of mind, still managed to eke out gains as hope remained on Tuesday of a diplomatic resolution.",
-        "summary_zh": "股市在特朗普总统威胁伊朗“整个文明今晚将消亡”的情况下，仍设法勉强上涨，因为周二外交解决方案仍抱有希望。",
-        "link": "https://finance.yahoo.com/news/morning-brief-chicago-feds-goolsbee-nervous-about-impact-of-oil-shock-on-economy-100030121.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775642430,
         "type": "News"
     }
 ]
