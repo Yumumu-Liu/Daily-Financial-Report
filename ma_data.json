@@ -1,42 +1,12 @@
 [
     {
-        "title": "Does Microsoft’s Massive AI Deal And GPU Build‑Out Change The Bull Case For IREN (IREN)?",
-        "title_zh": "微软的大规模人工智能交易和 GPU 建设是否会改变 IREN (IREN) 的牛市？",
-        "summary": "Iren recently accelerated its shift from Bitcoin mining to AI cloud infrastructure, securing a five‑year US$9.70 billion Microsoft AI data center capacity deal and arranging US$9.30 billion of funding to deploy more than 150,000 Nvidia GPUs across a 4.50 GW power portfolio.",
-        "summary_zh": "Iren 最近加速了从比特币挖矿向 AI 云基础设施的转变，获得了为期五年、价值 97 亿美元的 Microsoft AI 数据中心容量协议，并安排了 93 亿美元的资金，在 4.50 GW 的电力组合中部署超过 150,000 个 Nvidia GPU。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/does-microsoft-massive-ai-deal-043211262.html",
+        "title": "Nebius Group’s AI Mega Deals And Insider Sales Raise Investor Questions",
+        "title_zh": "Nebius Group 的人工智能大型交易和内部销售引发投资者质疑",
+        "summary": "Nebius Group (NasdaqGS:NBIS) has entered into multi year, multi billion dollar infrastructure agreements with Meta and Nvidia, including a $27b partnership with Meta.",
+        "summary_zh": "Nebius Group（纳斯达克GS：NBIS）已与 Meta 和 Nvidia 签订了多年期、价值数十亿美元的基础设施协议，其中包括与 Meta 的 270 亿美元合作伙伴关系。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-ai-mega-deals-021302964.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1775622731,
-        "type": "News"
-    },
-    {
-        "title": "Alliance Entertainment Webinar: Amazon MGM Deal, Margin Gains, and New Authentication Growth Push",
-        "title_zh": "联盟娱乐网络研讨会：亚马逊米高梅交易、利润增长和新的身份验证增长推动",
-        "summary": "Alliance Entertainment (NASDAQ:AENT) used a shareholder webinar to highlight its distribution scale, recent margin gains, and growth initiatives tied to exclusive studio relationships, owned brands, and product authentication technology.",
-        "summary_zh": "Alliance Entertainment（纳斯达克股票代码：AENT）利用股东网络研讨会强调了其发行规模、近期利润增长以及与独家工作室关系、自有品牌和产品认证技术相关的增长计划。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alliance-entertainment-webinar-amazon-mgm-220817258.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1775599697,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic Scales Fast With Big TPU Deal",
-        "title_zh": "Anthropic 通过 TPU 大交易快速扩展",
-        "summary": "AI demand drives need for massive infrastructure",
-        "summary_zh": "人工智能需求推动了对大规模基础设施的需求",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-scales-fast-big-tpu-220413341.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1775599453,
-        "type": "News"
-    },
-    {
-        "title": "PIMCO weighs $14 billion debt deal for Oracle's Michigan data center, Bloomberg News reports",
-        "title_zh": "据彭博社报道，PIMCO 考虑以 140 亿美元的债务收购甲骨文密歇根数据中心",
-        "summary": "Pacific Investment Management Co. is in talks with the Bank of America to help provide roughly $14 ‌billion of debt financing to build an Oracle data ‌center in Michigan, Bloomberg News reported on Tuesday, citing people familiar with the matter.",
-        "summary_zh": "据彭博社周二援引知情人士的话报道，太平洋投资管理公司正在与美国银行进行谈判，以帮助提供约 140 亿美元的债务融资，以在密歇根州建设甲骨文数据中心。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-193044158.html",
-        "publisher": "Reuters",
-        "publish_time": 1775590244,
+        "publish_time": 1775700782,
         "type": "News"
     },
     {
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
         "publisher": "Bloomberg",
         "publish_time": 1775586411,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Blackstone Pushes Thoma Bravo to Offer More Equity or Relinquish Control of Medallia",
+        "title_zh": "市场议论：Blackstone 敦促 Thoma Bravo 提供更多股权或放弃对 Medallia 的控制",
+        "summary": "Blackstone(BX) and a group of private credit firms are pressuring Thoma Bravo, the owner of Medallia",
+        "summary_zh": "Blackstone (BX) 和一群私人信贷公司正在向 Medallia 所有者 Thoma Bravo 施压",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blackstone-pushes-thoma-162434898.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1775147074,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle enters $2.8bn deal to acquire majority of MAI Capital",
+        "title_zh": "凯雷投资 28 亿美元收购 MAI Capital 多数股权",
+        "summary": "Galway Holdings, Harvest Partners, and Oak Hill Capital will exit their ownership positions.",
+        "summary_zh": "Galway Holdings、Harvest Partners 和 Oak Hill Capital 将退出其所有权地位。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-enters-2-8bn-deal-115921708.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1775044761,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle Ups Stake in MAI Capital with Majority Acquisition",
+        "title_zh": "凯雷通过收购多数股权增持 MAI Capital 股份",
+        "summary": "Private equity firm Carlyle has agreed to acquire $72.6B MAI Capital from Galway Holdings at a valuation of $2.8 billion.",
+        "summary_zh": "私募股权公司凯雷已同意以 28 亿美元的估值从戈尔韦控股公司收购价值 72.6B 美元的 MAI Capital。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-ups-stake-mai-capital-130831278.html",
+        "publisher": "Wealth Management",
+        "publish_time": 1774962511,
         "type": "News"
     }
 ]

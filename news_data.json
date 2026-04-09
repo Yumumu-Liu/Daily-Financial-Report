@@ -1,5 +1,85 @@
 [
     {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures pause rally as Iran claims ceasefire broken in under 24 hours",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货暂停涨势，因伊朗声称停火在 24 小时内被打破",
+        "summary": "Stock futures paused a historic rally as the tentative ceasefire between the US and Iran was broken.",
+        "summary_zh": "由于美国和伊朗之间的临时停火协议被打破，股票期货暂停了历史性上涨。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-pause-rally-as-iran-claims-ceasefire-broken-in-under-24-hours-225323926.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775688803,
+        "type": "News"
+    },
+    {
+        "title": "Dow spikes by over 1,300, oil prices retreat in ceasefire rally",
+        "title_zh": "道指飙升逾1,300点 油价因停火反弹而回落",
+        "summary": "All three of the major indexes (^DJI, ^IXIC, ^GSPC) closed Wednesday's session with colossal gains — the Dow Jones Industrial Average skyrocketed by over 1,320 points (2.85%) and the Nasdaq Composite surged by nearly 620 points (2.8%) — after President Trump announced that Ira...",
+        "summary_zh": "在特朗普总统宣布伊拉克...",
+        "link": "https://finance.yahoo.com/video/dow-spikes-by-over-1300-oil-prices-retreat-in-ceasefire-rally-200929026.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775678969,
+        "type": "News"
+    },
+    {
+        "title": "BofA hikes 2026 chips forecast to $1.3 trillion, names Nvidia, Broadcom, Marvell, AMD as top drivers",
+        "title_zh": "美国银行将 2026 年芯片预测上调至 1.3 万亿美元，将 Nvidia、Broadcom、Marvell、AMD 列为主要推动者",
+        "summary": "Bank of America added $300 billion to its revenue target in just four months, doubling down on Nvidia, Broadcom, and AMD as the AI boom accelerates.",
+        "summary_zh": "随着人工智能热潮加速，美国银行在短短四个月内将其收入目标增加了 3000 亿美元，对 Nvidia、Broadcom 和 AMD 的投资加倍。",
+        "link": "https://finance.yahoo.com/news/bofa-hikes-2026-chips-forecast-to-13-trillion-names-nvidia-broadcom-marvell-amd-as-top-drivers-164800203.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775666880,
+        "type": "News"
+    },
+    {
+        "title": "Apple stock is the new retail investor darling",
+        "title_zh": "苹果股票成散户新宠",
+        "summary": "Apple catches a whiff of retail investor buying.",
+        "summary_zh": "苹果公司嗅到了散户投资者买盘的气息。",
+        "link": "https://finance.yahoo.com/news/apple-stock-is-the-new-retail-investor-darling-161946873.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775665186,
+        "type": "News"
+    },
+    {
+        "title": "The many ways consumers are being hit by the Iran war",
+        "title_zh": "伊朗战争对消费者造成的打击有多种",
+        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma explains the myriad ways consumers are being impacted by the war in Iran, even amid news of a ceasefire.",
+        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛（Brooke DiPalma）解释了伊朗战争对消费者的多种影响，即使是在停火消息传出的情况下。",
+        "link": "https://finance.yahoo.com/video/the-many-ways-consumers-are-being-hit-by-the-iran-war-141222022.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775657542,
+        "type": "News"
+    },
+    {
+        "title": "US-Iran ceasefire sends investors back to their most beloved stocks",
+        "title_zh": "美伊停火让投资者重回他们最喜爱的股票",
+        "summary": "Tech stocks are back in focus.",
+        "summary_zh": "科技股重新成为焦点。",
+        "link": "https://finance.yahoo.com/news/us-iran-ceasefire-sends-investors-back-to-their-most-beloved-stocks-121458822.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775650498,
+        "type": "News"
+    },
+    {
+        "title": "Why Microsoft is a 'screaming buy.'",
+        "title_zh": "为什么微软是“尖叫收购”？",
+        "summary": "Big Tech and AI have been under pressure for months, but is it time to bet big on one familiar name?",
+        "summary_zh": "几个月来，大型科技公司和人工智能一直面临压力，但现在是时候在一个熟悉的名字上押下重注了吗？",
+        "link": "https://finance.yahoo.com/video/why-microsoft-is-a-screaming-buy-120727667.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775650047,
+        "type": "News"
+    },
+    {
+        "title": "Retail investors are buying the dip in Tesla stock",
+        "title_zh": "散户投资者正在买入特斯拉股票的下跌",
+        "summary": "The bottom fishers come out for Tesla.",
+        "summary_zh": "底层渔民为特斯拉出击。",
+        "link": "https://finance.yahoo.com/news/retail-investors-are-buying-the-dip-in-tesla-stock-113341252.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775648021,
+        "type": "News"
+    },
+    {
         "title": "Morning Brief: Chicago Fed's Goolsbee 'nervous' about impact of oil shock on economy",
         "title_zh": "早间简报：芝加哥联储古尔斯比对石油冲击对经济的影响感到“紧张”",
         "summary": "The stock market, with President Trump's threat to Iran that a \"whole civilization will die tonight\" at top of mind, still managed to eke out gains as hope remained on Tuesday of a diplomatic resolution.",
@@ -7,86 +87,6 @@
         "link": "https://finance.yahoo.com/news/morning-brief-chicago-feds-goolsbee-nervous-about-impact-of-oil-shock-on-economy-100030121.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1775642430,
-        "type": "News"
-    },
-    {
-        "title": "Analysis-How the math works on a $1.75 trillion SpaceX valuation",
-        "title_zh": "分析——SpaceX 估值 1.75 万亿美元的数学原理",
-        "summary": "By Medha Singh, Echo Wang and Noel Randewich April 8 (Reuters) - Elon Musk’s SpaceX is seeking a $1.75 trillion valuation in its forthcoming initial public offering.",
-        "summary_zh": "作者：Medha Singh、Echo Wang 和 Noel Randewich 4 月 8 日（路透社）——埃隆·马斯克 (Elon Musk) 的 SpaceX 正在其即将进行的首次公开募股中寻求 1.75 万亿美元的估值。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-math-works-1-75-090131734.html",
-        "publisher": "Reuters",
-        "publish_time": 1775638891,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic launches new AI model to help fight cyberattacks",
-        "title_zh": "Anthropic 推出新的人工智能模型来帮助对抗网络攻击",
-        "summary": "Private AI developer Anthropic (ANTH.PVT) is partnering with an array of Big Tech names for its Project Butterfly cybersecurity initiative that will help combat AI-empowered cyberattacks.Yahoo Finance Tech Editor Dan Howley joins Markets and Data Editor Jared Blikre to break d...",
-        "summary_zh": "私人人工智能开发商 Anthropic (ANTH.PVT) 正在与一系列大型科技公司合作实施其 Project Butterfly 网络安全计划，该计划将有助于打击人工智能支持的网络攻击。雅虎财经技术编辑 Dan Howley 与市场和数据编辑 Jared Blikre ...",
-        "link": "https://finance.yahoo.com/video/anthropic-launches-new-ai-model-to-help-fight-cyberattacks-202000663.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775593200,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq close slightly higher on hopes of Iran deadline extension",
-        "title_zh": "今日股市：因伊朗期限延长的希望，标普 500 指数和纳斯达克指数小幅收高",
-        "summary": "Markets are facing volatility as a Trump deadline to launch strikes on Iran fast approaches.",
-        "summary_zh": "随着特朗普对伊朗发动打击的最后期限迅速临近，市场面临波动。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-close-slightly-higher-on-hopes-of-iran-deadline-extension-200445471.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775592285,
-        "type": "News"
-    },
-    {
-        "title": "Intel teams up with Elon Musk on his Terafab endeavor",
-        "title_zh": "英特尔与埃隆·马斯克合作开发 Terafab 项目",
-        "summary": "Intel (INTC) is teaming up with Elon Musk in his new Terafab project, a joint venture between the tech billionaire's Tesla (TSLA), SpaceX (SPAX.PVT), and xAI to begin construction of a chip design facility.Yahoo Finance Tech Editor Dan Howley breaks down the news.",
-        "summary_zh": "英特尔 (INTC) 正在与埃隆·马斯克 (Elon Musk) 合作开展新的 Terafab 项目，该项目是科技亿万富翁特斯拉 (TSLA)、SpaceX (SPAX.PVT) 和 xAI 之间的合资企业，开始建设芯片设计设施。雅虎财经技术编辑丹·豪利 (Dan Howl...",
-        "link": "https://finance.yahoo.com/video/intel-teams-up-with-elon-musk-on-his-terafab-endeavor-195200000.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775591520,
-        "type": "News"
-    },
-    {
-        "title": "Apple's global sales for iPhone 17 surged in February",
-        "title_zh": "苹果 2 月份 iPhone 17 全球销量激增",
-        "summary": "Sales of Apple's (AAPL) iPhone 17 surged over the past several months, illustrated by the 26% year-over-over increase in global iPhone sales in February.Yahoo Finance Tech Editor Dan Howley comes on Market Domination to examine these sales trends as Apple is already positionin...",
-        "summary_zh": "苹果 (AAPL) iPhone 17 的销量在过去几个月中激增，2 月份全球 iPhone 销量同比增长 26% 就说明了这一点。 雅虎财经技术编辑丹·豪利 (Dan Howley) 在《市场支配地位》节目中审视了这些销售趋势，因为苹果已经做好了准备……",
-        "link": "https://finance.yahoo.com/video/apples-global-sales-for-iphone-17-surged-in-february-193428065.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775590468,
-        "type": "News"
-    },
-    {
-        "title": "Pimco Weighs $14 Billion Debt Deal for Oracle Data Center",
-        "title_zh": "Pimco 考虑以 140 亿美元债务收购 Oracle 数据中心",
-        "summary": "(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.",
-        "summary_zh": "(彭博社)——据知情人士透露，太平洋投资管理公司 (Pacific Investment Management Co.) 正在与美国银行 (Bank of America Corp.) 进行谈判，以帮助提供约 140 亿美元的债务融资，以在密歇根州建设一个大型甲骨文公司 (...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775586411,
-        "type": "News"
-    },
-    {
-        "title": "Why the Iran war is hitting everyday investors especially hard",
-        "title_zh": "为什么伊朗战争对普通投资者的打击尤其严重",
-        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma joins the show to explain how the war in Iran is especially impacting investors who have put more of their wealth into the stock market in recent years.",
-        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 加入节目，解释伊朗战争如何特别影响近年来将更多财富投入股市的投资者。",
-        "link": "https://finance.yahoo.com/video/why-the-iran-war-is-hitting-everyday-investors-especially-hard-154043676.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775576443,
-        "type": "News"
-    },
-    {
-        "title": "The dividend yield on the S&P 500 is now at 50-year lows. Here's the biggest problem.",
-        "title_zh": "标准普尔 500 指数的股息收益率目前处于 50 年来的低点。这是最大的问题。",
-        "summary": "Where'd all the dividends go?",
-        "summary_zh": "所有的股息都去哪儿了？",
-        "link": "https://finance.yahoo.com/news/the-dividend-yield-on-the-sp-500-is-now-at-50-year-lows-heres-the-biggest-problem-153809624.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775576289,
         "type": "News"
     }
 ]
