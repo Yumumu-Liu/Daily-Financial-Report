@@ -1,5 +1,45 @@
 [
     {
+        "title": "Meta expands CoreWeave deal with another $21B commitment",
+        "title_zh": "Meta 扩大 CoreWeave 交易并承诺再支付 21B 美元",
+        "summary": "Meta is not waiting for its own data centers to catch up with its AI ambitions. It is renting the capacity it needs right now.",
+        "summary_zh": "Meta 并不等待自己的数据中心赶上其人工智能雄心。它正在租用目前所需的容量。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-expands-coreweave-deal-another-000700597.html",
+        "publisher": "TheStreet",
+        "publish_time": 1775779620,
+        "type": "News"
+    },
+    {
+        "title": "Stock Market Today, April 9: CoreWeave Rises After Announcing $21 Billion AI Cloud Deal With Meta",
+        "title_zh": "4 月 9 日今日股市：CoreWeave 宣布与 Meta 达成 210 亿美元人工智能云交易后股价上涨",
+        "summary": "Today, April 9, 2026, investors weigh a massive Meta cloud pact against fresh debt plans.",
+        "summary_zh": "今天，即 2026 年 4 月 9 日，投资者将权衡大规模的 Meta 云协议与新的债务计划。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-9-213141551.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1775770301,
+        "type": "News"
+    },
+    {
+        "title": "SBA Communications Stock Soars on Buyout Interest. What It Means for Tower Stocks.",
+        "title_zh": "SBA Communications 股价因收购兴趣而飙升。这对塔楼股票意味着什么。",
+        "summary": "SBA Communications stock has surged on takeover interest, but analysts warn a potential deal could cap valuations across the tower industry.",
+        "summary_zh": "SBA Communications 股价因收购兴趣而飙升，但分析师警告称，潜在的交易可能会限制整个铁塔行业的估值。",
+        "link": "https://www.barrons.com/articles/sba-communications-stock-buyout-tower-industry-4ea107b6?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1775766300,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: CoreWeave Signs $21 Billion AI Deal With Meta; Intel, Google Expand Partnership",
+        "title_zh": "午间热门故事：CoreWeave 与 Meta 签署 210 亿美元的人工智能协议；英特尔、谷歌扩大合作伙伴关系",
+        "summary": "The Dow Jones Industrial Average and S&P 500 were down in late-morning trading Thursday, while the N",
+        "summary_zh": "道琼斯工业平均指数和标准普尔 500 指数在周四早盘交易中下跌，而 N",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/top-midday-stories-coreweave-signs-153026897.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1775748626,
+        "type": "News"
+    },
+    {
         "title": "Pimco Weighs $14 Billion Debt Deal for Oracle Data Center",
         "title_zh": "Pimco 考虑以 140 亿美元债务收购 Oracle 数据中心",
         "summary": "(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.",
@@ -7,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
         "publisher": "Bloomberg",
         "publish_time": 1775586411,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle enters $2.8bn deal to acquire majority of MAI Capital",
-        "title_zh": "凯雷投资 28 亿美元收购 MAI Capital 多数股权",
-        "summary": "Galway Holdings, Harvest Partners, and Oak Hill Capital will exit their ownership positions.",
-        "summary_zh": "Galway Holdings、Harvest Partners 和 Oak Hill Capital 将退出其所有权地位。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-enters-2-8bn-deal-115921708.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1775044761,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle Ups Stake in MAI Capital with Majority Acquisition",
-        "title_zh": "凯雷通过收购多数股权增持 MAI Capital 股份",
-        "summary": "Private equity firm Carlyle has agreed to acquire $72.6B MAI Capital from Galway Holdings at a valuation of $2.8 billion.",
-        "summary_zh": "私募股权公司凯雷已同意以 28 亿美元的估值从戈尔韦控股公司收购价值 72.6B 美元的 MAI Capital。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-ups-stake-mai-capital-130831278.html",
-        "publisher": "Wealth Management",
-        "publish_time": 1774962511,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]
