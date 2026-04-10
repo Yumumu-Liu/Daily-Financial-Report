@@ -1,12 +1,22 @@
 [
     {
-        "title": "Meta expands CoreWeave deal with another $21B commitment",
-        "title_zh": "Meta 扩大 CoreWeave 交易并承诺再支付 21B 美元",
-        "summary": "Meta is not waiting for its own data centers to catch up with its AI ambitions. It is renting the capacity it needs right now.",
-        "summary_zh": "Meta 并不等待自己的数据中心赶上其人工智能雄心。它正在租用目前所需的容量。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-expands-coreweave-deal-another-000700597.html",
-        "publisher": "TheStreet",
-        "publish_time": 1775779620,
+        "title": "Why Hut 8 (HUT) Is Up 31.8% After Google AI Deal And $10 Billion Data Center Plan",
+        "title_zh": "谷歌 AI 交易和 100 亿美元数据中心计划后，Hut 8 (HUT) 为何上涨 31.8%",
+        "summary": "In early April 2026, Hut 8’s pivot toward large-scale AI and compute infrastructure gained momentum as it advanced the US$10.00 billion, 245 MW River Bend data center and secured a 15-year leasing deal with Google that could reach up to US$17.70 billion in revenue if all renew...",
+        "summary_zh": "2026 年 4 月上旬，Hut 8 向大规模人工智能和计算基础设施的转型势头强劲，推进了耗资 100 亿美元、245 兆瓦的 River Bend 数据中心，并与谷歌达成了为期 15 年的租赁协议，如果全部续签，收入可能高达 177 亿美元……",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-hut-8-hut-31-091938675.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1775812778,
+        "type": "News"
+    },
+    {
+        "title": "Jim Cramer Shows Positive Sentiment Toward Broadcom’s Google and Anthropic Deals",
+        "title_zh": "Jim Cramer 对 Broadcom 的 Google 和 Anthropic 交易表现出积极的态度",
+        "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of Jim Cramer’s stock calls as he discussed the impact of the Iran war on the markets. Cramer highlighted the company’s recent deals, as he said: When Marvell Tech won some big business recently, it came at the expense of Broadcom.",
+        "summary_zh": "博通公司（纳斯达克股票代码：AVGO）是吉姆·克莱默（Jim Cramer）在讨论伊朗战争对市场的影响时所关注的股票之一。 Cramer 强调了该公司最近的交易，他表示：当 Marvell Tech 最近赢得了一些大业务时，它是以牺牲 Broadcom 为代价的。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-positive-sentiment-060308826.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1775800988,
         "type": "News"
     },
     {
@@ -30,23 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Top Midday Stories: CoreWeave Signs $21 Billion AI Deal With Meta; Intel, Google Expand Partnership",
-        "title_zh": "午间热门故事：CoreWeave 与 Meta 签署 210 亿美元的人工智能协议；英特尔、谷歌扩大合作伙伴关系",
-        "summary": "The Dow Jones Industrial Average and S&P 500 were down in late-morning trading Thursday, while the N",
-        "summary_zh": "道琼斯工业平均指数和标准普尔 500 指数在周四早盘交易中下跌，而 N",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/top-midday-stories-coreweave-signs-153026897.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1775748626,
-        "type": "News"
-    },
-    {
-        "title": "Pimco Weighs $14 Billion Debt Deal for Oracle Data Center",
-        "title_zh": "Pimco 考虑以 140 亿美元债务收购 Oracle 数据中心",
-        "summary": "(Bloomberg) -- Pacific Investment Management Co. is in talks with Bank of America Corp. to help provide roughly $14 billion of debt financing to build a massive Oracle Corp. data center in Michigan, according to people familiar with the matter.",
-        "summary_zh": "(彭博社)——据知情人士透露，太平洋投资管理公司 (Pacific Investment Management Co.) 正在与美国银行 (Bank of America Corp.) 进行谈判，以帮助提供约 140 亿美元的债务融资，以在密歇根州建设一个大型甲骨文公司 (...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pimco-weighs-14-billion-debt-182651334.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775586411,
+        "title": "Meta expands CoreWeave partnership with new $21B AI cloud deal",
+        "title_zh": "Meta 通过新的 21B 美元人工智能云交易扩大了 CoreWeave 合作伙伴关系",
+        "summary": "Meta Platforms (META) is doubling down on its partnership with CoreWeave (CRWV) through a new $21 billion deal to better leverage CoreWeave's AI cloud platform for scale. Meta also released its new Muse Spark AI model earlier this week.",
+        "summary_zh": "Meta Platforms (META) 通过一项价值 210 亿美元的新交易，加倍加强与 CoreWeave (CRWV) 的合作关系，以更好地利用 CoreWeave 的 AI 云平台实现规模化。 Meta 本周早些时候还发布了新的 Muse Spark AI 模型。",
+        "link": "https://finance.yahoo.com/video/meta-expands-coreweave-partnership-with-new-21b-ai-cloud-deal-194036393.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775763636,
         "type": "News"
     }
 ]

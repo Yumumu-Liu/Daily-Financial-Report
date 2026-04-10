@@ -1,5 +1,65 @@
 [
     {
+        "title": "Morning Brief: A big day for inflation",
+        "title_zh": "早间简报：通胀的重要一天",
+        "summary": "The Fed's preferred inflation gauge showed pricing pressures remained elevated for the month of February, even before the US and Israel began their military campaign against Iran and triggered an oil shock.",
+        "summary_zh": "美联储首选的通胀指标显示，即使在美国和以色列开始针对伊朗的军事行动并引发石油冲击之前，二月份的价格压力仍然很高。",
+        "link": "https://finance.yahoo.com/news/morning-brief-a-big-day-for-inflation-100052155.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775815252,
+        "type": "News"
+    },
+    {
+        "title": "Chips are still where the AI trade's rubber meets the road",
+        "title_zh": "芯片仍然是人工智能行业的关键",
+        "summary": "Semiconductors get a massive upgrade, but contemplating the risks to chipmakers suggests how the AI hype train might stall or even disintegrate.",
+        "summary_zh": "半导体得到了大规模升级，但考虑到芯片制造商面临的风险，人工智能炒作列车可能会停滞甚至瓦解。",
+        "link": "https://finance.yahoo.com/news/chips-are-still-where-the-ai-trades-rubber-meets-the-road-100022558.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775815222,
+        "type": "News"
+    },
+    {
+        "title": "Arm in Pole Position for AI: Liontrust's Pleydell-Bouverie",
+        "title_zh": "人工智能领域的领先者：Liontrust 的 Pleydell-Bouverie",
+        "summary": "Arm's move to sell its own chips has been largely cheered by investors. One of those investors supportive of the plan is Clare Pleydell-Bouverie, Fund Manager at Liontrust. Liontrust's top tech investments include Nvidia, Broadcom and TSMC.",
+        "summary_zh": "Arm出售自有芯片的举动在很大程度上受到了投资者的欢呼。 Liontrust 基金经理 Clare Pleydell-Bouverie 是支持该计划的投资者之一。 Liontrust 的顶级科技投资包括 Nvidia、Broadcom 和 TSMC。",
+        "link": "https://finance.yahoo.com/video/arm-pole-position-ai-liontrusts-090839351.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775812119,
+        "type": "News"
+    },
+    {
+        "title": "Apple leads global smartphone shipments in first quarter, Counterpoint says",
+        "title_zh": "Counterpoint 称苹果第一季度智能手机出货量领先",
+        "summary": "iPhone-maker Apple ‌led ‌smartphone shipments in ​the first quarter, growing 5% ‌year-on-year, ⁠even as overall ⁠global shipments ​remained ​under pressure ​due ‌to a shortage of memory components and ‌weak ​consumer ​sentiment, ​Counterpoint ‌Research said on ​Friday.",
+        "summary_zh": "Counterpoint Research 周五表示，尽管由于内存组件短缺和消费者信心疲弱，全球整体出货量仍然面临压力，但 iPhone 制造商苹果第一季度智能手机出货量仍处于领先地位，同比增长 5%。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-leads-global-smartphone-shipments-090358471.html",
+        "publisher": "Reuters",
+        "publish_time": 1775811838,
+        "type": "News"
+    },
+    {
+        "title": "TSMC revenue surges 35% on AI chip demand",
+        "title_zh": "AI芯片需求带动台积电营收大增35%",
+        "summary": "STORY: :: TSMCThe world's largest contract chipmaker, TSMC, saw first-quarter revenue surge 35% thanks to the AI boom.&nbsp;Revenue from January-March hit $35.7 billion, beating market forecasts on surging interest in artificial intelligence applications.Friday's results are i...",
+        "summary_zh": "故事：::台积电全球最大的代工芯片制造商台积电，得益于人工智能的蓬勃发展，第一季度收入飙升 35%。1 月至 3 月的收入达到 357 亿美元，超出了市场对人工智能应用兴趣高涨的预期。周五的结果是...",
+        "link": "https://finance.yahoo.com/video/tsmc-revenue-surges-35-ai-085104195.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1775811064,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks edge higher as investors eye US-Iran peace talks",
+        "title_zh": "富时 100 实时指数：投资者关注美伊和谈，股市小幅走高",
+        "summary": "FTSE 100 was steady on Friday morning amid uncertainty over the US-Iran ceasefire deal, ahead of upcoming peace talks",
+        "summary_zh": "在即将举行的和平谈判之前，由于美伊停火协议存在不确定性，富时 100 指数周五上午保持稳定",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-us-iran-peace-talks-084132038.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1775810492,
+        "type": "News"
+    },
+    {
         "title": "Apple to shutter its first unionized US store in Maryland",
         "title_zh": "苹果将​​关闭位于马里兰州的第一家美国工会商店",
         "summary": "April 9 (Reuters) - Apple said on Thursday that it will shut down its retail store in Towson, Maryland, the first of its U.S. locations where retail employees successfully unionized in 2022.",
@@ -20,36 +80,6 @@
         "type": "News"
     },
     {
-        "title": "Apple Will Close Its First Unionized Retail Location in the US",
-        "title_zh": "苹果将​​关闭其在美国的第一家工会零售店",
-        "summary": "(Bloomberg) -- Apple Inc.",
-        "summary_zh": "（彭博社）——苹果公司",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-close-first-unionized-retail-231959809.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1775776799,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures inch down as Strait of Hormuz remains closed ahead of peace talks",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货小幅下跌，因霍尔木兹海峡在和谈前仍处于关闭状态",
-        "summary": "Investors remain driven by developments in Iran following the re-closure of the Strait of Hormuz.",
-        "summary_zh": "霍尔木兹海峡重新关闭后，伊朗事态发展仍然是投资者的驱动力。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-down-as-strait-of-hormuz-remains-closed-ahead-of-peace-talks-230420974.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775775860,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends higher as Middle East peace talks lift sentiment",
-        "title_zh": "中东和平谈判提振市场情绪，华尔街收高",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-middle-221849722.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1775773129,
-        "type": "News"
-    },
-    {
         "title": "Is Anthropic's Claude Mythos an AI nightmare waiting to happen?",
         "title_zh": "Anthropic 的克劳德神话是一场即将发生的人工智能噩梦吗？",
         "summary": "Anthropic (ANTH.PVT) is claiming that its new Claude Mythos AI model may be too powerful and is limiting its release after it reportedly “found thousands of high-severity vulnerabilities, including some in every major operating system and web browser,\" and could be used to hac...",
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/is-anthropics-claude-mythos-an-ai-nightmare-waiting-to-happen-203000700.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1775766600,
-        "type": "News"
-    },
-    {
-        "title": "Amazon CEO's AI chip vision could end up challenging Nvidia",
-        "title_zh": "亚马逊首席执行官的人工智能芯片愿景最终可能会挑战英伟达",
-        "summary": "In his annual letter to shareholders, Amazon (AMZN) CEO Andy Jassy highlighted the tech giant's latest push into AI chip manufacturing and forecasts on its AWS business (Amazon Web Services).",
-        "summary_zh": "亚马逊（AMZN）首席执行官安迪·贾西（Andy Jassy）在致股东的年度信中强调了这家科技巨头在人工智能芯片制造方面的最新进展以及对其 AWS 业务（亚马逊网络服务）的预测。",
-        "link": "https://finance.yahoo.com/video/amazon-ceos-ai-chip-vision-could-end-up-challenging-nvidia-200500488.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775765100,
-        "type": "News"
-    },
-    {
-        "title": "Investors turn bearish on the Mag 7 ahead of tech earnings season",
-        "title_zh": "在科技财报季到来之前，投资者对 Mag 7 持悲观态度",
-        "summary": "Investors are turning even more bearish on the Magnificent Seven ahead of this coming earnings season, which comes after these companies lean even heavier into their AI investments with massive increases to capex.",
-        "summary_zh": "在即将到来的财报季到来之前，投资者对七巨头的看法变得更加悲观，因为这些公司更加倾向于人工智能投资，资本支出大幅增加。",
-        "link": "https://finance.yahoo.com/video/investors-turn-bearish-on-the-mag-7-ahead-of-tech-earnings-season-163000786.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775752200,
-        "type": "News"
-    },
-    {
-        "title": "Does Amazon really have more growth avenues than McDonald's?",
-        "title_zh": "亚马逊真的比麦当劳有更多的增长途径吗？",
-        "summary": "Yahoo Finance's \"Market Madness\" bracket tournament has come down to its Final Four companies, determined by expert analyst commentary in each round: Alphabet (GOOG, GOOGL), Walmart (WMT), Amazon (AMZN), and McDonald's (MCD).",
-        "summary_zh": "雅虎财经的“市场疯狂”分组赛已决出最后四家公司，每轮由专家分析师评论决定：Alphabet (GOOG, GOOGL)、沃尔玛 (WMT)、亚马逊 (AMZN) 和麦当劳 (MCD)。",
-        "link": "https://finance.yahoo.com/video/does-amazon-really-have-more-growth-avenues-than-mcdonalds-160000593.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775750400,
         "type": "News"
     }
 ]
