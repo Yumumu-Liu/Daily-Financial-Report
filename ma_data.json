@@ -1,32 +1,42 @@
 [
     {
-        "title": "Why Hut 8 (HUT) Is Up 31.8% After Google AI Deal And $10 Billion Data Center Plan",
-        "title_zh": "谷歌 AI 交易和 100 亿美元数据中心计划后，Hut 8 (HUT) 为何上涨 31.8%",
-        "summary": "In early April 2026, Hut 8’s pivot toward large-scale AI and compute infrastructure gained momentum as it advanced the US$10.00 billion, 245 MW River Bend data center and secured a 15-year leasing deal with Google that could reach up to US$17.70 billion in revenue if all renew...",
-        "summary_zh": "2026 年 4 月上旬，Hut 8 向大规模人工智能和计算基础设施的转型势头强劲，推进了耗资 100 亿美元、245 兆瓦的 River Bend 数据中心，并与谷歌达成了为期 15 年的租赁协议，如果全部续签，收入可能高达 177 亿美元……",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-hut-8-hut-31-091938675.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1775812778,
-        "type": "News"
-    },
-    {
-        "title": "Jim Cramer Shows Positive Sentiment Toward Broadcom’s Google and Anthropic Deals",
-        "title_zh": "Jim Cramer 对 Broadcom 的 Google 和 Anthropic 交易表现出积极的态度",
-        "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of Jim Cramer’s stock calls as he discussed the impact of the Iran war on the markets. Cramer highlighted the company’s recent deals, as he said: When Marvell Tech won some big business recently, it came at the expense of Broadcom.",
-        "summary_zh": "博通公司（纳斯达克股票代码：AVGO）是吉姆·克莱默（Jim Cramer）在讨论伊朗战争对市场的影响时所关注的股票之一。 Cramer 强调了该公司最近的交易，他表示：当 Marvell Tech 最近赢得了一些大业务时，它是以牺牲 Broadcom 为代价的。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-positive-sentiment-060308826.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1775800988,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today, April 9: CoreWeave Rises After Announcing $21 Billion AI Cloud Deal With Meta",
-        "title_zh": "4 月 9 日今日股市：CoreWeave 宣布与 Meta 达成 210 亿美元人工智能云交易后股价上涨",
-        "summary": "Today, April 9, 2026, investors weigh a massive Meta cloud pact against fresh debt plans.",
-        "summary_zh": "今天，即 2026 年 4 月 9 日，投资者将权衡大规模的 Meta 云协议与新的债务计划。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-9-213141551.html",
+        "title": "Stock Market Today, April 10: CoreWeave Jumps After Multi-Year AI Cloud Deal With Anthropic",
+        "title_zh": "4 月 10 日今日股市：CoreWeave 在与 Anthropic 达成多年人工智能云交易后股价上涨",
+        "summary": "CoreWeave's new big AI contracts with Anthropic and Meta are reshaping its growth runway and risk profile, today, April 10, 2026.",
+        "summary_zh": "今天，即 2026 年 4 月 10 日，CoreWeave 与 Anthropic 和 Meta 签订的新大型人工智能合同正在重塑其增长跑道和风险状况。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-10-210953451.html",
         "publisher": "Motley Fool",
-        "publish_time": 1775770301,
+        "publish_time": 1775855393,
+        "type": "News"
+    },
+    {
+        "title": "CoreWeave stock surges on multiyear AI deal with Anthropic",
+        "title_zh": "CoreWeave 股价因与 Anthropic 达成多年人工智能协议而飙升",
+        "summary": "CoreWeave (CRWV) and Anthropic (ANTH.PVT) have partnered on a multiyear cloud deal. Yahoo Finance Technology Editor Dan Howley goes over the details.",
+        "summary_zh": "CoreWeave (CRWV) 和 Anthropic (ANTH.PVT) 已就一项多年云协议展开合作。雅虎财经技术编辑丹·豪利 (Dan Howley) 详细介绍了这些细节。",
+        "link": "https://finance.yahoo.com/video/coreweave-stock-surges-on-multiyear-ai-deal-with-anthropic-201325824.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1775852005,
+        "type": "News"
+    },
+    {
+        "title": "Cloudflare Sell-Off Offers Buying Opportunity as Project Glasswing Concerns 'Overblown,' Oppenheimer Says",
+        "title_zh": "奥本海默表示，由于 Glasswing 项目担心“言过其实”，Cloudflare 的抛售提供了买入机会",
+        "summary": "Cloudflare's (NET) stock sell-off offers a buying opportunity, while concerns around Project Glasswi",
+        "summary_zh": "Cloudflare (NET) 的股票抛售提供了买入机会，同时对 Project Glasswi 的担忧",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-sell-off-offers-buying-195900143.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1775851140,
+        "type": "News"
+    },
+    {
+        "title": "CoreWeave stock climbs 10% on Anthropic deal",
+        "title_zh": "Anthropic 交易推动 CoreWeave 股价上涨 10%",
+        "summary": "Anthropic and CoreWeave have entered into a new agreement that will see CoreWeave's AI infrastructure power Anthropic's various models.",
+        "summary_zh": "Anthropic 和 CoreWeave 已达成一项新协议，CoreWeave 的人工智能基础设施将为 Anthropic 的各种模型提供支持。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/coreweave-stock-climbs-10-on-anthropic-deal-141357017.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1775830437,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://www.barrons.com/articles/sba-communications-stock-buyout-tower-industry-4ea107b6?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1775766300,
-        "type": "News"
-    },
-    {
-        "title": "Meta expands CoreWeave partnership with new $21B AI cloud deal",
-        "title_zh": "Meta 通过新的 21B 美元人工智能云交易扩大了 CoreWeave 合作伙伴关系",
-        "summary": "Meta Platforms (META) is doubling down on its partnership with CoreWeave (CRWV) through a new $21 billion deal to better leverage CoreWeave's AI cloud platform for scale. Meta also released its new Muse Spark AI model earlier this week.",
-        "summary_zh": "Meta Platforms (META) 通过一项价值 210 亿美元的新交易，加倍加强与 CoreWeave (CRWV) 的合作关系，以更好地利用 CoreWeave 的 AI 云平台实现规模化。 Meta 本周早些时候还发布了新的 Muse Spark AI 模型。",
-        "link": "https://finance.yahoo.com/video/meta-expands-coreweave-partnership-with-new-21b-ai-cloud-deal-194036393.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1775763636,
         "type": "News"
     }
 ]
