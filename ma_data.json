@@ -6,17 +6,7 @@
         "summary_zh": "在美国与伊朗漫长的谈判没有达成协议的情况下结束后，期货前景黯淡。副总统万斯表示，德黑兰“选择不接受我们的条件”。",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-us-iran-talks-no-deal-vp-jd-vance/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1775963375,
-        "type": "News"
-    },
-    {
-        "title": "Nebius Talks AI21 Deal As Full Stack AI Ambitions Meet Valuation",
-        "title_zh": "Nebius 谈 AI21 交易，全栈人工智能雄心满足估值",
-        "summary": "Nebius Group (NasdaqGS:NBIS) is reportedly in advanced talks to acquire Israeli AI startup AI21 Labs. The potential deal follows AI21 Labs' unsuccessful merger discussions with Nvidia. The move would extend Nebius beyond AI infrastructure into full stack AI and software.",
-        "summary_zh": "据报道，Nebius Group（纳斯达克GS：NBIS）正在就收购以色列人工智能初创公司 AI21 Labs 进行深入谈判。此次潜在交易是在 AI21 Labs 与 Nvidia 进行合并讨论但未成功之后达成的。此举将使 Nebius 从人工智能基础设施扩展到全栈人工智能...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-talks-ai21-deal-full-021104174.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1775959864,
+        "publish_time": 1775969752,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://www.barrons.com/articles/spacex-ipo-tesla-merger-elon-musk-7e352054?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1775925420,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft Staff Tell Carbon Removal Projects That Deals Paused",
+        "title_zh": "微软员工告诉碳清除项目交易已暂停",
+        "summary": "(Bloomberg) -- Staff at Microsoft Corp.",
+        "summary_zh": "（彭博社）——微软公司员工",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/microsoft-staff-tell-carbon-removal-093654640.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1775900214,
         "type": "News"
     }
 ]
