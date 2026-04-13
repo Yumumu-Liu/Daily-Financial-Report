@@ -1,5 +1,35 @@
 [
     {
+        "title": "Catalyst Alert: Anthropic Deal Makes Alphabet Stock a Must-Buy",
+        "title_zh": "Catalyst Alert：人为交易使 Alphabet 股票成为必买股票",
+        "summary": "Alphabet just added another big revenue stream.",
+        "summary_zh": "Alphabet 刚刚增加了另一个巨大的收入来源。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/catalyst-alert-anthropic-deal-makes-094000072.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1776073200,
+        "type": "News"
+    },
+    {
+        "title": "Is the SpaceX IPO Destined to Flop? This Historical Indicator Has a (Thus Far) 100% Success Rate and Offers a Clear Answer.",
+        "title_zh": "SpaceX IPO 注定会失败吗？该历史指标（迄今为止）的成功率是 100%，并提供了明确的答案。",
+        "summary": "One time-tested valuation tool has a knack for forecasting directional moves in public companies on the leading edge of game-changing technologies.",
+        "summary_zh": "一种经过时间考验的估值工具能够预测处于改变游戏规则的技术前沿的上市公司的方向性变动。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-destined-flop-historical-092600289.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1776072360,
+        "type": "News"
+    },
+    {
+        "title": "Is Wolverine World Wide (WWW) Turning Predictive AI Into a Durable Edge in Digital Customer Acquisition?",
+        "title_zh": "Wolverine World Wide (WWW) 是否正在将预测人工智能转变为数字客户获取的持久优势？",
+        "summary": "Earlier this month, Wolverine World Wide announced that its Merrell and Saucony brands are partnering with Yobi and Microsoft to deploy predictive behavioral AI on Microsoft Azure, aimed at improving marketing effectiveness and accelerating new customer acquisition.",
+        "summary_zh": "本月早些时候，Wolverine World Wide 宣布旗下 Merrell 和 Saucony 品牌正在与 Yobi 和 Microsoft 合作，在 Microsoft Azure 上部署预测行为人工智能，旨在提高营销效率并加速新客户获取。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wolverine-world-wide-turning-predictive-080537582.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776067537,
+        "type": "News"
+    },
+    {
         "title": "Should You Buy the Vanguard Information Technology ETF During the Nasdaq Correction? History Offers a Clear Answer",
         "title_zh": "您应该在纳斯达克调整期间购买先锋信息技术 ETF 吗？历史给出了明确的答案",
         "summary": "The recent broad market sell-off is giving investors a chance to buy high-growth technology stocks at a discount.",
@@ -10,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "As a Direct Challenge to Starlink, Amazon and Delta Are Teaming Up to Offer In-Flight Wi-Fi. Which Stock Will Benefit the Most?",
-        "title_zh": "作为对 Starlink 的直接挑战，亚马逊和达美航空正在联手提供机上 Wi-Fi。哪只股票将受益最多？",
-        "summary": "Amazon's Delta deal could unlock a powerful new revenue stream, though execution will remain the key deciding factor.",
-        "summary_zh": "亚马逊与达美航空的交易可以释放强大的新收入来源，但执行仍将是关键的决定因素。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/direct-challenge-starlink-amazon-delta-142800774.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1776004080,
-        "type": "News"
-    },
-    {
         "title": "KKR Balances Credit Fund Redemptions With PolyPeptide Deal Ambitions",
         "title_zh": "KKR 平衡信贷基金赎回与多肽交易雄心",
         "summary": "KKR is facing a wave of investor redemption requests in its private credit funds, prompting withdrawal limits similar to those seen at other large asset managers.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-balances-credit-fund-redemptions-181011215.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1775931011,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX Is Going Public. Why a Tesla Merger Could Be Musk’s Real Endgame.",
-        "title_zh": "SpaceX 即将上市。为什么特斯拉的合并可能是马斯克真正的结局。",
-        "summary": "SpaceX’s initial public offering may be the largest IPO ever, but it might just be a prelude to the largest merger ever—a combination of  Tesla  with Elon Musk’s space venture. On April 1, SpaceX reportedly filed confidentially for an IPO.",
-        "summary_zh": "SpaceX 的首次公开募股可能是有史以来最大规模的 IPO，但这可能只是有史以来最大的合并（特斯拉与埃隆·马斯克的太空企业合并）的前奏。据报道，4 月 1 日，SpaceX 秘密提交了 IPO 申请。",
-        "link": "https://www.barrons.com/articles/spacex-ipo-tesla-merger-elon-musk-7e352054?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1775925420,
-        "type": "News"
-    },
-    {
-        "title": "Cloudflare Sell-Off Offers Buying Opportunity as Project Glasswing Concerns 'Overblown,' Oppenheimer Says",
-        "title_zh": "奥本海默表示，由于 Glasswing 项目担心“言过其实”，Cloudflare 的抛售提供了买入机会",
-        "summary": "Cloudflare's (NET) stock sell-off offers a buying opportunity, while concerns around Project Glasswi",
-        "summary_zh": "Cloudflare (NET) 的股票抛售提供了买入机会，同时对 Project Glasswi 的担忧",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-sell-off-offers-buying-195900143.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1775851140,
         "type": "News"
     }
 ]

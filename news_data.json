@@ -1,5 +1,35 @@
 [
     {
+        "title": "Your next investment: million-dollar Pokémon cards & rare whisky?",
+        "title_zh": "您的下一笔投资：价值百万美元的神奇宝贝卡和稀有威士忌？",
+        "summary": "Solari Capital Founder and Managing Partner AJ Scaramucci sits with Yahoo Finance Executive Editor Brian Sozzi to explore how collectibles, from Pokémon cards to dinosaur fossils, are emerging as a powerful new asset class at the intersection of passion and long-term investing.",
+        "summary_zh": "Solari Capital 创始人兼管理合伙人 AJ Scaramucci 与雅虎财经执行编辑 Brian Sozzi 共同探讨了从神奇宝贝卡牌到恐龙化石等收藏品如何在激情与长期投资的交叉点上成为一种强大的新资产类别。",
+        "link": "https://finance.yahoo.com/video/next-investment-million-dollar-pok-100014230.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1776074414,
+        "type": "News"
+    },
+    {
+        "title": "China’s Victory Giant Seeks Up to $2.2 Billion in Hong Kong Listing",
+        "title_zh": "中国胜利巨人寻求在香港上市筹集至多22亿美元",
+        "summary": "(Bloomberg) -- Victory Giant Technology Huizhou Co. began taking investor orders for a listing in Hong Kong that may raise as much as HK$17.5 billion ($2.2 billion) in what is set to be among the city’s largest first-time share sales this year.",
+        "summary_zh": "（彭博社）——胜利巨人科技惠州有限公司开始接受投资者在香港上市的订单，可能筹集高达 175 亿港元（22 亿美元）的资金，这将成为该市今年最大的首次股票发行之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/china-victory-giant-seeks-2-022002526.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776072173,
+        "type": "News"
+    },
+    {
+        "title": "FTSE 100 LIVE: Stocks fall after US-Iran peace talks collapse",
+        "title_zh": "富时 100 实时指数：美伊和谈破裂后股市下跌",
+        "summary": "The FTSE 100 started off the week firmly in the red, after US-Iran peace talks collapsed and president Donald Trump threatened to blockade the Strait of Hormuz",
+        "summary_zh": "在美伊和谈破裂以及唐纳德·特朗普总统威胁封锁霍尔木兹海峡后，富时 100 指数本周开盘就出现明显亏损",
+        "link": "https://finance.yahoo.com/news/live/ftse-100-live-stocks-us-iran-peace-talks-collapse-082456870.html",
+        "publisher": "Yahoo Finance UK",
+        "publish_time": 1776068696,
+        "type": "News"
+    },
+    {
         "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
         "title_zh": "由于无法满足的人工智能需求，台积电可能连续第四个季度实现创纪录的利润",
         "summary": "TSMC, the world's largest manufacturer of advanced artificial intelligence chips, will likely notch up a fourth consecutive quarter ‌of record earnings with a 50% surge in net profit for January-March thanks to ‌booming demand for AI infrastructure.",
@@ -10,21 +40,11 @@
         "type": "News"
     },
     {
-        "title": "China’s Victory Giant Seeks Up to $2.2 Billion in Hong Kong Listing",
-        "title_zh": "中国胜利巨人寻求在香港上市筹集至多22亿美元",
-        "summary": "(Bloomberg) -- Victory Giant Technology Huizhou Co. began taking investor orders for a listing in Hong Kong that may raise as much as HK$17.5 billion ($2.2 billion) in what is set to be among the city’s largest first-time share sales this year.",
-        "summary_zh": "（彭博社）——胜利巨人科技惠州有限公司开始接受投资者在香港上市的订单，可能筹集高达 175 亿港元（22 亿美元）的资金，这将成为该市今年最大的首次股票发行之一。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/china-victory-giant-seeks-2-022002526.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776046802,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as the US and Iran fail to agree to peace, US blockades Hormuz",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，因美国和伊朗未能达成和平协议、美国封锁霍尔木兹海峡",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after Iran war talks fail, Trump orders Hormuz blockade",
+        "title_zh": "今日股市：伊朗战争谈判失败、特朗普下令封锁霍尔木兹，道指、标准普尔 500 指数、纳斯达克期货下跌",
         "summary": "Futures on the major US gauges dropped ahead of the week's open as negotiations for peace in Iran fell apart.",
         "summary_zh": "由于伊朗和平谈判破裂，美国主要股指期货在本周开盘前下跌。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-the-us-and-iran-fail-to-agree-to-peace-us-blockades-hormuz-225150283.html",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-after-iran-war-talks-fail-trump-orders-hormuz-blockade-225150847.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1776034310,
         "type": "News"
@@ -57,16 +77,6 @@
         "link": "https://finance.yahoo.com/video/egym-to-merge-with-playlist-ceo-talks-new-75-billion-evaluation-120000414.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1775995200,
-        "type": "News"
-    },
-    {
-        "title": "'Not as bullish': Big banks are entering Q1 earnings season on less certain footing than in January",
-        "title_zh": "“不那么乐观”：大型银行进入第一季度财报季的基础不如一月份那么确定",
-        "summary": "Wall Street's biggest banks are riding into the first quarter earnings season on far less certain ground than where they began 2026.",
-        "summary_zh": "华尔街最大的银行在进入第一季度财报季时，情况远不如 2026 年开始时那么确定。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/not-as-bullish-big-banks-are-entering-q1-earnings-season-on-less-certain-footing-than-in-january-120803928.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1775909283,
         "type": "News"
     }
 ]
