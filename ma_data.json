@@ -1,5 +1,25 @@
 [
     {
+        "title": "Amazon Nears Deal for Globalstar in Push to Rival Musk’s Starlink",
+        "title_zh": "亚马逊接近达成 Globalstar 交易，向竞争对手马斯克的 Starlink 发起冲击",
+        "summary": "(Bloomberg) -- Amazon.com Inc. is in advanced talks to acquire satellite operator Globalstar Inc.",
+        "summary_zh": "（彭博社）——亚马逊公司正在就收购卫星运营商 Globalstar Inc. 进行深入谈判。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-nears-deal-globalstar-push-023104413.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776153899,
+        "type": "News"
+    },
+    {
+        "title": "Stock Futures Rise as Markets Hope for Iran Deal",
+        "title_zh": "由于市场希望伊朗达成协议，股票期货上涨",
+        "summary": "Stocks looked set to edge higher and oil prices were falling on Tuesday as investors hoped for a peace deal to end the war in Iran, even as the U.S. blockade of the Strait of Hormuz stretched into a second day.",
+        "summary_zh": "尽管美国对霍尔木兹海峡的封锁已持续到第二天，但由于投资者希望达成和平协议以结束伊朗战争，周二股市似乎将小幅走高，油价下跌。",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-041426/card/stock-futures-rise-as-markets-hope-for-iran-deal-1Q56ZxVvQRXUwyU1mCPS?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1776152421,
+        "type": "News"
+    },
+    {
         "title": "Amazon nears deal to buy Globalstar, Bloomberg News reports",
         "title_zh": "据彭博社报道，亚马逊即将达成收购 Globalstar 的交易",
         "summary": "Amazon is in ‌advanced talks ‌to acquire satellite ​telecom group Globalstar, a deal that would bolster ‌the ⁠tech major's push to build ⁠its own satellite operation, ​Bloomberg ​News ​reported on ‌Monday.",
@@ -10,36 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Intel’s Tesla Chip Deal Is a Genuine Game Changer",
-        "title_zh": "英特尔的特斯拉芯片交易是真正的游戏规则改变者",
-        "summary": "Intel (NASDAQ:INTC) stock is currently in the midst of a historic win streak, and it’s grabbing the attention of everyday investors, some of whom may have been a bit quick to dismiss the lagging chip play way back when it was hovering in its multi-year depths.",
-        "summary_zh": "英特尔（纳斯达克股票代码：INTC）的股票目前正处于历史性的连涨之中，它吸引了普通投资者的注意力，其中一些人可能很快就忽视了落后的芯片市场，当时它徘徊在多年来的低谷。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-tesla-chip-deal-genuine-005001271.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1776127801,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady as US-Iran deal discussed",
-        "title_zh": "今日股市：随着美伊协议的讨论，道琼斯指数、标准普尔 500 指数、纳斯达克期货保持稳定",
-        "summary": "The major gauges held around the baseline as peace talks between Iran and the US were broached.",
-        "summary_zh": "随着伊朗和美国之间的和平谈判的展开，主要指标保持在基线附近。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-as-us-iran-deal-discussed-225637594.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776120997,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street gains as investors hold out hope for a US-Iran deal",
-        "title_zh": "投资者对美伊协议抱有希望，华尔街上涨",
-        "summary": "STORY: Wall Street's main indexes rallied on Monday, with the Dow gaining more than six-tenths of a percent, the S&P 500 climbing 1% and the Nasdaq adding nearly one-and-a-quarter percent.After a muted start to the day, stocks picked up steam midday after President Donald Trum...",
-        "summary_zh": "故事：华尔街主要股指周一上涨，道琼斯指数上涨逾十分之六，标准普尔 500 指数上涨 1%，纳斯达克指数上涨近四分之一。",
-        "link": "https://finance.yahoo.com/video/wall-street-gains-investors-hold-223006816.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776119406,
-        "type": "News"
-    },
-    {
         "title": "Bloom Energy Stock Jumps on Expanded Fuel Cell Deal for Oracle",
         "title_zh": "甲骨文扩大燃料电池交易，Bloom Energy 股价上涨",
         "summary": "Bloom’s fuel cells will support Oracle projects in the U.S. amid demand for its AI and cloud-computing infrastructure.",
@@ -47,6 +37,16 @@
         "link": "https://www.barrons.com/articles/bloom-energy-oracle-fuel-cell-deal-stock-d42b6523?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1776118560,
+        "type": "News"
+    },
+    {
+        "title": "US Equity Indexes Rise Amid Gains in Tech, Financials; Crude Oil Pares Gains on Hopes for Iran Deal",
+        "title_zh": "美国股指因科技、金融股上涨而上涨；由于伊朗协议的希望，原油涨幅回落",
+        "summary": "US equity indexes rose, with financials and technology topping sector charts, and crude oil futures",
+        "summary_zh": "美国股指上涨，金融和科技股位居板块榜首，原油期货上涨",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-amid-211142354.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1776114702,
         "type": "News"
     }
 ]

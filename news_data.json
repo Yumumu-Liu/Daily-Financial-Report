@@ -1,5 +1,45 @@
 [
     {
+        "title": "AI trade is leading the stock market again: Chart of the Day",
+        "title_zh": "人工智能交易再次引领股市：每日图表",
+        "summary": "Tech stocks just notched their ninth straight day of gains. The stock market leadership behind that run looks a lot like the trade that powered the last bull market.",
+        "summary_zh": "科技股刚刚连续第九天上涨。这次上涨背后的股市领导力看起来很像推动上一次牛市的交易。",
+        "link": "https://finance.yahoo.com/news/ai-trade-is-leading-the-stock-market-again-chart-of-the-day-100044721.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776160844,
+        "type": "News"
+    },
+    {
+        "title": "Morning Brief: Goldman rakes it in, but issues a warning",
+        "title_zh": "早间简报：高盛大赚一笔，但发出警告",
+        "summary": "Despite a Hormuz blockade, an outlook warning from Goldman Sachs, and oil still surfing the $100 per barrel, the stock market resumed its progress up and to the right.",
+        "summary_zh": "尽管霍尔木兹海峡封锁、高盛发出前景警告，且油价仍在每桶 100 美元上方徘徊，但股市仍恢复了向上和向右的走势。",
+        "link": "https://finance.yahoo.com/news/morning-brief-goldman-rakes-it-in-but-issues-a-warning-100029998.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776160829,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Nears Deal for Globalstar in Push to Rival Musk’s Starlink",
+        "title_zh": "亚马逊接近达成 Globalstar 交易，向竞争对手马斯克的 Starlink 发起冲击",
+        "summary": "(Bloomberg) -- Amazon.com Inc. is in advanced talks to acquire satellite operator Globalstar Inc.",
+        "summary_zh": "（彭博社）——亚马逊公司正在就收购卫星运营商 Globalstar Inc. 进行深入谈判。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-nears-deal-globalstar-push-023104413.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776153899,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI's $852 billion valuation faces investor scrutiny amid strategy shift, FT reports",
+        "title_zh": "据英国《金融时报》报道，OpenAI 8520 亿美元的估值因战略转变而面临投资者审查",
+        "summary": "OpenAI's $852 billion valuation is under scrutiny from some of its own backers as the company ‌shifts its focus to the enterprise market to fend ‌off competition from Anthropic, the Financial Times reported on Tuesday.",
+        "summary_zh": "据英国《金融时报》周二报道，OpenAI 8520 亿美元的估值正受到其一些支持者的密切关注，因为该公司将重点转向企业市场以抵御来自 Anthropic 的竞争。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/openai-investors-852-billion-valuation-040930186.html",
+        "publisher": "Reuters",
+        "publish_time": 1776139770,
+        "type": "News"
+    },
+    {
         "title": "Amazon nears deal to buy Globalstar, Bloomberg News reports",
         "title_zh": "据彭博社报道，亚马逊即将达成收购 Globalstar 的交易",
         "summary": "Amazon is in ‌advanced talks ‌to acquire satellite ​telecom group Globalstar, a deal that would bolster ‌the ⁠tech major's push to build ⁠its own satellite operation, ​Bloomberg ​News ​reported on ‌Monday.",
@@ -20,33 +60,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady as US-Iran deal discussed",
-        "title_zh": "今日股市：随着美伊协议的讨论，道琼斯指数、标准普尔 500 指数、纳斯达克期货保持稳定",
-        "summary": "The major gauges held around the baseline as peace talks between Iran and the US were broached.",
-        "summary_zh": "随着伊朗和美国之间的和平谈判的展开，主要指标保持在基线附近。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-dow-sp-500-nasdaq-futures-hold-steady-as-us-iran-deal-discussed-225637594.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776120997,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street gains as investors hold out hope for a US-Iran deal",
-        "title_zh": "投资者对美伊协议抱有希望，华尔街上涨",
-        "summary": "STORY: Wall Street's main indexes rallied on Monday, with the Dow gaining more than six-tenths of a percent, the S&P 500 climbing 1% and the Nasdaq adding nearly one-and-a-quarter percent.After a muted start to the day, stocks picked up steam midday after President Donald Trum...",
-        "summary_zh": "故事：华尔街主要股指周一上涨，道琼斯指数上涨逾十分之六，标准普尔 500 指数上涨 1%，纳斯达克指数上涨近四分之一。",
-        "link": "https://finance.yahoo.com/video/wall-street-gains-investors-hold-223006816.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776119406,
-        "type": "News"
-    },
-    {
-        "title": "How Amazon is expanding its car-sales business",
-        "title_zh": "亚马逊如何拓展汽车销售业务",
-        "summary": "Amazon (AMZN) is expanding its car-sales business to include Jeep, Chevrolet, and other automakers. Yahoo Finance Senior Autos Reporter Pras Subramanian breaks down the details.",
-        "summary_zh": "亚马逊（AMZN）正在扩大其汽车销售业务，将吉普车、雪佛兰和其他汽车制造商纳入其中。雅虎财经高级汽车记者 Pras Subramanian 详细分析了这些细节。",
-        "link": "https://finance.yahoo.com/video/how-amazon-is-expanding-its-car-sales-business-202747808.html",
+        "title": "What US-Iran escalations mean for multiples, earnings season",
+        "title_zh": "美国和伊朗的升级对市盈率和财报季意味着什么",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are holding onto gains ahead of Monday's session close after President Trump's blockade of the Strait of Hormuz went into effect today. This comes after failed ceasefire negotiations between US and Iranian officials over the weekend.",
+        "summary_zh": "在特朗普总统今天对霍尔木兹海峡的封锁生效后，美国股市（^DJI、^IXIC、^GSPC）在周一收盘前保持上涨。此前，美国和伊朗官员周末停火谈判失败。",
+        "link": "https://finance.yahoo.com/video/what-us-iran-escalations-mean-for-multiples-earnings-season-200148335.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1776112067,
+        "publish_time": 1776110508,
         "type": "News"
     },
     {
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/news/amazon-stock-is-leading-the-magnificent-7-rebound--but-the-rally-is-hitting-a-ceiling-chart-of-the-day-154222201.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1776094942,
-        "type": "News"
-    },
-    {
-        "title": "'Timing really does matter': Why markets need US-Iran conflict to wrap up soon",
-        "title_zh": "“时机确实很重要”：为什么市场需要美伊冲突尽快结束",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed at Monday's market open following President Trump's latest order to blockade the Strait of Hormuz starting as early as today. This comes after failed ceasefire talks between US officials and Iran over this past weekend.",
-        "summary_zh": "在特朗普总统最早从今天开始封锁霍尔木兹海峡的最新命令之后，美国股市（^DJI、^IXIC、^GSPC）周一开盘涨跌互现。此前，美国官员与伊朗上周末的停火谈判失败。",
-        "link": "https://finance.yahoo.com/video/timing-really-does-matter-why-markets-need-us-iran-conflict-to-wrap-up-soon-140305537.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776088985,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs with a reality check on AI: Fears of disruption will hang over growth stocks for years",
-        "title_zh": "高盛对人工智能进行现实检验：对颠覆的担忧将困扰成长型股票多年",
-        "summary": "A reality check from the Goldman Sachs team.",
-        "summary_zh": "高盛团队的现实检验。",
-        "link": "https://finance.yahoo.com/news/goldman-sachs-with-a-reality-check-on-ai-fears-of-disruption-will-hang-over-growth-stocks-for-years-131233368.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776085953,
         "type": "News"
     }
 ]
