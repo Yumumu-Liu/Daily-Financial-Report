@@ -1,5 +1,35 @@
 [
     {
+        "title": "US Senator Warren voices concern over Nvidia's acquisition of Slurm",
+        "title_zh": "美国参议员沃伦对英伟达收购 Slurm 表示担忧",
+        "summary": "U.S. Democratic Senator Elizabeth Warren sent a letter to the U.S. secretaries of the Department of Energy and Department of Defense on Tuesday, questioning them about Nvidia's acquisition ‌of SchedMD, which makes Slurm software.",
+        "summary_zh": "美国民主党参议员伊丽莎白·沃伦 (Elizabeth Warren) 周二致信美国能源部和国防部长，询问他们有关 Nvidia 收购 Slurm 软件制造商 SchedMD 的情况。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/us-senator-warren-voices-concern-100555487.html",
+        "publisher": "Reuters",
+        "publish_time": 1776247555,
+        "type": "News"
+    },
+    {
+        "title": "Can Rezolve AI’s (RZLV) Microsoft Foundry Deal Reframe Its Edge In Retail “Commerce Superintelligence”?",
+        "title_zh": "Rezolve AI (RZLV) 的 Microsoft Foundry 交易能否重塑其在零售“商业超级智能”领域的优势？",
+        "summary": "Earlier this week, Rezolve AI announced its brainpowa commerce-tuned model suite is now available in Microsoft’s Foundry on Azure, enabling retailers to deploy commerce copilots integrated with Dynamics 365 and Microsoft 365 Copilot.",
+        "summary_zh": "本周早些时候，Rezolve AI 宣布其 Brainpowa 商务调整模型套件现已在 Microsoft Azure 上的 Foundry 中提供，使零售商能够部署与 Dynamics 365 和 Microsoft 365 Copilot 集成的商务副驾驶。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rezolve-ai-rzlv-microsoft-foundry-080845444.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776240525,
+        "type": "News"
+    },
+    {
+        "title": "Oracle (ORCL) Valuation Check After Bloom Energy Deal And Expanding AI Software Push",
+        "title_zh": "Bloom Energy 交易和扩大人工智能软件推广后，甲骨文 (ORCL) 进行估值检查",
+        "summary": "Oracle (ORCL) is back in focus after agreeing to buy up to 2.8 gigawatts of Bloom Energy fuel cell power for its AI data centers, alongside a flurry of new AI-driven software capabilities. See our latest analysis for Oracle.",
+        "summary_zh": "甲骨文 (ORCL) 同意为其人工智能数据中心购买高达 2.8 吉瓦的 Bloom Energy 燃料电池电力，以及一系列新的人工智能驱动的软件功能，重新成为人们关注的焦点。请参阅我们对 Oracle 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-valuation-check-bloom-050323112.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776229403,
+        "type": "News"
+    },
+    {
         "title": "Amazon’s $11.6 Billion Globalstar Deal Amps Up Musk Rivalry",
         "title_zh": "亚马逊 116 亿美元的 Globalstar 交易加剧了马斯克的竞争",
         "summary": "(Bloomberg) -- Amazon.com Inc.’s $11.6 billion deal to buy Globalstar Inc.",
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-14-225507923.html",
         "publisher": "Motley Fool",
         "publish_time": 1776207307,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs to offer low-risk, low-reward Bitcoin ETF",
-        "title_zh": "高盛将推出低风险、低回报的比特币 ETF",
-        "summary": "Wall Street giant Goldman Sachs filed to launch a Bitcoin exchange-traded fund on Tuesday. But it won’t invest in Bitcoin directly. Instead, the fund will invest in other Bitcoin ETFs and options on those ETFs.",
-        "summary_zh": "华尔街巨头高盛周二申请推出比特币交易所交易基金。但它不会直接投资比特币。相反，该基金将投资于其他比特币 ETF 和这些 ETF 的期权。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-offer-low-risk-221206279.html",
-        "publisher": "DLNews",
-        "publish_time": 1776204726,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today, April 14: Amazon Rises After $11.6 Billion Globalstar Deal Fuels Satellite Internet Ambitions",
-        "title_zh": "4 月 14 日今日股市：116 亿美元的 Globalstar 交易助推卫星互联网雄心之后，亚马逊股价上涨",
-        "summary": "With a SpaceX IPO pending, Amazon's Globalstar move spotlights its push to fuse satellite connectivity with AI-powered cloud services, today, April 14, 2026.",
-        "summary_zh": "随着 SpaceX 首次公开募股（IPO）悬而未决，亚马逊的 Globalstar 举措凸显了其推动卫星连接与人工智能云服务融合的努力（今天，即 2026 年 4 月 14 日）。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-14-214411050.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1776203051,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq Extends Winning Streak to 10 Days Amid US-Iran Deal Hopes",
-        "title_zh": "美国与伊朗达成协议，纳斯达克指数连涨至十天",
-        "summary": "The Nasdaq Composite extended its winning streak to a tenth consecutive session on Tuesday as oil pr",
-        "summary_zh": "由于石油价格上涨，纳斯达克综合指数周二连续第十个交易日上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-extends-winning-streak-10-204255974.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776199375,
         "type": "News"
     }
 ]

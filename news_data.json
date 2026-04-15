@@ -1,5 +1,55 @@
 [
     {
+        "title": "US Senator Warren voices concern over Nvidia's acquisition of Slurm",
+        "title_zh": "美国参议员沃伦对英伟达收购 Slurm 表示担忧",
+        "summary": "U.S. Democratic Senator Elizabeth Warren sent a letter to the U.S. secretaries of the Department of Energy and Department of Defense on Tuesday, questioning them about Nvidia's acquisition ‌of SchedMD, which makes Slurm software.",
+        "summary_zh": "美国民主党参议员伊丽莎白·沃伦 (Elizabeth Warren) 周二致信美国能源部和国防部长，询问他们有关 Nvidia 收购 Slurm 软件制造商 SchedMD 的情况。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/us-senator-warren-voices-concern-100555487.html",
+        "publisher": "Reuters",
+        "publish_time": 1776247555,
+        "type": "News"
+    },
+    {
+        "title": "Morning Brief: We're watching for S&P 500 record highs again",
+        "title_zh": "早间简报：我们期待标普 500 指数再次创下历史新高",
+        "summary": "Big Bank earnings continue with Bank of America and Morgan Stanley, and we'll be watching for other inklings of consumer and corporate strain throughout.",
+        "summary_zh": "美国银行和摩根士丹利继续公布大型银行的财报，我们将全程关注消费者和企业压力的其他迹象。",
+        "link": "https://finance.yahoo.com/news/morning-brief-were-watching-for-sp-500-record-highs-again-100001218.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776247201,
+        "type": "News"
+    },
+    {
+        "title": "Why this earnings season can change the software narrative",
+        "title_zh": "为什么这个财报季可以改变软件的叙述",
+        "summary": "TECHnalysis Research, LLC, president Bob O'Donnell, joins Josh Lipton on Market Domination Overtime to discuss how software stocks can change their image this earnings season following the effect of the SAASpocalypse.",
+        "summary_zh": "TECHnaanalysis Research, LLC 总裁 Bob O'Donnell 与 Josh Lipton 一起在《Market Domination Overtime》节目中讨论软件股如何在 SAASpocalypse 的影响下改变本财报季的形象。",
+        "link": "https://finance.yahoo.com/video/why-this-earnings-season-can-change-the-software-narrative-100000350.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1776247200,
+        "type": "News"
+    },
+    {
+        "title": "Trump Hints at War’s End as Hormuz Standoff Chokes Oil Flows",
+        "title_zh": "霍尔木兹对峙阻碍石油供应，特朗普暗示战争结束",
+        "summary": "(Bloomberg) -- US President Donald Trump played down the prospect of renewed fighting in the war with Iran, even as questions remain over Tehran’s nuclear program and access to the Strait of Hormuz.",
+        "summary_zh": "（彭博社）——美国总统唐纳德·特朗普淡化了与伊朗重新开战的可能性，尽管德黑兰的核计划和霍尔木兹海峡的出入问题仍然存在。",
+        "link": "https://finance.yahoo.com/news/trump-says-end-iran-war-072151112.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776245353,
+        "type": "News"
+    },
+    {
+        "title": "Meta extends Broadcom deal to power AI across its apps",
+        "title_zh": "Meta 扩展博通协议，为其应用程序提供人工智能支持",
+        "summary": "STORY: :: MetaMeta is expanding its deal with chip designer Broadcom to build several generations of custom processors to power AI features across its apps.The deal announced Tuesday extends their partnership through 2029.:: MetaIt includes an initial commitment of more than o...",
+        "summary_zh": "故事：:: MetaMeta 正在扩大与芯片设计商 Broadcom 的合作，以构建几代定制处理器，为其应用程序提供人工智能功能。周二宣布的交易将他们的合作伙伴关系延长至 2029 年。:: MetaIt 包括超过...",
+        "link": "https://finance.yahoo.com/video/meta-extends-broadcom-deal-power-055114848.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1776238042,
+        "type": "News"
+    },
+    {
         "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI",
         "title_zh": "韩国人工智能芯片初创公司 DEEPX 和现代汽车致力于开发由生成式人工智能驱动的机器人",
         "summary": "South Korean AI chip startup DEEPX will expand its partnership with Hyundai Motor Group to develop a computing platform for generative ‌AI robots using its second generation of low-power chips, its top executive said, as ‌it gets set for an IPO.",
@@ -30,63 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures hover amid renewed hopes for US-Iran talks",
-        "title_zh": "今日股市：标普 500 指数、纳斯达克指数和道琼斯指数期货徘徊在美伊谈判重燃希望之际",
-        "summary": "Stock futures traded flat as banks report  profit increases with the Iran war weighing on market optimism.",
-        "summary_zh": "由于伊朗战争打压市场乐观情绪，银行报告利润增加，股指期货交易持平。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-sp-500-nasdaq-dow-futures-hover-amid-renewed-hopes-for-us-iran-talks-231104868.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776208264,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI investors question valuation after questionable pivot",
-        "title_zh": "OpenAI 投资者在可疑的转向后质疑估值",
-        "summary": "TECHnalysis Research, LLC, president Bob O'Donnell joins Josh Lipton on Market Domination Overtime to discuss OpenAI's (OPAI.PVT) big pivots ahead of its IPO that have investors scratching their heads.",
-        "summary_zh": "TECHnaanalysis Research, LLC 总裁 Bob O'Donnell 与 Josh Lipton 一起在《Market Domination Overtime》中讨论了 OpenAI (OPAI.PVT) 在 IPO 之前的重大转变，这些转变让投资者摸...",
-        "link": "https://finance.yahoo.com/video/openai-investors-question-valuation-after-questionable-pivot-212000056.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776201600,
-        "type": "News"
-    },
-    {
-        "title": "Meta extends custom chips deal with Broadcom to power AI ambitions",
-        "title_zh": "Meta 延长与博通的定制芯片协议，以推动人工智能的雄心",
-        "summary": "Meta will work with chip designer Broadcom to produce several generations of custom artificial intelligence processors under an expanded deal ‌as the social media giant races to build out the computing ‌capacity needed to power AI features across its apps.",
-        "summary_zh": "随着社交媒体巨头竞相构建为其应用程序提供人工智能功能所需的计算能力，Meta 将与芯片设计商博通 (Broadcom) 合作，根据扩大的协议生产几代定制人工智能处理器。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-extends-custom-chips-deal-with-broadcom-to-power-ai-ambitions-211850406.html",
-        "publisher": "Reuters",
-        "publish_time": 1776201530,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI Releases Cyber Model to Limited Group in Race With Mythos",
-        "title_zh": "OpenAI 向有限群体发布网络模型，与神话赛跑",
-        "summary": "(Bloomberg) -- OpenAI is letting a select group of users access a new artificial intelligence model that’s meant to be more adept at spotting software security vulnerabilities, one week after rival Anthropic PBC announced a limited release of an AI tool called Mythos.",
-        "summary_zh": "（彭博社）——在竞争对手 Anthropic PBC 宣布有限发布名为 Mythos 的人工智能工具一周后，OpenAI 正在让一组选定的用户访问一种新的人工智能模型，该模型更擅长发现软件安全漏洞。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-releases-cyber-model-limited-200022590.html",
+        "title": "Amazon-Globalstar Deal Is Poised to Boost Apple’s Satellite Ambitions",
+        "title_zh": "亚马逊与 Globalstar 的交易有望增强苹果的卫星野心",
+        "summary": "(Bloomberg) -- Amazon.com Inc.’s takeover of Globalstar Inc.",
+        "summary_zh": "（彭博社）——亚马逊公司 (Amazon.com Inc.) 收购 Globalstar Inc.",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-globalstar-deal-poised-boost-220539925.html",
         "publisher": "Bloomberg",
-        "publish_time": 1776196822,
-        "type": "News"
-    },
-    {
-        "title": "Tesla stock upgraded, CarMax Q4 earnings disappoint Wall Street",
-        "title_zh": "特斯拉股票上调，CarMax 第四季度盈利令华尔街失望",
-        "summary": "Yahoo Finance anchor Josh Lipton tracks Tuesday's top-moving stocks and biggest market stories. Tesla (TSLA) stock was upgraded to Neutral from Sell by UBS analysts. CarMax (KMX) stock is sinking after the company's fourth quarter earnings results disappointed Wall Street.",
-        "summary_zh": "雅虎财经主播乔什·利普顿追踪周二走势最强劲的股票和最大的市场故事。瑞银分析师将特斯拉 (TSLA) 股票的评级从“卖出”上调至“中性”。 CarMax (KMX) 的第四季度盈利结果令华尔街失望，该公司股价正在下跌。",
-        "link": "https://finance.yahoo.com/video/tesla-stock-upgraded-carmax-q4-earnings-disappoint-wall-street-181005470.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776190205,
-        "type": "News"
-    },
-    {
-        "title": "D-Wave CEO says Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
-        "title_zh": "D-Wave 首席执行官表示，随着量子计算与 AI GPU 的较量，Nvidia 应该“颤抖”",
-        "summary": "D-Wave touts massive energy efficiency gains over Nvidia as World Quantum Day sparks a sector-wide rally.",
-        "summary_zh": "随着世界量子日引发整个行业的反弹，D-Wave 宣称其能源效率比 Nvidia 大幅提高。",
-        "link": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776189769,
+        "publish_time": 1776204339,
         "type": "News"
     }
 ]
