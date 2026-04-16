@@ -1,15 +1,5 @@
 [
     {
-        "title": "Asia markets advance on peace deal hopes, corporate earnings",
-        "title_zh": "亚洲市场因和平协议希望和企业盈利而上涨",
-        "summary": "By Gregor Stuart Hunter SINGAPORE, April 16 (Reuters) - Stocks pushed higher in early Asia trading on Thursday as optimism grew about a deal to end the Iran war with the U.S. ratcheting up pressure on",
-        "summary_zh": "路透新加坡 4 月 16 日 - 周四亚洲早盘股市走高，因美国加大压力，结束伊朗战争的协议愈加乐观。",
-        "link": "https://finance.yahoo.com/news/asia-markets-advance-peace-deal-004911509.html",
-        "publisher": "Reuters",
-        "publish_time": 1776300551,
-        "type": "News"
-    },
-    {
         "title": "Lumen Strikes Connectivity Deal With Amazon’s Cloud Unit. The Stock Jumps.",
         "title_zh": "Lumen 与亚马逊云部门达成连接协议。股票上涨。",
         "summary": "The networking company is working with Amazon Web Services to provide businesses cloud connectivity.",
@@ -30,23 +20,33 @@
         "type": "News"
     },
     {
-        "title": "S&P 500 Hits Record Amid Reports Iran Ceasefire to be Extended to Reach Peace Deal",
-        "title_zh": "有报道称伊朗停火将延长以达成和平协议，标普 500 指数创下新高",
-        "summary": "US equity indexes closed mixed on Wednesday as strong gains in growth sectors pushed the S&P 500 to",
-        "summary_zh": "美国股指周三收盘涨跌互现，增长板块的强劲上涨推动标准普尔 500 指数上涨",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-amid-205847432.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776286727,
+        "title": "Is KKR's (KKR) Samsung SDS Deal Quietly Rewiring Its Tech Exposure and Earnings Mix?",
+        "title_zh": "KKR (KKR) 的三星 SDS 交易是否正在悄然重新调整其技术风险和盈利组合？",
+        "summary": "In recent days, KKR-backed funds agreed to purchase KRW 1.22 trillion (about US$820 million) in newly issued convertible bonds from Samsung SDS, forming a partnership focused on AI transformation services, infrastructure, and global expansion support.",
+        "summary_zh": "近日，KKR 支持的基金同意从三星 SDS 购买 1.22 万亿韩元（约合 8.2 亿美元）新发行的可转换债券，形成专注于人工智能转型服务、基础设施和全球扩张支持的合作伙伴关系。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkrs-kkr-samsung-sds-deal-150659831.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776265619,
         "type": "News"
     },
     {
-        "title": "GitLab Stock Surges on Google Cloud Deal. Here's What It Means for Investors",
-        "title_zh": "谷歌云交易推动 GitLab 股价飙升。这对投资者意味着什么",
-        "summary": "Users can now run GitLab's AI Gateway directly on Google Cloud.",
-        "summary_zh": "用户现在可以直接在 Google Cloud 上运行 GitLab 的 AI Gateway。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gitlab-stock-surges-google-cloud-204729393.html",
+        "title": "Stock Market Today, April 14: Oracle Jumps on Expanded Bloom Energy Deal",
+        "title_zh": "4 月 14 日今日股市：Oracle 因扩大 Bloom Energy 交易而股价上涨",
+        "summary": "Today, April 14, 2026, investors are weighing a huge fuel-cell power partnership and new AI tools reshaping this cloud giant’s outlook.",
+        "summary_zh": "今天，2026 年 4 月 14 日，投资者正在权衡巨大的燃料电池电力合作伙伴关系和重塑这家云巨头前景的新人工智能工具。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-april-14-225507923.html",
         "publisher": "Motley Fool",
-        "publish_time": 1776286049,
+        "publish_time": 1776207307,
+        "type": "News"
+    },
+    {
+        "title": "Blackstone Eyes Stroer Deal As European Media Role Expands",
+        "title_zh": "随着欧洲媒体角色的扩大，黑石集团关注斯特罗尔交易",
+        "summary": "Blackstone (NYSE:BX) is reportedly partnering with I Squared Capital to pursue the core advertising business of German media company Stroer.",
+        "summary_zh": "据报道，Blackstone（纽约证券交易所股票代码：BX）正在与 I Squared Capital 合作，开发德国媒体公司 Stroer 的核心广告业务。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-eyes-stroer-deal-european-160556469.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776182756,
         "type": "News"
     }
 ]
