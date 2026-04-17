@@ -1,10 +1,80 @@
 [
     {
+        "title": "The stock market's big breakout still needs an under-the-hood check: Chart of the Day",
+        "title_zh": "股市的大突破仍然需要进行幕后检查：每日图表",
+        "summary": "Under the hood, the latest rally in stocks hasn't confirmed the breakout to fresh highs in the S&P 500.",
+        "summary_zh": "在幕后，股市的最新反弹并未证实标准普尔 500 指数突破新高。",
+        "link": "https://finance.yahoo.com/news/the-stock-markets-big-breakout-still-needs-an-under-the-hood-check-chart-of-the-day-100030247.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776420030,
+        "type": "News"
+    },
+    {
+        "title": "Morning Brief: 3 takeaways from big bank results",
+        "title_zh": "早间简报：大型银行业绩的 3 个要点",
+        "summary": "We're on the lookout for Iran resolution and some more financial sector earnings.",
+        "summary_zh": "我们正在关注伊朗问题的解决方案和更多金融部门的收益。",
+        "link": "https://finance.yahoo.com/news/morning-brief-3-takeaways-from-big-bank-results-100019077.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776420019,
+        "type": "News"
+    },
+    {
+        "title": "The rally in tech stocks is widening beyond semiconductors and into software",
+        "title_zh": "科技股的涨势正在从半导体扩展到软件领域",
+        "summary": "The first leg of this rebound belonged to chip stocks. Now, software is catching up quickly.",
+        "summary_zh": "此次反弹的第一站属于芯片股。现在，软件正在迅速迎头赶上。",
+        "link": "https://finance.yahoo.com/news/the-rally-in-tech-stocks-is-widening-beyond-semiconductors-and-into-software-100008649.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776420008,
+        "type": "News"
+    },
+    {
+        "title": "This international market is a great investment amid the Iran war",
+        "title_zh": "这个国际市场是伊朗战争期间的一项巨大投资",
+        "summary": "Horizon chief investment officer Scott Ladner joins Yahoo Finance to explain which regions are worth investing in based on oil (CL=F, BZ=F) prices and economic reactions to the Iran war.",
+        "summary_zh": "Horizo​​n 首席投资官斯科特·拉德纳 (Scott Ladner) 与雅虎财经一起根据石油 (CL=F, BZ=F) 价格和对伊朗战争的经济反应解释哪些地区值得投资。",
+        "link": "https://finance.yahoo.com/video/this-international-market-is-a-great-investment-amid-the-iran-war-100000332.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1776420000,
+        "type": "News"
+    },
+    {
+        "title": "Best-Performing European Stock of 2026 Rides Photonics Wave",
+        "title_zh": "2026 年表现最佳的欧洲股票掀起光子学浪潮",
+        "summary": "(Bloomberg) -- A clamor by investors for stocks that stand to benefit from the boom in artificial intelligence has propelled a little‑known French company to the top of Europe’s 2026 equity rankings.Soitec SA, a semiconductor materials maker with a market capitalization of abo...",
+        "summary_zh": "(彭博社)——投资者对那些有望从人工智能繁荣中受益的股票的强烈需求，推动一家名不见经传的法国公司在 2026 年欧洲股票排名中名列前茅。Soitec SA 是一家半导体材料制造商，市值约为",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/best-performing-european-stock-2026-091606105.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776417366,
+        "type": "News"
+    },
+    {
+        "title": "Apple's iPhone shipments in China surge 20% in Q1, data shows",
+        "title_zh": "数据显示苹果第一季度iPhone在中国出货量猛增20%",
+        "summary": "Apple's iPhone shipments surged 20% in China in the first quarter, for the strongest ‌growth among major vendors, despite an overall decline as rising prices ‌of memory chips boosted costs, data from Counterpoint Research showed.",
+        "summary_zh": "Counterpoint Research 的数据显示，尽管存储芯片价格上涨推高了成本，导致整体下滑，但苹果第一季度 iPhone 在中国的出货量猛增 20%，在主要厂商中增长最为强劲。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apples-iphone-shipments-china-surge-063041671.html",
+        "publisher": "Reuters",
+        "publish_time": 1776407441,
+        "type": "News"
+    },
+    {
+        "title": "Apple Marketing Chief for Watch, AirPods, Home and Health Retires",
+        "title_zh": "Apple Watch、AirPods、家居和健康产品营销主管退休",
+        "summary": "(Bloomberg) -- Apple Inc.’s marketing executive in charge of the Apple Watch, AirPods, health and smart home initiatives said he’s retiring, marking a changing of the guard for a series of key product lines.Stan Ng, who has worked at Apple for 31 years, said Thursday that he i...",
+        "summary_zh": "(彭博社)——苹果公司负责 Apple Watch、AirPods、健康和智能家居项目的营销主管表示，他即将退休，这标志着一系列关键产品线的换岗。在苹果工作了 31 年的斯坦·吴 (Stan Ng) 周四表示，他...",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apple-marketing-chief-watch-airpods-041406646.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776399246,
+        "type": "News"
+    },
+    {
         "title": "Tesla seeks Taiwan chip engineers for Terafab project",
         "title_zh": "特斯拉为 Terafab 项目寻找台湾芯片工程师",
-        "summary": "Tesla is seeking semiconductor engineers in Taiwan for its Terafab artificial intelligence chip complex, ‌according to job postings on its website.",
-        "summary_zh": "根据其网站上的招聘信息，特斯拉正在台湾为其 Terafab 人工智能芯片综合体寻找半导体工程师。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-seeks-taiwan-chip-engineers-013737297.html",
+        "summary": "By Wen-Yee Lee TAIPEI, April 17 (Reuters) - Tesla is seeking semiconductor engineers in Taiwan for its Terafab artificial intelligence chip complex, according to job postings on its website.",
+        "summary_zh": "作者：Wen-Yee Lee 台北，4 月 17 日（路透社）——根据特斯拉网站上的招聘信息，特斯拉正在台湾为其 Terafab 人工智能芯片联合体寻找半导体工程师。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-seeks-taiwan-chip-engineers-013737217.html",
         "publisher": "Reuters",
         "publish_time": 1776389857,
         "type": "News"
@@ -17,76 +87,6 @@
         "link": "https://finance.yahoo.com/economy/policy/articles/ice-director-lyons-depart-may-002106565.html",
         "publisher": "Bloomberg",
         "publish_time": 1776385266,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as Israel-Lebanon agree to 10-day ceasefire",
-        "title_zh": "今日股市：随着以色列和黎巴嫩同意为期 10 天的停火，标准普尔 500 指数、纳斯达克指数和道琼斯指数期货上涨",
-        "summary": "Major stock gauges have risen overnight as potential peace talks calm instability fears that have rocked markets for weeks.",
-        "summary_zh": "由于潜在的和平谈判平息了数周来震撼市场的不稳定担忧，主要股指一夜之间上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-sp-500-nasdaq-dow-futures-climb-as-israel-lebanon-agree-to-10-day-ceasefire-230532185.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776380732,
-        "type": "News"
-    },
-    {
-        "title": "S&P 500, Nasdaq edge up to new records on Middle East hopes",
-        "title_zh": "中东希望拉动标普 500 指数和纳斯达克指数再创新高",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/p-500-nasdaq-edge-records-225042110.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776379842,
-        "type": "News"
-    },
-    {
-        "title": "NiSource signs long-term power deal with Alphabet, expands Amazon agreement",
-        "title_zh": "NiSource 与 Alphabet 签署长期电力协议，扩大亚马逊协议",
-        "summary": "U.S. utility NiSource said on Thursday it had signed a long-term energy supply agreement with a unit ‌of Alphabet to support a large data center in northern ‌Indiana.",
-        "summary_zh": "美国公用事业公司 NiSource 周四表示，已与 Alphabet 旗下子公司签署了一项长期能源供应协议，以支持印第安纳州北部的一个大型数据中心。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/nisource-signs-long-term-power-214613779.html",
-        "publisher": "Reuters",
-        "publish_time": 1776375973,
-        "type": "News"
-    },
-    {
-        "title": "Google, CoreWeave Fuel AI Funding Frenzy With $6.7 Billion Bonds",
-        "title_zh": "谷歌和 CoreWeave 发行 67 亿美元债券助推人工智能融资狂潮",
-        "summary": "(Bloomberg) -- There’s no stopping the artificial intelligence financing boom, with a record deal involving Google-backed data centers and an add-on sale by cloud infrastructure firm CoreWeave Inc. raising a combined $6.7 billion in new junk debt.",
-        "summary_zh": "(彭博社)——人工智能融资热潮势不可挡，谷歌支持的数据中心达成创纪录的交易，云基础设施公司 CoreWeave Inc. 进行了附加销售，总共筹集了 67 亿美元的新垃圾债。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/google-coreweave-fuel-ai-funding-213854813.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776375534,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX Moves Up Vesting Schedule for Employee Shares Before IPO",
-        "title_zh": "SpaceX 提前 IPO 前员工股票的行权时间表",
-        "summary": "(Bloomberg) -- SpaceX has moved up a scheduled vesting date for shares awarded to employees to as soon as next week, according to people familiar with the matter, ahead of an IPO targeted to value the company at more than $2 trillion.The company told employees the vesting date...",
-        "summary_zh": "（彭博社）——据知情人士透露，SpaceX 已将授予员工的股票的预定兑现日期最早推迟到下周，在首次公开募股之前，该公司的估值将超过 2 万亿美元。该公司告诉员工兑现日期...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-moves-vesting-schedule-employee-211649330.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776374209,
-        "type": "News"
-    },
-    {
-        "title": "Apple, Google Offer 'Nudify' Apps Despite Policies Against Them",
-        "title_zh": "苹果、谷歌不顾政策推出“裸体”应用",
-        "summary": "(Bloomberg) -- Apple Inc.",
-        "summary_zh": "（彭博社）——苹果公司",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/apple-google-offer-nudify-apps-despite-policies-against-them-204047056.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776372047,
-        "type": "News"
-    },
-    {
-        "title": "What the S&P 500 might be telling us",
-        "title_zh": "标准普尔 500 指数可能告诉我们什么",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre goes over Thursday's intraday market action, including a check-in on the S&P 500 (^GSPC). Watch the video above to learn more.",
-        "summary_zh": "雅虎金融市场和数据编辑 Jared Blikre 回顾了周四的盘中市场走势，包括对标准普尔 500 指数 (^GSPC) 的检查。观看上面的视频以了解更多信息。",
-        "link": "https://finance.yahoo.com/video/what-the-sp-500-might-be-telling-us-195358665.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776369238,
         "type": "News"
     }
 ]

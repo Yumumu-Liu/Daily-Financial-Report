@@ -1,5 +1,25 @@
 [
     {
+        "title": "Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
+        "title_zh": "市场热议：摩根大通等公司在 Blackstone、Apollo、Ares 基金上提供信用违约掉期",
+        "summary": "JPMorgan Chase (JPM) and Barclays (BCS) are among the Wall Street banks that recently started tradin",
+        "summary_zh": "摩根大通 (JPM) 和巴克莱 (BCS) 是最近开始交易的华尔街银行之一",
+        "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-093135984.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1776418295,
+        "type": "News"
+    },
+    {
+        "title": "New Hopes for Iran Deal — Heard on the Street Thursday Recap",
+        "title_zh": "伊朗协议的新希望——周四在街头听到回顾",
+        "summary": "Stocks rose on hopes for Iran talks. President Trump said Thursday that \"we are very close to making a deal\" with Iran, and that he was open to traveling to Pakistan to seal an agreement.",
+        "summary_zh": "由于伊朗谈判的希望，股市上涨。特朗普总统周四表示，“我们非常接近与伊朗达成协议”，并且他对前往巴基斯坦达成协议持开放态度。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-17-2026/card/new-hopes-for-iran-deal-heard-on-the-street-thursday-recap-ZWId2MlDO0uC1PQdn0V8?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1776416048,
+        "type": "News"
+    },
+    {
         "title": "Nebius Group (NBIS) Is Up 21.3% After AI21 Labs Deal Talks Surface - What's Changed",
         "title_zh": "AI21 Labs 交易谈判浮出水面后，Nebius Group (NBIS) 上涨 21.3% - 发生了什么变化",
         "summary": "In early April 2026, reports indicated that Dutch AI cloud provider Nebius Group N.V. was in acquisition talks with Israeli AI21 Labs, an AI company previously valued at US$1.40 billion and backed by investors such as Pitango, Intel Capital, Google, and Nvidia.",
@@ -20,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "How NVIDIA Optics Deal and New AI Facility Will Impact Lumentum Holdings (LITE) Investors",
-        "title_zh": "NVIDIA 光学交易和新的人工智能设施将如何影响 Lumentum Holdings (LITE) 投资者",
-        "summary": "Lumentum Holdings recently announced multiyear agreements with NVIDIA, a very large US$2 billion investment in advanced optics, and plans for a new 240,000-square-foot Greensboro, North Carolina facility to produce indium phosphide-based optical devices for AI data centers.",
-        "summary_zh": "Lumentum Holdings 最近宣布与 NVIDIA 达成多年协议，这是对先进光学领域的 20 亿美元巨额投资，并计划在北卡罗来纳州格林斯博罗新建一座占地 240,000 平方英尺的工厂，为 AI 数据中心生产基于磷化铟的光学器件。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-optics-deal-ai-facility-001705791.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1776385025,
-        "type": "News"
-    },
-    {
         "title": "The Dealmaking 3: NBA on Prime, Fab Five Return, Sportradar’s Brazil Expansion",
         "title_zh": "交易 3：NBA Prime、五虎回归、Sportradar 的巴西扩张",
         "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features Michigan’s “Fab Five” reuniting for a special Final Four alternate broadcast on truTv and HBO Max, Amazon.com, Inc.",
@@ -37,16 +47,6 @@
         "link": "https://sports.yahoo.com/articles/dealmaking-3-nba-prime-fab-231245190.html",
         "publisher": "CorpGov.com",
         "publish_time": 1776381165,
-        "type": "News"
-    },
-    {
-        "title": "What to Expect From Nvidia in the Coming Months? Taiwan Semiconductor Just Offered Investors a Clue.",
-        "title_zh": "未来几个月对 Nvidia 有何期待？台积电刚刚为投资者提供了线索。",
-        "summary": "Some investors wonder whether Nvidia can maintain revenue momentum.",
-        "summary_zh": "一些投资者想知道英伟达能否保持营收势头。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/expect-nvidia-coming-months-taiwan-222500498.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1776378300,
         "type": "News"
     }
 ]
