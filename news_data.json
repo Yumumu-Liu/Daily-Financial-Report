@@ -20,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Wall Street indexes rally as oil falls with Strait of Hormuz opening",
-        "title_zh": "霍尔木兹海峡开放导致油价下跌，华尔街指数上涨",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-indexes-rally-oil-221919388.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776464359,
-        "type": "News"
-    },
-    {
         "title": "How the SpaceX IPO could rewrite space investing",
         "title_zh": "SpaceX 首次公开募股将如何改写太空投资",
         "summary": "Market Domination Host Josh Lipton welcomes Fortuna Investments CEO Justus Parmar to discuss investing in the future of private space company SpaceX (SPAX.PVT) and Elon Musk himself.",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/markets-eye-3rd-week-of-gains-as-robinhood-stock-leads-sp-500-171613489.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1776446173,
+        "type": "News"
+    },
+    {
+        "title": "Netflix stock post-earnings, market gains, peace talks: Top themes",
+        "title_zh": "Netflix 股票财报后、市场上涨、和平谈判：热门主题",
+        "summary": "Yahoo Finance's Julie Hyman outlines three key things to watch on Friday and through the weekend: US stocks (^DJI, ^GSPC, ^IXIC) set to close out a third week of gains, Netflix's (NFLX) plunging stock after the company reported quarterly earnings, and continued monitoring of M...",
+        "summary_zh": "雅虎财经的朱莉·海曼 (Julie Hyman) 概述了周五和整个周末值得关注的三件关键事情：美国股市 (^DJI、^GSPC、^IXIC) 将连续第三周上涨，Netflix (NFLX) 公布季度收益后股价暴跌，以及继续关注 M...",
+        "link": "https://finance.yahoo.com/video/netflix-stock-post-earnings-market-gains-peace-talks-top-themes-134414965.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1776433454,
         "type": "News"
     }
 ]
