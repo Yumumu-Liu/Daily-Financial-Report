@@ -1,5 +1,15 @@
 [
     {
+        "title": "Goldman Sachs’ blunt words for Amazon stock investors after big deal",
+        "title_zh": "高盛在大宗交易后对亚马逊股票投资者的直言不讳",
+        "summary": "Amazon (AMZN) just completed a massive new deal, and Goldman Sachs thinks investors need to see the bigger picture.",
+        "summary_zh": "亚马逊（AMZN）刚刚完成了一项大规模的新交易，高盛认为投资者需要看到更大的前景。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html",
+        "publisher": "TheStreet",
+        "publish_time": 1776611220,
+        "type": "News"
+    },
+    {
         "title": "Did Cisco’s (CSCO) Astrix Deal and Project Glasswing Push Deeper into AI Security Just Shift Its Investment Narrative?",
         "title_zh": "思科 (CSCO) 的 Astrix 交易和 Glasswing 项目是否更深入地推进人工智能安全只是改变了其投资叙事？",
         "summary": "Cisco Systems has recently been reported to be in talks to acquire Israeli cybersecurity firm Astrix Security for about US$250 million to US$300 million, while also joining high-profile initiatives like Project Glasswing and industry efforts such as the UALink Consortium’s new...",
@@ -21,7 +31,7 @@
     },
     {
         "title": "Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism",
-        "title_zh": "在中东交易乐观情绪中，比特币攀升至两个月高位",
+        "title_zh": "在中东交易乐观情绪中比特币攀升至两个月高点",
         "summary": "(Bloomberg) -- Bitcoin rose to the highest level since early February after a flurry of comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward a resolution.",
         "summary_zh": "（彭博社）——美国和伊朗的一系列言论引发了人们对中东冲突可能走向解决的乐观情绪，比特币升至 2 月初以来的最高水平。",
         "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-two-month-high-185621449.html",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-125907432.html",
         "publisher": "MT Newswires",
         "publish_time": 1776430747,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
-        "title_zh": "市场热议：摩根大通等公司在 Blackstone、Apollo、Ares 基金上提供信用违约掉期",
-        "summary": "JPMorgan Chase (JPM) and Barclays (BCS) are among the Wall Street banks that recently started tradin",
-        "summary_zh": "摩根大通 (JPM) 和巴克莱 (BCS) 是最近开始交易的华尔街银行之一",
-        "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-093135984.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776418295,
         "type": "News"
     }
 ]
