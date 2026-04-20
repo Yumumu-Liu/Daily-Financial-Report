@@ -1,42 +1,72 @@
 [
     {
+        "title": "Tesla's energy storage division to pick up slack as car margins drop and credits fade",
+        "title_zh": "随着汽车利润下降和信贷消失，特斯拉的能源存储部门将弥补颓势",
+        "summary": "Tesla's solar and energy business is likely to outshine the EV maker's challenged core business when it reports quarterly results this week, a sign of resilience as Tesla ‌progresses slowly in its turn to robots and self-driving technology.",
+        "summary_zh": "特斯拉在本周公布季度业绩时，其太阳能和能源业务可能会超过这家电动汽车制造商面临挑战的核心业务，这是特斯拉在机器人和自动驾驶技术方面进展缓慢之际的韧性迹象。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/teslas-energy-storage-division-pick-100741770.html",
+        "publisher": "Reuters",
+        "publish_time": 1776679661,
+        "type": "News"
+    },
+    {
+        "title": "A closer look at 2 great (and 2 not-so-great) consumer stock picks",
+        "title_zh": "仔细看看 2 只优秀（和 2 只不太优秀）的消费股精选",
+        "summary": "In the video above, Zacks Investment Management chief market strategist Brian Mulberry shares two of his favorite and least favorite stocks in the consumer sector.",
+        "summary_zh": "在上面的视频中，Zacks Investment Management 首席市场策略师 Brian Mulberry 分享了他在消费领域最喜欢和最不喜欢的两只股票。",
+        "link": "https://finance.yahoo.com/video/a-closer-look-at-2-great-and-2-not-so-great-consumer-stock-picks-100000957.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1776679200,
+        "type": "News"
+    },
+    {
+        "title": "Apple withholds data in India antitrust case, watchdog sets final hearing",
+        "title_zh": "苹果在印度反垄断案件中扣留数据，监管机构举行最终听证会",
+        "summary": "By Aditya Kalra NEW DELHI, April 20 (Reuters) - Apple has not submitted data sought by India's antitrust body after an investigation found the U.S. firm abused its dominant position in the iPhone apps",
+        "summary_zh": "路透社新德里 4 月 20 日消息——印度反垄断机构调查发现，苹果公司滥用其在 iPhone 应用程序中的主导地位，但该机构尚未提交其要求的数据。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apple-withholds-data-india-antitrust-093850418.html",
+        "publisher": "Reuters",
+        "publish_time": 1776677930,
+        "type": "News"
+    },
+    {
+        "title": "China’s Netflix Expects AI to Create Bulk of Shows in Five Years",
+        "title_zh": "中国Netflix预计人工智能将在五年内创作大量节目",
+        "summary": "(Bloomberg) -- IQiyi Inc.",
+        "summary_zh": "（彭博社）——爱奇艺公司",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/china-netflix-expects-ai-create-090424212.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776675864,
+        "type": "News"
+    },
+    {
+        "title": "Cheap Batteries Are Taking Over the World’s Power Grids",
+        "title_zh": "廉价电池正在接管世界电网",
+        "summary": "(Bloomberg) -- Around the world, a wave of mega installations of batteries are lining up to be connected to the grid this year — from solar hubs in Texas to grasslands in Inner Mongolia and the site of a former coal plant north of Sydney.Most Read from BloombergCruise Ships Se...",
+        "summary_zh": "（彭博社）——今年，世界各地将迎来一波大型电池装置接入电网的浪潮——从德克萨斯州的太阳能中心到内蒙古的草原，再到悉尼北部的一座前燃煤电厂所在地。",
+        "link": "https://finance.yahoo.com/news/cheap-batteries-taking-over-world-160008811.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776670954,
+        "type": "News"
+    },
+    {
+        "title": "Blue Origin rocket reusable booster lands but satellite misses orbit",
+        "title_zh": "蓝色起源火箭可重复使用助推器着陆但卫星偏离轨道",
+        "summary": "STORY: The reusable booster of the New Glenn rocket launched from Florida on Sunday touched down successfully after about 10 minutes.However, Jeff Bezos' Blue Origin rocket failed to deploy the AST SpaceMobile communications satellite it was carrying into the correct orbit.In ...",
+        "summary_zh": "故事：周日从佛罗里达州发射的新格伦火箭的可重复使用助推器在大约 10 分钟后成功着陆。然而，杰夫·贝佐斯的蓝色起源火箭未能将其携带的 AST SpaceMobile 通信卫星部署到正确的轨道。...",
+        "link": "https://finance.yahoo.com/video/blue-origin-rocket-reusable-booster-043512037.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1776659712,
+        "type": "News"
+    },
+    {
         "title": "AI’s Token Economy Revolution Creates New China Tech Winners",
         "title_zh": "人工智能的代币经济革命创造了新的中国科技赢家",
-        "summary": "(Bloomberg) -- China’s cheap artificial intelligence models are rapidly attracting global users and creating new winners in the nation’s stock market.Most Read from BloombergHormuz Chaos, Lebanon Clashes Dent Trump Peace Deal HopesCruise Ships Seized Brief Hormuz Reopening to ...",
-        "summary_zh": "（彭博社）——中国廉价的人工智能模型正在迅速吸引全球用户，并在该国股市创造新的赢家。大多数人从彭博社读到霍尔木兹混乱，黎巴嫩冲突削弱了特朗普的和平协议希望游轮被扣押短暂霍尔木兹重新开放......",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-token-economy-revolution-creates-012806562.html",
+        "summary": "(Bloomberg) -- China’s cheap artificial intelligence models are rapidly attracting global users and creating new winners in the nation’s stock market.Most Read from BloombergCruise Ships Seized Brief Hormuz Reopening to Flee Persian GulfHormuz Chaos, Lebanon Clashes Dent Trump...",
+        "summary_zh": "（彭博社）——中国廉价的人工智能模型正在迅速吸引全球用户，并在该国股市创造新的赢家。彭博社的大多数读者都读到游轮扣押了短暂的霍尔木兹重新开放以逃离波斯湾霍尔木兹混乱，黎巴嫩冲突削弱了特朗普......",
+        "link": "https://finance.yahoo.com/news/ais-token-economy-revolution-creates-new-china-tech-winners-035211861.html",
         "publisher": "Bloomberg",
-        "publish_time": 1776648486,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures fall as hopes of de-escalation in Iran dwindle",
-        "title_zh": "今日股市：随着伊朗局势缓和的希望减弱，标准普尔 500 指数、纳斯达克指数、道琼斯指数期货下跌",
-        "summary": "Major gauges slipped after an Iranian tanker was seized by US forces in the Strait of Hormuz",
-        "summary_zh": "一艘伊朗油轮在霍尔木兹海峡被美军扣押后，主要油价下跌",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776639834,
-        "type": "News"
-    },
-    {
-        "title": "Oil jumps and stock futures slip as Iran tensions unsettle markets",
-        "title_zh": "伊朗紧张局势令市场不安，油价上涨，股指期货下跌",
-        "summary": "By Yoruk Bahceli April 20 (Reuters) - Oil prices jumped, the U.S. dollar rose and stock futures fell on Monday as investors dealt with conflicting messages about the Iran war and news that the Strait",
-        "summary_zh": "路透 4 月 20 日 - 周一，石油价格上涨，美元上涨，股指期货下跌，原因是投资者对有关伊朗战争的相互矛盾的信息和海峡",
-        "link": "https://finance.yahoo.com/news/oil-jumps-stock-futures-slip-221522613.html",
-        "publisher": "Reuters",
-        "publish_time": 1776636922,
-        "type": "News"
-    },
-    {
-        "title": "Option Traders Chasing Torrid Stock Rally Turn Focus to Earnings",
-        "title_zh": "追逐股市强劲上涨的期权交易者将注意力转向盈利",
-        "summary": "(Bloomberg) -- Option traders have flipped from concern that the Iran war will sink the economy to fear of missing out on the torrid equity rebound.",
-        "summary_zh": "（彭博社）——期权交易者已经从担心伊朗战争将使经济陷入困境，转而担心错过股市的强劲反弹。",
-        "link": "https://finance.yahoo.com/markets/options/articles/option-traders-chasing-torrid-stock-140000605.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776607200,
+        "publish_time": 1776657131,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/news/the-ai-trade-is-fueling-the-market-to-record-highs-despite-iran-war-130540185.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1776603940,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech’s $4 Trillion Boomerang Powers S&P 500 to New Heights",
-        "title_zh": "大型科技公司 4 万亿美元的回旋镖将标准普尔 500 指数推向新高度",
-        "summary": "(Bloomberg) -- Big Tech stocks are back and powering the S&P 500 Index to new highs, giving investors confidence that the latest equity market rally has room to run even as the risks from the war with Iran remain.Most Read from BloombergHormuz Chaos, Lebanon Clashes Dent Trump...",
-        "summary_zh": "（彭博社）——大型科技股卷土重来，推动标准普尔 500 指数创下新高，让投资者相信，即使伊朗战争的风险依然存在，最新的股市上涨仍有空间。彭博社的大多数报道霍尔木兹混乱、黎巴嫩冲突削弱了特朗普的影响力……",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-4-trillion-boomerang-130007571.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776603607,
-        "type": "News"
-    },
-    {
-        "title": "S&P 500 at 7,000: 7 investing rules you must now live by",
-        "title_zh": "标准普尔 500 指数为 7,000 点：您现在必须遵守的 7 条投资规则",
-        "summary": "... if you want to be bullish on stocks.",
-        "summary_zh": "...如果您想看好股票。",
-        "link": "https://finance.yahoo.com/news/sp-500-at-7000-7-investing-rules-you-must-now-live-by-123015841.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776601815,
-        "type": "News"
-    },
-    {
-        "title": "'Firing on all cylinders': Wall Street strategists expect a strong quarter of earnings growth",
-        "title_zh": "“全速运转”：华尔街策略师预计季度盈利增长强劲",
-        "summary": "As big banks kick off earnings season, strategists say the \"dominant theme\" for investors is shifting back to Big Tech and energy.",
-        "summary_zh": "随着大型银行财报季拉开序幕，策略师表示，投资者的“主导主题”正在重新转向大型科技和能源。",
-        "link": "https://finance.yahoo.com/news/firing-on-all-cylinders-wall-street-strategists-expect-a-strong-quarter-of-earnings-growth-121555493.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776600955,
         "type": "News"
     }
 ]

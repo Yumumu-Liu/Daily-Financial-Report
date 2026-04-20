@@ -1,5 +1,15 @@
 [
     {
+        "title": "Amazon’s Globalstar Deal Recasts Satellite Ambitions And Investor Risk Reward",
+        "title_zh": "亚马逊的 Globalstar 交易重塑了卫星野心和投资者风险回报",
+        "summary": "Amazon.com, NasdaqGS:AMZN, has completed its acquisition of satellite operator Globalstar. The deal gives Amazon control of Globalstar’s spectrum rights, satellite fleet, and key commercial agreements.",
+        "summary_zh": "亚马逊（NasdaqGS：AMZN）已完成对卫星运营商 Globalstar 的收购。该交易使亚马逊能够控制 Globalstar 的频谱权、卫星群和关键商业协议。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-globalstar-deal-recasts-satellite-050531381.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776661531,
+        "type": "News"
+    },
+    {
         "title": "Goldman Sachs’ blunt words for Amazon stock investors after big deal",
         "title_zh": "高盛在大宗交易后对亚马逊股票投资者的直言不讳",
         "summary": "Amazon (AMZN) just completed a massive new deal, and Goldman Sachs thinks investors need to see the bigger picture.",
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-week-201533272.html",
         "publisher": "MT Newswires",
         "publish_time": 1776456933,
-        "type": "News"
-    },
-    {
-        "title": "Bitcoin Climbs to Two-Month High Amid Middle East Deal Optimism",
-        "title_zh": "在中东交易乐观情绪中比特币攀升至两个月高点",
-        "summary": "(Bloomberg) -- Bitcoin rose to the highest level since early February after a flurry of comments from the US and Iran sparked optimism that the conflict in the Middle East may be heading toward a resolution.",
-        "summary_zh": "（彭博社）——美国和伊朗的一系列言论引发了人们对中东冲突可能走向解决的乐观情绪，比特币升至 2 月初以来的最高水平。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-two-month-high-185621449.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776452181,
         "type": "News"
     },
     {
