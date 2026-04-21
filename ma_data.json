@@ -1,22 +1,12 @@
 [
     {
-        "title": "Amazon’s Globalstar Deal Recasts Satellite Ambitions And Investor Risk Reward",
-        "title_zh": "亚马逊的 Globalstar 交易重塑了卫星野心和投资者风险回报",
-        "summary": "Amazon.com, NasdaqGS:AMZN, has completed its acquisition of satellite operator Globalstar. The deal gives Amazon control of Globalstar’s spectrum rights, satellite fleet, and key commercial agreements.",
-        "summary_zh": "亚马逊（NasdaqGS：AMZN）已完成对卫星运营商 Globalstar 的收购。该交易使亚马逊能够控制 Globalstar 的频谱权、卫星群和关键商业协议。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-globalstar-deal-recasts-satellite-050531381.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1776661531,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs’ blunt words for Amazon stock investors after big deal",
-        "title_zh": "高盛在大宗交易后对亚马逊股票投资者的直言不讳",
-        "summary": "Amazon (AMZN) just completed a massive new deal, and Goldman Sachs thinks investors need to see the bigger picture.",
-        "summary_zh": "亚马逊（AMZN）刚刚完成了一项大规模的新交易，高盛认为投资者需要看到更大的前景。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html",
-        "publisher": "TheStreet",
-        "publish_time": 1776611220,
+        "title": "Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal",
+        "title_zh": "Anthropic 与亚马逊在 50 亿美元投资和计算交易中加强债券合作",
+        "summary": "Amazon will invest as much as $25 billion in the AI company, which will secure up to 5 gigawatts in badly needed computing power in the pact.",
+        "summary_zh": "亚马逊将向这家人工智能公司投资高达 250 亿美元，这将确保该协议中急需的高达 5 吉瓦的计算能力。",
+        "link": "https://www.wsj.com/tech/ai/anthropic-amazon-tighten-bond-in-5-billion-investment-and-computing-deal-b9d8e513?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1776724260,
         "type": "News"
     },
     {
@@ -30,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "US Equity Indexes Rise This Week as Hormuz Chokepoint Reopening Fuels Iran Deal Hopes",
-        "title_zh": "霍尔木兹咽喉要道的重新开放激发了伊朗协议的希望，美国股指本周上涨",
-        "summary": "US equity indexes rose this week as a time-bound reopening of the Strait of Hormuz followed a truce",
-        "summary_zh": "休战后霍尔木兹海峡有时限重新开放，美国股指本周上涨",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-week-201533272.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776456933,
-        "type": "News"
-    },
-    {
         "title": "Update: Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
         "title_zh": "更新：市场热议：摩根大通、其他公司在 Blackstone、Apollo、Ares Funds 上提供信用违约掉期",
         "summary": "(Updates with Morgan Stanley's response in the fourth paragraph.) JPMorgan Chase (JPM) and Barcla",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-125907432.html",
         "publisher": "MT Newswires",
         "publish_time": 1776430747,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
+        "title_zh": "市场热议：摩根大通等公司在 Blackstone、Apollo、Ares 基金上提供信用违约掉期",
+        "summary": "JPMorgan Chase (JPM) and Barclays (BCS) are among the Wall Street banks that recently started tradin",
+        "summary_zh": "摩根大通 (JPM) 和巴克莱 (BCS) 是最近开始交易的华尔街银行之一",
+        "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-093135984.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1776418295,
+        "type": "News"
+    },
+    {
+        "title": "Wealth management land grab drives deal boom amid private market upheaval",
+        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
+        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
+        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
+        "publisher": "Pitchbook",
+        "publish_time": 1776289768,
         "type": "News"
     }
 ]
