@@ -1,12 +1,22 @@
 [
     {
-        "title": "Anthropic, Amazon Tighten Bond in $5 Billion Investment and Computing Deal",
-        "title_zh": "Anthropic 与亚马逊在 50 亿美元投资和计算交易中加强债券合作",
-        "summary": "Amazon will invest as much as $25 billion in the AI company, which will secure up to 5 gigawatts in badly needed computing power in the pact.",
-        "summary_zh": "亚马逊将向这家人工智能公司投资高达 250 亿美元，这将确保该协议中急需的高达 5 吉瓦的计算能力。",
-        "link": "https://www.wsj.com/tech/ai/anthropic-amazon-tighten-bond-in-5-billion-investment-and-computing-deal-b9d8e513?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1776724260,
+        "title": "Amazon to invest up to $25 billion in Anthropic as part of deal",
+        "title_zh": "作为交易的一部分，亚马逊将向 Anthropic 投资高达 250 亿美元",
+        "summary": "STORY: Amazon said Monday that it will invest up to $25 billion in Anthropic.That's as the AI startup committed&nbsp;to spending more than $100 billion over the next 10 years on Amazon's cloud technologies.The e-commerce titan will be investing $5 billion now, and an additiona...",
+        "summary_zh": "故事：亚马逊周一表示，将向 Anthropic 投资高达 250 亿美元。这家人工智能初创公司承诺在未来 10 年内在亚马逊的云技术上投资超过 1000 亿美元。这家电子商务巨头现在将投资 50 亿美元，并追加...",
+        "link": "https://finance.yahoo.com/video/amazon-invest-25-billion-anthropic-085846354.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1776761926,
+        "type": "News"
+    },
+    {
+        "title": "Google Broadcom Chip Deal Puts Intel AI Foundry Goals Under Scrutiny",
+        "title_zh": "谷歌博通芯片交易让英特尔人工智能代工厂目标受到审视",
+        "summary": "Google is expanding its custom chip partnership with Broadcom, testing Intel's efforts to grow its AI focused foundry and custom silicon business.",
+        "summary_zh": "谷歌正在扩大与博通的定制芯片合作伙伴关系，测试英特尔发展其专注于人工智能的代工和定制芯片业务的努力。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/google-broadcom-chip-deal-puts-060431898.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1776751471,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-093135984.html",
         "publisher": "MT Newswires",
         "publish_time": 1776418295,
-        "type": "News"
-    },
-    {
-        "title": "Wealth management land grab drives deal boom amid private market upheaval",
-        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
-        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
-        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1776289768,
         "type": "News"
     }
 ]

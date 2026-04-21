@@ -1,5 +1,45 @@
 [
     {
+        "title": "Morning Brief: Mr. Warsh goes to Washington",
+        "title_zh": "早间简报：沃什先生前往华盛顿",
+        "summary": "United Airlines headlines today's earnings calendar, along with a big swath of corporate results across industries. We've also got a very close eye on retail sales, expected to come in strong as the consumer \"does it again\" despite some blustering headwinds.",
+        "summary_zh": "美国联合航空 (United Airlines) 成为今天财报日历的头条新闻，同时公布的还有各行业的大量企业业绩。我们还非常密切地关注零售销售，尽管面临一些巨大的阻力，但随着消费者“再次这样做”，零售销售预计将表现强劲。",
+        "link": "https://finance.yahoo.com/news/morning-brief-mr-warsh-goes-to-washington-100004961.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776765604,
+        "type": "News"
+    },
+    {
+        "title": "Meta is leading the Magnificent 7 rebound — and running straight into a wall: Chart of the Day",
+        "title_zh": "Meta 领先 7 点反弹，但直接撞墙：每日图表",
+        "summary": "Meta stock just came off an 11-day winning streak. The question is whether its rise has stalled.",
+        "summary_zh": "Meta 股票刚刚结束了 11 天的连涨。问题是它的上涨是否已经停止。",
+        "link": "https://finance.yahoo.com/markets/article/meta-is-leading-the-magnificent-7-rebound--and-running-straight-into-a-wall-chart-of-the-day-100000102.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776765600,
+        "type": "News"
+    },
+    {
+        "title": "Amazon to invest up to $25 billion in Anthropic as part of deal",
+        "title_zh": "作为交易的一部分，亚马逊将向 Anthropic 投资高达 250 亿美元",
+        "summary": "STORY: Amazon said Monday that it will invest up to $25 billion in Anthropic.That's as the AI startup committed&nbsp;to spending more than $100 billion over the next 10 years on Amazon's cloud technologies.The e-commerce titan will be investing $5 billion now, and an additiona...",
+        "summary_zh": "故事：亚马逊周一表示，将向 Anthropic 投资高达 250 亿美元。这家人工智能初创公司承诺在未来 10 年内在亚马逊的云技术上投资超过 1000 亿美元。这家电子商务巨头现在将投资 50 亿美元，并追加...",
+        "link": "https://finance.yahoo.com/video/amazon-invest-25-billion-anthropic-085846354.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1776761926,
+        "type": "News"
+    },
+    {
+        "title": "EssilorLuxottica faces test to grow smart glass sales without hurting margins",
+        "title_zh": "EssilorLuxottica 面临在不影响利润率的情况下增加智能玻璃销量的考验",
+        "summary": "Franco-Italian eyewear group EssilorLuxottica is facing growing pressure from investors to show how it can scale up its ambitions for smart glasses without sacrificing margins.",
+        "summary_zh": "法国-意大利眼镜集团 EssilorLuxottica 面临着来自投资者越来越大的压力，要求其展示如何在不牺牲利润的情况下扩大智能眼镜的雄心。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-faces-test-grow-smart-060411857.html",
+        "publisher": "Reuters",
+        "publish_time": 1776751451,
+        "type": "News"
+    },
+    {
         "title": "Apple's new CEO is a product perfectionist taking on the AI age",
         "title_zh": "苹果新任首席执行官是一位迎接人工智能时代的产品完美主义者",
         "summary": "To understand how Apple's new CEO John Ternus will run the company, pay attention to what he refuses to sell. \"We never think about shipping a technology,\" Ternus, 50, said in a recent interview about AI ‌with tech review site Tom's Guide.",
@@ -7,16 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/apples-ceo-product-perfectionist-taking-020847957.html",
         "publisher": "Reuters",
         "publish_time": 1776737327,
-        "type": "News"
-    },
-    {
-        "title": "Everything we know about Apple's new CEO John Ternus",
-        "title_zh": "关于苹果新任首席执行官约翰·特努斯（John Ternus）我们所知道的一切",
-        "summary": "John Ternus will become Apple's next CEO on Sept. 1. Here's what you need to know about him.",
-        "summary_zh": "John Ternus 将于 9 月 1 日成为苹果公司的下一任首席执行官。以下是您需要了解的关于他的信息。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/everything-we-know-about-apples-new-ceo-john-ternus-000314167.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776729794,
         "type": "News"
     },
     {
@@ -30,16 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, and Nasdaq futures inch up amid Apple CEO change and Iran uncertainty",
-        "title_zh": "今日股市：由于苹果首席执行官更换和伊朗不确定性，道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨",
-        "summary": "Major gauges eked out gains in a busy earnings season as Apple announces John Ternus for the top position.",
-        "summary_zh": "随着苹果公司宣布约翰·特努斯 (John Ternus) 担任首席执行官，主要指标在繁忙的财报季节中小幅上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-futures-inch-up-amid-apple-ceo-change-and-iran-uncertainty-231748168.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776727068,
-        "type": "News"
-    },
-    {
         "title": "Tim Cook is stepping down as Apple's CEO. Investors are $4 trillion richer because of him.",
         "title_zh": "蒂姆·库克将辞去苹果公司首席执行官一职。投资者因他而增加了 4 万亿美元。",
         "summary": "Tim Cook turned Apple into a $4 trillion behemoth during its 15 years as CEO.",
@@ -47,16 +67,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/tim-cook-is-stepping-down-as-apples-ceo-investors-are-4-trillion-richer-because-of-him-230325543.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1776726205,
-        "type": "News"
-    },
-    {
-        "title": "Tesla settles wrongful death lawsuit over crash that killed Florida teenager",
-        "title_zh": "特斯拉就导致佛罗里达青少年死亡的事故达成和解",
-        "summary": "Billionaire entrepreneur Elon Musk’s Tesla has settled a wrongful death lawsuit in Florida stemming from a 2018 high-speed crash that ‌killed a teenager riding in one of the electric vehicle maker's sedans, court records ‌show.",
-        "summary_zh": "法庭记录显示，亿万富翁企业家埃隆·马斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 已在佛罗里达州解决了一起非正常死亡诉讼，该诉讼起因于 2018 年一场高速车祸，导致一名乘坐这家电动汽车制造商一辆轿车的青少年死亡。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-settles-wrongful-death-lawsuit-214051605.html",
-        "publisher": "Reuters",
-        "publish_time": 1776721251,
         "type": "News"
     },
     {
@@ -70,23 +80,13 @@
         "type": "News"
     },
     {
-        "title": "How Tesla & Meta stocks are moving ahead of tech earnings",
-        "title_zh": "特斯拉和 Meta 股票如何领先于科技股盈利",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at Tesla's (TSLA) and Meta's (META) stock price action as we approach tech earnings.",
-        "summary_zh": "雅虎财经市场和数据编辑 Jared Blikre 在我们接近科技公司财报之际关注了特斯拉 (TSLA) 和 Meta (META) 的股价走势。",
-        "link": "https://finance.yahoo.com/video/how-tesla--meta-stocks-are-moving-ahead-of-tech-earnings-194712564.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776714432,
-        "type": "News"
-    },
-    {
-        "title": "Tesla is last in the 'Magnificent 7' rally — and the first tech giant to report earnings: Chart of the Day",
-        "title_zh": "特斯拉在“宏伟 7”涨势中排名最后，也是第一家公布收益的科技巨头：每日图表",
-        "summary": "Since the broader market's March 30 low, Tesla is up only 11%, dead last among its \"Magnificent Seven\" tech peers.",
-        "summary_zh": "自 3 月 30 日大盘触及低点以来​​，特斯拉仅上涨了 11%，在“七巨头”科技同行中垫底。",
-        "link": "https://finance.yahoo.com/markets/article/tesla-is-last-in-the-magnificent-7-rally--and-the-first-tech-giant-to-report-earnings-chart-of-the-day-173248863.html",
+        "title": "2 charts show why Magnificent 7 stocks are being loved again",
+        "title_zh": "两张图表显示为何 Magnificent 7 股票再次受到喜爱",
+        "summary": "The earnings growth potential of the Mag 7 continues to stand out.",
+        "summary_zh": "Mag 7的盈利增长潜力继续凸显。",
+        "link": "https://finance.yahoo.com/news/2-charts-show-why-magnificent-7-stocks-are-being-loved-again-151105348.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1776706368,
+        "publish_time": 1776697865,
         "type": "News"
     }
 ]
