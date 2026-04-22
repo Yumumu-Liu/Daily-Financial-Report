@@ -1,22 +1,42 @@
 [
     {
-        "title": "Amazon to invest up to $25 billion in Anthropic as part of deal",
-        "title_zh": "作为交易的一部分，亚马逊将向 Anthropic 投资高达 250 亿美元",
-        "summary": "STORY: Amazon said Monday that it will invest up to $25 billion in Anthropic.That's as the AI startup committed&nbsp;to spending more than $100 billion over the next 10 years on Amazon's cloud technologies.The e-commerce titan will be investing $5 billion now, and an additiona...",
-        "summary_zh": "故事：亚马逊周一表示，将向 Anthropic 投资高达 250 亿美元。这家人工智能初创公司承诺在未来 10 年内在亚马逊的云技术上投资超过 1000 亿美元。这家电子商务巨头现在将投资 50 亿美元，并追加...",
-        "link": "https://finance.yahoo.com/video/amazon-invest-25-billion-anthropic-085846354.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776761926,
+        "title": "SpaceX Has Deal for Right to Acquire Cursor for $60 Billion",
+        "title_zh": "SpaceX 已达成以 600 亿美元收购 Cursor 的权利",
+        "summary": "(Bloomberg) -- SpaceX said it has an agreement giving it the right to acquire artificial intelligence startup Cursor for $60 billion later this year or to pay $10 billion for the companies’ work together, part of the Elon Musk-run firm’s efforts to catch up with rivals in AI c...",
+        "summary_zh": "（彭博社）——SpaceX 表示，它已达成协议，有权在今年晚些时候以 600 亿美元收购人工智能初创公司 Cursor，或者为两家公司的合作支付 100 亿美元，这是埃隆·马斯克 (Elon Musk) 运营的公司在人工智能领域追赶竞争对手的努力的一部分。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/spacex-deal-acquire-cursor-60-003344236.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1776818024,
         "type": "News"
     },
     {
-        "title": "Google Broadcom Chip Deal Puts Intel AI Foundry Goals Under Scrutiny",
-        "title_zh": "谷歌博通芯片交易让英特尔人工智能代工厂目标受到审视",
-        "summary": "Google is expanding its custom chip partnership with Broadcom, testing Intel's efforts to grow its AI focused foundry and custom silicon business.",
-        "summary_zh": "谷歌正在扩大与博通的定制芯片合作伙伴关系，测试英特尔发展其专注于人工智能的代工和定制芯片业务的努力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/google-broadcom-chip-deal-puts-060431898.html",
+        "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie-up",
+        "title_zh": "沃达丰与谷歌合作为小型企业提供网络安全和人工智能功能",
+        "summary": "European mobile and broadband operator Vodafone said it would offer its ‌small business customers advanced cybersecurity and agentic ‌AI through its $1 billion strategic tie-up with Google Cloud agreed in ​October 2024.",
+        "summary_zh": "欧洲移动和宽带运营商沃达丰表示，将通过 2024 年 10 月与谷歌云达成的价值 10 亿美元的战略合作关系，为其小型企业客户提供先进的网络安全和代理人工智能。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/vodafone-offers-small-businesses-cybersecurity-230744486.html",
+        "publisher": "Reuters",
+        "publish_time": 1776812864,
+        "type": "News"
+    },
+    {
+        "title": "How The Bread Financial (BFH) Investment Story Is Shifting With Mixed Analyst Targets And New Deals",
+        "title_zh": "Bread Financial (BFH) 的投资故事如何随着分析师目标的混合和新交易而发生变化",
+        "summary": "Bread Financial Holdings has seen its modeled fair value edge from US$83.53 to US$85.53, a move of about US$2.00 that captures updated assumptions in recent analyst work.",
+        "summary_zh": "Bread Financial Holdings 的模型公允价值优势从 83.53 美元升至 85.53 美元，变动幅度约为 2.00 美元，反映了最近分析师工作中的最新假设。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bread-financial-bfh-investment-story-200547304.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1776751471,
+        "publish_time": 1776801947,
+        "type": "News"
+    },
+    {
+        "title": "Why DocuSign (DOCU) Still Attracts Takeover Speculation as It Pushes Deeper Into Intelligent Agreements",
+        "title_zh": "为什么 DocuSign (DOCU) 在深入推进智能协议的同时仍引起收购猜测",
+        "summary": "DocuSign, Inc. (NASDAQ:DOCU) is one of the 12 Takeover Rumors Targeted by Short Sellers. DocuSign, Inc. (NASDAQ:DOCU) is one of the takeover rumors targeted by short sellers.",
+        "summary_zh": "DocuSign, Inc.（纳斯达克股票代码：DOCU）是卖空者针对的 12 个收购传闻之一。 DocuSign, Inc.（纳斯达克股票代码：DOCU）是卖空者针对的收购传闻之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-docusign-docu-still-attracts-181847486.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1776795527,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/did-cisco-csco-astrix-deal-030812528.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1776568092,
-        "type": "News"
-    },
-    {
-        "title": "Update: Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
-        "title_zh": "更新：市场热议：摩根大通、其他公司在 Blackstone、Apollo、Ares Funds 上提供信用违约掉期",
-        "summary": "(Updates with Morgan Stanley's response in the fourth paragraph.) JPMorgan Chase (JPM) and Barcla",
-        "summary_zh": "（更新第四段中摩根士丹利的回应。）摩根大通 (JPM) 和巴克拉",
-        "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-125907432.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776430747,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: JPMorgan, Others Offering Credit Default Swaps on Blackstone, Apollo, Ares Funds",
-        "title_zh": "市场热议：摩根大通等公司在 Blackstone、Apollo、Ares 基金上提供信用违约掉期",
-        "summary": "JPMorgan Chase (JPM) and Barclays (BCS) are among the Wall Street banks that recently started tradin",
-        "summary_zh": "摩根大通 (JPM) 和巴克莱 (BCS) 是最近开始交易的华尔街银行之一",
-        "link": "https://finance.yahoo.com/markets/options/articles/market-chatter-jpmorgan-others-offering-093135984.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1776418295,
         "type": "News"
     }
 ]
