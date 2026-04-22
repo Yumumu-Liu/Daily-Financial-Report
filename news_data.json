@@ -1,5 +1,55 @@
 [
     {
+        "title": "Analysis-In the AI era, Apple's strengths may become its constraints",
+        "title_zh": "分析-AI时代，苹果的优势或将成为其制约",
+        "summary": "Apple built its empire on control. It also made Apple the world's top-valued company for much of the past decade, a position only overtaken by artificial ‌intelligence chipmaker Nvidia in 2024.",
+        "summary_zh": "苹果公司的帝国建立在控制之上。它还使苹果在过去十年的大部分时间里成为全球市值最高的公司，这一地位直到 2024 年才被人工智能芯片制造商 Nvidia 超越。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/analysis-ai-era-apples-strengths-100211972.html",
+        "publisher": "Reuters",
+        "publish_time": 1776852131,
+        "type": "News"
+    },
+    {
+        "title": "Morning Brief:  Ceasefire extended",
+        "title_zh": "早间简报：停火期限延长",
+        "summary": "Tesla opens its books today, kicking off Big Tech quarterly results.",
+        "summary_zh": "特斯拉今天开始营业，揭开了大型科技公司季度业绩的序幕。",
+        "link": "https://finance.yahoo.com/markets/article/morning-brief-ceasefire-extended-100000849.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776852000,
+        "type": "News"
+    },
+    {
+        "title": "Here are the best — and worst — times of the year to buy Apple stock: Chart of the Day",
+        "title_zh": "以下是一年中购买苹果股票的最佳和最差时间：每日图表",
+        "summary": "Historically, Apple stock tends to get its groove back in May. But before that seasonal tailwind kicks in, investors first have to get through a messy near-term setup: a dicey chart, a CEO transition, and earnings next week.",
+        "summary_zh": "从历史上看，苹果股票往往会在五月份恢复最佳状态。但在季节性顺风来临之前，投资者首先必须经历一个混乱的近期环境：不稳定的图表、首席执行官换届以及下周的盈利。",
+        "link": "https://finance.yahoo.com/markets/article/here-are-the-best--and-worst--times-of-the-year-to-buy-apple-stock-chart-of-the-day-100000816.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776852000,
+        "type": "News"
+    },
+    {
+        "title": "US investors crave predictability after Orban's overnight law changes",
+        "title_zh": "欧尔班一夜之间修改法律后，美国投资者渴望可预测性",
+        "summary": "By Gergely Szakacs BUDAPEST, April 22 (Reuters) - U.S. investors in Hungary are hoping for a return to predictable policymaking after years of abrupt law changes and ad hoc measures, following centre-",
+        "summary_zh": "布达佩斯 4 月 22 日（路透社）——匈牙利的美国投资者希望在经历了多年突然的法律变更和临时措施之后，匈牙利的政策制定能够恢复到可预测的状态。",
+        "link": "https://finance.yahoo.com/news/us-investors-crave-predictability-orbans-093434300.html",
+        "publisher": "Reuters",
+        "publish_time": 1776850474,
+        "type": "News"
+    },
+    {
+        "title": "Australian social media ban marred by weak platform checks, tech providers say",
+        "title_zh": "技术提供商表示，澳大利亚社交媒体禁令因平台检查薄弱而受到损害",
+        "summary": "Problems enforcing Australia's teen social media ban reflect social media platforms' weak deployment of tools available to run age checks rather than ‌the limits of the technology, an industry body representing the tech suppliers said.",
+        "summary_zh": "代表技术供应商的行业机构表示，澳大利亚青少年社交媒体禁令的执行问题反映了社交媒体平台用于运行年龄检查的工具部署薄弱，而不是技术的限制。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/australian-social-media-ban-marred-035805855.html",
+        "publisher": "Reuters",
+        "publish_time": 1776830285,
+        "type": "News"
+    },
+    {
         "title": "Tesla launches six-seater Model Y variant in India",
         "title_zh": "特斯拉在印度推出六座 Model Y 变体",
         "summary": "April 22 (Reuters) - U.S. electric-vehicle maker Tesla on Wednesday launched a six-seater version of its best-selling Model Y, priced at 6.2 million rupees ($66,324.35), the company's website showed.",
@@ -20,36 +70,6 @@
         "type": "News"
     },
     {
-        "title": "SpaceX Has Deal for Right to Acquire Cursor for $60 Billion",
-        "title_zh": "SpaceX 已达成以 600 亿美元收购 Cursor 的权利",
-        "summary": "(Bloomberg) -- SpaceX said it has an agreement giving it the right to acquire artificial intelligence startup Cursor for $60 billion later this year or to pay $10 billion for the companies’ work together, part of the Elon Musk-run firm’s efforts to catch up with rivals in AI c...",
-        "summary_zh": "（彭博社）——SpaceX 表示，它已达成协议，有权在今年晚些时候以 600 亿美元收购人工智能初创公司 Cursor，或者为两家公司的合作支付 100 亿美元，这是埃隆·马斯克 (Elon Musk) 运营的公司在人工智能领域追赶竞争对手的努力的一部分。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/spacex-deal-acquire-cursor-60-003344236.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1776818024,
-        "type": "News"
-    },
-    {
-        "title": "Vodafone offers small businesses cybersecurity, AI capability with Google tie-up",
-        "title_zh": "沃达丰与谷歌合作为小型企业提供网络安全和人工智能功能",
-        "summary": "European mobile and broadband operator Vodafone said it would offer its ‌small business customers advanced cybersecurity and agentic ‌AI through its $1 billion strategic tie-up with Google Cloud agreed in ​October 2024.",
-        "summary_zh": "欧洲移动和宽带运营商沃达丰表示，将通过 2024 年 10 月与谷歌云达成的价值 10 亿美元的战略合作关系，为其小型企业客户提供先进的网络安全和代理人工智能。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/vodafone-offers-small-businesses-cybersecurity-230744486.html",
-        "publisher": "Reuters",
-        "publish_time": 1776812864,
-        "type": "News"
-    },
-    {
-        "title": "Tesla, Boeing, IBM, Southwest earnings: What to Watch",
-        "title_zh": "特斯拉、波音、IBM、西南航空公司的财报：值得关注的内容",
-        "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow,&nbsp;Wednesday, April 22, including a torrent of earnings results from various companies that include GE Vernova (GEV), Boeing (BA), AT&T (T), Tesla (TSLA), International Business Mac...",
-        "summary_zh": "《寻求趋势》主持人乔希·利普顿 (Josh Lipton) 预览了明天（4 月 22 日星期三）即将发布的几个重大新闻，其中包括 GE Vernova (GEV)、波音 (BA)、AT&T (T)、特斯拉 (TSLA)、International Business Mac ...",
-        "link": "https://finance.yahoo.com/video/tesla-boeing-ibm-southwest-earnings-what-to-watch-230000127.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776812400,
-        "type": "News"
-    },
-    {
         "title": "Consumer watchdog group files suit alleging Meta profited on ads for scams",
         "title_zh": "消费者监督组织提起诉讼，指控 Meta 通过诈骗广告获利",
         "summary": "The Consumer Federation of America has filed a class-action complaint against Meta Platforms alleging that the social-media giant has profited ‌from advertising for fraudulent activities on its platforms and misled users about ‌its efforts to combat the problem.",
@@ -60,16 +80,6 @@
         "type": "News"
     },
     {
-        "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa",
-        "title_zh": "Meta 在俄克拉荷马州塔尔萨耗资超过 10 亿美元的数据中心破土动工",
-        "summary": "April 21 (Reuters) - Meta Platforms said on Tuesday it has begun construction on a new data center in Tulsa, Oklahoma, a project valued at more than $1 billion, as the Facebook-parent races to build",
-        "summary_zh": "路透 4 月 21 日 - Meta Platforms 周二表示，已开始在俄克拉荷马州塔尔萨建设一个新数据中心，该项目价值超过 10 亿美元，Facebook 母公司正在竞相建设",
-        "link": "https://finance.yahoo.com/news/meta-breaks-ground-over-1-203503596.html",
-        "publisher": "Reuters",
-        "publish_time": 1776803703,
-        "type": "News"
-    },
-    {
         "title": "Microsoft must face $2.8 billion UK lawsuit over cloud computing licences",
         "title_zh": "微软必须在英国面临 28 亿美元云计算许可证诉讼",
         "summary": "LONDON, April 21 () - Microsoft must face a mass lawsuit alleging it overcharged thousands of British businesses to use Windows Server software on ‌cloud computing services provided by Amazon, Google and Alibaba, a London tribunal ‌ruled on Tuesday.",
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-164222406.html",
         "publisher": "Reuters",
         "publish_time": 1776801706,
-        "type": "News"
-    },
-    {
-        "title": "What Apple's CEO shake-up suggests about its upcoming earnings",
-        "title_zh": "苹果首席执行官的变动对其即将发布的财报有何暗示",
-        "summary": "Apple (AAPL) CEO Tim Cook is stepping down and will be replaced by John Ternus. Visible Alpha head of TMT research Melissa Otto and B. Riley Wealth chief market strategist Art Hogan break down what the CEO shake-up could indicate about the company's upcoming earnings results.",
-        "summary_zh": "苹果公司 (AAPL) 首席执行官蒂姆·库克 (Tim Cook) 辞职，由约翰·特努斯 (John Ternus) 接任。 Visible Alpha TMT 研究主管梅丽莎·奥托 (Melissa Otto) 和 B.",
-        "link": "https://finance.yahoo.com/video/what-apples-ceo-shake-up-suggests-about-its-upcoming-earnings-200000895.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776801600,
         "type": "News"
     }
 ]
