@@ -1,22 +1,12 @@
 [
     {
-        "title": "Potential NVIDIA Deal Puts Fresh Focus On HP’s AI PC Future",
-        "title_zh": "NVIDIA 潜在交易让惠普 AI PC 的未来重新受到关注",
-        "summary": "NVIDIA is reported to be in advanced talks to acquire a major PC manufacturer, with HP and Dell widely viewed as the main candidates.",
-        "summary_zh": "据报道，NVIDIA 正在就收购一家主要 PC 制造商进行深入谈判，惠普和戴尔被广泛视为主要候选者。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/potential-nvidia-deal-puts-fresh-010847870.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1776906527,
-        "type": "News"
-    },
-    {
-        "title": "Is Microsoft Corporation (MSFT) a Top AI Play on Azure Growth and Memory Supply Deal",
-        "title_zh": "微软公司 (MSFT) 是 Azure 增长和内存供应交易中的顶级人工智能公司吗",
-        "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the top S&P 500 stocks by index weight. On April 15, KeyBanc reiterated an Overweight rating on Microsoft Corporation (NASDAQ:MSFT) and a $600 price target.",
-        "summary_zh": "微软公司（纳斯达克股票代码：MSFT）是标准普尔 500 指数权重排名前列的股票之一。 4 月 15 日，KeyBanc 重申对微软公司（纳斯达克股票代码：MSFT）的增持评级和 600 美元的目标价。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-top-ai-205018341.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1776891018,
+        "title": "ServiceNow tumbles 13% as ME deal delays and conservative guide spook investors",
+        "title_zh": "由于 ME 交易延迟和保守的指导方针吓坏了投资者，ServiceNow 暴跌 13%",
+        "summary": "Investing.com -- ServiceNow Inc (NYSE:NOW) reported first-quarter results that met analyst expectations but tumbled 13% in premarket trading on Thursday after deal slippage in the Middle East and conservative guidance unsettled investors.",
+        "summary_zh": "Investing.com——ServiceNow Inc（纽约证券交易所股票代码：NOW）公布的第一季度业绩符合分析师预期，但周四盘前交易中股价下跌 13%，原因是中东交易滑坡和保守指引令投资者感到不安。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/servicenow-falls-12-full-subscription-205502749.html",
+        "publisher": "Investing.com",
+        "publish_time": 1776891302,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://www.barrons.com/advisor/articles/modern-wealth-brown-company-acquisition-eea81c4d?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1776881040,
+        "type": "News"
+    },
+    {
+        "title": "Wealth management land grab drives deal boom amid private market upheaval",
+        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
+        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
+        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
+        "publisher": "Pitchbook",
+        "publish_time": 1776289768,
         "type": "News"
     }
 ]
