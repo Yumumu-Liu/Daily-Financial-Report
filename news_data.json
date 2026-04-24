@@ -1,12 +1,52 @@
 [
     {
-        "title": "Elon Musk sounds cautious note on robotaxis as rollout goes slow",
-        "title_zh": "由于推出速度缓慢，埃隆·马斯克对机器人出租车持谨慎态度",
-        "summary": "STORY: The rollout of Tesla’s robotaxi business looks to be going slower than expected.That was the verdict from several Wall Street analysts Thursday (April 23), following an unusually downbeat update from Elon Musk the day before.Over the past year, the billionaire has outli...",
-        "summary_zh": "故事：特斯拉机器人出租车业务的推出似乎比预期要慢。这是周四（4 月 23 日）几位华尔街分析师的结论，前一天埃隆·马斯克发布了异常悲观的最新消息。在过去的一年里，这位亿万富翁的表现超出了...",
-        "link": "https://finance.yahoo.com/video/elon-musk-sounds-cautious-note-034911564.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1777002551,
+        "title": "Analysis-At SpaceX, AI is burning the cash that Starlink earns",
+        "title_zh": "分析——在 SpaceX，AI 正在烧掉 Starlink 赚到的现金",
+        "summary": "By Aditya Soni and Sayantani Ghosh April 24 (Reuters) - Elon Musk is touting SpaceX as humanity's ticket to Mars.",
+        "summary_zh": "作者：Aditya Soni 和 Sayantani Ghosh 4 月 24 日（路透社）——埃隆·马斯克将 SpaceX 视为人类前往火星的门票。",
+        "link": "https://finance.yahoo.com/news/analysis-spacex-ai-burning-cash-100737886.html",
+        "publisher": "Reuters",
+        "publish_time": 1777025257,
+        "type": "News"
+    },
+    {
+        "title": "Intel set for record high as AI-driven CPU demand powers upbeat forecast",
+        "title_zh": "人工智能驱动的 CPU 需求推动乐观预测，英特尔创下历史新高",
+        "summary": "Intel shares jumped more than 22% in premarket trade on Friday as the chipmaker's robust revenue outlook signaled strong demand for the hardware needed to run advanced ‌AI models.",
+        "summary_zh": "周五盘前交易中，英特尔股价上涨超过 22%，这家芯片制造商强劲的收入前景表明对运行先进 AI 模型所需硬件的强劲需求。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/intel-set-record-high-ai-092759367.html",
+        "publisher": "Reuters",
+        "publish_time": 1777022879,
+        "type": "News"
+    },
+    {
+        "title": "China to Curb US Investment in Tech Companies After Meta Deal",
+        "title_zh": "元交易后中国将限制美国对科技公司的投资",
+        "summary": "(Bloomberg) -- Chinese regulators plan to restrict technology firms including some of the country’s highest-profile AI pioneers from accepting US capital without government approval, part of Beijing’s broader response to Meta Platforms Inc.’s controversial acquisition of start...",
+        "summary_zh": "（彭博社）——中国监管机构计划限制科技公司，包括中国一些最知名的人工智能先驱者，在未经政府批准的情况下接受美国资本，这是北京方面对 Meta Platforms Inc. 有争议的收购初创公司的更广泛回应的一部分。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/china-curb-us-investment-tech-092346046.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777022626,
+        "type": "News"
+    },
+    {
+        "title": "Tesla Starts Production of Cybercab Robotaxi, Musk Says",
+        "title_zh": "马斯克表示，特斯拉开始生产 Cyber​​cab Robotaxi",
+        "summary": "(Bloomberg) -- Tesla Inc.",
+        "summary_zh": "（彭博社）——特斯拉公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-starts-production-cybercab-robotaxi-090555094.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777021555,
+        "type": "News"
+    },
+    {
+        "title": "China's AI darling DeepSeek previews new model adapted for Huawei chip technology",
+        "title_zh": "中国AI宠儿DeepSeek预览适用华为芯片技术的新模型",
+        "summary": "BEIJING, April 24 (Reuters) - DeepSeek, the Chinese artificial intelligence startup whose low-cost model stunned the world last year, on Friday launched a preview of its highly awaited new model adapted ‌for Huawei chip technology, underlining China's growing prowess in the se...",
+        "summary_zh": "路透北京 4 月 24 日 - 中国人工智能初创公司 DeepSeek 于去年以低成本模式震惊世界，周五推出了备受期待的适用华为芯片技术的新模式预览，突显了中国在人工智能领域不断增强的实力。",
+        "link": "https://finance.yahoo.com/news/chinas-deepseek-returns-model-viral-031101640.html",
+        "publisher": "Reuters",
+        "publish_time": 1777015358,
         "type": "News"
     },
     {
@@ -20,16 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Xiaomi has delivered 26,000 units of upgraded SU7 series sedan",
-        "title_zh": "小米升级版SU7系列轿车已交付2.6万辆",
-        "summary": "Xiaomi, a well-known maker of ‌smart consumer electronics in China, ‌said on Friday that it had ​delivered 26,000 units of its upgraded SU7 series, which launched in March.",
-        "summary_zh": "中国知名智能消费电子产品制造商小米周五表示，其 3 月份推出的升级版 SU7 系列已交付 26,000 台。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/xiaomi-delivered-26-000-units-014207436.html",
-        "publisher": "Reuters",
-        "publish_time": 1776994927,
-        "type": "News"
-    },
-    {
         "title": "Amazon-Backed Nuclear Firm X-Energy Raises $1.02 Billion in IPO",
         "title_zh": "亚马逊支持的核电公司 X-Energy 通过 IPO 筹集 10.2 亿美元",
         "summary": "(Bloomberg) -- X-Energy Inc., a nuclear energy firm that counts Amazon.com Inc.",
@@ -40,23 +70,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Israel and Lebanon announce 3-week ceasefire extension",
-        "title_zh": "今日股市：以色列和黎巴嫩宣布延长停火三周后道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨",
-        "summary": "Major gauges were little changed by an announcement that Israel and Lebanon will extend their ceasefire.",
-        "summary_zh": "以色列和黎巴嫩宣布将延长停火，主要指标几乎没有变化。",
+        "title": "Stock market today: Nasdaq futures climb as Intel soars, while Hormuz tensions keep markets on edge",
+        "title_zh": "今日股市：随着英特尔飙升，纳斯达克期货攀升，而霍尔木兹紧张局势使市场紧张不安",
+        "summary": "Investors are assessing Trump's announcement that Israel and Lebanon will extend their ceasefire.",
+        "summary_zh": "投资者正在评估特朗普宣布以色列和黎巴嫩将延长停火的消息。",
         "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1776984347,
-        "type": "News"
-    },
-    {
-        "title": "Stocks close lower on fading hopes for quick Iran deal",
-        "title_zh": "由于伊朗快速达成协议的希望减弱，股市收低",
-        "summary": "STORY: Wall Street's main indexes closed lower on Thursday, with the Dow dipping more than a third of a percent, the S&P 500 shedding about four-tenths of a percent and the tech-heavy Nasdaq dropping roughly nine-tenths of a percent.Hopes dimmed for a quick end to the Middle E...",
-        "summary_zh": "故事：华尔街主要股指周四收低，其中道琼斯指数下跌逾三分之一，标准普尔 500 指数下跌约十分之四，而以科技股为主的纳斯达克指数下跌约十分之九。中东经济快速结束的希望越来越渺茫……",
-        "link": "https://finance.yahoo.com/video/stocks-close-lower-fading-hopes-222722717.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776983242,
         "type": "News"
     },
     {
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/bezos-physical-ai-lab-closed-204011972.html",
         "publisher": "Bloomberg",
         "publish_time": 1776976811,
-        "type": "News"
-    },
-    {
-        "title": "Why Microsoft is offering its first voluntary employee buyout",
-        "title_zh": "为什么微软要提供首次员工自愿买断",
-        "summary": "Microsoft (MSFT) is planning its first-ever voluntary employee buyout for up to 7% of its US workforce. Yahoo Finance Tech Editor Dan Howley discusses the news in the video above.",
-        "summary_zh": "微软 (MSFT) 正计划对其美国最多 7% 的员工进行有史以来的首次自愿员工买断。雅虎财经技术编辑 Dan Howley 在上面的视频中讨论了这一消息。",
-        "link": "https://finance.yahoo.com/video/why-microsoft-is-offering-its-first-voluntary-employee-buyout-195448856.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776974088,
-        "type": "News"
-    },
-    {
-        "title": "Meta plans to cut about 8K jobs amid ramped-up AI spending",
-        "title_zh": "Meta 计划因人工智能支出增加而裁员约 8K",
-        "summary": "Meta (META) confirmed it will be cutting 10% of its workforce — about 8,000 employees. Yahoo Finance Tech Editor Dan Howley explains what we know so far.",
-        "summary_zh": "Meta (META) 确认将裁员 10%，即约 8,000 名员工。雅虎财经技术编辑丹·豪利 (Dan Howley) 解释了我们目前所知的情况。",
-        "link": "https://finance.yahoo.com/video/meta-plans-to-cut-about-8k-jobs-amid-ramped-up-ai-spending-194930746.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776973770,
         "type": "News"
     }
 ]

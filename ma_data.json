@@ -1,5 +1,15 @@
 [
     {
+        "title": "Forget Innovation! Tim Cook's Greatest Contribution to Apple Is This $841 Billion Acquisition.",
+        "title_zh": "忘记创新！蒂姆·库克对苹果最大的贡献就是这次8410亿美元的收购。",
+        "summary": "This investment directly boosted Apple's earnings per share, but has absolutely nothing to do with innovation.",
+        "summary_zh": "这项投资直接提升了苹果的每股收益，但与创新完全无关。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-innovation-tim-cooks-greatest-082600513.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777019160,
+        "type": "News"
+    },
+    {
         "title": "Stocks close lower on fading hopes for quick Iran deal",
         "title_zh": "由于伊朗快速达成协议的希望减弱，股市收低",
         "summary": "STORY: Wall Street's main indexes closed lower on Thursday, with the Dow dipping more than a third of a percent, the S&P 500 shedding about four-tenths of a percent and the tech-heavy Nasdaq dropping roughly nine-tenths of a percent.Hopes dimmed for a quick end to the Middle E...",
@@ -30,23 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Meta slashes 8,000 jobs, or 10% of its workforce, as Microsoft offers buyouts",
-        "title_zh": "微软提出买断，Meta 裁员 8,000 人，占员工总数的 10%",
-        "summary": "Meta is laying off about 8,000 workers, or about 10% of its workforce, the company said Thursday as it continues to ramp up spending on artificial intelligence infrastructure and highly paid AI-expert hires.",
-        "summary_zh": "Meta 公司周四表示，由于继续增加人工智能基础设施和高薪人工智能专家招聘的支出，该公司将裁员约 8,000 名员工，约占其员工总数的 10%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/meta-slashes-8-000-jobs-193542206.html",
-        "publisher": "Associated Press",
-        "publish_time": 1776972942,
-        "type": "News"
-    },
-    {
-        "title": "Amid grim BDC headlines, Blackstone Private Credit pays up for $850M bond offering",
-        "title_zh": "在严峻的 BDC 头条新闻中，Blackstone Private Credit 支付了 8.5 亿美元的债券发行费用",
-        "summary": "Blackstone Private Credit Fund (BCRED) on April 22 placed $850 million of 5.95% five-year notes due May 15, 2031 at T+230. Proceeds will be used for general corporate purposes, including to repay existing debt, according to regulatory filings.",
-        "summary_zh": "Blackstone Private Credit Fund (BCRED) 于 4 月 22 日发行了 8.5 亿美元、利率为 5.95%、于 2031 年 5 月 15 日到期、利率为 T+230 的五年期票据。根据监管文件，所得款项将用于一般公司用途，包括偿还现有债务。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amid-grim-bdc-headlines-blackstone-174546672.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1776966346,
+        "title": "Meta to cut 8,000 jobs, Microsoft offers buyouts to to staff as AI spending costs hit Big Tech workers",
+        "title_zh": "Meta 将裁员 8,000 人，微软向员工提供买断，因为人工智能支出成本打击了大型科技员工",
+        "summary": "Meta and Microsoft are the latest Big Tech giants to trim staff as AI costs continue to balloon.",
+        "summary_zh": "随着人工智能成本持续飙升，Meta 和微软是最新裁员的大型科技巨头。",
+        "link": "https://finance.yahoo.com/markets/article/meta-to-cut-8000-jobs-microsoft-offers-buyouts-to-to-staff-as-ai-spending-costs-hit-big-tech-workers-182722919.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1776968842,
         "type": "News"
     }
 ]
