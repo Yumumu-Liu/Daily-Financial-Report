@@ -1,5 +1,25 @@
 [
     {
+        "title": "Is the AI Gold Rush Still On? A Historical Look at Amazon's AWS Offers a Compellingly Clear Answer.",
+        "title_zh": "人工智能淘金热还在继续吗？对亚马逊 AWS 的历史回顾提供了令人信服的清晰答案。",
+        "summary": "Amazon has been one of the early AI winners.",
+        "summary_zh": "亚马逊是早期人工智能的赢家之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-gold-rush-still-historical-083000090.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777105800,
+        "type": "News"
+    },
+    {
+        "title": "Will There Be a Stock Market Crash Under President Donald Trump? One Forecasting Tool With 155 Years of History in Its Sails Offers an Answer.",
+        "title_zh": "唐纳德·特朗普总统领导下的股市会崩盘吗？一款拥有 155 年历史的预测工具提供了答案。",
+        "summary": "This measure has an immaculate track record of predicting big moves for stocks.",
+        "summary_zh": "这项指标在预测股市大幅波动方面有着完美的记录。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-under-president-082600989.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777105560,
+        "type": "News"
+    },
+    {
         "title": "AVGO's Google Deal Aids Infrastructure Software Growth: What's Ahead?",
         "title_zh": "AVGO 与 Google 的交易有助于基础设施软件的增长：未来是什么？",
         "summary": "Broadcom teams up with Google Cloud to launch Cloud Network Insights, offering end-to-end observability for multi-cloud, hybrid and SaaS environments.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/firestone-country-club-ownership-could-203418723.html",
         "publisher": "Akron Beacon Journal",
         "publish_time": 1776890058,
-        "type": "News"
-    },
-    {
-        "title": "Wealth management land grab drives deal boom amid private market upheaval",
-        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
-        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
-        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1776289768,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]

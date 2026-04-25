@@ -1,15 +1,5 @@
 [
     {
-        "title": "Related Digital secures financing for $16 billion Oracle data center in Michigan",
-        "title_zh": "Related Digital 为密歇根州 Oracle 数据中心融资 160 亿美元",
-        "summary": "Data center developer Related Digital said on Friday it has secured financing ‌for a $16 billion data center campus it ‌is building in Michigan for Oracle.",
-        "summary_zh": "数据中心开发商Related Digital周五表示，该公司已为甲骨文在密歇根州建造的耗资160亿美元的数据中心园区获得融资。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/related-digital-secures-financing-16-234046270.html",
-        "publisher": "Reuters",
-        "publish_time": 1777074046,
-        "type": "News"
-    },
-    {
         "title": "US judge dismisses Musk's fraud claims in OpenAI case at his request, plans to proceed to trial",
         "title_zh": "美国法官应要求驳回马斯克在 OpenAI 案件中的欺诈指控，计划继续审理",
         "summary": "A U.S. judge on Friday dismissed Elon Musk's fraud claims in ‌his lawsuit accusing OpenAI and co-founder ‌Sam Altman of betraying OpenAI's original mission, but plans ​to proceed to trial on Musk's breach of charitable trust and unjust enrichment claims.",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/whats-next-for-tesla-144249454.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1777041769,
+        "type": "News"
+    },
+    {
+        "title": "Stock buybacks stay hot, while Big Tech beasts like Meta lay off workers en masse",
+        "title_zh": "股票回购持续火热，而 Meta 等大型科技巨头大规模裁员",
+        "summary": "While the HR departments at Big Tech work overtime to craft exit packages and collect laptops from laid-off workers, companies also appear to be working overtime to repurchase stock.",
+        "summary_zh": "虽然大型科技公司的人力资源部门加班加点地制作退出方案并从下岗工人那里收集笔记本电脑，但公司似乎也在加班加点地回购股票。",
+        "link": "https://finance.yahoo.com/news/stock-buybacks-stay-hot-while-big-tech-beasts-like-meta-lay-off-workers-en-masse-130850382.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777036130,
         "type": "News"
     }
 ]
