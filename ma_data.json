@@ -1,22 +1,12 @@
 [
     {
-        "title": "Forget Innovation! Tim Cook's Greatest Contribution to Apple Is This $841 Billion Acquisition.",
-        "title_zh": "忘记创新！蒂姆·库克对苹果最大的贡献就是这次8410亿美元的收购。",
-        "summary": "This investment directly boosted Apple's earnings per share, but has absolutely nothing to do with innovation.",
-        "summary_zh": "这项投资直接提升了苹果的每股收益，但与创新完全无关。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-innovation-tim-cooks-greatest-082600513.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1777019160,
-        "type": "News"
-    },
-    {
-        "title": "Stocks close lower on fading hopes for quick Iran deal",
-        "title_zh": "由于伊朗快速达成协议的希望减弱，股市收低",
-        "summary": "STORY: Wall Street's main indexes closed lower on Thursday, with the Dow dipping more than a third of a percent, the S&P 500 shedding about four-tenths of a percent and the tech-heavy Nasdaq dropping roughly nine-tenths of a percent.Hopes dimmed for a quick end to the Middle E...",
-        "summary_zh": "故事：华尔街主要股指周四收低，其中道琼斯指数下跌逾三分之一，标准普尔 500 指数下跌约十分之四，而以科技股为主的纳斯达克指数下跌约十分之九。中东经济快速结束的希望越来越渺茫……",
-        "link": "https://finance.yahoo.com/video/stocks-close-lower-fading-hopes-222722717.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1776983242,
+        "title": "AVGO's Google Deal Aids Infrastructure Software Growth: What's Ahead?",
+        "title_zh": "AVGO 与 Google 的交易有助于基础设施软件的增长：未来是什么？",
+        "summary": "Broadcom teams up with Google Cloud to launch Cloud Network Insights, offering end-to-end observability for multi-cloud, hybrid and SaaS environments.",
+        "summary_zh": "Broadcom 与 Google Cloud 合作推出 Cloud Network Insights，为多云、混合和 SaaS 环境提供端到端可观察性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/avgos-google-deal-aids-infrastructure-150500292.html",
+        "publisher": "Zacks",
+        "publish_time": 1777043100,
         "type": "News"
     },
     {
@@ -30,23 +20,33 @@
         "type": "News"
     },
     {
-        "title": "Why Microsoft is offering its first voluntary employee buyout",
-        "title_zh": "为什么微软要提供首次员工自愿买断",
-        "summary": "Microsoft (MSFT) is planning its first-ever voluntary employee buyout for up to 7% of its US workforce. Yahoo Finance Tech Editor Dan Howley discusses the news in the video above.",
-        "summary_zh": "微软 (MSFT) 正计划对其美国最多 7% 的员工进行有史以来的首次自愿员工买断。雅虎财经技术编辑 Dan Howley 在上面的视频中讨论了这一消息。",
-        "link": "https://finance.yahoo.com/video/why-microsoft-is-offering-its-first-voluntary-employee-buyout-195448856.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1776974088,
+        "title": "Firestone Country Club ownership could change as part of $3B deal",
+        "title_zh": "作为 30 亿美元交易的一部分，Firestone 乡村俱乐部的所有权可能会发生变化",
+        "summary": "Private equity firm KSL Capital Partners seeks to buy Invited Clubs — which has Firestone Country Club and Silver Lake County Club in its holdings.",
+        "summary_zh": "私募股权公司 KSL Capital Partners 寻求收购 Invited Clubs，该俱乐部旗下拥有凡士通乡村俱乐部 (Firestone Country Club) 和银湖乡村俱乐部 (Silver Lake County Club)。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/firestone-country-club-ownership-could-203418723.html",
+        "publisher": "Akron Beacon Journal",
+        "publish_time": 1776890058,
         "type": "News"
     },
     {
-        "title": "Meta to cut 8,000 jobs, Microsoft offers buyouts to to staff as AI spending costs hit Big Tech workers",
-        "title_zh": "Meta 将裁员 8,000 人，微软向员工提供买断，因为人工智能支出成本打击了大型科技员工",
-        "summary": "Meta and Microsoft are the latest Big Tech giants to trim staff as AI costs continue to balloon.",
-        "summary_zh": "随着人工智能成本持续飙升，Meta 和微软是最新裁员的大型科技巨头。",
-        "link": "https://finance.yahoo.com/markets/article/meta-to-cut-8000-jobs-microsoft-offers-buyouts-to-to-staff-as-ai-spending-costs-hit-big-tech-workers-182722919.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1776968842,
+        "title": "Wealth management land grab drives deal boom amid private market upheaval",
+        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
+        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
+        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
+        "publisher": "Pitchbook",
+        "publish_time": 1776289768,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
