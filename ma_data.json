@@ -1,12 +1,22 @@
 [
     {
-        "title": "Is the AI Gold Rush Still On? A Historical Look at Amazon's AWS Offers a Compellingly Clear Answer.",
-        "title_zh": "人工智能淘金热还在继续吗？对亚马逊 AWS 的历史回顾提供了令人信服的清晰答案。",
-        "summary": "Amazon has been one of the early AI winners.",
-        "summary_zh": "亚马逊是早期人工智能的赢家之一。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-gold-rush-still-historical-083000090.html",
+        "title": "SIL and SLV Offer Distinct Silver Investment Choices, But Which Is the Better Buy Right Now?",
+        "title_zh": "SIL 和 SLV 提供不同的白银投资选择，但现在购买哪个更好？",
+        "summary": "Expense ratios, volatility, and portfolio makeup set these two silver ETFs apart.",
+        "summary_zh": "费用比率、波动性和投资组合构成使这两只白银 ETF 与众不同。",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/sil-slv-offer-distinct-silver-001152781.html",
         "publisher": "Motley Fool",
-        "publish_time": 1777105800,
+        "publish_time": 1777162312,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft Buyout Signals AI Focus And Generational Shift In Workforce",
+        "title_zh": "微软收购标志着人工智能的焦点和劳动力的代际转变",
+        "summary": "Microsoft (NasdaqGS:MSFT) has launched its first large scale voluntary buyout program in the U.S., targeting roughly 7% of its domestic workforce. The offer is aimed at senior director level and below employees who meet a defined age plus tenure threshold.",
+        "summary_zh": "微软 (NasdaqGS:MSFT) 在美国启动了首个大规模自愿收购计划，目标对象为约 7% 的国内员工。该优惠针对高级主管级别以及符合规定年龄和任期门槛的以下员工。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-buyout-signals-ai-focus-180634257.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1777140394,
         "type": "News"
     },
     {
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/avgos-google-deal-aids-infrastructure-150500292.html",
         "publisher": "Zacks",
         "publish_time": 1777043100,
-        "type": "News"
-    },
-    {
-        "title": "4 Financial Pros Offer 5 Stocks, 3 ETFs to Play the Software Bust",
-        "title_zh": "4 名金融专业人士提供 5 只股票、3 只 ETF 来应对软件泡沫破灭",
-        "summary": "Software stocks tumbled again after IBM and ServiceNow earnings. But cybersecurity and data stocks may be bargains.",
-        "summary_zh": "IBM 和 ServiceNow 公布财报后，软件股再次暴跌。但网络安全和数据股票可能很便宜。",
-        "link": "https://www.barrons.com/articles/software-stock-selloff-buy-etfs-449ffc46?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1776977220,
         "type": "News"
     },
     {
