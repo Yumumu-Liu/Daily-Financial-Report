@@ -1,12 +1,42 @@
 [
     {
-        "title": "Does a Merger With iHeartRadio Make Sirius Stock a Buy?",
-        "title_zh": "与 iHeartRadio 的合并是否会使 Sirius 股票值得买入？",
-        "summary": "Reports that iHeartMedia (NASDAQ:IHRT) and Sirius XM Holdings (NASDAQ:SIRI) are in early merger talks immediately sent shockwaves through the audio media space. Investors clearly liked one side of the equation more than the other.",
-        "summary_zh": "有关 iHeartMedia（纳斯达克股票代码：IHRT）和 Sirius XM Holdings（纳斯达克股票代码：SIRI）正在进行早期合并谈判的报道立即在音频媒体领域引起了震动。投资者显然更喜欢等式的一侧而不是另一侧。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/does-merger-iheartradio-sirius-stock-151049373.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1777216249,
+        "title": "India’s Sun Pharma Plots $12 Billion Organon Buyout For Global Reach",
+        "title_zh": "印度 Sun Pharma 计划斥资 120 亿美元收购 Organon 扩大全球影响力",
+        "summary": "(Bloomberg) -- Sun Pharmaceutical Industries Ltd.",
+        "summary_zh": "（彭博社）——太阳制药工业有限公司",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/sun-pharma-buys-jersey-based-082053242.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777285006,
+        "type": "News"
+    },
+    {
+        "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
+        "title_zh": "中国阻止 Meta 以 20 亿美元收购人工智能公司 Manus",
+        "summary": "(Bloomberg) -- China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.Most Read from BloombergThe Billion-Barrel Hormuz Oil Sh...",
+        "summary_zh": "（彭博社）——中国决定阻止 Meta Platforms Inc. 以 20 亿美元收购代理人工智能初创公司 Manus，此举出人意料，旨在解除一项因向美国泄露技术而引发争议的争议交易。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/china-blocks-meta-2-billion-095700004.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777283820,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street banks offered Anthropic access on sharply different fees",
+        "title_zh": "华尔街银行以截然不同的费用提供 Anthropic 访问权限",
+        "summary": "Morgan Stanley charged a flat 1% transaction fee, while Goldman Sachs proposed a costlier structure involving ongoing management fees and a profit share.",
+        "summary_zh": "摩根士丹利收取 1% 的固定交易费，而高盛提出了一种成本更高的结构，涉及持续管理费和利润分成。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-banks-offered-anthropic-084900096.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1777279740,
+        "type": "News"
+    },
+    {
+        "title": "Forvia Sells Auto Interiors Business to Apollo Funds in $2.1 Billion Deal",
+        "title_zh": "Forvia 以 21 亿美元的价格将汽车内饰业务出售给 Apollo Funds",
+        "summary": "The French auto parts supplier said the deal allows it to sharpen focus on high value-added, technology-driven activities, while shoring up its balance sheet.",
+        "summary_zh": "这家法国汽车零部件供应商表示，此次交易使其能够更加关注高附加值、技术驱动的活动，同时支撑其资产负债表。",
+        "link": "https://www.wsj.com/business/deals/forvia-sells-auto-interiors-business-to-apollo-funds-in-2-1-billion-deal-608e1b62?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1777271340,
         "type": "News"
     },
     {
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/morningstar-says-software-stocks-havent-145000351.html",
         "publisher": "Motley Fool",
         "publish_time": 1777215000,
-        "type": "News"
-    },
-    {
-        "title": "After the S&P 500's Historic Comeback, Should You Wait to Buy Stocks? History Offers a Clear Answer",
-        "title_zh": "标准普尔 500 指数历史性卷土重来后，您应该等待购买股票吗？历史给出了明确的答案",
-        "summary": "Can the market keep climbing after a historic April?",
-        "summary_zh": "在经历了历史性的四月之后，市场能否继续攀升？",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500s-historic-comeback-wait-121800719.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1777205880,
-        "type": "News"
-    },
-    {
-        "title": "AVGO's Google Deal Aids Infrastructure Software Growth: What's Ahead?",
-        "title_zh": "AVGO 与 Google 的交易有助于基础设施软件的增长：未来是什么？",
-        "summary": "Broadcom teams up with Google Cloud to launch Cloud Network Insights, offering end-to-end observability for multi-cloud, hybrid and SaaS environments.",
-        "summary_zh": "Broadcom 与 Google Cloud 合作推出 Cloud Network Insights，为多云、混合和 SaaS 环境提供端到端可观察性。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/avgos-google-deal-aids-infrastructure-150500292.html",
-        "publisher": "Zacks",
-        "publish_time": 1777043100,
-        "type": "News"
-    },
-    {
-        "title": "Firestone Country Club ownership could change as part of $3B deal",
-        "title_zh": "作为 30 亿美元交易的一部分，Firestone 乡村俱乐部的所有权可能会发生变化",
-        "summary": "Private equity firm KSL Capital Partners seeks to buy Invited Clubs — which has Firestone Country Club and Silver Lake County Club in its holdings.",
-        "summary_zh": "私募股权公司 KSL Capital Partners 寻求收购 Invited Clubs，该俱乐部旗下拥有凡士通乡村俱乐部 (Firestone Country Club) 和银湖乡村俱乐部 (Silver Lake County Club)。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/firestone-country-club-ownership-could-203418723.html",
-        "publisher": "Akron Beacon Journal",
-        "publish_time": 1776890058,
         "type": "News"
     }
 ]
