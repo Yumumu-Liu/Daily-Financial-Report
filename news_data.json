@@ -1,32 +1,82 @@
 [
     {
-        "title": "Trump bought at least $51 million in bonds in March, disclosure shows",
-        "title_zh": "披露显示，特朗普3月份购买了至少5100万美元的债券",
-        "summary": "By Laura Matthews NEW YORK, April 25 (Reuters) - U.S.",
-        "summary_zh": "作者：Laura Matthews 纽约，4 月 25 日（路透社）- 美国",
-        "link": "https://finance.yahoo.com/news/trump-bought-least-51-million-173547214.html",
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with Hormuz closure, Mag 7 earnings in focus",
+        "title_zh": "今日股市：标准普尔 500 指数、纳斯达克指数、道琼斯指数期货因霍尔木兹海峡关闭而下滑，Mag 7 财报成为焦点",
+        "summary": "Stock futures fell as the Iran war continues to dominate fiscal headlines ahead of a week stacked with Big Tech earnings.",
+        "summary_zh": "由于伊朗战争继续在大型科技公司财报发布的一周前主导财政新闻头条，股指期货下跌。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777245746,
+        "type": "News"
+    },
+    {
+        "title": "Oil jumps, stock futures slip as US-Iran talks stall",
+        "title_zh": "美伊谈判陷入僵局，油价上涨，股指期货下跌",
+        "summary": "SINGAPORE, April 27 (Reuters) - Oil prices rose, the dollar inched higher and U.S. stock futures wobbled lower in early Asia trade on Monday after U.S.-Iran peace talks stalled over the weekend,",
+        "summary_zh": "路透新加坡4月27日 - 在美伊和平谈判周末陷入僵局后，周一亚洲早盘油价上涨，美元小幅走高，美国股指期货震荡走低。",
+        "link": "https://finance.yahoo.com/news/oil-jumps-stock-futures-slip-222134935.html",
         "publisher": "Reuters",
-        "publish_time": 1777138547,
+        "publish_time": 1777242094,
         "type": "News"
     },
     {
-        "title": "Big Tech's jobs cuts feel like an economic warning",
-        "title_zh": "大型科技公司的裁员感觉像是一个经济警告",
-        "summary": "The richest and most successful companies are cutting jobs.",
-        "summary_zh": "最富有和最成功的公司正在裁员。",
-        "link": "https://finance.yahoo.com/markets/article/big-techs-jobs-cuts-feel-like-an-economic-warning-100000161.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777111200,
+        "title": "Record-Setting Momentum Rally Is Drawing Doubters",
+        "title_zh": "创纪录的上涨势头引起了怀疑",
+        "summary": "(Bloomberg) -- April’s rally in risk assets has weathered stalled peace talks, signs of resurgent inflation and a central-bank succession drama.",
+        "summary_zh": "（彭博社）——四月份风险资产的反弹经受住了和平谈判的停滞、通胀复苏的迹象以及央行继任大戏的考验。",
+        "link": "https://finance.yahoo.com/news/record-setting-momentum-rally-drawing-200000605.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777236614,
         "type": "News"
     },
     {
-        "title": "Nvidia stock clinches record close, pushing market cap over $5 trillion once again",
-        "title_zh": "英伟达股价创历史新高，市值再次突破 5 万亿美元",
-        "summary": "Nvidia was on pace for a record-high close as the AI leader and most valuable company in the world crossed the $5 trillion valuation mark again.",
-        "summary_zh": "随着人工智能领导者和全球最有价值公司的估值再次突破 5 万亿美元大关，英伟达有望创下历史新高收盘价。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/nvidia-stock-clinches-record-close-pushing-market-cap-over-5-trillion-once-again-173529477.html",
+        "title": "Leaders come and go; companies rise and fall. In business, change is the constant.",
+        "title_zh": "领导来来去去；公司兴衰。在商业中，变化是永恒的。",
+        "summary": "While leadership changes don’t always go as hoped, history also shows they can work out well. In fact, Apple is arguably the epitome of what shareholders hope for.",
+        "summary_zh": "尽管领导层的更迭并不总是如愿，但历史也表明，它们可以取得良好的效果。事实上，苹果可以说是股东所希望的缩影。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/leaders-come-and-go-companies-rise-and-fall-in-business-change-is-the-constant-154602885.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1777052129,
+        "publish_time": 1777218362,
+        "type": "News"
+    },
+    {
+        "title": "'A return to optimism': Wall Street strategists are bullish on the AI trade",
+        "title_zh": "“回归乐观”：华尔街策略师看好人工智能行业",
+        "summary": "The rapid run higher in chip stocks has reignited  the AI trade.",
+        "summary_zh": "芯片股的快速走高重新点燃了人工智能交易。",
+        "link": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777213800,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk's years-long legal battle with OpenAI and Sam Altman will finally head to trial on Monday",
+        "title_zh": "埃隆·马斯克 (Elon Musk) 与 OpenAI 和萨姆·奥尔特曼 (Sam Altman) 长达数年的法律斗争最终将于周一接受审判",
+        "summary": "Elon Musk's lawsuit against Sam Altman and OpenAI goes to trial Monday, and the fate of the company's future may hang in the balance.",
+        "summary_zh": "埃隆·马斯克 (Elon Musk) 对萨姆·奥尔特曼 (Sam Altman) 和 OpenAI 的诉讼将于周一开庭审理，该公司未来的命运可能悬而未决。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/elon-musks-years-long-legal-battle-with-openai-and-sam-altman-will-finally-head-to-trial-on-monday-130000137.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777208400,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech’s $16 Trillion Earnings Week Is Make-Or-Break for Rally",
+        "title_zh": "大型科技公司每周盈利 16 万亿美元，这对反弹来说是成败的关键",
+        "summary": "(Bloomberg) -- Wall Street’s biggest technology stocks have carried the S&P 500 to record highs even as the war in Iran continues.",
+        "summary_zh": "（彭博社）——尽管伊朗战争仍在继续，但华尔街最大的科技股已带动标准普尔 500 指数创下历史新高。",
+        "link": "https://finance.yahoo.com/news/big-tech-16-trillion-earnings-130000600.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777208400,
+        "type": "News"
+    },
+    {
+        "title": "Mag 7 earnings bonanza and Powell's home stretch: What to watch this week",
+        "title_zh": "Mag 7 财报大亨和鲍威尔的最后冲刺：本周看点",
+        "summary": "Jerome Powell's penultimate meeting as Federal Reserve chair and a slate of earnings reports from five out of the seven \"Magnificent 7\" companies await investors in a busy week ahead.",
+        "summary_zh": "杰罗姆·鲍威尔作为美联储主席的倒数第二次会议以及七家“七强”公司中五家公司的一系列收益报告正在等待着投资者在未来忙碌的一周中。",
+        "link": "https://finance.yahoo.com/news/mag-7-earnings-bonanza-and-powells-home-stretch-what-to-watch-this-week-113016596.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777203016,
         "type": "News"
     }
 ]
