@@ -1,32 +1,82 @@
 [
     {
-        "title": "Meta prepares to undo Manus acquisition after China ban, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，Meta 准备在中国禁令后撤消对 Manus 的收购",
-        "summary": "Meta Platforms is preparing to unwind its acquisition of artificial intelligence startup Manus after ‌China blocked the deal on national security grounds, the ‌Wall Street Journal reported on Monday, citing people familiar with the matter.",
-        "summary_zh": "据《华尔街日报》周一援引知情人士的话报道，在中国以国家安全为由阻止交易后，Meta Platforms 正准备取消对人工智能初创公司 Manus 的收购。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-prepares-undo-manus-acquisition-030358340.html",
+        "title": "Analysis-SpaceX ties Musk compensation to Mars colonization goal",
+        "title_zh": "分析-SpaceX将马斯克的薪酬与火星殖民目标联系起来",
+        "summary": "By Ross Kerber April 28 (Reuters) - SpaceX's board has approved a compensation plan for founder Elon Musk with goals as futuristic and celestial as the company's ambitions: colonizing Mars and running",
+        "summary_zh": "罗斯·克伯 (Ross Kerber) 4 月 28 日（路透社）——SpaceX 董事会批准了创始人埃隆·马斯克 (Elon Musk) 的一项薪酬计划，其目标与公司的雄心一样具有未来感和天象：殖民火星和运行",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ties-musk-compensation-100426523.html",
         "publisher": "Reuters",
-        "publish_time": 1777345438,
+        "publish_time": 1777372035,
         "type": "News"
     },
     {
-        "title": "Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",
-        "title_zh": "Alphabet 的盈利与 Gemini 密切相关，人工智能支出更新成为焦点，股价接近历史新高",
-        "summary": "Google will report its first quarter earnings after the bell on Wednesday.",
-        "summary_zh": "谷歌将于周三盘后公布第一季度收益。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/alphabet-earnings-on-tap-with-gemini-ai-spending-updates-in-focus-with-stock-near-record-high-212244719.html",
+        "title": "Google signs classified AI deal with Pentagon, The Information reports",
+        "title_zh": "据 The Information 报道，谷歌与五角大楼签署了机密人工智能协议",
+        "summary": "STORY: Alphabet's Google has reportedly joined a list of tech firms to sign a deal with the U.S.",
+        "summary_zh": "故事：据报道，Alphabet 旗下的谷歌已加入与美国签署协议的科技公司名单。",
+        "link": "https://finance.yahoo.com/video/google-signs-classified-ai-deal-101240389.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1777371160,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI trial pitting Elon Musk against Sam Altman kicks off",
+        "title_zh": "埃隆·马斯克 (Elon Musk) 与萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 试验开始",
+        "summary": "A trial that could help shape the future of artificial intelligence begins on Tuesday, with billionaires Elon Musk and Sam Altman at odds over the evolution of ChatGPT maker OpenAI from a nonprofit to a ‌profit-seeking juggernaut worth hundreds of billions of dollars.",
+        "summary_zh": "一项可能有助于塑造人工智能未来的试验于周二开始，亿万富翁埃隆·马斯克 (Elon Musk) 和山姆·奥尔特曼 (Sam Altman) 对于 ChatGPT 制造商 OpenAI 从非营利组织演变为价值数千亿美元的逐利巨头的转变存在分歧。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-trial-pitting-elon-musk-100219770.html",
+        "publisher": "Reuters",
+        "publish_time": 1777370539,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion",
+        "title_zh": "人工智能支出将达到 6000 亿美元，大型科技投资者将衡量回报",
+        "summary": "Big Tech has spent hundreds of billions of dollars over three years to power the artificial intelligence boom.",
+        "summary_zh": "三年来，大型科技公司花费了数千亿美元来推动人工智能的繁荣。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/big-tech-investors-gauge-payoff-100021381.html",
+        "publisher": "Reuters",
+        "publish_time": 1777370421,
+        "type": "News"
+    },
+    {
+        "title": "The only number that matters for 'Magnificent 7' earnings this week: Morning Brief",
+        "title_zh": "本周对“Magnificent 7”收益唯一重要的数字：早间简报",
+        "summary": "A deluge of Big Tech earnings this week will take center stage on Wednesday. One number will tell the story of the AI boom.",
+        "summary_zh": "本周大型科技公司的大量财报将在周三成为焦点。一个数字就能讲述人工智能热潮的故事。",
+        "link": "https://finance.yahoo.com/markets/article/the-only-number-that-matters-for-magnificent-7-earnings-this-week-morning-brief-100000837.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1777324964,
+        "publish_time": 1777370400,
         "type": "News"
     },
     {
-        "title": "Microsoft keeps stake, loses exclusive access in new OpenAI agreement",
-        "title_zh": "微软保留股份，但失去新 OpenAI 协议的独家访问权",
-        "summary": "Microsoft (MSFT) and OpenAI (OPAI.PVT) have amended their agreement to allow the private AI developer to partner with Microsoft's competitors.",
-        "summary_zh": "微软 (MSFT) 和 OpenAI (OPAI.PVT) 修改了协议，允许私人人工智能开发商与微软的竞争对手合作。",
-        "link": "https://finance.yahoo.com/video/microsoft-keeps-stake-loses-exclusive-203000843.html",
+        "title": "China's Chery aims to be 'Toyota plus Tesla' in global growth push",
+        "title_zh": "中国奇瑞的目标是成为“丰田+特斯拉”，推动全球增长",
+        "summary": "STORY: China’s largest car exporter, Chery, is looking to two different playbooks as it pushes deeper into Europe and other global markets.Chairman Yin Tongyue calls it the “double T” strategy, drawing from Toyota and Tesla to guide the company’s next phase of growth.\"Toyota i...",
+        "summary_zh": "故事：中国最大的汽车出口商奇瑞在进一步进军欧洲和其他全球市场时，正在寻求两种不同的策略。董事长尹同跃称之为“双T”战略，借鉴丰田和特斯拉的经验来指导公司下一阶段的增长。“丰田我...",
+        "link": "https://finance.yahoo.com/video/chinas-chery-aims-toyota-plus-085854079.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1777366734,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed with US-Iran talks, earnings in focus",
+        "title_zh": "今日股市：标普 500 指数、纳斯达克指数、道琼斯指数期货涨跌互现，美伊谈判，盈利成为焦点",
+        "summary": "Investors are eyeing White House press releases about Iran.",
+        "summary_zh": "投资者正在关注白宫有关伊朗的新闻稿。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-tuesday-april-28-225503310.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777330503,
+        "type": "News"
+    },
+    {
+        "title": "AWS exec. expands on productivity benefits of training AI agents",
+        "title_zh": "AWS 执行官。扩大训练人工智能代理的生产力优势",
+        "summary": "Amazon Web Services (AMZN) offers businesses and professionals a growing variety of platforms to train and develop AI models.",
+        "summary_zh": "Amazon Web Services (AMZN) 为企业和专业人士提供了越来越多的平台来训练和开发人工智能模型。",
+        "link": "https://finance.yahoo.com/video/aws-exec-expands-on-productivity-benefits-of-training-ai-agents-202043759.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1777321800,
+        "publish_time": 1777321243,
         "type": "News"
     },
     {
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/video/elon-musk-vs-sam-altman-what-to-know-about-the-openai-case-202034798.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1777321234,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft earnings: What Wall Street is watching around AI, capex",
-        "title_zh": "微软财报：华尔街对人工智能和资本支出的关注",
-        "summary": "Microsoft (MSFT) is among the Magnificent Seven tech companies reporting quarterly results this week, currently scheduled to release earnings after the closing bell on Wednesday, April 29.",
-        "summary_zh": "微软 (MSFT) 是本周公布季度业绩的七大科技公司之一，目前计划在 4 月 29 日星期三收盘后发布财报。",
-        "link": "https://finance.yahoo.com/video/microsoft-earnings-what-wall-street-is-watching-around-ai-capex-195308642.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777319588,
-        "type": "News"
-    },
-    {
-        "title": "US stocks: Will Mag 7 earnings be make-or-break for market rally?",
-        "title_zh": "美股：Mag 7 财报是否会影响市场反弹？",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed heading into Monday's closing bell as investors gear up for an eventful trading week: Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT) are all scheduled to report quarterly earnings result...",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周一收盘前涨跌互现，投资者为本周多事的交易做好准备：Alphabet（GOOG、GOOGL）、亚马逊（AMZN）、苹果（AAPL）、Meta Platforms（META）和微软（MSFT）均计划公布季度盈利结果...",
-        "link": "https://finance.yahoo.com/video/us-stocks-will-mag-7-earnings-be-make-or-break-for-market-rally-191843442.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777317523,
-        "type": "News"
-    },
-    {
-        "title": "Intel's 26-year comeback is a warning for investors chasing today's AI winners: Chart of the Day",
-        "title_zh": "英特尔 26 年卷土重来是对追逐当今人工智能赢家的投资者的警告：每日图表",
-        "summary": "Intel stock's 2.5-decade round trip turns one of the AI market's hottest comeback stories into a cautionary tale.",
-        "summary_zh": "英特尔股票 2.5 年的往返之旅将人工智能市场最热门的卷土重来故事之一变成了一个警示故事。",
-        "link": "https://finance.yahoo.com/markets/article/intels-26-year-comeback-is-a-warning-for-investors-chasing-todays-ai-winners-chart-of-the-day-155124778.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777305084,
-        "type": "News"
-    },
-    {
-        "title": "Why Fox Business Network's Charles Payne has owned Apple stock for more than 30 years",
-        "title_zh": "为什么福克斯商业频道的查尔斯·佩恩 (Charles Payne) 持有苹果股票 30 多年",
-        "summary": "Apple has been a long-term winner for many investors.",
-        "summary_zh": "苹果一直是许多投资者的长期赢家。",
-        "link": "https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777304207,
-        "type": "News"
-    },
-    {
-        "title": "Google, Meta, Microsoft, Amazon, Apple earnings: What to expect",
-        "title_zh": "谷歌、Meta、微软、亚马逊、苹果的收益：展望",
-        "summary": "Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), Amazon (AMZN), and Apple (AAPL) are all reporting quarterly earnings results this week. D.A.",
-        "summary_zh": "Alphabet (GOOG、GOOGL)、Meta (META)、微软 (MSFT)、亚马逊 (AMZN) 和苹果 (AAPL) 均于本周公布季度收益结果。 DA",
-        "link": "https://finance.yahoo.com/video/google-meta-microsoft-amazon-apple-earnings-what-to-expect-151248213.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777302768,
         "type": "News"
     }
 ]
