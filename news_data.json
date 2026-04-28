@@ -1,92 +1,92 @@
 [
     {
-        "title": "Morning Bid: Oil and chips",
-        "title_zh": "早盘竞价：石油和薯条",
-        "summary": "April 27 (Reuters) - What matters in U.",
-        "summary_zh": "4 月 27 日（路透社）——美国最重要的是什么？",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-oil-chips-103918567.html",
+        "title": "Meta prepares to undo Manus acquisition after China ban, WSJ reports",
+        "title_zh": "据《华尔街日报》报道，Meta 准备在中国禁令后撤消对 Manus 的收购",
+        "summary": "Meta Platforms is preparing to unwind its acquisition of artificial intelligence startup Manus after ‌China blocked the deal on national security grounds, the ‌Wall Street Journal reported on Monday, citing people familiar with the matter.",
+        "summary_zh": "据《华尔街日报》周一援引知情人士的话报道，在中国以国家安全为由阻止交易后，Meta Platforms 正准备取消对人工智能初创公司 Manus 的收购。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-prepares-undo-manus-acquisition-030358340.html",
         "publisher": "Reuters",
-        "publish_time": 1777286358,
+        "publish_time": 1777345438,
         "type": "News"
     },
     {
-        "title": "Elon Musk's trial against Sam Altman to reveal the ongoing power struggle for OpenAI",
-        "title_zh": "埃隆·马斯克 (Elon Musk) 对萨姆·奥尔特曼 (Sam Altman) 的审判揭示了 OpenAI 持续的权力斗争",
-        "summary": "By Deepa Seetharaman and Jonathan Stempel April 27 (Reuters) - The bitter legal fight between Elon Musk and the leading artificial intelligence firm, OpenAI, led by Sam Altman, may come down to a few",
-        "summary_zh": "作者：Deepa Seetharaman 和 Jonathan Stempel 4 月 27 日（路透社）——埃隆·马斯克和山姆·奥尔特曼领导的领先人工智能公司 OpenAI 之间的激烈法律斗争可能归结为几个问题",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-trial-against-sam-100515094.html",
-        "publisher": "Reuters",
-        "publish_time": 1777285193,
-        "type": "News"
-    },
-    {
-        "title": "Meta partners with space startup Overview Energy to secure solar power for data centers",
-        "title_zh": "Meta 与太空初创公司 Overview Energy 合作，确保数据中心使用太阳能",
-        "summary": "April 27 (Reuters) - Meta Platforms has signed an agreement with Overview Energy to secure power from the startup's space-based solar energy infrastructure for the Facebook parent's data centers by",
-        "summary_zh": "4 月 27 日（路透社）- Meta Platforms 与 Overview Energy 签署了一项协议，确保 Facebook 母公司数据中心的初创公司天基太阳能基础设施的电力安全",
-        "link": "https://www.yahoo.com/news/articles/meta-partners-space-startup-overview-101400718.html",
-        "publisher": "Reuters",
-        "publish_time": 1777284840,
-        "type": "News"
-    },
-    {
-        "title": "Charles Payne's key lessons from Wall Street",
-        "title_zh": "查尔斯·佩恩从华尔街学到的重要教训",
-        "summary": "Yahoo Finance Executive Editor&nbsp;Brian Sozzi&nbsp;sits down with his former boss, long-time friend, Wall Street veteran, and Fox Business Network Host Charles Payne.",
-        "summary_zh": "雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 与他的前老板、老朋友、华尔街资深人士、福克斯商业频道主持人查尔斯·佩恩 (Charles Payne) 坐在一起。",
-        "link": "https://finance.yahoo.com/video/charles-paynes-key-lessons-wall-100000791.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777284000,
-        "type": "News"
-    },
-    {
-        "title": "Why this strategist is bullish on Zoom",
-        "title_zh": "为什么这位策略师看好 Zoom",
-        "summary": "Spruce Point Capital Management chief investment officer and founder Ben Axler chats with Yahoo Finance's Julie Hyman about why Spruce Point is long on Zoom (ZM).",
-        "summary_zh": "Spruce Point Capital Management 首席投资官兼创始人 Ben Axler 与雅虎财经的 Julie Hyman 讨论了 Spruce Point 为何看好 Zoom (ZM)。",
-        "link": "https://finance.yahoo.com/video/why-strategist-bullish-zoom-100000012.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777284000,
-        "type": "News"
-    },
-    {
-        "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
-        "title_zh": "中国阻止 Meta 以 20 亿美元收购人工智能公司 Manus",
-        "summary": "(Bloomberg) -- China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.Most Read from BloombergThe Billion-Barrel Hormuz Oil Sh...",
-        "summary_zh": "（彭博社）——中国决定阻止 Meta Platforms Inc. 以 20 亿美元收购代理人工智能初创公司 Manus，此举出人意料，旨在解除一项因向美国泄露技术而引发争议的争议交易。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/china-blocks-meta-2-billion-095700004.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1777283820,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Says Hedge Funds Use Rally in US Stocks to Offload Risk",
-        "title_zh": "高盛称对冲基金利用美股上涨来缓解风险",
-        "summary": "(Bloomberg) -- Hedge funds are using the US equity rally to reduce risk, according to traders on Goldman Sachs Group Inc.’s prime brokerage desk.Most Read from BloombergThe Billion-Barrel Hormuz Oil Shock Is About to Crash DemandSergey Brin Confronted Gavin Newsom at a Treehou...",
-        "summary_zh": "（彭博社）——据高盛集团大宗经纪业务部门的交易员称，对冲基金正在利用美国股市上涨来降低风险。彭博社的大多数报道十亿桶霍尔木兹石油危机即将导致需求崩溃谢尔盖·布林在 Treehou 与加文·纽瑟姆对峙……",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-hedge-funds-rally-094039761.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1777282839,
-        "type": "News"
-    },
-    {
-        "title": "Leaders come and go; companies rise and fall. In business, change is the constant.",
-        "title_zh": "领导来来去去；公司兴衰。在商业中，变化是永恒的。",
-        "summary": "While leadership changes don’t always go as hoped, history also shows they can work out well. In fact, Apple is arguably the epitome of what shareholders hope for.",
-        "summary_zh": "尽管领导层的更迭并不总是如愿，但历史也表明，它们可以取得良好的效果。事实上，苹果可以说是股东所希望的缩影。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/leaders-come-and-go-companies-rise-and-fall-in-business-change-is-the-constant-154602885.html",
+        "title": "Alphabet earnings on tap with Gemini, AI spending updates in focus with stock near record high",
+        "title_zh": "Alphabet 的盈利与 Gemini 密切相关，人工智能支出更新成为焦点，股价接近历史新高",
+        "summary": "Google will report its first quarter earnings after the bell on Wednesday.",
+        "summary_zh": "谷歌将于周三盘后公布第一季度收益。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/alphabet-earnings-on-tap-with-gemini-ai-spending-updates-in-focus-with-stock-near-record-high-212244719.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1777218362,
+        "publish_time": 1777324964,
         "type": "News"
     },
     {
-        "title": "'A return to optimism': Wall Street strategists are bullish on the AI trade",
-        "title_zh": "“回归乐观”：华尔街策略师看好人工智能行业",
-        "summary": "The rapid run higher in chip stocks has reignited  the AI trade.",
-        "summary_zh": "芯片股的快速走高重新点燃了人工智能交易。",
-        "link": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
+        "title": "Microsoft keeps stake, loses exclusive access in new OpenAI agreement",
+        "title_zh": "微软保留股份，但失去新 OpenAI 协议的独家访问权",
+        "summary": "Microsoft (MSFT) and OpenAI (OPAI.PVT) have amended their agreement to allow the private AI developer to partner with Microsoft's competitors.",
+        "summary_zh": "微软 (MSFT) 和 OpenAI (OPAI.PVT) 修改了协议，允许私人人工智能开发商与微软的竞争对手合作。",
+        "link": "https://finance.yahoo.com/video/microsoft-keeps-stake-loses-exclusive-203000843.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777321800,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk vs. Sam Altman: What to know about the OpenAI case",
+        "title_zh": "埃隆·马斯克 (Elon Musk) 与萨姆·奥尔特曼 (Sam Altman)：关于 OpenAI 案例的了解",
+        "summary": "Tesla (TSLA) and SpaceX (SPAX.PVT) CEO Elon Musk is meeting OpenAI (OPAI.PVT) CEO Sam Altman in court this week over an alleged breach of the private artificial intelligence (AI) developer's nonprofit mission. Musk is also a co-founder of OpenAI.",
+        "summary_zh": "特斯拉 (TSLA) 和 SpaceX (SPAX.PVT) 首席执行官埃隆·马斯克 (Elon Musk) 本周将在法庭上与 OpenAI (OPAI.PVT) 首席执行官萨姆·奥尔特曼 (Sam Altman) 会面，因涉嫌违反这家私人人工智能 (AI) 开发商的非营利...",
+        "link": "https://finance.yahoo.com/video/elon-musk-vs-sam-altman-what-to-know-about-the-openai-case-202034798.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777321234,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft earnings: What Wall Street is watching around AI, capex",
+        "title_zh": "微软财报：华尔街对人工智能和资本支出的关注",
+        "summary": "Microsoft (MSFT) is among the Magnificent Seven tech companies reporting quarterly results this week, currently scheduled to release earnings after the closing bell on Wednesday, April 29.",
+        "summary_zh": "微软 (MSFT) 是本周公布季度业绩的七大科技公司之一，目前计划在 4 月 29 日星期三收盘后发布财报。",
+        "link": "https://finance.yahoo.com/video/microsoft-earnings-what-wall-street-is-watching-around-ai-capex-195308642.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777319588,
+        "type": "News"
+    },
+    {
+        "title": "US stocks: Will Mag 7 earnings be make-or-break for market rally?",
+        "title_zh": "美股：Mag 7 财报是否会影响市场反弹？",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed heading into Monday's closing bell as investors gear up for an eventful trading week: Alphabet (GOOG, GOOGL), Amazon (AMZN), Apple (AAPL), Meta Platforms (META), and Microsoft (MSFT) are all scheduled to report quarterly earnings result...",
+        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周一收盘前涨跌互现，投资者为本周多事的交易做好准备：Alphabet（GOOG、GOOGL）、亚马逊（AMZN）、苹果（AAPL）、Meta Platforms（META）和微软（MSFT）均计划公布季度盈利结果...",
+        "link": "https://finance.yahoo.com/video/us-stocks-will-mag-7-earnings-be-make-or-break-for-market-rally-191843442.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777317523,
+        "type": "News"
+    },
+    {
+        "title": "Intel's 26-year comeback is a warning for investors chasing today's AI winners: Chart of the Day",
+        "title_zh": "英特尔 26 年卷土重来是对追逐当今人工智能赢家的投资者的警告：每日图表",
+        "summary": "Intel stock's 2.5-decade round trip turns one of the AI market's hottest comeback stories into a cautionary tale.",
+        "summary_zh": "英特尔股票 2.5 年的往返之旅将人工智能市场最热门的卷土重来故事之一变成了一个警示故事。",
+        "link": "https://finance.yahoo.com/markets/article/intels-26-year-comeback-is-a-warning-for-investors-chasing-todays-ai-winners-chart-of-the-day-155124778.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1777213800,
+        "publish_time": 1777305084,
+        "type": "News"
+    },
+    {
+        "title": "Why Fox Business Network's Charles Payne has owned Apple stock for more than 30 years",
+        "title_zh": "为什么福克斯商业频道的查尔斯·佩恩 (Charles Payne) 持有苹果股票 30 多年",
+        "summary": "Apple has been a long-term winner for many investors.",
+        "summary_zh": "苹果一直是许多投资者的长期赢家。",
+        "link": "https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777304207,
+        "type": "News"
+    },
+    {
+        "title": "Google, Meta, Microsoft, Amazon, Apple earnings: What to expect",
+        "title_zh": "谷歌、Meta、微软、亚马逊、苹果的收益：展望",
+        "summary": "Alphabet (GOOG, GOOGL), Meta (META), Microsoft (MSFT), Amazon (AMZN), and Apple (AAPL) are all reporting quarterly earnings results this week. D.A.",
+        "summary_zh": "Alphabet (GOOG、GOOGL)、Meta (META)、微软 (MSFT)、亚马逊 (AMZN) 和苹果 (AAPL) 均于本周公布季度收益结果。 DA",
+        "link": "https://finance.yahoo.com/video/google-meta-microsoft-amazon-apple-earnings-what-to-expect-151248213.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777302768,
         "type": "News"
     }
 ]
