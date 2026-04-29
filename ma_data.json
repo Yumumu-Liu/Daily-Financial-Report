@@ -1,22 +1,12 @@
 [
     {
-        "title": "Alphabet DoD AI Deal Sparks Employee Protests And Investor Questions",
-        "title_zh": "Alphabet DoD 人工智能交易引发员工抗议和投资者质疑",
-        "summary": "Google has revised its contract with the U.S. Department of Defense to provide advanced AI capabilities for classified projects. The updated agreement gives the Pentagon broader access to Alphabet's AI models for secret government work.",
-        "summary_zh": "谷歌修改了与美国国防部的合同，为机密项目提供先进的人工智能功能。更新后的协议使五角大楼能够更广泛地访问 Alphabet 的人工智能模型，以进行秘密政府工作。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-dod-ai-deal-sparks-011103776.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1777425063,
-        "type": "News"
-    },
-    {
-        "title": "The wheels could be coming off the circular computing deal train",
-        "title_zh": "循环计算交易列车的轮子可能会脱落",
-        "summary": "The big AI labs’ circular dealmaking, in which corporate investors invest capital in exchange for commitments of future contracts for computing resources, may be less failsafe than it seems.",
-        "summary_zh": "大型人工智能实验室的循环交易（即企业投资者投资资本以换取未来计算资源合同的承诺）可能并不像看上去那么安全。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/wheels-could-coming-off-circular-223914453.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1777415954,
+        "title": "Cognizant to Acquire Astreya in $600 Million Deal to Boost AI Capabilities",
+        "title_zh": "Cognizant 将斥资 6 亿美元收购 Astreya，以增强人工智能能力",
+        "summary": "Cognizant Technology Solutions (NASDAQ:CTSH) has reached an agreement to acquire Astreya for approximately $600 million, according to a report by Reuters.",
+        "summary_zh": "据路透社报道，Cognizant Technology Solutions（纳斯达克股票代码：CTSH）已达成协议，将以约 6 亿美元的价格收购 Astreya。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/cognizant-acquire-astreya-600-million-100209621.html",
+        "publisher": "InvestorsHub",
+        "publish_time": 1777456929,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://www.wsj.com/business/deals/forvia-sells-auto-interiors-business-to-apollo-funds-in-2-1-billion-deal-608e1b62?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1777271340,
+        "type": "News"
+    },
+    {
+        "title": "Wealth management land grab drives deal boom amid private market upheaval",
+        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
+        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
+        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
+        "publisher": "Pitchbook",
+        "publish_time": 1776289768,
         "type": "News"
     }
 ]
