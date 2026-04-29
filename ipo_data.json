@@ -1,15 +1,5 @@
 [
     {
-        "title": "Should You Rush to Get in on the SpaceX IPO? History Offers a Strikingly Clear Answer.",
-        "title_zh": "你应该急于参与 SpaceX IPO吗？历史提供了极其明确的答案。",
-        "summary": "SpaceX could begin trading in June.",
-        "summary_zh": "SpaceX 可能会在 6 月开始交易。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rush-spacex-ipo-history-offers-100500079.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1777370700,
-        "type": "News"
-    },
-    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -17,16 +7,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
         "publisher": "TipRanks",
         "publish_time": 1777332459,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX and OpenAI IPOs: 1 warning to not overlook",
-        "title_zh": "SpaceX 和 OpenAI IPO：1 个不可忽视的警告",
-        "summary": "Keep this in mind ahead of potential SpaceX and OpenAI IPOs this year.",
-        "summary_zh": "在 SpaceX 和 OpenAI 今年可能进行 IPO 之前，请记住这一点。",
-        "link": "https://finance.yahoo.com/news/spacex-and-openai-ipos-1-warning-to-not-overlook-115551526.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777290951,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
         "publisher": "Zacks",
         "publish_time": 1775139000,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX Eyes IPO as Market Conditions Grow More Uncertain. What the Charts Show.",
+        "title_zh": "随着市场状况变得更加不确定，SpaceX 考虑进行 IPO。图表显示什么。",
+        "summary": "The prospect of a SpaceX IPO has become a key focal point for markets, and any delay tied to deteriorating conditions could carry broader implications.",
+        "summary_zh": "SpaceX 首次公开募股的前景已成为市场的主要焦点，任何因情况恶化而导致的延误都可能带来更广泛的影响。",
+        "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1774971420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
+        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
+        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
+        "publisher": "Zacks",
+        "publish_time": 1774872000,
         "type": "News"
     }
 ]
