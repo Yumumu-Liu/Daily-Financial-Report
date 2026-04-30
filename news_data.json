@@ -1,5 +1,45 @@
 [
     {
+        "title": "What Apple's new CEO announcement signals ahead of earnings?",
+        "title_zh": "苹果公司新任首席执行官的宣布在财报发布前预示着什么？",
+        "summary": "Wall Street investors have been abuzz around Apple (AAPL) this past week after CEO Tim Cook announced his plans to depart from the chief executive role this September, handing the reins off to John Ternus.",
+        "summary_zh": "上周，苹果公司 (Apple) 首席执行官蒂姆·库克 (Tim Cook) 宣布计划于今年 9 月辞去首席执行官一职，将权力移交给约翰·特努斯 (John Ternus)，之后华尔街投资者对苹果公司 (AAPL) 议论纷纷。",
+        "link": "https://finance.yahoo.com/video/apples-ceo-announcement-signals-ahead-103000156.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777545000,
+        "type": "News"
+    },
+    {
+        "title": "Taiwan's Delta Electronics warns costs rising as AI data centre demand surges",
+        "title_zh": "台湾台达电子警告称，随着人工智能数据中心需求激增，成本上升",
+        "summary": "Delta Electronics, a major provider of power supply and ‌cooling solutions for AI datacentres, warned that it ‌expects costs to rise in the coming quarters, with oil prices ​rising and ongoing material shortages.",
+        "summary_zh": "为人工智能数据中心提供电源和冷却解决方案的主要供应商台达电子警告称，随着油价上涨和持续的材料短缺，预计未来几个季度的成本将会上升。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwans-delta-electronics-warns-costs-102216489.html",
+        "publisher": "Reuters",
+        "publish_time": 1777544536,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk to return to witness stand for cross-examination by OpenAI's lawyer",
+        "title_zh": "埃隆·马斯克将返回证人席接受 OpenAI 律师的盘问",
+        "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 30 (Reuters) - Elon Musk is due to return to the witness stand on Thursday for a second day of cross-examination by Sam Altman's lawyer,",
+        "summary_zh": "作者：Deepa Seetharaman 和 Kenrick Cai 加州奥克兰，4 月 30 日（路透社）——埃隆·马斯克将于周四返回证人席，接受山姆·奥尔特曼律师的第二天盘问。",
+        "link": "https://finance.yahoo.com/news/elon-musk-return-witness-stand-100353619.html",
+        "publisher": "Reuters",
+        "publish_time": 1777543896,
+        "type": "News"
+    },
+    {
+        "title": "Google Cloud pulls ahead as Big Tech's AI bet swells to $700 billion",
+        "title_zh": "随着大型科技公司的人工智能赌注增至 7000 亿美元，谷歌云遥遥领先",
+        "summary": "Alphabet's blowout cloud growth has reset expectations across major tech companies, leaving investors to recalibrate which firms are delivering the clearest returns. Alphabet shares jumped more than 6% in premarket trading on Thursday, while Meta stock fell ‌nearly 9%.",
+        "summary_zh": "Alphabet 云计算的井喷式增长重新调整了主要科技公司的预期，让投资者重新调整哪些公司正在提供最明确的回报。 Alphabet 股价周四盘前交易中上涨超过 6%，而 Meta 股价下跌近 9%。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/google-cloud-pulls-ahead-big-100332674.html",
+        "publisher": "Reuters",
+        "publish_time": 1777543412,
+        "type": "News"
+    },
+    {
         "title": "Samsung Electronics expects to win more customers for advanced logic chips",
         "title_zh": "三星电子希望为先进逻辑芯片赢得更多客户",
         "summary": "SEOUL, April 30 () - Samsung Electronics said on Thursday it expects to ‌win more deals to manufacture ‌logic chips using its advanced 2 nanometer process ​in the near future, adding it has been in talks with big tech customers regarding the foundry contracts.",
@@ -20,46 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Musk Put on Defensive Over His Financial Commitment to OpenAI",
-        "title_zh": "马斯克对 OpenAI 的财务承诺进行了辩护",
-        "summary": "(Bloomberg) -- Elon Musk became visibly irritated on the witness stand Wednesday as an attorney for OpenAI questioned whether the billionaire backed off his financial commitment to the startup in its early years.Most Read from BloombergNorth Korea Confirms Suicide Rule for Sol...",
-        "summary_zh": "（彭博社）——周三，埃隆·马斯克在证人席上明显感到愤怒，因为 OpenAI 的一名律师质疑这位亿万富翁是否放弃了他早年对这家初创公司的财务承诺。彭博社的大多数阅读文章朝鲜确认了 Sol 的自杀规则...",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/musk-put-defensive-over-financial-015357092.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1777514037,
-        "type": "News"
-    },
-    {
-        "title": "AI-Led Rally in Asia Stocks Masks Deeper Damage from Iran War",
-        "title_zh": "人工智能引领的亚洲股市上涨掩盖了伊朗战争造成的更严重损害",
-        "summary": "(Bloomberg) -- Asia’s artificial intelligence-fueled rally is masking signs of strain, with gains in tech names overshadowing the impact of the US-Iran war on the broader market.Most Read from BloombergNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesUAE Quits OP...",
-        "summary_zh": "（彭博社）——亚洲人工智能推动的涨势掩盖了紧张的迹象，科技股的上涨掩盖了美伊战争对更广泛市场的影响。彭博社的大多数报道朝鲜确认士兵自杀规则乌克兰占领阿联酋退出行动...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-led-rally-asia-stocks-012958281.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1777512598,
-        "type": "News"
-    },
-    {
-        "title": "Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record",
-        "title_zh": "第一季度利润飙升八倍创纪录后，三星电子看到了强劲的人工智能需求",
-        "summary": "SEOUL, April 30 () - Samsung Electronics said on Thursday its operating profit jumped eightfold to a record ‌in the first quarter, underpinned by higher chip ‌prices as an artificial intelligence boom led to a supply crunch.",
-        "summary_zh": "首尔，4 月 30 日 () - 三星电子周四表示，由于人工智能繁荣导致供应紧缩，芯片价格上涨，该公司第一季度营业利润跃升八倍，创历史新高。",
-        "link": "https://www.yahoo.com/news/markets/stocks/articles/samsung-electronics-sees-robust-ai-demand-after-q1-profit-surges-eightfold-to-set-record-002107973.html",
-        "publisher": "Reuters",
-        "publish_time": 1777508467,
-        "type": "News"
-    },
-    {
-        "title": "Samsung Electronics sees robust AI demand after Q1 chip profit jumps almost 50-fold",
-        "title_zh": "三星电子第一季度芯片利润增长近 50 倍，人工智能需求强劲",
-        "summary": "Samsung Electronics on Thursday reported record quarterly profit driven by a 49-fold jump in chip income, saying it expects the momentum to continue as clients spend on AI infrastructure ‌and drive up prices of its memory chips.",
-        "summary_zh": "三星电子周四公布了创纪录的季度利润，芯片收入增长了 49 倍，并表示，随着客户在人工智能基础设施上的支出并推高其存储芯片的价格，预计这一势头将持续下去。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-elec-q1-profit-surges-001154038.html",
-        "publisher": "Reuters",
-        "publish_time": 1777507914,
-        "type": "News"
-    },
-    {
         "title": "Highlights from Meta's earnings call",
         "title_zh": "Meta 财报电话会议的亮点",
         "summary": "Meta Platforms (META) outpaced estimates on first quarter earnings — posting a profit of $10.44 per share vs. expectations of $8.15 — while also raising its full-year capex spending forecasts to between $125 billion and $145 billion as it expects to invest more in AI.",
@@ -70,8 +70,8 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed with earnings season in full swing, Fed in focus",
-        "title_zh": "今日股市：标准普尔 500 指数、纳斯达克指数、道琼斯指数期货涨跌互现，财报季节如火如荼，美联储成为焦点",
+        "title": "Stock market today: Dow futures slide as oil surges, while Mag 7 earnings buoy tech stocks",
+        "title_zh": "今日股市：道琼斯指数期货因油价飙升而下滑，而 Mag 7 财报提振科技股",
         "summary": "The major gauges were pulled up by tech stocks, down by other industries as Mag 7 earnings dominate headlines.",
         "summary_zh": "主要指标受到科技股的拉升，而其他行业则下跌，因为 Mag 7 的盈利占据了头条新闻。",
         "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-april-30-dow-nasdaq-sp-mixed-earnings-fed-233115208.html",
@@ -80,13 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Amazon’s AI spending boom is eating into free cash flow",
-        "title_zh": "亚马逊的人工智能支出热潮正在侵蚀自由现金流",
-        "summary": "Amazon is making more cash from its businesses, but it’s spending almost all of it on AI infrastructure.",
-        "summary_zh": "亚马逊从其业务中赚取了更多现金，但它几乎将所有现金都花在了人工智能基础设施上。",
-        "link": "https://finance.yahoo.com/markets/article/amazons-ai-spending-boom-is-eating-into-free-cash-flow-230734610.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777504054,
+        "title": "Apple earnings, March PCE, Q1 GDP, mortgage rates: What to Watch",
+        "title_zh": "苹果财报、3 月份 PCE、第一季度 GDP、抵押贷款利率：关注点",
+        "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow,&nbsp;Thursday, April 30, including earnings results from companies like Apple (AAPL), Eli Lilly (LLY), Caterpillar (CAT), and ConocoPillips (COP); the latest economic readings on the ...",
+        "summary_zh": "《寻求趋势》主持人乔什·利普顿 (Josh Lipton) 预览了明天（4 月 30 日星期四）即将发布的几个重大新闻，其中包括苹果 (AAPL)、礼来 (LLY)、卡特彼勒 (CAT) 和康菲公司 (COP) 等公司的盈利结果；关于...的最新经济读物",
+        "link": "https://finance.yahoo.com/video/apple-earnings-march-pce-q1-230000921.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777503600,
         "type": "News"
     }
 ]

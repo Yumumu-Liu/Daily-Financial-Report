@@ -1,5 +1,15 @@
 [
     {
+        "title": "Blackstone Weighs India Waste Deal As Inflows Lift Assets Above US$1.3t",
+        "title_zh": "由于资金流入使资产超过 1.3 吨，黑石集团考虑印度废物交易",
+        "summary": "Blackstone (NYSE:BX) reported material inflows into its credit, insurance, and private equity divisions in Q1, lifting total assets under management above $1.3b. The firm saw withdrawals from some large private credit funds even as overall net inflows stayed positive.",
+        "summary_zh": "Blackstone (NYSE:BX) 报告称，第一季度信贷、保险和私募股权部门有大量资金流入，使管理下的总资产超过 1.3b 美元。尽管总体净流入保持正值，但该公司仍看到一些大型私人信贷基金的撤资。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-weighs-india-waste-deal-042849286.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1777523329,
+        "type": "News"
+    },
+    {
         "title": "As Super Micro Computer Expands Its Data Center Offerings, Should You Buy, Sell, or Hold SMCI Stock?",
         "title_zh": "随着 Super Micro Computer 扩展其数据中心产品，您应该购买、出售还是持有 SMCI 股票？",
         "summary": "With price targets implying moderate upside and the next earnings report likely to set the tone, investors consider the best way to move with SMCI?",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-leads-consumer-m-090000318.html",
         "publisher": "Just Drinks",
         "publish_time": 1777453200,
-        "type": "News"
-    },
-    {
-        "title": "BASF Coatings Launches $2 Billion Debt Sale To Fund Carlyle Acquisition",
-        "title_zh": "巴斯夫涂料公司启动 20 亿美元债务出售，为凯雷收购提供资金",
-        "summary": "This article first appeared on GuruFocus. Banks have moved to launch a debt sale exceeding $2 billion tied to the carve-out of BASF SE's (BASFY) coatings division, a deal that could offer a timely read on investor appetite for chemicals exposure.",
-        "summary_zh": "本文首发于 GuruFocus。银行已着手启动一项超过 20 亿美元的债务出售，与剥离巴斯夫股份公司 (BASFY) 涂料部门相关，这项交易可以及时了解投资者对化学品敞口的兴趣。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/basf-coatings-launches-2-billion-193350026.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1777404830,
         "type": "News"
     }
 ]

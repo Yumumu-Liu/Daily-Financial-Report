@@ -1,5 +1,15 @@
 [
     {
+        "title": "Be Warned: A Historical Triple Whammy Awaits the SpaceX IPO",
+        "title_zh": "警告：历史性的三重打击正在等待 SpaceX IPO",
+        "summary": "History tends to rhyme on Wall Street -- and that's terrible news for prospective SpaceX investors.",
+        "summary_zh": "华尔街的历史往往会押韵——这对于 SpaceX 的潜在投资者来说是一个可怕的消息。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warned-historical-triple-whammy-awaits-082600476.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777537560,
+        "type": "News"
+    },
+    {
         "title": "Bill Ackman on OpenAI, tech stocks, and his big IPO",
         "title_zh": "Bill Ackman 谈 OpenAI、科技股和他的大型 IPO",
         "summary": "Bill Ackman makes some waves down at the New York Stock Exchange.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
         "publisher": "Zacks",
         "publish_time": 1775139000,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX Eyes IPO as Market Conditions Grow More Uncertain. What the Charts Show.",
-        "title_zh": "随着市场状况变得更加不确定，SpaceX 考虑进行 IPO。图表显示什么。",
-        "summary": "The prospect of a SpaceX IPO has become a key focal point for markets, and any delay tied to deteriorating conditions could carry broader implications.",
-        "summary_zh": "SpaceX 首次公开募股的前景已成为市场的主要焦点，任何因情况恶化而导致的延误都可能带来更广泛的影响。",
-        "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1774971420,
         "type": "News"
     }
 ]
