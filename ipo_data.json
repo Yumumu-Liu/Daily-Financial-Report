@@ -1,5 +1,15 @@
 [
     {
+        "title": "Bill Ackman on OpenAI, tech stocks, and his big IPO",
+        "title_zh": "Bill Ackman 谈 OpenAI、科技股和他的大型 IPO",
+        "summary": "Bill Ackman makes some waves down at the New York Stock Exchange.",
+        "summary_zh": "比尔·阿克曼 (Bill Ackman) 在纽约证券交易所掀起轩然大波。",
+        "link": "https://finance.yahoo.com/news/bill-ackman-on-openai-tech-stocks-and-his-big-ipo-155604868.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777478164,
+        "type": "News"
+    },
+    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -37,16 +47,6 @@
         "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1774971420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
-        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
-        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
-        "publisher": "Zacks",
-        "publish_time": 1774872000,
         "type": "News"
     }
 ]
