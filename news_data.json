@@ -1,12 +1,52 @@
 [
     {
-        "title": "Asia shares find relief in tech resilience, oil off peak",
-        "title_zh": "亚洲股市因科技股复苏而有所缓解，石油脱离高峰",
-        "summary": "By Wayne Cole SYDNEY, May 1 (Reuters) - Asian share markets rebounded in relief on Friday as oil prices came off the boil and upbeat company earnings pulled investors into tech stocks, while Japan's",
-        "summary_zh": "路透悉尼 5 月 1 日 - 亚洲股市周五如释重负地反弹，因油价回落以及乐观的公司盈利吸引投资者买入科技股，而日本股市则在",
-        "link": "https://finance.yahoo.com/news/asia-shares-relief-tech-resilience-013006225.html",
+        "title": "The stock market just had its best month since the pandemic rebound: Chart of the Day",
+        "title_zh": "股市刚刚经历了大流行反弹以来最好的一个月：每日图表",
+        "summary": "Stocks knocked it out of the park in April.",
+        "summary_zh": "四月份的股市把它从公园里赶了出来。",
+        "link": "https://finance.yahoo.com/markets/article/the-stock-market-just-had-its-best-month-since-the-pandemic-rebound-chart-of-the-day-100000062.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777629600,
+        "type": "News"
+    },
+    {
+        "title": "The downstream winners of the AI trade's latest phase",
+        "title_zh": "人工智能行业最新阶段的下游赢家",
+        "summary": "Jackson Square Capital managing partner Andrew Graham takes a magnifying glass to the state of the AI trade — as the latest batch of Magnificent Seven earnings came out this week — and the factors that are creating \"downstream winners\" like Dell Technologies (DELL).",
+        "summary_zh": "Jackson Square Capital 管理合伙人安德鲁·格雷厄姆（Andrew Graham）用放大镜观察了人工智能行业的状况——最新一批七大财报本周公布——以及创造戴尔科技公司（DELL）等“下游赢家”的因素。",
+        "link": "https://finance.yahoo.com/video/downstream-winners-ai-trades-latest-100000215.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1777629600,
+        "type": "News"
+    },
+    {
+        "title": "The Week in Numbers: big tech spends big on AI, oil marches on",
+        "title_zh": "本周数字：大型科技公司在人工智能上投入巨资，石油继续前进",
+        "summary": "STORY: From big tech spending to Prada's boost from the Americas...",
+        "summary_zh": "故事：从巨额科技支出到 Prada 在美洲的推动......",
+        "link": "https://finance.yahoo.com/video/week-numbers-big-tech-spends-095315750.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1777629195,
+        "type": "News"
+    },
+    {
+        "title": "Reddit rallies as AI‑driven ad growth fuels strong revenue outlook",
+        "title_zh": "人工智能驱动的广告增长推动强劲的收入前景，Reddit 上涨",
+        "summary": "Reddit shares jumped 16% in premarket trading on Friday after an upbeat quarterly revenue forecast underscored growing ‌returns from the social media company's AI-driven advertising tools.",
+        "summary_zh": "Reddit 股价在周五盘前交易中上涨 16%，此前乐观的季度收入预测凸显了这家社交媒体公司人工智能驱动的广告工具的回报不断增长。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rallies-ai-driven-ad-092049214.html",
         "publisher": "Reuters",
-        "publish_time": 1777599006,
+        "publish_time": 1777627249,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI CFO Sees ‘Vertical Wall of Demand’ for Products",
+        "title_zh": "OpenAI 首席财务官看到了产品的“垂直需求墙”",
+        "summary": "(Bloomberg) -- OpenAI Chief Financial Officer Sarah Friar pushed back on concerns about missing internal targets, saying the company is meeting objectives and sees “a vertical wall of demand” for its products.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for th...",
+        "summary_zh": "（彭博社）——OpenAI 首席财务官 Sarah Friar 反驳了对未达到内部目标的担忧，称该公司正在实现目标，并看到对其产品的“垂直需求墙”。彭博社的大多数报道都寻求部署高超音速导弹...",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-cfo-sees-vertical-wall-081940334.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777623580,
         "type": "News"
     },
     {
@@ -20,73 +60,33 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures tick up after gauges close April on record highs",
-        "title_zh": "今日股市：标准普尔 500 指数、纳斯达克指数、道指期货在 4 月份收盘创下历史新高后上涨",
-        "summary": "Stock futures climbed following record closes after sweltering Big Tech earnings in a volatile market.",
-        "summary_zh": "在动荡的市场中，大型科技公司的盈利受到抑制，股票期货收盘创下历史新高。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html",
+        "title": "Elon Musk’s Tesla Compensation Totals $158 Billion for 2025",
+        "title_zh": "埃隆·马斯克 (Elon Musk) 2025 年特斯拉薪酬总额达 1,580 亿美元",
+        "summary": "(Bloomberg) -- Elon Musk’s first compensation figure after Tesla Inc.",
+        "summary_zh": "（彭博社）——埃隆·马斯克继特斯拉之后的第一个薪酬数字",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-tesla-compensation-totals-230840938.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1777590520,
+        "type": "News"
+    },
+    {
+        "title": "Apple is facing Mac mini supply constraints as AI and OpenClaw developers buy up tiny desktops",
+        "title_zh": "由于 AI 和 OpenClaw 开发者大量购买小型台式机，苹果面临 Mac mini 供应限制",
+        "summary": "Apple's Macs are becoming harder to get as AI developers buy up supplies.",
+        "summary_zh": "随着人工智能开发者抢购供应，苹果的 Mac 变得越来越难买到。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/apple-is-facing-mac-mini-supply-constraints-as-ai-and-openclaw-developers-buy-up-tiny-desktops-221232805.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1777590656,
+        "publish_time": 1777587152,
         "type": "News"
     },
     {
-        "title": "Wall Street ends higher, S&P 500, Nasdaq notch strong monthly gains",
-        "title_zh": "华尔街收高，标准普尔 500 指数和纳斯达克指数月度强劲上涨",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-p-225504341.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1777589704,
-        "type": "News"
-    },
-    {
-        "title": "Apple's wait-and-see AI strategy isn't a problem: Earnings takeaways",
-        "title_zh": "苹果的观望人工智能策略不是问题：盈利要点",
-        "summary": "Apple (AAPL) reported second quarter results on Thursday after the closing bell. Adjusted earnings per share (EPS) came in at $2.01 (compared to analyst estimates of $1.96), and revenue came in at $111.2 billion (compared to analyst estimates of $109.66 billion). D.A.",
-        "summary_zh": "苹果公司（AAPL）周四收盘后公布了第二季度业绩。调整后每股收益 (EPS) 为 2.01 美元（分析师预期为 1.96 美元），收入为 1,112 亿美元（分析师预期为 1,096.6 亿美元）。 DA",
-        "link": "https://finance.yahoo.com/video/apples-wait-and-see-ai-strategy-isnt-a-problem-earnings-takeaways-213358802.html",
+        "title": "Apple beats on Q2 earnings, thanks to China & iPhone sales",
+        "title_zh": "苹果第二季度盈利好于中国和 iPhone 销售",
+        "summary": "Apple (AAPL) reported second quarter results on Thursday after the closing bell. Adjusted earnings per share (EPS) came in at $2.01 (compared to analyst estimates of $1.96), and revenue came in at $111.2 billion (compared to analyst estimates of $109.66 billion).",
+        "summary_zh": "苹果公司（AAPL）周四收盘后公布了第二季度业绩。调整后每股收益 (EPS) 为 2.01 美元（分析师预期为 1.96 美元），收入为 1,112 亿美元（分析师预期为 1,096.6 亿美元）。",
+        "link": "https://finance.yahoo.com/video/apple-beats-on-q2-earnings-thanks-to-china--iphone-sales-204052273.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1777584838,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq leads US stocks in monthly gains following April rally",
-        "title_zh": "纳斯达克指数在 4 月份上涨后引领美国股市月度涨幅",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are on track to post massive monthly gains to close out April, with the Nasdaq Composite rising nearly 20% in that period.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）有望在 4 月份收盘时实现每月大幅上涨，纳斯达克综合指数同期上涨近 20%。",
-        "link": "https://finance.yahoo.com/video/nasdaq-leads-us-stocks-in-monthly-gains-following-april-rally-201531873.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777580131,
-        "type": "News"
-    },
-    {
-        "title": "Blue Owl CEO touts Big Tech's AI spending as 'significant' opportunity for the private credit giant",
-        "title_zh": "Blue Owl 首席执行官将大型科技公司的人工智能支出视为这家私人信贷巨头的“重大”机会",
-        "summary": "Blue Owl stock is surging after it reports growth in its data center financing and leasing business.",
-        "summary_zh": "Blue Owl 报告数据中心融资和租赁业务增长后，其股价飙升。",
-        "link": "https://finance.yahoo.com/markets/article/blue-owl-ceo-touts-big-techs-ai-spending-as-significant-opportunity-for-the-private-credit-giant-183626017.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777574186,
-        "type": "News"
-    },
-    {
-        "title": "How Nvidia beat Apple to become the defining stock of the AI boom",
-        "title_zh": "英伟达如何击败苹果成为人工智能热潮的决定性股票",
-        "summary": "The \"Magnificent Seven\" rose to fame with Apple on top. But Nvidia quickly became the leader of the group.",
-        "summary_zh": "“七侠”声名鹊起，其中苹果公司名列前茅。但英伟达很快成为该群体的领导者。",
-        "link": "https://finance.yahoo.com/markets/article/how-nvidia-beat-apple-to-become-the-defining-stock-of-the-ai-boom-181731661.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1777573051,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft Q3 earnings: Two reasons why the tech stock is falling",
-        "title_zh": "微软第三季度财报：科技股下跌的两个原因",
-        "summary": "Microsoft stock (MSFT) is dropping on Thursday despite the tech giant boasting fiscal third quarter earnings results that beat estimates, while its AI business grew 123% year over year.",
-        "summary_zh": "微软 (MSFT) 股价周四下跌，尽管这家科技巨头吹嘘第三财季盈利结果超出预期，而其人工智能业务同比增长 123%。",
-        "link": "https://finance.yahoo.com/video/microsoft-q3-earnings-two-reasons-153000711.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1777563000,
+        "publish_time": 1777581652,
         "type": "News"
     }
 ]
