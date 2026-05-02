@@ -50,16 +50,6 @@
         "type": "News"
     },
     {
-        "title": "Estee Lauder to cut up to 3,000 more jobs as it pursues Puig deal",
-        "title_zh": "雅诗兰黛拟再裁员 3,000 人 寻求 Puig 交易",
-        "summary": "STORY: Shares of Estee Lauder rose as much as 12% on Friday after the company raised its annual profit forecast and said it would cut up to 3,000 more jobs as it accelerates a broad restructuring.The cosmetics firm, which also owns Clinique and M.A.C, is in talks to merge with...",
-        "summary_zh": "故事：雅诗兰黛 (Estee Lauder) 上调年度利润预期，并表示将加速大规模重组，并表示将裁员 3,000 人，该公司股价周五上涨 12%。这家化妆品公司还拥有倩碧 (Clinique) 和魅可 (M.A.C)，目前正在与...进行合并谈判。",
-        "link": "https://finance.yahoo.com/video/estee-lauder-cut-3-000-192756640.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1777663676,
-        "type": "News"
-    },
-    {
         "title": "Reddit stock surges after ad revenue jumps 74% in Q1",
         "title_zh": "第一季度广告收入增长 74%，Reddit 股价飙升",
         "summary": "Reddit stock jumped after the online platform reported better-than-expected earnings and ad sales.",
@@ -83,9 +73,19 @@
         "title": "The stock market just had its best month since the pandemic rebound: Chart of the Day",
         "title_zh": "股市刚刚经历了大流行反弹以来最好的一个月：每日图表",
         "summary": "Stocks knocked it out of the park in April.",
-        "summary_zh": "4 月份，股市将其击垮。",
+        "summary_zh": "四月份的股市把它从公园里赶了出来。",
         "link": "https://finance.yahoo.com/markets/article/the-stock-market-just-had-its-best-month-since-the-pandemic-rebound-chart-of-the-day-100000062.html",
         "publisher": "Yahoo Finance",
+        "publish_time": 1777629600,
+        "type": "News"
+    },
+    {
+        "title": "The downstream winners of the AI trade's latest phase",
+        "title_zh": "人工智能行业最新阶段的下游赢家",
+        "summary": "Jackson Square Capital managing partner Andrew Graham takes a magnifying glass to the state of the AI trade — as the latest batch of Magnificent Seven earnings came out this week — and the factors that are creating \"downstream winners\" like Dell Technologies (DELL).",
+        "summary_zh": "Jackson Square Capital 管理合伙人安德鲁·格雷厄姆（Andrew Graham）用放大镜观察了人工智能行业的状况——最新一批七大财报本周公布——以及创造戴尔科技公司（DELL）等“下游赢家”的因素。",
+        "link": "https://finance.yahoo.com/video/downstream-winners-ai-trades-latest-100000215.html",
+        "publisher": "Yahoo Finance Video",
         "publish_time": 1777629600,
         "type": "News"
     }

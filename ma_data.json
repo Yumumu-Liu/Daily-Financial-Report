@@ -1,9 +1,19 @@
 [
     {
+        "title": "Is This Acquisition a Game Changer for Netflix?",
+        "title_zh": "此次收购会改变 Netflix 的游戏规则吗？",
+        "summary": "At the very least, it didn't cost the company tens of billions of dollars.",
+        "summary_zh": "至少，公司没有损失数百亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/acquisition-game-changer-netflix-085000832.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777711800,
+        "type": "News"
+    },
+    {
         "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
         "title_zh": "Replit 的 Amjad Masad 谈 Cursor 交易，与苹果作斗争，以及为什么他不愿出售",
         "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for...",
-        "summary_zh": "周四晚上，在 TechCrunch 在旧金山举行的 StrictlyVC 活动中，座无虚席，我们在短时间内讨论了很多内容，首先是业内每个人现在都在问的问题：据报道，竞争对手 Cursor 正在与 SpaceX 就收购事宜进行谈判……",
+        "summary_zh": "星期四晚上，在 TechCrunch 在旧金山举办的 StrictlyVC 活动中，座无虚席，我们在短时间内讨论了很多内容，首先是业内每个人现在都在问的问题：据报道，竞争对手 Cursor 正在与 SpaceX 就收购事宜进行谈判……",
         "link": "https://finance.yahoo.com/sectors/technology/articles/replit-amjad-masad-cursor-deal-230650050.html",
         "publisher": "TechCrunch",
         "publish_time": 1777676810,
@@ -17,16 +27,6 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-25-7-securing-221718762.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1777673838,
-        "type": "News"
-    },
-    {
-        "title": "Estee Lauder to cut up to 3,000 more jobs as it pursues Puig deal",
-        "title_zh": "雅诗兰黛拟再裁员 3,000 人 寻求 Puig 交易",
-        "summary": "STORY: Shares of Estee Lauder rose as much as 12% on Friday after the company raised its annual profit forecast and said it would cut up to 3,000 more jobs as it accelerates a broad restructuring.The cosmetics firm, which also owns Clinique and M.A.C, is in talks to merge with...",
-        "summary_zh": "故事：雅诗兰黛 (Estee Lauder) 上调年度利润预期，并表示将加速大规模重组，并表示将裁员 3,000 人，该公司股价周五上涨 12%。这家化妆品公司还拥有倩碧 (Clinique) 和魅可 (M.A.C)，目前正在与...进行合并谈判。",
-        "link": "https://finance.yahoo.com/video/estee-lauder-cut-3-000-192756640.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1777663676,
         "type": "News"
     },
     {
