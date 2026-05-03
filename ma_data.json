@@ -1,5 +1,25 @@
 [
     {
+        "title": "Is Nvidia's Deal With Oklo a Game Changer?",
+        "title_zh": "Nvidia 与 Oklo 的交易会改变游戏规则吗？",
+        "summary": "Nvidia and Oklo recently joined forces as reliable energy sources become the new bottleneck for artificial intelligence data centers.",
+        "summary_zh": "随着可靠的能源成为人工智能数据中心的新瓶颈，Nvidia 和 Oklo 最近联手。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidias-deal-oklo-game-changer-074100349.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1777794060,
+        "type": "News"
+    },
+    {
+        "title": "Reddit (RDDT) Is Up 7.5% After AI Ad And Data Deals Turbocharge Q1 Results - What's Changed",
+        "title_zh": "人工智能广告和数据交易大幅提升第一季度业绩后，Reddit (RDDT) 上涨 7.5% - 发生了什么变化",
+        "summary": "In the first quarter of 2026, Reddit reported revenue of US$663.41 million and net income of US$203.98 million, both sharply higher than a year earlier, as advertising and user engagement drove strong growth.",
+        "summary_zh": "2026年第一季度，Reddit报告收入为6.6341亿美元，净利润为2.0398亿美元，均较上年同期大幅增长，广告和用户参与度推动强劲增长。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-7-5-ai-060758929.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1777788478,
+        "type": "News"
+    },
+    {
         "title": "This High-Yield Emerging Funds ETF Offers International Diversification",
         "title_zh": "该高收益新兴基金 ETF 提供国际多元化",
         "summary": "The WisdomTree Emerging Markets High Dividend Fund (NYSEARCA:DEM) was built for a specific problem: U.S.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/bloom-energy-25-7-securing-221718762.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1777673838,
-        "type": "News"
-    },
-    {
-        "title": "BASF Coatings Launches $2 Billion Debt Sale To Fund Carlyle Acquisition",
-        "title_zh": "巴斯夫涂料公司启动 20 亿美元债务出售，为凯雷收购提供资金",
-        "summary": "This article first appeared on GuruFocus. Banks have moved to launch a debt sale exceeding $2 billion tied to the carve-out of BASF SE's (BASFY) coatings division, a deal that could offer a timely read on investor appetite for chemicals exposure.",
-        "summary_zh": "本文首次发表于 GuruFocus。银行已着手启动一项超过 20 亿美元的债务出售，与剥离巴斯夫股份公司 (BASFY) 涂料部门相关，这项交易可以及时了解投资者对化学品敞口的兴趣。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/basf-coatings-launches-2-billion-193350026.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1777404830,
-        "type": "News"
-    },
-    {
-        "title": "Wealth management land grab drives deal boom amid private market upheaval",
-        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
-        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
-        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1776289768,
         "type": "News"
     }
 ]
