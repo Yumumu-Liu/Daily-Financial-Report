@@ -1,32 +1,52 @@
 [
     {
-        "title": "MediaTek hires former TSMC executive to boost AI chip packaging",
-        "title_zh": "联发科聘请台积电前高管，推动AI芯片封装",
-        "summary": "Taiwanese chip designer MediaTek said it has appointed former ‌TSMC executive Douglas Yu as a part-time ‌adviser as it steps up advanced packaging work and expands ​into the AI chip market.",
-        "summary_zh": "台湾芯片设计商联发科表示，已任命前台积电高管 Douglas Yu 为兼职顾问，以加强先进封装工作并进军人工智能芯片市场。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/mediatek-hires-former-tsmc-executive-030028783.html",
+        "title": "New Mexico seeks changes to Meta platforms in youth harm trial",
+        "title_zh": "新墨西哥州寻求对青少年伤害审判中的 Meta 平台进行更改",
+        "summary": "By Diana Novak Jones May 4 (Reuters) - A trial is slated to begin in New Mexico on Monday that will test the state’s claims that Meta’s Facebook, Instagram and WhatsApp platforms harmed young users’",
+        "summary_zh": "戴安娜·诺瓦克·琼斯 (Diana Novak Jones) 5 月 4 日（路透社）——一项审判定于周一在新墨西哥州开始，将检验该州关于 Meta 的 Facebook、Instagram 和 WhatsApp 平台损害年轻用户权益的说法。",
+        "link": "https://finance.yahoo.com/news/mexico-seeks-changes-meta-platforms-100455041.html",
         "publisher": "Reuters",
-        "publish_time": 1777863628,
+        "publish_time": 1777889622,
         "type": "News"
     },
     {
-        "title": "GameStop makes bold $56 billion play for eBay, ready to go hostile",
-        "title_zh": "GameStop 斥资 560 亿美元大胆收购 eBay，准备发起敌对行动",
-        "summary": "GameStop proposed on Sunday to buy eBay Inc for about $56 billion in a cash-and-stock deal, with CEO Ryan Cohen saying he was prepared to take the bid directly to shareholders should eBay's board be unreceptive.",
-        "summary_zh": "GameStop 周日提议以约 560 亿美元的现金和股票交易收购 eBay 公司，首席执行官瑞安·科恩 (Ryan Cohen) 表示，如果 eBay 董事会不接受，他准备直接向股东提出收购要约。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-offers-to-buy-ebay-for-about-56-billion-231151846.html",
+        "title": "Amazon opens up its logistics network to other businesses",
+        "title_zh": "亚马逊向其他企业开放其物流网络",
+        "summary": "Amazon.com said on Monday it was rolling out \"Amazon ‌Supply Chain Services\", opening up its ‌logistics network for other businesses to use.",
+        "summary_zh": "亚马逊周一表示，正在推出“亚马逊供应链服务”，开放其物流网络供其他企业使用。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-opens-logistics-network-other-100922260.html",
         "publisher": "Reuters",
-        "publish_time": 1777849911,
+        "publish_time": 1777889362,
         "type": "News"
     },
     {
-        "title": "Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs",
-        "title_zh": "随着股市重回高位，交易员努力应对两侧尾部风险",
-        "summary": "(Bloomberg) -- With equities back to their highs after a V-shaped recovery from the Iran oil shock, investors are increasingly caught between left and right tail risks: The tireless AI and semiconductor rally on one side and the gradual drag from higher energy prices on the ot...",
-        "summary_zh": "（彭博社）——随着股市从伊朗石油危机中出现 V 型复苏后回到高位，投资者越来越多地陷入左尾风险和右尾风险之间：一方面是人工智能和半导体的不懈上涨，另一方面是能源价格上涨的逐渐拖累……",
-        "link": "https://finance.yahoo.com/news/traders-grapple-two-sided-tail-140000302.html",
+        "title": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues",
+        "title_zh": "今日科技股：人工智能热潮中半导体公司盈利成为焦点，马斯克与奥特曼之战仍在继续",
+        "summary": "Tech stocks are in focus amid an earnings bonanza, layoffs, and AI spending plans.",
+        "summary_zh": "在盈利丰厚、裁员和人工智能支出计划的推动下，科技股成为焦点。",
+        "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-semiconductor-earnings-ai-boom-musk-altman-fight-100000447.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777888800,
+        "type": "News"
+    },
+    {
+        "title": "AI Chipmakers in Korea, Taiwan Drive Asian Stocks to Record",
+        "title_zh": "韩国和台湾的人工智能芯片制造商推动亚洲股市创历史新高",
+        "summary": "(Bloomberg) -- A rally in shares tied to artificial intelligence helped Asia’s stock benchmark wipe out losses sparked by the Iran war and climb back to an all-time high.Most Read from BloombergBeijing Tells China Firms to Ignore US Sanctions on RefinersSupertanker Appears to ...",
+        "summary_zh": "（彭博社）——与人工智能相关的股市上涨帮助亚洲股市基准消除了伊朗战争引发的损失，并回升至历史新高。彭博社的大多数报道北京告诉中国企业无视美国对炼油厂的制裁超级油轮似乎......",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-chipmakers-korea-taiwan-drive-063820107.html",
         "publisher": "Bloomberg",
-        "publish_time": 1777816800,
+        "publish_time": 1777886602,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed as investors eye Trump's Hormuz plan",
+        "title_zh": "今日股市：投资者关注特朗普的霍尔木兹计划，标普 500 指数、纳斯达克指数、道指期货涨跌互现",
+        "summary": "Developments in Iran continue to dictate investor sentiment.",
+        "summary_zh": "伊朗的事态发展继续决定着投资者的情绪。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-4-231452685.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1777850092,
         "type": "News"
     },
     {
@@ -37,16 +57,6 @@
         "link": "https://finance.yahoo.com/markets/article/its-a-boom-wall-street-sees-more-market-gains-as-strong-earnings-fuel-the-ai-trade-130032453.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1777813232,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech Earnings Show Split Between AI Trade Winners and Losers",
-        "title_zh": "大型科技公司的盈利显示人工智能贸易的赢家和输家之间存在分歧",
-        "summary": "(Bloomberg) -- The world’s biggest technology companies posted strong earnings last week, showing that the artificial intelligence boom is alive and well.",
-        "summary_zh": "（彭博社）——全球最大的科技公司上周发布了强劲的盈利报告，表明人工智能热潮依然存在。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earnings-show-split-130007908.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1777813207,
         "type": "News"
     },
     {

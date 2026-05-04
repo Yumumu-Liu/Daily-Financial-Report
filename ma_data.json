@@ -1,32 +1,12 @@
 [
     {
-        "title": "GameStop makes $56 billion takeover bid for eBay",
-        "title_zh": "GameStop 出价 560 亿美元收购 eBay",
-        "summary": "US video game retailer GameStop made a takeover bid on Sunday to buy eBay for about $55.5 billion in an attempt to turn the online marketplace into a competitor to e-commerce giant Amazon.“It could be a legit competitor to Amazon.\"",
-        "summary_zh": "美国视频游戏零售商GameStop周日提出收购要约，以约555亿美元收购eBay，试图将在线市场转变为电子商务巨头亚马逊的竞争对手。“它可能成为亚马逊的合法竞争对手。”",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-makes-56-billion-takeover-020749134.html",
-        "publisher": "AFP",
-        "publish_time": 1777860469,
-        "type": "News"
-    },
-    {
-        "title": "GameStop Offers to Buy eBay for $56 Billion",
-        "title_zh": "GameStop 提出以 560 亿美元收购 eBay",
-        "summary": "CEO Ryan Cohen said GameStop has built a roughly 5% stake in eBay and was offering $125 a share in cash and stock.",
-        "summary_zh": "首席执行官瑞安·科恩 (Ryan Cohen) 表示，GameStop 已持有 eBay 约 5% 的股份，并提供每股 125 美元的现金加股票。",
-        "link": "https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a?siteid=yhoof2&yptr=yahoo",
+        "title": "EBay Stock Jumps on $56 Billion GameStop Offer",
+        "title_zh": "eBay 股价因 GameStop 560 亿美元报价而上涨",
+        "summary": "Investors are bidding up eBay shares. That's after GameStop CEO Ryan Cohen told The Wall Street Journal that he had made an unsolicited offer to buy the e-commerce platform, and that he saw a path to make it a much bigger competitor to Amazon.",
+        "summary_zh": "投资者正在竞购 eBay 股票。此前，GameStop 首席执行官瑞安·科恩 (Ryan Cohen) 告诉《华尔街日报》，他已主动提出收购该电子商务平台的要约，并且他看到了一条使其成为亚马逊更大竞争对手的途径。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-04-2026/card/ebay-stock-jumps-on-56-billion-gamestop-offer-3ShcS2saTU1hGMxuKB2i?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "publish_time": 1777860120,
-        "type": "News"
-    },
-    {
-        "title": "This High-Yield Bond ETF Offers Steady Cash Flow and Low Volatility",
-        "title_zh": "这款高收益债券 ETF 提供稳定的现金流和低波动性",
-        "summary": "Income investors face a familiar bind in 2026: investment-grade bonds yield around the 10-year Treasury’s roughly 4.4%, while equities like the S&P 500 have returned roughly 28% over the past year with stomach-churning volatility along the way.",
-        "summary_zh": "收入投资者在 2026 年面临着熟悉的困境：10 年期美国国债的投资级债券收益率约为 4.4%，而标准普尔 500 指数等股票在过去一年中的回报率约为 28%，一路上波动剧烈。",
-        "link": "https://finance.yahoo.com/markets/options/articles/high-yield-bond-etf-offers-000539203.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1777853139,
+        "publish_time": 1777886596,
         "type": "News"
     },
     {
@@ -43,10 +23,30 @@
         "title": "BASF Coatings Launches $2 Billion Debt Sale To Fund Carlyle Acquisition",
         "title_zh": "巴斯夫涂料公司启动 20 亿美元债务出售，为凯雷收购提供资金",
         "summary": "This article first appeared on GuruFocus. Banks have moved to launch a debt sale exceeding $2 billion tied to the carve-out of BASF SE's (BASFY) coatings division, a deal that could offer a timely read on investor appetite for chemicals exposure.",
-        "summary_zh": "本文首发于 GuruFocus。银行已着手启动一项超过 20 亿美元的债务出售，与剥离巴斯夫股份公司 (BASFY) 涂料部门相关，这项交易可以及时了解投资者对化学品敞口的兴趣。",
+        "summary_zh": "本文首次发表于 GuruFocus。银行已着手启动一项超过 20 亿美元的债务出售，与剥离巴斯夫股份公司 (BASFY) 涂料部门相关，这项交易可以及时了解投资者对化学品敞口的兴趣。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/basf-coatings-launches-2-billion-193350026.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1777404830,
+        "type": "News"
+    },
+    {
+        "title": "Wealth management land grab drives deal boom amid private market upheaval",
+        "title_zh": "私人市场动荡之际，财富管理领域的抢地驱动交易热潮",
+        "summary": "Carlyle CEO Harvey Schwartz. Patrick T. Fallon/Getty Images Wealth management firms are on the auction block, and they’re selling faster than ever.",
+        "summary_zh": "凯雷集团首席执行官哈维·施瓦茨。 Patrick T. Fallon/Getty Images 财富管理公司正在拍卖，而且它们的销售速度比以往任何时候都快。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-management-land-grab-drives-180815798.html",
+        "publisher": "Pitchbook",
+        "publish_time": 1776289768,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
