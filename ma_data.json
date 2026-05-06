@@ -1,12 +1,32 @@
 [
     {
-        "title": "Amazon Deal Recasts Upbound’s Rent A Center Stores As Traffic Hubs",
-        "title_zh": "亚马逊交易将 Upbound 的 Rent A 中心商店重塑为流量中心",
-        "summary": "Upbound Group's Rent-A-Center unit has entered into a partnership with Amazon to provide nationwide in-store pickup and return services. The agreement allows thousands of Rent-A-Center locations to act as Amazon pickup and return points across the US.",
-        "summary_zh": "Upbound Group 的 Rent-A-Center 部门已与亚马逊建立合作伙伴关系，提供全国范围内的店内提货和退货服务。该协议允许数千个 Rent-A-Center 地点作为亚马逊在美国各地的提货和还货点。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-deal-recasts-upbound-rent-232639960.html",
+        "title": "Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report That U.S.-Iran Deal Close; AMD Soars On Earnings",
+        "title_zh": "美伊协议结束，道琼斯期货上涨，油价跌破 100 美元； AMD 盈利飙升",
+        "summary": "Dow Jones futures: President Trump \"paused\" his Hormuz effort with a U.S.-Iran deal reportedly close. AI stocks AMD, Astera Labs jumped on earnings.",
+        "summary_zh": "道琼斯期货：特朗普总统“暂停”了霍尔木兹的努力，据报道美伊协议已经接近。人工智能股 AMD、Astera Labs 因盈利而上涨。",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-hormuz-pause-amd-lumentum-arista-earnings/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1778064352,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: US, Iran Close to Agreement That Could End War, Lead to Broader Deal",
+        "title_zh": "市场传言：美国和伊朗接近达成协议，结束战争，达成更广泛的协议",
+        "summary": "The US and Iran are close to an agreement on a single-page memorandum of understanding that could en",
+        "summary_zh": "美国和伊朗即将就一份单页谅解备忘录达成协议",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-close-101340233.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1778062420,
+        "type": "News"
+    },
+    {
+        "title": "Bloom Energy (BE) Valuation Check As Strong Q1 2026 Results And Oracle AI Deal Lift Expectations",
+        "title_zh": "Bloom Energy (BE) 估值检查 2026 年第一季度业绩强劲，Oracle AI 交易提升预期",
+        "summary": "Bloom Energy (BE) has jumped into focus after a busy late April, with Q1 2026 earnings beating analyst expectations, full year guidance raised to US$3.4b to US$3.8b, and an expanded Oracle partnership for AI data center power. See our latest analysis for Bloom Energy.",
+        "summary_zh": "Bloom Energy (BE) 在经历了 4 月底的繁忙之后，成为人们关注的焦点，其 2026 年第一季度收益超出了分析师预期，全年指引提高至 3.4 亿美元至 3.8 亿美元，并且扩大了 Oracle 在人工智能数据中心电力方面的合作伙伴关系。请参阅我们对 Bloom...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-valuation-check-strong-061334579.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1778023599,
+        "publish_time": 1778048014,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
         "publisher": "Bloomberg",
         "publish_time": 1778014408,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today, May 4: ADT Falls as Apollo Exits Stake Through 102 Million-Share Offering",
-        "title_zh": "今日股市，5 月 4 日：Apollo 通过 1.02 亿股发行退出股份，ADT 下跌",
-        "summary": "Apollo’s exit puts a large block of ADT shares into the market, while the company’s concurrent buyback absorbs only part of the selling pressure.",
-        "summary_zh": "Apollo 的退出将大量 ADT 股票推向市场，而该公司同时进行的回购仅吸收了部分抛售压力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-may-4-220145749.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1777932105,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle Expands Healthcare Push With Majority RCM Deal",
-        "title_zh": "凯雷通过 RCM 多数股权交易扩大医疗保健业务",
-        "summary": "Carlyle acquired majority stakes in Knack RCM and EqualizeRCM to build a new revenue cycle management platform.",
-        "summary_zh": "凯雷收购了 Knack RCM 和 EqualizeRCM 的多数股权，以建立新的收入周期管理平台。",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-expands-healthcare-push-majority-182252851.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1777918972,
         "type": "News"
     }
 ]
