@@ -1,22 +1,32 @@
 [
     {
-        "title": "Here’s What RBC Capital Thinks About Microsoft (MSFT) After Amended Deal With OpenAI",
-        "title_zh": "以下是加拿大皇家银行资本 (RBC Capital) 在修改与 OpenAI 的交易后对微软 (MSFT) 的看法",
-        "summary": "Microsoft Corporation (NASDAQ:MSFT) is pursuing quantum computing as a core long‑term pillar of its Azure cloud platform.",
-        "summary_zh": "微软公司（纳斯达克股票代码：MSFT）正在将量子计算作为其 Azure 云平台的核心长期支柱。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-thinks-microsoft-msft-101036004.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1777975836,
+        "title": "Amazon Deal Recasts Upbound’s Rent A Center Stores As Traffic Hubs",
+        "title_zh": "亚马逊交易将 Upbound 的 Rent A 中心商店重塑为流量中心",
+        "summary": "Upbound Group's Rent-A-Center unit has entered into a partnership with Amazon to provide nationwide in-store pickup and return services. The agreement allows thousands of Rent-A-Center locations to act as Amazon pickup and return points across the US.",
+        "summary_zh": "Upbound Group 的 Rent-A-Center 部门已与亚马逊建立合作伙伴关系，提供全国范围内的店内提货和退货服务。该协议允许数千个 Rent-A-Center 地点作为亚马逊在美国各地的提货和还货点。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-deal-recasts-upbound-rent-232639960.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778023599,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet stock climbs 2% on report of massive Anthropic deal",
+        "title_zh": "Anthropic 大规模交易报道导致 Alphabet 股价上涨 2%",
+        "summary": "Investing.com -- Alphabet Inc. (NASDAQ:GOOGL) rose 2% in after-hours trading Tuesday following a report that Anthropic has committed to spending approximately $200 billion with Google Cloud over the next five years.",
+        "summary_zh": "Investing.com——Alphabet Inc.（纳斯达克股票代码：GOOGL）周二盘后交易中上涨 2%，此前有报道称 Anthropic 承诺在未来五年内向 Google Cloud 投入约 2000 亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-climbs-2-report-210633286.html",
+        "publisher": "Investing.com",
+        "publish_time": 1778015193,
         "type": "News"
     },
     {
         "title": "Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal",
         "title_zh": "Alphabet 重返欧元债券市场进行最新人工智能超级债券交易",
-        "summary": "(Bloomberg) -- Alphabet Inc.",
-        "summary_zh": "（彭博社）——Alphabet Inc.",
+        "summary": "(Bloomberg) -- Alphabet Inc. needs to borrow heavily to fund investments in artificial intelligence, and it’s increasingly tapping every market to do so.",
+        "summary_zh": "（彭博社）——Alphabet Inc. 需要大量借贷来资助人工智能投资，并且它正在越来越多地利用各个市场来实现这一目标。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-kicks-off-six-part-063629225.html",
         "publisher": "Bloomberg",
-        "publish_time": 1777967340,
+        "publish_time": 1778014408,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-expands-healthcare-push-majority-182252851.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1777918972,
-        "type": "News"
-    },
-    {
-        "title": "Does KKR & Co (KKR) Offer a Compelling Risk/Reward Opportunity?",
-        "title_zh": "KKR & Co (KKR) 是否提供了令人信服的风险/回报机会？",
-        "summary": "1 Main Capital, a boutique investment firm, recently released its first-quarter 2026 investor letter. A copy of the letter is available to download here.",
-        "summary_zh": "精品投资公司 1 Main Capital 最近发布了 2026 年第一季度投资者信。该信函的副本可在此处下载。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-co-kkr-offer-145528959.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1777906528,
         "type": "News"
     }
 ]
