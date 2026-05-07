@@ -1,5 +1,85 @@
 [
     {
+        "title": "AI in the grocery store: How this CEO is changing shopping",
+        "title_zh": "杂货店中的人工智能：这位首席执行官如何改变购物方式",
+        "summary": "Thrive Market CEO Nick Green explains how the company uses member data to simplify grocery shopping.",
+        "summary_zh": "Thrive Market 首席执行官 Nick Green 解释了该公司如何使用会员数据来简化杂货购物。",
+        "link": "https://finance.yahoo.com/video/ai-grocery-store-ceo-changing-110000397.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778151600,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500, Nasdaq futures hit records as oil extends losses",
+        "title_zh": "油价扩大跌势，标普 500 指数和纳斯达克期货创历史新高",
+        "summary": "May 7 (Reuters) - S&P 500 and Nasdaq futures hovered near all-time highs on Thursday as oil prices retreated further on hopes of a U.S.-Iran peace deal that could potentially normalize crude supplies",
+        "summary_zh": "路透 5 月 7 日 - 周四，标准普尔 500 指数和纳斯达克期货徘徊在历史高位附近，因美国与伊朗达成和平协议可能使原油供应正常化的希望导致油价进一步回落",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-hit-103448578.html",
+        "publisher": "Reuters",
+        "publish_time": 1778150088,
+        "type": "News"
+    },
+    {
+        "title": "Amazon's Prime Video to invest at least 90 million euros in 2026 in local production, regulator says",
+        "title_zh": "监管机构称，亚马逊 Prime Video 到 2026 年将投资至少 9000 万欧元用于本地制作",
+        "summary": "PARIS, May 7 (Reuters) - Amazon's Prime Video will invest at least 90 million euros ($105.95 million) in European video and movie production in French language this year, the French telecoms regulator",
+        "summary_zh": "路透巴黎 5 月 7 日 - 法国电信监管机构称，亚马逊 Prime Video 今年将投资至少 9000 万欧元（1.0595 亿美元）用于欧洲法语视频和电影制作",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazons-prime-video-invest-least-101932386.html",
+        "publisher": "Reuters",
+        "publish_time": 1778149172,
+        "type": "News"
+    },
+    {
+        "title": "One of the S&P 500's best earnings seasons in 20 years comes with a catch: Chart of the Day",
+        "title_zh": "标准普尔 500 指数 20 年来最好的盈利季节之一也有一个陷阱：每日图表",
+        "summary": "The S&P 500 is not just beating earnings expectations. It's blowing them up.",
+        "summary_zh": "标准普尔 500 指数不仅超出了盈利预期。它正在炸毁他们。",
+        "link": "https://finance.yahoo.com/markets/article/one-of-the-sp-500s-best-earnings-seasons-in-20-years-comes-with-a-catch-chart-of-the-day-100400357.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778148240,
+        "type": "News"
+    },
+    {
+        "title": "The stock market's semi-charmed life: Morning Brief",
+        "title_zh": "股市半迷人的生活：早间简报",
+        "summary": "The stock market has soared to record highs in recent weeks, and one sector has been doing a lot of the work.",
+        "summary_zh": "最近几周股市飙升至历史新高，其中一个板块做了很多工作。",
+        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-semi-charmed-life-morning-brief-100000617.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778148000,
+        "type": "News"
+    },
+    {
+        "title": "Quantum Motion raises $160 million to build quantum computers from standard silicon transistors",
+        "title_zh": "Quantum Motion 融资 1.6 亿美元，用标准硅晶体管制造量子计算机",
+        "summary": "Quantum Motion on Thursday said it raised $160 million to fund its effort to build a quantum computer that is ‌smaller, cheaper and more energy efficient than rivals using standard silicon chipmaking techniques.",
+        "summary_zh": "Quantum Motion 周四表示，它筹集了 1.6 亿美元，用于资助其建造量子计算机的努力，该计算机比使用标准硅芯片制造技术的竞争对手更小、更便宜且更节能。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/quantum-motion-raises-160-million-080348881.html",
+        "publisher": "Reuters",
+        "publish_time": 1778141028,
+        "type": "News"
+    },
+    {
+        "title": "Humanoid Robots to Drive Next Leg of China Export Dominance",
+        "title_zh": "人形机器人将推动中国下一阶段的出口主导地位",
+        "summary": "(Bloomberg) -- China’s early lead in humanoid robots will help power the next phase of its global manufacturing and export dominance, according to new research from Morgan Stanley.",
+        "summary_zh": "（彭博社）——摩根士丹利的最新研究表明，中国在人形机器人领域的早期领先地位将有助于推动其下一阶段的全球制造和出口主导地位。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/humanoid-robots-drive-next-leg-054252115.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778132572,
+        "type": "News"
+    },
+    {
+        "title": "Morning Bid: No stopping AI frenzy in Asia",
+        "title_zh": "早盘竞价：亚洲的人工智能狂潮势不可挡",
+        "summary": "A look at the day ahead in European and global markets from Ankur Banerjee Japan's Nikkei returned from holiday and jumped onto the scorching AI rally, joining South Korea and Taiwan equities at",
+        "summary_zh": "安库尔·班纳吉 (Ankur Banerjee) 对欧洲和全球市场未来一天的展望 日本日经指数结束假期归来，加入了炙手可热的人工智能涨势，加入了韩国和台湾股市的行列。",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/morning-bid-no-stopping-ai-043303632.html",
+        "publisher": "Reuters",
+        "publish_time": 1778128383,
+        "type": "News"
+    },
+    {
         "title": "Kimi Chatbot Maker Moonshot AI Valued at $20 Billion in Meituan-Led Round",
         "title_zh": "Kimi 聊天机器人制造商 Moonshot AI 在美团领投的一轮融资中估值达 200 亿美元",
         "summary": "(Bloomberg) -- Moonshot AI has raised about $2 billion in its latest funding round, signaling growing investor appetite for Chinese startups rivaling Silicon Valley’s leaders.",
@@ -7,86 +87,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/kimi-chatbot-maker-moonshot-ai-032926690.html",
         "publisher": "Bloomberg",
         "publish_time": 1778124566,
-        "type": "News"
-    },
-    {
-        "title": "Top Trump Aide Says Administration Won’t Pick Winners in AI Race",
-        "title_zh": "特朗普高级助手表示政府不会选出人工智能竞赛的获胜者",
-        "summary": "(Bloomberg) -- White House Chief of Staff Susie Wiles said the US government would refrain from choosing winners and losers in artificial intelligence, the latest signal from a top aide to President Donald Trump as his administration prepares new AI policy directives.Most Read...",
-        "summary_zh": "（彭博社）——白宫办公厅主任苏西·威尔斯表示，美国政府将避免选择人工智能领域的赢家和输家，这是唐纳德·特朗普总统在政府准备新的人工智能政策指令之际，一名高级助手向他发出的最新信号。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/top-trump-aide-says-administration-025907265.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778122747,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic Is Making Its Claude Chatbot More Appealing to Consumers",
-        "title_zh": "Anthropic 正在使其 Claude 聊天机器人对消费者更具吸引力",
-        "summary": "(Bloomberg) -- Artificial intelligence startup Anthropic PBC, which originally aimed its Claude chatbot at businesses, is looking to capitalize on recent inroads with consumers by making the software more appealing to everyday people.Most Read from BloombergUS Has Opened a Pas...",
-        "summary_zh": "（彭博社）——人工智能初创公司 Anthropic PBC 最初将其 Claude 聊天机器人瞄准了企业，现在正在寻求利用最近在消费者中取得的进展，使该软件对普通人更具吸引力。彭博美国的大多数读者已经打开了一个 Pas...",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-is-making-its-claude-chatbot-more-appealing-to-consumers-001336445.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778112816,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500 and Nasdaq futures trade flat as investors watch for US-Iran deal",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货交易持平，投资者关注美伊协议",
-        "summary": "Major gauges held steady as markets adjusted to the potential of peace in Iran.",
-        "summary_zh": "随着市场根据伊朗和平的潜力进行调整，主要指标保持稳定。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-may-7-iran-peace-records-231446268.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778109286,
-        "type": "News"
-    },
-    {
-        "title": "'Uber won': Why Instacart might not stand a chance",
-        "title_zh": "“Uber 获胜”：为什么 Instacart 可能没有机会",
-        "summary": "Uber (UBER) and Maplebear (CART) (Instacart's parent company) both reported quarterly earnings on Wednesday.",
-        "summary_zh": "Uber (UBER) 和 Maplebear (CART)（Instacart 的母公司）均于周三公布了季度收益。",
-        "link": "https://finance.yahoo.com/video/uber-won-why-instacart-might-not-stand-a-chance-204139211.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778100099,
-        "type": "News"
-    },
-    {
-        "title": "Meta-Backed Scale AI Wins $500 Million Defense Department Deal",
-        "title_zh": "元支持的规模人工智能赢得国防部 5 亿美元的交易",
-        "summary": "(Bloomberg) -- The Pentagon awarded a $500 million contract to Meta Platforms Inc.-backed Scale AI to help sift through data and assist in decision-making, the latest step in the US military’s effort to rely more on artificial intelligence.Most Read from BloombergUS Has Opened...",
-        "summary_zh": "（彭博社）——五角大楼向 Meta Platforms Inc. 支持的 Scale AI 授予了一份价值 5 亿美元的合同，以帮助筛选数据并协助决策，这是美国军方更多地依赖人工智能的最新举措。彭博社的大多数报道已经开放……",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-backed-scale-ai-wins-201907348.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778098747,
-        "type": "News"
-    },
-    {
-        "title": "Arm forecasts higher-than-expected revenue on surging AI data center demand",
-        "title_zh": "由于人工智能数据中心需求激增，Arm 预计收入高于预期",
-        "summary": "Arm Holdings forecast first-quarter revenue above Wall Street expectations on Wednesday, benefiting from higher adoption of its chip technology as tech companies spend heavily on artificial intelligence compute.",
-        "summary_zh": "Arm Holdings 周三预测第一季度收入将高于华尔街预期，这得益于科技公司在人工智能计算上投入巨资，其芯片技术的采用率更高。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/arm-forecasts-upbeat-revenue-surging-200744878.html",
-        "publisher": "Reuters",
-        "publish_time": 1778098064,
-        "type": "News"
-    },
-    {
-        "title": "AMD stock surges as the chipmaker forecasts continued AI growth",
-        "title_zh": "AMD 股价飙升，芯片制造商预测人工智能将持续增长",
-        "summary": "Advanced Micro Devices (AMD) stock surges higher on Wednesday after blowing past first quarter earnings estimates and second quarter guidance forecasts.",
-        "summary_zh": "Advanced Micro Devices (AMD) 股票周三飙升，此前第一季度盈利预期和第二季度指导预测均超出预期。",
-        "link": "https://finance.yahoo.com/video/amd-stock-surges-chipmaker-forecasts-200500779.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778097900,
-        "type": "News"
-    },
-    {
-        "title": "Samsung market cap crosses $1 trillion amid memory chip rally",
-        "title_zh": "内存芯片上涨 三星市值突破1万亿美元",
-        "summary": "Samsung Electronics (005930.KS, SMSN.IL) reached a $1 trillion market cap on Wednesday as the memory chip shortage drives the hardware manufacturer — and other memory chip developers — even higher.",
-        "summary_zh": "三星电子 (005930.KS, SMSN.IL) 周三市值达到 1 万亿美元，因为存储芯片短缺导致硬件制造商和其他存储芯片开发商股价进一步上涨。",
-        "link": "https://finance.yahoo.com/video/samsung-market-cap-crosses-1-trillion-amid-memory-chip-rally-194323120.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778096603,
         "type": "News"
     }
 ]
