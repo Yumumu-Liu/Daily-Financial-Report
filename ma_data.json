@@ -1,22 +1,42 @@
 [
     {
-        "title": "Dow Jones Futures: Stock Market Hits Highs On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",
-        "title_zh": "道琼斯期货：伊朗协议希望推动股市触及高位，英伟达引领新买入； ARM 是盈利推动者",
-        "summary": "The S&P 500 and Nasdaq hit new highs on Iran deal hopes. Nvidia leads new buys with Arm a big earnings mover late.",
-        "summary_zh": "由于伊朗协议的希望，标准普尔 500 指数和纳斯达克指数创下新高。英伟达 (Nvidia) 在新收购中处于领先地位，而 Arm 是后期盈利的重要推动者。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-deal-hopes-nvidia-new-buy-arm-earnings/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1778150716,
+        "title": "IREN Shares Jump as Nvidia Deal Sharpens Bitcoin Miner’s AI Pivot",
+        "title_zh": "英伟达交易加强比特币矿工的人工智能支点，IREN 股价上涨",
+        "summary": "IREN Limited (NASDAQ: $IREN) shares jumped in after-hours trading on Thursday after the company announced a new Nvi...",
+        "summary_zh": "IREN Limited（纳斯达克股票代码：$IREN）宣布新的 Nvi 后，其股价周四在盘后交易中上涨。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/iren-shares-jump-nvidia-deal-022000427.html",
+        "publisher": "CryptoProwl",
+        "publish_time": 1778206800,
         "type": "News"
     },
     {
-        "title": "Does GameStop's Proposed Acquisition of eBay Make Sense for Its Stock?",
-        "title_zh": "GameStop 收购 eBay 的提议对其股票有意义吗？",
-        "summary": "GameStop is looking to acquire a much larger company than itself.",
-        "summary_zh": "GameStop 正在寻求收购一家比自己大得多的公司。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/does-gamestops-proposed-acquisition-ebay-092300506.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1778145780,
+        "title": "New Nvidia deal pumps crypto stock",
+        "title_zh": "英伟达的新交易提振了加密股票",
+        "summary": "IREN Limited (NASDAQ: IREN) shares jumped 27% to $72.28 during after-hours trading on May 7, The move came after the company closed the prior session down 6.77% at $56.85. At press time, the stock had pulled back slightly to $69.45, still up 21.55%.",
+        "summary_zh": "IREN Limited（纳斯达克股票代码：IREN）股价在 5 月 7 日盘后交易中上涨 27% 至 72.28 美元，此前该公司前一交易日收盘下跌 6.77% 至 56.85 美元。截至发稿，该股已小幅回调至 69.45 美元，仍上涨 21.55%。",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/nvidia-deal-pumps-crypto-stock-004429257.html",
+        "publisher": "TheStreet",
+        "publish_time": 1778201069,
+        "type": "News"
+    },
+    {
+        "title": "New Blackstone REIT to offer pure-play data center exposure",
+        "title_zh": "新的 Blackstone REIT 将提供纯数据中心业务",
+        "summary": "Those who live and die by the staying power of the AI boom might soon have a pure-play way to gain exposure to the data center category. Last week, Blackstone filed to debut a brand new data center REIT, the Blackstone Digital Infrastructure Trust ($BXDC).",
+        "summary_zh": "那些靠人工智能热潮的持久力生存和死亡的人可能很快就会有一种纯粹的方式来接触数据中心类别。上周，Blackstone 申请推出全新的数据中心 REIT，即 Blackstone 数字基础设施信托 ($BXDC)。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-reit-offer-pure-play-215528549.html",
+        "publisher": "TheStreet",
+        "publish_time": 1778190928,
+        "type": "News"
+    },
+    {
+        "title": "KKR Adds Sports Franchise Exposure Through Arctos Buyout",
+        "title_zh": "KKR 通过 Arctos 收购增加体育特许经营业务",
+        "summary": "KKR closes Arctos acquisition, adding sports franchise investing and GP solutions to expand its private markets platform.",
+        "summary_zh": "KKR 完成了对 Arctos 的收购，增加了体育特许经营投资和 GP 解决方案，以扩大其私人市场平台。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-adds-sports-franchise-exposure-161100626.html",
+        "publisher": "Zacks",
+        "publish_time": 1778170260,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/diversified-carlyle-strike-1-2bn-091033851.html",
         "publisher": "Offshore Technology",
         "publish_time": 1778145033,
-        "type": "News"
-    },
-    {
-        "title": "Update: Market Chatter: US, Iran Close to Agreement That Could End War, Lead to Broader Deal",
-        "title_zh": "更新：市场议论：美国和伊朗接近达成协议，结束战争，达成更广泛的协议",
-        "summary": "(Updates with response from the White House in the seventh paragraph.) The US and Iran are close",
-        "summary_zh": "（第七段中白宫回应的更新。）美国和伊朗关系密切",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/market-chatter-us-iran-close-083300104.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1778142780,
-        "type": "News"
-    },
-    {
-        "title": "Diversified Energy Company inks $1.175bn Oklahoma acquisition alongside Carlyle",
-        "title_zh": "多元化能源公司与凯雷集团一起以 11.75 亿美元收购俄克拉荷马州",
-        "summary": "Diversified Energy Company PLC (LSE:DEC, NYSE:DEC, FRA:DG20) announced a partnership with Carlyle in the acquisition of a US$1.175 billion portfolio of Oklahoma oil and gas assets from Camino Natural Resources, funded via asset-backed financing that's designed to avoid issuing...",
-        "summary_zh": "Diversified Energy Company PLC（LSE：DEC、NYSE：DEC、FRA：DG20）宣布与凯雷合作，从卡米诺自然资源公司收购俄克拉荷马州石油和天然气资产组合，价值 11.75 亿美元，通过资产支持融资提供资金，旨在避免发行...",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/diversified-energy-company-inks-1-063900469.html",
-        "publisher": "Proactive",
-        "publish_time": 1778135940,
         "type": "News"
     }
 ]

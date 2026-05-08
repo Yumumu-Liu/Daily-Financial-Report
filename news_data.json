@@ -1,42 +1,72 @@
 [
     {
-        "title": "AI in the grocery store: How this CEO is changing shopping",
-        "title_zh": "杂货店中的人工智能：这位首席执行官如何改变购物方式",
-        "summary": "Thrive Market CEO Nick Green explains how the company uses member data to simplify grocery shopping.",
-        "summary_zh": "Thrive Market 首席执行官 Nick Green 解释了该公司如何使用会员数据来简化杂货购物。",
-        "link": "https://finance.yahoo.com/video/ai-grocery-store-ceo-changing-110000397.html",
+        "title": "No AI, Poor Returns Drive Indian Investors to Foreign Markets",
+        "title_zh": "没有人工智能，回报不佳促使印度投资者转向海外市场",
+        "summary": "(Bloomberg) -- Investors in India, long focused almost entirely on domestic markets, are increasingly starting to look outward.Most Read from BloombergBillionaire Duke of Westminster to Sell £700 Million of US Real Estate AssetsDOJ Plans Intervention in Trump Supreme Court Car...",
+        "summary_zh": "（彭博社）——长期以来几乎完全专注于国内市场的印度投资者越来越多地开始将目光转向海外。彭博社的大多数报道称亿万富翁威斯敏斯特公爵将出售 7 亿英镑的美国房地产资产司法部计划干预特朗普最高法院汽车...",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/no-ai-poor-returns-drive-013000744.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778203800,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street ends lower as chip stocks give up gains",
+        "title_zh": "芯片股回吐涨幅，华尔街收低",
+        "summary": "STORY: U.S. stocks ended lower on Thursday, with the Dow dropping nearly two-thirds of a percent, the S&P 500 shedding more than one-third of a percent and the Nasdaq dipping marginally.Uncertainty around peace talks between the U.S.",
+        "summary_zh": "故事：美国股市周四收低，道琼斯指数下跌近三分之二，标准普尔 500 指数下跌逾三分之一，纳斯达克指数小幅下跌。中美和谈的不确定性",
+        "link": "https://finance.yahoo.com/video/wall-street-ends-lower-chip-222649552.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1778192809,
+        "type": "News"
+    },
+    {
+        "title": "Trump meets with Brazil's Lula to talk trade, extends EU tariff deadline",
+        "title_zh": "特朗普会见巴西卢拉讨论贸易问题，延长欧盟关税期限",
+        "summary": "President Trump met with Brazilian President Luiz Inácio Lula da Silva on Thursday, while the administration extended its trade deadline with the European Union (EU) to July 4.",
+        "summary_zh": "特朗普总统周四会见了巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦，同时政府将与欧盟的贸易截止日期延长至 7 月 4 日。",
+        "link": "https://finance.yahoo.com/video/trump-meets-with-brazils-lula-to-talk-trade-extends-eu-tariff-deadline-210415936.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1778151600,
+        "publish_time": 1778187855,
         "type": "News"
     },
     {
-        "title": "S&P 500, Nasdaq futures hit records as oil extends losses",
-        "title_zh": "油价扩大跌势，标普 500 指数和纳斯达克期货创历史新高",
-        "summary": "May 7 (Reuters) - S&P 500 and Nasdaq futures hovered near all-time highs on Thursday as oil prices retreated further on hopes of a U.S.-Iran peace deal that could potentially normalize crude supplies",
-        "summary_zh": "路透 5 月 7 日 - 周四，标准普尔 500 指数和纳斯达克期货徘徊在历史高位附近，因美国与伊朗达成和平协议可能使原油供应正常化的希望导致油价进一步回落",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-hit-103448578.html",
-        "publisher": "Reuters",
-        "publish_time": 1778150088,
+        "title": "Anthropic taps SpaceX data center for AI compute power",
+        "title_zh": "Anthropic 利用 SpaceX 数据中心提供人工智能计算能力",
+        "summary": "Yahoo Finance's Tech Editor Dan Howley joins Josh Lipton on Market Domination to discuss Anthropic's (ANTH.PVT))partnership with SpaceX (SPAX.PVT).",
+        "summary_zh": "雅虎财经的技术编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 一起讨论《市场统治》，讨论 Anthropic (ANTH.PVT) 与 SpaceX (SPAX.PVT) 的合作关系。",
+        "link": "https://finance.yahoo.com/video/anthropic-taps-spacex-data-center-for-ai-compute-power-195430868.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778183670,
         "type": "News"
     },
     {
-        "title": "Amazon's Prime Video to invest at least 90 million euros in 2026 in local production, regulator says",
-        "title_zh": "监管机构称，亚马逊 Prime Video 到 2026 年将投资至少 9000 万欧元用于本地制作",
-        "summary": "PARIS, May 7 (Reuters) - Amazon's Prime Video will invest at least 90 million euros ($105.95 million) in European video and movie production in French language this year, the French telecoms regulator",
-        "summary_zh": "路透巴黎 5 月 7 日 - 法国电信监管机构称，亚马逊 Prime Video 今年将投资至少 9000 万欧元（1.0595 亿美元）用于欧洲法语视频和电影制作",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/amazons-prime-video-invest-least-101932386.html",
-        "publisher": "Reuters",
-        "publish_time": 1778149172,
+        "title": "Stocks take a breather after reaching record highs",
+        "title_zh": "股市在创出历史新高后稍作喘息",
+        "summary": "Stocks (^GSPC, ^DJI, ^IXIC) are taking a breather after notching record highs yesterday, while the 30-year Treasury yield (^TYX) edges closer to 5%. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the key market moves investors should be watching.",
+        "summary_zh": "股市（^GSPC、^DJI、^IXIC）在昨天创下历史新高后正在休息，而 30 年期国债收益率（^TYX）则逼近 5%。雅虎财经市场和数据编辑 Jared Blikre 详细分析了投资者应关注的关键市场走势。",
+        "link": "https://finance.yahoo.com/video/stocks-take-a-breather-after-reaching-record-highs-194454152.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778183094,
         "type": "News"
     },
     {
-        "title": "One of the S&P 500's best earnings seasons in 20 years comes with a catch: Chart of the Day",
-        "title_zh": "标准普尔 500 指数 20 年来最好的盈利季节之一也有一个陷阱：每日图表",
-        "summary": "The S&P 500 is not just beating earnings expectations. It's blowing them up.",
-        "summary_zh": "标准普尔 500 指数不仅超出了盈利预期。它正在炸毁他们。",
-        "link": "https://finance.yahoo.com/markets/article/one-of-the-sp-500s-best-earnings-seasons-in-20-years-comes-with-a-catch-chart-of-the-day-100400357.html",
+        "title": "Apple helps 'Magnificent 7' shake off its bear market scare",
+        "title_zh": "苹果帮助“华丽7”摆脱熊市恐慌",
+        "summary": "The stock market's biggest trade just woke back up.",
+        "summary_zh": "股市最大的交易刚刚苏醒。",
+        "link": "https://finance.yahoo.com/markets/article/apple-helps-magnificent-7-shake-off-its-bear-market-scare-162134523.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1778148240,
+        "publish_time": 1778170894,
+        "type": "News"
+    },
+    {
+        "title": "Tech-led stealth rally pushes markets to record highs",
+        "title_zh": "科技股引领的隐形反弹推动市场创历史新高",
+        "summary": "U.S. stocks (^DJI,&nbsp;^GSPC,&nbsp;^IXIC)&nbsp;have rallied over the past three weeks, fueled by strong earnings and optimism around a potential resolution to the U.S.-Iran conflict.",
+        "summary_zh": "在强劲的盈利和对美伊冲突可能得到解决的乐观情绪的推动下，美国股市（^DJI、^GSPC、&nbsp;^IXIC）在过去三周上涨。",
+        "link": "https://finance.yahoo.com/video/tech-led-stealth-rally-pushes-markets-to-record-highs-143101320.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778164261,
         "type": "News"
     },
     {
@@ -47,46 +77,6 @@
         "link": "https://finance.yahoo.com/markets/article/the-stock-markets-semi-charmed-life-morning-brief-100000617.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1778148000,
-        "type": "News"
-    },
-    {
-        "title": "Quantum Motion raises $160 million to build quantum computers from standard silicon transistors",
-        "title_zh": "Quantum Motion 融资 1.6 亿美元，用标准硅晶体管制造量子计算机",
-        "summary": "Quantum Motion on Thursday said it raised $160 million to fund its effort to build a quantum computer that is ‌smaller, cheaper and more energy efficient than rivals using standard silicon chipmaking techniques.",
-        "summary_zh": "Quantum Motion 周四表示，它筹集了 1.6 亿美元，用于资助其建造量子计算机的努力，该计算机比使用标准硅芯片制造技术的竞争对手更小、更便宜且更节能。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/quantum-motion-raises-160-million-080348881.html",
-        "publisher": "Reuters",
-        "publish_time": 1778141028,
-        "type": "News"
-    },
-    {
-        "title": "Humanoid Robots to Drive Next Leg of China Export Dominance",
-        "title_zh": "人形机器人将推动中国下一阶段的出口主导地位",
-        "summary": "(Bloomberg) -- China’s early lead in humanoid robots will help power the next phase of its global manufacturing and export dominance, according to new research from Morgan Stanley.",
-        "summary_zh": "（彭博社）——摩根士丹利的最新研究表明，中国在人形机器人领域的早期领先地位将有助于推动其下一阶段的全球制造和出口主导地位。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/humanoid-robots-drive-next-leg-054252115.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778132572,
-        "type": "News"
-    },
-    {
-        "title": "Morning Bid: No stopping AI frenzy in Asia",
-        "title_zh": "早盘竞价：亚洲的人工智能狂潮势不可挡",
-        "summary": "A look at the day ahead in European and global markets from Ankur Banerjee Japan's Nikkei returned from holiday and jumped onto the scorching AI rally, joining South Korea and Taiwan equities at",
-        "summary_zh": "安库尔·班纳吉 (Ankur Banerjee) 对欧洲和全球市场未来一天的展望 日本日经指数结束假期归来，加入了炙手可热的人工智能涨势，加入了韩国和台湾股市的行列。",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/morning-bid-no-stopping-ai-043303632.html",
-        "publisher": "Reuters",
-        "publish_time": 1778128383,
-        "type": "News"
-    },
-    {
-        "title": "Kimi Chatbot Maker Moonshot AI Valued at $20 Billion in Meituan-Led Round",
-        "title_zh": "Kimi 聊天机器人制造商 Moonshot AI 在美团领投的一轮融资中估值达 200 亿美元",
-        "summary": "(Bloomberg) -- Moonshot AI has raised about $2 billion in its latest funding round, signaling growing investor appetite for Chinese startups rivaling Silicon Valley’s leaders.",
-        "summary_zh": "（彭博社）——Moonshot AI 在最新一轮融资中筹集了约 20 亿美元，这表明投资者对与硅谷领先企业竞争的中国初创企业的兴趣日益浓厚。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/kimi-chatbot-maker-moonshot-ai-032926690.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778124566,
         "type": "News"
     }
 ]
