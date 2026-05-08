@@ -1,12 +1,52 @@
 [
     {
+        "title": "The AI arms race is eating into Big Tech's cash flow: Chart of the Day",
+        "title_zh": "人工智能军备竞赛正在侵蚀大型科技公司的现金流：每日图表",
+        "summary": "The AI boom has made Big Tech richer, bigger, and suddenly much hungrier for cash.",
+        "summary_zh": "人工智能的繁荣让大型科技公司变得更富有、规模更大，但突然间对现金更加渴望。",
+        "link": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778234400,
+        "type": "News"
+    },
+    {
+        "title": "Brent tops $100 on renewed Gulf clashes as AI drives Asia stocks to weekly rise",
+        "title_zh": "海湾冲突再次爆发，人工智能推动亚洲股市每周上涨，布伦特原油价格突破 100 美元",
+        "summary": "By Tom Westbrook and Samuel Indyk LONDON, May 8 (Reuters) - Oil prices rose and stocks slipped as the U.S. and Iran exchanged fire in the Middle East, though many equity markets, particularly in Asia,",
+        "summary_zh": "伦敦，5 月 8 日（路透社）——随着美国和伊朗在中东交火，油价上涨，股市下跌，尽管许多股市，特别是亚洲股市，",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/oil-jumps-stock-futures-slip-230803239.html",
+        "publisher": "Reuters",
+        "publish_time": 1778229248,
+        "type": "News"
+    },
+    {
+        "title": "TSMC’s Sales Grow Slowest in Months Even as AI Buildout Persists",
+        "title_zh": "尽管人工智能持续扩张，但台积电销售额增长数月来最慢",
+        "summary": "(Bloomberg) -- Taiwan Semiconductor Manufacturing Co.",
+        "summary_zh": "（彭博社）——台积电",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/tsmc-sales-grow-slowest-months-064937300.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778222977,
+        "type": "News"
+    },
+    {
         "title": "No AI, Poor Returns Drive Indian Investors to Foreign Markets",
         "title_zh": "没有人工智能，回报不佳促使印度投资者转向海外市场",
-        "summary": "(Bloomberg) -- Investors in India, long focused almost entirely on domestic markets, are increasingly starting to look outward.Most Read from BloombergBillionaire Duke of Westminster to Sell £700 Million of US Real Estate AssetsDOJ Plans Intervention in Trump Supreme Court Car...",
-        "summary_zh": "（彭博社）——长期以来几乎完全专注于国内市场的印度投资者越来越多地开始将目光转向海外。彭博社的大多数报道称亿万富翁威斯敏斯特公爵将出售 7 亿英镑的美国房地产资产司法部计划干预特朗普最高法院汽车...",
+        "summary": "(Bloomberg) -- Investors in India, long focused almost entirely on domestic markets, are increasingly starting to look outward.Most Read from BloombergBillionaire Duke of Westminster to Sell £700 Million of US Real Estate AssetsUS Fires on Iranian Targets as Trump Demands Deal...",
+        "summary_zh": "（彭博社）——长期以来几乎完全专注于国内市场的印度投资者越来越多地开始将目光投向海外。彭博社的大多数报道称，亿万富翁威斯敏斯特公爵将出售 7 亿英镑的美国房地产资产，特朗普要求达成协议，美国向伊朗目标开火……",
         "link": "https://finance.yahoo.com/markets/currencies/articles/no-ai-poor-returns-drive-013000744.html",
         "publisher": "Bloomberg",
         "publish_time": 1778203800,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with investors eyeing US-Iran, jobs",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨，投资者关注美国伊朗和就业机会",
+        "summary": "Investors are taking overnight clashes in stride.",
+        "summary_zh": "投资者对隔夜的冲突泰然处之。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-8-iran-us-attacks-232854074.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778196534,
         "type": "News"
     },
     {
@@ -30,16 +70,6 @@
         "type": "News"
     },
     {
-        "title": "Anthropic taps SpaceX data center for AI compute power",
-        "title_zh": "Anthropic 利用 SpaceX 数据中心提供人工智能计算能力",
-        "summary": "Yahoo Finance's Tech Editor Dan Howley joins Josh Lipton on Market Domination to discuss Anthropic's (ANTH.PVT))partnership with SpaceX (SPAX.PVT).",
-        "summary_zh": "雅虎财经的技术编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 一起讨论《市场统治》，讨论 Anthropic (ANTH.PVT) 与 SpaceX (SPAX.PVT) 的合作关系。",
-        "link": "https://finance.yahoo.com/video/anthropic-taps-spacex-data-center-for-ai-compute-power-195430868.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778183670,
-        "type": "News"
-    },
-    {
         "title": "Stocks take a breather after reaching record highs",
         "title_zh": "股市在创出历史新高后稍作喘息",
         "summary": "Stocks (^GSPC, ^DJI, ^IXIC) are taking a breather after notching record highs yesterday, while the 30-year Treasury yield (^TYX) edges closer to 5%. Yahoo Finance Markets and Data Editor Jared Blikre breaks down the key market moves investors should be watching.",
@@ -47,36 +77,6 @@
         "link": "https://finance.yahoo.com/video/stocks-take-a-breather-after-reaching-record-highs-194454152.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1778183094,
-        "type": "News"
-    },
-    {
-        "title": "Apple helps 'Magnificent 7' shake off its bear market scare",
-        "title_zh": "苹果帮助“华丽7”摆脱熊市恐慌",
-        "summary": "The stock market's biggest trade just woke back up.",
-        "summary_zh": "股市最大的交易刚刚苏醒。",
-        "link": "https://finance.yahoo.com/markets/article/apple-helps-magnificent-7-shake-off-its-bear-market-scare-162134523.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778170894,
-        "type": "News"
-    },
-    {
-        "title": "Tech-led stealth rally pushes markets to record highs",
-        "title_zh": "科技股引领的隐形反弹推动市场创历史新高",
-        "summary": "U.S. stocks (^DJI,&nbsp;^GSPC,&nbsp;^IXIC)&nbsp;have rallied over the past three weeks, fueled by strong earnings and optimism around a potential resolution to the U.S.-Iran conflict.",
-        "summary_zh": "在强劲的盈利和对美伊冲突可能得到解决的乐观情绪的推动下，美国股市（^DJI、^GSPC、&nbsp;^IXIC）在过去三周上涨。",
-        "link": "https://finance.yahoo.com/video/tech-led-stealth-rally-pushes-markets-to-record-highs-143101320.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778164261,
-        "type": "News"
-    },
-    {
-        "title": "The stock market's semi-charmed life: Morning Brief",
-        "title_zh": "股市半迷人的生活：早间简报",
-        "summary": "The stock market has soared to record highs in recent weeks, and one sector has been doing a lot of the work.",
-        "summary_zh": "最近几周股市飙升至历史新高，其中一个板块做了很多工作。",
-        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-semi-charmed-life-morning-brief-100000617.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778148000,
         "type": "News"
     }
 ]
