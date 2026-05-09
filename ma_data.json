@@ -1,5 +1,15 @@
 [
     {
+        "title": "Should You Worry About This Trend at Amazon? This 1 Metric Offers a Compellingly Clear Answer.",
+        "title_zh": "您应该担心亚马逊的这种趋势吗？这 1 个指标提供了一个令人信服的明确答案。",
+        "summary": "The tech giant is involved in a key investing phase right now.",
+        "summary_zh": "这家科技巨头目前正处于关键的投资阶段。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/worry-trend-amazon-1-metric-092700552.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1778318820,
+        "type": "News"
+    },
+    {
         "title": "Intel Apple Chip Deal Puts Foundry Ambitions And Risks In Focus",
         "title_zh": "英特尔苹果芯片交易使代工野心和风险成为焦点",
         "summary": "Intel (NasdaqGS:INTC) and Apple reached a preliminary agreement for Intel to manufacture chips for Apple. The agreement marks a breakthrough for Intel's foundry effort and involves active support from the White House. The deal highlights U.S.",
@@ -17,16 +27,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/apple-reaches-chipmaking-deal-intel-213950400.html",
         "publisher": "TheStreet",
         "publish_time": 1778276390,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
-        "title_zh": "Anthropic 与 Akamai 签署价值 18 亿美元的计算交易",
-        "summary": "(Bloomberg) -- Anthropic PBC has signed a $1.8 billion computing deal with cloud services provider Akamai Technologies Inc.",
-        "summary_zh": "(彭博社) -- Anthropic PBC 与云服务提供商 Akamai Technologies Inc. 签署了价值 18 亿美元的计算协议。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-inks-1-8-billion-175510105.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778268922,
         "type": "News"
     },
     {
