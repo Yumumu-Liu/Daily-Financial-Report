@@ -1,22 +1,42 @@
 [
     {
-        "title": "Nvidia Stock Rises After IREN AI Tie-Up. Why It Keeps Making ‘Circular’ Deals.",
-        "title_zh": "与 IREN AI 合作后，Nvidia 股价上涨。为什么它不断进行“循环”交易。",
-        "summary": "Nvidia stock and IREN were both rising after the companies agreed to deploy five gigawatts of AI infrastructure.",
-        "summary_zh": "在 Nvidia 和 IREN 同意部署 5 吉瓦的人工智能基础设施后，两家公司的股价均上涨。",
-        "link": "https://www.barrons.com/articles/nvidia-stock-price-iren-ai-deal-bdfabcae?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1778233200,
+        "title": "Intel Apple Chip Deal Puts Foundry Ambitions And Risks In Focus",
+        "title_zh": "英特尔苹果芯片交易使代工野心和风险成为焦点",
+        "summary": "Intel (NasdaqGS:INTC) and Apple reached a preliminary agreement for Intel to manufacture chips for Apple. The agreement marks a breakthrough for Intel's foundry effort and involves active support from the White House. The deal highlights U.S.",
+        "summary_zh": "英特尔（NasdaqGS：INTC）与苹果达成初步协议，由英特尔为苹果生产芯片。该协议标志着英特尔代工业务的突破，并得到了白宫的积极支持。该交易凸显了美国",
+        "link": "https://finance.yahoo.com/news/intel-apple-chip-deal-puts-221032356.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778278232,
         "type": "News"
     },
     {
-        "title": "New Nvidia deal pumps crypto stock",
-        "title_zh": "英伟达的新交易提振了加密股票",
-        "summary": "IREN Limited (NASDAQ: IREN) shares jumped 27% to $72.28 during after-hours trading on May 7, The move came after the company closed the prior session down 6.77% at $56.85. At press time, the stock had pulled back slightly to $69.45, still up 21.55%.",
-        "summary_zh": "IREN Limited（纳斯达克股票代码：IREN）股价在 5 月 7 日盘后交易中上涨 27% 至 72.28 美元，此前该公司前一交易日收盘下跌 6.77% 至 56.85 美元。截至发稿，该股已小幅回调至 69.45 美元，仍上涨 21.55%。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/nvidia-deal-pumps-crypto-stock-004429257.html",
+        "title": "Apple reaches chipmaking deal with Intel, pushing its stock to new record",
+        "title_zh": "苹果与英特尔达成芯片制造协议，推动其股价再创新高",
+        "summary": "Intel has sold a new customer on its domestic foundry push, the latest lifeline for a venture that engineered massive losses in the one-time semiconductor giant and led many industry analysts to believe that it would be abandoned or spun off.",
+        "summary_zh": "英特尔出售了其国内代工业务的新客户，这是这家曾经给这家曾经的半导体巨头造成巨额亏损并导致许多行业分析师相信该公司将被放弃或分拆的合资企业的最新生命线。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-reaches-chipmaking-deal-intel-213950400.html",
         "publisher": "TheStreet",
-        "publish_time": 1778201069,
+        "publish_time": 1778276390,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
+        "title_zh": "Anthropic 与 Akamai 签署价值 18 亿美元的计算交易",
+        "summary": "(Bloomberg) -- Anthropic PBC has signed a $1.8 billion computing deal with cloud services provider Akamai Technologies Inc.",
+        "summary_zh": "(彭博社) -- Anthropic PBC 与云服务提供商 Akamai Technologies Inc. 签署了价值 18 亿美元的计算协议。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-inks-1-8-billion-175510105.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778268922,
+        "type": "News"
+    },
+    {
+        "title": "Apollo, Blackstone reportedly in talks for $35B Broadcom financing deal",
+        "title_zh": "据报道，Apollo 和 Blackstone 正在就 35B 美元 Broadcom 融资交易进行谈判",
+        "summary": "Investing.com -- Apollo Global Management Inc. and Blackstone Inc. are in discussions with Broadcom Inc. regarding approximately $35 billion in financing to support the chipmaker’s artificial intelligence chip development, according to a Bloomberg report Friday.",
+        "summary_zh": "Investing.com——据彭博社周五报道，阿波罗全球管理公司和黑石公司正在与博通公司讨论约 350 亿美元的融资，以支持该芯片制造商的人工智能芯片开发。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apollo-blackstone-reportedly-talks-35b-181516138.html",
+        "publisher": "Investing.com",
+        "publish_time": 1778264116,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-reit-offer-pure-play-215528549.html",
         "publisher": "TheStreet",
         "publish_time": 1778190928,
-        "type": "News"
-    },
-    {
-        "title": "KKR Adds Sports Franchise Exposure Through Arctos Buyout",
-        "title_zh": "KKR 通过 Arctos 收购增加体育特许经营权",
-        "summary": "KKR closes Arctos acquisition, adding sports franchise investing and GP solutions to expand its private markets platform.",
-        "summary_zh": "KKR 完成了对 Arctos 的收购，增加了体育特许经营投资和 GP 解决方案，以扩大其私人市场平台。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-adds-sports-franchise-exposure-161100626.html",
-        "publisher": "Zacks",
-        "publish_time": 1778170260,
-        "type": "News"
-    },
-    {
-        "title": "Diversified, Carlyle strike $1.2bn deal for Anadarko Basin portfolio",
-        "title_zh": "凯雷多元化收购阿纳达科盆地投资组合 12 亿美元",
-        "summary": "The assets span approximately 101,000 acres and produce roughly 300mcf/d net of gas equivalent, comprising 55% gas, 30% NGLs and 15% oil.",
-        "summary_zh": "这些资产占地约 101,000 英亩，净天然气当量产量约为 300mcf/d，其中包括 55% 的天然气、30% 的 NGL 和 15% 的石油。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/diversified-carlyle-strike-1-2bn-091033851.html",
-        "publisher": "Offshore Technology",
-        "publish_time": 1778145033,
         "type": "News"
     }
 ]
