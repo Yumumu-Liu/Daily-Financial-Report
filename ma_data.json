@@ -1,12 +1,22 @@
 [
     {
-        "title": "Wedbush sends blunt message on Elon Musk's Tesla and Intel deal",
-        "title_zh": "韦德布什就埃隆·马斯克的特斯拉和英特尔交易发出了直言不讳的信息",
-        "summary": "Elon Musk has spent years talking about vertical integration across his companies. With Terafab, he is starting to put a price tag on it. A very large one. Wall Street is now watching closely.",
-        "summary_zh": "埃隆·马斯克多年来一直在谈论他的公司之间的垂直整合。他开始为 Terafab 贴上价格标签。一个非常大的。华尔街现在正在密切关注。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/wedbush-sends-blunt-message-elon-013700836.html",
-        "publisher": "TheStreet",
-        "publish_time": 1778377020,
+        "title": "Nebius Group (NBIS) Is Up 14.6% After Nvidia-Funded AI Pivot and Major Cloud Deals - What's Changed",
+        "title_zh": "Nvidia 资助的 AI Pivot 和重大云交易后 Nebius Group (NBIS) 上涨 14.6% - 发生了什么变化",
+        "summary": "Nebius Group recently deepened its AI push by acquiring Eigen AI for about US$643 million, securing very large multiyear AI compute contracts with Meta and Microsoft, and receiving a US$2 billion investment from Nvidia to expand its neocloud data center capacity.",
+        "summary_zh": "Nebius Group 最近以约 6.43 亿美元收购 Eigen AI，与 Meta 和微软签订了非常大的多年期人工智能计算合同，并获得 Nvidia 的 20 亿美元投资以扩大其 neocloud 数据中心容量，从而深化了其人工智能发展。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-14-6-090809742.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778404089,
+        "type": "News"
+    },
+    {
+        "title": "Nebius Group Recasts AI Future With Eigen AI Deal And Mega Partnerships",
+        "title_zh": "Nebius Group 通过 Eigen AI 交易和大型合作伙伴关系重塑 AI 未来",
+        "summary": "Nebius Group (NasdaqGS:NBIS) announced a $643 million acquisition of Eigen AI, adding advanced inference and optimization technology to its AI platform.",
+        "summary_zh": "Nebius Group（纳斯达克股票代码：NBIS）宣布以 6.43 亿美元收购 Eigen AI，为其人工智能平台增添先进的推理和优化技术。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-recasts-ai-future-080857365.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778400537,
         "type": "News"
     },
     {
@@ -20,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Globalstar Amazon Deal And FCC Ruling Put Valuation In Sharp Focus",
-        "title_zh": "Globalstar 亚马逊交易和 FCC 裁决使估值成为焦点",
-        "summary": "Globalstar (NasdaqGS:GSAT) has entered a definitive merger agreement to be acquired by Amazon. The deal follows an FCC decision that reaffirmed Globalstar's exclusive Mobile Satellite Services rights in the Big LEO spectrum band.",
-        "summary_zh": "Globalstar（纳斯达克GS：GSAT）已签订最终合并协议，将被亚马逊收购。该交易是在 FCC 做出决定之后达成的，该决定重申了 Globalstar 在 Big LEO 频段内的独家移动卫星服务权利。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-amazon-deal-fcc-ruling-181253977.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1778350373,
-        "type": "News"
-    },
-    {
         "title": "Apple Intel Chip Deal Reshapes Supply Chain And Valuation Debate",
         "title_zh": "苹果英特尔芯片交易重塑供应链和估值争论",
         "summary": "Apple (NasdaqGS:AAPL) has reached a preliminary agreement for Intel to manufacture chips for its devices. The deal signals a move away from sole reliance on TSMC for advanced chip production. The arrangement involves active participation from the U.S.",
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Amazon.com (AMZN) Business Platform Offers Same-Day Delivery of Fresh Groceries",
-        "title_zh": "Amazon.com (AMZN) 商业平台提供生鲜杂货当日送达服务",
-        "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the Best American AI Stocks to Buy Now.",
-        "summary_zh": "亚马逊公司（纳斯达克股票代码：AMZN）是现在最值得购买的美国人工智能股票之一。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-business-platform-144929592.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1778338169,
+        "title": "Apollo, Blackstone reportedly in talks for $35B Broadcom financing deal",
+        "title_zh": "据报道，Apollo 和 Blackstone 正在就 35B 美元 Broadcom 融资交易进行谈判",
+        "summary": "Investing.com -- Apollo Global Management Inc. and Blackstone Inc. are in discussions with Broadcom Inc. regarding approximately $35 billion in financing to support the chipmaker’s artificial intelligence chip development, according to a Bloomberg report Friday.",
+        "summary_zh": "Investing.com——据彭博社周五报道，阿波罗全球管理公司和黑石公司正在与博通公司讨论约 350 亿美元的融资，以支持该芯片制造商的人工智能芯片开发。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apollo-blackstone-reportedly-talks-35b-181516138.html",
+        "publisher": "Investing.com",
+        "publish_time": 1778264116,
         "type": "News"
     }
 ]
