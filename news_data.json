@@ -1,92 +1,12 @@
 [
     {
-        "title": "Thailand's SiamAI denies exporting US AI servers to China",
-        "title_zh": "泰国SiamAI否认向中国出口美国人工智能服务器",
-        "summary": "Bangkok-based SiamAI said on Saturday it had ‌not exported AI servers to ‌China and that it complies with U.S. ​export and re-export control laws. • The firm has faced allegations of ‌circumventing exports of ⁠advanced chips from U.S.",
-        "summary_zh": "总部位于曼谷的 SiamAI 周六表示，它没有向中国出口人工智能服务器，并且遵守美国的出口和再出口管制法律。 • 该公司面临规避美国先进芯片出口的指控。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/thailands-siamai-denies-exporting-us-054352657.html",
-        "publisher": "Reuters",
-        "publish_time": 1778305432,
-        "type": "News"
-    },
-    {
-        "title": "Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough",
-        "title_zh": "赢得特朗普和马斯克支持的英特尔首席执行官现在需要突破",
-        "summary": "(Bloomberg) -- After Lip-Bu Tan became chief executive officer of Intel Corp.",
-        "summary_zh": "（彭博社）——陈立武 (Lip-Bu Tan) 出任英特尔公司首席执行官后",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/intel-ceo-won-over-trump-101511302.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778282805,
-        "type": "News"
-    },
-    {
-        "title": "Mother's Day flowers to come with a bigger price tag this year",
-        "title_zh": "今年母亲节鲜花价格更高",
-        "summary": "American families are expected to spend up to $38 billion on Mother's Day this year, according to the National Retail Federation (NRF), $3.2 billion of which will go toward buying flowers.",
-        "summary_zh": "根据美国零售联合会 (NRF) 的数据，今年美国家庭预计在母亲节花费高达 380 亿美元，其中 32 亿美元将用于购买鲜花。",
-        "link": "https://finance.yahoo.com/video/mothers-day-flowers-to-come-with-a-bigger-price-tag-this-year-211836017.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778275116,
-        "type": "News"
-    },
-    {
-        "title": "Coinbase & Cloudflare's AI-driven layoffs might not be rewarded",
-        "title_zh": "Coinbase 和 Cloudflare 人工智能驱动的裁员可能不会得到回报",
-        "summary": "Cloudflare (NET) announced a round of layoffs, following Coinbase's (COIN) similar announcement at the beginning of the week.",
-        "summary_zh": "继 Coinbase (COIN) 于本周初发布类似声明后，Cloudflare (NET) 宣布了一轮裁员。",
-        "link": "https://finance.yahoo.com/video/coinbase-cloudflares-ai-driven-layoffs-183000309.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778265000,
-        "type": "News"
-    },
-    {
-        "title": "Intel stock hits fourth straight record high as Apple report fuels chip rally",
-        "title_zh": "苹果报告推动芯片反弹，英特尔股价连续第四次创历史新高",
-        "summary": "Intel and Apple have reportedly reached a preliminary chip-making agreement.",
-        "summary_zh": "据报道，英特尔和苹果已达成初步芯片制造协议。",
-        "link": "https://finance.yahoo.com/markets/article/intel-stock-hits-fourth-straight-record-high-as-apple-report-fuels-chip-rally-171524007.html",
+        "title": "The Nasdaq's top winners are now running hotter than in 2000: Chart of the Day",
+        "title_zh": "纳斯达克指数的顶尖赢家现在比 2000 年更火爆：每日图表",
+        "summary": "The top dot-com stocks were making history 2000. Today's Nasdaq winners are crushing those gains.",
+        "summary_zh": "顶级互联网股票在 2000 年创造了历史。今天的纳斯达克赢家正在粉碎这些涨幅。",
+        "link": "https://finance.yahoo.com/markets/article/the-nasdaqs-top-winners-are-now-running-hotter-than-in-2000-chart-of-the-day-122715863.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1778260524,
-        "type": "News"
-    },
-    {
-        "title": "Are rising travel costs making 2026 the year of the staycation?",
-        "title_zh": "旅行成本的上涨是否会让 2026 年成为宅度假年？",
-        "summary": "Consumers are keeping to a budget when planning this year's summer travel, taking into consideration the rising costs of airfare and surging gas prices (RB=F) in the US.",
-        "summary_zh": "考虑到美国机票价格上涨和汽油价格飙升 (RB=F)，消费者在计划今年夏季旅行时会严格控制预算。",
-        "link": "https://finance.yahoo.com/video/rising-travel-costs-making-2026-160500979.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778256300,
-        "type": "News"
-    },
-    {
-        "title": "Micron's monster run hits seventh straight record high",
-        "title_zh": "美光科技连续第七年创下历史新高",
-        "summary": "Micron's AI memory rally is still running hot.",
-        "summary_zh": "美光的AI内存涨势依然火热。",
-        "link": "https://finance.yahoo.com/markets/article/microns-monster-run-hits-seventh-straight-record-high-153514380.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778254514,
-        "type": "News"
-    },
-    {
-        "title": "Everything you need to know from the first 2 weeks of the Musk v. OpenAI trial ",
-        "title_zh": "Musk 诉 OpenAI 审判的前两周你需要知道的一切",
-        "summary": "Elon Musk's lawsuit against one of the world's most valuable private companies has provided a number of details about the inner workings of OpenAI.",
-        "summary_zh": "埃隆·马斯克 (Elon Musk) 对世界上最有价值的私营公司之一提起的诉讼提供了有关 OpenAI 内部运作的大量细节。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/everything-you-need-to-know-from-the-first-2-weeks-of-the-musk-v-openai-trial-144157632.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778251317,
-        "type": "News"
-    },
-    {
-        "title": "University of Michigan sentiment data raises economic warning signs",
-        "title_zh": "密歇根大学情绪数据引发经济警告信号",
-        "summary": "Yahoo Finance's Julie Hyman breaks down the University of Michigan consumer sentiment data and its effect on the economy.",
-        "summary_zh": "雅虎财经的朱莉·海曼详细分析了密歇根大学消费者信心数据及其对经济的影响。",
-        "link": "https://finance.yahoo.com/video/university-of-michigan-sentiment-data-raises-economic-warning-signs-143027488.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778250627,
+        "publish_time": 1778329635,
         "type": "News"
     }
 ]
