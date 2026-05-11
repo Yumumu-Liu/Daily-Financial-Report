@@ -1,5 +1,65 @@
 [
     {
+        "title": "Peace progress stalls, AI rally does not",
+        "title_zh": "和平进程停滞不前，人工智能集会不会",
+        "summary": "A look at the day ahead in European and global markets from Tom Westbrook Markets still want to believe that neither the U.S. nor Iran is aiming to escalate their conflict.",
+        "summary_zh": "汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望 市场仍然希望相信美国和伊朗都无意升级冲突。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/peace-progress-stalls-ai-rally-043444029.html",
+        "publisher": "Reuters",
+        "publish_time": 1778474084,
+        "type": "News"
+    },
+    {
+        "title": "Ambani's Jio Platforms IPO pivots to pure fundraise, no investor exits, sources say",
+        "title_zh": "消息人士称，安巴尼的 Jio 平台 IPO 转向纯粹融资，没有投资者退出",
+        "summary": "Indian billionaire Mukesh Ambani's ‌Reliance Jio Platforms has ‌pivoted to a pure fundraise ​for its planned Mumbai listing, dropping earlier plans that would have allowed some ‌shareholders to ⁠exit, two sources said.",
+        "summary_zh": "两名消息人士称，印度亿万富翁穆克什·安巴尼 (Mukesh Ambani) 的 Reliance Jio 平台已将重点转向纯粹的筹款活动，以支持其计划的孟买上市，放弃了此前允许部分股东退出的计划。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ambanis-jio-platforms-ipo-pivots-042231022.html",
+        "publisher": "Reuters",
+        "publish_time": 1778473351,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures drop as Trump rejects Iranian peace proposal",
+        "title_zh": "今日股市：特朗普拒绝伊朗和平提议，标普 500 指数、纳斯达克指数、道指期货下跌",
+        "summary": "Stock indexes dropped heading into a week that is already facing disruption from the ongoing Iran war.",
+        "summary_zh": "进入一周以来，股指下跌，目前已经面临伊朗战争的干扰。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-11-oil-rise-trump-rejects-peace-225625559.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778453785,
+        "type": "News"
+    },
+    {
+        "title": "AI Wins Have Alphabet Poised to Become World’s Biggest Company",
+        "title_zh": "人工智能的胜利让 Alphabet 有望成为世界上最大的公司",
+        "summary": "(Bloomberg) -- Over the past year, Alphabet Inc. has gone from an artificial intelligence afterthought to the one firm in the market with dominant positions in nearly every aspect of the technology. Now it’s on the brink of overtaking AI chip giant Nvidia Corp.",
+        "summary_zh": "（彭博社）——在过去的一年里，Alphabet 公司已经从人工智能的后起之秀变成了市场上几乎在该技术的各个方面都占据主导地位的公司。现在它正处于超越人工智能芯片巨头英伟达公司的边缘。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-wins-alphabet-poised-become-130007285.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778418007,
+        "type": "News"
+    },
+    {
+        "title": "Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks",
+        "title_zh": "市场“喜欢追逐瓶颈”：华尔街关注人工智能股票的史诗般上涨",
+        "summary": "Wall Street weighs the bottlenecks within the AI trade.",
+        "summary_zh": "华尔街正在权衡人工智能行业的瓶颈。",
+        "link": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778409768,
+        "type": "News"
+    },
+    {
+        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
+        "title_zh": "万亿美元俱乐部的新成员正在推动人工智能的繁荣：每日图表",
+        "summary": "Market royalty is getting a hardware makeover.",
+        "summary_zh": "市场使用费正在经历硬件改造。",
+        "link": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778409754,
+        "type": "News"
+    },
+    {
         "title": "The Nasdaq's top winners are now running hotter than in 2000: Chart of the Day",
         "title_zh": "纳斯达克指数的顶尖赢家现在比 2000 年更火爆：每日图表",
         "summary": "The top dot-com stocks were making history 2000. Today's Nasdaq winners are crushing those gains.",
