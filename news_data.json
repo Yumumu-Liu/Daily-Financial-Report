@@ -1,32 +1,72 @@
 [
     {
-        "title": "Peace progress stalls, AI rally does not",
-        "title_zh": "和平进程停滞不前，人工智能集会不会",
-        "summary": "A look at the day ahead in European and global markets from Tom Westbrook Markets still want to believe that neither the U.S. nor Iran is aiming to escalate their conflict.",
-        "summary_zh": "汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望 市场仍然希望相信美国和伊朗都无意升级冲突。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/peace-progress-stalls-ai-rally-043444029.html",
-        "publisher": "Reuters",
-        "publish_time": 1778474084,
-        "type": "News"
-    },
-    {
-        "title": "Ambani's Jio Platforms IPO pivots to pure fundraise, no investor exits, sources say",
-        "title_zh": "消息人士称，安巴尼的 Jio 平台 IPO 转向纯粹融资，没有投资者退出",
-        "summary": "Indian billionaire Mukesh Ambani's ‌Reliance Jio Platforms has ‌pivoted to a pure fundraise ​for its planned Mumbai listing, dropping earlier plans that would have allowed some ‌shareholders to ⁠exit, two sources said.",
-        "summary_zh": "两名消息人士称，印度亿万富翁穆克什·安巴尼 (Mukesh Ambani) 的 Reliance Jio 平台已将重点转向纯粹的筹款活动，以支持其计划的孟买上市，放弃了此前允许部分股东退出的计划。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ambanis-jio-platforms-ipo-pivots-042231022.html",
-        "publisher": "Reuters",
-        "publish_time": 1778473351,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures drop as Trump rejects Iranian peace proposal",
-        "title_zh": "今日股市：特朗普拒绝伊朗和平提议，标普 500 指数、纳斯达克指数、道指期货下跌",
-        "summary": "Stock indexes dropped heading into a week that is already facing disruption from the ongoing Iran war.",
-        "summary_zh": "进入一周以来，股指下跌，目前已经面临伊朗战争的干扰。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-11-oil-rise-trump-rejects-peace-225625559.html",
+        "title": "A surprising thing is happening underneath the S&P 500's record run",
+        "title_zh": "标准普尔 500 指数创纪录的走势背后正在发生一件令人惊讶的事情",
+        "summary": "Don't overlook the warning signs in the market.",
+        "summary_zh": "不要忽视市场上的警告信号。",
+        "link": "https://finance.yahoo.com/markets/article/a-surprising-thing-is-happening-underneath-the-sp-500s-record-run-115026065.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1778453785,
+        "publish_time": 1778500226,
+        "type": "News"
+    },
+    {
+        "title": "Wall St futures subdued as U.S.-Iran talks stall",
+        "title_zh": "由于美伊谈判陷入僵局，华尔街期货下跌",
+        "summary": "By Ragini Mathur and Utkarsh Hathi May 11 (Reuters) - Wall Street futures were subdued on Monday, taking a breather after a record rally last week, as investors fretted over signs of stalled talks",
+        "summary_zh": "作者：拉吉尼·马图尔 (Ragini Mathur) 和乌特卡什·哈蒂 (Utkarsh Hathi) 5 月 11 日（路透社）——华尔街期货周一低迷，在上周创纪录的上涨后稍作喘息，投资者对谈判陷入僵局的迹象感到担忧",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-subdued-u-113337427.html",
+        "publisher": "Reuters",
+        "publish_time": 1778499217,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet considers first yen bond sale to fund AI goals",
+        "title_zh": "Alphabet 考虑首次发行日元债券来资助人工智能目标",
+        "summary": "Alphabet plans to sell Japanese yen-denominated bonds for the first time, it disclosed in a filing on Monday, as technology giants ‌tap debt markets to fund artificial intelligence infrastructure deployments.",
+        "summary_zh": "Alphabet 在周一提交的文件中披露，该公司计划首次出售以日元计价的债券，因为科技巨头正在利用债务市场为人工智能基础设施部署提供资金。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/alphabet-considers-first-yen-bond-112732446.html",
+        "publisher": "Reuters",
+        "publish_time": 1778498852,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: AI chipmaker Cerebras to stage blockbuster IPO, Nvidia's Jensen Huang goes to China",
+        "title_zh": "今日科技股：人工智能芯片制造商 Cerebras 将进行重磅 IPO，英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 前往中国",
+        "summary": "The tech sector helped US stocks cruise to all-time highs last week, as the artificial intelligence boom broadened.",
+        "summary_zh": "随着人工智能热潮的扩大，科技板块帮助美国股市上周升至历史新高。",
+        "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-ai-chipmaker-cerebras-to-stage-blockbuster-ipo-nvidias-jensen-huang-goes-to-china-100000740.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778493600,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Prepares to Issue Its First Swiss Franc Bond in AI Push",
+        "title_zh": "亚马逊准备发行首支瑞士法郎债券以推动人工智能发展",
+        "summary": "(Bloomberg) -- Amazon.com, Inc.",
+        "summary_zh": "（彭博社）——亚马逊公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-prepares-issue-first-swiss-090439437.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778490279,
+        "type": "News"
+    },
+    {
+        "title": "Ambani's Jio Platforms IPO pivots to pure fundraising, no investor exits, sources say",
+        "title_zh": "消息人士称，安巴尼的 Jio 平台 IPO 转向纯粹融资，没有投资者退出",
+        "summary": "By Aditya Kalra and Vibhuti Sharma MUMBAI, May 11 (Reuters) - Mukesh Ambani's Reliance Jio Platforms has pivoted to a pure fundraising for its planned Mumbai listing, selling a 2.5% stake in the",
+        "summary_zh": "作者：Aditya Kalra 和 Vibhuti Sharma 孟买，5 月 11 日（路透社）——穆克什·安巴尼 (Mukesh Ambani) 的 Reliance Jio 平台已转向纯粹为其计划的孟买上市筹集资金，出售了该公司 2.5% 的股份",
+        "link": "https://finance.yahoo.com/news/ambanis-jio-platforms-ipo-pivots-042231044.html",
+        "publisher": "Reuters",
+        "publish_time": 1778474930,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet Plans Debut Yen Bond Sale as AI Race Accelerates",
+        "title_zh": "随着人工智能竞赛的加速，Alphabet 计划首次发售日元债券",
+        "summary": "(Bloomberg) -- Alphabet Inc.",
+        "summary_zh": "（彭博社）——Alphabet Inc.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-plans-debut-yen-bond-041848113.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778473128,
         "type": "News"
     },
     {
@@ -40,33 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks",
-        "title_zh": "市场“喜欢追逐瓶颈”：华尔街关注人工智能股票的史诗般上涨",
-        "summary": "Wall Street weighs the bottlenecks within the AI trade.",
-        "summary_zh": "华尔街正在权衡人工智能行业的瓶颈。",
-        "link": "https://finance.yahoo.com/markets/article/markets-love-chasing-bottlenecks-wall-street-weighs-epic-run-in-ai-stocks-104248168.html",
+        "title": "Trump goes to China, inflation comes to America: What to watch this week",
+        "title_zh": "特朗普访问中国，通胀来到美国：本周看点",
+        "summary": "Trump's China trip and the April inflation report will be the week's two biggest developments for investors.",
+        "summary_zh": "特朗普的中国之行和四月份的通胀报告将是投资者本周最关注的两个事态发展。",
+        "link": "https://finance.yahoo.com/economy/article/trump-goes-to-china-inflation-comes-to-america-what-to-watch-this-week-104329157.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1778409768,
-        "type": "News"
-    },
-    {
-        "title": "The $1 trillion club's new members are powering the AI boom: Chart of the Day",
-        "title_zh": "万亿美元俱乐部的新成员正在推动人工智能的繁荣：每日图表",
-        "summary": "Market royalty is getting a hardware makeover.",
-        "summary_zh": "市场使用费正在经历硬件改造。",
-        "link": "https://finance.yahoo.com/markets/article/the-1-trillion-clubs-new-members-are-powering-the-ai-boom-chart-of-the-day-104234629.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778409754,
-        "type": "News"
-    },
-    {
-        "title": "The Nasdaq's top winners are now running hotter than in 2000: Chart of the Day",
-        "title_zh": "纳斯达克指数的顶尖赢家现在比 2000 年更火爆：每日图表",
-        "summary": "The top dot-com stocks were making history 2000. Today's Nasdaq winners are crushing those gains.",
-        "summary_zh": "顶级互联网股票在 2000 年创造了历史。今天的纳斯达克赢家正在粉碎这些涨幅。",
-        "link": "https://finance.yahoo.com/markets/article/the-nasdaqs-top-winners-are-now-running-hotter-than-in-2000-chart-of-the-day-122715863.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778329635,
+        "publish_time": 1778409809,
         "type": "News"
     }
 ]
