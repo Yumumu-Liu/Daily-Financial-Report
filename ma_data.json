@@ -1,52 +1,52 @@
 [
     {
-        "title": "Anthropic secures $1.8bn cloud deal with Akamai for AI expansion",
-        "title_zh": "Anthropic 与 Akamai 达成 18 亿美元的云协议以拓展 AI",
-        "summary": "Akamai lands its biggest-ever cloud contract, marking a major push beyond content delivery into AI infrastructure.",
-        "summary_zh": "Akamai 获得了有史以来最大的云合同，标志着从内容交付到人工智能基础设施的重大推动。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-secures-1-8bn-cloud-113939926.html",
-        "publisher": "Verdict",
-        "publish_time": 1778499579,
+        "title": "Too Many Tech Stocks Lurking in Your Portfolio? These 3 Investments Offer More Balance.",
+        "title_zh": "您的投资组合中潜藏着太多科技股？这三项投资提供更多平衡。",
+        "summary": "Costco Wholesale, Procter & Gamble, and PepsiCo can help you immediately build a more risk-adjusted portfolio.",
+        "summary_zh": "Costco Wholesale、Procter & Gamble 和 PepsiCo 可以帮助您立即建立风险调整程度更高的投资组合。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/too-many-tech-stocks-lurking-025000515.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1778554200,
         "type": "News"
     },
     {
-        "title": "VNQI Offers Broad International Real Estate at Low Cost. RWX Takes a Narrower, Pricier Path.",
-        "title_zh": "VNQI 以低成本提供广泛的国际房地产。 RWX 走的是一条更窄、更昂贵的道路。",
-        "summary": "With over five times the holdings and a broader international reach, VNQI takes a different approach to global real estate exposure.",
-        "summary_zh": "VNQI 拥有超过五倍的持股量和更广泛的国际影响力，对全球房地产投资采取了不同的方法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vnqi-offers-broad-international-real-113503623.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1778499303,
+        "title": "Microsoft Retirement Buyout Highlights Evolving Workforce And AI Investment Priorities",
+        "title_zh": "微软退休收购凸显不断变化的劳动力和人工智能投资优先事项",
+        "summary": "Microsoft (NasdaqGS:MSFT) has launched a large voluntary retirement buyout program for eligible U.S. employees. The offer includes extended cash payouts and healthcare benefits tied to specific age and years of service criteria.",
+        "summary_zh": "微软（NasdaqGS：MSFT）为符合条件的美国员工启动了一项大型自愿退休买断计划。该优惠包括与特定年龄和服务年限标准相关的延长现金支付和医疗保健福利。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-retirement-buyout-highlights-evolving-201324936.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778530404,
+        "type": "News"
+    },
+    {
+        "title": "JPMorgan Hikes IREN Price Target to $46 but Stays Underweight on Circular NVIDIA Deal Concerns",
+        "title_zh": "摩根大通将 IREN 目标价上调至 46 美元，但因对 NVIDIA 交易的担忧而保持减持",
+        "summary": "JPMorgan Chase (NYSE:JPM) raised its price target on Iren (NASDAQ:IREN) stock to $46 from $39 while keeping an Underweight rating.",
+        "summary_zh": "摩根大通（纽约证券交易所股票代码：JPM）将 Iren （纳斯达克股票代码：IREN）股票的目标价格从 39 美元上调至 46 美元，同时维持减持评级。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-hikes-iren-price-target-151340403.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1778512420,
+        "type": "News"
+    },
+    {
+        "title": "Apollo buying Emerald Holding and Questex in $1.5B deal",
+        "title_zh": "Apollo 以 1.5B 美元的交易收购 Emerald Holding 和 Questex",
+        "summary": "The private equity firm plans to combine the two B2B events companies into a single platform running about 160 events",
+        "summary_zh": "这家私募股权公司计划将两家 B2B 活动公司合并为一个运营约 160 项活动的单一平台",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-buying-emerald-holding-questex-133703016.html",
+        "publisher": "Quartz",
+        "publish_time": 1778506623,
         "type": "News"
     },
     {
         "title": "Apollo Strikes Deals for Two Live-Events Businesses",
         "title_zh": "阿波罗为两家现场活动业务达成交易",
-        "summary": "Apollo Global Management  struck deals for two different live-events businesses as part of a plan to create a platform for in-person gatherings.",
-        "summary_zh": "作为创建面对面聚会平台计划的一部分，阿波罗全球管理公司为两家不同的现场活动业务达成了交易。",
-        "link": "https://www.wsj.com/business/deals/apollo-strikes-deals-for-two-live-events-businesses-4fc7f032?siteid=yhoof2&yptr=yahoo",
+        "summary": "The investment firm is set to buy Emerald Holding and Questex with plans to combine them.",
+        "summary_zh": "该投资公司将收购 Emerald Holding 和 Questex，并计划将它们合并。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-strikes-deals-two-live-105000125.html",
         "publisher": "The Wall Street Journal",
         "publish_time": 1778496600,
-        "type": "News"
-    },
-    {
-        "title": "Oil Climbs as Hormuz Stays Shut After Trump Rebuffs Iran’s Offer",
-        "title_zh": "特朗普拒绝伊朗的提议后，霍尔木兹海峡保持关闭，油价上涨",
-        "summary": "(Bloomberg) -- Oil rose after US President Donald Trump rejected Iran’s response to his latest peace proposal, prolonging the effective closure of the crucial Strait of Hormuz.Most Read from BloombergIran Makes New Offer on Uranium in Response to US, WSJ SaysTrump Rejects New ...",
-        "summary_zh": "（彭博社）--美国总统唐纳德·特朗普拒绝伊朗对其最新和平提议的回应，延长了关键的霍尔木兹海峡的有效关闭时间，油价上涨。《华尔街日报》称，伊朗提出新的铀提议以回应美国，特朗普拒绝了新的提议……",
-        "link": "https://finance.yahoo.com/news/oil-jumps-as-hormuz-stays-shut-after-trump-rebuffs-irans-offer-040157222.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778491109,
-        "type": "News"
-    },
-    {
-        "title": "US, Iran Wrangle Over Terms of Deal to End War and Reopen Hormuz",
-        "title_zh": "美国和伊朗就结束战争和重新开放霍尔木兹海峡的协议条款争论不休",
-        "summary": "(Bloomberg) -- The US and Iran remain far apart on a framework to end their war and reopen the Strait of Hormuz, with President Donald Trump calling the Islamic Republic’s reply to his proposed peace plan unworkable.Most Read from BloombergIran Makes New Offer on Uranium in Re...",
-        "summary_zh": "（彭博社）——美国和伊朗在结束战争和重新开放霍尔木兹海峡的框架上仍存在很大分歧，唐纳德·特朗普总统称伊朗伊斯兰共和国对其拟议和平计划的答复不可行。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/us-iran-wrangle-over-terms-080915828.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778486955,
         "type": "News"
     }
 ]
