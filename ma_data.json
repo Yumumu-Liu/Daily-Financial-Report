@@ -1,12 +1,22 @@
 [
     {
-        "title": "Alphabet Inc.’s (GOOG) Google Offers Spam Policy Changes to Avert EU Antitrust Fine, Reuters Reports",
-        "title_zh": "据路透社报道，Alphabet Inc. (GOOG) 旗下谷歌提出垃圾邮件政策变更，以避免欧盟反垄断罚款",
-        "summary": "Alphabet Inc. (NASDAQ:GOOG) is one of the top “blue chip” stocks that were suddenly on fire in April.",
-        "summary_zh": "Alphabet Inc.（纳斯达克股票代码：GOOG）是四月份突然火爆的顶级“蓝筹”股之一。",
-        "link": "https://finance.yahoo.com/news/alphabet-inc-goog-google-offers-213002291.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1778621402,
+        "title": "Is This Surging Semiconductor Stock a Buy After Its Blockbuster Deal With Nvidia?",
+        "title_zh": "在与英伟达达成重磅交易后，这只飙升的半导体股票是否值得买入？",
+        "summary": "Corning stock has quadrupled during the past 12 months, and it probably isn't done yet.",
+        "summary_zh": "康宁公司的股票在过去 12 个月里翻了两番，而且这一过程可能还没有结束。",
+        "link": "https://finance.yahoo.com/news/surging-semiconductor-stock-buy-blockbuster-103000410.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1778668200,
+        "type": "News"
+    },
+    {
+        "title": "Intel Slips Despite $80 Billion CPU Market Forecast, Apple Manufacturing Deal",
+        "title_zh": "尽管苹果制造交易预测 CPU 市场价值 800 亿美元，但英特尔股价仍下滑",
+        "summary": "Intel Corp secured a major boost to its foundry business after Apple Inc agreed to a manufacturing deal.",
+        "summary_zh": "在苹果公司同意一项制造协议后，英特尔公司的代工业务得到了重大推动。",
+        "link": "https://finance.yahoo.com/news/intel-slips-despite-80-billion-094604367.html",
+        "publisher": "Benzinga",
+        "publish_time": 1778665564,
         "type": "News"
     },
     {
@@ -23,7 +33,7 @@
         "title": "Jack Daniel’s Maker Brown-Forman Rejects $15 Billion Takeover Offer From Sazerac",
         "title_zh": "Jack Daniel 的制造商 Brown-Forman 拒绝 Sazerac 150 亿美元的收购要约",
         "summary": "Advisers for Brown-Forman informed Sazerac on Monday that the company was rejecting the $32-a-share cash offer.",
-        "summary_zh": "Brown-Forman 的顾问周一告知 Sazerac，该公司拒绝每股 32 美元的现金收购要约。",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://www.wsj.com/business/deals/jack-daniels-maker-brown-forman-rejects-15-billion-takeover-offer-from-sazerac-48296c0e?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1778614740,
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-secures-structural-wins-openai-185800622.html",
         "publisher": "Proactive",
         "publish_time": 1778612280,
-        "type": "News"
-    },
-    {
-        "title": "Top Midday Stories: April CPI Rises 3.8% YoY, Highest Level Since May 2023; EBay Board Rejects GameStop's Acquisition Proposal",
-        "title_zh": "午间热点：4月CPI同比上涨3.8%，创2023年5月以来最高水平； eBay 董事会拒绝 GameStop 的收购提议",
-        "summary": "All three major US stock indexes were down in late-morning trading after April inflation data came i",
-        "summary_zh": "4 月份通胀数据公布后，美国三大股指早盘均下跌",
-        "link": "https://finance.yahoo.com/economy/policy/articles/top-midday-stories-april-cpi-160838932.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1778602118,
         "type": "News"
     }
 ]

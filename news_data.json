@@ -1,52 +1,42 @@
 [
     {
-        "title": "Nvidia CEO joins Trump's mission to 'open up' China",
-        "title_zh": "英伟达首席执行官加入特朗普“开放”中国的使命",
-        "summary": "By Laurie Chen, Trevor Hunnicutt and Heejin Kim BEIJING/SEOUL, May 13 (Reuters) - U.S.",
-        "summary_zh": "作者：Laurie Chen、Trevor Hunnicutt 和 Heejin Kim 北京/首尔，5 月 13 日（路透社）- 美国",
-        "link": "https://finance.yahoo.com/news/nvidia-ceo-joins-trumps-mission-041122393.html",
+        "title": "Nebius reports higher quarterly capex on AI cloud expansion",
+        "title_zh": "Nebius 报告人工智能云扩张季度资本支出增加",
+        "summary": "Nebius Group on Wednesday reported higher-than-expected first-quarter capital spending, driven by investments tied to the ‌procurement of graphics processing units and data center ‌hardware for its core AI cloud business.",
+        "summary_zh": "Nebius Group 周三报告称，第一季度资本支出高于预期，这是由于与其核心人工智能云业务采购图形处理单元和数据中心硬件相关的投资推动的。",
+        "link": "https://finance.yahoo.com/news/nebius-reports-higher-quarterly-capex-110405106.html",
         "publisher": "Reuters",
-        "publish_time": 1778645880,
+        "publish_time": 1778670245,
         "type": "News"
     },
     {
-        "title": "Nvidia's Jensen Huang joins Trump's China visit",
-        "title_zh": "英伟达 (Nvidia) 黄仁勋 (Jensen Huang) 随行特朗普访华",
-        "summary": "Nvidia CEO Jensen Huang has joined over a dozen U.S. CEOs on ‌President Donald Trump's visit to China this week. Trump called Huang last-minute ‌on Tuesday after seeing media coverage that he was not invited, according to one source ​familiar with the matter.",
-        "summary_zh": "英伟达首席执行官黄仁勋与十几位美国首席执行官一起参加了唐纳德·特朗普总统本周对中国的访问。据一位知情人士透露，特朗普在看到媒体报道称他没有受到邀请后，在周二最后一刻给黄蜂打了电话。",
-        "link": "https://finance.yahoo.com/news/nvidias-jensen-huang-join-trumps-013448593.html",
-        "publisher": "Reuters",
-        "publish_time": 1778636088,
-        "type": "News"
-    },
-    {
-        "title": "S&P 500, Nasdaq end lower as inflation, Iran tensions weigh",
-        "title_zh": "标普 500 指数和纳斯达克指数因通胀和伊朗紧张局势而收低",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/p-500-nasdaq-end-lower-224544149.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1778625944,
-        "type": "News"
-    },
-    {
-        "title": "Trump-Xi summit: What's on the table for US, Chinese companies",
-        "title_zh": "特习会：美国和中国企业的议题",
-        "summary": "President Trump is visiting Beijing this week to meet with Chinese President Xi Jinping, bringing along several Big Tech CEOs like Tesla's (TSLA) Elon Musk and Apple (AAPL) chief executive Tim Cook as part of the US delegation.",
-        "summary_zh": "特朗普总统本周将访问北京，会见中国国家主席习近平，美国代表团成员包括特斯拉 (TSLA) 埃隆·马斯克 (Elon Musk) 和苹果 (AAPL) 首席执行官蒂姆·库克 (Tim Cook) 等几位大型科技公司首席执行官。",
-        "link": "https://finance.yahoo.com/video/trump-xi-summit-whats-table-214500458.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778622300,
-        "type": "News"
-    },
-    {
-        "title": "Altman Testifies About ‘Hair-Raising’ OpenAI Chat With Musk",
-        "title_zh": "Altman 就 OpenAI 与 Musk 的“令人毛骨悚然”的对话作证",
-        "summary": "(Bloomberg) -- OpenAI’s Sam Altman testified that he was “extremely uncomfortable” with Elon Musk’s insistence that he have complete control over a proposed for-profit subsidiary of the startup back in 2017.Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridg...",
-        "summary_zh": "（彭博社）——OpenAI 的萨姆·奥尔特曼 (Sam Altman) 作证说，他对埃隆·马斯克 (Elon Musk) 在 2017 年坚称自己拥有对这家初创公司拟议的营利性子公司的完全控制权感到“极其不舒服”。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/altman-testifies-hair-raising-ai-173518562.html",
+        "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
+        "title_zh": "太浩湖电力紧缺表明人工智能对西部地区的能源损失不断增加",
+        "summary": "(Bloomberg) -- Lake Tahoe has long been a refuge for Silicon Valley’s tech elite, from Mark Zuckerberg to Larry Ellison.",
+        "summary_zh": "（彭博社）——太浩湖长期以来一直是从马克·扎克伯格到拉里·埃里森等硅谷科技精英的避难所。",
+        "link": "https://finance.yahoo.com/news/lake-tahoe-power-crunch-shows-100000822.html",
         "publisher": "Bloomberg",
-        "publish_time": 1778621791,
+        "publish_time": 1778666400,
+        "type": "News"
+    },
+    {
+        "title": "Alibaba, Tencent AI Bets Face ‘Show Me the Profits’ Scrutiny",
+        "title_zh": "阿里巴巴和腾讯的人工智能押注面临“让我看看利润”审查",
+        "summary": "(Bloomberg) -- Chinese investors are heading into the earnings season demanding proof that billions in AI spending by tech giants is paying off.Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaInside a Year of Chaos and Conflict at Kevin ...",
+        "summary_zh": "（彭博社）——中国投资者即将进入财报季，要求证明科技巨头数十亿美元的人工智能支出正在得到回报。大多数文章来自彭博社安巴尼与可口可乐的可乐战争，百事可乐刺激印度的冰箱富矿凯文的混乱和冲突一年内......",
+        "link": "https://finance.yahoo.com/news/alibaba-tencent-ai-bets-face-044735630.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778647655,
+        "type": "News"
+    },
+    {
+        "title": "Memory Crunch Deepens Chasm Between Stock Winners and Losers",
+        "title_zh": "内存紧缩加深了股票赢家和输家之间的鸿沟",
+        "summary": "(Bloomberg) -- The worsening shortage in global memory chips due to the artificial intelligence buildout is driving a widening gulf in corporate results and stock performances.Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaInside a Year...",
+        "summary_zh": "（彭博社）——由于人工智能的发展，全球存储芯片的短缺日益严重，导致企业业绩和股票表现的差距不断扩大。彭博社的大多数报道安巴尼与可口可乐的可乐战争，百事可乐在印度一年内掀起了冰箱大富翁......",
+        "link": "https://finance.yahoo.com/news/memory-crunch-deepens-chasm-between-040536146.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778645136,
         "type": "News"
     },
     {
@@ -70,23 +60,33 @@
         "type": "News"
     },
     {
-        "title": "Anthropic In Talks to Raise $30 Billion at $900 Billion Valuation",
-        "title_zh": "Anthropic 正在洽谈融资 300 亿美元，估值达 9000 亿美元",
-        "summary": "(Bloomberg) -- Anthropic PBC is in early talks with investors to raise at least $30 billion in fresh financing, according to people familiar with the matter, setting the stage for what could be its largest funding round yet.Most Read from BloombergAmbani’s Cola War With Coke, ...",
-        "summary_zh": "（彭博社）——据知情人士透露，Anthropic PBC 正在与投资者进行早期谈判，以筹集至少 300 亿美元的新融资，为可能是迄今为止最大的一轮融资奠定基础。",
-        "link": "https://finance.yahoo.com/news/anthropic-talks-raise-30-billion-210804604.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778620084,
+        "title": "Alibaba earnings, Trump & Xi meet, PPI data: What to Watch",
+        "title_zh": "阿里巴巴财报、特朗普与习近平会面、生产者价格指数 (PPI) 数据：值得关注的内容",
+        "summary": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch on Wednesday, May 13, including President Trump's meeting with Chinese President Xi, Alibaba (BABA) and Cisco (CSCO) earnings, April's Producer Price Index (PPI) data, and commen...",
+        "summary_zh": "Market Domination Overtime 主持人乔什·利普顿 (Josh Lipton) 为投资者盘点了 5 月 13 日星期三值得关注的头条新闻，包括特朗普总统与中国国家主席习近平的会面、阿里巴巴 (BABA) 和思科 (CSCO) 的盈利、4 月份的生产者价...",
+        "link": "https://finance.yahoo.com/video/alibaba-earnings-trump--xi-meet-ppi-data-what-to-watch-204946768.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778618986,
         "type": "News"
     },
     {
-        "title": "OpenAI's Altman faces questions about lying, disclosures from Musk's attorney in trial",
-        "title_zh": "OpenAI 的 Altman 在审判中面临马斯克律师撒谎和披露信息的质疑",
-        "summary": "OpenAI CEO Sam Altman faced questions related to accusations of lying and deciving the company's board as part of Elon Musk's suit againt the him.",
-        "summary_zh": "OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 面临与埃隆·马斯克 (Elon Musk) 起诉的一部分有关撒谎和欺骗公司董事会的指控的质疑。",
-        "link": "https://finance.yahoo.com/news/openais-altman-faces-questions-about-lying-disclosures-from-musks-attorney-in-trial-202932309.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1778617772,
+        "title": "Why Netflix spent so much money over the past decade",
+        "title_zh": "为什么 Netflix 在过去十年里花了这么多钱",
+        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma breaks down Netflix's (NFLX) massive spending over the past 10 years.",
+        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 详细分析了 Netflix (NFLX) 过去 10 年的巨额支出。",
+        "link": "https://finance.yahoo.com/video/why-netflix-spent-so-much-money-over-the-past-decade-193324990.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778614404,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500, Nasdaq under pressure as chip stocks see red",
+        "title_zh": "芯片股看跌，标准普尔 500 指数和纳斯达克指数承压",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed ahead of Tuesday's market close as the Nasdaq Composite drops by over 1%, pushed lower by declines in chip stocks.",
+        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）在周二收盘前涨跌互现，纳斯达克综合指数因芯片股下跌而下跌超过 1%。",
+        "link": "https://finance.yahoo.com/video/sp-500-nasdaq-under-pressure-as-chip-stocks-see-red-191434126.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1778613274,
         "type": "News"
     }
 ]
