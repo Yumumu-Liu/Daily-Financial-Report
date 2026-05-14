@@ -1,5 +1,15 @@
 [
     {
+        "title": "BloFin Research: Will the SpaceX IPO Pop the U.S. Stock Bubble?",
+        "title_zh": "BloFin Research：SpaceX IPO 会戳破美国股市泡沫吗？",
+        "summary": "The S&P 500 just crossed 7,400 for the first time, AI memory names have multiplied severalfold in months, and the most anticipated IPO of the cycle is approaching. Beneath the surface, the options market is flashing two opposite signals at once.",
+        "summary_zh": "标准普尔 500 指数刚刚首次突破 7,400 点，AI 内存名称在几个月内翻了好几倍，本周期最令人期待的 IPO 即将到来。在表面之下，期权市场同时闪烁着两个相反的信号。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blofin-research-spacex-ipo-pop-103711077.html",
+        "publisher": "BeInCrypto",
+        "publish_time": 1778755031,
+        "type": "News"
+    },
+    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -37,16 +47,6 @@
         "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1774971420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
-        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
-        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
-        "publisher": "Zacks",
-        "publish_time": 1774872000,
         "type": "News"
     }
 ]
