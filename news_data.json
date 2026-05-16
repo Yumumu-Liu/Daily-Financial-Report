@@ -1,5 +1,35 @@
 [
     {
+        "title": "Bill Ackman says Alphabet stake sale not a bet against the company",
+        "title_zh": "比尔·阿克曼 (Bill Ackman) 表示 Alphabet 股权出售并非对公司不利",
+        "summary": "Billionaire investor Bill Ackman said on ‌Saturday that the sale ‌of Google parent Alphabet's shares was ​not a bet against the company.",
+        "summary_zh": "亿万富翁投资者比尔·阿克曼 (Bill Ackman) 周六表示，出售谷歌母公司 Alphabet 的股票并不是做空该公司。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-alphabet-stake-074804056.html",
+        "publisher": "Reuters",
+        "publish_time": 1778917684,
+        "type": "News"
+    },
+    {
+        "title": "Chinese officials meet Citigroup, Goldman chiefs in Beijing",
+        "title_zh": "中国官员在北京会见花旗集团和高盛集团高管",
+        "summary": "By Eduardo Baptista and Che Pan BEIJING, May 16 (Reuters) - The chairman of China's securities regulator and Beijing's party secretary held talks with Citigroup CEO Jane Fraser in China and discussed",
+        "summary_zh": "路透北京5月16日电 中国证监会主席、北京市委书记在中国与花旗集团首席执行官简·弗雷泽举行会谈并讨论",
+        "link": "https://finance.yahoo.com/economy/policy/articles/chinese-officials-meet-citigroup-goldman-061912613.html",
+        "publisher": "Reuters",
+        "publish_time": 1778912352,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX shareholders approve 5-for-1 stock split, Bloomberg News reports",
+        "title_zh": "据彭博社报道，SpaceX 股东批准了 5 比 1 的股票分割",
+        "summary": "May 15 (Reuters) - A majority of SpaceX shareholders have approved a 5-for-1 stock split recommended by the company's board, Bloomberg News reported on Friday, citing people familiar with the matter.",
+        "summary_zh": "5 月 15 日（路透社）——据彭博社周五援引知情人士的话报道，SpaceX 的大多数股东已批准公司董事会建议的 5 比 1 的股票分割。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-shareholders-approve-5-1-032254885.html",
+        "publisher": "Reuters",
+        "publish_time": 1778905435,
+        "type": "News"
+    },
+    {
         "title": "YouTube, Snap and TikTok settle school district's social media addiction claims",
         "title_zh": "YouTube、Snap 和 TikTok 就学区社交媒体成瘾索赔达成和解",
         "summary": "Alphabet's YouTube, Snap and TikTok have reached settlements in the first case set for trial in litigation seeking to ‌force social media platforms to cover the costs school districts incur to combat a youth ‌mental health crisis they say the companies fueled.",
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/wall-street-ends-lower-mounting-220111120.html",
         "publisher": "Reuters Videos",
         "publish_time": 1778882471,
-        "type": "News"
-    },
-    {
-        "title": "Global shares stumble while bond yields climb on inflation worries",
-        "title_zh": "全球股市下跌，而债券收益率因通胀担忧而攀升",
-        "summary": "By Sinéad Carew and Sophie Kiderlin NEW YORK/LONDON, May 15 (Reuters) - Global equity indexes fell on Friday while bond yields soared as investor euphoria over technology stocks gave way to inflation",
-        "summary_zh": "作者：Sinéad Carew 和 Sophie Kiderlin 纽约/伦敦，5 月 15 日（路透社）——由于投资者对科技股的乐观情绪被通货膨胀所取代，全球股指周五下跌，而债券收益率飙升",
-        "link": "https://finance.yahoo.com/news/asian-shares-dive-as-us-yields-hit-one-year-high-053836732.html",
-        "publisher": "Reuters",
-        "publish_time": 1778880614,
-        "type": "News"
-    },
-    {
-        "title": "Oracle, Google, Costco options trading: This expert explains all",
-        "title_zh": "Oracle、Google、Costco 期权交易：这位专家解释了一切",
-        "summary": "Explosive Options chief options analyst Bob Lang joins Yahoo Finance to discuss the options market for Oracle (ORCL), Costco (COST), and Alphabet (GOOG, GOOGL).",
-        "summary_zh": "Explosive Options 首席期权分析师 Bob Lang 与雅虎财经一起讨论 Oracle (ORCL)、Costco (COST) 和 Alphabet (GOOG、GOOGL) 的期权市场。",
-        "link": "https://finance.yahoo.com/video/oracle-google-costco-options-trading-this-expert-explains-all-212504735.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778880304,
-        "type": "News"
-    },
-    {
-        "title": "Trump’s More Than 3,700 Trades Astonish Wall Street Insiders",
-        "title_zh": "特朗普的 3,700 多笔交易令华尔街业内人士震惊",
-        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter, a flurry totaling tens of millions of dollars and involving major companies that have dealings with his administration.",
-        "summary_zh": "(彭博社)——唐纳德·特朗普总统最新的财务披露显示，他或他的投资顾问在第一季度进行了 3,700 多笔交易，交易总额达数千万美元，涉及与他的政府有业务往来的大公司。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1778877843,
         "type": "News"
     }
 ]
