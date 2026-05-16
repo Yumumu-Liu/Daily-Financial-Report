@@ -1,32 +1,22 @@
 [
     {
-        "title": "Argentum AI signs $2.5 billion data center deal with cloud, real estate firms",
-        "title_zh": "Argentum AI 与云、房地产公司签署价值 25 亿美元的数据中心协议",
-        "summary": "Argentum AI has signed a deal worth around $2.5 billion with ‌cloud gaming firm Boosteroid and real ‌estate company DL Invest Group for a 300-megawatt data ​center in Europe, the artificial intelligence infrastructure provider told Reuters on Friday.",
-        "summary_zh": "人工智能基础设施提供商 Argentum AI 周五告诉路透社，该公司已与云游戏公司 Boosteroid 和房地产公司 DL Invest Group 签署了价值约 25 亿美元的协议，在欧洲建设一座 300 兆瓦的数据中心。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/argentum-ai-signs-2-5-100727857.html",
-        "publisher": "Reuters",
-        "publish_time": 1778839647,
+        "title": "Intel Climbs 15% on Apple Chip Deal as Trader Warns on Upcoming Cisco Earnings",
+        "title_zh": "苹果芯片交易推动英特尔股价上涨 15%，交易员对思科即将公布的财报发出警告",
+        "summary": "Friday’s CNBC Halftime Report on May 8 featured two very different AI market stories unfolding at the same time.",
+        "summary_zh": "5 月 8 日周五的 CNBC 半场报道讲述了两个截然不同的人工智能市场故事同时展开。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-climbs-15-apple-chip-164110284.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1778863270,
         "type": "News"
     },
     {
-        "title": "Will Microsoft’s (MSFT) Capped OpenAI Deal and New AI Alliances Change Its Platform Power Narrative?",
-        "title_zh": "微软 (MSFT) 的 OpenAI 协议和新的 AI 联盟是否会改变其平台力量的叙述？",
-        "summary": "In recent days, Microsoft appointed former EY global chairman and CEO Carmine Di Sibio to its board and saw its overhauled OpenAI partnership formalized with a reported US$38 billion cap on revenue-sharing payments, while continuing to broaden AI collaborations and infrastruct...",
-        "summary_zh": "最近几天，微软任命前安永全球董事长兼首席执行官卡迈恩·迪·西比奥 (Carmine Di Sibio) 为董事会成员，并见证了其经过全面改革的 OpenAI 合作伙伴关系正式确定，据报道，收入共享支付上限为 380 亿美元，同时继续扩大人工智能合作和基础设施建设……",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-capped-openai-deal-072543617.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1778829943,
-        "type": "News"
-    },
-    {
-        "title": "FitLife Brands Inc (FTLF) Q1 2026 Earnings Call Highlights: Revenue Surge Amidst Acquisition Gains",
-        "title_zh": "FitLife Brands Inc (FTLF) 2026 年第一季度收益电话会议亮点：收购收益带来收入激增",
-        "summary": "FitLife Brands Inc (FTLF) reports a 59% revenue increase driven by strategic acquisitions, despite challenges in gross margins and net income.",
-        "summary_zh": "FitLife Brands Inc (FTLF) 报告称，尽管毛利率和净利润面临挑战，但在战略收购的推动下，收入增长了 59%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fitlife-brands-inc-ftlf-q1-050123165.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1778821283,
+        "title": "Magnum Ice Cream shares surge on report of PE buyout interest",
+        "title_zh": "PE 收购兴趣报道导致 Magnum 冰淇淋股价飙升",
+        "summary": "Investing.com -- Magnum Ice Cream Nv (NYSE:MICC) shares jumped 10.9% in U.S. premarket trading and 10.5% in European markets on Friday following reports of potential private equity interest.",
+        "summary_zh": "Investing.com——周五，在有关潜在私募股权投资的报道之后，Magnum Ice Cream Nv (NYSE:MICC) 股价在美国盘前交易中上涨 10.9%，在欧洲市场上涨 10.5%。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/magnum-ice-cream-shares-surge-131528562.html",
+        "publisher": "Investing.com",
+        "publish_time": 1778850928,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-f1-revenue-history-212730437.html",
         "publisher": "CorpGov.com",
         "publish_time": 1778794050,
+        "type": "News"
+    },
+    {
+        "title": "The PE Paradox: Volatility Fuels New Deals as Old Assets Sit Frozen in Portfolios",
+        "title_zh": "私募股权悖论：旧资产在投资组合中冻结，波动性助长新交易",
+        "summary": "Glinting investment opportunities abound, private-equity firms say—but the industry also faces an exit bottleneck of over $3 trillion.",
+        "summary_zh": "私募股权公司表示，闪闪发光的投资机会比比皆是，但该行业也面临着超过 3 万亿美元的退出瓶颈。",
+        "link": "https://www.wsj.com/pro/private-equity/the-pe-paradox-volatility-fuels-new-deals-as-old-assets-sit-frozen-in-portfolios-f6b408c1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1778701200,
         "type": "News"
     }
 ]
