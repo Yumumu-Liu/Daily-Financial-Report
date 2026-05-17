@@ -1,12 +1,42 @@
 [
     {
-        "title": "Bill Ackman says Alphabet stake sale not a bet against the company",
-        "title_zh": "比尔·阿克曼 (Bill Ackman) 表示 Alphabet 股权出售并非对公司不利",
-        "summary": "Billionaire investor Bill Ackman said on ‌Saturday that the sale ‌of Google parent Alphabet's shares was ​not a bet against the company.",
-        "summary_zh": "亿万富翁投资者比尔·阿克曼 (Bill Ackman) 周六表示，出售谷歌母公司 Alphabet 的股票并不是做空该公司。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-alphabet-stake-074804056.html",
+        "title": "BlackRock weighs multibillion-dollar investment in SpaceX IPO, the Information reports",
+        "title_zh": "据Information报道，贝莱德考虑对SpaceX IPO投资数十亿美元",
+        "summary": "BlackRock has discussed investing $5 billion to $10 billion in SpaceX's ‌initial public offering next month, the ‌Information news outlet reported on Saturday, citing people ​familiar with the matter.",
+        "summary_zh": "据《信息》新闻媒体周六援引知情人士的话报道，贝莱德已讨论在 SpaceX 下个月的首次公开募股中投资 50 亿至 100 亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-weighs-multibillion-dollar-investment-161440412.html",
         "publisher": "Reuters",
-        "publish_time": 1778917684,
+        "publish_time": 1778948080,
+        "type": "News"
+    },
+    {
+        "title": "Trump’s More Than 3,700 Trades Astonish Wall Street Insiders",
+        "title_zh": "特朗普的 3,700 多笔交易令华尔街业内人士震惊",
+        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosures show that he or his investment advisers made more than 3,700 trades in the first quarter, a flurry totaling tens of millions of dollars and involving major companies that have dealings with his administration.",
+        "summary_zh": "(彭博社)——唐纳德·特朗普总统最新的财务披露显示，他或他的投资顾问在第一季度进行了 3,700 多笔交易，交易总额达数千万美元，涉及与他的政府有业务往来的大公司。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1778940649,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX, OpenAI, and Anthropic: Here are the most anticipated IPOs in 2026",
+        "title_zh": "SpaceX、OpenAI 和 Anthropic：以下是 2026 年最受期待的 IPO",
+        "summary": "Chipmaker Cerberus just debuted as 2026's biggest IPO, but it may soon be dwarfed by other tech giants.",
+        "summary_zh": "芯片制造商 Cerberus 刚刚作为 2026 年最大的 IPO 首次亮相，但它可能很快就会与其他科技巨头相形见绌。",
+        "link": "https://finance.yahoo.com/markets/article/spacex-openai-and-anthropic-here-are-the-most-anticipated-ipos-in-2026-114439441.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778931879,
+        "type": "News"
+    },
+    {
+        "title": "History's weirdest bubbles have a message for the AI trade: Chart of the Day",
+        "title_zh": "历史上最奇怪的泡沫给人工智能行业带来了信息：每日图表",
+        "summary": "The stock market has a long history of getting carried away by the future.",
+        "summary_zh": "股市长期以来一直被未来冲昏头脑。",
+        "link": "https://finance.yahoo.com/markets/article/historys-weirdest-bubbles-have-a-message-for-the-ai-trade-chart-of-the-day-114310994.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1778931790,
         "type": "News"
     },
     {
@@ -30,46 +60,6 @@
         "type": "News"
     },
     {
-        "title": "YouTube, Snap and TikTok settle school district's social media addiction claims",
-        "title_zh": "YouTube、Snap 和 TikTok 就学区社交媒体成瘾索赔达成和解",
-        "summary": "Alphabet's YouTube, Snap and TikTok have reached settlements in the first case set for trial in litigation seeking to ‌force social media platforms to cover the costs school districts incur to combat a youth ‌mental health crisis they say the companies fueled.",
-        "summary_zh": "Alphabet 旗下的 YouTube、Snap 和 TikTok 在首起诉讼案件中达成和解，该诉讼旨在迫使社交媒体平台承担学区为应对青少年心理健康危机而产生的费用，他们称这些公司加剧了青少年心理健康危机。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/youtube-snap-settle-school-districts-011926354.html",
-        "publisher": "Reuters",
-        "publish_time": 1778894366,
-        "type": "News"
-    },
-    {
-        "title": "Consumers sue Amazon for not refunding Trump tariff costs",
-        "title_zh": "消费者起诉亚马逊未退还特朗普关税费用",
-        "summary": "By Nate Raymond May 15 (Reuters) - Amazon.com Inc was sued on Friday by consumers seeking refunds for costs passed on to them in the form of higher prices as a result of tariffs the U.S.",
-        "summary_zh": "路透社 5 月 15 日报道——周五，亚马逊公司被消费者起诉，要求退还因美国关税而导致价格上涨而转嫁到他们身上的成本。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/consumers-sue-amazon-not-refunding-002039196.html",
-        "publisher": "Reuters",
-        "publish_time": 1778890839,
-        "type": "News"
-    },
-    {
-        "title": "Ackman, Loeb take different routes on tech bets in early 2026",
-        "title_zh": "阿克曼和勒布在 2026 年初的科技押注上采取不同的路线",
-        "summary": "Two of Wall Street's most closely watched billionaire stock pickers, both once voluble activist investors, took ‌opposite tacks this year when Bill Ackman bet on Microsoft and exited ‌Google parent Alphabet and Daniel Loeb did the opposite.",
-        "summary_zh": "华尔街最受关注的两位亿万富翁选股者，都曾经是健谈的激进投资者，今年采取了相反的策略，比尔·阿克曼 (Bill Ackman) 押注微软并退出谷歌母公司 Alphabet，而丹尼尔·勒布 (Daniel Loeb) 则采取了相反的做法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ackman-loeb-different-routes-tech-001131756.html",
-        "publisher": "Reuters",
-        "publish_time": 1778890291,
-        "type": "News"
-    },
-    {
-        "title": "Big earnings on deck: What to watch next week",
-        "title_zh": "巨额盈利即将到来：下周看什么",
-        "summary": "Yahoo Finance's Josh Lipton takes a look at the top stories for investors to watch for the week of May 18, including Nvidia (NVDA) and Walmart (WMT) earnings, Tuesday’s Pending Home Sales report, and the release of the Fed’s April FOMC meeting minutes on Wednesday.",
-        "summary_zh": "雅虎财经的乔什·利普顿 (Josh Lipton) 为投资者整理了 5 月 18 日当周投资者关注的头条新闻，包括英伟达 (NVDA) 和沃尔玛 (WMT) 的财报、周二的待售房屋销售报告以及周三发布的美联储 4 月 FOMC 会议纪要。",
-        "link": "https://finance.yahoo.com/video/big-earnings-deck-watch-next-230000690.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1778886000,
-        "type": "News"
-    },
-    {
         "title": "Arm Holdings to face US antitrust probe over chip tech, Bloomberg News reports",
         "title_zh": "据彭博社报道，Arm Holdings 将面临美国芯片技术反垄断调查",
         "summary": "May 15 (Reuters) - Arm Holdings is facing an antitrust probe by the U.S.",
@@ -77,16 +67,6 @@
         "link": "https://finance.yahoo.com/news/arm-holdings-face-us-antitrust-225738985.html",
         "publisher": "Reuters",
         "publish_time": 1778885858,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends lower on mounting inflation worries",
-        "title_zh": "通胀忧虑加剧，华尔街收低",
-        "summary": "STORY: Wall Street's main indexes retreated from AI-fueled record highs on Friday, with the Dow dropping 1%, the S&P 500 shedding one-and-a-quarter percent and the Nasdaq declining more than one-and-a-half percent.Stocks moved lower as a jump in benchmark Treasury yields refle...",
-        "summary_zh": "故事：周五，华尔街主要股指从人工智能推动的历史高位回落，其中道琼斯指数下跌 1%，标准普尔 500 指数下跌四分之一，纳斯达克指数下跌超过百分之一半。随着基准国债收益率的上涨，股市走低。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-lower-mounting-220111120.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1778882471,
         "type": "News"
     }
 ]

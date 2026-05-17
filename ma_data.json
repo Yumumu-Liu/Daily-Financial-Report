@@ -1,12 +1,22 @@
 [
     {
-        "title": "Intel Climbs 15% on Apple Chip Deal as Trader Warns on Upcoming Cisco Earnings",
-        "title_zh": "苹果芯片交易推动英特尔股价上涨 15%，交易员对思科即将公布的财报发出警告",
-        "summary": "Friday’s CNBC Halftime Report on May 8 featured two very different AI market stories unfolding at the same time.",
-        "summary_zh": "5 月 8 日周五的 CNBC 半场报道讲述了同时展开的两个截然不同的人工智能市场故事。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-climbs-15-apple-chip-164110284.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1778863270,
+        "title": "Risky Integration or Rewarding Returns? The Stakes of SoundHound's LivePerson Acquisition.",
+        "title_zh": "整合风险还是回报丰厚？ SoundHound 收购 LivePerson 的风险。",
+        "summary": "The short-term risks of SoundHound's acquisition of LivePerson are weighing on the stock price.",
+        "summary_zh": "SoundHound 收购 LivePerson 的短期风险正在打压股价。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/risky-integration-rewarding-returns-stakes-195000404.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1778961000,
+        "type": "News"
+    },
+    {
+        "title": "Bloom Energy (BE) Is Up 5.7% After Oracle AI Deal And Revenue Outlook Boost - What's Changed",
+        "title_zh": "Oracle AI 交易和收入前景提升后，Bloom Energy (BE) 上涨 5.7% - 发生了什么变化",
+        "summary": "In early 2026, Bloom Energy reported a very strong first quarter with revenue more than doubling year over year, raised its 2026 revenue outlook to US$3.40–US$3.80 billion, and expanded its Oracle agreement to supply up to 2.8 gigawatts of fuel cell capacity for AI data center...",
+        "summary_zh": "2026 年初，Bloom Energy 公布了非常强劲的第一季度业绩，收入同比增长了一倍以上，将 2026 年收入预期上调至 3.40 美元至 38 亿美元，并扩大了与 Oracle 的协议，为 AI 数据中心提供高达 2.8 吉瓦的燃料电池容量……",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-5-7-oracle-101045530.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1778926245,
         "type": "News"
     },
     {
@@ -17,16 +27,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/magnum-ice-cream-shares-surge-131528562.html",
         "publisher": "Investing.com",
         "publish_time": 1778850928,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone Walks Away From $4 Billion New World Deal",
-        "title_zh": "Blackstone 放弃 40 亿美元的新世界交易",
-        "summary": "New World now faces pressure to resolve airport mall liabilities and secure capital before its annual audit.",
-        "summary_zh": "新世界现在面临着在年度审计之前解决机场购物中心负债和确保资本的压力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-walks-away-4-billion-003507117.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1778805307,
         "type": "News"
     },
     {

@@ -1,15 +1,5 @@
 [
     {
-        "title": "Cerebras Soared 68% in Its First Day of Trading. After This Explosive IPO, Is It Too Late to Buy the Stock?",
-        "title_zh": "Cerebras 首日交易飙升 68%。在这次爆炸性IPO之后，购买股票是否为时已晚？",
-        "summary": "Investors may be eager to get in on this new AI growth story.",
-        "summary_zh": "投资者可能渴望参与这个新的人工智能增长故事。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-soared-68-first-day-082300924.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1778919780,
-        "type": "News"
-    },
-    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -21,7 +11,7 @@
     },
     {
         "title": "Inspire Brands Picks Banks For IPO That Could Raise $2 Billion",
-        "title_zh": "Inspire Brands 选择银行进行 IPO 融资 20 亿美元",
+        "title_zh": "Inspire Brands 选择银行进行 IPO，融资 20 亿美元",
         "summary": "Roark-backed restaurant group taps JPMorgan and Bank of America, with listing possibly coming as soon as this year",
         "summary_zh": "Roark支持的餐饮集团与摩根大通和美国银行合作，最早可能于今年上市",
         "link": "https://finance.yahoo.com/markets/stocks/articles/inspire-brands-picks-banks-ipo-175149000.html",
@@ -47,6 +37,16 @@
         "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1774971420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
+        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
+        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
+        "publisher": "Zacks",
+        "publish_time": 1774872000,
         "type": "News"
     }
 ]
