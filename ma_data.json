@@ -1,5 +1,25 @@
 [
     {
+        "title": "U.S. Bancorp Amazon Card Deal Adds New Angle To Valuation Story",
+        "title_zh": "美国合众银行亚马逊卡交易为估值故事增添了新视角",
+        "summary": "U.S. Bancorp (NYSE:USB) has partnered with Amazon and Mastercard to issue new Amazon Prime Business and Amazon Business credit cards for business customers. The cards are designed to integrate Amazon Business tools, U.S.",
+        "summary_zh": "U.S. Bancorp（纽约证券交易所股票代码：USB）与亚马逊和万事达卡合作，为企业客户发行新的亚马逊 Prime Business 和亚马逊商务信用卡。这些卡旨在集成美国亚马逊商业工具",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-amazon-card-deal-004930203.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779065370,
+        "type": "News"
+    },
+    {
+        "title": "Trump Personally Brokered the Apple-Intel Deal That Sent Intel from $20 to $125",
+        "title_zh": "特朗普亲自斡旋了苹果与英特尔的交易，使英特尔的股价从 20 美元涨到 125 美元",
+        "summary": "On a recent TBPN segment, host John Coogan walked listeners through what he framed as the most consequential industrial policy intervention in semiconductors since the CHIPS Act, namely Commerce Secretary Howard Lutnick meeting repeatedly with Tim Cook, Elon Musk, and Jensen H...",
+        "summary_zh": "在最近的 TBPN 节目中，主持人约翰·库根 (John Coogan) 向听众介绍了自《CHIPS 法案》以来对半导体领域最重要的产业政策干预，即商务部长霍华德·卢特尼克 (Howard Lutnick) 多次与蒂姆·库克 (Tim Cook)、埃隆·马斯克 (Elon ...",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-personally-brokered-apple-intel-001630491.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1779063390,
+        "type": "News"
+    },
+    {
         "title": "Bloom Energy (BE) Is Up 5.7% After Oracle AI Deal And Revenue Outlook Boost - What's Changed",
         "title_zh": "Oracle AI 交易和收入前景提升后，Bloom Energy (BE) 上涨 5.7% - 发生了什么变化",
         "summary": "In early 2026, Bloom Energy reported a very strong first quarter with revenue more than doubling year over year, raised its 2026 revenue outlook to US$3.40–US$3.80 billion, and expanded its Oracle agreement to supply up to 2.8 gigawatts of fuel cell capacity for AI data center...",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-f1-revenue-history-212730437.html",
         "publisher": "CorpGov.com",
         "publish_time": 1778794050,
-        "type": "News"
-    },
-    {
-        "title": "The PE Paradox: Volatility Fuels New Deals as Old Assets Sit Frozen in Portfolios",
-        "title_zh": "私募股权悖论：旧资产在投资组合中冻结，波动性助长新交易",
-        "summary": "Glinting investment opportunities abound, private-equity firms say—but the industry also faces an exit bottleneck of over $3 trillion.",
-        "summary_zh": "私募股权公司表示，闪闪发光的投资机会比比皆是，但该行业也面临着超过 3 万亿美元的退出瓶颈。",
-        "link": "https://www.wsj.com/pro/private-equity/the-pe-paradox-volatility-fuels-new-deals-as-old-assets-sit-frozen-in-portfolios-f6b408c1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1778701200,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]
