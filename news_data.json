@@ -1,32 +1,72 @@
 [
     {
-        "title": "Google, Blackstone launch cloud company as Wall Street races to fund AI boom",
-        "title_zh": "华尔街竞相资助人工智能热潮，谷歌和黑石成立云公司",
-        "summary": "The two giants are launching an AI compute supplier as the demand for AI infrastructure continues to grow.",
-        "summary_zh": "随着对人工智能基础设施的需求持续增长，两大巨头正在推出人工智能计算供应商。",
-        "link": "https://finance.yahoo.com/markets/article/google-blackstone-launch-cloud-company-as-wall-street-races-to-fund-ai-boom-023203769.html",
+        "title": "Epic Games' 'Fortnite' returns to App Stores worldwide",
+        "title_zh": "Epic Games 的《堡垒之夜》重返全球应用商店",
+        "summary": "Epic Games said on Tuesday its popular shooter title \"Fortnite\" has returned to global App ‌Stores, as the videogame maker signaled confidence in ‌a favorable outcome from an ongoing lawsuit against Apple.",
+        "summary_zh": "Epic Games 周二表示，其热门射击游戏《堡垒之夜》已重返全球应用商店，这家视频游戏制造商表示对针对苹果正在进行的诉讼取得有利结果充满信心。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/epic-games-fortnite-returns-app-114635208.html",
+        "publisher": "Reuters",
+        "publish_time": 1779191195,
+        "type": "News"
+    },
+    {
+        "title": "Tech Weekly: data center deals, Meta's major job cuts",
+        "title_zh": "科技周刊：数据中心交易、Meta 的重大裁员",
+        "summary": "STORY: From data center deals to Meta's major job cuts, this is Tech Weekly.:: Tech WeeklyGoogle and Blackstone announced on Monday they’re forming an AI cloud business venture.&nbsp;They’re aiming to capitalize on robust demand for AI data centers.&nbsp;Major asset manager Bl...",
+        "summary_zh": "故事：从数据中心交易到 Meta 的重大裁员，这是《科技周刊》。:: 科技周刊谷歌和黑石周一宣布，他们正在组建一家人工智能云业务企业。他们的目标是利用人工智能数据中心的强劲需求。主要资产管理公司 Bl...",
+        "link": "https://finance.yahoo.com/video/tech-weekly-data-center-deals-113106663.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1779190266,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia's outlook will be a test of its strategy to maintain AI dominance",
+        "title_zh": "英伟达的前景将是对其维持人工智能主导地位的战略的考验",
+        "summary": "Nvidia is expected to deliver another blockbuster earnings report on Wednesday, but a shift in how artificial intelligence is used is raising doubts on how long its dominance in AI chips ‌can last.",
+        "summary_zh": "英伟达预计将在周三发布另一份重磅收益报告，但人工智能使用方式的转变引发了人们对其在人工智能芯片领域的主导地位能持续多久的怀疑。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidias-outlook-test-strategy-maintain-100541569.html",
+        "publisher": "Reuters",
+        "publish_time": 1779185141,
+        "type": "News"
+    },
+    {
+        "title": "Yahoo Finance unleashes AlphaSpace: Here's how you can use it to prepare for Nvidia earnings day",
+        "title_zh": "雅虎财经推出 AlphaSpace：以下是如何使用它为 Nvidia 财报日做准备",
+        "summary": "Yahoo Finance's AlphaSpace is here, and it's a game-changer for the average investor.",
+        "summary_zh": "雅虎财经的 AlphaSpace 来了，对于普通投资者来说，它改变了游戏规则。",
+        "link": "https://finance.yahoo.com/markets/article/yahoo-finance-unleashes-alphaspace-heres-how-you-can-use-it-to-prepare-for-nvidia-earnings-day-100500232.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1779157923,
+        "publish_time": 1779185100,
         "type": "News"
     },
     {
-        "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand",
-        "title_zh": "谷歌和黑石将推出人工智能云合资企业以满足数据中心需求",
-        "summary": "Alphabet's Google and Blackstone said on Monday that they will form an artificial ‌intelligence cloud business venture aimed at capitalising on an insatiable demand ‌for AI computing services.",
-        "summary_zh": "Alphabet 旗下的谷歌和 Blackstone 周一表示，他们将组建一家人工智能云业务企业，旨在利用对人工智能计算服务永不满足的需求。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/google-blackstone-create-ai-cloud-001303521.html",
-        "publisher": "Reuters",
-        "publish_time": 1779149583,
+        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
+        "title_zh": "特朗普上季度交易了超过 5000 万美元的“Magnificent 7”股票，买入苹果和谷歌并出售特斯拉",
+        "summary": "President Trump made 94 different trades of 'Magnificent 7' stocks in the first quarter of 2026, a new ethics disclosure shows, executing millions of dollars in transactions even as he was meeting with and often promoting these top tech companies.",
+        "summary_zh": "一份新的道德披露显示，特朗普总统在 2026 年第一季度对“Magnificent 7”股票进行了 94 笔不同的交易，即使在他会见并经常宣传这些顶级科技公司的同时，也执行了数百万美元的交易。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779184800,
         "type": "News"
     },
     {
-        "title": "Google, Blackstone to create new AI cloud company, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，谷歌和黑石将创建新的人工智能云公司",
-        "summary": "May 18 (Reuters) - Alphabet's Google and Blackstone plan to launch an artificial-intelligence cloud company using Google's specialized chips, the Wall Street Journal reported on Monday, citing sources",
-        "summary_zh": "5 月 18 日（路透社）——《华尔街日报》周一援引消息人士的话报道称，Alphabet 旗下的谷歌和 Blackstone 计划推出一家使用谷歌专用芯片的人工智能云公司",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/google-blackstone-create-ai-cloud-001303808.html",
-        "publisher": "Reuters",
-        "publish_time": 1779149583,
+        "title": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla",
+        "title_zh": "SpaceX 首次公开募股增加了第二只马斯克股票。这对特斯拉来说是个问题",
+        "summary": "(Bloomberg) -- For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change — and it’s a serious risk for Tesla investors.",
+        "summary_zh": "（彭博社）——多年来，散户投资者只有一种方式来购买埃隆·马斯克的愿景：特斯拉公司的股票。这种情况即将改变——这对特斯拉投资者来说是一个严重的风险。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779175450,
+        "type": "News"
+    },
+    {
+        "title": "Moonshot AI to Overhaul Structure to Win Nod for Hong Kong IPO",
+        "title_zh": "Moonshot AI 将彻底改革架构以赢得香港 IPO 的批准",
+        "summary": "(Bloomberg) -- Moonshot AI has informed its investors it will revamp its corporate structure to pave the way for an initial public offering in Hong Kong, aligning with Beijing’s tightened requirements for Chinese companies seeking an overseas debut.",
+        "summary_zh": "（彭博社）——Moonshot AI 已通知投资者，它将调整其公司结构，为在香港首次公开募股铺平道路，以符合北京方面对寻求海外上市的中国公司的严格要求。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/moonshot-ai-overhaul-structure-win-061533520.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779171333,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/video/us-stocks-end-mixed-tech-223837504.html",
         "publisher": "Reuters Videos",
         "publish_time": 1779143917,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic to let partners share Mythos cybersecurity findings with others",
-        "title_zh": "Anthropic 让合作伙伴与其他人分享 Mythos 网络安全发现",
-        "summary": "Anthropic said on Monday it is revising its earlier position to allow users of its Mythos cybersecurity model ‌to share information about cyber threats with others who may be exposed ‌to similar vulnerabilities.",
-        "summary_zh": "Anthropic 周一表示，它正在修改其先前的立场，以允许其 Mythos 网络安全模型的用户与可能面临类似漏洞的其他人共享有关网络威胁的信息。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-let-partners-share-mythos-222802181.html",
-        "publisher": "Reuters",
-        "publish_time": 1779143282,
-        "type": "News"
-    },
-    {
-        "title": "Trump Announces Discount Drug Pricing Expansion With Mark Cuban",
-        "title_zh": "特朗普与马克·库班宣布扩大药品折扣定价",
-        "summary": "(Bloomberg) -- President Donald Trump announced his administration is adding more than 600 generic medications to its direct-to-consumer drug sales website TrumpRx alongside billionaire Mark Cuban.Most Read from BloombergUS Lawmakers Plan New $130 Fee for Electric Vehicle Owne...",
-        "summary_zh": "（彭博社）——唐纳德·特朗普总统宣布，他的政府将与亿万富翁马克·库班一起在其直接面向消费者的药品销售网站 TrumpRx 上添加 600 多种仿制药。彭博社的大多数读者美国立法者计划对电动汽车拥有者收取 130 美元的新费用...",
-        "link": "https://finance.yahoo.com/news/white-house-to-announce-trumprx-expansion-with-mark-cuban-153253716.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779142187,
-        "type": "News"
-    },
-    {
-        "title": "Berkshire is extra bullish on Delta, Alphabet as CEO adjusts portfolio",
-        "title_zh": "随着首席执行官调整投资组合，伯克希尔格外看好达美航空和Alphabet",
-        "summary": "Berkshire Hathaway (BRK-A, BRK-B) has adjusted its equity portfolio under new CEO Greg Abel, including a new $2.6 billion stake in Delta Air Lines (DAL) while tripling the firm's stake in Alphabet (GOOG, GOOGL).",
-        "summary_zh": "伯克希尔哈撒韦公司（BRK-A、BRK-B）在新任首席执行官格雷格·阿贝尔（Greg Abel）的领导下调整了其股票投资组合，其中包括以 26 亿美元的价格持有达美航空（DAL）的新股份，同时将公司在 Alphabet（GOOG、GOOGL）的股份增加两倍。",
-        "link": "https://finance.yahoo.com/video/berkshire-is-extra-bullish-on-delta-alphabet-as-ceo-adjusts-portfolio-203921096.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779136761,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX eyes 5-for-1 stock split as IPO takes shape",
-        "title_zh": "随着 IPO 的形成，SpaceX 计划进行 1 拆 5 的股票分割",
-        "summary": "Senior Autos Reporter Pras Subramanian joins Market Domination to discuss SpaceX's (SPAX.PVT)5-for-1 stock split as IPO timeline accelerates.",
-        "summary_zh": "随着 IPO 时间表的加快，高级汽车记者 Pras Subramanian 与 Market Domination 一起讨论 SpaceX (SPAX.PVT) 的 5 股拆股计划。",
-        "link": "https://finance.yahoo.com/video/spacex-eyes-5-for-1-stock-split-as-ipo-takes-shape-200041064.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779134441,
         "type": "News"
     }
 ]
