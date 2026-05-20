@@ -1,25 +1,5 @@
 [
     {
-        "title": "NextEra Energy Buys Dominion in $66.8 Billion All-Stock Deal",
-        "title_zh": "NextEra Energy 以 668 亿美元全股票交易收购 Dominion",
-        "summary": "The combination creates the world's largest regulated electric utility",
-        "summary_zh": "此次合并创建了世界上最大的受监管电力公司",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/nextera-energy-buys-dominion-66-114757304.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1779191277,
-        "type": "News"
-    },
-    {
-        "title": "Tech Weekly: data center deals, Meta's major job cuts",
-        "title_zh": "科技周刊：数据中心交易、Meta 的重大裁员",
-        "summary": "STORY: From data center deals to Meta's major job cuts, this is Tech Weekly.:: Tech WeeklyGoogle and Blackstone announced on Monday they’re forming an AI cloud business venture.&nbsp;They’re aiming to capitalize on robust demand for AI data centers.&nbsp;Major asset manager Bl...",
-        "summary_zh": "故事：从数据中心交易到 Meta 的重大裁员，这是《科技周刊》。:: 科技周刊谷歌和黑石周一宣布，他们正在组建一家人工智能云业务企业。他们的目标是利用人工智能数据中心的强劲需求。主要资产管理公司 Bl...",
-        "link": "https://finance.yahoo.com/video/tech-weekly-data-center-deals-113106663.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1779190266,
-        "type": "News"
-    },
-    {
         "title": "A Look At Diversified Energy’s Valuation As Oklahoma Asset Deal With Carlyle Expands Its Portfolio",
         "title_zh": "随着俄克拉荷马州资产交易与凯雷扩大其投资组合，多元化能源的估值一览",
         "summary": "Diversified Energy (DEC) has drawn fresh attention after reaching an agreement with Carlyle to acquire additional oil and gas assets in Oklahoma using asset backed financing, while reporting higher first quarter production and reaffirming 2026 output guidance.",
@@ -30,23 +10,43 @@
         "type": "News"
     },
     {
-        "title": "Trump’s Iran Remarks Lift Hopes for Peace Deal as Markets Track Oil and AI Momentum: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "title_zh": "随着市场跟踪石油和人工智能势头，特朗普的伊朗言论点燃了和平协议的希望：道琼斯、标准普尔、纳斯达克、华尔街期货",
-        "summary": "U. S. futures trade cautiously ahead of key earningsU.",
-        "summary_zh": "在关键财报公布之前，美国期货交易谨慎。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-iran-remarks-lift-hopes-092924817.html",
-        "publisher": "InvestorsHub",
-        "publish_time": 1779182964,
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     },
     {
-        "title": "Gold Inches Up as Traders Weigh Iran Deal Prospects, Inflation",
-        "title_zh": "交易商权衡伊朗协议前景和通胀，金价小幅上涨",
-        "summary": "(Bloomberg) -- Gold rose slightly as investors assessed mixed signals about the possibility of a US-Iran ceasefire deal, while also weighing the odds that elevated energy prices will prompt central banks to keep interest rates higher for longer.Most Read from BloombergUS Lawma...",
-        "summary_zh": "（彭博社）——金价小幅上涨，投资者评估了有关美伊停火协议可能性的复杂信号，同时也权衡了能源价格上涨将促使央行在更长时间内维持较高利率的可能性。",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-extends-slump-hormuz-quagmire-011700626.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779139910,
+        "title": "The Dealmaking 3: F1 Revenue History, MLS PE Partnership, Youth Sports Growth",
+        "title_zh": "交易 3：F1 收入历史、MLS PE 合作伙伴关系、青少年体育发展",
+        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features KKR & Co. Inc.",
+        "summary_zh": "观看本周的《The Dealmaking 3》：本周由“体育教授”Rick Horrow 主持的《The Dealmaking 3》由 KKR & Co. Inc. 报道。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-f1-revenue-history-212730437.html",
+        "publisher": "CorpGov.com",
+        "publish_time": 1778794050,
+        "type": "News"
+    },
+    {
+        "title": "The PE Paradox: Volatility Fuels New Deals as Old Assets Sit Frozen in Portfolios",
+        "title_zh": "私募股权悖论：旧资产在投资组合中冻结，波动性助长新交易",
+        "summary": "Glinting investment opportunities abound, private-equity firms say—but the industry also faces an exit bottleneck of over $3 trillion.",
+        "summary_zh": "私募股权公司表示，闪闪发光的投资机会比比皆是，但该行业也面临着超过 3 万亿美元的退出瓶颈。",
+        "link": "https://www.wsj.com/pro/private-equity/the-pe-paradox-volatility-fuels-new-deals-as-old-assets-sit-frozen-in-portfolios-f6b408c1?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1778701200,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
