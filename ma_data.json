@@ -1,5 +1,35 @@
 [
     {
+        "title": "Thales inks deal with Google for homegrown German cloud provider",
+        "title_zh": "泰雷兹与谷歌签署德国本土云提供商协议",
+        "summary": "May 20 (Reuters) - French defence group Thales and Alphabet's Google Cloud have signed a deal to launch a new European cloud service in Germany that will be operationally and legally independent from",
+        "summary_zh": "5 月 20 日（路透社）——法国国防集团泰雷兹和 Alphabet 旗下的谷歌云签署了一项协议，将在德国推出一项新的欧洲云服务，该服务在运营和法律上将独立于",
+        "link": "https://finance.yahoo.com/news/thales-inks-deal-google-homegrown-111306177.html",
+        "publisher": "Reuters",
+        "publish_time": 1779276854,
+        "type": "News"
+    },
+    {
+        "title": "Goldman Sachs reportedly selected to lead SpaceX IPO in landmark Wall Street deal",
+        "title_zh": "据报道，高盛选择在具有里程碑意义的华尔街交易中牵头 SpaceX IPO",
+        "summary": "Goldman Sachs has reportedly secured the leading underwriting role for SpaceX’s expected stock market debut this year in a move that paves the way for the largest IPO in history.View on euronews",
+        "summary_zh": "据报道，高盛已获得 SpaceX 预计今年首次上市的主要承销角色，此举为历史上最大规模的 IPO 铺平了道路。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reportedly-selected-lead-092047016.html",
+        "publisher": "Euronews",
+        "publish_time": 1779268847,
+        "type": "News"
+    },
+    {
+        "title": "Citi Lowers Target on Salesforce (CRM) Over Slower Deal Activity",
+        "title_zh": "由于交易活动放缓，花旗降低了 Salesforce (CRM) 目标",
+        "summary": "Ray Dalio ranks among the richest hedge fund managers in the world. Although NVIDIA Corporation (NASDAQ:NVDA) remains the billionaire’s largest position, Salesforce Inc. (NYSE:CRM) ranks 5th on the list of Ray Dalio’s top holdings with a 1.87% portfolio share.",
+        "summary_zh": "雷·达里奥 (Ray Dalio) 跻身全球最富有的对冲基金经理之列。尽管 NVIDIA Corporation（纳斯达克股票代码：NVDA）仍然是这位亿万富翁的最大持股，但 Salesforce Inc.（纽约证券交易所股票代码：CRM）在 Ray Dalio 持股最多的...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/citi-lowers-target-salesforce-crm-072224534.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1779261744,
+        "type": "News"
+    },
+    {
         "title": "A Look At Diversified Energy’s Valuation As Oklahoma Asset Deal With Carlyle Expands Its Portfolio",
         "title_zh": "随着俄克拉荷马州资产交易与凯雷扩大其投资组合，多元化能源的估值一览",
         "summary": "Diversified Energy (DEC) has drawn fresh attention after reaching an agreement with Carlyle to acquire additional oil and gas assets in Oklahoma using asset backed financing, while reporting higher first quarter production and reaffirming 2026 output guidance.",
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
         "publisher": "MarketBeat",
         "publish_time": 1779022800,
-        "type": "News"
-    },
-    {
-        "title": "The Dealmaking 3: F1 Revenue History, MLS PE Partnership, Youth Sports Growth",
-        "title_zh": "交易 3：F1 收入历史、MLS PE 合作伙伴关系、青少年体育发展",
-        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features KKR & Co. Inc.",
-        "summary_zh": "观看本周的《The Dealmaking 3》：本周由“体育教授”Rick Horrow 主持的《The Dealmaking 3》由 KKR & Co. Inc. 报道。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-f1-revenue-history-212730437.html",
-        "publisher": "CorpGov.com",
-        "publish_time": 1778794050,
-        "type": "News"
-    },
-    {
-        "title": "The PE Paradox: Volatility Fuels New Deals as Old Assets Sit Frozen in Portfolios",
-        "title_zh": "私募股权悖论：旧资产在投资组合中冻结，波动性助长新交易",
-        "summary": "Glinting investment opportunities abound, private-equity firms say—but the industry also faces an exit bottleneck of over $3 trillion.",
-        "summary_zh": "私募股权公司表示，闪闪发光的投资机会比比皆是，但该行业也面临着超过 3 万亿美元的退出瓶颈。",
-        "link": "https://www.wsj.com/pro/private-equity/the-pe-paradox-volatility-fuels-new-deals-as-old-assets-sit-frozen-in-portfolios-f6b408c1?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1778701200,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]

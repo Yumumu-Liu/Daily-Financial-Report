@@ -1,22 +1,42 @@
 [
     {
-        "title": "Asian stocks fall for 4th day as higher yields bite, all eyes on Nvidia results",
-        "title_zh": "由于收益率上升，亚洲股市连续第四天下跌，所有人都关注英伟达的业绩",
-        "summary": "By Stella Qiu SYDNEY, May 20 (Reuters) - Asian stocks fell for a fourth straight session on Wednesday as war-driven inflation fears hammered bonds, while investors awaited earnings from Nvidia to see",
-        "summary_zh": "路透悉尼 5 月 20 日 - 亚洲股市周三连续第四个交易日下跌，因战争引发的通胀担忧重创债券，而投资者则等待英伟达的财报。",
-        "link": "https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html",
+        "title": "Thales inks deal with Google for homegrown German cloud provider",
+        "title_zh": "泰雷兹与谷歌签署德国本土云提供商协议",
+        "summary": "May 20 (Reuters) - French defence group Thales and Alphabet's Google Cloud have signed a deal to launch a new European cloud service in Germany that will be operationally and legally independent from",
+        "summary_zh": "5 月 20 日（路透社）——法国国防集团泰雷兹和 Alphabet 旗下的谷歌云签署了一项协议，将在德国推出一项新的欧洲云服务，该服务在运营和法律上将独立于",
+        "link": "https://finance.yahoo.com/news/thales-inks-deal-google-homegrown-111306177.html",
         "publisher": "Reuters",
-        "publish_time": 1779242934,
+        "publish_time": 1779276854,
         "type": "News"
     },
     {
-        "title": "Meta Begins 8,000 Global Job Cuts in Asian Hub of Singapore",
-        "title_zh": "Meta 开始在新加坡亚洲中心全球裁员 8,000 人",
+        "title": "Nvidia Earnings Are Set to Make or Break the Chip Stock Rally",
+        "title_zh": "英伟达的盈利将决定芯片股涨势的成败",
+        "summary": "(Bloomberg) -- For much of the year, chip stocks have been powering the market higher.",
+        "summary_zh": "（彭博社）——今年的大部分时间里，芯片股一直在推动市场走高。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-affirm-chip-stock-091131360.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779268291,
+        "type": "News"
+    },
+    {
+        "title": "Meta Begins 8,000 Global Job Cuts in AI Efficiency Push",
+        "title_zh": "Meta 开始在全球范围内裁员 8,000 人以推动人工智能效率",
         "summary": "(Bloomberg) -- Meta Platforms Inc.",
         "summary_zh": "（彭博社）——Meta Platforms Inc.",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore-004153264.html",
+        "link": "https://finance.yahoo.com/news/meta-begins-8000-global-job-cuts-in-asian-hub-of-singapore-004153264.html",
         "publisher": "Bloomberg",
-        "publish_time": 1779237713,
+        "publish_time": 1779267356,
+        "type": "News"
+    },
+    {
+        "title": "Tech leaders favoured by hedge funds last month, Hazeltree says",
+        "title_zh": "Hazeltree 表示，上个月科技龙头受到对冲基金的青睐",
+        "summary": "Hedge funds stuck to their holdings in companies with ‌strong fundamentals in April, particularly technology ‌and semiconductor stocks, according to a report on Wednesday ​from data platform Hazeltree, in a month when the S&P 500 jumped over 10%.",
+        "summary_zh": "根据数据平台 Hazeltree 周三的一份报告，对冲基金在 4 月份坚持持有基本面强劲的公司，尤其是科技股和半导体股票，而标准普尔 500 指数在一个月内上涨了 10% 以上。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-leaders-favoured-hedge-funds-080702489.html",
+        "publisher": "Reuters",
+        "publish_time": 1779264422,
         "type": "News"
     },
     {
@@ -30,33 +50,13 @@
         "type": "News"
     },
     {
-        "title": "Wall St ends lower as inflation worries push up yields",
-        "title_zh": "由于通胀担忧推高收益率，华尔街收低",
-        "summary": "STORY: Wall Street's main indexes closed lower on Tuesday, with the Dow and S&P 500 each shedding about two-thirds of a percent, and the Nasdaq losing more than eight-tenths of a percent.The benchmark 10-year Treasury yield climbed to its highest level in more than a year on m...",
-        "summary_zh": "故事：华尔街主要股指周二收低，道琼斯指数和标准普尔 500 指数均下跌约三分之二，纳斯达克指数下跌超过十分之八。基准 10 年期国债收益率攀升至一年多以来的最高水平。",
-        "link": "https://finance.yahoo.com/video/wall-st-ends-lower-inflation-225913909.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1779231553,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures dip in countdown to Nvidia earnings",
-        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货下跌，英伟达盈利倒计时",
-        "summary": "Stocks wavered as Wall Street awaited Nvidia earnings, hoping strong results could offer some relief from ongoing inflation concerns.",
-        "summary_zh": "华尔街等​​待英伟达财报，希望强劲的业绩能够缓解持续的通胀担忧，股市出现波动。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dip-in-countdown-to-nvidia-earnings-222757467.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779229677,
-        "type": "News"
-    },
-    {
-        "title": "Treasury yields climb as bond market weighs inflation concerns",
-        "title_zh": "债券市场承压通胀担忧，国债收益率攀升",
-        "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley and Senior Markets Reporter Ines Ferré gauge the recent climb in the bond market (^TYX, ^TNX, ^FVX) as Treasury yields react to the latest inflation worries and speculation as to whether the Federal Reserve will be able...",
-        "summary_zh": "雅虎财经突发商业新闻记者 Jake Conley 和高级市场记者 Ines Ferré 评估了债券市场近期的攀升（^TYX、^TNX、^FVX），因为国债收益率对最新的通胀担忧以及对美联储是否能够...",
-        "link": "https://finance.yahoo.com/video/treasury-yields-climb-as-bond-market-weighs-inflation-concerns-200826775.html",
+        "title": "AI data centers met with growing opposition across US",
+        "title_zh": "人工智能数据中心在美国遭到越来越多的反对",
+        "summary": "Asking for a Trend Host Josh Lipton and Yahoo Finance Senior Reporter Brooke DiPalma track several of the day's top trending stories and stock tickers, including the public backlash to AI data center projects in the US.",
+        "summary_zh": "寻找趋势主持人乔什·利普顿 (Josh Lipton) 和雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 追踪了当天的几个热门新闻和股票行情，包括公众对美国人工智能数据中心项目的强烈反对。",
+        "link": "https://finance.yahoo.com/video/ai-data-centers-met-growing-213000642.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1779221306,
+        "publish_time": 1779226200,
         "type": "News"
     },
     {
