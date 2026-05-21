@@ -20,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Evercore's Kiely, Morgan Stanley's Cheng Talk AI Deals",
-        "title_zh": "Evercore 的 Kiely 与摩根士丹利的 Cheng Talk AI 交易",
-        "summary": "Tammy Kiely, senior managing director in technology investment banking at Evercore Inc., and Wally Cheng, Morgan Stanley's head of global technology M&A, discuss the outlook for dealmaking in the artificial intelligence sector. They speak with Dani Burger on ``Bloomberg Deals.''",
-        "summary_zh": "Evercore Inc. 技术投资银行部高级董事总经理 Tammy Kiely 和摩根士丹利全球技术并购主管 Wally Cheng 讨论了人工智能领域的交易前景。他们与丹尼·伯格就“彭博交易”进行了交谈。",
-        "link": "https://finance.yahoo.com/video/evercores-kiely-morgan-stanleys-cheng-193207164.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779305527,
-        "type": "News"
-    },
-    {
         "title": "A Look At Diversified Energy’s Valuation As Oklahoma Asset Deal With Carlyle Expands Its Portfolio",
         "title_zh": "随着俄克拉荷马州资产交易与凯雷扩大其投资组合，多元化能源的估值一览",
         "summary": "Diversified Energy (DEC) has drawn fresh attention after reaching an agreement with Carlyle to acquire additional oil and gas assets in Oklahoma using asset backed financing, while reporting higher first quarter production and reaffirming 2026 output guidance.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
         "publisher": "MarketBeat",
         "publish_time": 1779022800,
+        "type": "News"
+    },
+    {
+        "title": "The Dealmaking 3: F1 Revenue History, MLS PE Partnership, Youth Sports Growth",
+        "title_zh": "交易 3：F1 收入历史、MLS PE 合作伙伴关系、青少年体育发展",
+        "summary": "Watch The Dealmaking 3 of the Week: This week of The Dealmaking 3 with “The Sports Professor” Rick Horrow features KKR & Co. Inc.",
+        "summary_zh": "观看本周的《The Dealmaking 3》：本周由“体育教授”Rick Horrow 主持的《The Dealmaking 3》由 KKR & Co. Inc. 报道。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/dealmaking-3-f1-revenue-history-212730437.html",
+        "publisher": "CorpGov.com",
+        "publish_time": 1778794050,
         "type": "News"
     }
 ]
