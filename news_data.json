@@ -1,42 +1,82 @@
 [
     {
-        "title": "Why it's 'almost never a bad time' to buy Nvidia stock",
-        "title_zh": "为什么现在购买英伟达股票“几乎从来不是一个糟糕的时机”",
-        "summary": "Gibbens Capital president and chief investment officer Mark Gibbens joins Yahoo Finance to explain why he's bullish on Nvidia (NVDA).",
-        "summary_zh": "吉本斯资本 (Gibbens Capital) 总裁兼首席投资官马克·吉本斯 (Mark Gibbens) 与雅虎财经一起解释了他为何看好英伟达 (NVDA)。",
-        "link": "https://finance.yahoo.com/video/why-almost-never-bad-time-120000004.html",
+        "title": "Texas sues Meta, WhatsApp over encryption privacy",
+        "title_zh": "德克萨斯州起诉 Meta 和 WhatsApp 加密隐私",
+        "summary": "STORY: Texas is suing WhatsApp and parent firm Meta.The state says they misled consumers over the messaging app’s encryption and privacy standards.In a statement Thursday, Texas Attorney General Ken Paxton said “WhatsApp markets its services as secure and encrypted, but it doe...",
+        "summary_zh": "故事：德克萨斯州正在起诉 WhatsApp 及其母公司 Meta。该州称，他们在这款消息应用程序的加密和隐私标准上误导了消费者。德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 在周四的一份声明中表示，“WhatsApp 宣传其服务是安全和加密的，但它确实……",
+        "link": "https://finance.yahoo.com/video/texas-sues-meta-whatsapp-over-034057132.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1779421257,
+        "type": "News"
+    },
+    {
+        "title": "Guzman y Gomez Gives Up on Failing US Business; Shares Soar",
+        "title_zh": "古兹曼和戈麦斯放弃了失败的美国企业；股价飙升",
+        "summary": "(Bloomberg) -- Australian burrito chain Guzman y Gomez Ltd. is closing its Chicago restaurants immediately and exiting the US in an abrupt end to an attempt to crack the world’s biggest fast-food market.",
+        "summary_zh": "（彭博社）——澳大利亚墨西哥卷饼连锁店 Guzman y Gomez Ltd. 将立即关闭其在芝加哥的餐厅，并退出美国市场，从而结束其进军全球最大快餐市场的尝试。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/guzman-y-gomez-gives-failing-002438299.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779415967,
+        "type": "News"
+    },
+    {
+        "title": "Texas sues Meta, WhatsApp over encryption privacy claims",
+        "title_zh": "德克萨斯州起诉 Meta 和 WhatsApp 加密隐私索赔",
+        "summary": "The Texas Attorney General’s Office on Thursday sued WhatsApp and its parent company Meta ‌Platforms Inc alleging they misled consumers about the strength and ‌scope of WhatsApp's encryption measures, which a Meta spokesman denied.",
+        "summary_zh": "德克萨斯州总检察长办公室周四起诉 WhatsApp 及其母公司 Meta Platforms Inc，指控他们在 WhatsApp 加密措施的强度和范围方面误导消费者，Meta 发言人对此予以否认。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/texas-sues-meta-whatsapp-over-233429405.html",
+        "publisher": "Reuters",
+        "publish_time": 1779406469,
+        "type": "News"
+    },
+    {
+        "title": "Waymo suspends freeway rides, pauses Atlanta operations amid safety fixes",
+        "title_zh": "Waymo 暂停高速公路出行，并暂停亚特兰大运营以修复安全问题",
+        "summary": "May 21 (Reuters) - Alphabet's Waymo said on Thursday it has suspended its robotaxi service on freeways in the United States and paused its operations in Atlanta, Georgia as it updates software to",
+        "summary_zh": "路透 5 月 21 日 - Alphabet 旗下 Waymo 周四表示，已暂停在美国高速公路上的机器人出租车服务，并暂停在佐治亚州亚特兰大的运营，因为该公司正在更新软件",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/waymo-suspends-freeway-rides-pauses-231431863.html",
+        "publisher": "Reuters",
+        "publish_time": 1779405271,
+        "type": "News"
+    },
+    {
+        "title": "Apple asks US Supreme Court to review contempt order in Epic Games lawsuit",
+        "title_zh": "苹果要求美国最高法院审查 Epic Games 诉讼中的藐视法庭令",
+        "summary": "Apple asked the U.S. Supreme Court on Thursday to review a lower court ruling that held the iPhone maker in ‌civil contempt over fees it was charging on some outside purchases made by customers ‌of its App Store.",
+        "summary_zh": "苹果公司周四要求美国最高法院审查下级法院的一项裁决，该裁决认为这家 iPhone 制造商对其 App Store 客户进行的一些外部购买收取费用，构成民事藐视法庭罪。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apple-asks-us-supreme-court-215059558.html",
+        "publisher": "Reuters",
+        "publish_time": 1779400259,
+        "type": "News"
+    },
+    {
+        "title": "IBM Shares Soar on US Funding for $2 Billion Quantum Push",
+        "title_zh": "IBM 因美国资助 20 亿美元量子推动股价飙升",
+        "summary": "(Bloomberg) -- The Trump administration has agreed to award $1 billion to International Business Machines Corp.",
+        "summary_zh": "（彭博社）——特朗普政府已同意向国际商业机器公司拨款 10 亿美元。",
+        "link": "https://finance.yahoo.com/news/ibm-shares-soar-on-us-funding-for-2-billion-quantum-push-204755848.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779396475,
+        "type": "News"
+    },
+    {
+        "title": "Why Nvidia's stock is mispriced, and Wall Street is underestimating its earnings power",
+        "title_zh": "为什么英伟达的股票定价错误，而华尔街低估了其盈利能力",
+        "summary": "The big guys on Wall Street have always had the advantage in the market. Until now.&nbsp; Meet AlphaSpace. Advanced charting, real-time fundamental analysis, portfolio tracking, and premium news that changes EVERYTHING for the everyday investor.",
+        "summary_zh": "华尔街的大佬们在市场上一直占据着优势。到现在为止。&nbsp;认识阿尔法空间。先进的图表、实时基本面分析、投资组合跟踪和优质新闻改变了日常投资者的一切。",
+        "link": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1779364800,
+        "publish_time": 1779395769,
         "type": "News"
     },
     {
-        "title": "Stocks fall and oil rises after Iran leader's uranium demand",
-        "title_zh": "伊朗领导人提出铀需求后，股市下跌，油价上涨",
-        "summary": "By Harry Robertson LONDON, May 21 (Reuters) - European stocks and U.S. futures fell on Thursday as oil prices rose after Reuters reported Iran's Supreme Leader has said the country's near-weapons-",
-        "summary_zh": "路透伦敦 5 月 21 日 - 路透报道伊朗最高领袖表示该国近乎拥有武器后，油价上涨，欧洲股市和美国期货周四下跌。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/shares-rally-nvidia-earnings-samsung-012451730.html",
-        "publisher": "Reuters",
-        "publish_time": 1779364671,
-        "type": "News"
-    },
-    {
-        "title": "Morning Bid: Shrug for Nvidia but IPOs excite",
-        "title_zh": "早盘竞价：对英伟达不屑一顾，但 IPO 令人兴奋",
-        "summary": "By Mike Dolan May 21 (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-at-Large, Finance and Markets Nvidia appeared to ring all the bells once again in its latest",
-        "summary_zh": "作者：迈克·多兰 (Mike Dolan) 5 月 21 日（路透社）——当今美国和全球市场最重要的是什么 作者：迈克·多兰 (Mike Dolan)，金融与市场部特约编辑 Nvidia 似乎在其最新报告中再次敲响了警钟。",
-        "link": "https://finance.yahoo.com/news/morning-bid-shrug-nvidia-ipos-104814737.html",
-        "publisher": "Reuters",
-        "publish_time": 1779363180,
-        "type": "News"
-    },
-    {
-        "title": "Factbox-IPO-bound SpaceX's board is stacked with Musk empire loyalists",
-        "title_zh": "即将上市的 SpaceX 董事会成员都是马斯克帝国的忠实拥护者",
-        "summary": "Ehrenp ent Tesla SpaceX reviewed his Tesla ties reis Director investor before ​determining he met Nasdaq since and independence standards. February director Expected to ‌chair SpaceX's 2026 Compensation and Nominating Committee post-IPO.",
-        "summary_zh": "埃伦彭·特斯拉 (Ehrenp ent Tesla) SpaceX 在确定他符合纳斯达克和独立标准之前，审查了他与特斯拉董事投资者的关系。 2 月份董事预计将在 IPO 后担任 SpaceX 2026 年薪酬和提名委员会主席。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/factbox-ipo-bound-spacexs-board-110616776.html",
-        "publisher": "Reuters",
-        "publish_time": 1779361576,
+        "title": "Intuit Suffers Worst Plunge Since 2003 After Announcing Job Cuts",
+        "title_zh": "宣布裁员后 Intuit 遭遇 2003 年以来最严重暴跌",
+        "summary": "(Bloomberg) -- Intuit Inc.",
+        "summary_zh": "（彭博社）——Intuit 公司",
+        "link": "https://finance.yahoo.com/news/intuit-suffers-worst-plunge-since-2003-after-announcing-job-cuts-202935171.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779395375,
         "type": "News"
     },
     {
@@ -46,47 +86,7 @@
         "summary_zh": "(彭博社)——面对更多投资者的怀疑，英伟达公司利用其最新的季度报告来宣传该公司在多元化方面取得的进展，该公司的目标是减少对推动其飞速增长的巨型数据中心运营商的依赖。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-tepid-reaction-forecast-210054064.html",
         "publisher": "Bloomberg",
-        "publish_time": 1779360947,
-        "type": "News"
-    },
-    {
-        "title": "Google, Meta, TikTok face EU consumer complaints about handling of financial scams",
-        "title_zh": "谷歌、Meta、TikTok 面临欧盟消费者关于处理金融诈骗的投诉",
-        "summary": "Alphabet's Google, Meta Platforms and TikTok were hit with complaints from European Union consumer groups ‌on Thursday for allegedly failing to protect users from financial scams ‌on their platforms.",
-        "summary_zh": "Alphabet 旗下的谷歌、Meta Platforms 和 TikTok 周四遭到欧盟消费者团体的投诉，据称未能保护用户免受其平台上的金融诈骗。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/google-meta-tiktok-face-eu-103023539.html",
-        "publisher": "Reuters",
-        "publish_time": 1779359423,
-        "type": "News"
-    },
-    {
-        "title": "Circular AI Boom Goes Global as Asia Windfall Funds Hyperscalers",
-        "title_zh": "亚洲意外之财为超大规模企业提供资金，循环人工智能热潮走向全球",
-        "summary": "(Bloomberg) -- The windfall earned by Asian chip makers is coursing through the world economy, mirroring on a global scale the circular flow of money within the AI ecosystem.Most Read from BloombergSpot the Difference: Putin Gets Trump Treatment From Xi in ChinaModi’s Toffee G...",
-        "summary_zh": "（彭博社）——亚洲芯片制造商赚取的意外之财正在世界经济中流淌，反映了全球范围内人工智能生态系统内资金的循环流动。彭博社的大多数阅读文章发现差异：普京在中国获得习近平的特朗普待遇莫迪的太妃糖...",
-        "link": "https://finance.yahoo.com/economy/articles/circular-ai-boom-goes-global-052414065.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779357600,
-        "type": "News"
-    },
-    {
-        "title": "China's Manus founders seek $1 billion to undo Meta takeover, Bloomberg News reports",
-        "title_zh": "据彭博社报道，中国 Manus 创始人寻求 10 亿美元以撤销 Meta 收购",
-        "summary": "Manus co-founders are weighing ways to comply with China's order to unwind Meta's $2 billion-plus acquisition ‌of the AI startup, Bloomberg News reported on ‌Thursday.",
-        "summary_zh": "据彭博社周四报道，Manus 联合创始人正在考虑如何遵守中国的命令，取消 Meta 对这家人工智能初创公司价值超过 20 亿美元的收购。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/chinas-manus-founders-seek-1-090924764.html",
-        "publisher": "Reuters",
-        "publish_time": 1779354564,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia bets on new data center chips as sales outlook tops estimates",
-        "title_zh": "销售前景超出预期，英伟达押注新数据中心芯片",
-        "summary": "STORY: Nvidia on Wednesday forecast second-quarter revenue above Wall Street expectations, and assured investors that new customers would let it maintain blockbuster rates of growth.&nbsp;The world's most valuable company expects sales of around $91 billion, compared with esti...",
-        "summary_zh": "故事：英伟达周三预测第二季度营收将高于华尔街预期，并向投资者保证新客户将使其保持惊人的增长率。这家全球最有价值的公司预计销售额将达到 910 亿美元左右，而预估的销售额将达到 910 亿美元左右。",
-        "link": "https://finance.yahoo.com/video/nvidia-bets-data-center-chips-044442770.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1779338682,
+        "publish_time": 1779394216,
         "type": "News"
     }
 ]
