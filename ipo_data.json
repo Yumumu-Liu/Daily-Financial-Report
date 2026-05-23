@@ -1,5 +1,15 @@
 [
     {
+        "title": "Are mega-IPOs like SpaceX huge opportunities for options trades?",
+        "title_zh": "像 SpaceX 这样的大型 IPO 是否为期权交易提供了巨大的机会？",
+        "summary": "As part of the latest installment of Yahoo Finance's Options Playbook, BayCrest managing director David Boole explains the influence that mega-IPOs, the likes of SpaceX (SPAX.PVT), Anthropic (ANTH.PVT), and OpenAI (OPAI.PVT), are having on markets (^DJI, ^IXIC, ^GSPC), possibl...",
+        "summary_zh": "作为雅虎财经期权手册最新一期的一部分，BayCrest 董事总经理 David Boole 解释了 SpaceX (SPAX.PVT)、Anthropic (ANTH.PVT) 和 OpenAI (OPAI.PVT) 等大型 IPO 对市场的影响（^DJI、^IXIC、^G...",
+        "link": "https://finance.yahoo.com/video/are-mega-ipos-like-spacex-huge-opportunities-for-options-trades-195554470.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1779479754,
+        "type": "News"
+    },
+    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -37,16 +47,6 @@
         "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1774971420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
-        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
-        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
-        "publisher": "Zacks",
-        "publish_time": 1774872000,
         "type": "News"
     }
 ]
