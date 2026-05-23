@@ -1,5 +1,15 @@
 [
     {
+        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
+        "title_zh": "Nvidia表示，其预计2000亿美元的CPU市场包括中国",
+        "summary": "TAIPEI, May 23 (Reuters) - Nvidia CEO Jensen Huang said on Saturday that his forecast of a $200 billion market for CPUs ‌includes China, signalling Nvidia still sees significant long-term demand in the market ‌amid ongoing U.",
+        "summary_zh": "路透台北 5 月 23 日 - Nvidia 首席执行官黄仁勋周六表示，他对 2000 亿美元 CPU 市场的预测包括中国，这表明 Nvidia 仍然认为，在美国持续不断的经济形势下，该市场仍存在巨大的长期需求。",
+        "link": "https://finance.yahoo.com/news/nvidia-says-forecast-200-billion-100926572.html",
+        "publisher": "Reuters",
+        "publish_time": 1779530966,
+        "type": "News"
+    },
+    {
         "title": "Wall Street rises as Middle East hopes lift sentiment",
         "title_zh": "中东希望提振市场情绪，华尔街上涨",
         "summary": "STORY: U.S.",
@@ -57,16 +67,6 @@
         "link": "https://finance.yahoo.com/markets/article/ai-mania-is-fueling-bubble-like-concentration-in-the-sp-500-135754198.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1779458274,
-        "type": "News"
-    },
-    {
-        "title": "'Not a cost-cutting exercise': How tech CEOs are framing AI-driven layoffs",
-        "title_zh": "“不是削减成本”：科技公司首席执行官如何制定人工智能驱动的裁员计划",
-        "summary": "Layoff notifications have long included wording about tough decisions in challenging times. Now, they're also increasingly nodding at how automation is reshaping workforces and companies' priorities.",
-        "summary_zh": "长期以来，裁员通知中一直包含有关在充满挑战的时期做出艰难决定的措辞。现在，他们也越来越认可自动化如何重塑劳动力和公司的优先事项。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/not-a-cost-cutting-exercise-how-tech-ceos-are-framing-ai-driven-layoffs-100000306.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779444000,
         "type": "News"
     }
 ]

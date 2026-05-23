@@ -1,5 +1,25 @@
 [
     {
+        "title": "KKR Reshapes Portfolio With Exits And Energy Deals In Focus",
+        "title_zh": "KKR 重塑投资组合，重点关注退出和能源交易",
+        "summary": "KKR agreed to sell Circor Aerospace in a definitive deal, marking an exit from an industrial aerospace holding. The firm completed its exit from Kokusai Electric, closing out a semiconductor investment.",
+        "summary_zh": "KKR 同意以最终协议出售 Circor Aerospace，标志着退出工业航空航天控股公司。该公司完成了从国际电气的退出，结束了一项半导体投资。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/kkr-reshapes-portfolio-exits-energy-071907477.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779520747,
+        "type": "News"
+    },
+    {
+        "title": "How The Akamai Technologies (AKAM) Story Is Shifting With AI Deals And Margin Debate",
+        "title_zh": "Akamai Technologies (AKAM) 的故事如何随着人工智能交易和利润争论而转变",
+        "summary": "The analyst fair value estimate for Akamai Technologies moved from US$110.98 to US$157.16, a sizeable uplift that puts fresh focus on how investors are framing the stock.",
+        "summary_zh": "分析师对 Akamai Technologies 的公允价值预期从 110.98 美元升至 157.16 美元，这一大幅提升让投资者重新关注该股的走势。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-story-shifting-042346497.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779510226,
+        "type": "News"
+    },
+    {
         "title": "Oracle Samsung Java Deal Ties Semiconductor Software To Long Term Cloud Story",
         "title_zh": "Oracle 三星 Java 交易将半导体软件与长期云故事联系起来",
         "summary": "Oracle and Samsung Electronics have expanded their partnership to standardize semiconductor software development on Oracle Java SE Universal Subscription.",
@@ -27,26 +47,6 @@
         "link": "https://www.wsj.com/pro/private-equity/apollo-2-04-billion-takeover-proposal-propels-bodycote-share-gain-8412a430?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1779472260,
-        "type": "News"
-    },
-    {
-        "title": "Tech ETFs to Buy as Microsoft, Anthropic Eye Custom AI Chip Deal",
-        "title_zh": "微软与 Anthropic Eye 定制人工智能芯片交易将买入科技 ETF",
-        "summary": "Microsoft's Maia AI chip talks with Anthropic spotlight tech ETFs as a diversified way to tap the AI-driven custom silicon boom.",
-        "summary_zh": "微软的 Maia 人工智能芯片与 Anthropic 重点讨论科技 ETF，认为这是利用人工智能驱动的定制芯片热潮的多元化方式。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/tech-etfs-buy-microsoft-anthropic-161100219.html",
-        "publisher": "Zacks",
-        "publish_time": 1779466260,
-        "type": "News"
-    },
-    {
-        "title": "Warner Bros. Discovery increases leveraged loan backing Paramount Skydance deal atop $10B",
-        "title_zh": "华纳兄弟探索公司 (Warner Bros. Discovery) 增加杠杆贷款支持派拉蒙 Skydance 交易至 $10B",
-        "summary": "Warner Bros. Discovery has upsized the dollar portion of its cross-border term loan to $9 billion from $5 billion, taking the total deal size to approximately $10 billion. The euros are unchanged at €1 billion. Responses remain due by 5 p.m. BST and 5 p.m.",
-        "summary_zh": "华纳兄弟探索公司 (Warner Bros. Discovery) 将其跨境定期贷款的美元部分从 50 亿美元增加到 90 亿美元，使总交易规模达到约 100 亿美元。欧元维持在 10 亿欧元不变。回复截止日期为下午 5 点。英国夏令时和下午 5 点",
-        "link": "https://finance.yahoo.com/markets/options/articles/warner-bros-discovery-increases-leveraged-145533937.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1779461733,
         "type": "News"
     }
 ]
