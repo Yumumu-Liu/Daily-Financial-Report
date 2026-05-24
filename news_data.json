@@ -1,12 +1,32 @@
 [
     {
-        "title": "Nvidia says its forecast for $200 billion CPU market includes China",
-        "title_zh": "Nvidia表示，其预计2000亿美元的CPU市场包括中国",
-        "summary": "TAIPEI, May 23 (Reuters) - Nvidia CEO Jensen Huang said on Saturday that his forecast of a $200 billion market for CPUs ‌includes China, signalling Nvidia still sees significant long-term demand in the market ‌amid ongoing U.",
-        "summary_zh": "路透台北 5 月 23 日 - Nvidia 首席执行官黄仁勋周六表示，他对 2000 亿美元 CPU 市场的预测包括中国，这表明 Nvidia 仍然认为，在美国持续不断的经济形势下，该市场仍存在巨大的长期需求。",
-        "link": "https://finance.yahoo.com/news/nvidia-says-forecast-200-billion-100926572.html",
-        "publisher": "Reuters",
-        "publish_time": 1779530966,
+        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+        "title_zh": "超大规模债务泛滥带来衍生品繁荣",
+        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergBu...",
+        "summary_zh": "（彭博社）——随着大型科技公司筹集数千亿美元来资助人工智能投资，华尔街银行越来越发现他们必须交易更多的信用衍生品才能继续与超大规模企业开展业务。彭博社的大多数阅读...",
+        "link": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779562800,
+        "type": "News"
+    },
+    {
+        "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
+        "title_zh": "为什么债券可能无法使投资者免受下一次市场冲击：每日图表",
+        "summary": "Bonds might not be the safety net they used to be if inflation stays high.",
+        "summary_zh": "如果通胀居高不下，债券可能不再是过去的安全网。",
+        "link": "https://finance.yahoo.com/markets/article/why-bonds-may-not-save-investors-from-the-next-market-shock-chart-of-the-day-155420061.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779551660,
+        "type": "News"
+    },
+    {
+        "title": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
+        "title_zh": "特朗普的 3,711 笔交易指向多种股市策略",
+        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosure has drawn scrutiny for its astonishing scale: 3,711 trades, almost entirely in shares of companies across America, including many whose fortunes can turn on federal policy.Most Read from BloombergBungie Plans ...",
+        "summary_zh": "（彭博社）——唐纳德·特朗普总统最新的财务披露因其惊人的规模而受到密切关注：3,711 笔交易，几乎全部是美国各地公司的股票，其中包括许多财富可能会受到联邦政策影响的公司。 大多数阅读来自 BloombergBungie Plans ...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-3-711-trades-point-130016743.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779541216,
         "type": "News"
     },
     {
@@ -17,56 +37,6 @@
         "link": "https://finance.yahoo.com/video/wall-street-rises-middle-east-215643096.html",
         "publisher": "Reuters Videos",
         "publish_time": 1779487003,
-        "type": "News"
-    },
-    {
-        "title": "AI trade: Investors may want to look outside infrastructure, Nvidia",
-        "title_zh": "人工智能贸易：投资者可能希望关注基础设施之外的领域，英伟达",
-        "summary": "All three of the major averages (^DJI, ^IXIC, ^GSPC) ended Friday's session in positive territory — the Dow Jones Industrial Average leading the way and rising 294 points — managing to close out the trading week with gains.",
-        "summary_zh": "所有三个主要股指（^DJI、^IXIC、^GSPC）周五均以上涨收盘——道琼斯工业平均指数领涨，上涨 294 点——成功以上涨结束了交易周。",
-        "link": "https://finance.yahoo.com/video/ai-trade-investors-may-want-to-look-outside-infrastructure-nvidia-202822905.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779481702,
-        "type": "News"
-    },
-    {
-        "title": "Are mega-IPOs like SpaceX huge opportunities for options trades?",
-        "title_zh": "像 SpaceX 这样的大型 IPO 是否为期权交易提供了巨大的机会？",
-        "summary": "As part of the latest installment of Yahoo Finance's Options Playbook, BayCrest managing director David Boole explains the influence that mega-IPOs, the likes of SpaceX (SPAX.PVT), Anthropic (ANTH.PVT), and OpenAI (OPAI.PVT), are having on markets (^DJI, ^IXIC, ^GSPC), possibl...",
-        "summary_zh": "作为雅虎财经期权手册最新一期的一部分，BayCrest 董事总经理 David Boole 解释了 SpaceX (SPAX.PVT)、Anthropic (ANTH.PVT) 和 OpenAI (OPAI.PVT) 等大型 IPO 对市场的影响（^DJI、^IXIC、^G...",
-        "link": "https://finance.yahoo.com/video/are-mega-ipos-like-spacex-huge-opportunities-for-options-trades-195554470.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779479754,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX, OpenAI, Anthropic: Investors are 'better off' waiting for IPOs",
-        "title_zh": "SpaceX、OpenAI、Anthropic：等待 IPO 的投资者“状况更好”",
-        "summary": "Private markets are in focus, with initial public offerings (IPOs) from Anthropic (ANTH.PVT), OpenAI (OPAI.PVT), and SpaceX (SPAX.PVT) on the horizon.",
-        "summary_zh": "私募市场成为焦点，Anthropic (ANTH.PVT)、OpenAI (OPAI.PVT) 和 SpaceX (SPAX.PVT) 的首次公开募股 (IPO) 即将到来。",
-        "link": "https://finance.yahoo.com/video/spacex-openai-anthropic-investors-are-better-off-waiting-for-ipos-154306602.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779464586,
-        "type": "News"
-    },
-    {
-        "title": "Maybe investors can wait to buy SpaceX after IPO: Lee Munson",
-        "title_zh": "Lee Munson：也许投资者可以等待 IPO 后购买 SpaceX",
-        "summary": "Elon Musk's private space operator, SpaceX (SPAX.PVT), released its S-1 filing this week as it plans to go public via IPO in June. The Wall Street Journal has reported that AI developer OpenAI (OPAI.PVT) is preparing to file for its own mega-IPO.",
-        "summary_zh": "埃隆·马斯克 (Elon Musk) 的私人太空运营商 SpaceX (SPAX.PVT) 本周发布了 S-1 文件，计划于 6 月通过 IPO 上市。据《华尔街日报》报道，人工智能开发商 OpenAI (OPAI.PVT) 正准备申请大型 IPO。",
-        "link": "https://finance.yahoo.com/video/maybe-investors-wait-buy-spacex-150000900.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779462000,
-        "type": "News"
-    },
-    {
-        "title": "AI mania is fueling bubble-like concentration in the S&P 500",
-        "title_zh": "人工智能狂热正在助长标准普尔 500 指数泡沫般的集中度",
-        "summary": "Tech just keeps getting bigger!",
-        "summary_zh": "科技不断变得更大！",
-        "link": "https://finance.yahoo.com/markets/article/ai-mania-is-fueling-bubble-like-concentration-in-the-sp-500-135754198.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779458274,
         "type": "News"
     }
 ]
