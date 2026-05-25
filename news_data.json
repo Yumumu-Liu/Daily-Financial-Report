@@ -1,42 +1,62 @@
 [
     {
-        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-        "title_zh": "超大规模债务泛滥带来衍生品繁荣",
-        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTr...",
-        "summary_zh": "（彭博社）——随着大型科技公司筹集数千亿美元来资助人工智能投资，华尔街银行越来越发现他们必须交易更多的信用衍生品才能继续与超大规模企业开展业务。彭博社的大多数阅读...",
-        "link": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779562800,
-        "type": "News"
-    },
-    {
-        "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
-        "title_zh": "为什么债券可能无法使投资者免受下一次市场冲击：每日图表",
-        "summary": "Bonds might not be the safety net they used to be if inflation stays high.",
-        "summary_zh": "如果通胀居高不下，债券可能不再是过去的安全网。",
-        "link": "https://finance.yahoo.com/markets/article/why-bonds-may-not-save-investors-from-the-next-market-shock-chart-of-the-day-155420061.html",
+        "title": "Elon Musk wants to put data centers in space — here's what that could actually look like",
+        "title_zh": "埃隆·马斯克希望将数据中心置于太空中——这实际上可能是这样的",
+        "summary": "SpaceX founder Elon Musk has said that he wants to put data centers in space for efficiency. One expert told Yahoo Finance how it would actually work.",
+        "summary_zh": "SpaceX 创始人埃隆·马斯克表示，他希望将数据中心置于太空中以提高效率。一位专家告诉雅虎财经，它实际上是如何运作的。",
+        "link": "https://finance.yahoo.com/markets/article/elon-musk-wants-to-put-data-centers-in-space--heres-what-that-could-actually-look-like-143000204.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1779551660,
+        "publish_time": 1779633000,
         "type": "News"
     },
     {
-        "title": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
-        "title_zh": "特朗普的 3,711 笔交易指向多种股市策略",
-        "summary": "(Bloomberg) -- President Donald Trump’s latest financial disclosure has drawn scrutiny for its astonishing scale: 3,711 trades, almost entirely in shares of companies across America, including many whose fortunes can turn on federal policy.Most Read from BloombergTrump Says He...",
-        "summary_zh": "（彭博社）——唐纳德·特朗普总统最新的财务披露因其惊人的规模而受到密切关注：3,711 笔交易，几乎全部是美国各地公司的股票，其中包括许多财富可能取决于联邦政策的公司。彭博社的大多数报道特朗普说他...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-3-711-trades-point-130016743.html",
+        "title": "'There's mania': Strategists weigh in on looming SpaceX IPO",
+        "title_zh": "“市场狂热”：策略师对即将到来的 SpaceX IPO 发表看法",
+        "summary": "It may be best for investors to wait until some of the excitement surrounding SpaceX fades before jumping in.",
+        "summary_zh": "对于投资者来说，最好等到围绕 SpaceX 的兴奋情绪消退后再入手。",
+        "link": "https://finance.yahoo.com/news/theres-mania-strategists-weigh-in-on-looming-spacex-ipo-130000210.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779627600,
+        "type": "News"
+    },
+    {
+        "title": "Scenes from the Memorial Day investing road: Takeaways on Walmart, Nvidia, and GameStop",
+        "title_zh": "阵亡将士纪念日投资之路场景：沃尔玛、英伟达和 GameStop 的要点",
+        "summary": "A big week for investors, let's not overlook it.",
+        "summary_zh": "对于投资者来说这是重要的一周，我们不要忽视。",
+        "link": "https://finance.yahoo.com/markets/article/scenes-from-the-memorial-day-investing-road-takeaways-on-walmart-nvidia-and-gamestop-123000395.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779625800,
+        "type": "News"
+    },
+    {
+        "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+        "title_zh": "股市和盈利飙升，伊朗协议可能迫在眉睫：本周看点",
+        "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market's not-so-subtle signals, and whatever distractions, surprises, ...",
+        "summary_zh": "随着财报季结束，股市进入消化和分散注意力的领域，因为投资者将整个公司数据与课外公司新闻、经济发布、债券市场不那么微妙的信号以及任何分散注意力的事情、意外事件等结合起来……",
+        "link": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779623018,
+        "type": "News"
+    },
+    {
+        "title": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
+        "title_zh": "航班停飞、物资短缺，埃博拉病毒在刚果蔓延",
+        "summary": "(Bloomberg) -- Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.Most Read from BloombergNvidia CEO Urges S...",
+        "summary_zh": "（彭博社）——刚果暂停了飞往东部城市布尼亚的航班，地区卫生部长警告称，随着埃博拉疫情蔓延至三个省份并不堪重负的接触者追踪工作，埃博拉跨境风险不断升级。彭博社的大多数报道 Nvidia 首席执行官敦促 S...",
+        "link": "https://finance.yahoo.com/news/ebola-spreads-across-congo-as-flights-halted-supplies-run-low-003054553.html",
         "publisher": "Bloomberg",
-        "publish_time": 1779541216,
+        "publish_time": 1779582654,
         "type": "News"
     },
     {
-        "title": "Wall Street rises as Middle East hopes lift sentiment",
-        "title_zh": "中东希望提振市场情绪，华尔街上涨",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-rises-middle-east-215643096.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1779487003,
+        "title": "Trump traded over $50 million in 'Magnificent 7' stocks last quarter, loading up on Apple and Google and selling Tesla",
+        "title_zh": "特朗普上个季度交易了超过 5000 万美元的“Magnificent 7”股票，买入苹果和谷歌并出售特斯拉",
+        "summary": "President Trump made 94 different trades of 'Magnificent 7' stocks in the first quarter of 2026, a new ethics disclosure shows, executing millions of dollars in transactions even as he was meeting with and often promoting these top tech companies.",
+        "summary_zh": "一份新的道德披露显示，特朗普总统在 2026 年第一季度对“Magnificent 7”股票进行了 94 笔不同的交易，即使在他与这些顶级科技公司会面并经常推销这些公司的同时，也执行了数百万美元的交易。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/trump-traded-over-50-million-in-magnificent-7-stocks-last-quarter-loading-up-on-apple-and-google-and-selling-tesla-100000562.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779184800,
         "type": "News"
     }
 ]

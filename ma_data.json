@@ -1,12 +1,32 @@
 [
     {
-        "title": "Dow Jones Futures: Trump Says Iran Deal Near With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
-        "title_zh": "道琼斯期货：特朗普称伊朗与霍尔木兹海峡的协议已“开启”；特斯拉、人工智能股票接近买入点",
-        "summary": "President Donald Trump said Saturday that the U.S. and Iran are close to an interim deal that will open the Strait of Hormuz.",
-        "summary_zh": "唐纳德·特朗普总统周六表示，美国和伊朗即将达成开放霍尔木兹海峡的临时协议。",
+        "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
+        "title_zh": "道琼斯期货上涨，油价下跌：特朗普称不“急于”达成伊朗协议",
+        "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+        "summary_zh": "唐纳德·特朗普总统表示，开放霍尔木兹海峡的临时协议已接近达成，但谈判仍在继续。",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1779589020,
+        "publish_time": 1779678549,
+        "type": "News"
+    },
+    {
+        "title": "Oil Tumbles, Stock Futures Rise Amid Hopes for Iran Deal",
+        "title_zh": "伊朗协议有望达成，油价暴跌，股指期货上涨",
+        "summary": "Stock futures were rising late Sunday, and oil futures fell after the Trump administration hinted officials are inching closer to a deal with Iran to end the three-month conflict and reopen the Strait of Hormuz. Just after 6 p.m.",
+        "summary_zh": "周日晚间，股票期货上涨，在特朗普政府暗示官员们正在逐步接近与伊朗达成协议以结束三个月的冲突并重新开放霍尔木兹海峡后，石油期货下跌。下午 6 点刚过。",
+        "link": "https://www.barrons.com/articles/oil-futures-trading-price-7cf08557?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1779660780,
+        "type": "News"
+    },
+    {
+        "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
+        "title_zh": "股市和盈利飙升，伊朗协议可能迫在眉睫：本周看点",
+        "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market's not-so-subtle signals, and whatever distractions, surprises, ...",
+        "summary_zh": "随着财报季结束，股市进入消化和分散注意力的领域，因为投资者将整个公司数据与课外公司新闻、经济发布、债券市场不那么微妙的信号以及任何分散注意力的事情、意外事件等结合起来……",
+        "link": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779623018,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/kkr-reshapes-portfolio-exits-energy-071907477.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1779520747,
-        "type": "News"
-    },
-    {
-        "title": "How The Akamai Technologies (AKAM) Story Is Shifting With AI Deals And Margin Debate",
-        "title_zh": "Akamai Technologies (AKAM) 的故事如何随着人工智能交易和利润争论而转变",
-        "summary": "The analyst fair value estimate for Akamai Technologies moved from US$110.98 to US$157.16, a sizeable uplift that puts fresh focus on how investors are framing the stock.",
-        "summary_zh": "分析师对 Akamai Technologies 的公允价值估计从 110.98 美元升至 157.16 美元，这一大幅提升让投资者重新关注如何构建该股票。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-story-shifting-042346497.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779510226,
-        "type": "News"
-    },
-    {
-        "title": "Oracle Samsung Java Deal Ties Semiconductor Software To Long Term Cloud Story",
-        "title_zh": "Oracle 三星 Java 交易将半导体软件与长期云故事联系起来",
-        "summary": "Oracle and Samsung Electronics have expanded their partnership to standardize semiconductor software development on Oracle Java SE Universal Subscription.",
-        "summary_zh": "Oracle 和三星电子扩大了合作伙伴关系，以标准化 Oracle Java SE 通用订阅上的半导体软件开发。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-samsung-java-deal-ties-192012035.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779477612,
         "type": "News"
     }
 ]
