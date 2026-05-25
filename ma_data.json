@@ -1,12 +1,22 @@
 [
     {
+        "title": "Private Credit Really Is More Than Loans to Leveraged Buyouts",
+        "title_zh": "私人信贷实际上不仅仅是杠杆收购贷款",
+        "summary": "Investors are worried about loans that private-credit funds have made to fund buyouts., but the funds do a lot more than that.",
+        "summary_zh": "投资者担心私人信贷基金为收购提供的贷款，但这些基金的作用远不止于此。",
+        "link": "https://www.barrons.com/articles/private-credit-loans-leveraged-buyouts-b2756731?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1779692400,
+        "type": "News"
+    },
+    {
         "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
         "title_zh": "道琼斯期货上涨，油价下跌：特朗普称不“急于”达成伊朗协议",
         "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
         "summary_zh": "唐纳德·特朗普总统表示，开放霍尔木兹海峡的临时协议已接近达成，但谈判仍在继续。",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1779678549,
+        "publish_time": 1779690936,
         "type": "News"
     },
     {
@@ -20,26 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
-        "title_zh": "股市和盈利飙升，伊朗协议可能迫在眉睫：本周看点",
-        "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market's not-so-subtle signals, and whatever distractions, surprises, ...",
-        "summary_zh": "随着财报季结束，股市进入消化和分散注意力的领域，因为投资者将整个公司数据与课外公司新闻、经济发布、债券市场不那么微妙的信号以及任何分散注意力的事情、意外事件等结合起来……",
-        "link": "https://finance.yahoo.com/news/stocks-and-earnings-surge-and-iran-deal-may-be-imminent-what-to-watch-this-week-114338066.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779623018,
-        "type": "News"
-    },
-    {
-        "title": "Uber Proposes Delivery Hero Takeover at €10 Billion Valuation",
-        "title_zh": "Uber 提议以 100 亿欧元的估值收购 Delivery Hero",
-        "summary": "(Bloomberg) -- Uber Technologies Inc. has offered to take over Delivery Hero SE in a deal that would value the German delivery company at about €10 billion ($11.6 billion) as it seeks to ramp up competition with DoorDash Inc. outside the US.",
-        "summary_zh": "（彭博社）——Uber Technologies Inc. 已提出收购 Delivery Hero SE，该交易将使这家德国快递公司估值约为 100 亿欧元（116 亿美元），以加强与美国以外地区 DoorDash Inc. 的竞争。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-hero-says-uber-proposed-151727961.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779569335,
-        "type": "News"
-    },
-    {
         "title": "KKR Reshapes Portfolio With Exits And Energy Deals In Focus",
         "title_zh": "KKR 重塑投资组合，重点关注退出和能源交易",
         "summary": "KKR agreed to sell Circor Aerospace in a definitive deal, marking an exit from an industrial aerospace holding. The firm completed its exit from Kokusai Electric, closing out a semiconductor investment.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/kkr-reshapes-portfolio-exits-energy-071907477.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1779520747,
+        "type": "News"
+    },
+    {
+        "title": "Apollo $2.04 Billion Takeover Proposal Propels Bodycote Share Gain",
+        "title_zh": "Apollo 20.4 亿美元的收购提议推动 Bodycote 股价上涨",
+        "summary": "Heat treatment firm Bodycote said it received a 1.52 billion pound ($2.04 billion) takeover proposal from Apollo Global Management, and that the two were in talks, sending shares sharply higher.",
+        "summary_zh": "热处理公司 Bodycote 表示，它收到了 Apollo Global Management 的 15.2 亿英镑（20.4 亿美元）收购提议，两家公司正在谈判，股价大幅上涨。",
+        "link": "https://www.wsj.com/pro/private-equity/apollo-2-04-billion-takeover-proposal-propels-bodycote-share-gain-8412a430?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1779472260,
         "type": "News"
     }
 ]
