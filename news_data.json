@@ -1,32 +1,62 @@
 [
     {
-        "title": "Goldman Sachs lifts S&P 500 year-end target to 8,000 on strong earnings outlook",
-        "title_zh": "高盛因强劲盈利前景将标普 500 指数年终目标上调至 8,000 点",
-        "summary": "May 26 (Reuters) - Goldman Sachs has raised its 2026 year-end forecast for the S&P 500 index to 8,000 from 7,600, citing continued strength in corporate earnings.",
-        "summary_zh": "路透 5 月 26 日 - 高盛将标准普尔 500 指数 2026 年年底预期从 7,600 点上调至 8,000 点，理由是企业盈利持续强劲。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-lifts-p-500-033812652.html",
-        "publisher": "Reuters",
-        "publish_time": 1779857089,
+        "title": "Earnings live updates: Zscaler stock plunges 24% premarket on cautious guidance",
+        "title_zh": "收益实时更新：Zscaler 股票在谨慎指引下盘前暴跌 24%",
+        "summary": "Earnings season is winding down, with nearly all first quarter reports in the rearview mirror.",
+        "summary_zh": "财报季即将结束，几乎所有第一季度报告都已成为过去。",
+        "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-zscaler-stock-plunges-24-premarket-on-cautious-guidance-115127249.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779882687,
         "type": "News"
     },
     {
-        "title": "Nvidia to spend $150 billion a year in Taiwan, 'epicentre' of AI revolution, says CEO",
-        "title_zh": "英伟达首席执行官表示，每年将在人工智能革命的“中心”台湾投资 1500 亿美元",
-        "summary": "Nvidia's CEO said on Wednesday the chip company plans to invest around $150 ‌billion a year in Taiwan, terming it the \"epicentre\" ‌of the AI revolution and predicting it will be the world's tech manufacturing ​hub for a long time.",
-        "summary_zh": "Nvidia 首席执行官周三表示，该芯片公司计划每年在台湾投资约 1500 亿美元，称台湾为人工智能革命的“中心”，并预测台湾将在很长一段时间内成为世界科技制造中心。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-says-taiwan-epicentre-025212712.html",
+        "title": "Shares rise, oil falls as markets weigh shaky US-Iran truce",
+        "title_zh": "股市上涨，油价下跌，因市场权衡美伊休战协议不稳定",
+        "summary": "By Tom Wilson LONDON, May 27 (Reuters) - Global shares advanced and oil prices eased on Wednesday as markets looked for signs of whether a shaky truce between the United States and Iran will be",
+        "summary_zh": "路透伦敦 5 月 27 日 - 全球股市周三上涨，油价下跌，市场寻找美国和伊朗之间不稳定的休战是否会持续的迹象。",
+        "link": "https://finance.yahoo.com/markets/articles/asian-shares-climb-oil-holds-005844032.html",
         "publisher": "Reuters",
-        "publish_time": 1779850332,
+        "publish_time": 1779881505,
         "type": "News"
     },
     {
-        "title": "Japan's Nikkei hits record high as chip-related shares jump",
-        "title_zh": "日本日经指数创历史新高，芯片相关股上涨",
-        "summary": "By Junko Fujita TOKYO, May 27 (Reuters) - Japan's Nikkei share average rose to a record high on Wednesday, as gains in index heavyweight chip-related equities outweighed losses in financials and other",
-        "summary_zh": "路透东京 5 月 27 日 - 日本日经指数周三升至历史新高，因指数权重芯片相关股票的涨幅超过了金融和其他股票的跌幅。",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/japans-nikkei-hits-record-high-022158874.html",
+        "title": "AI Weekly: predictions on jobs, $1 trillion market values",
+        "title_zh": "AI Weekly：就业预测、1万亿美元市值",
+        "summary": "STORY: From predictions on how AI will hit jobs, to two $1 trillion market values...This is AI Weekly.&nbsp;:: AI WeeklyOpenAI’s Sam Altman said the rapid development and adoption of AI won't lead to a so-called jobs apocalypse.&nbsp;And that it hadn’t claimed as many white-co...",
+        "summary_zh": "故事：从人工智能将如何影响就业的预测，到两个 1 万亿美元的市场价值...这是《AI Weekly》。&nbsp;:: AI WeeklyOpenAI 的 Sam Altman 表示，人工智能的快速发展和采用不会导致所谓的就业末日。&nbsp;而且它并没有声称有那么多白人...",
+        "link": "https://finance.yahoo.com/video/ai-weekly-predictions-jobs-1-112241002.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1779880961,
+        "type": "News"
+    },
+    {
+        "title": "Amazon invests $20 billion in UK in 2025",
+        "title_zh": "亚马逊2025年在英国投资200亿美元",
+        "summary": "Amazon invested over £15 billion ($20 billion) in Britain in ‌2025, keeping the e-commerce giant ‌on track to deliver its planned £40 billion investment ​in the three years to the end of 2027, it said on Wednesday.",
+        "summary_zh": "亚马逊周三表示，2025 年在英国投资超过 150 亿英镑（200 亿美元），这使得这家电子商务巨头有望在截至 2027 年底的三年内实现其计划的 400 亿英镑投资。",
+        "link": "https://finance.yahoo.com/economy/articles/amazon-invests-20-billion-uk-080440082.html",
         "publisher": "Reuters",
-        "publish_time": 1779848518,
+        "publish_time": 1779869080,
+        "type": "News"
+    },
+    {
+        "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
+        "title_zh": "字节跳动称人工智能推动资本支出高达 700 亿美元",
+        "summary": "(Bloomberg) -- ByteDance Ltd., the developer of TikTok and a leading force in artificial intelligence, is considering increasing its capital spending to more than double last year’s in a bid to lead the Chinese AI market and challenge the top US players abroad.Most Read from B...",
+        "summary_zh": "（彭博社）——TikTok 开发商、人工智能领军企业字节跳动正在考虑将资本支出增加至去年的两倍以上，以引领中国人工智能市场，并在海外挑战美国顶尖企业。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/bytedance-weighs-capex-much-70-075109320.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779868269,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-Europe's push to break Big Tech's grip tempered by internal debate",
+        "title_zh": "分析——欧洲试图打破大型科技公司控制的努力因内部争论而受到缓和",
+        "summary": "By Foo Yun Chee BRUSSELS, May 27 (Reuters) - European leaders are divided on how far to go in curbing Big Tech as they weigh momentous decisions over giving EU firms preferential access to mobile",
+        "summary_zh": "作者：Foo Yun Chee 布鲁塞尔，5 月 27 日（路透社）——欧洲领导人在权衡给予欧盟公司优先使用移动设备的重大决定时，对于在多大程度上遏制大型科技公司存在分歧。",
+        "link": "https://finance.yahoo.com/news/analysis-europes-push-break-big-050204429.html",
+        "publisher": "Reuters",
+        "publish_time": 1779858124,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/meta-board-member-dana-white-says-mark-zuckerberg-is-like-trump-carl-icahn-and-michael-jordan-in-one-key-way-232412652.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1779837852,
-        "type": "News"
-    },
-    {
-        "title": "S&P 500, Nasdaq, hit record closing highs on AI optimism",
-        "title_zh": "标普 500 指数、纳斯达克指数因人工智能乐观情绪创下收盘新高",
-        "summary": "STORY: It was a mostly upbeat Tuesday on Wall Street, despite a slight move downward for the Dow.",
-        "summary_zh": "故事：尽管道指小幅下跌，但华尔街周二表现基本乐观。",
-        "link": "https://finance.yahoo.com/video/p-500-nasdaq-hit-record-225144244.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1779835904,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid uncertainty over US-Iran talks",
-        "title_zh": "今日股市：由于美伊谈判存在不确定性，道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌",
-        "summary": "US stock futures wavered as investors watched for updates on negotiations between the US and Iran.",
-        "summary_zh": "由于投资者关注美国和伊朗之间谈判的最新进展，美国股指期货出现波动。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-amid-uncertainty-over-us-iran-talks-222255345.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779834175,
-        "type": "News"
-    },
-    {
-        "title": "Why the market could be in 'the most logical' bubble in history",
-        "title_zh": "为什么市场可能陷入历史上“最合乎逻辑”的泡沫",
-        "summary": "As the Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) are on track to close Tuesday's session at new records, the AI trade and rallies in chip stocks continue to be the biggest catalysts for markets trading at all-time highs.",
-        "summary_zh": "随着纳斯达克综合指数 (^IXIC) 和标准普尔 500 指数 (^GSPC) 有望在周二收盘创下新高，人工智能交易和芯片股的反弹仍然是市场交易创下历史新高的最大催化剂。",
-        "link": "https://finance.yahoo.com/video/why-the-market-could-be-in-the-most-logical-bubble-in-history-204412809.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779828252,
         "type": "News"
     }
 ]

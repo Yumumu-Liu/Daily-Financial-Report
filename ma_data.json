@@ -1,5 +1,25 @@
 [
     {
+        "title": "Firefly Stock Surges as NASA Deal Eclipses Share-Sale Warning Signs",
+        "title_zh": "随着美国宇航局交易超越股票出售警告信号，萤火虫股价飙升",
+        "summary": "Firefly Aerospace is selling 4 million shares, and has a deal to help NASA prepare for its permanent presence on the moon.",
+        "summary_zh": "Firefly Aerospace 正在出售 400 万股股票，并达成一项协议，帮助 NASA 为永久登陆月球做好准备。",
+        "link": "https://www.barrons.com/articles/firefly-stock-offering-nasa-9780c39c?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1779882060,
+        "type": "News"
+    },
+    {
+        "title": "Data centre operator IREN signs $1.6bn Dell deal for Blackwell systems at Texas AI campus",
+        "title_zh": "数据中心运营商 IREN 与戴尔签署 16 亿美元收购德克萨斯州 AI 园区 Blackwell 系统的协议",
+        "summary": "IREN plans to deploy Blackwell systems at its Childress campus, with commissioning of the new infrastructure expected in early 2027.",
+        "summary_zh": "IREN 计划在其 Childress 园区部署 Blackwell 系统，新基础设施预计于 2027 年初投入运行。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/data-centre-operator-iren-signs-102722378.html",
+        "publisher": "Verdict",
+        "publish_time": 1779877642,
+        "type": "News"
+    },
+    {
         "title": "How The Caesars Entertainment (CZR) Story Is Shifting With Takeover Talk And New Valuation Targets",
         "title_zh": "凯撒娱乐 (CZR) 的故事如何随着收购传闻和新的估值目标而发生变化",
         "summary": "Caesars Entertainment is back in focus as analysts refresh their models and tweak price targets, with some firms lifting targets by US$1 to US$7 while others trim them, including a move to US$25 from US$27 at Morgan Stanley.",
@@ -7,26 +27,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-czr-story-shifting-211505593.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1779830105,
-        "type": "News"
-    },
-    {
-        "title": "Google-backed stock jumps after new AI deal",
-        "title_zh": "新的人工智能交易后谷歌支持的股票上涨",
-        "summary": "Shares of TeraWulf (Nasdaq: WULF) surged during market hours on May 26 after the Bitcoin miner-turned-AI infrastructure company announced the acquisition of a hyperscale high-performance computing site.",
-        "summary_zh": "TeraWulf（纳斯达克股票代码：WULF）的股价在 5 月 26 日市场交易时段飙升，此前这家由比特币矿工转型为人工智能基础设施的公司宣布收购一家超大规模高性能计算网站。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/google-backed-stock-jumps-ai-210000615.html",
-        "publisher": "TheStreet",
-        "publish_time": 1779829200,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs 1MDB Deal Clarifies Settlement Costs And Valuation Picture",
-        "title_zh": "高盛 1MDB 交易澄清了和解成本和估值情况",
-        "summary": "Goldman Sachs Group (NYSE:GS) has agreed to a US$500 million settlement to resolve a 1MDB related shareholder class-action lawsuit. The case alleged that the bank misled investors about its role in the Malaysian 1MDB bond deals tied to corruption allegations.",
-        "summary_zh": "高盛集团（纽约证券交易所股票代码：GS）已同意支付 5 亿美元和解金，以解决 1MDB 相关股东集体诉讼。该案指控该银行在与腐败指控相关的马来西亚 1MDB 债券交易中的角色误导了投资者。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-1mdb-deal-clarifies-141017718.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779804617,
         "type": "News"
     },
     {
