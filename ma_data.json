@@ -1,32 +1,42 @@
 [
     {
-        "title": "S&P 500, Nasdaq, Dow Futures Rise On Hopes Of Hormuz Reopening As Trump Teases ‘Great Deal’ With Iran: BB, INFQ, NVTS, ASTS In Focus",
-        "title_zh": "特朗普调侃与伊朗达成“伟大协议”，霍尔木兹海峡重新开放，标普 500 指数、纳斯达克指数和道琼斯指数期货上涨：聚焦 BB、INFQ、NVTS、ASTS",
-        "summary": "U.S. President Donald Trump said in a post on Truth Social on Monday that negotiations with Iran are proceeding nicely, even as the military conducted “self-defense strikes” on southern Iran.",
-        "summary_zh": "美国总统唐纳德·特朗普周一在《真相社会》上发帖表示，尽管军方对伊朗南部进行了“自卫袭击”，但与伊朗的谈判进展顺利。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-014403743.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1779759843,
+        "title": "How The Caesars Entertainment (CZR) Story Is Shifting With Takeover Talk And New Valuation Targets",
+        "title_zh": "凯撒娱乐 (CZR) 的故事如何随着收购传闻和新的估值目标而发生变化",
+        "summary": "Caesars Entertainment is back in focus as analysts refresh their models and tweak price targets, with some firms lifting targets by US$1 to US$7 while others trim them, including a move to US$25 from US$27 at Morgan Stanley.",
+        "summary_zh": "随着分析师更新模型并调整价格目标，凯撒娱乐重新成为焦点，一些公司将目标价格上调 1 美元至 7 美元，而另一些公司则下调价格，其中摩根士丹利将目标价格从 27 美元调至 25 美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/caesars-entertainment-czr-story-shifting-211505593.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779830105,
         "type": "News"
     },
     {
-        "title": "Markets rejoice as deal to reopen Hormuz nears, but U.S. forces conduct ‘self-defense strikes’ on Iranian missile sites and boats laying mines",
-        "title_zh": "随着重新开放霍尔木兹海峡的协议临近，市场欢欣鼓舞，但美军对伊朗导弹基地和布设水雷的船只进行“自卫袭击”",
-        "summary": "“U.S. forces conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces.\"",
-        "summary_zh": "“美军今天在伊朗南部进行了自卫袭击，以保护我们的军队免受伊朗军队的威胁。”",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/markets-rejoice-deal-reopen-hormuz-004224772.html",
-        "publisher": "Fortune",
-        "publish_time": 1779756144,
+        "title": "Google-backed stock jumps after new AI deal",
+        "title_zh": "新的人工智能交易后谷歌支持的股票上涨",
+        "summary": "Shares of TeraWulf (Nasdaq: WULF) surged during market hours on May 26 after the Bitcoin miner-turned-AI infrastructure company announced the acquisition of a hyperscale high-performance computing site.",
+        "summary_zh": "TeraWulf（纳斯达克股票代码：WULF）的股价在 5 月 26 日市场交易时段飙升，此前这家由比特币矿工转型为人工智能基础设施的公司宣布收购一家超大规模高性能计算网站。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/google-backed-stock-jumps-ai-210000615.html",
+        "publisher": "TheStreet",
+        "publish_time": 1779829200,
         "type": "News"
     },
     {
-        "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet",
-        "title_zh": "伊朗协议前景导致油价下跌，但投资者尚未庆祝",
-        "summary": "Brent crude fell roughly 7%, and Dow Jones Industrial Average futures rallied even as investors remain skeptical about the impact of the U.S.-Iran talks.",
-        "summary_zh": "尽管投资者仍对美伊谈判的影响持怀疑态度，但布伦特原油下跌约 7%，道琼斯工业平均指数期货上涨。",
-        "link": "https://www.wsj.com/finance/oil-prices-drop-on-prospect-of-iran-deal-but-investors-arent-celebrating-yet-6d5a483a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1779744960,
+        "title": "Goldman Sachs 1MDB Deal Clarifies Settlement Costs And Valuation Picture",
+        "title_zh": "高盛 1MDB 交易澄清了和解成本和估值情况",
+        "summary": "Goldman Sachs Group (NYSE:GS) has agreed to a US$500 million settlement to resolve a 1MDB related shareholder class-action lawsuit. The case alleged that the bank misled investors about its role in the Malaysian 1MDB bond deals tied to corruption allegations.",
+        "summary_zh": "高盛集团（纽约证券交易所股票代码：GS）已同意支付 5 亿美元和解金，以解决 1MDB 相关股东集体诉讼。该案指控该银行在与腐败指控相关的马来西亚 1MDB 债券交易中的角色误导了投资者。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-1mdb-deal-clarifies-141017718.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779804617,
+        "type": "News"
+    },
+    {
+        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Tuesday Amid Renewed Hopes Around Middle East Peace Deal",
+        "title_zh": "中东和平协议重燃希望，交易所交易基金和股票期货周二盘前上涨",
+        "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.7% and the actively trad",
+        "summary_zh": "大市场交易所交易基金 SPDR S&P 500 ETF Trust (SPY) 上涨 0.7%，交易活跃",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131833095.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1779801513,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://www.barrons.com/articles/private-credit-loans-leveraged-buyouts-b2756731?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
         "publish_time": 1779692400,
-        "type": "News"
-    },
-    {
-        "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
-        "title_zh": "道琼斯期货上涨，油价下跌：特朗普称不“急于”达成伊朗协议",
-        "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
-        "summary_zh": "唐纳德·特朗普总统表示，开放霍尔木兹海峡的临时协议已接近达成，但谈判仍在继续。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1779690936,
         "type": "News"
     }
 ]
