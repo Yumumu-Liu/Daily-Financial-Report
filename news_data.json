@@ -1,22 +1,82 @@
 [
     {
-        "title": "Google Engineer Charged With Insider Trading on Polymarket",
-        "title_zh": "谷歌工程师被指控在 Polymarket 进行内幕交易",
-        "summary": "(Bloomberg) -- A Google software engineer was charged with insider trading on Polymarket, where he allegedly made more than $1 million betting on one of last year’s most popular Internet searches.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermIr...",
-        "summary_zh": "（彭博社）——一名谷歌软件工程师被指控在 Polymarket 进行内幕交易，据称他在去年最受欢迎的互联网搜索之一上投注了超过 100 万美元。彭博社的大多数读者在新加坡手上 Byju 的创始人首次入狱。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/google-engineer-charged-insider-trading-210904147.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1779927301,
+        "title": "Private equity firm EQT partners with Google Cloud for AI rollout",
+        "title_zh": "私募股权公司 EQT 与 Google Cloud 合作推出人工智能",
+        "summary": "EQT has partnered with Alphabet's ‌Google Cloud to help more than 300 companies in the Swedish private equity firm's portfolio ​accelerate the adoption of AI, the companies said on Thursday.",
+        "summary_zh": "EQT 周四表示，EQT 已与 Alphabet 的 Google Cloud 合作，帮助这家瑞典私募股权公司投资组合中的 300 多家公司加速采用人工智能。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/private-equity-firm-eqt-partners-110202950.html",
+        "publisher": "Reuters",
+        "publish_time": 1779966122,
         "type": "News"
     },
     {
-        "title": "US charges Google engineer with insider trading on Polymarket",
-        "title_zh": "美国指控谷歌工程师在 Polymarket 进行内幕交易",
-        "summary": "By Dietrich Knauth NEW YORK, May 27 (Reuters) - The U.S.",
-        "summary_zh": "作者：Dietrich Knauth 纽约，5 月 27 日（路透社）——美国",
-        "link": "https://finance.yahoo.com/news/us-charges-google-engineer-insider-235242834.html",
+        "title": "Why Tesla’s AI trainers don’t trust its self-driving tech",
+        "title_zh": "为什么特斯拉的人工智能培训师不信任其自动驾驶技术",
+        "summary": "STORY: :: Chris Kirkham, Automotive enterprise reporter\"The big promise Elon Musk has made about Full Self-Driving technology is that it will soon turn every Tesla on the road into a driverless vehicle.",
+        "summary_zh": "故事：:: Chris Kirkham，汽车企业记者“埃隆·马斯克对全自动驾驶技术做出的重大承诺是，它将很快将道路上的每辆特斯拉变成无人驾驶汽车。",
+        "link": "https://finance.yahoo.com/video/why-tesla-ai-trainers-don-104805944.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1779965285,
+        "type": "News"
+    },
+    {
+        "title": "From diapers to drugs: How India's global corporate hubs are putting AI to work",
+        "title_zh": "从尿布到药品：印度的全球企业中心如何将人工智能发挥作用",
+        "summary": "May 28 (Reuters) - Whether they are recruiting the ideal \"momfluencer\" to sell diapers or trawling through reams of data to fast-track drug launches, global centers of multinational ‌firms in India are increasingly putting AI to work in creative ways.",
+        "summary_zh": "5 月 28 日（路透社）——无论是招募理想的“妈妈影响者”来销售尿布，还是通过大量数据搜寻快速药品上市，位于印度的跨国公司全球中心都越来越多地以创造性的方式将人工智能运用到工作中。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/diapers-drugs-indias-global-corporate-103459307.html",
         "publisher": "Reuters",
-        "publish_time": 1779926458,
+        "publish_time": 1779964499,
+        "type": "News"
+    },
+    {
+        "title": "Retirement savers hit with early 2026 volatility, with many losing millionaire status",
+        "title_zh": "退休储蓄者受到 2026 年初波动的打击，许多人失去了百万富翁身份",
+        "summary": "In the first quarter of 2026, the average 401(k) balance with Fidelity Investments fell by 4% from the start of the year to $141,000, according to a new report.",
+        "summary_zh": "一份新报告显示，2026 年第一季度，富达投资的平均 401(k) 余额较年初下降了 4%，至 141,000 美元。",
+        "link": "https://finance.yahoo.com/economy/article/retirement-savers-hit-with-early-2026-volatility-with-many-losing-millionaire-status-100000870.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779962400,
+        "type": "News"
+    },
+    {
+        "title": "Micron's AI memory boom is rewriting the chip cycle playbook: Chart of the Day",
+        "title_zh": "美光的 AI 内存热潮正在改写芯片周期剧本：每日图表",
+        "summary": "Micron's rally has blown past every major memory stock boom of the past three decades.",
+        "summary_zh": "美光科技的涨幅超过了过去三十年里所有主要内存股的涨幅。",
+        "link": "https://finance.yahoo.com/markets/article/microns-ai-memory-boom-is-rewriting-the-chip-cycle-playbook-chart-of-the-day-100000456.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1779962400,
+        "type": "News"
+    },
+    {
+        "title": "ByteDance making custom CPU chips to support AI rollout, sources say",
+        "title_zh": "消息人士称，字节跳动正在制造定制 CPU 芯片以支持人工智能的推出",
+        "summary": "STORY: Chinese tech giant ByteDance is developing its own central processing units (CPUs) to support its growing AI infrastructure needs, according to three sources.The TikTok-parent's move comes as surging chip prices and prolonged supply shortages constrain its expansion pla...",
+        "summary_zh": "故事：据三位消息人士透露，中国科技巨头字节跳动正在开发自己的中央处理器 (CPU)，以支持其不断增长的人工智能基础设施需求。TikTok 母公司此举正值芯片价格飙升和长期供应短缺限制其扩张计划之际。",
+        "link": "https://finance.yahoo.com/video/bytedance-making-custom-cpu-chips-094816433.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1779961696,
+        "type": "News"
+    },
+    {
+        "title": "Micron’s Cheap Stock Valuation Seen as a Contrarian Warning Sign",
+        "title_zh": "美光科技的廉价股票估值被视为逆向警告信号",
+        "summary": "(Bloomberg) -- Micron Technology Inc. is the third-best performer in the S&P 500 Index this year and at the same time one of the least expensive stocks in the market.",
+        "summary_zh": "（彭博社）——美光科技公司是今年标准普尔 500 指数中表现第三好的股票，同时也是市场上最便宜的股票之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-cheap-stock-valuation-seen-092149451.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779960109,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Server Maker Wiwynn Sees AI Bottlenecks Beyond Memory",
+        "title_zh": "Nvidia 服务器制造商 Wiwynn 发现内存之外的 AI 瓶颈",
+        "summary": "(Bloomberg) -- Wiwynn Corp., one of the biggest makers of Nvidia Corp.",
+        "summary_zh": "（彭博社）——Wiwynn Corp.，Nvidia Corp. 最大的制造商之一。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-server-maker-wiwynn-sees-085841641.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1779958721,
         "type": "News"
     },
     {
@@ -27,66 +87,6 @@
         "link": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-drop-following-us-strikes-in-hormuz-231358131.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1779923638,
-        "type": "News"
-    },
-    {
-        "title": "Why Android takes a bigger hit than Apple from AI memory shortages",
-        "title_zh": "为什么 Android 因 AI 内存短缺而受到的打击比苹果更大",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Market Domination to break down new data showing the steepest decline in smartphone sales on record, as soaring demand for AI memory chips reshapes the semiconductor market.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 共同探讨市场主导地位，详细分析了新数据，这些数据显示，随着人工智能存储芯片需求的飙升重塑了半导体市场，智能手机销量出现了有记录以来的最大跌幅。",
-        "link": "https://finance.yahoo.com/video/why-android-takes-a-bigger-hit-than-apple-from-ai-memory-shortages-212846995.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779917326,
-        "type": "News"
-    },
-    {
-        "title": "Pentagon awards Microsoft $9.7 billion deal in bid to cut costs, end license sprawl",
-        "title_zh": "五角大楼授予微软 97 亿美元的交易，以削减成本，结束许可证蔓延",
-        "summary": "WASHINGTON, May 27 (Reuters) - The Pentagon on Wednesday announced a ‌five-year, $9.69 billion agreement to consolidate ‌Microsoft and other enterprise software licenses scattered across ​the military services, the intelligence community, and the U.",
-        "summary_zh": "华盛顿，5 月 27 日（路透社）——五角大楼周三宣布了一项为期五年、价值 96.9 亿美元的协议，以整合微软和其他分散在军事部门、情报界和美国的企业软件许可证。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/pentagon-awards-microsoft-9-7-212421204.html",
-        "publisher": "Reuters",
-        "publish_time": 1779917061,
-        "type": "News"
-    },
-    {
-        "title": "SK Hynix and Micron lead AI boom, join trillion-dollar club",
-        "title_zh": "SK海力士、美光引领人工智能热潮，加入万亿美元俱乐部",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Host Josh Lipton on Market Domination to break down the day’s leading tech stories, including SK Hynix (000660.KS) joining the Trillion-dollar club and Micron Technology (MU) impressive growth in 2026.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 与主持人乔什·利普顿 (Josh Lipton) 共同探讨市场统治，详细剖析了当天的领先科技故事，包括 SK 海力士 (000660.KS) 加入万亿美元俱乐部，以及美光科技 (MU) 在 2026 年实现令人印象深刻的增长。",
-        "link": "https://finance.yahoo.com/video/sk-hynix-and-micron-lead-ai-boom-join-trillion-dollar-club-203420020.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779914060,
-        "type": "News"
-    },
-    {
-        "title": "HP tops revenue, profit estimates as AI PC and Windows 11 refresh boost demand",
-        "title_zh": "AI PC 和 Windows 11 更新提振需求，惠普营收和利润超过预期",
-        "summary": "HP beat analysts' estimates for second-quarter revenue and profit on Wednesday, helped by strong demand for AI-optimized personal computers, but warned ‌that rising memory costs would pressure margins.",
-        "summary_zh": "得益于对人工智能优化个人电脑的强劲需求，惠普周三对第二季度收入和利润的预期超出了分析师的预期，但警告称，内存成本上涨将给利润率带来压力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hp-beats-revenue-profit-estimates-201653550.html",
-        "publisher": "Reuters",
-        "publish_time": 1779913013,
-        "type": "News"
-    },
-    {
-        "title": "Amazon is offering its AI shopping tools to retailers",
-        "title_zh": "亚马逊正在向零售商提供人工智能购物工具",
-        "summary": "Market Domination Host Josh Lipton and Yahoo Finance Senior Reporter Brooke DiPalma track several of the day's top trending stories and stock moves, including how Amazon (AMZN) is licensing and selling its \"Alexa for Shopping\" AI tool to other retailers.",
-        "summary_zh": "市场主导主持人 Josh Lipton 和雅虎财经高级记者 Brooke DiPalma 追踪了当天的几个热门故事和股票走势，包括亚马逊 (AMZN) 如何向其他零售商授权和销售其“Alexa for Shopping”人工智能工具。",
-        "link": "https://finance.yahoo.com/video/amazon-is-offering-its-ai-shopping-tools-to-retailers-193933639.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1779910773,
-        "type": "News"
-    },
-    {
-        "title": "Micron replaces mighty Walmart in the $1 trillion club",
-        "title_zh": "美光科技取代强大的沃尔玛跻身万亿美元俱乐部",
-        "summary": "Walmart gets bumped by Micron.",
-        "summary_zh": "沃尔玛遭遇美光科技的冲击。",
-        "link": "https://finance.yahoo.com/markets/article/micron-replaces-mighty-walmart-in-the-1-trillion-club-150035520.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1779894035,
         "type": "News"
     }
 ]

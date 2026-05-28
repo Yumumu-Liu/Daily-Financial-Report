@@ -1,22 +1,42 @@
 [
     {
-        "title": "IREN (IREN) Is Up 28.7% After US$1.6 Billion Nvidia Blackwell AI Infrastructure Deal - What's Changed",
-        "title_zh": "Nvidia Blackwell AI 基础设施交易完成 16 亿美元后，IREN (IREN) 上涨 28.7% - 发生了什么变化",
-        "summary": "Earlier this week, IREN Limited agreed to a roughly US$1.60 billion purchase of Dell systems using Nvidia’s Blackwell GPUs for its Childress, Texas data centers, aiming to support a previously announced five‑year US$3.40 billion managed AI cloud services contract and lift proj...",
-        "summary_zh": "本周早些时候，IREN Limited 同意斥资约 16 亿美元购买使用 Nvidia Blackwell GPU 的戴尔系统，用于其位于德克萨斯州 Childress 的数据中心，旨在支持之前宣布的为期 5 年、价值 34 亿美元的托管 AI 云服务合同并提升项目。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-28-7-us-042607172.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779942367,
+        "title": "Snowflake Surges On Earnings, AI Product Growth, New Amazon Deal",
+        "title_zh": "Snowflake 因盈利、人工智能产品增长和亚马逊新交易而飙升",
+        "summary": "Snowflake stock soared amid Q1 earnings and revenue that topped estimates. The software maker hiked full-year sales guidance.",
+        "summary_zh": "由于第一季度盈利和收入超出预期，雪花股价飙升。这家软件制造商上调了全年销售指引。",
+        "link": "https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-q12026/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1779970480,
         "type": "News"
     },
     {
-        "title": "Microsoft’s Defense Deal And Clean Energy Push Reframe Long-Term Valuation",
-        "title_zh": "微软的国防协议和清洁能源推动重塑长期估值",
-        "summary": "Microsoft, ticker NasdaqGS:MSFT, is at the center of a new $9.7b, five year enterprise software consolidation contract with the U.S. Department of Defense.",
-        "summary_zh": "微软（股票代码 NasdaqGS：MSFT）是与美国国防部签订的一项价值 9.7 亿美元、为期五年的新企业软件整合合同的核心。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-defense-deal-clean-energy-031502009.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779938102,
+        "title": "Should You Buy the Vanguard S&P 500 ETF With the Stock Market at a Record High? History Offers a Clear Answer.",
+        "title_zh": "当股市创历史新高时，您应该购买 Vanguard S&P 500 ETF 吗？历史给出了明确的答案。",
+        "summary": "The S&P 500 has a stellar track record, but cracks are forming in the current bull market.",
+        "summary_zh": "标准普尔 500 指数有着出色的业绩记录，但当前的牛市正在出现裂痕。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-vanguard-p-500-etf-112000349.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1779967200,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Apollo Global Management Facing Lawsuit From Rival Lenders Over Trinseo Financing Deals",
+        "title_zh": "市场热议：阿波罗全球管理层因盛禧奥融资交易面临竞争对手贷款人的诉讼",
+        "summary": "Apollo Global Management (APO) and other investment firms, including Angelo Gordon and Oaktree Capit",
+        "summary_zh": "Apollo Global Management (APO) 和其他投资公司，包括 Angelo Gordon 和 Oaktree Capit",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-management-104319470.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1779964999,
+        "type": "News"
+    },
+    {
+        "title": "Snowflake Raises Full-Year Product Revenue Outlook; Announces $6 Billion Spending Deal With Amazon",
+        "title_zh": "Snowflake上调全年产品收入预期；宣布与亚马逊达成 60 亿美元支出协议",
+        "summary": "Snowflake (SNOW) shares jumped early Thursday after the cloud-based data platform raised its full-ye",
+        "summary_zh": "基于云的数据平台 Snowflake (SNOW) 股价周四早盘上涨",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-raises-full-product-revenue-103515313.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1779964515,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/energy/articles/lg-energy-solution-dte-sign-023238086.html",
         "publisher": "Oilprice.com",
         "publish_time": 1779935558,
-        "type": "News"
-    },
-    {
-        "title": "SNOW Stock Rallies After-Hours On $6B Amazon AI Deal, Strong Earnings Beat",
-        "title_zh": "SNOW 股价盘后上涨，因亚马逊人工智能交易 60 亿美元，盈利强劲",
-        "summary": "Snowflake shares soared 36% after-hours on signing an AI deal with Amazon and buying Natoma, a platform for enterprise AI agents.",
-        "summary_zh": "在与亚马逊签署人工智能协议并收购企业人工智能代理平台 Natoma 后，Snowflake 股价盘后飙升 36%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/snow-stock-rallies-hours-6b-000036238.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1779926436,
-        "type": "News"
-    },
-    {
-        "title": "JPMorgan reveals spending $20 billion on an acquisition",
-        "title_zh": "摩根大通透露斥资200亿美元进行收购",
-        "summary": "Jamie Dimon said JPMorgan Chase could spend up to $20 billion on a single acquisition in the coming years. He made the comments at the Bernstein Strategic Decisions Conference in New York on Wednesday, May 27.",
-        "summary_zh": "杰米·戴蒙 (Jamie Dimon) 表示，摩根大通未来几年可能会斥资高达 200 亿美元进行单次收购。他于 5 月 27 日星期三在纽约举行的伯恩斯坦战略决策会议上发表了上述言论。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-reveals-spending-20-billion-214500990.html",
-        "publisher": "TheStreet",
-        "publish_time": 1779918300,
         "type": "News"
     }
 ]
