@@ -1,12 +1,42 @@
 [
     {
-        "title": "Dow Jones Futures: Stock Market Hits Highs On U.S.-Iran Deal; Dell Surges On Earnings",
-        "title_zh": "道琼斯期货：美伊协议推动股市触及高位；戴尔盈利飙升",
+        "title": "Dow Jones Futures Rise As Dell, NetApp Surge On Earnings; Oil Falls On U.S.-Iran Deal Hopes",
+        "title_zh": "戴尔、NetApp 盈利飙升，道琼斯期货上涨；美国与伊朗达成协议希望油价下跌",
         "summary": "The stock market rose to fresh highs Thursday on a reported interim U.S.-Iran deal. Dell soared overnight on earnings.",
         "summary_zh": "据报道，美国与伊朗达成临时协议，周四股市升至新高。戴尔的盈利隔夜飙升。",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-u-s-iran-deal-dell-netapp-earnings/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1780023886,
+        "publish_time": 1780055812,
+        "type": "News"
+    },
+    {
+        "title": "Oil falls, stocks hit records on U.S.-Iran ceasefire deal",
+        "title_zh": "美伊停火协议推动油价下跌、股市创历史新高",
+        "summary": "Brent crude is on pace for its biggest monthly drop since March 2020 as Wall Street cheers a 60-day truce with Tehran",
+        "summary_zh": "华尔街欢呼与德黑兰达成 60 天休战协议，布伦特原油有望录得 2020 年 3 月以来最大单月跌幅",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/oil-falls-stocks-hit-records-112911900.html",
+        "publisher": "Quartz",
+        "publish_time": 1780054151,
+        "type": "News"
+    },
+    {
+        "title": "Equity Futures Rise Amid US-Iran Deal Optimism",
+        "title_zh": "美伊协议乐观，股指期货上涨",
+        "summary": "US equity markets were pointing higher before the opening bell Friday, while oil prices fell as trad",
+        "summary_zh": "美国股市周五开盘前走高，而油价则因传统交易而下跌",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-rise-amid-us-111320309.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1780053200,
+        "type": "News"
+    },
+    {
+        "title": "Thursday Recap: Stocks Hit Record as Investors Cling to Hope of U.S.-Iran Deal",
+        "title_zh": "周四回顾：投资者对美伊协议抱有希望，股市创下新高",
+        "summary": "Stocks rose on reports that Iran and the U.S. had reached a preliminary deal. Meanwhile, Snowflake stock surged after the cloud-software company reported strong earnings and struck a $6 billion deal with Amazon.",
+        "summary_zh": "有报道称伊朗和美国已达成初步协议，股市上涨。与此同时，在云软件公司 Snowflake 公布强劲盈利并与亚马逊达成 60 亿美元交易后，该公司股价飙升。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-29-2026/card/thursday-recap-stocks-hit-record-as-investors-cling-to-hope-of-u-s-iran-deal-JQes58jMpmxJu08NGTj9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1780042369,
         "type": "News"
     },
     {
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-pull-025038883.html",
         "publisher": "Stocktwits",
         "publish_time": 1780023038,
-        "type": "News"
-    },
-    {
-        "title": "Oil eyes weekly drop on Hormuz deal hopes; AI sends stocks to record highs",
-        "title_zh": "霍尔木兹协议希望石油价格每周下跌；人工智能推动股市创历史新高",
-        "summary": "By Tom Westbrook SINGAPORE, May 29 (Reuters) - World stocks stood at record highs on Friday and oil futures eyed the steepest weekly drop for nearly two months as traders waited for details on a",
-        "summary_zh": "路透新加坡 5 月 29 日 - 世界股市周五创下历史新高，石油期货创下近两个月来最大单周跌幅，交易员正在等待有关细节。",
-        "link": "https://finance.yahoo.com/news/oil-eyes-weekly-drop-hormuz-020658431.html",
-        "publisher": "Reuters",
-        "publish_time": 1780020418,
-        "type": "News"
-    },
-    {
-        "title": "Jamie Dimon spills beans on his next big JPMorgan deal",
-        "title_zh": "杰米·戴蒙 (Jamie Dimon) 透露他的下一笔摩根大通 (JPMorgan) 重大交易",
-        "summary": "Every Jamie Dimon appearance gets parsed like a Federal Reserve statement. Markets move on a single sentence. Reporters strip-mine each quote for hints. That is the price of running the country's largest bank.",
-        "summary_zh": "杰米戴蒙的每一次露面都会像美联储声明一样被解析。市场因一句话而变化。记者们逐条挖掘每一条引文以寻找线索。这就是经营该国最大银行的代价。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-spills-beans-next-233700560.html",
-        "publisher": "TheStreet",
-        "publish_time": 1780011420,
-        "type": "News"
-    },
-    {
-        "title": "Dell Stock Jumps on Multibillion-Dollar Pentagon Software Deal",
-        "title_zh": "戴尔股价因价值数十亿美元的五角大楼软件交易而上涨",
-        "summary": "Dell Secures Multibillion-Dollar Pentagon Contract, Shares Surge Into Earnings",
-        "summary_zh": "戴尔获得五角大楼数十亿美元合同，股价飙升",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-jumps-multibillion-dollar-221437678.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1780006477,
         "type": "News"
     }
 ]
