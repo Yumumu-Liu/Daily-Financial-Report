@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-finance-bg text-slate-900;
+  }
+}
+
+/* Institutional Grade styling for Bento Box */
+@layer components {
+  .bento-card {
+    @apply bg-white border border-finance-divider shadow-none rounded-none overflow-hidden;
+  }
+  .bento-header {
+    @apply border-b border-finance-divider px-4 py-3 bg-slate-50 text-xs font-semibold tracking-wider text-slate-500 uppercase;
+  }
+  .bento-content {
+    @apply p-4;
+  }
+  .btn-primary {
+    @apply bg-finance-blue text-white px-4 py-2 text-sm font-medium hover:bg-blue-700 transition-colors focus:outline-none focus:ring-2 focus:ring-finance-blue focus:ring-offset-1;
+  }
+}

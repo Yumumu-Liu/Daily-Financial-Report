@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-05-05",
+    "title": "Long Crude Oil (WTI)",
+    "prompt": "Buy 3m 85-95 call spread on WTI Crude",
+    "outlook": "I have a bullish outlook on crude oil. The combination of persistent geopolitical tensions and strong global demand is creating a tight supply environment, pushing prices past recent resistance levels.",
+    "pricedIn": "The market has not fully priced in the persistence of the geopolitical risk premium and the resilience of the US economy, which continues to demand energy despite higher rates.",
+    "structure": "I expect oil to test the $90-$95 range. I will buy a 3-month WTI 85-95 call spread to limit upfront cost while capturing the upside breakout.",
+    "risk": "A sudden diplomatic resolution to geopolitical tensions or unexpectedly poor non-farm payroll data could lead to a sharp sell-off. The risk is strictly limited to the option premium paid."
+  },
+  {
+    "date": "2026-05-04",
+    "title": "Long Gold (XAU/USD)",
+    "prompt": "Buy 3m 2300-2400 call spread on Gold",
+    "outlook": "I am bullish on Gold. Focus is turning to the Federal Reserve's policy meeting and U.S. non-farm payrolls data, while a weaker dollar and cooling interest rate hike expectations provide support.",
+    "pricedIn": "While a delayed rate cut is partially priced in, the options market underestimates the structural shift and the persistent safe-haven premium from ongoing geopolitical tensions.",
+    "structure": "I expect the momentum to continue, so I will buy a 3-month XAU/USD 2300-2400 call spread to capture the upside while reducing the net premium paid.",
+    "risk": "A sudden re-acceleration in US inflation could force the Fed to hold rates higher for longer, hurting non-yielding assets. The maximum loss is strictly limited to the option premium paid."
+  }
+]

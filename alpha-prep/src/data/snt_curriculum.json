@@ -1,0 +1,283 @@
+[
+  {
+    "id": "chap1",
+    "title": "1. Fiscal vs. Monetary Policy",
+    "description": "Understanding the core drivers of macroeconomics: the impact of inflation on capital markets, and how central banks and governments steer the economy.",
+    "topics": [
+      "1.1 Inflation and Capital Market",
+      "1.2 Monetary Policy",
+      "1.3 Fiscal Policy"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 1.1 Inflation and Capital Market",
+          "body": "**1.1.1 For Stocks:** Moderate inflation can be a sign of a growing economy, which supports corporate earnings and allows companies to gradually raise prices. However, hyperinflation or unexpected high inflation hurts stocks significantly because it forces central banks to hike interest rates. This leads to higher discount rates in valuation models (drastically reducing the present value of future cash flows, especially for growth stocks) and severely compresses profit margins if companies cannot simply pass the rising input costs to consumers.\n\n**1.1.2 For Bonds:** Inflation is fundamentally the greatest enemy of fixed-income investments. Higher inflation rapidly erodes the real purchasing power of the future fixed coupon payments that bondholders are scheduled to receive. As inflation expectations rise, central banks will hike rates to combat it, which causes the prices of existing, lower-yielding bonds in the secondary market to fall sharply due to the strict inverse relationship between bond prices and yields."
+        },
+        {
+          "title": "## 1.2 Monetary Policy",
+          "body": "**1.2.1 Monetary Policy Tools:** The central bank (e.g., the Federal Reserve) primarily uses three tools to control the money supply and influence the broader economy.\n\n**1.2.2 Policy Rate:** Also known as the Federal Funds Rate, this dictates short-term borrowing costs for commercial banks.\n\n**1.2.3 Reserve Requirements:** The minimum amount of funds banks must hold against deposits, which directly affects the money multiplier.\n\n**1.2.4 Open Market Operations (OMO):** Buying or selling government bonds to inject or withdraw liquidity from the banking system.\n\n**1.2.5 Contractionary Monetary Policy:** When the economy overheats and inflation surges above target, the central bank implements contractionary policy. This involves hiking interest rates, increasing reserve requirements, and actively selling bonds (Quantitative Tightening). These actions make borrowing more expensive for corporations and consumers, thereby cooling down aggregate demand and slowing wage growth to fight inflation.\n\n**1.2.6 Expansionary Monetary Policy:** During economic recessions or severe market crises, the central bank shifts to expansionary policy to stimulate growth. This involves lowering interest rates to near zero, decreasing reserve requirements, and buying massive amounts of bonds (Quantitative Easing). By injecting liquidity into the system, the central bank encourages banks to lend, businesses to invest, and consumers to spend.\n\n**1.2.7 Limitations:** While powerful, monetary policy is a blunt instrument with significant limitations. It cannot resolve structural supply-side issues, such as broken supply chains or labor shortages. Furthermore, it may fall into a \"liquidity trap\"—a scenario where interest rates are already near zero, but consumer and corporate confidence is so low that they prefer to hoard cash rather than spend or invest, rendering further rate cuts ineffective."
+        },
+        {
+          "title": "## 1.3 Fiscal Policy",
+          "body": "**1.3.1 Fiscal Policy Tools:** Fiscal policy is driven directly by the government (the executive and legislative branches) rather than the central bank. It utilizes two main levers: Spending Tools (such as funding major infrastructure projects, defense spending, or distributing direct stimulus checks) and Revenue Tools (which primarily involve adjusting personal and corporate tax rates to influence disposable income).\n\n**1.3.2 Expansionary vs. Contractionary:** The government employs expansionary fiscal policy (increasing spending or cutting taxes) to pull the economy out of a recession by artificially boosting aggregate demand. Conversely, contractionary fiscal policy (decreasing spending or raising taxes) is utilized to pay down ballooning national debt or to intentionally cool down an economy that is growing unsustainably fast.\n\n**1.3.3 Interaction of Monetary and Fiscal Policy:** These two major policy levers can either work in tandem or directly conflict with one another. For example, during the post-pandemic recovery, highly expansionary fiscal policy (trillions in government stimulus) combined with zero interest rates led to multi-decade high inflation. This eventually forced the central bank to aggressively pivot and hike rates, creating friction between the two policies.\n\n**1.3.4 Crowding-out Effect:** This is a critical risk associated with aggressive expansionary fiscal policy. When a government runs massive budget deficits, it must borrow heavily by issuing vast amounts of Treasury bonds. This immense supply of government debt soaks up the available capital in the financial system, pushing up overall market interest rates. As a result, private corporations face significantly higher borrowing costs, effectively \"crowding out\" private sector investment and expansion.\n\n**1.3.5 Economic Indicators:** To determine the appropriate fiscal and monetary policy mix, policymakers constantly monitor key macroeconomic indicators. The most critical include GDP growth, inflation rates (CPI/PCE), and unemployment figures."
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Investopedia: Monetary Policy vs. Fiscal Policy](https://www.investopedia.com/ask/answers/100314/whats-difference-between-monetary-policy-and-fiscal-policy.asp)\n- [Federal Reserve: How does the Federal Reserve affect inflation and employment?](https://www.federalreserve.gov/faqs/money_12856.htm)\n- [Investopedia: The Crowding Out Effect Explained](https://www.investopedia.com/terms/c/crowdingouteffect.asp)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap2",
+    "title": "2. The Fed & FOMC",
+    "description": "Deep dive into the Federal Reserve System, FOMC meetings, and how their decisions transmit to the markets.",
+    "topics": [
+      "2.1 Intro",
+      "2.2 Federal Reserve System",
+      "2.3 FOMC Meeting",
+      "2.4 Monetary Policies and Target Interest Rate",
+      "2.5 How do investors trade on Fed's rate cut or rate hike?",
+      "2.6 Fed Funds Rate Outlook"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 2.1 Intro",
+          "body": "**2.1 Intro:** The Federal Reserve is the central banking system of the United States and arguably the most powerful financial institution globally. Created by Congress to provide the nation with a safer, more flexible, and more stable monetary system, its policy decisions not only dictate domestic borrowing costs but also heavily influence global capital flows, emerging market stability, and the overall liquidity of the global financial system."
+        },
+        {
+          "title": "## 2.2 Federal Reserve System",
+          "body": "**2.2 Federal Reserve System:** The system comprises the central Federal Reserve Board of Governors in Washington, D.C., and a decentralized network of 12 regional Federal Reserve Banks. The **FOMC (Federal Open Market Committee)** is the primary focus of today's financial markets. Its voting membership consists of the Board Governors and a rotating group of Reserve Bank presidents, and its core responsibilities include setting the target interest rate and deciding the scale of open market operations."
+        },
+        {
+          "title": "## 2.3 FOMC Meeting",
+          "body": "**2.3.1 Calendars, Statements, and Minutes:** The FOMC holds eight scheduled, highly anticipated meetings per year. Financial markets rigorously scrutinize the immediate policy statements released at the conclusion of the meeting, the Chairman's live press conference, and the highly detailed meeting minutes that are published three weeks later to reveal internal disagreements.\n\n**2.3.2 Dual Mandate:** These are the statutory objectives for monetary policy established by the U.S. Congress. The Federal Reserve must constantly navigate the delicate balance between these two often-competing goals to ensure long-term economic health and stability without triggering deep recessions.\n\n**2.3.3 Details of \"Stable Prices\":** The Federal Reserve officially targets an average inflation rate of 2% over the long run. They primarily track this objective via the Core Personal Consumption Expenditures (PCE) price index, which strips out highly volatile food and energy prices to reveal the true underlying trend of inflation.\n\n**2.3.4 Details of \"Maximum Employment\":** The Fed aims to ensure a robust, inclusive labor market without allowing it to overheat and trigger a wage-price spiral. This objective is not defined by a single fixed number but is qualitatively monitored through a dashboard of indicators, including Non-Farm Payrolls (NFP), the headline unemployment rate, labor force participation, and job openings (JOLTS)."
+        },
+        {
+          "title": "## 2.4 Monetary Policies and Target Interest Rate",
+          "body": "**2.4.1 Transmission Mechanism of Monetary Policies:** The process by which asset prices and general economic conditions are affected as a result of monetary policy decisions. It typically starts with changes in the central bank's target rate.\n\n**2.4.2 Federal Funds Rate:** The interest rate at which depository institutions (banks and credit unions) lend reserve balances to other depository institutions overnight on an uncollateralized basis.\n\n**2.4.3 How does Fed control the federal funds rate?** The Federal Reserve implements its monetary policy primarily by adjusting the Federal Funds Rate, which serves as the anchor for the entire yield curve, eventually cascading down to influence prime rates, corporate bond yields, mortgage rates, and consumer credit card APRs.\n\n**2.4.4 How does federal funds rate impact the markets?**\n- **1) Real Economy:** Higher rates significantly increase borrowing costs for both consumers and corporations, which inherently slows down discretionary consumption, housing market activity, and corporate capital expenditures (CapEx).\n- **2) Stock Market:** Higher risk-free rates increase the discount rate applied in standard valuation models (like the Discounted Cash Flow model). This severely compresses equity multiples (P/E ratios), disproportionately hurting high-growth technology stocks whose cash flows are further out in the future.\n- **3) Bond Market:** Due to the mathematical inverse relationship, existing bond prices fall rapidly as new yields rise across the curve.\n- **4) Gold Market:** Because gold yields no interest or dividends, higher interest rates increase the opportunity cost of holding the precious metal, typically exerting downward pressure on gold prices.\n- **5) Foreign Exchange Market:** Higher U.S. interest rates relative to the rest of the world attract yield-seeking foreign capital, which generally strengthens the value of the U.S. Dollar (USD) against other major fiat currencies."
+        },
+        {
+          "title": "## 2.5 How do investors trade on Fed's rate cut or rate hike?",
+          "body": "Institutional investors and hedge funds rarely trade the actual rate decision on the day it happens; instead, they aggressively trade the shifting **expectations** and probabilities leading up to the meeting.\n\n**2.5.1 Fed's Communications:** Traders utilize natural language processing and manual analysis to parse FOMC Policy Statements, the quarterly \"Dot Plot\" (Summary of Economic Projections), and frequent speeches by Federal Reserve Officials. They are constantly trying to gauge whether the consensus is shifting \"Hawkish\" (favoring tighter policy) or \"Dovish\" (favoring looser policy).\n\n**2.5.2 Economic Indicators:** Traders attempt to front-run the Fed's next move by relentlessly monitoring high-frequency macro data:\n- **1) Inflation and Consumption:** Headline CPI and Core PCE prints dictate the absolute urgency of the Fed's inflation-fighting measures.\n- **2) Job Market:** NFP prints and weekly unemployment claims signal the underlying strength of the economy or warn of an impending recession.\n- **3) Domestic Output and Inventory:** Quarterly GDP growth and inventory build-ups.\n- **4) Real Estate:** Because housing is highly sensitive to mortgage rates, it serves as a crucial leading indicator of how effectively monetary policy is transmitting into the real economy."
+        },
+        {
+          "title": "## 2.6 Fed Funds Rate Outlook",
+          "body": "**2.6 How do we see fed funds rate goes in 2025?** Analyzing the historical trajectory of rate hike cycles and current macroeconomic data to project the future path of the federal funds rate. The primary debate centers on whether the Federal Reserve can successfully execute a \"soft landing\"—cutting rates just in time to normalize policy without triggering a severe labor market contraction or a prolonged recession."
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Federal Reserve: What is the FOMC and how does it work?](https://www.federalreserve.gov/monetarypolicy/fomc.htm)\n- [WSJ: Nick Timiraos - The Fed Whisperer's Coverage](https://www.wsj.com/news/author/nick-timiraos)\n- [CME Group: FedWatch Tool (Real-time rate probabilities)](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap3",
+    "title": "3. Fixed Income, Rates & Macro",
+    "description": "The mechanics of the bond market: products, yield curves, and measuring interest rate risk.",
+    "topics": [
+      "3.1 Rates Products (Treasuries, Swaps, TIPS)",
+      "3.2 Categories of Bonds",
+      "3.3 Basic Terms (Bid, Ask, Spread)",
+      "3.4 Bond Price, Yield To Maturity (YTM)",
+      "3.5 Term Structure and Yield Curves",
+      "3.6 Duration & PVBP/DV01"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 3.1 Products with Regard to Rates",
+          "body": "**3.1.1 Treasuries:** U.S. government debt securities widely considered free of default risk. They serve as the foundational benchmark for pricing almost all other financial assets globally. They include short-term Treasury Bills (T-Bills), medium-term Treasury Notes (T-Notes), and long-term Treasury Bonds (T-Bonds).\n\n**3.1.2 Interest Rate Swaps (IRS):** A highly liquid OTC derivative contract where two parties agree to exchange future interest rate cash flows based on a specified principal amount. Typically, one party pays a fixed interest rate and receives a floating rate (like SOFR), allowing institutions to hedge interest rate exposure.\n\n**3.1.3 Swaptions:** An option granting the right, but not the obligation, to enter into an underlying interest rate swap. A 'payer swaption' gives the buyer the right to pay fixed and receive floating. They are heavily used by mortgage servicers to hedge convexity risk.\n\n**3.1.4 TIPS (Treasury Inflation-Protected Securities):** U.S. government bonds designed to protect investors from inflation. The principal value of TIPS is indexed to the Consumer Price Index (CPI). When inflation rises, the principal increases, causing the fixed coupon payments to rise as well.\n\n**3.1.5 Money Markets:** The segment of the financial market in which instruments with high liquidity and very short maturities (overnight to one year) are traded. Participants use it for short-term borrowing and lending via commercial paper, repos, and T-Bills."
+        },
+        {
+          "title": "## 3.2 Categories of Bonds",
+          "body": "**3.2.1 Corporate Bonds:** Debt securities issued by corporations to raise capital. Because they carry a higher risk of default than government bonds, they offer a higher yield (the credit spread). They are split into Investment Grade (high quality) and High Yield (junk bonds).\n\n**3.2.2 Treasury Bonds:** Sovereign debt backed by the full faith and credit of the U.S. government. They represent the risk-free rate in financial modeling and serve as a safe haven asset during times of macroeconomic stress.\n\n**3.2.3 Municipal Bonds:** Debt issued by states or cities to finance capital expenditures. Their primary appeal is their tax-advantaged status; the interest income is often exempt from federal taxes, making them attractive to high-net-worth investors.\n\n**3.2.4 Agency Bonds:** Bonds issued by a U.S. government-sponsored enterprise (GSE) like Fannie Mae. While not explicitly guaranteed by the U.S. Treasury, they carry an implicit guarantee, making them very low risk."
+        },
+        {
+          "title": "## 3.3 Basic Terms",
+          "body": "**3.3.1 Bid Price:** The Bid price represents the highest price that a dealer or market maker is willing to pay to buy a specific security from an investor at a given moment. It reflects the immediate demand side of the market.\n\n**3.3.2 Ask/Offer Price:** The Ask (or Offer) price is the lowest price at which the dealer is willing to sell that same security to an investor. The difference between the Ask and the Bid is known as the bid-ask spread, which serves as the primary transaction cost for liquidity and the dealer's profit margin.\n\n**3.3.3 Basis Point (BPS):** A standard unit of measure for interest rates. One basis point is equal to 1/100th of 1% (0.01%). A rate hike from 5.00% to 5.25% is a 25 basis point increase.\n\n**3.3.4 Tick Price:** The minimum upward or downward movement in the price of a security. In the Treasury market, prices are often quoted in fractions like 1/32nds."
+        },
+        {
+          "title": "## 3.4 Simple vs. Compound Interest",
+          "body": "**3.4.1 Simple Interest:** Interest calculated solely on the principal amount. It does not account for interest accumulating over time. It is rarely used in advanced fixed income pricing.\n\n**3.4.2 Compounding Interest:** Compound interest is calculated on both the principal and the accumulated interest from previous periods.\n\n**3.4.3 Continuous Compounding:** Assumes interest is compounded an infinite number of times per year, using the natural logarithm base $e$ ($Pe^{rt}$), which is crucial for derivatives pricing like the Black-Scholes model.\n\n**3.4.4 Bond Price and Yield To Maturity (YTM):** Yield to Maturity is the internal rate of return (IRR) an investor earns if they hold the bond to maturity. There is a strict inverse relationship: as market yields rise, the price of existing bonds falls."
+        },
+        {
+          "title": "## 3.5 Term Structure and Yield Curves",
+          "body": "**3.5.1 Shapes of the Yield Curve:** The yield curve is a graphical representation plotting the interest rates of bonds having equal credit quality but differing maturity dates.\n- **Normal Curve:** Slopes upward, indicating that long-term debt carries a higher yield to compensate investors for the greater risk of inflation and duration over time.\n- **Flat Curve:** All maturities have similar yields, often signaling a transition period in the economy.\n- **Inverted Curve:** Short-term rates are higher than long-term rates. This is a notorious and highly accurate historical leading indicator of an impending economic recession, as it implies the market expects the central bank to aggressively cut rates in the future to stimulate a failing economy.\n\n**3.5.2 Curve Movements (Slope Changes):** The yield curve is dynamic and rarely moves in perfect parallel shifts.\n- **Bull Steepener:** Short-term rates fall faster than long-term rates (often occurs when the central bank aggressively cuts rates to save a slowing economy).\n- **Bear Steepener:** Long-term rates rise faster than short-term rates (often driven by long-term inflation fears causing bond sell-offs).\n- **Bull Flattener:** Long-term rates fall faster than short-term rates (long-term economic outlook is gloomy, increasing demand for safe long-term bonds).\n- **Bear Flattener:** Short-term rates rise faster than long-term rates (typical when the central bank hikes rates to fight inflation).\n\n**3.5.3 Curvature Movement:** Also known as 'Butterfly' movements, this occurs when the medium-term rates (the belly of the curve) shift differently compared to the short and long-term rates (the wings).",
+          "graph": "yield-curve"
+        },
+        {
+          "title": "## 3.6 How to Measure Interest Rate Risk",
+          "body": "**3.6.1 Definition & Purpose:** Interest rate risk is the risk that a bond's price will fall due to rising interest rates. The primary tool to measure this risk is Duration.\n\n**3.6.3 Macaulay Duration:** The weighted average time (in years) it takes for an investor to receive the bond's cash flows. It helps understand how long it takes to recoup an investment but isn't a direct measure of price sensitivity."
+        },
+        {
+          "title": "## 3.7 Modified Duration",
+          "body": "**3.7 Modified Duration:** An extension of Macaulay Duration that measures the bond's exact price sensitivity to a 1% (100 bps) change in yield. If Modified Duration is 5, a 1% rate increase causes a 5% price drop."
+        },
+        {
+          "title": "## 3.8 PVBP / DV01",
+          "body": "**3.8 PVBP / DV01:** The Dollar Value of an 01 (DV01) measures the absolute dollar change in the price of a bond for a single basis point (0.01%) change in yield, giving traders their exact dollar risk exposure."
+        },
+        {
+          "title": "## 3.9 Rates Trade Idea Sample",
+          "body": "**Rates Trade Idea Sample:** A classic macro trade is the '2s10s Curve Flattener'. If a trader believes the Fed will hike rates aggressively, they expect short-term rates to rise faster than long-term rates. They would short 2-year Treasury futures and buy 10-year Treasury futures."
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Investopedia: Understanding Duration and Convexity](https://www.investopedia.com/terms/d/duration.asp)\n- [CFI: Treasury Bills, Notes, and Bonds](https://corporatefinanceinstitute.com/resources/fixed-income/treasury-bills-notes-and-bonds/)\n- [Investopedia: What Is a Yield Curve?](https://www.investopedia.com/terms/y/yieldcurve.asp)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap4",
+    "title": "4. FX Products",
+    "description": "Understanding Foreign Exchange markets: Spot, Forwards, and Options.",
+    "topics": [
+      "4.1 Spot Market",
+      "4.2 Forward Market",
+      "4.3 FX Options"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 4.1 Spot Market",
+          "body": "**4.1 Spot Market:** The spot FX market involves the immediate exchange of two currencies at the prevailing market rate. Standard settlement for major pairs (like EUR/USD) is T+2 (two business days after execution). It is the most liquid financial market globally."
+        },
+        {
+          "title": "## 4.2 Forward Market",
+          "body": "**4.2 Forward Market:** An OTC contract to exchange currencies at a predetermined rate on a specific future date. Forwards are heavily used by multinational corporations to hedge future currency risk. Forward rates are determined mathematically by the interest rate differentials between the two countries (Interest Rate Parity)."
+        },
+        {
+          "title": "## 4.3 FX Options",
+          "body": "**4.3 FX Options:** A derivative giving the buyer the right, but not the obligation, to exchange currencies at a pre-agreed strike price. It acts as an insurance policy. A company can buy a EUR put to protect against Euro depreciation while retaining upside."
+        },
+        {
+          "title": "## 4.4 Corporate FX Solutions",
+          "body": "**4.4 Corporate FX Solutions:** Structured hedging solutions provided by bank sales desks. Instead of plain forwards, banks structure 'Target Redemption Forwards' or 'Seagull Options' to reduce upfront premium costs for corporate clients while providing a customized corridor of protection."
+        },
+        {
+          "title": "## 4.5 FX Trading Strategies",
+          "body": "**4.5.1 G10 FX Trading:** G10 currencies (like USD, EUR, JPY, GBP) are the most heavily traded and liquid in the world. Trading G10 FX is fundamentally driven by macro divergence—specifically, tracking which central bank is hiking or cutting rates faster than the others. Volatility is generally lower, but the trades can handle immense size.\n\n**4.5.2 Emerging Market (EM) FX Trading:** Trading EM currencies (like BRL, ZAR, TRY) involves much higher yields but significantly higher risk. These markets are heavily influenced by commodity prices, domestic political instability, and US Dollar strength. A strong USD often crushes EM currencies because it makes their dollar-denominated sovereign debt harder to service."
+        },
+        {
+          "title": "## 4.6 The Carry Trade",
+          "body": "**4.6.1 Mechanics:** A staple macro trade in FX is the Carry Trade. A trader borrows a currency with a very low interest rate (the funding currency, e.g., JPY) and invests in a currency with a high interest rate (the target currency, e.g., MXN). The trader profits from the interest rate differential as long as the target currency does not depreciate significantly."
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Investopedia: Currency Carry Trade](https://www.investopedia.com/terms/c/currencycarrytrade.asp)\n- [CFI: Forward Exchange Contract](https://corporatefinanceinstitute.com/resources/derivatives/forward-exchange-contract/)\n- [CME Group: FX Options Guide](https://www.cmegroup.com/education/courses/introduction-to-fx-options.html)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap5",
+    "title": "5. Derivatives",
+    "description": "The mechanics of derivatives: OTC vs Exchange-traded, Option Strategies, and the Greeks.",
+    "topics": [
+      "5.2 Types of Derivatives (Forward, Futures, Swap, Option)",
+      "5.3 Typical Option Strategies (Put Spread, Collar)",
+      "5.3.4 The Greeks"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "5.1 Must-know FICC Technicals Recap",
+          "body": "**5.1 FICC Fundamentals:** Fed Policy manipulates the Fed Fund Rate, anchoring the Yield Curve. Bond Pricing dictates that prices fall when yields rise, measured by Duration. High Yield bonds carry higher default risks than Investment Grade, trading at wider credit spreads. In FX, currencies operate on a Free Float (market-driven) or a Fixed Float (pegged by the central bank)."
+        },
+        {
+          "title": "5.2 Types of Derivatives",
+          "body": "**5.2 Core Derivative Types:** \n1. **Forward (OTC):** A highly customizable, bilateral contract with counterparty credit risk.\n2. **Futures:** Standardized contracts traded on exchanges (like CME) requiring daily margin, eliminating counterparty risk.\n3. **Warrant (OTC):** Similar to an option but issued directly by the company, diluting equity when exercised.\n4. **Swap (OTC):** An agreement to exchange a series of cash flows, such as fixed-for-floating Interest Rate Swaps.\n5. **Option:** Grants the right, but not the obligation, to buy (Call) or sell (Put)."
+        },
+        {
+          "title": "5.3 Typical Option Strategy",
+          "body": "**5.3.1 Put Spread Collar (Real Example):** A highly structured hedging strategy often used by corporate executives holding massive amounts of company stock. It involves buying a Put Spread (buying a high-strike put and selling a low-strike put) for downside protection, and simultaneously selling an Out-of-The-Money Call to completely finance the cost of the puts. This creates a \"Zero-Cost\" collar with a capped floor and a capped ceiling.\n\n**5.3.2 Put Spread:** Also known as a Bear Put Spread. Instead of just buying a naked put option (which can have a very expensive upfront premium), the investor buys a put and sells another put at an even lower strike price. The premium received from selling the lower put subsidizes the cost of the trade, but it rigidly caps the maximum profit if the underlying asset crashes.\n\n**5.3.3 Collar:** A traditional risk-reversal strategy. An investor holding a long position in an asset buys an Out-of-The-Money Put option to protect against a catastrophic drop in price, and simultaneously sells an Out-of-The-Money Call option. The income generated from selling the call pays for the put, effectively fencing the investment's value within a specific price range."
+        },
+        {
+          "title": "5.3.4 The Greeks Deep Dive",
+          "body": "**Delta (Directional Risk):** Delta measures the absolute change in the option's premium for a $1 change in the price of the underlying asset. A Call option has a positive Delta (0 to 1), while a Put option has a negative Delta (0 to -1). For example, if a Call has a Delta of 0.50, and the stock goes up by $1, the option's price will increase by $0.50.\n\n**Gamma (Convexity / Delta's Rate of Change):** Gamma measures how fast Delta changes when the underlying stock moves by $1. It represents the \"acceleration\" of the option's price. Gamma is mathematically highest for At-The-Money (ATM) options because a small move in the stock can instantly flip the option from Out-of-The-Money to In-The-Money, causing Delta to swing violently.\n\n**Theta (Time Decay):** Theta measures the sensitivity of the option's premium against the passage of time (time to expiry). Because options are wasting assets, Theta is almost always a negative number for option buyers. It indicates exactly how much value the option will lose each day simply because one day has passed, assuming all other market factors remain perfectly flat.\n\n**Vega (Sensitivity to Implied Volatility):** Vega measures the absolute change in the option's premium for a 1% change in Implied Volatility (IV). When macroeconomic panic strikes (like a sudden war or banking crisis), Implied Volatility spikes massively. High Vega causes option premiums to skyrocket during these panics, making options incredibly expensive to buy but highly profitable if you already own them."
+        },
+        {
+          "title": "5.4 Fixed Income Derivatives",
+          "body": "**5.4.1 Bond Forward:** An over-the-counter (OTC) agreement between two parties to buy or sell a specific bond at a predetermined price on a specific future date. It is heavily used by institutional investors to lock in current yields for future cash flows, completely hedging against the risk of interest rates dropping before they have the cash to invest.\n\n**5.4.2 Interest-Rate Swap (IRS):** The most heavily traded derivative in the world. An IRS allows two parties to exchange interest rate cash flows, typically swapping a fixed-rate payment for a floating-rate payment (like SOFR). This allows banks and corporations to manage their asset-liability duration mismatch without having to sell their underlying physical loans or bonds.\n\n**5.4.3 Asset-Backed Securities (ABS):** A structured financial product created by pooling together highly illiquid assets—such as auto loans, credit card debt, or student loans—and packaging them into tradable, interest-bearing securities. This process, known as securitization, provides banks with fresh capital to issue new loans while giving investors access to diversified credit risk.\n\n**5.4.4 Mortgage-Backed Securities (MBS):** A specific type of ABS where the underlying collateral consists exclusively of residential or commercial real estate mortgages. A unique and critical feature of MBS is 'Prepayment Risk'. If interest rates fall significantly, homeowners will refinance their mortgages. This means MBS investors receive their principal back much earlier than expected, forcing them to reinvest that cash in a newly lower-yielding market.\n\n**5.4.5 Collateralized Debt Obligation (CDO):** A complex structured finance product that pools together various cash flow-generating assets (including MBS, corporate bonds, or bank loans) and then slices this pool into different risk tiers, called 'Tranches'. The Senior Tranche (usually AAA-rated) is the safest as it gets paid first. The Equity Tranche is the riskiest; it offers the highest yield but absorbs the very first wave of defaults in the underlying pool.\n\n**5.4.6 Credit Default Swap (CDS):** A financial derivative that acts like an insurance policy against a credit event (like a default or bankruptcy). The buyer of a CDS makes regular premium payments to the seller. If the underlying corporate bond or sovereign debt defaults, the seller must compensate the buyer for the loss. CDS spreads are a real-time market gauge of a company's default probability.\n\n**5.4.7 Bond Option:** An option contract where the underlying asset is a physical bond rather than a stock. A Bond Call option gives the buyer the right to buy the bond at a specified price (useful if the investor believes interest rates will fall, driving bond prices up). A Bond Put gives the right to sell the bond, acting as a hedge against rising interest rates."
+        },
+        {
+          "title": "5.5 Advanced FICC Derivatives: Options & Black Scholes",
+          "body": "**5.5.1 Market Participants:** The options market consists of Hedgers (using options like insurance to protect existing portfolios), Speculators (using leverage to bet on directional moves), and Market Makers (providing liquidity while attempting to remain delta-neutral).\n\n**5.5.2 Option Classifications:** Moneyness defines intrinsic value: In-The-Money (ITM) has value, At-The-Money (ATM) strike equals spot, Out-of-The-Money (OTM) has only time value.\n\n**5.5.3 Black Scholes Model:** The fundamental pricing model assuming underlying prices follow a log-normal distribution. The Five Factors are: Spot Price, Strike Price, Time to Expiry, Implied Volatility, and Risk-Free Rate."
+        },
+        {
+          "title": "Recommended Reading",
+          "body": "- [Investopedia: Options Basics Tutorial](https://www.investopedia.com/options-basics-tutorial-4583012)\n- [CME Group: Introduction to Interest Rate Swaps](https://www.cmegroup.com/education/courses/introduction-to-interest-rate-swaps.html)\n- [Corporate Finance Institute: Black-Scholes Model](https://corporatefinanceinstitute.com/resources/derivatives/black-scholes-merton-model/)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap6",
+    "title": "6. Fixed Income & Rates Research Framework",
+    "description": "How to analyze and research Fixed Income and Rates, focusing on economic fundamentals and the US Treasury framework.",
+    "topics": [
+      "6.1 Fixed Income & Rates Research Framework",
+      "6.2 Framework of US Treasuries",
+      "6.4 Market News to Follow"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 6.1 Fixed Income & Rates Research Framework",
+          "body": "**6.1.1 Economic Fundamentals:** The foundation of Rates research. Analysts obsess over leading indicators that drive central bank mandates. This includes GDP growth trajectories, inflation metrics (CPI, Core PCE), and labor market health (Non-Farm Payrolls, Unemployment Rate, Wage Growth). Strong fundamentals generally drive yields higher as the market anticipates rate hikes.\n\n**6.1.2 Policies (Monetary & Fiscal):** Monetary policy (the Fed) directly controls the short end of the yield curve via the Federal Funds Rate and quantitative tightening/easing. Fiscal policy (the government) influences the long end via the supply of Treasury issuance. Massive deficit spending increases bond supply, which can drive down prices and push long-term yields higher.\n\n**6.1.3 Liquidity of the Money Market:** Examining the plumbing of the financial system. This involves monitoring the Reverse Repo facility, bank reserves, and SOFR rates to ensure there is enough cash in the system to absorb new Treasury issuance without causing a liquidity crisis."
+        },
+        {
+          "title": "## 6.2 Framework of US Economic Fundamentals",
+          "body": "**6.2 US Treasury Framework:** US Treasuries are the ultimate safe-haven asset and the global benchmark for risk-free rates. The core of US Treasury research is understanding how macroeconomic data surprises alter the market's expectation of the Fed's 'terminal rate' (the peak interest rate of a cycle). A hotter-than-expected CPI print immediately causes the market to price in 'higher for longer' rates, triggering a sell-off in Treasuries."
+        },
+        {
+          "title": "## 6.3 Case Analysis: 2024 Retrospect and 2025 Outlook",
+          "body": "**6.3.1 General Post-Pandemic Review:** Following the massive fiscal stimulus and zero-interest-rate policy of 2020-2021, inflation surged to multi-decade highs. The Fed responded with the most aggressive rate hiking cycle in modern history, taking rates from 0% to over 5%. This caused historic losses in the bond market (as yields soared, prices crashed).\n\n**6.3.2 Detailed Daily Review:** Trading desks conduct daily reviews of yield curve shifts in response to fresh data. In 2024, the narrative shifted from 'inflation panic' to 'soft landing'.\n\n**6.3.3 Short-term Outlook:** The short-term outlook heavily relies on whether inflation smoothly glides down to the 2% target, allowing the Fed to execute rate cuts without the economy entering a recession."
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Investopedia: Economic Indicators](https://www.investopedia.com/terms/e/economic_indicator.asp)\n- [Federal Reserve: Monetary Policy Report](https://www.federalreserve.gov/monetarypolicy/mpr_default.htm)\n- [CFI: Macroeconomics](https://corporatefinanceinstitute.com/resources/economics/macroeconomics/)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chap7",
+    "title": "7. US Treasuries, Yield Curves and Derivatives",
+    "description": "Deep dive into US Treasury Yield Curves, what drives the long-end rates, and how hedge funds trade them.",
+    "topics": [
+      "7.1 Yield Curve Shapes (Normal, Steep, Inverted)",
+      "7.2 Drivers of Long-Term Yields (Real Yields, Inflation Exp, Term Premium)",
+      "7.4 Hedge Fund Trading Strategies (Macro, Relative Value, Basis Trade)"
+    ],
+    "content": {
+      "sections": [
+        {
+          "title": "## 7.1 Yield Curve Shapes and Historical Cases",
+          "body": "**7.1.1 Normal Curve:** A normal yield curve slopes upward, reflecting a healthy growing economy. It compensates investors with higher yields for taking on the increased duration and inflation risk associated with locking up capital for a longer time.\n\n**7.1.2 Steep Curve (Bull Steepener):** Occurs when short-term rates fall much faster than long-term rates.\n- **Case 1 (Post-Dotcom Bubble 2001-2003):** After the tech bubble burst, the Fed aggressively slashed the Federal Funds Rate from 6.5% down to 1.0% to prevent a deep recession. The front end of the yield curve collapsed, creating a massive Bull Steepener. [Read: Federal Reserve Cuts Interest Rates (Investopedia)](https://www.investopedia.com/terms/f/federalfundsrate.asp)\n- **Case 2 (2008 Global Financial Crisis):** Similar to 2001, the Fed cut rates effectively to zero (ZIRP) and initiated Quantitative Easing, steepening the curve to save the banking system.\n\n**7.1.3 Steep Curve (Bear Steepener):** Occurs when long-term rates rise much faster than short-term rates.\n- **Case 1 (Taper Tantrum 2013):** Fed Chair Ben Bernanke merely hinted that the Fed might start slowing down (tapering) its bond purchases. The market panicked, assuming the era of easy money was over. Long-term bond prices crashed, and the 10-year yield spiked by over 100 bps in a few months. [Read: The 2013 Taper Tantrum Explained (Investopedia)](https://www.investopedia.com/terms/t/taper-tantrum.asp)\n- **Case 2 (2021 Inflation Fears):** As the post-COVID economy reopened and supply chains choked, inflation expectations surged. Investors dumped long-term bonds, demanding higher yields to compensate for the upcoming inflation, causing a sharp Bear Steepener.\n\n**7.1.4 Inverted Curve:** Short-term rates rise higher than long-term rates. Historically the most reliable predictor of a recession.\n- **Case 1 (2000 Dotcom Bubble):** The Fed hiked rates to cool down the euphoric tech market. The curve inverted as the market correctly predicted these high short-term rates would eventually break the economy and force future rate cuts.\n- **Case 2 (2022 to Soft Landing):** To fight 9% inflation, the Fed hiked short rates to 5.25%. The 10-year yield stayed lower (around 3.5% - 4.5%) because the market believed the Fed's aggressive action would successfully kill inflation and eventually force them to cut rates, leading to a deep and prolonged inversion. [Read: What is an Inverted Yield Curve? (Investopedia)](https://www.investopedia.com/terms/i/invertedyieldcurve.asp)"
+        },
+        {
+          "title": "## 7.2 Drivers of Long-Term Yields (10Y/30Y)",
+          "body": "**7.2.1 Real Yields:** The \"true return\" on a bond. It represents the actual purchasing power an investor gains after stripping out the illusion of inflation. It is the foundational cost of capital for the global economy.\n\n**7.2.2 Inflation Expectations:** The \"price compensation.\" Lenders demand higher nominal yields if they expect inflation to erode the value of the dollars they will be paid back with in 10 or 30 years.\n\n**7.2.3 Break-Even Inflation (BEI) & TIPS:** BEI is the market's real-time mirror for inflation expectations. It is calculated by subtracting the yield of a TIPS (Treasury Inflation-Protected Security, which inherently pays the Real Yield) from the yield of a standard nominal Treasury bond of the exact same maturity. If 10Y Nominal is 4% and 10Y TIPS is 1.5%, the market expects 2.5% average inflation over the next decade.\n\n**7.2.4 Term Premium:** The \"risk compensation.\" It is the extra yield investors demand to hold a long-term bond instead of just continuously rolling over short-term 3-month bills. It compensates for the sheer uncertainty of locking up money for decades.\n\n**7.2.5 The Yield Framework:** Therefore, the holy grail equation for fixed income analysts is: **Nominal Yield = Real Yield + Expected Inflation + Term Premium**."
+        },
+        {
+          "title": "## 7.3 Case Analysis: Tariffs and Yield Movements",
+          "body": "**Case 1: Treasury ETFs around Trump's Inauguration:** When sweeping tariffs were proposed, the market immediately priced in a resurgence of domestic inflation (as tariffs act as a tax on imported goods, raising consumer prices). Treasury ETFs like TLT (which tracks 20+ year Treasuries) sold off heavily, meaning prices dropped and yields spiked, as investors demanded higher compensation for the expected inflation.\n\n**Case 2: 10-Year Treasury Yield Attribution:** Analyzing the 10-year yield movement before and after the tariff announcements reveals that the spike in the nominal yield was almost entirely driven by a spike in the \"Inflation Expectation\" component (the BEI), rather than an increase in the Real Yield. [Read: How Tariffs Impact Inflation and Interest Rates (Tax Foundation, 2024)](https://taxfoundation.org/research/all/federal/tariffs-inflation-interest-rates/)"
+        },
+        {
+          "title": "## 7.4 How Hedge Funds Trade the Yield Curve",
+          "body": "**7.4.1 Core Instruments:** Why do hedge funds use Interest Rate Swaps (IRS) and Treasury Futures instead of physical bonds? Because physical cash bonds tie up 100% of the capital. Derivatives require only a tiny fraction of upfront margin, allowing hedge funds to apply massive leverage (sometimes 50x or 100x) to amplify the returns from tiny basis point movements in yields.\n\n**7.4.2.1 Macro Strategy:** Taking massive, directional bets on the absolute level of interest rates. If a macro fund manager believes the economy is running too hot and the Fed will hike rates, they will outright short Treasury futures. If yields rise, bond futures prices fall, and the short position profits.\n\n**7.4.2.2 Relative Value (RV) Strategy:** Betting on the relationship between two points on the yield curve, completely ignoring the absolute direction of the market. A classic RV trade is the \"Curve Steepener\": A fund buys 2-year Treasury futures and shorts 10-year Treasury futures. As long as the spread between the 10-year and 2-year widens, the fund makes money, regardless of whether the Fed hikes or cuts rates.\n\n**7.4.2.3 Basis Trade:** A highly leveraged, market-neutral arbitrage strategy. The fund buys the physical cash Treasury bond and simultaneously shorts the equivalent Treasury future. The goal is to capture the tiny pricing discrepancy (the basis) between the cash market and the futures market as they converge at expiration. Because it is perfectly hedged against directional risk, funds use extreme leverage, making them vulnerable to sudden liquidity shocks. [Read: The Treasury Basis Trade Explained (Federal Reserve, 2023)](https://www.federalreserve.gov/econres/notes/feds-notes/recent-developments-in-the-hedge-fund-treasury-basis-trade-20230830.html)"
+        },
+        {
+          "title": "### Recommended Reading",
+          "body": "- [Investopedia: Term Premium Definition](https://www.investopedia.com/terms/t/termpremium.asp)\n- [CFI: Fixed Income Arbitrage](https://corporatefinanceinstitute.com/resources/wealth-management/fixed-income-arbitrage/)\n- [Investopedia: What Is Breakeven Inflation?](https://www.investopedia.com/terms/b/breakeveninflation.asp)"
+        }
+      ]
+    }
+  }
+]
