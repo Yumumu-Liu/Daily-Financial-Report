@@ -1,25 +1,5 @@
 [
     {
-        "title": "Could SpaceX & other mega IPOs crowd out the stock market?",
-        "title_zh": "SpaceX 和其他大型 IPO 能否挤出股市？",
-        "summary": "Deutsche Bank chief global strategist Binky Chadha joins Yahoo Finance to explain how mega initial public offerings (IPOs) from Anthropic (ANTH.PVT), SpaceX (SPAX.PVT), and OpenAI (OPAI.PVT) could affect the broader markets (^DJI, ^GSPC, ^IXIC).",
-        "summary_zh": "德意志银行首席全球策略师 Binky Chadha 与雅虎财经一起解释 Anthropic (ANTH.PVT)、SpaceX (SPAX.PVT) 和 OpenAI (OPAI.PVT) 的大型首次公开募股 (IPO) 如何影响更广泛的市场 (^DJI、^GSPC、^IX...",
-        "link": "https://finance.yahoo.com/video/could-spacex-other-mega-ipos-120000376.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780056000,
-        "type": "News"
-    },
-    {
-        "title": "Markets watch Iran ceasefire talks as investors assess mega IPO valuations: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "title_zh": "随着投资者评估大型 IPO 估值，市场关注伊朗停火谈判：道琼斯、标准普尔、纳斯达克、华尔街期货",
-        "summary": "U. S. equity futures traded in a narrow range on Friday as investors monitored reports suggesting progress in negotiations aimed at extending the ceasefire between the United States and Iran.",
-        "summary_zh": "周五美国股指期货窄幅波动，因投资者关注有关旨在延长美国和伊朗停火协议的谈判取得进展的报告。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/markets-watch-iran-ceasefire-talks-100045586.html",
-        "publisher": "InvestorsHub",
-        "publish_time": 1780048845,
-        "type": "News"
-    },
-    {
         "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
         "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
         "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
         "publisher": "Zacks",
         "publish_time": 1775139000,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX Eyes IPO as Market Conditions Grow More Uncertain. What the Charts Show.",
+        "title_zh": "随着市场状况变得更加不确定，SpaceX 考虑进行 IPO。图表显示什么。",
+        "summary": "The prospect of a SpaceX IPO has become a key focal point for markets, and any delay tied to deteriorating conditions could carry broader implications.",
+        "summary_zh": "SpaceX 首次公开募股的前景已成为市场的主要焦点，任何因情况恶化而导致的延误都可能带来更广泛的影响。",
+        "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1774971420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes IPO: A Blockbuster on the Way?",
+        "title_zh": "ETF 成为 Anthropic Eyes IPO 焦点：重磅炸弹即将到来？",
+        "summary": "Anthropic's potential IPO could be a $60B blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in the tech space.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会成为 60B 美元的重磅炸弹。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-ipo-120000354.html",
+        "publisher": "Zacks",
+        "publish_time": 1774872000,
         "type": "News"
     }
 ]
