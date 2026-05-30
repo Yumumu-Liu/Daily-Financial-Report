@@ -40,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Wall Street hits new closing highs on tech strength, Middle East deal hopes",
-        "title_zh": "华尔街因科技实力和中东交易希望而创下收盘新高",
-        "summary": "By Saeed Azhar, Twesha Dikshit and Utkarsh Shetti NEW YORK, May 29 (Reuters) - Wall Street's main indexes hit record closing highs on Friday and posted weekly and monthly gains as Dell results drove",
-        "summary_zh": "作者：Saeed Azhar、Twesha Dikshit 和 Utkarsh Shetti 纽约，5 月 29 日（路透社）——华尔街主要股指周五创下收盘新高，并在戴尔业绩推动下实现周线和月度上涨",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-steady-investors-091056175.html",
-        "publisher": "Reuters",
-        "publish_time": 1780087127,
-        "type": "News"
-    },
-    {
         "title": "Nvidia, AMD, & other chip names in focus at Computex 2026",
         "title_zh": "Nvidia、AMD 和其他芯片品牌在 Computex 2026 上成为焦点",
         "summary": "Artificial intelligence (AI) exhibition, Computex, is kicking off in Taipei on Jun. 2, with names like Nvidia (NVDA), AMD (AMD), Intel (INTC), and Qualcomm (QCOM) taking center stage. Yahoo Finance Technology Editor Dan Howley explains what you need to know.",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/difference-between-prem-ai-vs-150031900.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1780066831,
+        "type": "News"
+    },
+    {
+        "title": "Dell, Cisco: How 'throwback' tech stocks fit into the AI trade",
+        "title_zh": "戴尔、思科：“复古”科技股如何融入人工智能行业",
+        "summary": "B. Riley Wealth chief market strategist Art Hogan and Yahoo Finance Senior Business Reporter Ines Ferré chat with Yahoo Finance Executive Editor Brian Sozzi about where \"throwback\" tech stocks, like Dell (DELL) and Cisco (CSCO), fit into the artificial intelligence (AI) trade.",
+        "summary_zh": "B. Riley Wealth 首席市场策略师 Art Hogan 和雅虎财经高级商业记者 Ines Ferré 与雅虎财经执行编辑 Brian Sozzi 讨论了戴尔 (DELL) 和思科 (CSCO) 等“复古”科技股如何融入人工智能 (AI) 行业。",
+        "link": "https://finance.yahoo.com/video/dell-cisco-throwback-tech-stocks-144152822.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780065712,
         "type": "News"
     }
 ]
