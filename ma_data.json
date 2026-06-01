@@ -1,32 +1,42 @@
 [
     {
-        "title": "Google Cloud Strikes Major AI Deal With European Buyout Giant EQT",
-        "title_zh": "谷歌云与欧洲收购巨头 EQT 达成重大人工智能交易",
-        "summary": "EQT has struck a deal with Alphabet Inc.‘s Google Cloud aimed at speeding up artificial intelligence projects across more than 300 companies held in the buyout firm's portfolio. The arrangement gives these businesses access to Google Cloud's AI and security...",
-        "summary_zh": "EQT 已与 Alphabet Inc. 的 Google Cloud 达成协议，旨在加快该收购公司投资组合中 300 多家公司的人工智能项目。该安排使这些企业能够访问 Google Cloud 的人工智能和安全性......",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/google-cloud-strikes-major-ai-003037230.html",
-        "publisher": "Benzinga",
-        "publish_time": 1780187437,
+        "title": "Oil Rises From Six-Week Low Amid Uncertainty Over US-Iran Deal",
+        "title_zh": "由于美伊协议的不确定性，油价从六周低点上涨",
+        "summary": "(Bloomberg) -- Oil rose from a six-week low amid uncertainty over the outlook for a peace deal to end the war in Iran.",
+        "summary_zh": "（彭博社）——由于结束伊朗战争的和平协议前景存在不确定性，油价从六周低点上涨。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/oil-rises-six-week-low-225815930.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780289884,
         "type": "News"
     },
     {
-        "title": "Jamie Dimon Says JPMorgan (JPM) Could Spend Up to $20 Billion on an Acquisition",
-        "title_zh": "杰米戴蒙表示摩根大通可能斥资高达 200 亿美元进行收购",
-        "summary": "JPMorgan Chase & Co. (NYSE:JPM) is included among the Billionaire George Soros Stock Portfolio: 10 Best Stocks to Buy. On May 27, CNBC reported that JPMorgan Chase & Co.",
-        "summary_zh": "摩根大通公司（纽约证券交易所股票代码：JPM）被列入亿万富翁乔治·索罗斯股票投资组合：10只最值得购买的股票之一。 5 月 27 日，CNBC 报道称，摩根大通公司 (JPMorgan Chase & Co.)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-says-jpmorgan-jpm-014441157.html",
+        "title": "This Billion-Dollar Deal Propelled Dell’s (DELL) 43% Growth This Week",
+        "title_zh": "这笔 10 亿美元的交易推动戴尔 (DELL) 本周增长 43%",
+        "summary": "Dell Technologies Inc. (NYSE:DELL) is one of the 10 Stocks With Effortless 38-78% Gains.",
+        "summary_zh": "戴尔科技公司（纽约证券交易所股票代码：DELL）是 10 只轻松上涨 38-78% 的股票之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/billion-dollar-deal-propelled-dell-030939766.html",
         "publisher": "Insider Monkey",
-        "publish_time": 1780105481,
+        "publish_time": 1780283379,
         "type": "News"
     },
     {
-        "title": "Morgan Stanley Joins Elite List As Stock Hits Highs; Goldman Sachs Rides Massive Deals Wave",
-        "title_zh": "随着股价触及高点，摩根士丹利加入精英名单；高盛掀起大规模交易浪潮",
-        "summary": "Goldman Sachs and Morgan Stanley are near all-time highs after accelerating earnings and sales growth in the first quarter.",
-        "summary_zh": "高盛和摩根士丹利在第一季度盈利和销售加速增长后，股价接近历史新高。",
-        "link": "https://www.investors.com/stock-lists/ibd-50/goldman-sachs-gs-morgan-stanley-ms/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1780080070,
+        "title": "Nasdaq, S&P 500, Dow Futures Edge Higher Even As Trump Keeps Iran Deal In Limbo: BBAI, SPCE, SOFI, IBM In Focus",
+        "title_zh": "即使特朗普将伊朗协议搁置，纳斯达克、标准普尔 500 指数、道琼斯指数期货仍小幅走高：BBAI、SPCE、SOFI、IBM 成为焦点",
+        "summary": "American stock markets clocked a record rally in May, with all three major indexes notching multiple records amid solid gains, with technology shares largely fueled the uptick.",
+        "summary_zh": "美国股市5月份创下历史新高，三大股指均创下多项纪录，其中科技股在很大程度上推动了上涨。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-012943623.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1780277383,
+        "type": "News"
+    },
+    {
+        "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
+        "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
+        "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
+        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）的远期市盈率为 12.83，是十大值得买入的低市盈率最佳成长股之一。 5 月 21 日，KKR & Co. Inc.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-strikes-multibillion-dollar-deal-143916906.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1780238356,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/anthropics-36-billion-ai-chip-183819700.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1780079899,
-        "type": "News"
-    },
-    {
-        "title": "Equity Markets Rise Intraday as Trump Sets Out Conditions For Iran Deal",
-        "title_zh": "特朗普为伊朗协议设定条件，股市盘中上涨",
-        "summary": "Equities on Wall Street rose intraday as President Donald Trump laid out conditions that Iran must a",
-        "summary_zh": "由于唐纳德·特朗普总统提出伊朗必须遵守的条件，华尔街股市盘中上涨",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-rise-intraday-trump-174112347.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1780076472,
         "type": "News"
     }
 ]
