@@ -1,35 +1,5 @@
 [
     {
-        "title": "Oil Rises From Six-Week Low Amid Uncertainty Over US-Iran Deal",
-        "title_zh": "由于美伊协议的不确定性，油价从六周低点上涨",
-        "summary": "(Bloomberg) -- Oil rose from a six-week low amid uncertainty over the outlook for a peace deal to end the war in Iran.",
-        "summary_zh": "（彭博社）——由于结束伊朗战争的和平协议前景存在不确定性，油价从六周低点上涨。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/oil-rises-six-week-low-225815930.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780289884,
-        "type": "News"
-    },
-    {
-        "title": "This Billion-Dollar Deal Propelled Dell’s (DELL) 43% Growth This Week",
-        "title_zh": "这笔 10 亿美元的交易推动戴尔 (DELL) 本周增长 43%",
-        "summary": "Dell Technologies Inc. (NYSE:DELL) is one of the 10 Stocks With Effortless 38-78% Gains.",
-        "summary_zh": "戴尔科技公司（纽约证券交易所股票代码：DELL）是 10 只轻松上涨 38-78% 的股票之一。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billion-dollar-deal-propelled-dell-030939766.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1780283379,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq, S&P 500, Dow Futures Edge Higher Even As Trump Keeps Iran Deal In Limbo: BBAI, SPCE, SOFI, IBM In Focus",
-        "title_zh": "即使特朗普将伊朗协议搁置，纳斯达克、标准普尔 500 指数、道琼斯指数期货仍小幅走高：BBAI、SPCE、SOFI、IBM 成为焦点",
-        "summary": "American stock markets clocked a record rally in May, with all three major indexes notching multiple records amid solid gains, with technology shares largely fueled the uptick.",
-        "summary_zh": "美国股市5月份创下历史新高，三大股指均创下多项纪录，其中科技股在很大程度上推动了上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-012943623.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1780277383,
-        "type": "News"
-    },
-    {
         "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
         "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
         "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/anthropics-36-billion-ai-chip-183819700.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1780079899,
+        "type": "News"
+    },
+    {
+        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Friday Amid US-Iran Deal Hopes",
+        "title_zh": "由于美国与伊朗达成协议的希望，交易所交易基金和股票期货在周五开盘前上涨",
+        "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.1% and the actively trad",
+        "summary_zh": "大市场交易所交易基金 SPDR S&P 500 ETF Trust (SPY) 上涨 0.1%，交易活跃",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131630396.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1780060590,
+        "type": "News"
+    },
+    {
+        "title": "KKR Reshapes Portfolio With Exits And Energy Deals In Focus",
+        "title_zh": "KKR 重塑投资组合，重点关注退出和能源交易",
+        "summary": "KKR agreed to sell Circor Aerospace in a definitive deal, marking an exit from an industrial aerospace holding. The firm completed its exit from Kokusai Electric, closing out a semiconductor investment.",
+        "summary_zh": "KKR 同意以最终协议出售 Circor Aerospace，标志着退出工业航空航天控股公司。该公司完成了从国际电气的退出，结束了一项半导体投资。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/kkr-reshapes-portfolio-exits-energy-071907477.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1779520747,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     }
 ]
