@@ -1,5 +1,45 @@
 [
     {
+        "title": "Will SpaceX and Tesla Merge? I'm Predicting a Megamerger for 1 Surprising Reason",
+        "title_zh": "SpaceX 和特斯拉会合并吗？我预测大型合并有一个令人惊讶的原因",
+        "summary": "Experts are starting to believe in a potential megamerger.",
+        "summary_zh": "专家们开始相信大型合并的可能性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merge-im-predicting-122000175.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1780402800,
+        "type": "News"
+    },
+    {
+        "title": "Adding a Healthcare Stock to Your Portfolio? FHLC Offers Broad Coverage While PPH Leads in Returns.",
+        "title_zh": "将医疗保健股票添加到您的投资组合中？ FHLC 提供广泛的覆盖范围，而 PPH 的回报率领先。",
+        "summary": "Expense ratios, asset size, and portfolio strategy set these two healthcare ETFs apart, yet their risk and dividend profiles tell a different story.",
+        "summary_zh": "费用比率、资产规模和投资组合策略使这两只医疗保健 ETF 与众不同，但它们的风险和股息状况却截然不同。",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/adding-healthcare-stock-portfolio-fhlc-121104495.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1780402264,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet Pivots From Buybacks to a Massive Stock Offering. What It Means for Shares.",
+        "title_zh": "Alphabet 从回购转向大规模股票发行。这对股票意味着什么。",
+        "summary": "Alphabet  said it would issue $80 billion of equity, including $10 billion of stock to  Berkshire Hathaway  as it funds its huge AI computing infrastructure buildout.",
+        "summary_zh": "Alphabet 表示，将发行 800 亿美元的股票，其中包括向伯克希尔哈撒韦公司发行 100 亿美元的股票，为其庞大的人工智能计算基础设施建设提供资金。",
+        "link": "https://www.barrons.com/articles/alphabet-stock-offering-berkshire-buybacks-6c7f6c3b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1780401360,
+        "type": "News"
+    },
+    {
+        "title": "Bloom Energy’s AI Power Deals Test Valuation And Execution Expectations",
+        "title_zh": "Bloom Energy 的 AI Power 交易测试估值和执行预期",
+        "summary": "Bloom Energy (NYSE:BE) has signed multi gigawatt fuel cell agreements with Oracle to supply on site power for AI data centers. The company announced a $5b partnership with Brookfield Asset Management focused on large scale clean power deployments.",
+        "summary_zh": "Bloom Energy（纽约证券交易所股票代码：BE）已与 Oracle 签署了多吉瓦燃料电池协议，为人工智能数据中心提供现场电力。该公司宣布与 Brookfield Asset Management 建立 50 亿美元的合作伙伴关系，重点关注大规模清洁能源部署。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-ai-power-deals-101003332.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1780395003,
+        "type": "News"
+    },
+    {
         "title": "Top ETF Stories of May 2026: Iran Deal Hopes, AI Rally",
         "title_zh": "2026 年 5 月 ETF 热门故事：伊朗协议希望、人工智能反弹",
         "summary": "Iran deal hopes, AI-fueled tech gains and Dell's upbeat outlook lifted stocks to record highs, while inflation fears and space-stock volatility persisted.",
@@ -7,46 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-etf-stories-may-2026-170000186.html",
         "publisher": "Zacks",
         "publish_time": 1780333200,
-        "type": "News"
-    },
-    {
-        "title": "Michael Burry Just Called Nvidia’s SpaceX Chip Deal ‘Fugazi.’ Here’s Why It All Seems Wrong",
-        "title_zh": "迈克尔·伯里 (Michael Burry) 刚刚将 Nvidia 的 SpaceX 芯片交易称为“Fugazi”。这就是为什么这一切看起来都是错误的",
-        "summary": "Investors have watched Nvidia (NASDAQ:NVDA) ride the AI wave to extraordinary heights, with data center revenue exploding in recent years. Yet amid the hype, one of Wall Street’s sharpest skeptics keeps raising red flags about its financing arrangements.",
-        "summary_zh": "投资者见证了英伟达（NASDAQ：NVDA）将人工智能浪潮推向了非凡的高度，近年来数据中心收入呈爆炸式增长。然而，在炒作之中，华尔街最尖锐的怀疑论者之一不断对其融资安排发出危险信号。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-called-nvidia-154541018.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1780328741,
-        "type": "News"
-    },
-    {
-        "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
-        "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
-        "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
-        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）的远期市盈率为 12.83，是十大值得买入的低市盈率最佳成长股之一。 5 月 21 日，KKR & Co. Inc.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-strikes-multibillion-dollar-deal-143916906.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1780238356,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic's $36 Billion AI Chip Deal Draws Apollo, Blackstone",
-        "title_zh": "Anthropic 价值 360 亿美元的 AI 芯片交易吸引了 Apollo 和 Blackstone",
-        "summary": "Apollo and Blackstone are seeking investors for a TPU-backed debt deal tied to Anthropic's AI infrastructure buildout.",
-        "summary_zh": "Apollo 和 Blackstone 正在寻找投资者进行 TPU 支持的债务交易，该交易与 Anthropic 的人工智能基础设施建设相关。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropics-36-billion-ai-chip-183819700.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1780079899,
-        "type": "News"
-    },
-    {
-        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Friday Amid US-Iran Deal Hopes",
-        "title_zh": "由于美国与伊朗达成协议的希望，交易所交易基金和股票期货在周五开盘前上涨",
-        "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.1% and the actively trad",
-        "summary_zh": "大市场交易所交易基金 SPDR S&P 500 ETF Trust (SPY) 上涨 0.1%，交易活跃",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131630396.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1780060590,
         "type": "News"
     }
 ]

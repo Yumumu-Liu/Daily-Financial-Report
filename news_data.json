@@ -1,12 +1,82 @@
 [
     {
-        "title": "Amazon sets the stage for its first Prime Day in June since 2021",
-        "title_zh": "亚马逊将于 6 月举办自 2021 年以来的首个 Prime Day",
-        "summary": "Amazon announces dates for its annual Prime Day summer savings event.",
-        "summary_zh": "亚马逊宣布了一年一度的 Prime Day 夏季优惠活动的日期。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/amazon-sets-the-stage-for-its-first-prime-day-in-june-since-2021-050000112.html",
+        "title": "How Nvidia's new chip & PC push make Intel 'vulnerable'",
+        "title_zh": "英伟达的新芯片和 PC 推广如何让英特尔变得“脆弱”",
+        "summary": "Baird tech strategist Ted Mortonson joins Yahoo Finance to discuss Nvidia (NVDA) breaking into the PC market with its new RTX Spark chip.",
+        "summary_zh": "Baird 技术策略师 Ted Mortonson 与雅虎财经一起讨论 Nvidia (NVDA) 凭借其新的 RTX Spark 芯片进军 PC 市场。",
+        "link": "https://finance.yahoo.com/video/nvidias-chip-pc-push-intel-120000719.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780401600,
+        "type": "News"
+    },
+    {
+        "title": "Amazon's Ring sued over facial recognition feature, latest privacy concern for doorbell maker",
+        "title_zh": "亚马逊的 Ring 因面部识别功能被起诉，这是门铃制造商最新的隐私问题",
+        "summary": "Amazon was sued on Monday by a Virginia resident over what he said were privacy violations after the company's Ring ‌doorbell cameras at friends and family members' homes collected and stored images of his ‌face using facial recognition software.",
+        "summary_zh": "亚马逊周一被一名弗吉尼亚州居民起诉，称其侵犯了隐私，因为该公司在朋友和家人家中安装的 Ring 门铃摄像头使用面部识别软件收集并存储了他的面部图像。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazons-ring-sued-over-facial-110118391.html",
+        "publisher": "Reuters",
+        "publish_time": 1780398078,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street futures dip after record highs; HPE soars",
+        "title_zh": "华尔街期货创历史新高后下跌； HPE飙升",
+        "summary": "By Medha Singh and Twesha Dikshit June 2 (Reuters) - S&P 500 and Dow futures edged lower on Tuesday after hitting a series of record highs, while blowout results from Hewlett Packard Enterprise and a",
+        "summary_zh": "Medha Singh 和 Twesha Dikshit 6 月 2 日（路透社） - 标准普尔 500 指数和道琼斯指数期货在触及一系列历史新高后，周二小幅走低，而惠普企业和",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-futures-tick-lower-093807335.html",
+        "publisher": "Reuters",
+        "publish_time": 1780396702,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft expected to showcase new PC, cloud AI tools at developer conference",
+        "title_zh": "微软预计将在开发者大会上展示新的PC、云人工智能工具",
+        "summary": "Microsoft will hold its annual software developer conference on Tuesday, where the company is ‌expected to showcase new tools for developers building AI software ‌for PCs and the cloud.",
+        "summary_zh": "微软将于周二举行年度软件开发者大会，预计该公司将在会上展示为开发者构建 PC 和云人工智能软件的新工具。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/microsoft-expected-showcase-pc-cloud-100254999.html",
+        "publisher": "Reuters",
+        "publish_time": 1780394574,
+        "type": "News"
+    },
+    {
+        "title": "AI is carrying the S&P 500 rally: Chart of the Day",
+        "title_zh": "AI 带动标普 500 指数上涨：每日图表",
+        "summary": "The S&P 500's rebound looks a lot thinner once AI enablers are stripped out.",
+        "summary_zh": "一旦剔除人工智能推动因素，标准普尔 500 指数的反弹看起来就会薄弱得多。",
+        "link": "https://finance.yahoo.com/markets/article/ai-is-carrying-the-sp-500-rally-chart-of-the-day-100000546.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1780376400,
+        "publish_time": 1780394400,
+        "type": "News"
+    },
+    {
+        "title": "SK Hynix Plans to Double Capacity to Ease Memory Chip Crunch",
+        "title_zh": "SK 海力士计划将产能翻倍以缓解存储芯片紧缺问题",
+        "summary": "(Bloomberg) -- SK Hynix Inc.",
+        "summary_zh": "（彭博社）——SK 海力士公司",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/sk-hynix-plans-double-capacity-090350238.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780391030,
+        "type": "News"
+    },
+    {
+        "title": "Jensen Huang: Nvidia can fuel AI growth despite supply constraints",
+        "title_zh": "黄仁勋：尽管供应有限，英伟达仍可推动人工智能增长",
+        "summary": "STORY: Nvidia CEO Jensen Huang said Tuesday that his company has secured enough supply to support strong growth.The comments come as demand for chips surges amid the AI boom.And Huang says it's true for both the graphics chips and Nvidia's new central processing units:&nbsp;“W...",
+        "summary_zh": "故事：Nvidia 首席执行官黄仁勋周二表示，他的公司已获得足够的供应来支持强劲增长。此番言论是在人工智能热潮中对芯片的需求激增之际发表的。黄仁勋表示，对于图形芯片和 Nvidia 的新中央处理器来说都是如此：“W...",
+        "link": "https://finance.yahoo.com/video/jensen-huang-nvidia-fuel-ai-075727361.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1780387047,
+        "type": "News"
+    },
+    {
+        "title": "Amazon moves Prime Day back to June, keeps it a four-day event",
+        "title_zh": "亚马逊将 Prime Day 推迟到六月，并保持为期四天的活动",
+        "summary": "Amazon.com will host its annual Prime Day sales event from June 23 to June 26 after launching the event in July for the ‌past five years, citing major holidays and sporting events as factors in its decision.",
+        "summary_zh": "亚马逊网站将在过去五年中于 7 月推出年度 Prime Day 销售活动，并将于 6 月 23 日至 6 月 26 日举办该活动，并以重大节假日和体育赛事为考量因素。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-moves-prime-day-back-050648289.html",
+        "publisher": "Reuters",
+        "publish_time": 1780376808,
         "type": "News"
     },
     {
@@ -17,76 +87,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/blue-origin-launch-pad-repairs-020902157.html",
         "publisher": "Reuters",
         "publish_time": 1780366142,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US-Iran tensions weigh on AI optimism",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌，因美伊紧张局势打压人工智能乐观情绪",
-        "summary": "US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest developments in AI.",
-        "summary_zh": "由于投资者权衡伊朗谈判的不确定性以及人工智能的最新发展，美国股指期货下跌。",
-        "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780355875,
-        "type": "News"
-    },
-    {
-        "title": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes",
-        "title_zh": "受科技股上涨和美伊和平希望推动，华尔街收高",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-st-ends-higher-boosted-231242267.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1780355562,
-        "type": "News"
-    },
-    {
-        "title": "Top market stories to watch Tuesday, June 2",
-        "title_zh": "6 月 2 日星期二值得关注的热门市场故事",
-        "summary": "Asking for a Trend Host Josh Lipton shares the top stories to keep an eye out for on Tuesday, June 2, including key earnings reports and the latest from Computex in Taiwan.",
-        "summary_zh": "寻找趋势主持人 Josh Lipton 分享了 6 月 2 日星期二值得关注的热门新闻，包括重要盈利报告和台湾台北国际电脑展的最新动态。",
-        "link": "https://finance.yahoo.com/video/top-market-stories-watch-tuesday-230000756.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780354800,
-        "type": "News"
-    },
-    {
-        "title": "CoreWeave-Tied Data Center Seeks $850 Million Junk Bond Sale",
-        "title_zh": "CoreWeave 关联数据中心寻求 8.5 亿美元垃圾债券出售",
-        "summary": "(Bloomberg) -- A data center tied to CoreWeave Inc.",
-        "summary_zh": "（彭博社）——与 CoreWeave Inc. 相关的数据中心。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-tied-data-center-seeks-182851007.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780347072,
-        "type": "News"
-    },
-    {
-        "title": "Tesla's Optimus faces new threat as OpenAI enters robotics",
-        "title_zh": "OpenAI 进军机器人领域，特斯拉 Optimus 面临新威胁",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).",
-        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 加入 Market Domination Overtime 讨论特斯拉 (TSLA) 在 OpenAI (OPAI.PVT) 中的新机器人竞赛。",
-        "link": "https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780345951,
-        "type": "News"
-    },
-    {
-        "title": "There's risk in AI concentration, but stock prices are 'justified'",
-        "title_zh": "人工智能集中化存在风险，但股价“合理”",
-        "summary": "June is finally here and US stocks (^DJI, ^IXIC, ^GSPC) are feeling awfully festive, all three of the major indexes notching new records in the first trading day of the month.",
-        "summary_zh": "六月终于来了，美股（^DJI、^IXIC、^GSPC）气氛热烈，三大股指在本月第一个交易日均创下新高。",
-        "link": "https://finance.yahoo.com/video/theres-risk-ai-concentration-stock-202705940.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780345625,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia Is Taking On Intel and AMD With AI Chip for Computers",
-        "title_zh": "Nvidia 正在通过计算机人工智能芯片挑战英特尔和 AMD",
-        "summary": "(Bloomberg) -- Nvidia Corp. is entering the PC market with a new chip aimed at loosening the stranglehold of Intel Corp.",
-        "summary_zh": "(彭博社)——英伟达公司正在凭借一款新芯片进入个人电脑市场，旨在放松英特尔公司的束缚。",
-        "link": "https://finance.yahoo.com/news/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd-042523139.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780345030,
         "type": "News"
     }
 ]
