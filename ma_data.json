@@ -1,5 +1,25 @@
 [
     {
+        "title": "Top ETF Stories of May 2026: Iran Deal Hopes, AI Rally",
+        "title_zh": "2026 年 5 月 ETF 热门故事：伊朗协议希望、人工智能反弹",
+        "summary": "Iran deal hopes, AI-fueled tech gains and Dell's upbeat outlook lifted stocks to record highs, while inflation fears and space-stock volatility persisted.",
+        "summary_zh": "伊朗协议的希望、人工智能推动的科技股上涨以及戴尔的乐观前景将股市推升至历史新高，而通胀担忧和太空股波动持续存在。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-etf-stories-may-2026-170000186.html",
+        "publisher": "Zacks",
+        "publish_time": 1780333200,
+        "type": "News"
+    },
+    {
+        "title": "Michael Burry Just Called Nvidia’s SpaceX Chip Deal ‘Fugazi.’ Here’s Why It All Seems Wrong",
+        "title_zh": "迈克尔·伯里 (Michael Burry) 刚刚将 Nvidia 的 SpaceX 芯片交易称为“Fugazi”。这就是为什么这一切看起来都是错误的",
+        "summary": "Investors have watched Nvidia (NASDAQ:NVDA) ride the AI wave to extraordinary heights, with data center revenue exploding in recent years. Yet amid the hype, one of Wall Street’s sharpest skeptics keeps raising red flags about its financing arrangements.",
+        "summary_zh": "投资者见证了英伟达（NASDAQ：NVDA）将人工智能浪潮推向了非凡的高度，近年来数据中心收入呈爆炸式增长。然而，在炒作之中，华尔街最尖锐的怀疑论者之一不断对其融资安排发出危险信号。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-called-nvidia-154541018.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1780328741,
+        "type": "News"
+    },
+    {
         "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
         "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
         "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131630396.html",
         "publisher": "MT Newswires",
         "publish_time": 1780060590,
-        "type": "News"
-    },
-    {
-        "title": "KKR Reshapes Portfolio With Exits And Energy Deals In Focus",
-        "title_zh": "KKR 重塑投资组合，重点关注退出和能源交易",
-        "summary": "KKR agreed to sell Circor Aerospace in a definitive deal, marking an exit from an industrial aerospace holding. The firm completed its exit from Kokusai Electric, closing out a semiconductor investment.",
-        "summary_zh": "KKR 同意以最终协议出售 Circor Aerospace，标志着退出工业航空航天控股公司。该公司完成了从国际电气的退出，结束了一项半导体投资。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/kkr-reshapes-portfolio-exits-energy-071907477.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1779520747,
-        "type": "News"
-    },
-    {
-        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
-        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
-        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
-        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1779022800,
         "type": "News"
     }
 ]

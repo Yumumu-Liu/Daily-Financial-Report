@@ -1,92 +1,92 @@
 [
     {
-        "title": "Nvidia reveals powerful new AI supercomputer chip for Fall",
-        "title_zh": "英伟达秋季发布强大的新型人工智能超级计算机芯片",
-        "summary": "Yahoo Finance Executive Editor Brian Sozzi and the Opening Bid panel — Sevens Report Research Founder Tom Essaye, Yahoo Finance Senior Business Reporter Ines Ferre, and Markets & Data Editor Jared Blikre — break down Nvidia (NVDA) CEO Jensen Huang's Computex announcement, incl...",
-        "summary_zh": "雅虎财经执行编辑 Brian Sozzi 和开标小组——Sevens Report Research 创始人 Tom Essaye、雅虎财经高级商业记者 Ines Ferre 和市场与数据编辑 Jared Blikre——详细分析了 Nvidia (NVDA) 首席执行官 ...",
-        "link": "https://finance.yahoo.com/video/nvidia-reveals-powerful-ai-supercomputer-142816907.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780324096,
-        "type": "News"
-    },
-    {
-        "title": "The value Nvidia's new chips will add to Windows PCs",
-        "title_zh": "Nvidia 的新芯片将为 Windows PC 带来的价值",
-        "summary": "Nvidia stock (NVDA) cruises higher to start off Monday trading after CEO Jensen Huang revealed its new N1X and RTX Spark chips at Computex Taipei 2026 over the weekend.",
-        "summary_zh": "Nvidia 首席执行官黄仁勋 (Jensen Huang) 周末在 2026 年台北电脑展上展示了其新的 N1X 和 RTX Spark 芯片后，英伟达 (Nvidia) 股价周一开盘走高。",
-        "link": "https://finance.yahoo.com/video/value-nvidias-chips-add-windows-142208000.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780323728,
-        "type": "News"
-    },
-    {
-        "title": "Wall St near record levels as AI optimism tempers war concerns; Nvidia, Microsoft up",
-        "title_zh": "随着人工智能乐观情绪缓和战争担忧，华尔街接近创纪录水平；英伟达、微软上涨",
-        "summary": "By Medha Singh and Twesha Dikshit June 1 (Reuters) - Wall Street's main indexes hovered near record highs on Monday as investors weighed Nvidia's latest artificial intelligence push against mounting",
-        "summary_zh": "作者：Medha Singh 和 Twesha Dikshit 6 月 1 日（路透社）——周一，华尔街主要股指徘徊在历史高位附近，投资者权衡英伟达最新的人工智能推动举措与日益增长的人工智能技术。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-ai-111509327.html",
-        "publisher": "Reuters",
-        "publish_time": 1780322531,
-        "type": "News"
-    },
-    {
-        "title": "Meta, Alphabet, Amazon, and Microsoft are getting hooked on debt to fuel AI boom",
-        "title_zh": "Meta、Alphabet、亚马逊和微软都沉迷于举债来推动人工智能的繁荣",
-        "summary": "Debt is becoming a big tool in the Big Tech arsenal.",
-        "summary_zh": "债务正在成为大型科技公司的一个重要工具。",
-        "link": "https://finance.yahoo.com/markets/article/meta-alphabet-amazon-and-microsoft-are-getting-hooked-on-debt-to-fuel-ai-boom-140111460.html",
+        "title": "Amazon sets the stage for its first Prime Day in June since 2021",
+        "title_zh": "亚马逊将于 6 月举办自 2021 年以来的首个 Prime Day",
+        "summary": "Amazon announces dates for its annual Prime Day summer savings event.",
+        "summary_zh": "亚马逊宣布了一年一度的 Prime Day 夏季优惠活动的日期。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/amazon-sets-the-stage-for-its-first-prime-day-in-june-since-2021-050000112.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1780322471,
+        "publish_time": 1780376400,
         "type": "News"
     },
     {
-        "title": "Nvidia Is Taking On Intel and AMD With New AI Chip for Computers",
-        "title_zh": "Nvidia 正在推出新型计算机 AI 芯片，与英特尔和 AMD 展开竞争",
+        "title": "Blue Origin launch pad repairs could take 'serious time', NASA chief tells CNBC",
+        "title_zh": "NASA 局长告诉 CNBC，蓝色起源发射台的维修可能需要“认真的时间”",
+        "summary": "Damage to a Blue Origin launch pad from the spectacular explosion of the company's giant New Glenn rocket ‌during a test firing of its engines last week will \"take ‌some serious time\" to repair, NASA Administrator Jared Isaacman told CNBC on Monday.",
+        "summary_zh": "NASA 局长贾里德·艾萨克曼 (Jared Isaacman) 周一对 CNBC 表示，蓝色起源公司的巨型新格伦火箭在上周的发动机试射过程中发生了壮观的爆炸，该公司发射台的损坏将“需要一些严重的时间”才能修复。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/blue-origin-launch-pad-repairs-020902157.html",
+        "publisher": "Reuters",
+        "publish_time": 1780366142,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US-Iran tensions weigh on AI optimism",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌，因美伊紧张局势打压人工智能乐观情绪",
+        "summary": "US stock futures slipped as investors weighed uncertainty over Iran talks alongside the latest developments in AI.",
+        "summary_zh": "由于投资者权衡伊朗谈判的不确定性以及人工智能的最新发展，美国股指期货下跌。",
+        "link": "https://finance.yahoo.com/economy/live/stock-market-today-tuesday-june-2-ai-231755175.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780355875,
+        "type": "News"
+    },
+    {
+        "title": "Wall St ends higher, boosted by tech gains, US-Iran peace hopes",
+        "title_zh": "受科技股上涨和美伊和平希望推动，华尔街收高",
+        "summary": "STORY: U.S.",
+        "summary_zh": "故事：美国",
+        "link": "https://finance.yahoo.com/video/wall-st-ends-higher-boosted-231242267.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1780355562,
+        "type": "News"
+    },
+    {
+        "title": "Top market stories to watch Tuesday, June 2",
+        "title_zh": "6 月 2 日星期二值得关注的热门市场故事",
+        "summary": "Asking for a Trend Host Josh Lipton shares the top stories to keep an eye out for on Tuesday, June 2, including key earnings reports and the latest from Computex in Taiwan.",
+        "summary_zh": "寻找趋势主持人 Josh Lipton 分享了 6 月 2 日星期二值得关注的热门新闻，包括重要盈利报告和台湾台北国际电脑展的最新动态。",
+        "link": "https://finance.yahoo.com/video/top-market-stories-watch-tuesday-230000756.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780354800,
+        "type": "News"
+    },
+    {
+        "title": "CoreWeave-Tied Data Center Seeks $850 Million Junk Bond Sale",
+        "title_zh": "CoreWeave 关联数据中心寻求 8.5 亿美元垃圾债券出售",
+        "summary": "(Bloomberg) -- A data center tied to CoreWeave Inc.",
+        "summary_zh": "（彭博社）——与 CoreWeave Inc. 相关的数据中心。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-tied-data-center-seeks-182851007.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780347072,
+        "type": "News"
+    },
+    {
+        "title": "Tesla's Optimus faces new threat as OpenAI enters robotics",
+        "title_zh": "OpenAI 进军机器人领域，特斯拉 Optimus 面临新威胁",
+        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination Overtime to discuss Tesla's (TSLA) new robotics competition in OpenAI (OPAI.PVT).",
+        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 加入 Market Domination Overtime 讨论特斯拉 (TSLA) 在 OpenAI (OPAI.PVT) 中的新机器人竞赛。",
+        "link": "https://finance.yahoo.com/video/teslas-optimus-faces-threat-openai-203231720.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780345951,
+        "type": "News"
+    },
+    {
+        "title": "There's risk in AI concentration, but stock prices are 'justified'",
+        "title_zh": "人工智能集中化存在风险，但股价“合理”",
+        "summary": "June is finally here and US stocks (^DJI, ^IXIC, ^GSPC) are feeling awfully festive, all three of the major indexes notching new records in the first trading day of the month.",
+        "summary_zh": "六月终于来了，美股（^DJI、^IXIC、^GSPC）气氛热烈，三大股指在本月第一个交易日均创下新高。",
+        "link": "https://finance.yahoo.com/video/theres-risk-ai-concentration-stock-202705940.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780345625,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Is Taking On Intel and AMD With AI Chip for Computers",
+        "title_zh": "Nvidia 正在通过计算机人工智能芯片挑战英特尔和 AMD",
         "summary": "(Bloomberg) -- Nvidia Corp. is entering the PC market with a new chip aimed at loosening the stranglehold of Intel Corp.",
         "summary_zh": "(彭博社)——英伟达公司正在凭借一款新芯片进入个人电脑市场，旨在放松英特尔公司的束缚。",
         "link": "https://finance.yahoo.com/news/nvidia-enters-windows-laptop-market-taking-on-intel-and-amd-042523139.html",
         "publisher": "Bloomberg",
-        "publish_time": 1780320912,
-        "type": "News"
-    },
-    {
-        "title": "Exclusive-EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows",
-        "title_zh": "文件草案显示，欧盟独家云规则将限制亚马逊和谷歌参与战略招标",
-        "summary": "By Foo Yun Chee and Toby Sterling BRUSSELS/AMSTERDAM, June 1 (Reuters) - Europe plans to propose strict criteria for cloud computing services in highly critical state tenders that could exclude Amazon",
-        "summary_zh": "作者：Foo Yun Chee 和 Toby Sterling 布鲁塞尔/阿姆斯特丹，6 月 1 日（路透社）——欧洲计划在高度关键的国家招标中提出严格的云计算服务标准，其中可能将亚马逊排除在外",
-        "link": "https://finance.yahoo.com/news/exclusive-eu-cloud-rules-curb-120227310.html",
-        "publisher": "Reuters",
-        "publish_time": 1780316390,
-        "type": "News"
-    },
-    {
-        "title": "China Tightens Outbound Investment Rules in US Tech Rivalry",
-        "title_zh": "中国收紧美国科技竞争中的境外投资规则",
-        "summary": "(Bloomberg) -- China strengthened oversight of outbound investment through a new directive, tightening cross-border capital flows as its technology rivalry with the US intensifies.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedBerkshire H...",
-        "summary_zh": "（彭博社）——随着与美国的技术竞争加剧，中国通过一项新指令加强了对外投资的监管，收紧了跨境资本流动。彭博社的大多数报道美国称禁止与伊朗进行霍尔木兹安全过境交易。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/china-tightens-outbound-investment-rules-100514696.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780308314,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Nvidia CEO calls AI 'a profit generator' at Computex Taipei, unveils new laptop processor",
-        "title_zh": "今日科技股：英伟达首席执行官在台北电脑展上称人工智能为“利润创造者”，并推出了新的笔记本电脑处理器",
-        "summary": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
-        "summary_zh": "本周，科技投资者将关注芯片和网络安全收益、人工智能对劳动力市场数据的影响以及台北电脑展年度芯片峰会。",
-        "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-ceo-calls-ai-a-profit-generator-at-computex-taipei-unveils-new-laptop-processor-100000230.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780308000,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia debuts RTX Spark processor for Windows laptops, taking aim at Intel, AMD",
-        "title_zh": "Nvidia首次推出适用于Windows笔记本电脑的RTX Spark处理器，瞄准英特尔、AMD",
-        "summary": "Nvidia debuted its RTX Spark processor for Windows laptops, taking aim at Intel and AMD.",
-        "summary_zh": "Nvidia 推出了适用于 Windows 笔记本电脑的 RTX Spark 处理器，瞄准了英特尔和 AMD。",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-debuts-rtx-spark-processor-for-windows-laptops-taking-aim-at-intel-amd-053000567.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780291800,
+        "publish_time": 1780345030,
         "type": "News"
     }
 ]
