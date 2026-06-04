@@ -1,22 +1,32 @@
 [
     {
-        "title": "Why Coherent (COHR) Is Up 11.9% After Nvidia’s AI Optics Deal And Equity Investment",
-        "title_zh": "为什么相干公司 (COHR) 在 Nvidia 的 AI 光学交易和股权投资后上涨 11.9%",
-        "summary": "In recent days, Coherent Corp. reported strong growth in its Data Center & Communications segment and secured a multibillion‑dollar AI datacenter infrastructure partnership with Nvidia, which also took an equity stake to support expanded photonics capacity.",
-        "summary_zh": "最近几天，相干公司报告其数据中心和通信部门强劲增长，并与英伟达建立了价值数十亿美元的人工智能数据中心基础设施合作伙伴关系，英伟达还持有股权以支持扩大的光子学能力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-cohr-11-9-043123374.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1780461083,
+        "title": "Stocks drop on AI, rate hike worries as Lebanon deal hits oil",
+        "title_zh": "由于黎巴嫩协议打击石油，人工智能和加息担忧导致股市下跌",
+        "summary": "Stocks sank Thursday after a disappointing forecast by chip giant Broadcom stoked concerns about the AI trade, while stronger-than-expected US data compounded speculation the Federal Reserve could hike interest rates.Speculation is rising that a strong reading -- which would c...",
+        "summary_zh": "芯片巨头博通(Broadcom)令人失望的预测引发了人们对人工智能行业的担忧，而强于预期的美国数据加剧了美联储可能加息的猜测。市场猜测强劲的数据将...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
+        "publisher": "AFP",
+        "publish_time": 1780542381,
         "type": "News"
     },
     {
-        "title": "Greg Abel Puts His Stamp on Berkshire Hathaway With Pair of Megadeals",
-        "title_zh": "格雷格·阿贝尔 (Greg Abel) 通过两项大型交易为伯克希尔·哈撒韦公司 (Berkshire Hathaway) 留下了自己的印记",
-        "summary": "In one weekend, Warren Buffett’s successor has given shareholders a reason to believe he is a savvy dealmaker.",
-        "summary_zh": "在一个周末，沃伦·巴菲特的继任者让股东有理由相信他是一位精明的交易撮合者。",
-        "link": "https://www.wsj.com/finance/greg-abel-puts-his-stamp-on-berkshire-hathaway-with-pair-of-megadeals-f85c8e6c?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1780452000,
+        "title": "Oil Extends Gain as US-Iran Clashes Cloud Outlook for Peace Deal",
+        "title_zh": "美伊冲突令和平协议前景黯淡，油价扩大涨幅",
+        "summary": "(Bloomberg) -- Oil rose for a third day as a fresh exchange of strikes between the US and Iran cast doubt on the prospects of a peace deal that would reopen the Strait of Hormuz.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborTrump to Get Au...",
+        "summary_zh": "（彭博社）——美国和伊朗之间新一轮的交锋让人们对重新开放霍尔木兹海峡的和平协议的前景产生怀疑，油价连续第三天上涨。",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/oil-holds-two-day-gain-220146326.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780514187,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet’s $85 Billion Stock Deal Could Open Faucet for Big Tech Offerings",
+        "title_zh": "Alphabet 850 亿美元的股票交易可能为大型科技产品打开水龙头",
+        "summary": "Alphabet plans to raise $85 billion through equity sales to fund its 2026 and 2027 capital expenditures.",
+        "summary_zh": "Alphabet 计划通过股权销售筹集 850 亿美元，为其 2026 年和 2027 年的资本支出提供资金。",
+        "link": "https://www.barrons.com/articles/alphabet-google-stock-sale-ai-funding-meta-041c029b?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1780508400,
         "type": "News"
     },
     {
@@ -30,23 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Pricing details emerge on $36B private credit deal for Anthropic",
-        "title_zh": "Anthropic 36B 美元私人信贷交易的定价细节浮出水面",
-        "summary": "Pricing details have emerged on the $36 billion of investment-grade structured notes being shopped around by Apollo and Blackstone to private credit investors as part of a deal to purchase and then lease chips to AI giant Anthropic, according to market sources.",
-        "summary_zh": "据市场消息人士透露，阿波罗和黑石向私人信贷投资者出售 360 亿美元的投资级结构性票据，作为购买芯片然后租赁给人工智能巨头 Anthropic 交易的一部分，定价细节已经公布。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/pricing-details-emerge-36b-private-212901754.html",
-        "publisher": "Pitchbook",
-        "publish_time": 1780435741,
-        "type": "News"
-    },
-    {
-        "title": "Berkshire Hathaway Got a Sweet Deal on Alphabet Stock",
-        "title_zh": "伯克希尔哈撒韦公司获得了 Alphabet 股票的优惠交易",
-        "summary": "Alphabet, Google’s parent, gave Berkshire a 6% discount off its Monday closing stock price. It isn’t that unusual—for very good reasons.",
-        "summary_zh": "谷歌母公司 Alphabet 给予伯克希尔周一收盘价 6% 的折扣。这并不罕见——有充分的理由。",
-        "link": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-stock-deal-discount-0371c682?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1780431900,
+        "title": "U.S. Bancorp Completes BTIG Buyout, Expands Capital Markets Platform",
+        "title_zh": "U.S. Bancorp 完成 BTIG 收购，扩大资本市场平台",
+        "summary": "USB completes BTIG buyout, adding equity trading, equity capital markets and M&A advisory to expand its capital markets platform and fee-based revenue mix.",
+        "summary_zh": "USB 完成 BTIG 收购，增加股权交易、股权资本市场和并购咨询，以扩大其资本市场平台和收费收入组合。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-completes-btig-buyout-173200167.html",
+        "publisher": "Zacks",
+        "publish_time": 1780421520,
         "type": "News"
     }
 ]
