@@ -1,15 +1,5 @@
 [
     {
-        "title": "Stocks drop on AI, rate hike worries as Lebanon deal hits oil",
-        "title_zh": "由于黎巴嫩协议打击石油，人工智能和加息担忧导致股市下跌",
-        "summary": "Stocks sank Thursday after a disappointing forecast by chip giant Broadcom stoked concerns about the AI trade, while stronger-than-expected US data compounded speculation the Federal Reserve could hike interest rates.Speculation is rising that a strong reading -- which would c...",
-        "summary_zh": "芯片巨头博通(Broadcom)令人失望的预测引发了人们对人工智能行业的担忧，而强于预期的美国数据加剧了美联储可能加息的猜测。市场猜测强劲的数据将...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
-        "publisher": "AFP",
-        "publish_time": 1780542381,
-        "type": "News"
-    },
-    {
         "title": "Oil Extends Gain as US-Iran Clashes Cloud Outlook for Peace Deal",
         "title_zh": "美伊冲突令和平协议前景黯淡，油价扩大涨幅",
         "summary": "(Bloomberg) -- Oil rose for a third day as a fresh exchange of strikes between the US and Iran cast doubt on the prospects of a peace deal that would reopen the Strait of Hormuz.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborTrump to Get Au...",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-completes-btig-buyout-173200167.html",
         "publisher": "Zacks",
         "publish_time": 1780421520,
+        "type": "News"
+    },
+    {
+        "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
+        "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
+        "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
+        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）的远期市盈率为 12.83，是十大值得买入的低市盈率最佳成长股之一。 5 月 21 日，KKR & Co. Inc.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-strikes-multibillion-dollar-deal-143916906.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1780238356,
         "type": "News"
     }
 ]

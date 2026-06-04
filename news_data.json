@@ -1,32 +1,82 @@
 [
     {
-        "title": "Stocks slide on flare-up in Middle East fighting; oil eases off highs",
-        "title_zh": "中东战火加剧，股市下跌；油价从高点回落",
-        "summary": "By Gregor Stuart Hunter SINGAPORE, June 4 (Reuters) - Asian stocks fell on Thursday as renewed fighting between the U.S. and Iran rattled investors, although oil slipped from recent highs after Israel",
-        "summary_zh": "路透新加坡 6 月 4 日 - 由于美国和伊朗之间的新一轮战斗令投资者感到不安，亚洲股市周四下跌，但以色列之后油价从近期高点回落",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-flare-hostilities-004311703.html",
+        "title": "Nasdaq futures lead declines after Broadcom results disappoint",
+        "title_zh": "博通业绩令人失望，纳斯达克期货领跌",
+        "summary": "By Medha Singh and Twesha Dikshit June 4 (Reuters) - S&P 500 and Nasdaq 100 futures fell on Thursday, as Broadcom's revenue miss pressured chip stocks, while equity investors took a breather after a",
+        "summary_zh": "Medha Singh 和 Twesha Dikshit 6 月 4 日（路透社） - 标准普尔 500 指数和纳斯达克 100 指数期货周四下跌，因为博通的收入不及预期给芯片股带来压力，而股票投资者在经历了",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-lead-declines-broadcom-095000661.html",
         "publisher": "Reuters",
-        "publish_time": 1780542477,
+        "publish_time": 1780570910,
         "type": "News"
     },
     {
-        "title": "Meta accuses Australia of breaching FTA, invokes US 'trade action'",
-        "title_zh": "Meta指责澳大利亚违反自由贸易协定，援引美国的“贸易行动”",
-        "summary": "SYDNEY, June 4 (Reuters) - Meta accused Australia of violating a free trade agreement with the U.S. by proposing a new tax on certain tech giants which do not strike licensing deals with local media,",
-        "summary_zh": "路透悉尼 6 月 4 日 - Meta 指责澳大利亚提议对某些未与当地媒体达成许可协议的科技巨头征收新税，违反了与美国的自由贸易协定。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/meta-accuses-australia-breaching-fta-005403983.html",
+        "title": "Thailand watchdog plans legal action against Meta's Facebook for failing to protect against scammers",
+        "title_zh": "泰国监管机构计划对 Meta 的 Facebook 采取法律行动，原因是其未能防范诈骗",
+        "summary": "",
+        "summary_zh": "",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/thailand-watchdog-plans-legal-action-105330077.html",
         "publisher": "Reuters",
-        "publish_time": 1780534443,
+        "publish_time": 1780570410,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Iran war threatens to drag on",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，因伊朗战争可能持续下去",
-        "summary": "US stock futures slipped as doubts about President Trump’s ability to end the war with Iran rattled Wall Street.",
-        "summary_zh": "由于对特朗普总统结束与伊朗战争的能力的怀疑令华尔街感到不安，美国股指期货下跌。",
-        "link": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-iran-war-threatens-to-drag-on-230054858.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780527654,
+        "title": "Morning Bid: Summer clouds",
+        "title_zh": "早盘：夏日云彩",
+        "summary": "June 4 (Reuters) - What matters in U. and global markets today , Editor-at-Large, Finance and Markets The S&P; 500 failed to clock its 10th straight daily gain on Wednesday and there are some clouds gathering in markets.",
+        "summary_zh": "6 月 4 日（路透社）- 当今美国和全球市场最重要的是什么，标准普尔金融与市场特约编辑；周三，500 指数未能连续第十个交易日上涨，市场上阴云密布。",
+        "link": "https://finance.yahoo.com/news/morning-bid-summer-clouds-104509872.html",
+        "publisher": "Reuters",
+        "publish_time": 1780569909,
+        "type": "News"
+    },
+    {
+        "title": "Former School of Rock CEO's guide to overcoming midlife burnout",
+        "title_zh": "摇滚学院前首席执行官克服中年倦怠的指南",
+        "summary": "Former School of Rock CEO Matt Ross details his journey scaling creative education franchises like School of Rock, overcoming intense personal and professional hardships, and the life lessons on mental health and purpose detailed in his book, Grow or Fold.",
+        "summary_zh": "School of Rock 前首席执行官马特·罗斯 (Matt Ross) 详细介绍了他扩展 School of Rock 等创意教育特许经营权的历程、克服个人和职业上的巨大困难，以及在他的书《成长或折叠》中详细介绍的有关心理健康和目标的人生教训。",
+        "link": "https://finance.yahoo.com/video/former-school-rock-ceos-guide-100000889.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780567200,
+        "type": "News"
+    },
+    {
+        "title": "Amazon unveils new AI warehouse robot in $12 billion Europe push",
+        "title_zh": "亚马逊斥资120亿美元在欧洲推出新型人工智能仓库机器人",
+        "summary": "Amazon on Thursday unveiled an upgraded AI-powered mobile robot for its warehouses that can ‌respond to conversational prompts, as part of a €10 billion ($11.6 billion) investment ‌in its European fulfilment network.",
+        "summary_zh": "亚马逊周四为其仓库推出了一款升级版的人工智能移动机器人，该机器人可以响应对话提示，这是其欧洲配送网络 100 亿欧元（116 亿美元）投资的一部分。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/amazon-unveils-ai-warehouse-robot-093135888.html",
+        "publisher": "Reuters",
+        "publish_time": 1780565495,
+        "type": "News"
+    },
+    {
+        "title": "TSMC boss bets big on AI growth, says he'd 'like' to hike chip prices",
+        "title_zh": "台积电老板对人工智能增长押下重注，称他“希望”提高芯片价格",
+        "summary": "STORY: The world's largest contract chipmaker TSMC says it's confident in its growth over the next few years...thanks to robust demand for computing power and advanced semiconductors as it rides a relentless AI boom.The Taiwanese firm's CEO spoke at its annual shareholders mee...",
+        "summary_zh": "故事：全球最大的代工芯片制造商台积电表示，对其未来几年的增长充满信心……这要归功于人工智能的蓬勃发展，对计算能力和先进半导体的强劲需求。这家台湾公司的首席执行官在年度股东大会上发表讲话……",
+        "link": "https://finance.yahoo.com/video/tsmc-boss-bets-big-ai-084906970.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1780562946,
+        "type": "News"
+    },
+    {
+        "title": "Cerebras Says It’s Working With All AI Gear Makers Except Nvidia",
+        "title_zh": "Cerebras 表示正在与除 Nvidia 之外的所有人工智能设备制造商合作",
+        "summary": "(Bloomberg) -- Cerebras Systems Inc.",
+        "summary_zh": "（彭博社）——Cerebras Systems Inc.",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/cerebras-says-working-ai-gear-043756591.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780547876,
+        "type": "News"
+    },
+    {
+        "title": "Netflix Aims to Use AI to Help Viewers Manage Content Overload",
+        "title_zh": "Netflix 旨在利用人工智能帮助观众管理内容过载",
+        "summary": "(Bloomberg) -- Netflix Inc.",
+        "summary_zh": "（彭博社）——Netflix 公司",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/netflix-aims-ai-help-viewers-034428398.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780544668,
         "type": "News"
     },
     {
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/video/why-a-broader-market-could-mean-trouble-for-growth-stocks-202940284.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1780518580,
-        "type": "News"
-    },
-    {
-        "title": "What's justifying SpaceX's $2T valuation target ahead of IPO?",
-        "title_zh": "SpaceX 在 IPO 前设定 2T 美元估值目标的理由是什么？",
-        "summary": "According to Reuters, SpaceX (SPAX.PVT) is gunning for an IPO date of Friday, June 12, with hopes to begin trading on the Nasdaq at $135 per share. This could launch the value of Elon Musk's private space operator to $2 trillion.",
-        "summary_zh": "据路透社报道，SpaceX (SPAX.PVT) 计划于 6 月 12 日星期五进行 IPO，希望以每股 135 美元的价格在纳斯达克开始交易。这可能会使埃隆·马斯克 (Elon Musk) 的私人太空运营商的价值达到 2 万亿美元。",
-        "link": "https://finance.yahoo.com/video/whats-justifying-spacexs-2t-valuation-201500982.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780517700,
-        "type": "News"
-    },
-    {
-        "title": "Used Cybertrucks are in demand, but that won't move Tesla stock",
-        "title_zh": "二手赛博卡车需求旺盛，但这不会影响特斯拉股价",
-        "summary": "Tesla's (TSLA) first official Cybertruck inventory sold out in 24 hours. Barron's associate editor Al Root explains why and addresses whether the Cybertruck has any bearing on Tesla's stock.",
-        "summary_zh": "特斯拉 (TSLA) 首批官方 Cyber​​truck 库存在 24 小时内售罄。 《巴伦周刊》副主编 Al Root 解释了原因，并讨论了 Cyber​​truck 是否对特斯拉的股票有任何影响。",
-        "link": "https://finance.yahoo.com/video/used-cybertrucks-demand-wont-move-200343181.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780517023,
-        "type": "News"
-    },
-    {
-        "title": "Apple's new feature takes the pain out of splitting the check",
-        "title_zh": "苹果的新功能消除了分摊支票的痛苦",
-        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma and Senior Business Reporter Ines Ferre join Josh Lipton on Market Domination to discuss Apple's (AAPL) new feature to split bills by taking a photo of a receipt.",
-        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 和高级商业记者伊内斯·费雷 (Ines Ferre) 与乔什·利普顿 (Josh Lipton) 一起讨论《市场统治》，讨论苹果公司 (AAPL) 通过拍摄收据照片来分摊账单的新功能。",
-        "link": "https://finance.yahoo.com/video/apples-feature-takes-pain-splitting-195914495.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780516754,
-        "type": "News"
-    },
-    {
-        "title": "Apple CEO Tim Cook explains why he's stepping down",
-        "title_zh": "苹果首席执行官蒂姆·库克解释了他辞职的原因",
-        "summary": "Apple CEO Tim Cook explains why he's stepping down.",
-        "summary_zh": "苹果首席执行官蒂姆·库克解释了他辞职的原因。",
-        "link": "https://finance.yahoo.com/video/apple-ceo-tim-cook-explains-195727340.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780516647,
-        "type": "News"
-    },
-    {
-        "title": "Meta, Microsoft, Amazon, and Alphabet are about to spend a shocking amount of money to dominate the AI era",
-        "title_zh": "Meta、微软、亚马逊、Alphabet 即将斥巨资称霸 AI 时代",
-        "summary": "The spending on AI has only just begun.",
-        "summary_zh": "人工智能方面的支出才刚刚开始。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/meta-microsoft-amazon-and-alphabet-are-about-to-spend-a-shocking-amount-of-money-to-dominate-the-ai-era-115359575.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780487639,
         "type": "News"
     }
 ]
