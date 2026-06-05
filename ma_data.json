@@ -1,52 +1,42 @@
 [
     {
-        "title": "Oil Extends Gain as US-Iran Clashes Cloud Outlook for Peace Deal",
-        "title_zh": "美伊冲突令和平协议前景黯淡，油价扩大涨幅",
-        "summary": "(Bloomberg) -- Oil rose for a third day as a fresh exchange of strikes between the US and Iran cast doubt on the prospects of a peace deal that would reopen the Strait of Hormuz.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborTrump to Get Au...",
-        "summary_zh": "（彭博社）——美国和伊朗之间新一轮的交锋让人们对重新开放霍尔木兹海峡的和平协议的前景产生怀疑，油价连续第三天上涨。",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/oil-holds-two-day-gain-220146326.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780514187,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet’s $85 Billion Stock Deal Could Open Faucet for Big Tech Offerings",
-        "title_zh": "Alphabet 850 亿美元的股票交易可能为大型科技产品打开水龙头",
-        "summary": "Alphabet plans to raise $85 billion through equity sales to fund its 2026 and 2027 capital expenditures.",
-        "summary_zh": "Alphabet 计划通过股权销售筹集 850 亿美元，为其 2026 年和 2027 年的资本支出提供资金。",
-        "link": "https://www.barrons.com/articles/alphabet-google-stock-sale-ai-funding-meta-041c029b?siteid=yhoof2&yptr=yahoo",
+        "title": "Pinterest and IBM Just Struck Massive AI Deals. Amazon and Google Are the Big Winners.",
+        "title_zh": "Pinterest 和 IBM 刚刚达成大规模人工智能交易。亚马逊和谷歌是大赢家。",
+        "summary": "Amazon stock and Alphabet were gaining on Thursday as they announced AI deals, shrugging off concerns about the technology sector.",
+        "summary_zh": "亚马逊和 Alphabet 周四宣布人工智能交易，股价上涨，摆脱了对科技行业的担忧。",
+        "link": "https://www.barrons.com/articles/amazon-google-ai-deals-ibm-pinterest-fe8e3150?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "publish_time": 1780508400,
+        "publish_time": 1780598280,
         "type": "News"
     },
     {
-        "title": "Broadcom Backing Lowers Debt Costs on $36 Billion Anthropic Deal",
-        "title_zh": "Broadcom 支持降低 360 亿美元 Anthropic 交易的债务成本",
-        "summary": "(Bloomberg) -- Broadcom Inc.’s promise to backstop the largest portion of a record-setting microchip financing deal for Anthropic is keeping yields for the deal in check, according to people familiar with the matter.",
-        "summary_zh": "(彭博社)——据知情人士透露，博通公司承诺支持 Anthropic 创纪录的微芯片融资交易的最大部分，这使得该交易的收益率受到控制。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/broadcom-backing-lowers-debt-costs-214819066.html",
+        "title": "Databricks CEO Plans to Avoid IPO During Year of Huge Offerings",
+        "title_zh": "Databricks 首席执行官计划在巨额发行之年避免 IPO",
+        "summary": "(Bloomberg) -- Databricks, a data software company, plans to sell shares to the public at some point, but won’t tap the public markets this year amid a flurry of planned tech IPOs.Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleRepublican-Led Ho...",
+        "summary_zh": "（彭博社）——数据软件公司 Databricks 计划在某个时候向公众出售股票，但由于一系列计划中的科技 IPO，今年不会进入公开市场。 BloombergGlazer 家族成员研究的大多数人都在研究曼联股权出售共和党领导的霍...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/databricks-ceo-plans-avoid-ipo-155905048.html",
         "publisher": "Bloomberg",
-        "publish_time": 1780436899,
+        "publish_time": 1780588745,
         "type": "News"
     },
     {
-        "title": "U.S. Bancorp Completes BTIG Buyout, Expands Capital Markets Platform",
-        "title_zh": "U.S. Bancorp 完成 BTIG 收购，扩大资本市场平台",
-        "summary": "USB completes BTIG buyout, adding equity trading, equity capital markets and M&A advisory to expand its capital markets platform and fee-based revenue mix.",
-        "summary_zh": "USB 完成 BTIG 收购，增加股权交易、股权资本市场和并购咨询，以扩大其资本市场平台和收费收入组合。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-completes-btig-buyout-173200167.html",
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
         "publisher": "Zacks",
-        "publish_time": 1780421520,
-        "type": "News"
-    },
-    {
-        "title": "KKR Strikes A Multibillion-Dollar Deal As Its Industrial Strategy Advances",
-        "title_zh": "KKR 达成数十亿美元交易，推进产业战略",
-        "summary": "With a forward P/E ratio of 12.83, KKR & Co. Inc. (NYSE:KKR) is among the 10 Best Growth Stocks to Buy with Low P/E Ratios. On May 21, KKR & Co. Inc.",
-        "summary_zh": "KKR & Co. Inc.（纽约证券交易所股票代码：KKR）的远期市盈率为 12.83，是十大值得买入的低市盈率最佳成长股之一。 5 月 21 日，KKR & Co. Inc.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-strikes-multibillion-dollar-deal-143916906.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1780238356,
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
