@@ -1,42 +1,42 @@
 [
     {
-        "title": "SpaceX denied fast-track S&P entry, begins investor roadshow",
-        "title_zh": "SpaceX 拒绝进入标准普尔快速通道，开始投资者路演",
-        "summary": "STORY: SpaceX will not be getting fast-track entry into the S&P 500 after all.On Thursday, index operator S&P Global said it would not change the rules for inclusion.The rocket firm is set for a record share listing next week.That could see it raise $75 billion and secure a va...",
-        "summary_zh": "故事：SpaceX 毕竟不会快速进入标准普尔 500 指数。周四，指数运营商 S&P Global 表示不会改变纳入规则。这家火箭公司将于下周上市，创下创纪录的股票上市纪录。这可能会使其筹集 750 亿美元资金，并获得...",
-        "link": "https://finance.yahoo.com/video/spacex-denied-fast-track-p-042007099.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1780633207,
-        "type": "News"
-    },
-    {
-        "title": "Trump Officials Worry US Loophole Let Chinese Firms Buy Nvidia Blackwell Chips",
-        "title_zh": "特朗普官员担心美国存在漏洞让中国企业购买 Nvidia Blackwell 芯片",
-        "summary": "(Bloomberg) -- Trump officials have spent the past week embroiled in a remarkable argument — over what, exactly, their China tech policy has been for the past year.Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleSpaceX, Other Mega IPOs Denied Fa...",
-        "summary_zh": "（彭博社）——过去一周，特朗普官员卷入了一场引人注目的争论——关于他们过去一年的对华科技政策到底是什么。彭博社格雷泽家族成员研究的大多数人阅读了曼联股权出售 SpaceX 和其他大型 IPO 否认的事实...",
-        "link": "https://finance.yahoo.com/economy/policy/articles/trump-officials-worry-us-loophole-035453111.html",
+        "title": "Anthropic Says World Needs System to Decide on AI Work Pause",
+        "title_zh": "Anthropic 表示世界需要系统来决定人工智能工作暂停",
+        "summary": "(Bloomberg) -- Anthropic PBC called for the creation of a system in which governments and artificial intelligence developers collectively decide when to slow work on the technology to stave off the risks it may pose.",
+        "summary_zh": "（彭博社）——Anthropic PBC 呼吁创建一个系统，让政府和人工智能开发人员共同决定何时放慢该技术的开发速度，以避免其可能带来的风险。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/anthropic-calls-ai-pause-button-093536556.html",
         "publisher": "Bloomberg",
-        "publish_time": 1780631693,
+        "publish_time": 1780659282,
         "type": "News"
     },
     {
-        "title": "Stock market today: S&P 500, Nasdaq futures slip ahead of May jobs report",
-        "title_zh": "今日股市：标准普尔 500 指数和纳斯达克期货在 5 月份就业报告发布前下跌",
-        "summary": "US stock futures mostly fell in the wait for the release of the May jobs report.",
-        "summary_zh": "在等待5月份就业报告发布期间，美国股指期货大多下跌。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-slip-ahead-of-may-jobs-report-230134463.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780614094,
+        "title": "U.S. equity fund inflows surge as tech rally boosts sentiment",
+        "title_zh": "科技股上涨提振市场情绪，美国股票基金流入激增",
+        "summary": "equity funds attracted the largest weekly inflow in three weeks in the ‌week to June 3 as robust earnings ‌outlooks by some technology companies extended a bull run in AI-linked ​technology stocks. According to LSEG Lipper data, investors bought U.",
+        "summary_zh": "截至 6 月 3 日的一周，股票基金吸引了三周以来最大的周度资金流入，因为一些科技公司强劲的盈利前景延续了人工智能相关科技股的牛市。根据 LSEG Lipper 数据，投资者买入了 U.",
+        "link": "https://finance.yahoo.com/news/u-equity-fund-inflows-surge-113342769.html",
+        "publisher": "Reuters",
+        "publish_time": 1780659222,
         "type": "News"
     },
     {
-        "title": "Wall Street Sees SpaceX’s AI Revenue 100 Times Higher by 2030",
-        "title_zh": "华尔街预计 SpaceX 的人工智能收入到 2030 年将增长 100 倍",
-        "summary": "(Bloomberg) -- Research analysts across Wall Street are telling would-be SpaceX IPO buyers that they’re modeling for the company’s artificial intelligence division to see 100 times revenue growth at the end of the decade, to help justify a targeted $1.8 trillion valuation.Most...",
-        "summary_zh": "(彭博社)——华尔街的研究分析师告诉潜在的 SpaceX IPO 买家，他们正在为该公司的人工智能部门建模，希望在本世纪末实现 100 倍的收入增长，以帮助证明 1.8 万亿美元的估值目标是合理的。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/wall-street-sees-spacex-ai-222816264.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780612096,
+        "title": "Nasdaq, S&P futures decline as semiconductors slip; payrolls in focus",
+        "title_zh": "纳斯达克、标准普尔期货因半导体下滑而下跌；薪资成为焦点",
+        "summary": "By Medha Singh and Twesha Dikshit June 5 (Reuters) - S&P 500 and Nasdaq futures fell on Friday, as chipmakers lost steam following a strong rally and investors stayed cautious ahead of the May",
+        "summary_zh": "作者：Medha Singh 和 Twesha Dikshit 6 月 5 日（路透社） - 标准普尔 500 指数和纳斯达克期货周五下跌，因芯片制造商在强劲反弹后失去动力，而投资者在 5 月份之前保持谨慎",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-futures-decline-semiconductors-110740283.html",
+        "publisher": "Reuters",
+        "publish_time": 1780657660,
+        "type": "News"
+    },
+    {
+        "title": "Taiwan's Foxconn raises guidance for second-quarter outlook",
+        "title_zh": "台湾富士康上调第二季度前景指引",
+        "summary": "Taiwan's ‌Foxconn ‌said on Friday ​that its second-quarter performance is ‌likely to ⁠be well above ⁠its previously anticipated ​forecast ​of \"significant\" ​growth.",
+        "summary_zh": "台湾富士康周五表示，其第二季度业绩可能远高于之前“显着”增长的预期。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-raises-guidance-second-074245204.html",
+        "publisher": "Reuters",
+        "publish_time": 1780645365,
         "type": "News"
     },
     {
@@ -50,23 +50,13 @@
         "type": "News"
     },
     {
-        "title": "AI Power Boom Revives Natural Gas as Infrastructure Bet",
-        "title_zh": "人工智能发电热潮重振天然气作为基础设施的赌注",
-        "summary": "(Bloomberg) -- A surge in electricity demand from artificial intelligence and data centers is reshaping North America’s power markets, creating a “renaissance” for natural gas after decades of limited new development, according to KKR & Co.",
-        "summary_zh": "（彭博社）——KKR & Co 表示，人工智能和数据中心带来的电力需求激增正在重塑北美电力市场，在经历了数十年有限的新开发后，为天然气带来了“复兴”。",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/ai-power-boom-revives-natural-190819348.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780600099,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft and OpenAI's relationship continues to crumble",
-        "title_zh": "微软和 OpenAI 的关系继续破裂",
-        "summary": "Microsoft and OpenAI's relationship is getting frostier.",
-        "summary_zh": "微软和 OpenAI 的关系变得越来越冷淡。",
-        "link": "https://finance.yahoo.com/markets/article/microsoft-and-openais-relationship-continues-to-crumble-183330195.html",
+        "title": "Nvidia's laptop chip is a bet that AI will need more than the cloud to flourish",
+        "title_zh": "英伟达的笔记本电脑芯片押注人工智能需要比云更多的东西才能蓬勃发展",
+        "summary": "Nvidia on Monday unveiled its RTX Spark chip for Windows laptops at its GTC Taipei conference.",
+        "summary_zh": "Nvidia 周一在 GTC 台北会议上推出了适用于 Windows 笔记本电脑的 RTX Spark 芯片。",
+        "link": "https://finance.yahoo.com/markets/article/nvidias-laptop-chip-is-a-bet-that-ai-will-need-more-than-the-cloud-to-flourish-171209056.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1780598010,
+        "publish_time": 1780593129,
         "type": "News"
     },
     {
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/sectors/technology/article/alphabet-and-nvidia-reveal-a-surprising-truth-about-the-magnificent-7-stocks-135842197.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1780581522,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom stock sinks. Are AI earnings expectations 'insatiable'?",
+        "title_zh": "博通股票下跌。人工智能的盈利预期是否“无法满足”？",
+        "summary": "Broadcom (AVGO) stock sinks further in Thursday trading despite topping estimates for fiscal second quarter earnings and revenue, while also outpacing forecasts on third quarter guidance.",
+        "summary_zh": "博通 (AVGO) 股价在周四交易中进一步下跌，尽管第二财季盈利和收入超出预期，同时也超出了第三季度指引的预期。",
+        "link": "https://finance.yahoo.com/video/broadcom-stock-sinks-ai-earnings-135803533.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780581483,
         "type": "News"
     }
 ]

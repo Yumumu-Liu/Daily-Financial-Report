@@ -1,12 +1,32 @@
 [
     {
-        "title": "Pinterest and IBM Just Struck Massive AI Deals. Amazon and Google Are the Big Winners.",
-        "title_zh": "Pinterest 和 IBM 刚刚达成大规模人工智能交易。亚马逊和谷歌是大赢家。",
-        "summary": "Amazon stock and Alphabet were gaining on Thursday as they announced AI deals, shrugging off concerns about the technology sector.",
-        "summary_zh": "亚马逊和 Alphabet 周四宣布人工智能交易，股价上涨，摆脱了对科技行业的担忧。",
-        "link": "https://www.barrons.com/articles/amazon-google-ai-deals-ibm-pinterest-fe8e3150?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1780598280,
+        "title": "A 5% Selloff? No Big Deal for Korea's AI-Heavy Benchmark Index",
+        "title_zh": "5% 的抛售？韩国人工智能重磅基准指数没什么大不了的",
+        "summary": "South Korea's tech-heavy benchmark index closed 5.5% lower today. Yawn. It was only the sixth-worst day of 2026. The Kospi Composite is still up 94% this year, powered by a handful of AI-related stocks.",
+        "summary_zh": "韩国以科技股为主的基准指数今天收盘下跌 5.5%。打哈欠。这只是 2026 年表现第六差的一天。在少数人工智能相关股票的推动下，Kospi 综合指数今年仍上涨 94%。",
+        "link": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026/card/a-5-selloff-no-big-deal-for-korea-s-ai-heavy-benchmark-index-QvWNcgLZ0MdwN2sKSZMH?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1780659311,
+        "type": "News"
+    },
+    {
+        "title": "Bodycote Shares Fall After Apollo Pulls Back on Making Firm $2 Billion Takeover Offer",
+        "title_zh": "Apollo 撤回 20 亿美元收购要约后 Bodycote 股价下跌",
+        "summary": "Shares in  Bodycote  fell on Friday after  Apollo  Global Management said it doesn’t intend to make a firm takeover offer, ending discussions over a 1.52 billion-pound ($2.04 billion) proposal.",
+        "summary_zh": "周五，阿波罗全球管理公司表示不打算提出明确的收购要约，结束了有关 15.2 亿英镑（20.4 亿美元）提案的讨论后，Bodycote 的股价下跌。",
+        "link": "https://www.wsj.com/business/deals/apollo-doesnt-plan-to-make-firm-2-billion-takeover-offer-for-bodycote-15b37471?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1780647840,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Leans Into AI With Pinterest Deal And Anthropic IPO Upside",
+        "title_zh": "亚马逊通过 Pinterest 交易和 Anthropic IPO 优势进军人工智能",
+        "summary": "Amazon.com (NasdaqGS:AMZN) signs a US$4b cloud services agreement with Pinterest to expand AI infrastructure on AWS. The Pinterest deal is described as the largest infrastructure commitment in Pinterest's history, focused on AI, cloud, and chip utilization.",
+        "summary_zh": "Amazon.com (NasdaqGS:AMZN) 与 Pinterest 签署了价值 40 亿美元的云服务协议，以扩展 AWS 上的人工智能基础设施。 Pinterest 交易被描述为 Pinterest 历史上最大的基础设施承诺，重点关注人工智能、云和芯片利用。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-leans-ai-pinterest-deal-081315547.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1780647195,
         "type": "News"
     },
     {
@@ -27,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
         "publisher": "MarketBeat",
         "publish_time": 1779022800,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]

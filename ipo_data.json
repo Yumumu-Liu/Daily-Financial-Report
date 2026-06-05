@@ -1,5 +1,15 @@
 [
     {
+        "title": "S&P 500 rejects fast-track entry rules for SpaceX IPO",
+        "title_zh": "标准普尔 500 指数拒绝 SpaceX IPO 的快速进入规则",
+        "summary": "S&P Dow Jones Indices declined to waive profitability, float, and seasoning requirements for megacap IPOs, blocking a swift path into the benchmark",
+        "summary_zh": "标普道琼斯指数拒绝放弃大型股 IPO 的盈利能力、流通量和调味要求，阻碍了快速进入基准指数的道路",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-rejects-fast-track-113150877.html",
+        "publisher": "Quartz",
+        "publish_time": 1780659110,
+        "type": "News"
+    },
+    {
         "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
         "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
         "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
         "publisher": "Zacks",
         "publish_time": 1775139000,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX Eyes IPO as Market Conditions Grow More Uncertain. What the Charts Show.",
-        "title_zh": "随着市场状况变得更加不确定，SpaceX 考虑进行 IPO。图表显示什么。",
-        "summary": "The prospect of a SpaceX IPO has become a key focal point for markets, and any delay tied to deteriorating conditions could carry broader implications.",
-        "summary_zh": "SpaceX 首次公开募股的前景已成为市场的主要焦点，任何因情况恶化而导致的延误都可能带来更广泛的影响。",
-        "link": "https://www.barrons.com/articles/spacex-eyes-ipo-as-market-conditions-grow-more-uncertain-b8fbb297?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1774971420,
         "type": "News"
     }
 ]
