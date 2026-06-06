@@ -1,12 +1,32 @@
 [
     {
-        "title": "A 5% Selloff? No Big Deal for Korea's AI-Heavy Benchmark Index",
-        "title_zh": "5% 的抛售？韩国人工智能重磅基准指数没什么大不了的",
-        "summary": "South Korea's tech-heavy benchmark index closed 5.5% lower today. Yawn. It was only the sixth-worst day of 2026. The Kospi Composite is still up 94% this year, powered by a handful of AI-related stocks.",
-        "summary_zh": "韩国以科技股为主的基准指数今天收盘下跌 5.5%。打哈欠。这只是 2026 年表现第六差的一天。在少数人工智能相关股票的推动下，Kospi 综合指数今年仍上涨 94%。",
-        "link": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026/card/a-5-selloff-no-big-deal-for-korea-s-ai-heavy-benchmark-index-QvWNcgLZ0MdwN2sKSZMH?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1780659311,
+        "title": "RDDT Stock Plunges After Hours On S&P 500 Exclusion: But Wells Fargo Forecasts $550M AI Deal Jackpot",
+        "title_zh": "RDDT 股价盘后暴跌，因标普 500 指数被排除在外：但富国银行预测人工智能交易大奖将高达 5.5 亿美元",
+        "summary": "Wells Fargo’s updated framework highlights Reddit’s data as well-positioned for the shift toward AI inference and agentic applications.",
+        "summary_zh": "富国银行更新的框架强调 Reddit 的数据为向人工智能推理和代理应用的转变做好了充分准备。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rddt-stock-plunges-hours-p-222934332.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1780698574,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX Inks $30 Billion Computing Power Deal With Google",
+        "title_zh": "SpaceX 与 Google 签署价值 300 亿美元的计算能力协议",
+        "summary": "Bloomberg's Bailey Lipschultz breaks down a busy week in SpaceX news, as the aerospace company prepares for an IPO.",
+        "summary_zh": "彭博社的贝利·利普舒尔茨 (Bailey Lipschultz) 在 SpaceX 新闻中分享了忙碌的一周，这家航空航天公司正在准备首次公开募股 (IPO)。",
+        "link": "https://finance.yahoo.com/video/spacex-inks-30-billion-computing-211633710.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780694193,
+        "type": "News"
+    },
+    {
+        "title": "Goldman Is Priced Like a Tech Stock. Investors Can Find Better Deals Elsewhere.",
+        "title_zh": "高盛的定价就像科技股一样。投资者可以在其他地方找到更好的交易。",
+        "summary": "While the fundamental outlook at Goldman looks as good as ever, the stock already reflects that. The shares look pricey relative to peers based on key metrics.",
+        "summary_zh": "尽管高盛的基本面前景看起来一如既往地好，但该股已经反映出了这一点。根据关键指标，与同行相比，这些股票看起来价格昂贵。",
+        "link": "https://www.barrons.com/articles/goldman-sachs-stock-tech-spacex-ipo-984aa3d4?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1780685160,
         "type": "News"
     },
     {
@@ -17,26 +37,6 @@
         "link": "https://www.wsj.com/business/deals/apollo-doesnt-plan-to-make-firm-2-billion-takeover-offer-for-bodycote-15b37471?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1780647840,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Leans Into AI With Pinterest Deal And Anthropic IPO Upside",
-        "title_zh": "亚马逊通过 Pinterest 交易和 Anthropic IPO 优势进军人工智能",
-        "summary": "Amazon.com (NasdaqGS:AMZN) signs a US$4b cloud services agreement with Pinterest to expand AI infrastructure on AWS. The Pinterest deal is described as the largest infrastructure commitment in Pinterest's history, focused on AI, cloud, and chip utilization.",
-        "summary_zh": "Amazon.com (NasdaqGS:AMZN) 与 Pinterest 签署了价值 40 亿美元的云服务协议，以扩展 AWS 上的人工智能基础设施。 Pinterest 交易被描述为 Pinterest 历史上最大的基础设施承诺，重点关注人工智能、云和芯片利用。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-leans-ai-pinterest-deal-081315547.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1780647195,
-        "type": "News"
-    },
-    {
-        "title": "Databricks CEO Plans to Avoid IPO During Year of Huge Offerings",
-        "title_zh": "Databricks 首席执行官计划在巨额发行之年避免 IPO",
-        "summary": "(Bloomberg) -- Databricks, a data software company, plans to sell shares to the public at some point, but won’t tap the public markets this year amid a flurry of planned tech IPOs.Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleRepublican-Led Ho...",
-        "summary_zh": "（彭博社）——数据软件公司 Databricks 计划在某个时候向公众出售股票，但由于一系列计划中的科技 IPO，今年不会进入公开市场。 BloombergGlazer 家族成员研究的大多数人都在研究曼联股权出售共和党领导的霍...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/databricks-ceo-plans-avoid-ipo-155905048.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780588745,
         "type": "News"
     },
     {
