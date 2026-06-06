@@ -1,15 +1,5 @@
 [
     {
-        "title": "Wall Street ends sharply lower as jobs data fuels rate hike fears",
-        "title_zh": "就业数据加剧加息担忧，华尔街收跌",
-        "summary": "STORY: Wall Street’s nine-week winning streak came to an abrupt&nbsp;halt on Friday, with the Dow dropping about one-and-a-third percent, the S&P 500 sliding more than 2.6% and the tech-heavy Nasdaq tumbling nearly 4.2%, its largest one-day percentage loss in more than a year....",
-        "summary_zh": "故事：周五，华尔街九周的连续上涨戛然而止，道琼斯指数下跌约三分之一，标准普尔 500 指数下跌超过 2.6%，以科技股为主的纳斯达克指数下跌近 4.2%，这是一年多来最大单日跌幅……",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-sharply-lower-223301488.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1780698781,
-        "type": "News"
-    },
-    {
         "title": "This Trump-backed drone company is competing directly with China",
         "title_zh": "这家特朗普支持的无人机公司正在与中国直接竞争",
         "summary": "Based in the US, Unusual Machines (UMAC) manufacturers first person view (FPV) drones and parts for other drone developers. President Trump's son, Donald Jr., sits on the company's board and is a prominent shareholder.",
@@ -71,7 +61,7 @@
     },
     {
         "title": "Nasdaq plunges 1,100 points over renewed rate hike concerns",
-        "title_zh": "因加息忧虑重燃 纳指暴跌 1,100 点",
+        "title_zh": "加息担忧再度袭来 纳斯达克暴跌 1,100 点",
         "summary": "US stocks (^DJI, ^IXIC, ^GSPC) sink in Friday trading, the Nasdaq Composite leading losses and closing over 1,100 points lower (4.18%). The market is reacting to May's overwhelmingly positive labor data — 172,000 jobs added the US economy vs.",
         "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）周五交易下跌，纳斯达克综合指数领跌，收盘跌逾 1,100 点（4.18%）。市场正在对 5 月份极其积极的劳动力数据做出反应——美国经济增加了 172,000 个就业岗位，而美国经济则增加了 172,000 个就业岗位。",
         "link": "https://finance.yahoo.com/video/nasdaq-plunges-1100-points-over-renewed-rate-hike-concerns-201137413.html",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/sectors/technology/article/spacex-to-rent-ai-capacity-to-google-for-920-million-per-month-200639544.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1780689999,
+        "type": "News"
+    },
+    {
+        "title": "Meta stock sinks 6% on report of stock sale",
+        "title_zh": "股票出售报告导致 Meta 股价下跌 6%",
+        "summary": "Meta stock fell more than 6% Friday following a report that it will sell new stock to raise cash for its AI buildout.",
+        "summary_zh": "有报道称，Meta 公司将出售新股，为其人工智能建设筹集现金，周五该公司股价下跌逾 6%。",
+        "link": "https://finance.yahoo.com/news/meta-stock-sinks-6-on-report-of-stock-sale-191648412.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780687008,
         "type": "News"
     }
 ]
