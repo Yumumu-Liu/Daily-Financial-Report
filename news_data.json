@@ -1,92 +1,22 @@
 [
     {
-        "title": "This Trump-backed drone company is competing directly with China",
-        "title_zh": "这家特朗普支持的无人机公司正在与中国直接竞争",
-        "summary": "Based in the US, Unusual Machines (UMAC) manufacturers first person view (FPV) drones and parts for other drone developers. President Trump's son, Donald Jr., sits on the company's board and is a prominent shareholder.",
-        "summary_zh": "Unusual Machines (UMAC) 总部位于美国，为其他无人机开发商制造第一人称视角 (FPV) 无人机和零部件。特朗普总统的儿子小唐纳德是该公司的董事会成员，也是重要股东。",
-        "link": "https://finance.yahoo.com/video/this-trump-backed-drone-company-is-competing-directly-with-china-213319304.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780695199,
-        "type": "News"
-    },
-    {
-        "title": "Chip sell-off rattles markets",
-        "title_zh": "芯片抛售扰乱市场",
-        "summary": "Yahoo Finance Senior Reporter Ines Ferre joins Market Domination Overtime to break down the chip stock sell-off that sent shockwaves through the market on Friday, June 5.",
-        "summary_zh": "雅虎财经高级记者伊内斯·费雷 (Ines Ferre) 加入《Market Domination Overtime》节目，打破了 6 月 5 日星期五给市场带来冲击波的芯片股抛售。",
-        "link": "https://finance.yahoo.com/video/chip-sell-off-rattles-markets-210216273.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780693336,
-        "type": "News"
-    },
-    {
-        "title": "What investors can expect from Apple's WWDC",
-        "title_zh": "投资者对苹果 WWDC 有何期待",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Market Domination to preview Apple's (AAPL) Worldwide Developers Conference (WWDC), discussing what investors should watch for and what it will take for the event to be considered a success.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 共同探讨《市场统治》，预览苹果 (AAPL) 全球开发者大会 (WWDC)，讨论投资者应关注的内容以及如何使该活动取得成功。",
-        "link": "https://finance.yahoo.com/video/investors-expect-apples-wwdc-204407201.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780692247,
-        "type": "News"
-    },
-    {
-        "title": "JPMorgan Turns Rosy on Tesla a Day After Dimon Lauds Musk",
-        "title_zh": "戴蒙称赞马斯克一天后，摩根大通对特斯拉的看法变得乐观",
-        "summary": "(Bloomberg) -- The morning after Jamie Dimon offered Elon Musk an audience to talk up SpaceX, JPMorgan Chase & Co.’s new lead autos analyst completely changed the bank’s tune on Tesla Inc.Most Read from BloombergBecerra Advances for California Governor as Hilton Fights SteyerN...",
-        "summary_zh": "（彭博社）——在杰米·戴蒙 (Jamie Dimon) 邀请埃隆·马斯克 (Elon Musk) 与大家谈论 SpaceX 的第二天早上，摩根大通 (JPMorgan Chase & Co.) 的新任首席汽车分析师彻底改变了该银行对特斯拉 (Tesla Inc.) 的看法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-turns-rosy-tesla-day-204335964.html",
+        "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
+        "title_zh": "特朗普人工智能政策顾问克里希南将放弃白宫角色",
+        "summary": "(Bloomberg) -- Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post.Most Read from BloombergTrump Says He, Not Congress, Is in Charge of Kennedy Center in ReversalBecerra Advances for California Governor as Hilton Fights SteyerW...",
+        "summary_zh": "（彭博社）——白宫人工智能高级顾问斯里拉姆·克里希南 (Sriram Krishnan) 即将卸任。彭博社的大多数报道特朗普表示，负责肯尼迪中心的是他，而不是国会，希尔顿与斯泰尔的斗争，贝塞拉为加州州长提供了逆转……",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-ai-policy-adviser-krishnan-191009846.html",
         "publisher": "Bloomberg",
-        "publish_time": 1780692215,
+        "publish_time": 1780773009,
         "type": "News"
     },
     {
-        "title": "SpaceX and Other Mega IPOs May Wait Years to Join the S&P 500",
-        "title_zh": "SpaceX 和其他大型 IPO 可能要等待数年才能加入标准普尔 500 指数",
-        "summary": "(Bloomberg) -- Mega-IPO candidates including SpaceX are expected to face a long road to entry to the S&P 500 Index, after the company that makes the rules rejected a proposal that included relaxing the requirement that they be profitable.Most Read from BloombergBecerra Advance...",
-        "summary_zh": "（彭博社）——在制定规则的公司拒绝了一项包括放宽盈利要求的提案后，包括 SpaceX 在内的大型 IPO 候选人预计将面临进入标准普尔 500 指数的漫长道路。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-other-mega-ipos-may-203911463.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780691951,
-        "type": "News"
-    },
-    {
-        "title": "CLARITY Act may not get passed in 2026: 'Not the end all, be all for crypto'",
-        "title_zh": "CLARITY 法案可能不会在 2026 年获得通过：“这还不是最终结果，一切都为了加密”",
-        "summary": "In bitcoin's (BTC-USD) latest slump, the cryptocurrency has sunk below $60,000 on Friday. The CLARITY Act — the Congressional bill for crypto regulation — currently sits on the Senate's schedule for a possible vote before lawmakers' summer recess.",
-        "summary_zh": "在比特币 (BTC-USD) 的最新暴跌中，该加密货币已于周五跌破 60,000 美元。 《清晰法案》——国会的加密货币监管法案——目前已列入参议院日程，可能会在立法者夏季休会前进行投票。",
-        "link": "https://finance.yahoo.com/video/clarity-act-may-not-get-passed-in-2026-not-the-end-all-be-all-for-crypto-201421861.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780690461,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq plunges 1,100 points over renewed rate hike concerns",
-        "title_zh": "加息担忧再度袭来 纳斯达克暴跌 1,100 点",
-        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) sink in Friday trading, the Nasdaq Composite leading losses and closing over 1,100 points lower (4.18%). The market is reacting to May's overwhelmingly positive labor data — 172,000 jobs added the US economy vs.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）周五交易下跌，纳斯达克综合指数领跌，收盘跌逾 1,100 点（4.18%）。市场正在对 5 月份极其积极的劳动力数据做出反应——美国经济增加了 172,000 个就业岗位，而美国经济则增加了 172,000 个就业岗位。",
-        "link": "https://finance.yahoo.com/video/nasdaq-plunges-1100-points-over-renewed-rate-hike-concerns-201137413.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780690297,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX to rent AI capacity to Google for $920 million per month",
-        "title_zh": "SpaceX 将以每月 9.2 亿美元的价格向谷歌出租人工智能产能",
-        "summary": "Google (GOOG, GOOGL) has entered into an agreement with SpaceX to rent computing capacity from the rocket company to power its AI capabilities.",
-        "summary_zh": "谷歌（GOOG，GOOGL）已与 SpaceX 达成协议，从该火箭公司租赁计算能力，为其人工智能功能提供动力。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/spacex-to-rent-ai-capacity-to-google-for-920-million-per-month-200639544.html",
+        "title": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
+        "title_zh": "立法者投资科技、人工智能和加密货币，行业新规则已提上议程",
+        "summary": "As Congress debates new regulations around artificial intelligence and cryptocurrency, lawmakers' stock portfolios have surged in recent years toward investments in these sectors.",
+        "summary_zh": "随着国会就人工智能和加密货币的新法规进行辩论，立法者的股票投资组合近年来激增，转向这些领域的投资。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/lawmakers-invest-in-tech-ai-and-crypto-as-new-rules-for-the-industries-are-on-their-agenda-114556895.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1780689999,
-        "type": "News"
-    },
-    {
-        "title": "Meta stock sinks 6% on report of stock sale",
-        "title_zh": "股票出售报告导致 Meta 股价下跌 6%",
-        "summary": "Meta stock fell more than 6% Friday following a report that it will sell new stock to raise cash for its AI buildout.",
-        "summary_zh": "有报道称，Meta 公司将出售新股，为其人工智能建设筹集现金，周五该公司股价下跌逾 6%。",
-        "link": "https://finance.yahoo.com/news/meta-stock-sinks-6-on-report-of-stock-sale-191648412.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780687008,
+        "publish_time": 1780746356,
         "type": "News"
     }
 ]

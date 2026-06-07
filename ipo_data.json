@@ -1,12 +1,22 @@
 [
     {
-        "title": "Don't expect to see SpaceX on the S&P 500 so soon after IPO",
-        "title_zh": "不要指望在 IPO 后这么快就能看到 SpaceX 进入标准普尔 500 指数",
-        "summary": "S&P Dow Jones Indices stated that it will not be changing its rules to fast-track SpaceX (SPAX.PVT) and other mega-IPOs into the S&P 500 index (^GSPC).",
-        "summary_zh": "标准普尔道琼斯指数表示，不会改变将 SpaceX (SPAX.PVT) 和其他大型 IPO 快速纳入标准普尔 500 指数 (^GSPC) 的规则。",
-        "link": "https://finance.yahoo.com/video/dont-expect-see-spacex-p-134758316.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780667278,
+        "title": "What Will SpaceX’s IPO Mean for Your Index Funds?",
+        "title_zh": "SpaceX 的 IPO 对您的指数基金意味着什么？",
+        "summary": "Why the stock will be in your Nasdaq 100 fund but not your S&P 500 fund—and other quirks of the largest IPO ever.",
+        "summary_zh": "为什么这只股票将被纳入您的纳斯达克 100 指数基金，而不是您的标准普尔 500 指数基金——以及有史以来最大的 IPO 的其他怪癖。",
+        "link": "https://www.barrons.com/articles/spacex-ipo-index-fund-investors-d74f2193?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1780778520,
+        "type": "News"
+    },
+    {
+        "title": "VTI vs. VOO: Which Vanguard ETF Will Buy More SpaceX Stock After Its IPO?",
+        "title_zh": "VTI 与 VOO：哪个 Vanguard ETF 将在 IPO 后购买更多 SpaceX 股票？",
+        "summary": "SpaceX will be added to the Vanguard Total Stock Market ETF far more quickly than it will to the Vanguard S&P 500 ETF.",
+        "summary_zh": "SpaceX 被纳入 Vanguard Total Stock Market ETF 的速度将远远快于其被纳入 Vanguard S&P 500 ETF 的速度。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/vti-vs-voo-vanguard-etf-190500282.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1780772700,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/inspire-brands-picks-banks-ipo-175149000.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1776448309,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX IPO Set to Be a Catalyst for 2026 IPO Boom: ETFs to Gain",
-        "title_zh": "SpaceX IPO 将成为 2026 年 IPO 热潮的催化剂：ETF 将获利",
-        "summary": "SpaceX could be the catalyst for a surge as the U.S. IPO market eyes a comeback. ETFs like FPX, IPO and IPOS offer an easy way to gain exposure.",
-        "summary_zh": "随着美国 IPO 市场有望卷土重来，SpaceX 可能成为股价飙升的催化剂。 FPX、IPO 和 IPOS 等 ETF 提供了一种获得投资的简单方法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
-        "publisher": "Zacks",
-        "publish_time": 1775139000,
         "type": "News"
     }
 ]
