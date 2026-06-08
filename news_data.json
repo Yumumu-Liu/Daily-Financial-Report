@@ -1,22 +1,52 @@
 [
     {
-        "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-        "title_zh": "特朗普人工智能政策顾问克里希南将放弃白宫角色",
-        "summary": "(Bloomberg) -- Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post.Most Read from BloombergTrump Says He, Not Congress, Is in Charge of Kennedy Center in ReversalWhy Oil’s Not at $200 After the Biggest Supply Shock in HistoryBe...",
-        "summary_zh": "（彭博社）——白宫人工智能高级顾问斯里拉姆·克里希南 (Sriram Krishnan) 即将卸任。彭博社的大多数报道特朗普表示，负责肯尼迪中心的是他，而不是国会。历史上最严重的供应冲击之后，为何油价没有达到 200 美元……",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-ai-policy-adviser-krishnan-191009846.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1780773009,
+        "title": "Tumbling tech darlings slam brakes on AI rally",
+        "title_zh": "科技宠儿的跌倒给人工智能的涨势猛踩刹车",
+        "summary": "By Tom Westbrook SINGAPORE, June 8 (Reuters) - Asian stocks plunged on Monday as investors rushed out of the hottest AI-linked shares on fears the bull run has gone too far, too fast and as fresh",
+        "summary_zh": "路透新加坡 6 月 8 日 - 亚洲股市周一暴跌，投资者因担心牛市走得太远、太快、太新鲜而纷纷抛售最热门的人工智能相关股票。",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html",
+        "publisher": "Reuters",
+        "publish_time": 1780887217,
         "type": "News"
     },
     {
-        "title": "Lawmakers invest in tech, AI, and crypto as new rules for the industries are on their agenda",
-        "title_zh": "立法者投资科技、人工智能和加密货币，行业新规则已提上议程",
-        "summary": "As Congress debates new regulations around artificial intelligence and cryptocurrency, lawmakers' stock portfolios have surged in recent years toward investments in these sectors.",
-        "summary_zh": "随着国会就人工智能和加密货币的新法规进行辩论，立法者的股票投资组合近年来激增，转向这些领域的投资。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/lawmakers-invest-in-tech-ai-and-crypto-as-new-rules-for-the-industries-are-on-their-agenda-114556895.html",
+        "title": "Apple WWDC preview: Apple gets a second shot at its AI rollout",
+        "title_zh": "苹果 WWDC 预览：苹果再次推出人工智能",
+        "summary": "Apple will hold its WWDC event on Monday, June 8.",
+        "summary_zh": "Apple 将于 6 月 8 日星期一举办 WWDC 活动。",
+        "link": "https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1780746356,
+        "publish_time": 1780839765,
+        "type": "News"
+    },
+    {
+        "title": "AI stock mania is taking over the markets in 2026",
+        "title_zh": "人工智能股票热潮将在 2026 年占领市场",
+        "summary": "It was a mind-blowing week for the AI trade, with only one reasonable conclusion.",
+        "summary_zh": "对于人工智能行业来说，这是令人兴奋的一周，只有一个合理的结论。",
+        "link": "https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780835400,
+        "type": "News"
+    },
+    {
+        "title": "Stocks reel from a coming rate hike — and brace for a huge IPO: What to watch this week",
+        "title_zh": "股市因即将到来的加息而摇摇欲坠——并为大规模首次公开募股做好准备：本周值得关注的内容",
+        "summary": "The highly anticipated SpaceX IPO, Oracle earnings, and inflation data will keep investors busy this week.",
+        "summary_zh": "备受期待的 SpaceX IPO、甲骨文财报和通胀数据将使投资者本周忙碌起来。",
+        "link": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780832419,
+        "type": "News"
+    },
+    {
+        "title": "'A splash of cold water': Wall Street gauges pause in AI trade",
+        "title_zh": "“一泼冷水”：华尔街指标暂停人工智能交易",
+        "summary": "Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.",
+        "summary_zh": "随着人工智能交易的喘息，华尔街分析师本周对科技股的抛售进行了权衡。",
+        "link": "https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780832412,
         "type": "News"
     }
 ]

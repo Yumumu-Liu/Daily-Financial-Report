@@ -1,5 +1,35 @@
 [
     {
+        "title": "Nvidia unveils AI infrastructure deals in South Korea",
+        "title_zh": "英伟达在韩国推出人工智能基础设施交易",
+        "summary": "US chip titan Nvidia on Monday announced a large-scale data centre construction project in South Korea with SK Telecom, among a raft of other business deals in the country.SK Telecom operates under the same parent company -- SK Group -- as SK hynix, which on Monday announced a...",
+        "summary_zh": "美国芯片巨头英伟达周一宣布与 SK Telecom 在韩国开展一项大型数据中心建设项目，以及在该国的一系列其他商业交易。SK Telecom 与 SK 海力士隶属于同一母公司——SK 集团，SK 海力士周一宣布...",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-unveils-ai-infrastructure-deals-025833984.html",
+        "publisher": "AFP",
+        "publish_time": 1780887513,
+        "type": "News"
+    },
+    {
+        "title": "Ulta Beauty adds new offering for customers amid Amazon threat",
+        "title_zh": "Ulta Beauty 在亚马逊威胁下为顾客增加新产品",
+        "summary": "Ulta Beauty is expanding its delivery options amid increased competition from Amazon and other rivals in the beauty retail industry.",
+        "summary_zh": "随着亚马逊和美容零售行业其他竞争对手的竞争加剧，Ulta Beauty 正在扩大其送货选择。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-adds-offering-customers-161700168.html",
+        "publisher": "TheStreet",
+        "publish_time": 1780849020,
+        "type": "News"
+    },
+    {
+        "title": "Weighing NetApp (NTAP) Valuation After AI Driven Earnings Beat And New Cisco And Splunk Deals",
+        "title_zh": "在人工智能驱动的盈利超出预期以及思科和 Splunk 的新交易后，衡量 NetApp (NTAP) 的估值",
+        "summary": "NetApp (NTAP) is back in focus after reporting quarterly results that topped analyst expectations, supported by demand for AI focused data infrastructure and cloud solutions, as well as fresh collaborations with Cisco and Splunk. See our latest analysis for NetApp.",
+        "summary_zh": "NetApp (NTAP) 在公布的季度业绩超出分析师预期后重新成为焦点，这得益于对以人工智能为中心的数据基础设施和云解决方案的需求，以及与思科和 Splunk 的新合作。请参阅我们对 NetApp 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/weighing-netapp-ntap-valuation-ai-131937552.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1780838377,
+        "type": "News"
+    },
+    {
         "title": "Salesforce FIFA Deal Puts Agentforce AI Workflows To The Test",
         "title_zh": "Salesforce FIFA 交易对 Agentforce AI 工作流程进行测试",
         "summary": "Salesforce (NYSE:CRM) has been named an Official Tournament Supporter for the FIFA World Cup 2026 and 2027. The multi year partnership will put Agentforce 360, Salesforce AI tools, and Slack at the center of tournament operations and fan engagement.",
@@ -10,26 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Bloom Energy (BE) Valuation Check As AI Data Center Deals And Funding Support Growth Outlook",
-        "title_zh": "Bloom Energy (BE) 估值检查，因为人工智能数据中心交易和资金支持增长前景",
-        "summary": "Bloom Energy (BE) is drawing fresh attention as multi gigawatt fuel cell deals for AI data centers with Oracle and Brookfield coincide with strong quarterly results, higher guidance, and management’s commitment to growth without new equity.",
-        "summary_zh": "Bloom Energy (BE) 正在引起新的关注，因为与 Oracle 和 Brookfield 达成的人工智能数据中心多吉瓦燃料电池交易恰逢强劲的季度业绩、更高的指导以及管理层对无需新股权的增长的承诺。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-valuation-check-ai-100811836.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1780740491,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Is Priced Like a Tech Stock. Investors Can Find Better Deals Elsewhere.",
-        "title_zh": "高盛的定价就像科技股一样。投资者可以在其他地方找到更好的交易。",
-        "summary": "While the fundamental outlook at Goldman looks as good as ever, the stock already reflects that. The shares look pricey relative to peers based on key metrics.",
-        "summary_zh": "尽管高盛的基本面前景看起来一如既往地好，但该股已经反映出了这一点。根据关键指标，与同行相比，这些股票看起来价格昂贵。",
-        "link": "https://www.barrons.com/articles/goldman-sachs-stock-tech-spacex-ipo-984aa3d4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1780685160,
-        "type": "News"
-    },
-    {
         "title": "Bodycote Shares Fall After Apollo Pulls Back on Making Firm $2 Billion Takeover Offer",
         "title_zh": "Apollo 撤回 20 亿美元收购要约后 Bodycote 股价下跌",
         "summary": "Shares in  Bodycote  fell on Friday after  Apollo  Global Management said it doesn’t intend to make a firm takeover offer, ending discussions over a 1.52 billion-pound ($2.04 billion) proposal.",
@@ -37,16 +47,6 @@
         "link": "https://www.wsj.com/business/deals/apollo-doesnt-plan-to-make-firm-2-billion-takeover-offer-for-bodycote-15b37471?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1780647840,
-        "type": "News"
-    },
-    {
-        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
-        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
-        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
-        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1779022800,
         "type": "News"
     }
 ]
