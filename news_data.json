@@ -1,12 +1,82 @@
 [
     {
-        "title": "Tumbling tech darlings slam brakes on AI rally",
-        "title_zh": "科技宠儿的跌倒给人工智能的涨势猛踩刹车",
-        "summary": "By Tom Westbrook SINGAPORE, June 8 (Reuters) - Asian stocks plunged on Monday as investors rushed out of the hottest AI-linked shares on fears the bull run has gone too far, too fast and as fresh",
-        "summary_zh": "路透新加坡 6 月 8 日 - 亚洲股市周一暴跌，投资者因担心牛市走得太远、太快、太新鲜而纷纷抛售最热门的人工智能相关股票。",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-markets-brace-selling-tech-234406406.html",
+        "title": "Wall St set for higher open as chips rebound, Middle East tensions ease",
+        "title_zh": "随着筹码反弹、中东紧张局势缓和，华尔街高开",
+        "summary": "By Sruthi Shankar and Twesha Dikshit June 8 (Reuters) - U.S. stock indexes were set to open higher on Monday, as chipmakers rebounded from a sharp selloff last week, while investors took comfort from",
+        "summary_zh": "作者：Sruthi Shankar 和 Twesha Dikshit 6 月 8 日（路透社）——美国股指周一开盘走高，芯片制造商从上周的大幅抛售中反弹，而投资者则从",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-climb-102103095.html",
         "publisher": "Reuters",
-        "publish_time": 1780887217,
+        "publish_time": 1780922707,
+        "type": "News"
+    },
+    {
+        "title": "Marvell stock surges on S&P 500 inclusion",
+        "title_zh": "Marvell 股价因纳入标准普尔 500 指数而飙升",
+        "summary": "Marvell shares jumped 9% in premarket on news of plans to include the chipmaker in the S&P 500 index.",
+        "summary_zh": "由于计划将芯片制造商纳入标准普尔 500 指数的消息传出，Marvell 股价在盘前上涨了 9%。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/marvell-stock-surges-on-sp-500-inclusion-121242713.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780920762,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: Chip stocks rebound after Nvidia's Jensen Huang says investors should be 'very happy'",
+        "title_zh": "今日科技股：英伟达 (Nvidia) 黄仁勋 (Jensen Huang) 表示投资者应该“非常高兴”后，芯片股反弹",
+        "summary": "Tech stocks are recovering from a brusing sell-off ahead of Oracle earnings, Apple's Worldwide Developers Conference, and the highly anticipated SpaceX IPO.",
+        "summary_zh": "在甲骨文财报、苹果全球开发者大会以及备受期待的 SpaceX 首次公开募股之前，科技股正在从惨烈的抛售中恢复过来。",
+        "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-rebound-after-nvidias-jensen-huang-says-investors-should-be-very-happy-120420037.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780920260,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX is being 'rushed' into the public market, strategist says",
+        "title_zh": "战略师称 SpaceX 正在“匆忙”进入公开市场",
+        "summary": "Humilis Investment Strategies chief investment officer and CEO Brian Belski chats with Yahoo Finance's Julie Hyman about why he won't be buying SpaceX (SPAX.PVT) when it goes public.",
+        "summary_zh": "Humilis Investment Strategies 首席投资官兼首席执行官 Brian Belski 与雅虎财经的 Julie Hyman 讨论了为什么他不会在 SpaceX (SPAX.PVT) 上市时购买它。",
+        "link": "https://finance.yahoo.com/video/spacex-being-rushed-public-market-120000948.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1780920000,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-Nvidia's AI PC push banks on unproven demand beyond niche users",
+        "title_zh": "分析-Nvidia的AI PC推动银行超越利基用户的未经证实的需求",
+        "summary": "Nvidia's entry into the AI PC market with its RTX Spark superchip last week is less a breakthrough for regular users than a high-stakes bet that a largely unproven concept can find wider appeal, ‌analysts said.",
+        "summary_zh": "分析师表示，英伟达上周凭借 RTX Spark 超级芯片进入 AI PC 市场，这对于普通用户来说并不是一个突破，而是一个高风险的赌注，即一个基本上未经证实的概念可以找到更广泛的吸引力。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/analysis-nvidias-ai-pc-push-105240395.html",
+        "publisher": "Reuters",
+        "publish_time": 1780915960,
+        "type": "News"
+    },
+    {
+        "title": "UK competition watchdog launches probe into eBay's purchase of Depop",
+        "title_zh": "英国竞争监管机构对 eBay 收购 Depop 展开调查",
+        "summary": "The UK competition regulator on ‌Monday launched a ‌probe into eBay's $1.2 billion purchase ​of Gen Z-focused fashion resale platform Depop from Etsy.",
+        "summary_zh": "英国竞争监管机构周一对 eBay 以 12 亿美元从 Etsy 收购专注于 Z 世代的时尚转售平台 Depop 的交易展开调查。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uk-competition-watchdog-launches-probe-090950858.html",
+        "publisher": "Reuters",
+        "publish_time": 1780909790,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as oil rises after Iran and Israel exchange strikes",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货涨跌互现，伊朗和以色列交易所罢工后油价上涨",
+        "summary": "US stock futures were mixed as concerns about a Middle East ceasefire continued to weigh, and investors braced for fresh inflation data and a blockbuster SpaceX IPO this week.",
+        "summary_zh": "由于对中东停火的担忧持续发酵，美国股指期货涨跌互现，投资者为本周新的通胀数据和 SpaceX IPO 做好准备。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-oil-rises-after-iran-and-israel-exchange-strikes-085310526.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1780908790,
+        "type": "News"
+    },
+    {
+        "title": "Panasonic to start US data centre battery production by fiscal 2028",
+        "title_zh": "松下将于 2028 财年开始在美国数据中心生产电池",
+        "summary": "Panasonic Holdings said on Monday it plans to ‌start mass production of battery ‌cells for data centre applications at a plant ​in the U.S. state of Kansas in the financial year 2028, which ends March 2029.",
+        "summary_zh": "松下控股周一表示，计划在 2028 财年（截至 2029 年 3 月）在美国堪萨斯州的一家工厂开始大规模生产用于数据中心应用的电池。",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/panasonic-start-us-data-centre-080124779.html",
+        "publisher": "Reuters",
+        "publish_time": 1780905684,
         "type": "News"
     },
     {
@@ -17,36 +87,6 @@
         "link": "https://finance.yahoo.com/news/apple-wwdc-preview-apple-gets-a-second-shot-at-its-ai-rollout-143000592.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1780839765,
-        "type": "News"
-    },
-    {
-        "title": "AI stock mania is taking over the markets in 2026",
-        "title_zh": "人工智能股票热潮将在 2026 年占领市场",
-        "summary": "It was a mind-blowing week for the AI trade, with only one reasonable conclusion.",
-        "summary_zh": "对于人工智能行业来说，这是令人兴奋的一周，只有一个合理的结论。",
-        "link": "https://finance.yahoo.com/markets/article/ai-stock-mania-is-taking-over-the-markets-in-2026-123000964.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780835400,
-        "type": "News"
-    },
-    {
-        "title": "Stocks reel from a coming rate hike — and brace for a huge IPO: What to watch this week",
-        "title_zh": "股市因即将到来的加息而摇摇欲坠——并为大规模首次公开募股做好准备：本周值得关注的内容",
-        "summary": "The highly anticipated SpaceX IPO, Oracle earnings, and inflation data will keep investors busy this week.",
-        "summary_zh": "备受期待的 SpaceX IPO、甲骨文财报和通胀数据将使投资者本周忙碌起来。",
-        "link": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780832419,
-        "type": "News"
-    },
-    {
-        "title": "'A splash of cold water': Wall Street gauges pause in AI trade",
-        "title_zh": "“一泼冷水”：华尔街指标暂停人工智能交易",
-        "summary": "Wall Street analysts weighed in on tech's sell off this week as the blisterin AI trade took a breather.",
-        "summary_zh": "随着人工智能交易的喘息，华尔街分析师本周对科技股的抛售进行了权衡。",
-        "link": "https://finance.yahoo.com/markets/article/a-splash-of-cold-water-wall-street-gauges-pause-in-ai-trade-114012907.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780832412,
         "type": "News"
     }
 ]

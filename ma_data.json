@@ -1,22 +1,12 @@
 [
     {
-        "title": "Nvidia unveils AI infrastructure deals in South Korea",
-        "title_zh": "英伟达在韩国推出人工智能基础设施交易",
-        "summary": "US chip titan Nvidia on Monday announced a large-scale data centre construction project in South Korea with SK Telecom, among a raft of other business deals in the country.SK Telecom operates under the same parent company -- SK Group -- as SK hynix, which on Monday announced a...",
-        "summary_zh": "美国芯片巨头英伟达周一宣布与 SK Telecom 在韩国开展一项大型数据中心建设项目，以及在该国的一系列其他商业交易。SK Telecom 与 SK 海力士隶属于同一母公司——SK 集团，SK 海力士周一宣布...",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-unveils-ai-infrastructure-deals-025833984.html",
-        "publisher": "AFP",
-        "publish_time": 1780887513,
-        "type": "News"
-    },
-    {
-        "title": "Ulta Beauty adds new offering for customers amid Amazon threat",
-        "title_zh": "Ulta Beauty 在亚马逊威胁下为顾客增加新产品",
-        "summary": "Ulta Beauty is expanding its delivery options amid increased competition from Amazon and other rivals in the beauty retail industry.",
-        "summary_zh": "随着亚马逊和美容零售行业其他竞争对手的竞争加剧，Ulta Beauty 正在扩大其送货选择。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-adds-offering-customers-161700168.html",
-        "publisher": "TheStreet",
-        "publish_time": 1780849020,
+        "title": "Intel Comeback or AMD Takeover? Which Chip Stock Will Win the AI CPU War?",
+        "title_zh": "英特尔卷土重来还是AMD被收购？哪家芯片股将赢得AI CPU之战？",
+        "summary": "A shift in the way artificial intelligence data centers work is bringing an unexpected technology back into a leading role.",
+        "summary_zh": "人工智能数据中心工作方式的转变正在使一项意想不到的技术重新发挥主导作用。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/intel-comeback-amd-takeover-chip-105100196.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1780915860,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://www.wsj.com/business/deals/apollo-doesnt-plan-to-make-firm-2-billion-takeover-offer-for-bodycote-15b37471?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1780647840,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     }
 ]
