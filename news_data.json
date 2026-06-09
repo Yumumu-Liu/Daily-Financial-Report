@@ -1,12 +1,72 @@
 [
     {
-        "title": "Asia stocks bounce on dip buying, bonds lag behind",
-        "title_zh": "亚洲股市逢低买盘反弹，债券落后",
-        "summary": "By Wayne Cole SYDNEY, June 9 (Reuters) - Asian stock markets eked out a rally on Tuesday and oil prices came off highs after Israel and Iran said they would halt attacks on each other for now, while",
-        "summary_zh": "路透悉尼 6 月 9 日 - 以色列和伊朗表示暂时停止相互攻击后，亚洲股市周二小幅上涨，油价也从高位回落。",
+        "title": "Stocks rally as investors dive back into tech; oil slips",
+        "title_zh": "随着投资者重返科技股，股市上涨；油滑",
+        "summary": "By Amanda Cooper LONDON, June 9 (Reuters) - Global stocks rallied on Tuesday as investors rushed to buy the latest dip in tech stocks, while oil prices fell after Israel and Iran agreed to halt",
+        "summary_zh": "路透伦敦 6 月 9 日 - 全球股市周二上涨，因投资者争相买入最新下跌的科技股，而以色列和伊朗同意停止制裁后油价下跌",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-tentative-bounce-bonds-012110402.html",
         "publisher": "Reuters",
-        "publish_time": 1780973830,
+        "publish_time": 1781005349,
+        "type": "News"
+    },
+    {
+        "title": "Why Apple's WWDC and Siri AI hype left investors sad",
+        "title_zh": "为什么苹果的 WWDC 和 Siri AI 炒作让投资者感到悲伤",
+        "summary": "Apple's stock declined almost 2% on the first day of Apple CEO Tim Cook's final Worldwide Developers Conference (WWDC). The reason was more perceived letdown on the artificial intelligence front, which reawakened chatter that Apple won't dominate in the AI era.",
+        "summary_zh": "在苹果首席执行官蒂姆·库克最后一次全球开发者大会 (WWDC) 的第一天，苹果股价下跌了近 2%。原因是人们对人工智能领域更加失望，这再次引发了有关苹果不会在人工智能时代占据主导地位的传言。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/why-apples-wwdc-and-siri-ai-hype-left-investors-sad-113633979.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781004993,
+        "type": "News"
+    },
+    {
+        "title": "Wall St futures inch higher as chips extend gains",
+        "title_zh": "随着芯片扩大涨幅，华尔街期货小幅走高",
+        "summary": "By Joel Jose , Sruthi Shankar and Twesha Dikshit June 9 (Reuters) - U.S. stock index futures rose on Tuesday, as chip stocks extended gains for a second day, while easing hostilities in the Middle",
+        "summary_zh": "Joel Jose、Sruthi Shankar 和 Twesha Dikshit 6 月 9 日（路透社） - 美国股指期货周二上涨，芯片股连续第二天扩大涨幅，同时缓和了中东的敌对行动",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-tick-chips-102318327.html",
+        "publisher": "Reuters",
+        "publish_time": 1781003245,
+        "type": "News"
+    },
+    {
+        "title": "Apple failed to make its AI tool to comply to EU regulations, EU Commission says",
+        "title_zh": "欧盟委员会称苹果未能使其人工智能工具符合欧盟法规",
+        "summary": "BRUSSELS, June 9 (Reuters) - Apple decided not to roll out its new Siri AI tool in the European Union after it had unsuccessfully requested to be exempted of interoperability obligations for the tool,",
+        "summary_zh": "布鲁塞尔，6 月 9 日（路透社）——苹果公司在请求豁免该工具的互操作性义务未果后，决定不在欧盟推出新的 Siri 人工智能工具。",
+        "link": "https://ca.finance.yahoo.com/news/apple-failed-ai-tool-comply-104039680.html",
+        "publisher": "Reuters",
+        "publish_time": 1781001965,
+        "type": "News"
+    },
+    {
+        "title": "China Preps $295 Billion Plan to Fund Nationwide AI Buildout",
+        "title_zh": "中国准备2950亿美元计划资助全国人工智能建设",
+        "summary": "(Bloomberg) -- China is preparing to spend around 2 trillion yuan ($295 billion) over the next five years on building data centers across the country, fueling Beijing’s ambition to propel the domestic AI sector and surpass the US in a potentially game-changing technology.",
+        "summary_zh": "（彭博社）——中国准备在未来五年内斥资约 2 万亿元人民币（合 2,950 亿美元）在全国范围内建设数据中心，从而增强北京推动国内人工智能行业发展并在一项可能改变游戏规则的技术上超越美国的雄心。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/china-prepares-295-billion-plan-081310126.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781001117,
+        "type": "News"
+    },
+    {
+        "title": "Musk's Starlink leads Bezos' Amazon as airlines rush to boost in-flight Wi-Fi",
+        "title_zh": "随着航空公司急于加强机上 Wi-Fi，马斯克的 Starlink 领先于贝佐斯的亚马逊",
+        "summary": "Global airlines' push to attract premium customers is making fast in-flight Wi-Fi an increasingly important perk, turning a once-patchy paid service into an emerging battleground between Elon Musk's Starlink and Jeff Bezos' Amazon Leo satellite network.",
+        "summary_zh": "全球航空公司努力吸引高端客户，使得快速的机上 Wi-Fi 成为越来越重要的福利，从而将曾经不完整的付费服务变成埃隆·马斯克 (Elon Musk) 的 Starlink 和杰夫·贝索斯 (Jeff Bezos) 的亚马逊 Leo 卫星网络之间的新兴战场。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/musks-starlink-leads-bezos-amazon-100907256.html",
+        "publisher": "Reuters",
+        "publish_time": 1780999747,
+        "type": "News"
+    },
+    {
+        "title": "CoreWeave Founders Have Dumped $2.3 Billion in Stock Since IPO",
+        "title_zh": "自 IPO 以来，CoreWeave 创始人已抛售 23 亿美元股票",
+        "summary": "(Bloomberg) -- CoreWeave Inc.’s stock price has more than doubled since the AI data center operator’s March 2025 initial public offering.",
+        "summary_zh": "（彭博社）——自这家人工智能数据中心运营商 2025 年 3 月首次公开募股以来，CoreWeave Inc. 的股价已上涨一倍多。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-founders-dumped-2-3-093000394.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780997400,
         "type": "News"
     },
     {
@@ -20,73 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as AI trade takes center stage",
-        "title_zh": "今日股市：人工智能交易成为焦点，道指、标准普尔 500 指数、纳斯达克期货上涨",
-        "summary": "US stock futures edged lower as the AI trade continued to take center stage on Wall Street.",
-        "summary_zh": "随着人工智能交易继续成为华尔街的中心舞台，美国股指期货小幅走低。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-ai-trade-takes-center-stage-225640973.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780959400,
-        "type": "News"
-    },
-    {
-        "title": "Apple pitches a more personal, easier-to-use AI",
-        "title_zh": "苹果推出更个性化、更易于使用的人工智能",
-        "summary": "Apple's pitch for AI is about being personal and easy to use.",
-        "summary_zh": "苹果对人工智能的宣传是个性化且易于使用。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/apple-pitches-a-more-personal-easier-to-use-ai-224739067.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780958859,
-        "type": "News"
-    },
-    {
-        "title": "Meta funds skilled trades jobs program for AI data center buildout",
-        "title_zh": "Meta 为人工智能数据中心建设的技术工人就业计划提供资金",
-        "summary": "Meta is investing $115 million to stand up a new training program for data center technician jobs, as the social ‌media giant races to build the infrastructure to power its AI ambitions.",
-        "summary_zh": "Meta 正在投资 1.15 亿美元，为数据中心技术人员岗位设立新的培训计划，这家社交媒体巨头正在竞相建设基础设施，以实现其人工智能的雄心壮志。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-funds-skilled-trades-jobs-211629365.html",
-        "publisher": "Reuters",
-        "publish_time": 1780953389,
-        "type": "News"
-    },
-    {
-        "title": "What history tells us about Marvell's upcoming S&P 500 inclusion",
-        "title_zh": "关于 Marvell 即将纳入 S&P 500 指数的历史告诉我们什么",
-        "summary": "Marvell (MRVL) stock has been surging on news that it will be added to the S&P 500 (^GSPC) on Jun. 22. Yahoo Finance Markets and Data Editor Jared Blikre takes a look at how stocks have historically performed in the days leading up to and following index addition.",
-        "summary_zh": "Marvell (MRVL) 股票因将于 6 月 22 日被纳入标准普尔 500 指数 (^GSPC) 的消息而飙升。雅虎金融市场和数据编辑 Jared Blikre 分析了股票在指数纳入之前和之后几天的历史表现。",
-        "link": "https://finance.yahoo.com/video/what-history-tells-us-about-marvells-upcoming-sp-500-inclusion-195049400.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780948249,
-        "type": "News"
-    },
-    {
-        "title": "Why Apple's AI pivot with new Siri is raising some red flags",
-        "title_zh": "为什么苹果公司的人工智能重心与新 Siri 引发了一些危险信号",
-        "summary": "Apple (AAPL) kicked off its 2026 Worldwide Developers Conference (WWDC) on Monday by showcasing its new AI-powered Siri, dubbed Siri AI.",
-        "summary_zh": "苹果 (AAPL) 周一拉开了 2026 年全球开发者大会 (WWDC) 的序幕，展示了全新的人工智能 Siri（称为 Siri AI）。",
-        "link": "https://finance.yahoo.com/video/why-apples-ai-pivot-with-new-siri-is-raising-some-red-flags-194611747.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1780947971,
-        "type": "News"
-    },
-    {
-        "title": "Second Facebook privacy settlement payment is coming. Who qualifies?",
-        "title_zh": "Facebook第二次隐私和解付款即将到来。谁有资格？",
-        "summary": "Another payment is on the way to Facebook users eligible for a cash settlement in a $725 million class-action lawsuit related to privacy issues.",
-        "summary_zh": "另一项付款正在向 Facebook 用户支付，该用户有资格在与隐私问题相关的 7.25 亿美元集体诉讼中获得现金和解。",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/second-facebook-privacy-settlement-payment-is-coming-who-qualifies-184304024.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1780944184,
-        "type": "News"
-    },
-    {
-        "title": "Why history is sounding a siren on the tech stock rout",
-        "title_zh": "为什么历史会敲响科技股暴跌的警报",
-        "summary": "Tech stock plunge over? Well...",
-        "summary_zh": "科技股暴跌？出色地...",
-        "link": "https://finance.yahoo.com/markets/article/why-history-is-sounding-a-siren-on-the-tech-stock-rout-183728358.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1780943848,
+        "title": "Elon Musk Shows Detailed Design of AI Data Center Satellite",
+        "title_zh": "埃隆·马斯克展示人工智能数据中心卫星的详细设计",
+        "summary": "(Bloomberg) -- Elon Musk unveiled a more detailed look at an initial version of an AI data center satellite SpaceX plans to build, providing fresh insight into the ambitious project driving the company’s highly anticipated initial public offering.Most Read from BloombergHouse ...",
+        "summary_zh": "（彭博社）——埃隆·马斯克公布了 SpaceX 计划建造的人工智能数据中心卫星初始版本的更详细信息，为推动该公司备受期待的首次公开募股的雄心勃勃的项目提供了新的见解。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-shows-detailed-design-005331504.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1780966411,
         "type": "News"
     }
 ]
