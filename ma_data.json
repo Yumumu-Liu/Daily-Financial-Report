@@ -1,5 +1,25 @@
 [
     {
+        "title": "A glossary to help understand what happens in an initial public offering",
+        "title_zh": "帮助理解首次公开募股中发生的情况的术语表",
+        "summary": "Anyone following SpaceX's plans to sell shares to the public is likely to hear terms thrown around that describe steps and components of an initial public offering. It is the first time a company's value will be determined by a public market.",
+        "summary_zh": "任何关注 SpaceX 向公众出售股票计划的人都可能会听到描述首次公开募股的步骤和组成部分的术语。这是公司价值首次由公开市场决定。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/glossary-help-understand-happens-initial-103135366.html",
+        "publisher": "Associated Press",
+        "publish_time": 1781087495,
+        "type": "News"
+    },
+    {
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "title_zh": "Meta 与 Reliance 签署印度首个人工智能数据中心协议",
+        "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+        "summary_zh": "这个 168 兆瓦的设施将支持 Meta 的全球人工智能计算需求，并且可以随着时间的推移进行扩展。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/meta-signs-first-ai-data-070526277.html",
+        "publisher": "TechCrunch",
+        "publish_time": 1781075126,
+        "type": "News"
+    },
+    {
         "title": "Salesforce m3ter Deal Highlights Shift Toward Usage Based AI Revenue",
         "title_zh": "Salesforce m3ter 交易凸显转向基于使用的人工智能收入",
         "summary": "Salesforce (NYSE:CRM) announced the acquisition of m3ter, a consumption-based metering and billing platform. The company plans to integrate m3ter into Agentforce Revenue Management to support usage-based pricing for AI-focused products and services.",
@@ -17,26 +37,6 @@
         "link": "https://finance.yahoo.com/video/massive-spacex-alphabet-compute-deal-201700907.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1781036220,
-        "type": "News"
-    },
-    {
-        "title": "What Investors Miss About SpaceX’s IPO, Cipher Digital’s $810M Raise for AWS Site, Applied Digital’s 210 MW AI Deal",
-        "title_zh": "投资者对 SpaceX 的 IPO、Cipher Digital 为 AWS 站点筹集 8.1 亿美元、Applied Digital 的 210 兆瓦人工智能交易的错过之处",
-        "summary": "SpaceX is really a compute company, and Cipher Digital has closed a debt raise for $810 million tied to its Stingray AI data center for Amazon.",
-        "summary_zh": "SpaceX 实际上是一家计算公司，Cipher Digital 已经完成了与亚马逊 Stingray AI 数据中心相关的 8.1 亿美元债务融资。",
-        "link": "https://finance.yahoo.com/video/investors-miss-spacex-ipo-cipher-194113312.html",
-        "publisher": "Blockspace",
-        "publish_time": 1781034073,
-        "type": "News"
-    },
-    {
-        "title": "Warner Bros Stock Hits  3-Month Low. The Paramount Merger Spread Is Too Good to Pass Up.",
-        "title_zh": "华纳兄弟股价触及三个月低点。派拉蒙合并传播太好了，不容错过。",
-        "summary": "The stock now offers a 17% return to the deal price. That’s a really wide spread for a takeover deal, considering the target closing date.",
-        "summary_zh": "目前该股的交易价格回报率为 17%。考虑到目标交割日期，这对于收购交易来说确实是一个很大的差距。",
-        "link": "https://www.barrons.com/articles/warner-bros-paramount-stock-merger-arbitrage-discount-b268a58e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1781032500,
         "type": "News"
     },
     {
