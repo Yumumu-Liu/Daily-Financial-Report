@@ -1,5 +1,25 @@
 [
     {
+        "title": "Market Minute 6-09-26- OpenAI Joins Heated IPO Race",
+        "title_zh": "市场纪要 6-09-26 - OpenAI 加入激烈的 IPO 竞赛",
+        "summary": "After a mixed day on Wall Street Monday, stocks are looking to advance today. Crude oil is pulling back, while gold, silver, and Treasuries are mostly flat. The dollar is lower.",
+        "summary_zh": "周一华尔街涨跌互现，今天股市有望上涨。原油价格正在回落，而黄金、白银和国债大多持平。美元走低。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
+        "publisher": "MoneyShow",
+        "publish_time": 1781014500,
+        "type": "News"
+    },
+    {
+        "title": "Psyched about the SpaceX IPO? Don't forget the brutal lesson from Facebook's IPO.",
+        "title_zh": "对 SpaceX 首次公开募股感到兴奋吗？不要忘记Facebook IPO 的惨痛教训。",
+        "summary": "The excitement is building around the SpaceX IPO, which is set to debut on the Nasdaq Composite on Friday.",
+        "summary_zh": "围绕 SpaceX 首次公开募股 (IPO) 的活动越来越令人兴奋，该公司定于周五在纳斯达克综合交易所上市。",
+        "link": "https://finance.yahoo.com/markets/article/psyched-about-the-spacex-ipo-dont-forget-the-brutal-lesson-from-facebooks-ipo-133806117.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781012286,
+        "type": "News"
+    },
+    {
         "title": "Anticipated SpaceX IPO ETFs: Massive Hype or Real Opportunity?",
         "title_zh": "备受期待的 SpaceX IPO ETF：大规模炒作还是真正的机会？",
         "summary": "SpaceX IPO fever is lifting space ETFs, but history warns against chasing debut-day hype. Here's how investors can gain diversified exposure.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
         "publisher": "TipRanks",
         "publish_time": 1777332459,
-        "type": "News"
-    },
-    {
-        "title": "Inspire Brands Picks Banks For IPO That Could Raise $2 Billion",
-        "title_zh": "Inspire Brands 选择银行进行 IPO 融资 20 亿美元",
-        "summary": "Roark-backed restaurant group taps JPMorgan and Bank of America, with listing possibly coming as soon as this year",
-        "summary_zh": "Roark支持的餐饮集团与摩根大通和美国银行合作，最早可能于今年上市",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/inspire-brands-picks-banks-ipo-175149000.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1776448309,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX IPO Set to Be a Catalyst for 2026 IPO Boom: ETFs to Gain",
-        "title_zh": "SpaceX IPO 将成为 2026 年 IPO 热潮的催化剂：ETF 将获利",
-        "summary": "SpaceX could be the catalyst for a surge as the U.S. IPO market eyes a comeback. ETFs like FPX, IPO and IPOS offer an easy way to gain exposure.",
-        "summary_zh": "随着美国 IPO 市场有望卷土重来，SpaceX 可能成为股价飙升的催化剂。 FPX、IPO 和 IPOS 等 ETF 提供了一种获得投资的简单方法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-set-catalyst-2026-141000385.html",
-        "publisher": "Zacks",
-        "publish_time": 1775139000,
         "type": "News"
     }
 ]
