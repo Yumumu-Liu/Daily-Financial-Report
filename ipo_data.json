@@ -1,22 +1,12 @@
 [
     {
-        "title": "The SpaceX IPO Is Days Away: Could the Stock Join the S&P 500, and How Soon?",
-        "title_zh": "距离 SpaceX 首次公开募股还有几天：该股能否加入标准普尔 500 指数？需要多快？",
-        "summary": "Index fund buying could one day become a powerful force behind the rocket maker's stock. But some of the index's oldest rules stand in the way.",
-        "summary_zh": "指数基金购买有一天可能会成为火箭制造商股票背后的强大力量。但该指数的一些最古老的规则却阻碍了这一进程。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-days-away-could-040100196.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1781150460,
-        "type": "News"
-    },
-    {
-        "title": "Dow Jones Futures Rise, Oil Pops, Oracle Dives; SpaceX IPO On Launch Pad",
-        "title_zh": "道琼斯期货上涨，石油流行，甲骨文下跌； SpaceX 首次公开募股在发射台上",
-        "summary": "Futures were little changed while oil prices rose as Trump launched new U.S. attacks vs. Iran. Oracle tumbled on earnings. The SpaceX IPO is on tap.",
-        "summary_zh": "随着特朗普对伊朗发起新的美国攻击，期货几乎没有变化，而油价上涨。甲骨文的盈利大幅下滑。 SpaceX 的 IPO 即将进行。",
+        "title": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO On Launch Pad",
+        "title_zh": "道琼斯期货预示市场反弹，但接下来呢？甲骨文跳水，SpaceX 首次公开募股在发射台上",
+        "summary": "Futures signal a market rebound from key levels, even as Oracle tumbles. Here's what to watch for. The SpaceX IPO is on tap.",
+        "summary_zh": "尽管甲骨文股价暴跌，但期货仍预示着市场将从关键水平反弹。以下是需要注意的事项。 SpaceX 的 IPO 即将进行。",
         "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1781147669,
+        "publish_time": 1781179843,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
+        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
+        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
+        "publisher": "Zacks",
+        "publish_time": 1780419600,
         "type": "News"
     }
 ]
