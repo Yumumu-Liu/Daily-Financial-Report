@@ -1,5 +1,35 @@
 [
     {
+        "title": "The SpaceX IPO Is Days Away: Could the Stock Join the S&P 500, and How Soon?",
+        "title_zh": "距离 SpaceX 首次公开募股还有几天：该股能否加入标准普尔 500 指数？需要多快？",
+        "summary": "Index fund buying could one day become a powerful force behind the rocket maker's stock. But some of the index's oldest rules stand in the way.",
+        "summary_zh": "指数基金购买有一天可能会成为火箭制造商股票背后的强大力量。但该指数的一些最古老的规则却阻碍了这一进程。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-days-away-could-040100196.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1781150460,
+        "type": "News"
+    },
+    {
+        "title": "Dow Jones Futures Rise, Oil Pops, Oracle Dives; SpaceX IPO On Launch Pad",
+        "title_zh": "道琼斯期货上涨，石油流行，甲骨文下跌； SpaceX 首次公开募股在发射台上",
+        "summary": "Futures were little changed while oil prices rose as Trump launched new U.S. attacks vs. Iran. Oracle tumbled on earnings. The SpaceX IPO is on tap.",
+        "summary_zh": "随着特朗普对伊朗发起新的美国攻击，期货几乎没有变化，而油价上涨。甲骨文的盈利大幅下滑。 SpaceX 的 IPO 即将进行。",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1781147669,
+        "type": "News"
+    },
+    {
+        "title": "IPOs- How Much is TOO Much",
+        "title_zh": "首次公开募股——多少才算太多",
+        "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
+        "summary_zh": "当我还是个孩子的时候，我央求我的父母去金畜栏。这是南方的主食。不是因为它有美味的食物，而是因为它拥有所有的食物。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ipos-much-too-much-050100032.html",
+        "publisher": "MoneyShow",
+        "publish_time": 1781067660,
+        "type": "News"
+    },
+    {
         "title": "Market Minute 6-09-26- OpenAI Joins Heated IPO Race",
         "title_zh": "市场纪要 6-09-26 - OpenAI 加入激烈的 IPO 竞赛",
         "summary": "After a mixed day on Wall Street Monday, stocks are looking to advance today. Crude oil is pulling back, while gold, silver, and Treasuries are mostly flat. The dollar is lower.",
@@ -10,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Psyched about the SpaceX IPO? Don't forget the brutal lesson from Facebook's IPO.",
-        "title_zh": "对 SpaceX 首次公开募股感到兴奋吗？不要忘记Facebook IPO 的惨痛教训。",
-        "summary": "The excitement is building around the SpaceX IPO, which is set to debut on the Nasdaq Composite on Friday.",
-        "summary_zh": "围绕 SpaceX 首次公开募股 (IPO) 的活动越来越令人兴奋，该公司定于周五在纳斯达克综合交易所上市。",
-        "link": "https://finance.yahoo.com/markets/article/psyched-about-the-spacex-ipo-dont-forget-the-brutal-lesson-from-facebooks-ipo-133806117.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781012286,
-        "type": "News"
-    },
-    {
         "title": "Anticipated SpaceX IPO ETFs: Massive Hype or Real Opportunity?",
         "title_zh": "备受期待的 SpaceX IPO ETF：大规模炒作还是真正的机会？",
         "summary": "SpaceX IPO fever is lifting space ETFs, but history warns against chasing debut-day hype. Here's how investors can gain diversified exposure.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
-        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "publish_time": 1780419600,
-        "type": "News"
-    },
-    {
-        "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
-        "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
-        "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
-        "summary_zh": "备受关注的投资者比尔·阿克曼 (Bill Ackman) 看来可能会通过其投资管理公司潘兴广场 (Pershing Square) 即将进行的首次公开募股 (IPO) 筹集 50 亿美元。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
-        "publisher": "TipRanks",
-        "publish_time": 1777332459,
         "type": "News"
     }
 ]
