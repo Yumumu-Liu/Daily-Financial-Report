@@ -1,12 +1,22 @@
 [
     {
-        "title": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO On Launch Pad",
-        "title_zh": "道琼斯期货预示市场反弹，但接下来呢？甲骨文跳水，SpaceX 首次公开募股在发射台上",
-        "summary": "Futures signal a market rebound from key levels, even as Oracle tumbles. Here's what to watch for. The SpaceX IPO is on tap.",
-        "summary_zh": "尽管甲骨文股价暴跌，但期货仍预示着市场将从关键水平反弹。以下是需要注意的事项。 SpaceX 的 IPO 即将进行。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-fears-trump-oracle-earnings-spacex-ipo/?src=A00220&yptr=yahoo",
+        "title": "Dow Jones Futures: SpaceX IPO To Launch After Trump Spurs Market Rally",
+        "title_zh": "道琼斯期货：特朗普刺激市场反弹后 SpaceX 将启动 IPO",
+        "summary": "Dow Jones futures: The S&P 500 and Nasdaq jumped as Trump canceled Iran strikes, but still below key levels. The SpaceX IPO priced at 135 a share. CrowdStrike flashed a new buy signal.",
+        "summary_zh": "道琼斯期货：随着特朗普取消对伊朗的打击，标普 500 指数和纳斯达克指数上涨，但仍低于关键水平。 SpaceX IPO 定价为每股 135 美元。 CrowdStrike 发出了新的买入信号。",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-trump-iran-sandisk-spacex-ipo-prices-135/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
-        "publish_time": 1781179843,
+        "publish_time": 1781233692,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500, Nasdaq, Dow Futures Climb As Historic SpaceX IPO Looms, Trump Hints Iran War May End: Why SNDK, ASTS, RDW, CRWV, RKLB Are Also Trending",
+        "title_zh": "随着 SpaceX 历史性 IPO 临近，标普 500 指数、纳斯达克指数和道琼斯指数期货攀升，特朗普暗示伊朗战争可能结束：为什么 SNDK、ASTS、RDW、CRWV、RKLB 也在上涨",
+        "summary": "The biggest catalyst for markets on Friday is the SpaceX IPO, set to debut on the Nasdaq under the ticker SPCX.",
+        "summary_zh": "周五市场最大的催化剂是 SpaceX 的 IPO，该公司将在纳斯达克上市，股票代码为 SPCX。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-013112756.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1781227872,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
-        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "publish_time": 1780419600,
         "type": "News"
     }
 ]

@@ -1,30 +1,80 @@
 [
     {
-        "title": "KKR launches $10 billion AI infrastructure company with Nvidia, Vistra",
-        "title_zh": "KKR 与 Nvidia、Vistra 成立价值 100 亿美元的人工智能基础设施公司",
-        "summary": "A KKR-led group on Thursday launched a new company with more than $10 billion in committed ‌capital to finance the build-out of AI infrastructure, ‌the latest effort by an alternative asset manager to capitalize on growing demand ​for AI services.",
-        "summary_zh": "周四，KKR 领导的一个集团成立了一家新公司，承诺资本超过 100 亿美元，为人工智能基础设施的建设提供资金，这是另类资产管理公司为利用人工智能服务不断增长的需求而做出的最新努力。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/kkr-launches-10-billion-ai-123033501.html",
-        "publisher": "Reuters",
-        "publish_time": 1781181033,
-        "type": "News"
-    },
-    {
-        "title": "Why the SpaceX, OpenAI, and Anthropic IPOs won't derail the bull market",
-        "title_zh": "为什么 SpaceX、OpenAI 和 Anthropic 的 IPO 不会破坏牛市",
-        "summary": "Don't fret about a lot of stock coming to market, Goldman Sachs contends.",
-        "summary_zh": "高盛认为，不必担心大量股票进入市场。",
-        "link": "https://finance.yahoo.com/markets/article/why-the-spacex-openai-and-anthropic-ipos-wont-derail-the-bull-market-112903023.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as investors await historic SpaceX IPO",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨，投资者等待历史性的 SpaceX 首次公开募股",
+        "summary": "US stock futures rose as Wall Street geared up for SpaceX’s market debut and welcomed easing tensions between the US and Iran.",
+        "summary_zh": "随着华尔街为 SpaceX 的上市做准备，并欢迎美国和伊朗之间紧张局势的缓和，美国股指期货上涨。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-as-investors-await-historic-spacex-ipo-230015116.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1781177343,
+        "publish_time": 1781218815,
         "type": "News"
     },
     {
-        "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut — here's what's next",
-        "title_zh": "SpaceX IPO 定于周四晚在周五纳斯达克上市前“定价”——接下来会发生什么",
-        "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
-        "summary_zh": "SpaceX 破纪录的 IPO 进入最后阶段，交易定于周四晚上在该股 6 月 12 日周五在纳斯达克上市之前进行“定价”。但这个定价之夜与华尔街和投资者所习惯的不同。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-set-to-price-thursday-night-ahead-of-friday-nasdaq-debut--heres-whats-next-101955450.html",
+        "title": "Expect 'robust capability' from this KKR-backed AI venture: CEO",
+        "title_zh": "首席执行官：期待 KKR 支持的人工智能企业拥有“强大的能力”",
+        "summary": "A group led by investment firm KKR (KKR) is devoting $10 billion into a new AI data center venture, Helix Digital Infrastructure, headed by former Amazon Web Services (AMZN) CEO Adam Selipsky.",
+        "summary_zh": "由投资公司 KKR (KKR) 领导的集团正在向一家新的人工智能数据中心企业 Helix Digital Infrastructure 投入 100 亿美元，该企业由前亚马逊网络服务 (AMZN) 首席执行官 Adam Selipsky 领导。",
+        "link": "https://finance.yahoo.com/video/expect-robust-capability-from-this-kkr-backed-ai-venture-ceo-211742674.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781212662,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX takes unconventional route to pricing its stock ahead of IPO",
+        "title_zh": "SpaceX 在 IPO 前采取非常规方式对其股票定价",
+        "summary": "It's SpaceX IPO Eve (SPAX.PVT) and Elon Musk's space company is setting its IPO price on Thursday night, taking an alternate route to offer stock at $135 per share rather than a general range.",
+        "summary_zh": "SpaceX IPO 前夕 (SPAX.PVT) 埃隆·马斯克 (Elon Musk) 的太空公司将于周四晚设定 IPO 价格，采取另一种方式以每股 135 美元而非一般价格发行股票。",
+        "link": "https://finance.yahoo.com/video/spacex-takes-unconventional-route-to-pricing-its-stock-ahead-of-ipo-202708577.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781209628,
+        "type": "News"
+    },
+    {
+        "title": "Why Elon Musk is the 'king of big ideas'",
+        "title_zh": "为什么埃隆·马斯克是“大创意之王”",
+        "summary": "Elon Musk's SpaceX (SPAX.PVT) is on the launchpad, just one day away from its scheduled IPO.",
+        "summary_zh": "埃隆·马斯克 (Elon Musk) 的 SpaceX (SPAX.PVT) 已登上发射台，距离预定的首次公开募股 (IPO) 仅剩一天。",
+        "link": "https://finance.yahoo.com/video/why-elon-musk-is-the-king-of-big-ideas-200023430.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781208023,
+        "type": "News"
+    },
+    {
+        "title": "Siri upgrades show promise, but questions remain",
+        "title_zh": "Siri 升级显示出希望，但问题仍然存在",
+        "summary": "Fresh off Apple’s (AAPL) WWDC, Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Market Domination to break down the highlights and shortcomings of Apple’s latest announcement, including a closer look at the company’s upgraded Siri AI.",
+        "summary_zh": "刚刚结束苹果 (AAPL) WWDC 的雅虎财经技术编辑丹·豪利 (Dan Howley) 与乔什·利普顿 (Josh Lipton) 一起探讨了市场统治地位，详细分析了苹果最新公告的亮点和缺点，包括仔细研究了该公司升级后的 Siri AI。",
+        "link": "https://finance.yahoo.com/video/siri-upgrades-show-promise-but-questions-remain-195225562.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781207545,
+        "type": "News"
+    },
+    {
+        "title": "How Navan gained market share and climbed back to its IPO price",
+        "title_zh": "Navan 如何获得市场份额并回升至 IPO 价格",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi welcomes Navan (NAVN) CEO Ariel Cohen to discuss the company's earnings beat and increased full-year guidance.",
+        "summary_zh": "雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 欢迎 Navan (NAVN) 首席执行官阿里尔·科恩 (Ariel Cohen) 讨论该公司的盈利增长和提高的全年指引。",
+        "link": "https://finance.yahoo.com/video/how-navan-gained-market-share-and-climbed-back-to-its-ipo-price-151143581.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781190703,
+        "type": "News"
+    },
+    {
+        "title": "Oracle stock sinking as its AI spending climbs, debt grows",
+        "title_zh": "随着人工智能支出攀升和债务增长，甲骨文股价下跌",
+        "summary": "Oracle (ORCL) stock has dropped by as much as 10% in Thursday's pre-market trading despite topping fiscal fourth quarter earnings and revenue estimates.",
+        "summary_zh": "尽管第四财季盈利和收入超出预期，甲骨文 (ORCL) 股价在周四盘前交易中仍下跌了 10%。",
+        "link": "https://finance.yahoo.com/video/oracle-stock-sinking-as-its-ai-spending-climbs-debt-grows-135616407.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781186176,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX sets $135 IPO price ahead of Friday Nasdaq debut",
+        "title_zh": "SpaceX 在周五纳斯达克上市前设定 135 美元的 IPO 价格",
+        "summary": "SpaceX's priced its IPO Thursday night ahead at $135 a share ahead of the stock's debut on the Nasdaq on Friday, June 12.",
+        "summary_zh": "SpaceX 在 6 月 12 日星期五在纳斯达克上市之前，于周四晚间将其 IPO 定价为每股 135 美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1781173195,
         "type": "News"
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1781172000,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX IPO Will Mint Billions for a New Silicon Valley Hierarchy",
-        "title_zh": "SpaceX IPO 将为新硅谷阶层创造数十亿美元",
-        "summary": "(Bloomberg) -- The initial public offering for SpaceX is poised to generate billions of dollars in profits for the fortunate few investors who got in early on Elon Musk’s rocket, satellite and artificial intelligence company.Most Read from BloombergHouse Republican Says Hegset...",
-        "summary_zh": "（彭博社）——SpaceX 的首次公开募股有望为早期进入埃隆·马斯克的火箭、卫星和人工智能公司的少数幸运投资者带来数十亿美元的利润。彭博社的大多数共和党人表示，赫格塞特……",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-mint-billions-silicon-100000583.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781172000,
-        "type": "News"
-    },
-    {
-        "title": "CoreWeave’s Credit Rebound Spurs Cheaper Data Center Funding",
-        "title_zh": "CoreWeave 的信贷反弹刺激了数据中心融资成本的降低",
-        "summary": "(Bloomberg) -- When Applied Digital Corp. first tapped the junk-bond market in November to fund a data center project tied to CoreWeave Inc., it had to stomach a hefty yield to get the deal done.",
-        "summary_zh": "（彭博社）——当 Applied Digital Corp. 在 11 月份首次利用垃圾债券市场为与 CoreWeave Inc. 相关的数据中心项目提供资金时，它必须承受高昂的收益率才能完成交易。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-credit-rebound-spurs-cheaper-085358772.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781168038,
-        "type": "News"
-    },
-    {
-        "title": "Amazon vs. transport stocks, DraftKings sees prediction markets boost",
-        "title_zh": "亚马逊与运输股，DraftKings 预测预测市场提振",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian and Market Domination host Josh Lipton take a closer look at some of Wednesday's trending tickers and stories. Transportation stocks are plunging as Amazon (AMZN) expands its truckload offerings.",
-        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 和《市场支配》主持人 Josh Lipton 仔细研究了周三的一些热门行情和故事。随着亚马逊（AMZN）扩大卡车运输服务，运输类股暴跌。",
-        "link": "https://finance.yahoo.com/video/amazon-vs-transport-stocks-draftkings-sees-prediction-markets-boost-200152313.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781121712,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech is dragging the S&P 500 lower in June",
-        "title_zh": "6 月份大型科技股拖累标普 500 指数走低",
-        "summary": "Big Tech stocks are having a rough go of it in June as the Magnificent Seven drags the broader market down with it (^DJI, ^IXIC, ^GSPC).",
-        "summary_zh": "大型科技股在 6 月份经历了一段艰难的时期，七巨头拖累了更广泛的市场（^DJI、^IXIC、^GSPC）。",
-        "link": "https://finance.yahoo.com/video/big-tech-is-dragging-the-sp-500-lower-in-june-193121554.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781119881,
-        "type": "News"
-    },
-    {
-        "title": "General Motors follows Ford's lead into the battery business",
-        "title_zh": "通用汽车追随福特进军电池业务",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Julie Hyman on Market Catalysts to discuss General Motors' (GM) partnership with Peak Energy, placing a big bet on sodium-ion batteries.",
-        "summary_zh": "雅虎财经高级汽车记者 Pras Subramanian 与 Market Catalysts 的 Julie Hyman 一起讨论通用汽车 (GM) 与 Peak Energy 的合作关系，并在钠离子电池上下了重注。",
-        "link": "https://finance.yahoo.com/video/general-motors-follows-fords-lead-into-the-battery-business-152500628.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781105100,
         "type": "News"
     }
 ]
