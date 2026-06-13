@@ -1,5 +1,15 @@
 [
     {
+        "title": "InterDigital’s (IDCC) Amazon Licensing Deal: A Turning Point For Its IP Monetization Strategy?",
+        "title_zh": "InterDigital (IDCC) 的亚马逊授权交易：其知识产权货币化战略的转折点？",
+        "summary": "InterDigital recently announced a new patent license agreement with Amazon covering its services and devices, including Prime Video, while both companies agreed to resolve all pending litigation through binding arbitration to determine final terms.",
+        "summary_zh": "InterDigital 最近宣布与亚马逊达成一项新的专利许可协议，涵盖其服务和设备，包括 Prime Video，而两家公司均同意通过具有约束力的仲裁来解决所有未决诉讼，以确定最终条款。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/interdigital-idcc-amazon-licensing-deal-100938086.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1781345378,
+        "type": "News"
+    },
+    {
         "title": "US Justice Department clears Paramount's acquisition of Warner Bros",
         "title_zh": "美国司法部批准派拉蒙收购华纳兄弟",
         "summary": "STORY: The U.S. Justice Department's (DOJ) Antitrust Division said it has cleared Paramount Skydance Corp's planned acquisition of Warner Bros.",
@@ -30,23 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Times Square’s New Year’s Eve Ball Joins SpaceX Takeover of NYC",
-        "title_zh": "时代广场的除夕舞会加入 SpaceX 收购纽约市的行列",
-        "summary": "(Bloomberg) -- Even the iconic New Year’s Eve ball is getting involved in the SpaceX IPO celebrations.",
-        "summary_zh": "(彭博社)——就连标志性的除夕舞会也参与了 SpaceX 的 IPO 庆祝活动。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-staffers-gather-bell-ringing-131959957.html",
+        "title": "SpaceX Strikes Rare Deal to Pay $0 to Bankers for IPO Greenshoe",
+        "title_zh": "SpaceX达成罕见协议，向银行家支付0美元以进行首次公开​​募股绿鞋",
+        "summary": "(Bloomberg) -- SpaceX, which had already negotiated to pay razor-thin fees on its record initial public offering, somehow managed to get an even better deal out of its investment bankers.",
+        "summary_zh": "（彭博社）——SpaceX 已经在其创纪录的首次公开募股中协商支付极低的费用，不知何故设法从其投资银行家那里获得了更好的交易。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-strikes-rare-deal-pay-215727545.html",
         "publisher": "Bloomberg",
-        "publish_time": 1781294232,
-        "type": "News"
-    },
-    {
-        "title": "Accounting Firm Crowe to Sell Stake to KKR in Nearly $3 Billion Deal",
-        "title_zh": "Crowe 会计师事务所将以近 30 亿美元的交易向 KKR 出售股份",
-        "summary": "The private-equity giant and co-investors would take a majority interest in a firm long resistant to outside ownership.",
-        "summary_zh": "这家私募股权巨头和联合投资者将获得一家长期抵制外部所有权的公司的多数股权。",
-        "link": "https://www.wsj.com/cfo-journal/accounting-firm-crowe-to-sell-stake-to-kkr-in-nearly-3-billion-deal-ba25111a?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1781200800,
+        "publish_time": 1781301447,
         "type": "News"
     }
 ]
