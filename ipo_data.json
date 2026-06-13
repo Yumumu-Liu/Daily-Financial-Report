@@ -1,22 +1,12 @@
 [
     {
-        "title": "Dow Jones Futures Rise, Oil Skids On Iran Deal Hopes; SpaceX IPO Indicated Higher",
-        "title_zh": "道琼斯期货上涨，伊朗协议希望导致油价下滑； SpaceX 首次公开募股 (IPO) 更高",
-        "summary": "Futures rose and oil prices dived on Iran deal hopes, extending Thursday's big moves. The SpaceX IPO is set to begin trading.",
-        "summary_zh": "由于伊朗达成协议的希望，期货上涨，油价下跌，延续了周四的大幅走势。 SpaceX 首次公开募股 (IPO) 即将开始交易。",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-trump-iran-sandisk-spacex-ipo-prices-135/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1781265336,
-        "type": "News"
-    },
-    {
-        "title": "Insights from Wall Street: 3 things regular investors should know about the SpaceX IPO",
-        "title_zh": "华尔街洞察：普通投资者应该了解 SpaceX IPO 的三件事",
-        "summary": "Here's what regular investors should know ahead of what's set to be the largest IPO in history.",
-        "summary_zh": "以下是普通投资者在历史上最大的首次公开募股之前应该了解的内容。",
-        "link": "https://finance.yahoo.com/markets/article/insights-from-wall-street-3-things-regular-investors-should-know-about-the-spacex-ipo-150840655.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781190520,
+        "title": "2 unusual aspects of SpaceX's IPO",
+        "title_zh": "SpaceX IPO 的 2 个不寻常之处",
+        "summary": "SpaceX (SPCX) officially debuted on the Nasdaq Composite (^IXIC) on Friday, making history as the largest-ever initial public offering (IPO).",
+        "summary_zh": "SpaceX（SPCX）于周五在纳斯达克综合指数（^IXIC）正式上市，创造了历史上有史以来规模最大的首次公开募股（IPO）。",
+        "link": "https://finance.yahoo.com/video/2-unusual-aspects-of-spacexs-ipo-145853004.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781276333,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
+        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
+        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
+        "publisher": "Zacks",
+        "publish_time": 1780419600,
         "type": "News"
     }
 ]
