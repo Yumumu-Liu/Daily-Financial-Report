@@ -10,16 +10,6 @@
         "type": "News"
     },
     {
-        "title": "SharonAI Holdings (SHAZ) Stock After NVIDIA AI Deal A Fresh Look At A 11.3x P/B Valuation",
-        "title_zh": "NVIDIA AI 交易后 SharonAI Holdings (SHAZ) 股票重新审视 11.3 倍市净率估值",
-        "summary": "SharonAI Holdings (SHAZ) has drawn fresh attention after unveiling a six year AI compute collaboration with NVIDIA, centered on 72MW of new Australian data center capacity using Grace Blackwell GB300 GPUs. See our latest analysis for SharonAI Holdings.",
-        "summary_zh": "SharonAI Holdings (SHAZ) 在宣布与 NVIDIA 开展为期六年的人工智能计算合作后，引起了新的关注，合作重点是使用 Grace Blackwell GB300 GPU 的 72MW 澳大利亚新数据中心容量。请参阅我们对 SharonAI Holdin...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sharonai-holdings-shaz-stock-nvidia-001622218.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1781396182,
-        "type": "News"
-    },
-    {
         "title": "SpaceX Strikes Rare Deal to Pay $0 to Bankers for IPO Greenshoe",
         "title_zh": "SpaceX达成罕见协议，向银行家支付0美元以进行首次公开​​募股绿鞋",
         "summary": "(Bloomberg) -- SpaceX, which had already negotiated to pay razor-thin fees on its record initial public offering, somehow managed to get an even better deal out of its investment bankers.",
@@ -47,6 +37,16 @@
         "link": "https://www.wsj.com/cfo-journal/accounting-firm-crowe-to-sell-stake-to-kkr-in-nearly-3-billion-deal-ba25111a?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1781200800,
+        "type": "News"
+    },
+    {
+        "title": "Apollo & Blackstone Inc. (BX) Seal $35B Anthropic AI Deal",
+        "title_zh": "Apollo & Blackstone Inc. (BX) 达成 35B 美元人类人工智能交易",
+        "summary": "Blackstone Inc. (NYSE:BX) is a deep value stock to invest in now. On June 6, 2026, Apollo Global Management (NYSE:APO) and Blackstone (NYSE:BX) finalized a $35 billion financing package for Anthropic, according to Bloomberg.",
+        "summary_zh": "Blackstone Inc.（纽约证券交易所股票代码：BX）是目前值得投资的深度价值股票。据彭博社报道，2026 年 6 月 6 日，阿波罗全球管理公司 (NYSE:APO) 和 Blackstone (NYSE:BX) 敲定了 Anthropic 的 350 亿美元融资方案。",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/apollo-blackstone-inc-bx-seal-005847489.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1781139527,
         "type": "News"
     }
 ]
