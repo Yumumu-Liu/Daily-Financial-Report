@@ -1,15 +1,5 @@
 [
     {
-        "title": "2 unusual aspects of SpaceX's IPO",
-        "title_zh": "SpaceX IPO 的 2 个不寻常之处",
-        "summary": "SpaceX (SPCX) officially debuted on the Nasdaq Composite (^IXIC) on Friday, making history as the largest-ever initial public offering (IPO).",
-        "summary_zh": "SpaceX（SPCX）于周五在纳斯达克综合指数（^IXIC）正式上市，创造了历史上有史以来规模最大的首次公开募股（IPO）。",
-        "link": "https://finance.yahoo.com/video/2-unusual-aspects-of-spacexs-ipo-145853004.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781276333,
-        "type": "News"
-    },
-    {
         "title": "IPOs- How Much is TOO Much",
         "title_zh": "首次公开募股——多少才算太多",
         "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
         "publisher": "Zacks",
         "publish_time": 1780419600,
+        "type": "News"
+    },
+    {
+        "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
+        "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
+        "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
+        "summary_zh": "备受关注的投资者比尔·阿克曼 (Bill Ackman) 看来可能会通过其投资管理公司潘兴广场 (Pershing Square) 即将进行的首次公开募股 (IPO) 筹集 50 亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
+        "publisher": "TipRanks",
+        "publish_time": 1777332459,
         "type": "News"
     }
 ]
