@@ -1,32 +1,72 @@
 [
     {
-        "title": "Mag 7? MANGOS? SpaceX forces name rethink on Wall Street's tech-stock moniker",
-        "title_zh": "7级？芒果？ SpaceX 迫使华尔街重新考虑科技股的名称",
-        "summary": "SpaceX roared into markets this past week with a valuation of more than $2 trillion, surpassing two members of Wall Street's \"Magnificent Seven\" and raising a key question: Does the Mag 7 name still fit? ‌And if not, what should replace it? The IPO, the biggest in U.S.",
-        "summary_zh": "SpaceX 上周以超过 2 万亿美元的估值冲进市场，超越了华尔街“七巨头”的两名成员，并提出了一个关键问题：Mag 7 这个名字还合适吗？ ‌如果没有，应该用什么来代替呢？此次IPO是美国规模最大的IPO",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mag-7-mangos-spacex-forces-100240387.html",
-        "publisher": "Reuters",
-        "publish_time": 1781344960,
+        "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+        "title_zh": "人择区块标志着美国的逆转，对硅谷的警告",
+        "summary": "(Bloomberg) -- The extraordinary move by the US to bar foreign access to Anthropic PBC’s best AI models underscores the Trump administration’s newfound willingness to exert control over a pivotal industry.",
+        "summary_zh": "（彭博社）——美国禁止外国企业使用 Anthropic PBC 最佳人工智能模型的非凡举措凸显了特朗普政府新发现的对关键行业施加控制的意愿。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/anthropic-block-marks-us-reversal-042520569.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781497520,
         "type": "News"
     },
     {
-        "title": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-        "title_zh": "独家-印度污染机构称塔塔iPhone零部件工厂污染农田水",
-        "summary": "An Indian pollution regulator has alleged wastewater discharged from a Tata components factory for Apple's iPhone has contaminated the groundwater for nearby farms and warned of a ‌forced shutdown unless Tata gives a satisfactory explanation.",
-        "summary_zh": "印度污染监管机构称，苹果 iPhone 的塔塔零部件工厂排放的废水污染了附近农场的地下水，并警告除非塔塔给出令人满意的解释，否则将被迫关闭。",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/exclusive-tatas-iphone-parts-factory-083355814.html",
+        "title": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+        "title_zh": "印度污染机构称塔塔iPhone零部件工厂污染农田水",
+        "summary": "By Munsif Vengattil and Aditya Kalra BENGALURU, June 13 (Reuters) - An Indian pollution regulator has alleged wastewater discharged from a Tata components factory for Apple's iPhone has contaminated",
+        "summary_zh": "作者：Munsif Vengattil 和 Aditya Kalra 班加罗尔，6 月 13 日（路透社）——印度污染监管机构指控苹果 iPhone 的塔塔零部件工厂排放的废水受到污染",
+        "link": "https://finance.yahoo.com/news/exclusive-tatas-iphone-parts-factory-083355587.html",
         "publisher": "Reuters",
-        "publish_time": 1781339635,
+        "publish_time": 1781495868,
         "type": "News"
     },
     {
-        "title": "Why Starlink is so important to SpaceX's IPO",
-        "title_zh": "为什么 Starlink 对 SpaceX 的 IPO 如此重要",
-        "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.",
-        "summary_zh": "当分析师和投资者谈论 SpaceX 潜在的 IPO 时，他们在很大程度上谈论的是 Starlink。",
-        "link": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+        "title": "Trump Hosts UFC Fights at White House for 80th Birthday",
+        "title_zh": "特朗普在白宫举办 UFC 比赛庆祝 80 岁生日",
+        "summary": "(Bloomberg) -- Donald Trump will head to France for what will likely be contentious discussions with world leaders this week, but first he celebrated his 80th birthday by watching a sport that’s more brutal and bloody than politics.",
+        "summary_zh": "（彭博社）——唐纳德·特朗普本周将前往法国，与世界各国领导人进行可能会引起争议的讨论，但他首先通过观看一项比政治更残酷、更血腥的体育运动来庆祝自己的 80 岁生日。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-hosts-brutal-ufc-fights-153214904.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781488467,
+        "type": "News"
+    },
+    {
+        "title": "Markets cheer Iran deal, wait for oil to start flowing",
+        "title_zh": "市场欢呼伊朗协议，等待石油开始流动",
+        "summary": "June 15 (Reuters) - Stocks and bonds rallied and the dollar fell in Asia trade on Monday after the U.S. and Iran agreed a peace deal to re-open the Strait of Hormuz and lift a U.S. blockade on Iran.",
+        "summary_zh": "路透6月15日 - 在美国和伊朗达成和平协议以重新开放霍尔木兹海峡并解除美国对伊朗的封锁后，周一亚洲股市股市和债券上涨，美元下跌。",
+        "link": "https://finance.yahoo.com/markets/articles/instant-view-markets-cheer-deal-231236893.html",
+        "publisher": "Reuters",
+        "publish_time": 1781486138,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
+        "title_zh": "今日股市：美国和伊朗达成和平协议后，标准普尔 500 指数、纳斯达克指数、道琼斯指数期货上涨",
+        "summary": "US futures soared on the news of a peace deal with key points, including the opening of the Strait of Hormuz, finalized.",
+        "summary_zh": "包括开放霍尔木兹海峡在内的关键和平协议的消息传出，美国期货价格飙升。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1775929486,
+        "publish_time": 1781477271,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
+        "title_zh": "SpaceX IPO 余辉、凯文·沃什 (Kevin Warsh) 首次美联储会议以及潜在的美伊协议：本周看点",
+        "summary": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on SpaceX.",
+        "summary_zh": "投资者的注意力将集中在凯文·沃什 (Kevin Warsh) 作为美联储主席的首次会议、中东的交易以及对 SpaceX 的第二天影响上。",
+        "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781447100,
+        "type": "News"
+    },
+    {
+        "title": "This market is at 'a 10': Wall Street weighs record SpaceX IPO amid AI-driven stock market",
+        "title_zh": "这个市场处于“a 10”：在人工智能驱动的股市中，华尔街正在考虑创纪录的 SpaceX IPO",
+        "summary": "SpaceX's record IPO on Friday is a reassuring sign for Wall Street that the AI bull market has plenty of runway to go.",
+        "summary_zh": "SpaceX 周五创纪录的 IPO 对华尔街来说是一个令人放心的信号，表明人工智能牛市还有很长的路要走。",
+        "link": "https://finance.yahoo.com/markets/article/this-market-is-at-a-10-wall-street-weighs-record-spacex-ipo-amid-ai-driven-stock-market-113207472.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781436727,
         "type": "News"
     }
 ]
