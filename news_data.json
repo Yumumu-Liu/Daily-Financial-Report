@@ -1,72 +1,62 @@
 [
     {
-        "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
-        "title_zh": "人择区块标志着美国的逆转，对硅谷的警告",
-        "summary": "(Bloomberg) -- The extraordinary move by the US to bar foreign access to Anthropic PBC’s best AI models underscores the Trump administration’s newfound willingness to exert control over a pivotal industry.",
-        "summary_zh": "（彭博社）——美国禁止外国企业使用 Anthropic PBC 最佳人工智能模型的非凡举措凸显了特朗普政府新发现的对关键行业施加控制的意愿。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/anthropic-block-marks-us-reversal-042520569.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781497520,
-        "type": "News"
-    },
-    {
-        "title": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-        "title_zh": "印度污染机构称塔塔iPhone零部件工厂污染农田水",
-        "summary": "By Munsif Vengattil and Aditya Kalra BENGALURU, June 13 (Reuters) - An Indian pollution regulator has alleged wastewater discharged from a Tata components factory for Apple's iPhone has contaminated",
-        "summary_zh": "作者：Munsif Vengattil 和 Aditya Kalra 班加罗尔，6 月 13 日（路透社）——印度污染监管机构指控苹果 iPhone 的塔塔零部件工厂排放的废水受到污染",
-        "link": "https://finance.yahoo.com/news/exclusive-tatas-iphone-parts-factory-083355587.html",
-        "publisher": "Reuters",
-        "publish_time": 1781495868,
-        "type": "News"
-    },
-    {
-        "title": "Trump Hosts UFC Fights at White House for 80th Birthday",
-        "title_zh": "特朗普在白宫举办 UFC 比赛庆祝 80 岁生日",
-        "summary": "(Bloomberg) -- Donald Trump will head to France for what will likely be contentious discussions with world leaders this week, but first he celebrated his 80th birthday by watching a sport that’s more brutal and bloody than politics.",
-        "summary_zh": "（彭博社）——唐纳德·特朗普本周将前往法国，与世界各国领导人进行可能会引起争议的讨论，但他首先通过观看一项比政治更残酷、更血腥的体育运动来庆祝自己的 80 岁生日。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/trump-hosts-brutal-ufc-fights-153214904.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781488467,
-        "type": "News"
-    },
-    {
-        "title": "Markets cheer Iran deal, wait for oil to start flowing",
-        "title_zh": "市场欢呼伊朗协议，等待石油开始流动",
-        "summary": "June 15 (Reuters) - Stocks and bonds rallied and the dollar fell in Asia trade on Monday after the U.S. and Iran agreed a peace deal to re-open the Strait of Hormuz and lift a U.S. blockade on Iran.",
-        "summary_zh": "路透6月15日 - 在美国和伊朗达成和平协议以重新开放霍尔木兹海峡并解除美国对伊朗的封锁后，周一亚洲股市股市和债券上涨，美元下跌。",
-        "link": "https://finance.yahoo.com/markets/articles/instant-view-markets-cheer-deal-231236893.html",
-        "publisher": "Reuters",
-        "publish_time": 1781486138,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal",
-        "title_zh": "今日股市：美国和伊朗达成和平协议后，标准普尔 500 指数、纳斯达克指数、道琼斯指数期货上涨",
-        "summary": "US futures soared on the news of a peace deal with key points, including the opening of the Strait of Hormuz, finalized.",
-        "summary_zh": "包括开放霍尔木兹海峡在内的关键和平协议的消息传出，美国期货价格飙升。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-15-224751171.html",
+        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
+        "title_zh": "为什么最大的“七大”股票面临着巨大的逆风",
+        "summary": "Watch this one key metric on the \"Magnificent Seven\" names.",
+        "summary_zh": "关注“七雄”名字的这一关键指标。",
+        "link": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1781477271,
+        "publish_time": 1781533348,
         "type": "News"
     },
     {
-        "title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
-        "title_zh": "SpaceX IPO 余辉、凯文·沃什 (Kevin Warsh) 首次美联储会议以及潜在的美伊协议：本周看点",
+        "title": "Apple supplier Jabil, Adani partner to build AI data center infra platform in India ",
+        "title_zh": "苹果供应商捷普和阿达尼合作在印度建设人工智能数据中心基础设施平台",
+        "summary": "June 15 (Reuters) - Electronics manufacturer Jabil and India's Adani Enterprises on Monday announced a partnership to build an integrated AI and data center infrastructure manufacturing platform in",
+        "summary_zh": "路透 6 月 15 日 - 电子制造商捷普 (Jabil) 和印度阿达尼企业 (Adani Enterprises) 周一宣布建立合作伙伴关系，在印度建立集成人工智能和数据中心基础设施制造平台。",
+        "link": "https://finance.yahoo.com/news/apple-supplier-jabil-adani-partner-135529027.html",
+        "publisher": "Reuters",
+        "publish_time": 1781531729,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX stock gains: What its IPO signals about its future success",
+        "title_zh": "SpaceX 股价上涨：其 IPO 预示着其未来的成功",
+        "summary": "SpaceX stock (SPCX) continues rising in Monday's pre-market trading (maintaining gains at the session open at the time of this video's posting) ahead of the space company's first full day of trading since its historic IPO last Friday.",
+        "summary_zh": "SpaceX 股票 (SPCX) 在周一盘前交易中继续上涨（在该视频发布时开盘时保持上涨），这是该太空公司自上周五历史性 IPO 以来的第一个全日交易。",
+        "link": "https://finance.yahoo.com/video/spacex-stock-gains-what-its-ipo-signals-about-its-future-success-135149957.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781531509,
+        "type": "News"
+    },
+    {
+        "title": "Indian officials survey farms around Tata iPhone parts plant after water pollution warning",
+        "title_zh": "印度官员在水污染警告后调查塔塔 iPhone 零部件工厂周围的农场",
+        "summary": "By Munsif Vengattil and Priyanshu Singh HOSUR, India June 15 (Reuters) - Indian officials stepped up government checks on farmland surrounding Apple supplier Tata's iPhone parts factory near Bengaluru",
+        "summary_zh": "印度霍苏尔 6 月 15 日（路透社）——印度官员加强了对班加罗尔附近苹果供应商塔塔 iPhone 零部件工厂周围农田的检查。",
+        "link": "https://www.yahoo.com/news/articles/indian-officials-survey-farms-around-110937128.html",
+        "publisher": "Reuters",
+        "publish_time": 1781523081,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: SpaceX becomes more valuable than Tesla",
+        "title_zh": "今日科技股：SpaceX 的价值超过特斯拉",
+        "summary": "What to watch from SpaceX and other tech stocks during the holiday-shortened week.",
+        "summary_zh": "在假期缩短的一周内，SpaceX 和其他科技股值得关注的内容。",
+        "link": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-spacex-becomes-more-valuable-than-tesla-100000563.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781517600,
+        "type": "News"
+    },
+    {
+        "title": "A US-Iran deal, SpaceX IPO afterglow, Kevin Warsh's first Fed meeting: What to watch this week",
+        "title_zh": "美伊协议、SpaceX IPO 余辉、凯文·沃什 (Kevin Warsh) 首次美联储会议：本周看点",
         "summary": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on SpaceX.",
         "summary_zh": "投资者的注意力将集中在凯文·沃什 (Kevin Warsh) 作为美联储主席的首次会议、中东的交易以及对 SpaceX 的第二天影响上。",
-        "link": "https://finance.yahoo.com/markets/article/spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-and-a-potential-us-iran-deal-what-to-watch-this-week-142500418.html",
+        "link": "https://finance.yahoo.com/markets/article/a-us-iran-deal-spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-what-to-watch-this-week-142500300.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1781447100,
-        "type": "News"
-    },
-    {
-        "title": "This market is at 'a 10': Wall Street weighs record SpaceX IPO amid AI-driven stock market",
-        "title_zh": "这个市场处于“a 10”：在人工智能驱动的股市中，华尔街正在考虑创纪录的 SpaceX IPO",
-        "summary": "SpaceX's record IPO on Friday is a reassuring sign for Wall Street that the AI bull market has plenty of runway to go.",
-        "summary_zh": "SpaceX 周五创纪录的 IPO 对华尔街来说是一个令人放心的信号，表明人工智能牛市还有很长的路要走。",
-        "link": "https://finance.yahoo.com/markets/article/this-market-is-at-a-10-wall-street-weighs-record-spacex-ipo-amid-ai-driven-stock-market-113207472.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781436727,
         "type": "News"
     }
 ]
