@@ -1,22 +1,82 @@
 [
     {
-        "title": "Wall Street rallies, Dow ends with record on US-Iran deal",
-        "title_zh": "华尔街反弹，道指收盘，美伊协议创历史新高",
-        "summary": "STORY: Wall Street's main indexes rallied on Monday, with the Dow gaining nearly 1% to notch a record-high close, the S&P 500 climbing about one-and-two-thirds percent and the Nasdaq soaring 3%.Investors cheered the news of a preliminary deal between the U.S.",
-        "summary_zh": "故事：华尔街主要股指周一上涨，道琼斯指数上涨近 1%，创下历史收盘新高，标准普尔 500 指数上涨约三分之二，纳斯达克指数飙升 3%。投资者对美国与美国达成初步协议的消息欢呼雀跃。",
-        "link": "https://finance.yahoo.com/video/wall-street-rallies-dow-ends-223928887.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1781563168,
+        "title": "Western Digital, Micron, Sandisk hover at all-time highs as AI trade reignites",
+        "title_zh": "随着人工智能贸易重新燃起，西部数据、美光、Sandisk 徘徊在历史高位",
+        "summary": "Western Digital jumped again on Tuesday as the AI memory and storage trade reignited.",
+        "summary_zh": "随着人工智能内存和存储贸易重新燃起，西部数据周二股价再次上涨。",
+        "link": "https://finance.yahoo.com/markets/article/western-digital-micron-sandisk-hover-at-all-time-highs-as-ai-trade-reignites-132154187.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781616114,
         "type": "News"
     },
     {
-        "title": "How SpaceX's IPO made millions for JPMorgan, Goldman Sachs, & other big banks",
-        "title_zh": "SpaceX 的 IPO 如何为摩根大通、高盛和其他大银行赚取数百万美元",
-        "summary": "Yahoo Finance Senior Reporter David Hollerith explains how SpaceX's (SPCX) initial public offering (IPO) is fueling Morgan Stanley (MS), Goldman Sachs (GS), JPMorgan (JPM), Bank of America (BAC), and Citi (C).",
-        "summary_zh": "雅虎财经高级记者 David Hollerith 解释了 SpaceX (SPCX) 首次公开募股 (IPO) 如何推动摩根士丹利 (MS)、高盛 (GS)、摩根大通 (JPM)、美国银行 (BAC) 和花旗 (C)。",
-        "link": "https://finance.yahoo.com/video/how-spacexs-ipo-made-millions-for-jpmorgan-goldman-sachs--other-big-banks-204553215.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781556353,
+        "title": "French startup bets on non-humanoid design in crowded AI robot race",
+        "title_zh": "法国初创公司在拥挤的人工智能机器人竞赛中押注非人形设计",
+        "summary": "Genesis AI, the French robotics startup backed by former Google CEO Eric Schmidt, unveiled ‌its first general-purpose robot on Tuesday, as AI capabilities expand beyond chatbots and ‌into physical machines.",
+        "summary_zh": "由谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 支持的法国机器人初创公司 Genesis AI 于周二推出了其首款通用机器人，人工智能功能已从聊天机器人扩展到物理机器。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/french-startup-bets-non-humanoid-130135284.html",
+        "publisher": "Reuters",
+        "publish_time": 1781614895,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft debuts Surface Laptop and Surface Pro amid AI-driven memory shortage",
+        "title_zh": "微软在 AI 驱动的内存短缺之际推出 Surface Laptop 和 Surface Pro",
+        "summary": "Microsoft has debuted its new Surface Laptop and Surface Pro systems.",
+        "summary_zh": "微软推出了新的 Surface Laptop 和 Surface Pro 系统。",
+        "link": "https://finance.yahoo.com/sectors/technology/article/microsoft-debuts-surface-laptop-and-surface-pro-amid-ai-driven-memory-shortage-130013432.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781614813,
+        "type": "News"
+    },
+    {
+        "title": "India's Bigbasket names former Amazon veteran Amit Nanda as CEO",
+        "title_zh": "印度 Bigbasket 任命前亚马逊资深人士 Amit Nanda 为首席执行官",
+        "summary": "BANGALORE, June 16 - Indian online grocery retailer Bigbasket on Tuesday appointed Amit Nanda as its CEO, replacing co-founder Hari Menon, who will continue to serve on the board.",
+        "summary_zh": "班加罗尔，6 月 16 日 - 印度在线杂货零售商 Bigbasket 周二任命 Amit Nanda 为其首席执行官，接替联合创始人 Hari Menon，后者将继续担任董事会成员。",
+        "link": "https://finance.yahoo.com/news/indias-bigbasket-names-former-amazon-125819362.html",
+        "publisher": "Reuters",
+        "publish_time": 1781614699,
+        "type": "News"
+    },
+    {
+        "title": "Tech Weekly: A blockbuster IPO, a sweeping online block",
+        "title_zh": "科技周刊：轰动一时的IPO，席卷网络封锁",
+        "summary": "STORY: From a record-breaking IPO to a far-reaching online ban, this is Tech Weekly.&nbsp;:: Tech WeeklySpaceX on Thursday priced the biggest-ever U.S.",
+        "summary_zh": "故事：从破纪录的 IPO 到影响深远的网上禁令，这就是《科技周刊》。 科技周刊 SpaceX 周四公布了美国有史以来最大的定价。",
+        "link": "https://finance.yahoo.com/video/tech-weekly-blockbuster-ipo-sweeping-123343495.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1781613223,
+        "type": "News"
+    },
+    {
+        "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
+        "title_zh": "特朗普的人为镇压为美国盟友敲响人工智能警报",
+        "summary": "(Bloomberg) -- With the recent crackdown on Anthropic, the Trump administration has given global leaders another reason to panic about their place in the technology race.Most Read from BloombergIran’s Deputy Foreign Minister Confirms Deal Reached With USNetanyahu Pays a Politi...",
+        "summary_zh": "（彭博社）——随着最近对 Anthropic 的镇压，特朗普政府给了全球领导人另一个理由，让他们对自己在技术竞赛中的地位感到恐慌。彭博社的大多数报道伊朗副外长确认与美国达成的协议内塔尼亚胡支付了政治费用...",
+        "link": "https://finance.yahoo.com/technology/ai/articles/trump-anthropic-crackdown-sets-off-104657502.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781612640,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
+        "title_zh": "埃隆·马斯克 (Elon Musk) 的 SpaceX 已经逼近微软的市值，并成为苹果的一个重要里程碑",
+        "summary": "SpaceX is close to overtaking Microsoft in its valuation.",
+        "summary_zh": "SpaceX 的估值已接近超越微软。",
+        "link": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781609221,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX becomes retail's biggest IPO trade: Chart of the Day",
+        "title_zh": "SpaceX 成为零售业最大的 IPO 交易：每日图表",
+        "summary": "SpaceX's market debut turned into a record retail buying event.",
+        "summary_zh": "SpaceX 的上市首秀成为创纪录的零售购买事件。",
+        "link": "https://finance.yahoo.com/markets/article/spacex-becomes-retails-biggest-ipo-trade-chart-of-the-day-100000991.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781604000,
         "type": "News"
     },
     {
@@ -27,66 +87,6 @@
         "link": "https://finance.yahoo.com/video/nvidia-joins-the-ai-funding-wave-as-it-plans-a-20b-bond-sale-a-closer-look-200021807.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1781553621,
-        "type": "News"
-    },
-    {
-        "title": "Chip stocks surge, oil slides closer to $80 on US-Iran deal, Fox to acquire Roku",
-        "title_zh": "芯片股飙升，美伊协议导致油价跌至 80 美元附近，福克斯收购 Roku",
-        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma comes on Market Domination to further discuss today's biggest headlines, including memory chip stocks like Micron Technology (MU) surging as Wall Street leans more bullish on the AI trade, oil prices (CL=F, BZ=F) moving closer to $8...",
-        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 在《市场支配》上进一步讨论了当今最大的头条新闻，包括随着华尔街对人工智能贸易更加看好而美光科技 (MU) 等存储芯片股票飙升，油价 (CL=F, BZ=F) 接近 8 美元......",
-        "link": "https://finance.yahoo.com/video/chip-stocks-surge-oil-slides-closer-to-80-on-us-iran-deal-fox-to-acquire-roku-195425964.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781553265,
-        "type": "News"
-    },
-    {
-        "title": "What SpaceX's $1.2 billion bitcoin holdings mean for investors",
-        "title_zh": "SpaceX 持有 12 亿美元的比特币对投资者意味着什么",
-        "summary": "Scott Melker discusses SpaceX (SPCX) IPO and examines the company's growing bitcoin holdings. The space giant now owns roughly 19,000 bitcoin (BTC-USD), valued at roughly $1.2 billion. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m.",
-        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了 SpaceX (SPCX) 的 IPO，并研究了该公司不断增长的比特币持有量。这家太空巨头目前拥有约 19,000 枚比特币 (BTC-USD)，价值约 12 亿美元。 《The Daily Wolf with Scot...",
-        "link": "https://finance.yahoo.com/video/spacexs-1-2-billion-bitcoin-191500422.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781550900,
-        "type": "News"
-    },
-    {
-        "title": "2 SpaceX retail investors explain why they bought the IPO & still want more shares",
-        "title_zh": "2 SpaceX 散户投资者解释为何购买 IPO 并仍希望获得更多股票",
-        "summary": "Two SpaceX (SPCX) retail investors who bought shares at the initial public offering (IPO), Tamar June and Shane Williams, join Yahoo Finance to explain the process, what drew them to the company, and their future plans with the stock.",
-        "summary_zh": "两名在首次公开募股 (IPO) 中购买股票的 SpaceX (SPCX) 散户投资者 Tamar June 和 Shane Williams 与雅虎财经一起解释了整个过程、吸引他们加入该公司的原因以及他们对该股票的未来计划。",
-        "link": "https://finance.yahoo.com/video/2-spacex-retail-investors-explain-why-they-bought-the-ipo--still-want-more-shares-172023224.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781544023,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia joins Wall Street's AI funding wave",
-        "title_zh": "英伟达加入华尔街人工智能融资浪潮",
-        "summary": "Nvidia is the latest company to tap Wall Street for the AI boom it helped create.",
-        "summary_zh": "英伟达是最新一家利用华尔街来推动人工智能繁荣的公司。",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-joins-wall-streets-ai-funding-wave-163231887.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781541151,
-        "type": "News"
-    },
-    {
-        "title": "Why the biggest \"Magnificent 7\" stocks have one giant headwind coming right at them",
-        "title_zh": "为什么最大的“七大”股票面临着巨大的逆风",
-        "summary": "Watch this one key metric on the \"Magnificent Seven\" names.",
-        "summary_zh": "关注“七雄”名字的这一关键指标。",
-        "link": "https://finance.yahoo.com/markets/article/why-the-biggest-magnificent-7-stocks-have-one-giant-headwind-coming-right-at-them-142228430.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781533348,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX stock gains: What its IPO signals about its future success",
-        "title_zh": "SpaceX 股价上涨：其 IPO 预示着其未来的成功",
-        "summary": "SpaceX stock (SPCX) continues rising in Monday's pre-market trading (maintaining gains at the session open at the time of this video's posting) ahead of the space company's first full day of trading since its historic IPO last Friday.",
-        "summary_zh": "SpaceX 股票 (SPCX) 在周一盘前交易中继续上涨（在该视频发布时开盘时保持上涨），这是该太空公司自上周五历史性 IPO 以来的第一个全日交易。",
-        "link": "https://finance.yahoo.com/video/spacex-stock-gains-what-its-ipo-signals-about-its-future-success-135149957.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781531509,
         "type": "News"
     }
 ]

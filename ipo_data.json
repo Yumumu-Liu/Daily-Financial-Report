@@ -1,25 +1,5 @@
 [
     {
-        "title": "SpaceX stock gains: What its IPO signals about its future success",
-        "title_zh": "SpaceX 股价上涨：其 IPO 预示着其未来的成功",
-        "summary": "SpaceX stock (SPCX) continues rising in Monday's pre-market trading (maintaining gains at the session open at the time of this video's posting) ahead of the space company's first full day of trading since its historic IPO last Friday.",
-        "summary_zh": "SpaceX 股票 (SPCX) 在周一盘前交易中继续上涨（在该视频发布时开盘时保持上涨），这是该太空公司自上周五历史性 IPO 以来的第一个全日交易。",
-        "link": "https://finance.yahoo.com/video/spacex-stock-gains-what-its-ipo-signals-about-its-future-success-135149957.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781531509,
-        "type": "News"
-    },
-    {
-        "title": "A US-Iran deal, SpaceX IPO afterglow, Kevin Warsh's first Fed meeting: What to watch this week",
-        "title_zh": "美伊协议、SpaceX IPO 余辉、凯文·沃什 (Kevin Warsh) 首次美联储会议：本周看点",
-        "summary": "Investor attention will be on Kevin Warsh's first meeting as chair of the Federal Reserve, dealmaking in the Middle East, and the second-day effects on SpaceX.",
-        "summary_zh": "投资者的注意力将集中在凯文·沃什 (Kevin Warsh) 作为美联储主席的首次会议、中东的交易以及对 SpaceX 的第二天影响上。",
-        "link": "https://finance.yahoo.com/markets/article/a-us-iran-deal-spacex-ipo-afterglow-kevin-warshs-first-fed-meeting-what-to-watch-this-week-142500300.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781447100,
-        "type": "News"
-    },
-    {
         "title": "IPOs- How Much is TOO Much",
         "title_zh": "首次公开募股——多少才算太多",
         "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
+        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
+        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
+        "publisher": "Zacks",
+        "publish_time": 1780419600,
+        "type": "News"
+    },
+    {
+        "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
+        "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
+        "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
+        "summary_zh": "备受关注的投资者比尔·阿克曼 (Bill Ackman) 看来可能会通过其投资管理公司潘兴广场 (Pershing Square) 即将进行的首次公开募股 (IPO) 筹集 50 亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
+        "publisher": "TipRanks",
+        "publish_time": 1777332459,
         "type": "News"
     }
 ]
