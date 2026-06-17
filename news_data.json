@@ -1,92 +1,92 @@
 [
     {
-        "title": "General Atlantic in Talks to Lead Funding for China’s Kling AI",
-        "title_zh": "General Atlantic 正在洽谈牵头为中国 Kling AI 提供资金",
+        "title": "Netflix's stock slide is getting worse",
+        "title_zh": "Netflix的股价下滑越来越严重",
+        "summary": "Netflix shares are sliding as investors eye acquisition deal letdowns and slowing growth.",
+        "summary_zh": "由于投资者关注收购交易的失败和增长放缓，Netflix 的股价正在下滑。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/netflixs-stock-slide-is-getting-worse-123338038.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781699618,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic",
+        "title_zh": "Anthropic 补充道，大型科技公司支持的碳减排联盟增加了 9.15 亿美元的资金",
+        "summary": "(Removes Salesforce, which is not a new participant but an existing member of ‌the coalition, from paragraph 1)  LONDON, ‌June 17 (Reuters) - A coalition backed by Big Tech companies for ​carbon removal technology, said on Wednesday it would inject an additional $915 million i...",
+        "summary_zh": "（从第 1 段中删除 Salesforce，它不是新参与者，而是联盟的现有成员）伦敦，6 月 17 日（路透社）- 由大型科技公司支持的碳去除技术联盟周三表示，将额外注入 9.15 亿美元...",
+        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-backed-coalition-carbon-120338720.html",
+        "publisher": "Reuters",
+        "publish_time": 1781699226,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
+        "title_zh": "SpaceX 近 3 万亿美元的涨势带来了一个重大收获：每日图表",
+        "summary": "SpaceX is already trading like one of America's biggest companies — its profits are not.",
+        "summary_zh": "SpaceX 的经营方式已经像美国最大的公司之一一样，但其利润却并非如此。",
+        "link": "https://finance.yahoo.com/markets/article/spacexs-near-3-trillion-rally-comes-with-one-big-catch-chart-of-the-day-122114608.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781698874,
+        "type": "News"
+    },
+    {
+        "title": "Jabil raises annual profit forecast amid strong data center demand",
+        "title_zh": "数据中心需求强劲，捷普上调年度利润预期",
+        "summary": "Jabil raised its 2026 profit forecast on Wednesday, as the electronic-component maker ‌looks to capitalize on AI-led demand for ‌data centers. A surge in data-center infrastructure spending, driven by strong ​demand for AI computing power, has benefited companies such as Jabil.",
+        "summary_zh": "捷普周三上调了 2026 年的利润预期，因为这家电子元件制造商希望利用人工智能主导的数据中心需求。在人工智能计算能力的强劲需求推动下，数据中心基础设施支出激增，使捷普等公司受益。",
+        "link": "https://finance.yahoo.com/technology/articles/jabil-raises-annual-profit-forecast-121422742.html",
+        "publisher": "Reuters",
+        "publish_time": 1781698462,
+        "type": "News"
+    },
+    {
+        "title": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
+        "title_zh": "苹果投资者厌倦了人工智能承诺，希望取得切实进展",
+        "summary": "(Bloomberg) -- Apple Inc.",
+        "summary_zh": "（彭博社）——苹果公司",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-investors-tired-ai-promises-112159204.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781695319,
+        "type": "News"
+    },
+    {
+        "title": "S&P, Nasdaq futures inch up ahead of Warsh's debut meeting",
+        "title_zh": "标准普尔和纳斯达克期货在沃什首次会议之前小幅上涨",
+        "summary": "By Sruthi Shankar and Twesha Dikshit June 17 (Reuters) - S&P 500 and Nasdaq futures edged higher on Wednesday, as chip stocks rebounded ahead of the first interest rate decision under new Federal",
+        "summary_zh": "作者：Sruthi Shankar 和 Twesha Dikshit 6 月 17 日（路透社） - 周三，标准普尔 500 指数和纳斯达克期货小幅走高，芯片股在新联邦政策下的首次利率决定之前反弹。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-nasdaq-futures-inch-ahead-102857417.html",
+        "publisher": "Reuters",
+        "publish_time": 1781695106,
+        "type": "News"
+    },
+    {
+        "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says",
+        "title_zh": "谷歌高管表示，随着公司规模扩大，英国人工智能的使用达到“临界点”",
+        "summary": "Adoption of artificial intelligence has reached a \"tipping point\" in Britain, as companies move from experimentation ‌to large-scale deployment and start seeing returns, a Google Cloud executive ‌said on Wednesday.",
+        "summary_zh": "谷歌云高管周三表示，随着公司从实验转向大规模部署并开始看到回报，人工智能的采用在英国已经达到了“临界点”。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-uk-hits-tipping-point-111442805.html",
+        "publisher": "Reuters",
+        "publish_time": 1781694882,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX Heads Toward Fourth Day of Gains Since Record IPO",
+        "title_zh": "SpaceX 迎来创纪录 IPO 以来的第四个交易日上涨",
+        "summary": "(Bloomberg) -- SpaceX shares are poised for a fourth straight day of gains, reinforcing the company’s place among the world’s largest after it surpassed Amazon.com Inc.",
+        "summary_zh": "（彭博社）——SpaceX 股价有望连续第四天上涨，巩固了该公司在超越亚马逊之后跻身全球最大股票公司的地位。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-heads-toward-fourth-day-082223913.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781684543,
+        "type": "News"
+    },
+    {
+        "title": "General Atlantic in Talks to Lead Round for China’s Kling AI",
+        "title_zh": "General Atlantic 正在洽谈领投中国 Kling AI 的融资",
         "summary": "(Bloomberg) -- Kuaishou Technology is in discussions with General Atlantic to lead a first round of financing for its video AI arm, seeking to secure a major US backer ahead of an initial public offering.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US...",
         "summary_zh": "（彭博社）——快手科技正在与 General Atlantic 讨论为其视频人工智能部门牵头进行第一轮融资，寻求在首次公开募股之前获得美国主要支持者。彭博社的大多数阅读阅读美国之间的 14 点备忘录草案……",
         "link": "https://finance.yahoo.com/technology/ai/articles/general-atlantic-talks-lead-funding-013911719.html",
         "publisher": "Bloomberg",
-        "publish_time": 1781660351,
-        "type": "News"
-    },
-    {
-        "title": "HSBC partners with Google Cloud to expand AI usage",
-        "title_zh": "汇丰银行与 Google Cloud 合作扩大人工智能的使用",
-        "summary": "HSBC on Wednesday announced a multi-year partnership with Alphabet Inc-owned Google Cloud focused on building ‌the British bank's artificial intelligence capabilities.",
-        "summary_zh": "汇丰银行周三宣布与 Alphabet Inc. 旗下的 Google Cloud 建立多年合作伙伴关系，重点建设这家英国银行的人工智能能力。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/hsbc-partners-google-cloud-expand-230425539.html",
-        "publisher": "Reuters",
-        "publish_time": 1781651065,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street braces for Fed rate decision",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨，华尔街等待美联储利率决定",
-        "summary": "US stock futures rose modestly as investors looked ahead to the Federal Reserve’s next interest rate decision, the first to be delivered under Chair Kevin Warsh.",
-        "summary_zh": "美国股指期货小幅上涨，因投资者期待美联储下一次利率决定，这是美联储主席凯文·沃什(Kevin Warsh)领导下的第一个利率决定。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-wall-street-braces-for-fed-rate-decision-225641465.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781650601,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq and S&P 500 slip while Dow hits record high",
-        "title_zh": "纳斯达克和标准普尔 500 指数下滑，道指创历史新高",
-        "summary": "STORY: Wall Street's main indexes ended mixed on Tuesday, with the Dow gaining just under two-thirds of a percent to notch its second straight record-high close...",
-        "summary_zh": "故事：周二，华尔街主要股指收盘涨跌互现，道琼斯指数上涨近三分之二，连续第二次创历史新高收盘……",
-        "link": "https://finance.yahoo.com/video/nasdaq-p-500-slip-while-225342405.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1781650422,
-        "type": "News"
-    },
-    {
-        "title": "Why robotics will be the next great investment theme",
-        "title_zh": "为什么机器人技术将成为下一个伟大的投资主题",
-        "summary": "RoboStrategy (BOT) CEO Andrew Kang joins Yahoo Finance to explain why robotics could become the market's next major investment theme.",
-        "summary_zh": "RoboStrategy (BOT) 首席执行官 Andrew Kang 与雅虎财经一起解释了为什么机器人技术可能成为市场的下一个主要投资主题。",
-        "link": "https://finance.yahoo.com/video/why-robotics-will-be-the-next-great-investment-theme-205330959.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781643210,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX closes in on Amazon in sprint toward $3 trillion",
-        "title_zh": "SpaceX 逼近亚马逊 向 3 万亿美元冲刺",
-        "summary": "SpaceX is one of the fastest new entrants ever into the top tier of the US market.",
-        "summary_zh": "SpaceX 是进入美国顶级市场最快的新进入者之一。",
-        "link": "https://finance.yahoo.com/markets/article/spacex-closes-in-on-amazon-in-sprint-toward-3-trillion-164918333.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781628558,
-        "type": "News"
-    },
-    {
-        "title": "How SpaceX mania made Musk more money in 1 day than 'Bill Gates' entire net worth'",
-        "title_zh": "SpaceX 狂热如何让马斯克在一天内赚到的钱比“比尔·盖茨”的全部净资产还多”",
-        "summary": "Scott Melker discusses SpaceX's (SPCX) trading frenzy, outlines the skepticism surrounding the company's valuation, and puts CEO Elon Musk's wealth into context. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了 SpaceX (SPCX) 的交易狂潮，概述了围绕该公司估值的怀疑态度，并将首席执行官埃隆·马斯克 (Elon Musk) 的财富置于背景之下。 《The Daily Wolf with Scott Melker》每天中...",
-        "link": "https://finance.yahoo.com/video/spacex-mania-made-musk-more-162000041.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781626800,
-        "type": "News"
-    },
-    {
-        "title": "The Mag 7 plus these three AI companies make up the new Fab 10",
-        "title_zh": "Mag 7 加上这三个人工智能公司组成了新的 Fab 10",
-        "summary": "The Magnificent Seven plus SpaceX (SPCX), Anthropic (ANTH.PVT), and OpenAI (OPAI.PVT) equal the Fab 10. Could this trio of AI mega-IPOs bring enthusiasm back to the tech space previously dominated by the Mag 7?",
-        "summary_zh": "宏伟七加上 SpaceX (SPCX)、Anthropic (ANTH.PVT) 和 OpenAI (OPAI.PVT) 与 Fab 10 平起平坐。这三家人工智能大型 IPO 能否为之前由 Mag 7 主导的科技领域带来热情？",
-        "link": "https://finance.yahoo.com/video/mag-7-plus-three-ai-150000435.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781622000,
-        "type": "News"
-    },
-    {
-        "title": "Why Rivian's R2 model is 'almost mass marketable,' but not quite",
-        "title_zh": "为什么 Rivian 的 R2 模型“几乎适合大众销售”，但又不完全适合",
-        "summary": "Barron's associate editor Al Root, Yahoo Finance Breaking Business News Reporter Jake Conley, and Morning Brief host Julie Hyman discuss Rivian's (RIVN) lower-priced model and where the company still falls short.",
-        "summary_zh": "《巴伦周刊》副主编 Al Root、雅虎财经突发商业新闻记者 Jake Conley 和 Morning Brief 主持人 Julie Hyman 讨论了 Rivian (RIVN) 的低价模式以及该公司仍存在的不足。",
-        "link": "https://finance.yahoo.com/video/why-rivians-r2-model-is-almost-mass-marketable-but-not-quite-144644644.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781621204,
+        "publish_time": 1781680486,
         "type": "News"
     }
 ]
