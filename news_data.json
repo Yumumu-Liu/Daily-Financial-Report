@@ -1,52 +1,22 @@
 [
     {
-        "title": "Trump says Apple to work with Intel to manufacture chips in US",
-        "title_zh": "特朗普称苹果将与英特尔合作在美国生产芯片",
-        "summary": "President Donald Trump said in a ‌Truth Social post on ‌Thursday that Apple had agreed to ​work with Intel to design and build its chips in the United States.",
-        "summary_zh": "唐纳德·特朗普总统周四在“Truth Social”帖子中表示，苹果已同意与英特尔合作，在美国设计和制造其芯片。",
-        "link": "https://finance.yahoo.com/technology/articles/trump-says-apple-intel-manufacture-044616435.html",
-        "publisher": "Reuters",
-        "publish_time": 1781758483,
+        "title": "Big Tech’s AI Spending Spree Is Making Stock Buybacks Disappear",
+        "title_zh": "大型科技公司的人工智能支出热潮正在使股票回购消失",
+        "summary": "(Bloomberg) -- The artificial-intelligence race is becoming so expensive that it’s snuffing out one of the key forces that has helped keep Big Tech stocks soaring for years: steady share buybacks.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US and Ira...",
+        "summary_zh": "（彭博社）——人工智能竞赛变得如此昂贵，以至于它正在扼杀多年来帮助大型科技股飙升的关键力量之一：稳定的股票回购。来自彭博社的大多数读者阅读美国和伊拉克之间的 14 点备忘录草案……",
+        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-ai-spending-spree-110001262.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781780401,
         "type": "News"
     },
     {
-        "title": "Apple to hike prices as chip shortage bites: WSJ",
-        "title_zh": "华尔街日报：苹果因芯片短缺而提高价格",
-        "summary": "STORY: Apple plans to raise prices for its products as a shortage of memory chips bites.That’s according to Chief Executive Tim Cook in an interview with the Wall Street Journal published Wednesday.A surge in AI-driven demand has left consumer electronics companies battling to...",
-        "summary_zh": "故事：由于存储芯片短缺，苹果计划提高其产品价格。首席执行官蒂姆·库克在周三发表的《华尔街日报》采访中表示。人工智能驱动的需求激增，让消费电子公司奋力……",
-        "link": "https://finance.yahoo.com/video/apple-hike-prices-chip-shortage-041811433.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1781756291,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up after US and Iran sign interim deal",
-        "title_zh": "今日股市：美国和伊朗签署临时协议后，道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨",
-        "summary": "US stock futures edged up as Wall Street digested the interim peace deal between the US and Iran as well as the latest Federal Reserve decision on interest rates.",
-        "summary_zh": "随着华尔街消化美国和伊朗之间的临时和平协议以及美联储最新的利率决定，美国股指期货小幅上涨。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-after-us-and-iran-sign-interim-deal-230530576.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb with focus on Iran deal, Fed hike path",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货上涨，关注伊朗协议、美联储加息路径",
+        "summary": "Wall Street eyed the odds of Hormuz reopening after the interim US-Iran peace deal went into effect, and weighed signs the Fed is starting to lean toward a rate hike.",
+        "summary_zh": "华尔街关注美伊临时和平协议生效后霍尔木兹海峡重新开放的可能性，并权衡美联储开始倾向于加息的迹象。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-climb-with-focus-on-iran-deal-fed-hike-path-230530576.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1781737530,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street closes lower on Fed rate hike bets",
-        "title_zh": "美联储加息押注导致华尔街收低",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-closes-lower-fed-222319794.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1781734999,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech-backed coalition for carbon removal increases funding by $915 million, adds Anthropic",
-        "title_zh": "Anthropic 补充道，大型科技公司支持的碳减排联盟增加了 9.15 亿美元的资金",
-        "summary": "(Removes Salesforce, which is not a new participant but an existing member of the coalition, from paragraph 1) By Susanna Twidale LONDON, June 17 (Reuters) - A coalition backed by Big Tech companies",
-        "summary_zh": "（从第 1 段中删除 Salesforce，它不是新参与者，而是联盟的现有成员）作者：Susanna Twidale 伦敦，6 月 17 日（路透社）- 由大型科技公司支持的联盟",
-        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-backed-coalition-carbon-120338720.html",
-        "publisher": "Reuters",
-        "publish_time": 1781734065,
         "type": "News"
     },
     {
@@ -70,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "SpaceX Shares Fall for First Time Since Blockbuster Debut",
-        "title_zh": "SpaceX 股价自重磅上市以来首次下跌",
-        "summary": "(Bloomberg) -- SpaceX shares declined for the first time since its record initial public offering, snapping a three-day rally that had reached nearly 50%.",
-        "summary_zh": "（彭博社）——SpaceX 股价自创纪录的首次公开募股以来首次下跌，结束了连续三天上涨近 50% 的涨幅。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-heads-toward-fourth-day-082223913.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781727699,
-        "type": "News"
-    },
-    {
         "title": "Nasdaq, US stocks slide as Fed forecasts possible rate hike",
         "title_zh": "美联储预测可能加息，纳斯达克、美国股市下滑",
         "summary": "US stocks (^DJI, ^IXIC, ^GSPC) ended Wednesday's session in negative territory after Federal Reserve officials unanimously voted to hold interest rates at their June FOMC meeting today, while also forecasting at least one possible rate hike ahead.",
@@ -87,6 +47,46 @@
         "link": "https://finance.yahoo.com/video/nasdaq-us-stocks-slide-as-fed-forecasts-possible-rate-hike-201525166.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1781727325,
+        "type": "News"
+    },
+    {
+        "title": "How SpaceX and 'MANGOS' are fueling the latest ETF trends",
+        "title_zh": "SpaceX 和“MANGOS”如何推动最新 ETF 趋势",
+        "summary": "AllianceBernstein Global head of ETF strategy and partnerships, Julie Gunts, joins Yahoo Finance to explain how \"MANGOS\" stocks — Meta (META), Amazon (AMZN), Nvidia (NVDA), Alphabet (GOOG, GOOGL), OpenAI (OPAI.PVT), and SpaceX (SPCX) — are ushering in the latest trends in exch...",
+        "summary_zh": "AllianceBernstein 全球 ETF 战略和合作伙伴主管 Julie Gunts 与雅虎财经一起解释“MANGOS”股票——Meta (META)、亚马逊 (AMZN)、Nvidia (NVDA)、Alphabet (GOOG, GOOGL)、OpenAI (O...",
+        "link": "https://finance.yahoo.com/video/how-spacex-and-mangos-are-fueling-the-latest-etf-trends-161839932.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781713119,
+        "type": "News"
+    },
+    {
+        "title": "Microsoft dips below 200-day moving average: Buy, hold, or sell?",
+        "title_zh": "微软跌破 200 日移动平均线：买入、持有还是卖出？",
+        "summary": "Opening Bid's Stock of the day: Microsoft has slipped below its 200-day moving average.",
+        "summary_zh": "当日开盘股票：微软已跌破 200 日移动平均线。",
+        "link": "https://finance.yahoo.com/video/microsoft-dips-below-200-day-moving-average-buy-hold-or-sell-143813805.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1781707093,
+        "type": "News"
+    },
+    {
+        "title": "Got SpaceX stock? Here's what to do next.",
+        "title_zh": "有 SpaceX 股票吗？这是下一步要做的事情。",
+        "summary": "Having a game plan before the stock's next big move can help you avoid costly mistakes. If you just bought SpaceX, plan for three possible scenarios.",
+        "summary_zh": "在股票的下一次大变动之前制定游戏计划可以帮助您避免代价高昂的错误。如果您刚刚购买了 SpaceX，请为三种可能的情况做好计划。",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/got-spacex-stock-heres-what-to-do-next-141704338.html",
+        "publisher": "Yahoo Personal Finance",
+        "publish_time": 1781705824,
+        "type": "News"
+    },
+    {
+        "title": "Netflix's stock slide is getting worse",
+        "title_zh": "Netflix的股价下滑越来越严重",
+        "summary": "Netflix shares are sliding as investors eye acquisition deal letdowns and slowing growth.",
+        "summary_zh": "由于投资者关注收购交易的失败和增长放缓，Netflix 的股价正在下滑。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/netflixs-stock-slide-is-getting-worse-123338038.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781699618,
         "type": "News"
     }
 ]
