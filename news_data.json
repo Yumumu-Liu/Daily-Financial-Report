@@ -1,32 +1,82 @@
 [
     {
-        "title": "Wall Street ends higher on boost from chips, Iran optimism",
-        "title_zh": "受芯片和伊朗乐观情绪提振，华尔街收高",
-        "summary": "STORY: Wall Street's main indexes closed higher on Thursday, with the Dow ticking up more than a tenth of a percent, the S&P 500 adding more than 1% and the Nasdaq gaining nearly 2%.The session began with oil prices sliding to their lowest levels since early March after the U.S.",
-        "summary_zh": "故事：华尔街主要股指周四收高，道琼斯指数上涨逾十分之一，标准普尔 500 指数上涨逾 1%，纳斯达克指数上涨近 2%。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-boost-223205315.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1781821925,
+        "title": "How SpaceX benefits from its Cursor acquisition",
+        "title_zh": "SpaceX 如何从收购 Cursor 中获益",
+        "summary": "SpaceX's SpaceXAI should get a solid boost from its Cursor acquisition, but it will still need to compete with rivals like OpenAI and Anthropic.",
+        "summary_zh": "SpaceX 旗下的 SpaceXAI 应该会从 Cursor 收购中获得坚实的推动力，但它仍然需要与 OpenAI 和 Anthropic 等竞争对手竞争。",
+        "link": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781872200,
         "type": "News"
     },
     {
-        "title": "Meta signs new AI computing deals with data center firm Crusoe, Bloomberg News reports",
-        "title_zh": "据彭博社报道，Meta 与数据中心公司 Crusoe 签署新的人工智能计算协议",
-        "summary": "Meta Platforms has secured new agreements to get AI computing power from data ‌center developer Crusoe, Bloomberg News reported on Thursday, ‌as it strengthens infrastructure required to support its AI expansion.",
-        "summary_zh": "据彭博社周四报道，Meta Platforms 已与数据中心开发商 Crusoe 达成新协议，以获取人工智能计算能力，同时加强支持其人工智能扩张所需的基础设施。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-signs-ai-computing-deals-212431949.html",
-        "publisher": "Reuters",
-        "publish_time": 1781817871,
-        "type": "News"
-    },
-    {
-        "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
-        "title_zh": "Meta 与数据中心公司 Crusoe 达成新的人工智能计算协议",
-        "summary": "(Bloomberg) -- Meta Platforms Inc.",
-        "summary_zh": "（彭博社）——Meta Platforms Inc.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-strikes-ai-computing-deals-201346076.html",
+        "title": "Stocks Slide as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
+        "title_zh": "由于伊朗核谈判遇到早期障碍，股市下跌：市场结束",
+        "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US...",
+        "summary_zh": "（彭博社）——全球股市以谨慎的态度结束了强劲的一周，因为美国和伊朗之间的临时和平协议的缓解让位于对达成持久协议的挑战的关注。彭博社的大多数阅读阅读美国之间的 14 点备忘录草案...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html",
         "publisher": "Bloomberg",
-        "publish_time": 1781813626,
+        "publish_time": 1781871587,
+        "type": "News"
+    },
+    {
+        "title": "Canada's MDA Space to buy Blue Canyon in $620 million deal",
+        "title_zh": "加拿大 MDA Space 斥资 6.2 亿美元收购 Blue Canyon",
+        "summary": "June 19 (Reuters) - Canadian space technology firm MDA Space said on Friday it would buy U.S.-based Blue Canyon Technologies from RTX's Raytheon business for $620 million in cash, expanding its",
+        "summary_zh": "路透 6 月 19 日 - 加拿大太空技术公司 MDA Space 周五表示，将以 6.2 亿美元现金从 RTX 雷神公司业务手中收购总部位于美国的 Blue Canyon Technologies，扩大其业务规模。",
+        "link": "https://finance.yahoo.com/technology/articles/canadas-mda-space-buy-blue-113942059.html",
+        "publisher": "Reuters",
+        "publish_time": 1781869182,
+        "type": "News"
+    },
+    {
+        "title": "US Tells ASML It’s Concerned China May Have Top Chip Tool",
+        "title_zh": "美国告诉ASML，它担心中国可能拥有顶级芯片工具",
+        "summary": "(Bloomberg) -- Dutch chip-equipment giant ASML Holding NV is contending with its biggest challenge yet under the Trump administration: In a series of recent meetings, Commerce Secretary Howard Lutnick outlined concerns to ASML’s senior leaders that one of its top-of-the-line m...",
+        "summary_zh": "（彭博社）——荷兰芯片设备巨头 ASML Holding NV 正在应对特朗普政府领导下迄今为止最大的挑战：在最近的一系列会议中，商务部长霍华德·卢特尼克向 ASML 的高级领导人概述了对其高级管理人员之一的担忧。",
+        "link": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781867121,
+        "type": "News"
+    },
+    {
+        "title": "The Week in Numbers: SpaceX's colossal climb, Pizza Hut's price tag",
+        "title_zh": "本周数字：SpaceX 的巨大攀升、必胜客的价格标签",
+        "summary": "STORY: &nbsp;From SpaceX's colossal climb up the market...to Pizza Hut's price tagThis is the week in numbers.:: The Week In Numbers:: $2.52 trln$2.52 trillion was the market cap given to SpaceX as shares of the rocket maker soared this week.Elon Musk's company's value catapul...",
+        "summary_zh": "故事：从 SpaceX 在市场上的巨大攀升...到必胜客的价格标签这是数字周。:: 数字周:: 2.52 万亿美元是 SpaceX 股价本周飙升的市值。埃隆·马斯克公司的价值弹射...",
+        "link": "https://finance.yahoo.com/video/week-numbers-spacexs-colossal-climb-104208485.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1781865728,
+        "type": "News"
+    },
+    {
+        "title": "The stock market's next leg higher may not come from AI: Chart of the Day",
+        "title_zh": "股市的下一轮上涨可能不是来自人工智能：每日图表",
+        "summary": "After months of AI dominance and a week of SpaceX frenzy, the setup for stocks is becoming broader.",
+        "summary_zh": "经过几个月的人工智能统治和一周的 SpaceX 疯狂之后，股票的格局正在变得更加广泛。",
+        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-next-leg-higher-may-not-come-from-ai-chart-of-the-day-100000330.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781863200,
+        "type": "News"
+    },
+    {
+        "title": "AI-generated ads should be exempt from EU transparency rules, retail association says",
+        "title_zh": "零售协会表示，人工智能生成的广告应不受欧盟透明度规则的约束",
+        "summary": "By Helen Reid LONDON, June 19 (Reuters) - Eurocommerce, the European retail association whose members include Amazon, H&M, Inditex, and Ikea, is asking EU tech chief Henna Virkkunen to exempt AI-",
+        "summary_zh": "路透伦敦 6 月 19 日 - 欧洲零售协会 Eurocommerce 正在要求欧盟技术主管 Henna Virkkunen 豁免人工智能，该协会的成员包括亚马逊、H&M、Inditex 和宜家。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/ai-generated-ads-exempt-eu-092256997.html",
+        "publisher": "Reuters",
+        "publish_time": 1781860976,
+        "type": "News"
+    },
+    {
+        "title": "Amazon points to water conservation steps in India amid data centre scrutiny",
+        "title_zh": "亚马逊指出印度在数据中心审查期间采取了节水措施",
+        "summary": "Amazon said on Friday its Indian operations had reached a major milestone in ‌water conservation, at a time when global tech giants face increasing pressure ‌over their expansion of resource-hungry AI data centres.",
+        "summary_zh": "亚马逊周五表示，其印度业务在节约用水方面已达到一个重要里程碑，而此时全球科技巨头因扩张资源匮乏的人工智能数据中心而面临越来越大的压力。",
+        "link": "https://finance.yahoo.com/technology/articles/amazon-points-water-conservation-steps-090749258.html",
+        "publisher": "Reuters",
+        "publish_time": 1781860069,
         "type": "News"
     },
     {
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/video/carvana-opens-car-playground-for-easy-test-drive-booking-195920136.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1781812760,
-        "type": "News"
-    },
-    {
-        "title": "Stocks & bonds got spooked by Fed Chair Kevin Warsh. Here's why.",
-        "title_zh": "股票和债券受到美联储主席凯文·沃什的惊吓。原因如下。",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre, Yahoo Finance Senior Reporter Brooke DiPalma, and LPL Financial chief technical strategist Adam Turnquist explain how Fed Chair Kevin Warsh's hawkish tone impacted US stocks (^DJI, ^GSPC) and bonds (^FVX, ^TNX, ^TYX).",
-        "summary_zh": "雅虎财经市场和数据编辑 Jared Blikre、雅虎财经高级记者 Brooke DiPalma 和 LPL Financial 首席技术策略师 Adam Turnquist 解释了美联储主席凯文·沃什的鹰派语气如何影响美国股市 (^DJI、^GSPC) 和债券 (^FVX...",
-        "link": "https://finance.yahoo.com/video/stocks--bonds-got-spooked-by-fed-chair-kevin-warsh-heres-why-145036625.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781794236,
-        "type": "News"
-    },
-    {
-        "title": "Intel jumps after Trump says Apple, Intel reached US chip deal",
-        "title_zh": "特朗普称苹果与英特尔达成美国芯片协议后，英特尔股价上涨",
-        "summary": "Intel (INTC) surged 9% in premarket trading after President Trump said in a Truth Social post that Intel and Apple (AAPL) have agreed on a deal to design and build semiconductors in the US.",
-        "summary_zh": "特朗普总统在 Truth Social 帖子中表示，英特尔和苹果 (AAPL) 已就在美国设计和制造半导体的协议达成一致，英特尔 (INTC) 在盘前交易中飙升 9%。",
-        "link": "https://finance.yahoo.com/video/intel-jumps-after-trump-says-apple-intel-reached-us-chip-deal-144520733.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781793920,
-        "type": "News"
-    },
-    {
-        "title": "Gas prices fall but chip demand is causing a new headache",
-        "title_zh": "天然气价格下跌，但芯片需求引发新的头痛",
-        "summary": "Consumers may finally be getting some relief at the pump, with gas prices falling to their lowest levels since March following the Iran peace deal. But any savings could be offset elsewhere, as the AI-driven chip shortage pushes up the price of Apple (AAPL) iPhones.",
-        "summary_zh": "伊朗和平协议达成后，天然气价格跌至 3 月份以来的最低水平，消费者可能终于可以松口气了。但随着人工智能驱动的芯片短缺推高了苹果 (AAPL) iPhone 的价格，任何节省的成本都可能在其他地方被抵消。",
-        "link": "https://finance.yahoo.com/video/gas-prices-fall-but-chip-demand-is-causing-a-new-headache-142747415.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1781792867,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX stock drops after breaking 3-day winning streak",
-        "title_zh": "SpaceX股价在打破三天连涨后下跌",
-        "summary": "SpaceX opened lower on Thursday, extending losses from the prior session.",
-        "summary_zh": "SpaceX 周四开盘走低，延续前一交易日的跌幅。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-after-breaking-3-day-winning-streak-124809291.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781786889,
-        "type": "News"
-    },
-    {
-        "title": "Stocks market today: Dow, S&P 500, Nasdaq rally amid Iran deal optimism as AI chip trade reignites",
-        "title_zh": "今日股市：人工智能芯片贸易重燃，伊朗交易乐观，道琼斯指数、标准普尔 500 指数和纳斯达克指数上涨",
-        "summary": "Wall Street eyed the odds of Hormuz reopening after the interim US-Iran peace deal went into effect, and weighed signs the Fed is starting to lean toward a rate hike.",
-        "summary_zh": "华尔街关注美伊临时和平协议生效后霍尔木兹海峡重新开放的可能性，并权衡美联储开始倾向于加息的迹象。",
-        "link": "https://finance.yahoo.com/markets/live/stocks-market-today-dow-sp-500-nasdaq-rally-amid-iran-deal-optimism-as-ai-chip-trade-reignites-230530576.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781737530,
         "type": "News"
     }
 ]

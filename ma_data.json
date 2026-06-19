@@ -1,12 +1,32 @@
 [
     {
-        "title": "Should You Buy SpaceX Stock After Its IPO Pop? History Offers a Clear Answer.",
-        "title_zh": "SpaceX 首次公开募股后你应该购买它的股票吗？历史给出了明确的答案。",
-        "summary": "SpaceX is unlike any IPO in history, but the past can still provide good evidence for where shares could be heading.",
-        "summary_zh": "SpaceX 与历史上任何一次 IPO 不同，但过去的经历仍然可以为股价的走向提供良好的证据。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-spacex-stock-ipo-pop-032000049.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1781839200,
+        "title": "How SpaceX benefits from its Cursor acquisition",
+        "title_zh": "SpaceX 如何从收购 Cursor 中获益",
+        "summary": "SpaceX's SpaceXAI should get a solid boost from its Cursor acquisition, but it will still need to compete with rivals like OpenAI and Anthropic.",
+        "summary_zh": "SpaceX 旗下的 SpaceXAI 应该会从 Cursor 收购中获得坚实的推动力，但它仍然需要与 OpenAI 和 Anthropic 等竞争对手竞争。",
+        "link": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781872200,
+        "type": "News"
+    },
+    {
+        "title": "Canada's MDA Space to buy Blue Canyon in $620 million deal",
+        "title_zh": "加拿大 MDA Space 斥资 6.2 亿美元收购 Blue Canyon",
+        "summary": "June 19 (Reuters) - Canadian space technology firm MDA Space said on Friday it would buy U.S.-based Blue Canyon Technologies from RTX's Raytheon business for $620 million in cash, expanding its",
+        "summary_zh": "路透 6 月 19 日 - 加拿大太空技术公司 MDA Space 周五表示，将以 6.2 亿美元现金从 RTX 雷神公司业务手中收购总部位于美国的 Blue Canyon Technologies，扩大其业务规模。",
+        "link": "https://finance.yahoo.com/technology/articles/canadas-mda-space-buy-blue-113942059.html",
+        "publisher": "Reuters",
+        "publish_time": 1781869182,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX (SPCX) Is Up 14.9% After Record IPO And $60 Billion Cursor AI Deal - What's Changed",
+        "title_zh": "SpaceX (SPCX) 在创纪录的 IPO 和 600 亿美元 Cursor AI 交易后上涨 14.9% - 发生了什么变化",
+        "summary": "In mid-June 2026, Space Exploration Technologies Corp. completed the largest IPO in history, raising roughly US$75–86 billion and rapidly secured inclusion in major Nasdaq indexes while agreeing to acquire AI coding platform Cursor in an all-stock deal valued at US$60 billion.",
+        "summary_zh": "2026 年 6 月中旬，Space Exploration Technologies Corp. 完成了历史上最大规模的 IPO，筹集了约 75-860 亿美元，并迅速纳入纳斯达克主要指数，同时同意以价值 600 亿美元的全股票交易收购人工智能编码平台 Cursor。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-14-9-record-091606982.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1781860566,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-end-220748102.html",
         "publisher": "Stocktwits",
         "publish_time": 1781820468,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley (MS) Buys Into UK Rentals With £1.045b Metra Living Deal",
-        "title_zh": "摩根士丹利 (MS) 以 1.045 英镑收购英国 Rentals Metra Living 交易",
-        "summary": "Morgan Stanley Investment Management and Ridgeback Group agreed to acquire Metra Living, the PRS business of London & Quadrant Housing Trust, for £1.045b. The deal expands NYSE:MS into UK residential rental assets at a time of housing supply constraints in key urban areas.",
-        "summary_zh": "摩根士丹利投资管理公司和 Ridgeback Group 同意以 1.045b 英镑收购 London & Quadrant Housing Trust 的 PRS 业务 Metra Living。在主要城市地区住房供应紧张之际，该交易将 NYSE:MS 扩展到英国住宅租赁资产。",
-        "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-ms-buys-uk-211608776.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1781817368,
-        "type": "News"
-    },
-    {
-        "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
-        "title_zh": "Meta 与数据中心公司 Crusoe 达成新的人工智能计算协议",
-        "summary": "(Bloomberg) -- Meta Platforms Inc.",
-        "summary_zh": "（彭博社）——Meta Platforms Inc.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-strikes-ai-computing-deals-201346076.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781813626,
         "type": "News"
     }
 ]
