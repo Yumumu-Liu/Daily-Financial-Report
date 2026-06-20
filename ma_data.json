@@ -1,5 +1,15 @@
 [
     {
+        "title": "Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers",
+        "title_zh": "劳埃德 (LYG) 推出“劳埃德奖励”应用内中心以取代日常优惠",
+        "summary": "​Lloyds Banking Group (NYSE:LYG) is one of the top value stocks to buy under $10. On June 9, Lloyds launched a new in-app hub called “Lloyds Rewards,” replacing its previous “Everyday Offers” to provide customers with an integrated space for savings, cashback, and prize draws.",
+        "summary_zh": "劳埃德银行集团（纽约证券交易所股票代码：LYG）是 10 美元以下最值得买入的股票之一。 6 月 9 日，劳埃德推出了一个名为“劳埃德奖励”的新应用内中心，取代了之前的“每日优惠”，为客户提供储蓄、现金返还和抽奖的综合空间。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/lloyds-lyg-launches-lloyds-rewards-165213150.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1781887933,
+        "type": "News"
+    },
+    {
         "title": "How SpaceX benefits from its Cursor acquisition",
         "title_zh": "SpaceX 如何从收购 Cursor 中获益",
         "summary": "SpaceX's SpaceXAI should get a solid boost from its Cursor acquisition, but it will still need to compete with rivals like OpenAI and Anthropic.",
@@ -20,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "SpaceX (SPCX) Is Up 14.9% After Record IPO And $60 Billion Cursor AI Deal - What's Changed",
-        "title_zh": "SpaceX (SPCX) 在创纪录的 IPO 和 600 亿美元 Cursor AI 交易后上涨 14.9% - 发生了什么变化",
-        "summary": "In mid-June 2026, Space Exploration Technologies Corp. completed the largest IPO in history, raising roughly US$75–86 billion and rapidly secured inclusion in major Nasdaq indexes while agreeing to acquire AI coding platform Cursor in an all-stock deal valued at US$60 billion.",
-        "summary_zh": "2026 年 6 月中旬，Space Exploration Technologies Corp. 完成了历史上最大规模的 IPO，筹集了约 75-860 亿美元，并迅速纳入纳斯达克主要指数，同时同意以价值 600 亿美元的全股票交易收购人工智能编码平台 Cursor。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-14-9-record-091606982.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1781860566,
-        "type": "News"
-    },
-    {
         "title": "Review & Preview: Peace Deal Trumps Fed",
         "title_zh": "回顾与前瞻：和平协议胜过美联储",
         "summary": "Progress toward a peace deal with Iran outweighed hawkish undertones from Fed Chair Kevin Warsh. Plus, the Knicks’ market impact.",
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus",
-        "title_zh": "由于投资者欢呼美伊和平协议，标普 500 指数、纳斯达克指数和道琼斯指数在假期缩短的一周中上涨 - SPCX、AMZN、ONDS、NFLX、TTWO 成为焦点",
-        "summary": "Donald Trump and Iranian President Masoud Pezeshkian signed a preliminary agreement on Wednesday in a bid to end the conflict between the two countries.",
-        "summary_zh": "唐纳德·特朗普和伊朗总统马苏德·佩泽什基安周三签署了一项初步协议，以结束两国之间的冲突。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-end-220748102.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1781820468,
+        "title": "Morgan Stanley (MS) Buys Into UK Rentals With £1.045b Metra Living Deal",
+        "title_zh": "摩根士丹利 (MS) 以 1.045 英镑收购英国 Rentals Metra Living 交易",
+        "summary": "Morgan Stanley Investment Management and Ridgeback Group agreed to acquire Metra Living, the PRS business of London & Quadrant Housing Trust, for £1.045b. The deal expands NYSE:MS into UK residential rental assets at a time of housing supply constraints in key urban areas.",
+        "summary_zh": "摩根士丹利投资管理公司和 Ridgeback Group 同意以 1.045b 英镑收购 London & Quadrant Housing Trust 的 PRS 业务 Metra Living。在主要城市地区住房供应紧张之际，该交易将 NYSE:MS 扩展到英国住宅租赁资产。",
+        "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-ms-buys-uk-211608776.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1781817368,
         "type": "News"
     }
 ]
