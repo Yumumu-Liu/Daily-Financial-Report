@@ -1,5 +1,15 @@
 [
     {
+        "title": "Is Bitzero Holdings (CNSX:AIBZ.U) Quietly Recasting Its AI Edge With This Norway Lease Deal?",
+        "title_zh": "Bitzero Holdings（CNSX：AIBZ.U）是否正在通过这项挪威租赁交易悄悄重塑其人工智能优势？",
+        "summary": "Bitzero Holdings Inc.",
+        "summary_zh": "比特零控股公司",
+        "link": "https://finance.yahoo.com/technology/ai/articles/bitzero-holdings-cnsx-aibz-u-071043643.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1781939443,
+        "type": "News"
+    },
+    {
         "title": "Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers",
         "title_zh": "劳埃德 (LYG) 推出“劳埃德奖励”应用内中心以取代日常优惠",
         "summary": "​Lloyds Banking Group (NYSE:LYG) is one of the top value stocks to buy under $10. On June 9, Lloyds launched a new in-app hub called “Lloyds Rewards,” replacing its previous “Everyday Offers” to provide customers with an integrated space for savings, cashback, and prize draws.",
@@ -20,26 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Canada's MDA Space to buy Blue Canyon in $620 million deal",
-        "title_zh": "加拿大 MDA Space 斥资 6.2 亿美元收购 Blue Canyon",
-        "summary": "June 19 (Reuters) - Canadian space technology firm MDA Space said on Friday it would buy U.S.-based Blue Canyon Technologies from RTX's Raytheon business for $620 million in cash, expanding its",
-        "summary_zh": "路透 6 月 19 日 - 加拿大太空技术公司 MDA Space 周五表示，将以 6.2 亿美元现金从 RTX 雷神公司业务手中收购总部位于美国的 Blue Canyon Technologies，扩大其业务规模。",
-        "link": "https://finance.yahoo.com/technology/articles/canadas-mda-space-buy-blue-113942059.html",
-        "publisher": "Reuters",
-        "publish_time": 1781869182,
-        "type": "News"
-    },
-    {
-        "title": "Review & Preview: Peace Deal Trumps Fed",
-        "title_zh": "回顾与前瞻：和平协议胜过美联储",
-        "summary": "Progress toward a peace deal with Iran outweighed hawkish undertones from Fed Chair Kevin Warsh. Plus, the Knicks’ market impact.",
-        "summary_zh": "与伊朗达成和平协议的进展盖过了美联储主席凯文·沃什的鹰派暗示。另外，尼克斯队的市场影响力。",
-        "link": "https://www.barrons.com/articles/stocks-today-peace-deal-fed-38623795?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1781826900,
-        "type": "News"
-    },
-    {
         "title": "Morgan Stanley (MS) Buys Into UK Rentals With £1.045b Metra Living Deal",
         "title_zh": "摩根士丹利 (MS) 以 1.045 英镑收购英国 Rentals Metra Living 交易",
         "summary": "Morgan Stanley Investment Management and Ridgeback Group agreed to acquire Metra Living, the PRS business of London & Quadrant Housing Trust, for £1.045b. The deal expands NYSE:MS into UK residential rental assets at a time of housing supply constraints in key urban areas.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-ms-buys-uk-211608776.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1781817368,
+        "type": "News"
+    },
+    {
+        "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+        "title_zh": "Meta 与数据中心公司 Crusoe 达成新的人工智能计算协议",
+        "summary": "(Bloomberg) -- Meta Platforms Inc.",
+        "summary_zh": "（彭博社）——Meta Platforms Inc.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-strikes-ai-computing-deals-201346076.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781813626,
         "type": "News"
     }
 ]
