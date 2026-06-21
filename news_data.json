@@ -8,25 +8,5 @@
         "publisher": "Yahoo Finance",
         "publish_time": 1781954611,
         "type": "News"
-    },
-    {
-        "title": "How SpaceX benefits from its Cursor acquisition",
-        "title_zh": "SpaceX 如何从收购 Cursor 中获益",
-        "summary": "SpaceX's SpaceXAI should get a solid boost from its Cursor acquisition, but it will still need to compete with rivals like OpenAI and Anthropic.",
-        "summary_zh": "SpaceX 旗下的 SpaceXAI 应该会从 Cursor 收购中获得坚实的推动力，但它仍然需要与 OpenAI 和 Anthropic 等竞争对手竞争。",
-        "link": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781872200,
-        "type": "News"
-    },
-    {
-        "title": "The stock market's next leg higher may not come from AI: Chart of the Day",
-        "title_zh": "股市的下一轮上涨可能不是来自人工智能：每日图表",
-        "summary": "After months of AI dominance and a week of SpaceX frenzy, the setup for stocks is becoming broader.",
-        "summary_zh": "经过几个月的人工智能统治和一周的 SpaceX 疯狂之后，股票的格局正在变得更加广泛。",
-        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-next-leg-higher-may-not-come-from-ai-chart-of-the-day-100000330.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1781863200,
-        "type": "News"
     }
 ]

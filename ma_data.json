@@ -1,5 +1,15 @@
 [
     {
+        "title": "India seeks tariff advantage before implementing U.S. trade deal",
+        "title_zh": "印度在实施美国贸易协议之前寻求关税优势",
+        "summary": "Investing.com -- India is seeking lower tariff rates than competing nations before moving ahead with a long-awaited trade agreement with the United States, Bloomberg reported, citing comments from Commerce and Industry Minister Piyush Goyal.",
+        "summary_zh": "Investing.com——彭博社援引商业和工业部长皮尤什·戈亚尔的评论报道称，印度正在寻求比竞争国家更低的关税，然后再与美国达成期待已久的贸易协议。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/india-seeks-tariff-advantage-implementing-094014828.html",
+        "publisher": "Investing.com",
+        "publish_time": 1782034814,
+        "type": "News"
+    },
+    {
         "title": "Long Corporate Bond ETFs: IGLB Offers Broad Exposure While VCLT Is Slightly Cheaper",
         "title_zh": "多头公司债券 ETF：IGLB 提供广泛的投资机会，而 VCLT 稍便宜",
         "summary": "The iShares 10+ Year Investment Grade Corporate Bond ETF (IGLB) and the Vanguard Long-Term Corporate Bond ETF (VCLT) both target long-maturity corporate debt.",
@@ -33,20 +43,10 @@
         "title": "Microsoft Corporation (MSFT): One of the Best Falling Stocks Despite Getting Out of Oracle Data Center Deal",
         "title_zh": "微软公司（MSFT）：尽管退出了甲骨文数据中心交易，但仍是跌幅最大的股票之一",
         "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the best falling stocks to invest in, according to analysts. On June 17, Microsoft Corporation (NASDAQ:MSFT) stock edged lower amid reports it had abandoned plans to lease an Oracle Data center.",
-        "summary_zh": "分析师称，微软公司（纳斯达克股票代码：MSFT）是最值得投资的下跌股票之一。 6 月 17 日，微软公司（纳斯达克股票代码：MSFT）股价小幅走低，有报道称该公司已放弃租赁甲骨文数据中心的计划。",
+        "summary_zh": "分析师表示，微软公司（纳斯达克股票代码：MSFT）是最值得投资的下跌股票之一。 6 月 17 日，微软公司（纳斯达克股票代码：MSFT）股价小幅走低，有报道称该公司已放弃租赁甲骨文数据中心的计划。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-best-121118404.html",
         "publisher": "Insider Monkey",
         "publish_time": 1781957478,
-        "type": "News"
-    },
-    {
-        "title": "Is Bitzero Holdings (CNSX:AIBZ.U) Quietly Recasting Its AI Edge With This Norway Lease Deal?",
-        "title_zh": "Bitzero Holdings（CNSX：AIBZ.U）是否正在通过这项挪威租赁交易悄悄重塑其人工智能优势？",
-        "summary": "Bitzero Holdings Inc.",
-        "summary_zh": "比特零控股公司",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bitzero-holdings-cnsx-aibz-u-071043643.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1781939443,
         "type": "News"
     }
 ]
