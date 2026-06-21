@@ -1,12 +1,12 @@
 [
     {
-        "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
-        "title_zh": "由于伊朗核谈判遇到早期障碍，股市陷入停滞：市场结束",
-        "summary": "(Bloomberg) -- Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.Most Read from BloombergRead the 14-Point Draft Memorandum Between the US...",
-        "summary_zh": "（彭博社）——全球股市以谨慎的态度结束了强劲的一周，因为美国和伊朗之间的临时和平协议的缓解让位于对达成持久协议的挑战的关注。彭博社的大多数阅读阅读美国之间的 14 点备忘录草案...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-slide-focus-shifts-iran-080450531.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781899755,
+        "title": "From FAANG to MANGOS — Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
+        "title_zh": "从 FAANG 到 MANGOS——华尔街正在寻找下一个“Magnificent 7”：每日图表",
+        "summary": "Wall Street loves a new nickname for its favorite trade.",
+        "summary_zh": "华尔街喜欢为其最喜爱的交易取一个新绰号。",
+        "link": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781954611,
         "type": "News"
     },
     {
@@ -17,6 +17,16 @@
         "link": "https://finance.yahoo.com/technology/article/how-spacex-benefits-from-its-cursor-acquisition-123000466.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1781872200,
+        "type": "News"
+    },
+    {
+        "title": "The stock market's next leg higher may not come from AI: Chart of the Day",
+        "title_zh": "股市的下一轮上涨可能不是来自人工智能：每日图表",
+        "summary": "After months of AI dominance and a week of SpaceX frenzy, the setup for stocks is becoming broader.",
+        "summary_zh": "经过几个月的人工智能统治和一周的 SpaceX 疯狂之后，股票的格局正在变得更加广泛。",
+        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-next-leg-higher-may-not-come-from-ai-chart-of-the-day-100000330.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1781863200,
         "type": "News"
     }
 ]
