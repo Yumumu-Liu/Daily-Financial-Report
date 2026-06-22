@@ -1,12 +1,42 @@
 [
     {
-        "title": "From FAANG to MANGOS — Wall Street is searching for the next 'Magnificent 7': Chart of the Day",
-        "title_zh": "从 FAANG 到 MANGOS——华尔街正在寻找下一个“Magnificent 7”：每日图表",
-        "summary": "Wall Street loves a new nickname for its favorite trade.",
-        "summary_zh": "华尔街喜欢为其最喜爱的交易取一个新绰号。",
-        "link": "https://finance.yahoo.com/markets/article/from-faang-to-mangos--wall-street-is-searching-for-the-next-magnificent-7-chart-of-the-day-112331299.html",
+        "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
+        "title_zh": "SK海力士超越三星成为韩国最有价值公司",
+        "summary": "SK Hynix on Monday overtook Samsung Electronics to become South Korea's most valuable listed company, marking a dramatic reversal of fortunes for ‌a chipmaker that two decades ago nearly collapsed under debt.",
+        "summary_zh": "SK 海力士周一超越三星电子，成为韩国市值最高的上市公司，标志着这家二十年前因债务而几乎崩溃的芯片制造商的命运发生了戏剧性逆转。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-become-043834467.html",
+        "publisher": "Reuters",
+        "publish_time": 1782103114,
+        "type": "News"
+    },
+    {
+        "title": "Iran War Puts $124 Billion Gulf Remittance Lifeline at Risk",
+        "title_zh": "伊朗战争使 1240 亿美元的海湾汇款生命线面临风险",
+        "summary": "(Bloomberg) -- Steve Geoffrey, one of roughly 30 million foreign nationals in the Middle East, considers himself lucky to still be able to support his family in Kenya.Most Read from BloombergIran Says Hormuz Closed Again as Talks With US Set to OpenUS and Iran Make ‘Progress’ ...",
+        "summary_zh": "（彭博社）——史蒂夫·杰弗里（Steve Geoffrey）是中东约 3000 万外国人中的一员，他认为自己很幸运，仍然能够养活自己在肯尼亚的家人。彭博社伊朗的大多数报道称，霍尔木兹海峡再次关闭，因为与美国的谈判即将开放美国和伊朗取得“进展”......",
+        "link": "https://finance.yahoo.com/economy/articles/iran-war-puts-124-billion-040015019.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782100815,
+        "type": "News"
+    },
+    {
+        "title": "Tech, crypto firms to help tackle illegal wildlife trade",
+        "title_zh": "科技、加密货币公司帮助打击非法野生动物贸易",
+        "summary": "To look ⁠for ways to eradicate online listings, including through AI-enabled detection and prevention. Represent a ⁠fifth of the global e-commerce market and 90% of the world's social media users.",
+        "summary_zh": "寻找消除在线列表的方法，包括通过人工智能检测和预防。代表全球电子商务市场的五分之一和全球社交媒体用户的 90%。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/tech-crypto-firms-help-tackle-230522796.html",
+        "publisher": "Reuters",
+        "publish_time": 1782083122,
+        "type": "News"
+    },
+    {
+        "title": "'There's a new sheriff in town': Wall Street weighs Kevin Warsh's Fed debut",
+        "title_zh": "“镇上有一位新警长”：华尔街对凯文·沃什的美联储首次亮相进行评估",
+        "summary": "Wall Street tried to decode Kevin Warsh's Fed debut and its potential impact on stocks.",
+        "summary_zh": "华尔街试图解读凯文·沃什 (Kevin Warsh) 的美联储首次亮相及其对股市的潜在影响。",
+        "link": "https://finance.yahoo.com/markets/article/theres-a-new-sheriff-in-town-wall-street-weighs-kevin-warshs-fed-debut-114011265.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1781954611,
+        "publish_time": 1782042011,
         "type": "News"
     }
 ]

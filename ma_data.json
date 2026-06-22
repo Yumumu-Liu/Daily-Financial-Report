@@ -1,22 +1,12 @@
 [
     {
-        "title": "India seeks tariff advantage before implementing U.S. trade deal",
-        "title_zh": "印度在实施美国贸易协议之前寻求关税优势",
-        "summary": "Investing.com -- India is seeking lower tariff rates than competing nations before moving ahead with a long-awaited trade agreement with the United States, Bloomberg reported, citing comments from Commerce and Industry Minister Piyush Goyal.",
-        "summary_zh": "Investing.com——彭博社援引商业和工业部长皮尤什·戈亚尔的评论报道称，印度正在寻求比竞争国家更低的关税，然后再与美国达成期待已久的贸易协议。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/india-seeks-tariff-advantage-implementing-094014828.html",
-        "publisher": "Investing.com",
-        "publish_time": 1782034814,
-        "type": "News"
-    },
-    {
-        "title": "Long Corporate Bond ETFs: IGLB Offers Broad Exposure While VCLT Is Slightly Cheaper",
-        "title_zh": "多头公司债券 ETF：IGLB 提供广泛的投资机会，而 VCLT 稍便宜",
-        "summary": "The iShares 10+ Year Investment Grade Corporate Bond ETF (IGLB) and the Vanguard Long-Term Corporate Bond ETF (VCLT) both target long-maturity corporate debt.",
-        "summary_zh": "iShares 10+ 年投资级企业债券 ETF (IGLB) 和 Vanguard 长期企业债券 ETF (VCLT) 均针对长期企业债务。",
-        "link": "https://finance.yahoo.com/markets/options/articles/long-corporate-bond-etfs-iglb-225209176.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1781995929,
+        "title": "Intel Advances Next Generation 18A-P Chip to Risk Production. This Is a Big Deal for INTC Stock.",
+        "title_zh": "英特尔推进下一代 18A-P 芯片的风险生产。这对 INTC 股票来说是一件大事。",
+        "summary": "Intel just cleared a major milestone in its race to reclaim manufacturing leadership. Here is what it means for the company and for the future of AI computing.",
+        "summary_zh": "英特尔刚刚在夺回制造领先地位的竞赛中取得了一个重要的里程碑。这对于公司和人工智能计算的未来意味着什么。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/intel-advances-next-generation-18a-153002381.html",
+        "publisher": "Barchart",
+        "publish_time": 1782055802,
         "type": "News"
     },
     {
@@ -30,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Peter Thiel’s secret society talks AI takeover, World War III and ‘cult-building’ — a hacker just revealed who’s in it",
-        "title_zh": "彼得·泰尔的秘密社团谈论人工智能接管、第三次世界大战和“邪教建设”——一名黑客刚刚透露了其中的成员",
-        "summary": "Billionaires, CEOs, generals and senators all attend Dialogue events. Here’s what they worry about behind closed doors.",
-        "summary_zh": "亿万富翁、首席执行官、将军和参议员都参加对话活动。这是他们私下担心的事情。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-secret-society-talks-123000645.html",
-        "publisher": "Moneywise",
-        "publish_time": 1781958600,
-        "type": "News"
-    },
-    {
         "title": "Microsoft Corporation (MSFT): One of the Best Falling Stocks Despite Getting Out of Oracle Data Center Deal",
         "title_zh": "微软公司（MSFT）：尽管退出了甲骨文数据中心交易，但仍是跌幅最大的股票之一",
         "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the best falling stocks to invest in, according to analysts. On June 17, Microsoft Corporation (NASDAQ:MSFT) stock edged lower amid reports it had abandoned plans to lease an Oracle Data center.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-best-121118404.html",
         "publisher": "Insider Monkey",
         "publish_time": 1781957478,
+        "type": "News"
+    },
+    {
+        "title": "Morgan Stanley (MS) Buys Into UK Rentals With £1.045b Metra Living Deal",
+        "title_zh": "摩根士丹利 (MS) 以 1.045 英镑收购英国 Rentals Metra Living 交易",
+        "summary": "Morgan Stanley Investment Management and Ridgeback Group agreed to acquire Metra Living, the PRS business of London & Quadrant Housing Trust, for £1.045b. The deal expands NYSE:MS into UK residential rental assets at a time of housing supply constraints in key urban areas.",
+        "summary_zh": "摩根士丹利投资管理公司和 Ridgeback Group 同意以 1.045b 英镑收购 London & Quadrant Housing Trust 的 PRS 业务 Metra Living。在主要城市地区住房供应紧张之际，该交易将 NYSE:MS 扩展到英国住宅租赁资产。",
+        "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-ms-buys-uk-211608776.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1781817368,
+        "type": "News"
+    },
+    {
+        "title": "Trump’s Iran Deal Kicks In as Focus Shifts to Hormuz Flows",
+        "title_zh": "随着焦点转向霍尔木兹流，特朗普的伊朗协议开始生效",
+        "summary": "(Bloomberg) -- US President Donald Trump’s interim peace deal with Iran is starting to take effect, with focus shifting to the resumption of shipping through the Strait of Hormuz and a complex 60-day negotiating period over Tehran’s nuclear program.Most Read from BloombergRead...",
+        "summary_zh": "（彭博社）——美国总统唐纳德·特朗普与伊朗的临时和平协议开始生效，重点转向恢复霍尔木兹海峡的航运，以及就德黑兰核计划进行为期 60 天的复杂谈判。彭博社的大多数阅读阅读...",
+        "link": "https://finance.yahoo.com/energy/articles/trump-signs-iran-deal-shifting-100957601.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1781795114,
         "type": "News"
     }
 ]
