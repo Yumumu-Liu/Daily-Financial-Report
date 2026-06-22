@@ -1,52 +1,52 @@
 [
     {
-        "title": "Intel Advances Next Generation 18A-P Chip to Risk Production. This Is a Big Deal for INTC Stock.",
-        "title_zh": "英特尔推进下一代 18A-P 芯片的风险生产。这对 INTC 股票来说是一件大事。",
-        "summary": "Intel just cleared a major milestone in its race to reclaim manufacturing leadership. Here is what it means for the company and for the future of AI computing.",
-        "summary_zh": "英特尔刚刚在夺回制造领先地位的竞赛中取得了一个重要的里程碑。这对于公司和人工智能计算的未来意味着什么。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/intel-advances-next-generation-18a-153002381.html",
-        "publisher": "Barchart",
-        "publish_time": 1782055802,
+        "title": "SpaceX stock down again, shaving off some IPO gains; confirms debt offering",
+        "title_zh": "SpaceX 股价再次下跌，削减了部分 IPO 收益；确认发债",
+        "summary": "SpaceX stock fell again on Monday, now poised for three straight down days after a massive run-up following its IPO earlier this month. SpaceX also confirmed its first-ever bond issuance in a filing.",
+        "summary_zh": "SpaceX 股价周一再次下跌，继本月初首次公开募股后大幅上涨后，目前已连续三天下跌。 SpaceX还在一份文件中确认了其首次债券发行。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-again-shaving-off-some-ipo-gains-confirms-debt-offering-141725657.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782137845,
         "type": "News"
     },
     {
-        "title": "When You Play Defense With Consumer Staples, Which ETF Should You Own? Funds From State Street and First Trust Offer a Stark Choice.",
-        "title_zh": "当您防御必需消费品时，您应该持有哪只 ETF？道富银行和第一信托基金提供了一个严峻的选择。",
-        "summary": "Compare portfolio strategies and sector exposures as two leading consumer staples ETFs take different paths to long-term returns.",
-        "summary_zh": "比较投资组合策略和行业风险敞口，因为两个领先的消费必需品 ETF 采用不同的长期回报路径。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/play-defense-consumer-staples-etf-163707718.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1781973427,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft Corporation (MSFT): One of the Best Falling Stocks Despite Getting Out of Oracle Data Center Deal",
-        "title_zh": "微软公司（MSFT）：尽管退出了甲骨文数据中心交易，但仍是跌幅最大的股票之一",
-        "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the best falling stocks to invest in, according to analysts. On June 17, Microsoft Corporation (NASDAQ:MSFT) stock edged lower amid reports it had abandoned plans to lease an Oracle Data center.",
-        "summary_zh": "分析师表示，微软公司（纳斯达克股票代码：MSFT）是最值得投资的下跌股票之一。 6 月 17 日，微软公司（纳斯达克股票代码：MSFT）股价小幅走低，有报道称该公司已放弃租赁甲骨文数据中心的计划。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-one-best-121118404.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1781957478,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley (MS) Buys Into UK Rentals With £1.045b Metra Living Deal",
-        "title_zh": "摩根士丹利 (MS) 以 1.045 英镑收购英国 Rentals Metra Living 交易",
-        "summary": "Morgan Stanley Investment Management and Ridgeback Group agreed to acquire Metra Living, the PRS business of London & Quadrant Housing Trust, for £1.045b. The deal expands NYSE:MS into UK residential rental assets at a time of housing supply constraints in key urban areas.",
-        "summary_zh": "摩根士丹利投资管理公司和 Ridgeback Group 同意以 1.045b 英镑收购 London & Quadrant Housing Trust 的 PRS 业务 Metra Living。在主要城市地区住房供应紧张之际，该交易将 NYSE:MS 扩展到英国住宅租赁资产。",
-        "link": "https://finance.yahoo.com/real-estate/articles/morgan-stanley-ms-buys-uk-211608776.html",
+        "title": "Chevron (CVX) Signs 20 Year Microsoft Deal To Power Texas AI Data Center",
+        "title_zh": "雪佛龙 (CVX) 与微软签署 20 年协议，为德克萨斯州人工智能数据中心提供电力",
+        "summary": "Chevron (NYSE:CVX) has entered a 20 year agreement to supply natural gas power to a major Microsoft AI data center in West Texas. The project, known as Project Kilby, involves Chevron, Microsoft and energy infrastructure firm Joulent.",
+        "summary_zh": "雪佛龙（纽约证券交易所股票代码：CVX）已签订一项为期 20 年的协议，为西德克萨斯州的一个主要微软人工智能数据中心提供天然气电力。该项目被称为“基尔比计划”，涉及雪佛龙、微软和能源基础设施公司 Joulent。",
+        "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-signs-20-microsoft-141028668.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1781817368,
+        "publish_time": 1782137428,
         "type": "News"
     },
     {
-        "title": "Trump’s Iran Deal Kicks In as Focus Shifts to Hormuz Flows",
-        "title_zh": "随着焦点转向霍尔木兹流，特朗普的伊朗协议开始生效",
-        "summary": "(Bloomberg) -- US President Donald Trump’s interim peace deal with Iran is starting to take effect, with focus shifting to the resumption of shipping through the Strait of Hormuz and a complex 60-day negotiating period over Tehran’s nuclear program.Most Read from BloombergRead...",
-        "summary_zh": "（彭博社）——美国总统唐纳德·特朗普与伊朗的临时和平协议开始生效，重点转向恢复霍尔木兹海峡的航运，以及就德黑兰核计划进行为期 60 天的复杂谈判。彭博社的大多数阅读阅读...",
-        "link": "https://finance.yahoo.com/energy/articles/trump-signs-iran-deal-shifting-100957601.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1781795114,
+        "title": "Fed hawkishness and stretched valuations offset Iran deal relief, Deutsche Bank says",
+        "title_zh": "德意志银行表示，美联储的鹰派态度和估值过高抵消了伊朗协议的缓解",
+        "summary": "Despite the interim US-Iran deal and a considerable fall in oil prices, risk assets have barely moved, with the S&P 500 still beneath its record high from early June and credit spreads widening. The puzzle reflects four competing forces, Deutsche Bank analyst Henry Allen argues.",
+        "summary_zh": "尽管美伊达成临时协议且油价大幅下跌，但风险资产几乎没有变动，标准普尔 500 指数仍低于 6 月初的历史高位，信贷利差扩大。德意志银行分析师亨利·艾伦认为，这个谜题反映了四种相互竞争的力量。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fed-hawkishness-stretched-valuations-offset-140400281.html",
+        "publisher": "Proactive",
+        "publish_time": 1782137040,
+        "type": "News"
+    },
+    {
+        "title": "Goldman cuts U.S. recession risk to 15% after Iran deal",
+        "title_zh": "伊朗协议达成后高盛将美国经济衰退风险下调至15%",
+        "summary": "Investing.com -- Goldman Sachs has cut its 12-month U.S. recession probability to 15% following the U.S.-Iran agreement, with chief economist Jan Hatzius citing reduced downside risks to the economic outlook and an improvement in underlying labor market resilience.",
+        "summary_zh": "Investing.com——在美伊协议达成后，高盛将美国 12 个月经济衰退概率下调至 15%，首席经济学家 Jan Hatzius 表示，经济前景下行风险降低，劳动力市场潜在弹性有所改善。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/goldman-cuts-u-recession-risk-115542510.html",
+        "publisher": "Investing.com",
+        "publish_time": 1782129342,
+        "type": "News"
+    },
+    {
+        "title": "Stocks Down Pre-Bell as Traders Assess US-Iran Deal Progress, Await Key Inflation Report",
+        "title_zh": "由于交易员评估美伊协议进展并等待关键通胀报告，股市开盘前下跌",
+        "summary": "The benchmark US stock measures were pointing lower before the opening bell Monday as investors moni",
+        "summary_zh": "由于投资者关注周一开盘前美国基准股指走低",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-traders-112959748.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1782127799,
         "type": "News"
     }
 ]

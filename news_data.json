@@ -1,12 +1,12 @@
 [
     {
-        "title": "SK Hynix overtakes Samsung to become Korea's most valuable company",
-        "title_zh": "SK海力士超越三星成为韩国最有价值公司",
-        "summary": "SK Hynix on Monday overtook Samsung Electronics to become South Korea's most valuable listed company, marking a dramatic reversal of fortunes for ‌a chipmaker that two decades ago nearly collapsed under debt.",
-        "summary_zh": "SK 海力士周一超越三星电子，成为韩国市值最高的上市公司，标志着这家二十年前因债务而几乎崩溃的芯片制造商的命运发生了戏剧性逆转。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-overtakes-samsung-become-043834467.html",
-        "publisher": "Reuters",
-        "publish_time": 1782103114,
+        "title": "SpaceX stock down again, shaving off some IPO gains; confirms debt offering",
+        "title_zh": "SpaceX 股价再次下跌，削减了部分 IPO 收益；确认发债",
+        "summary": "SpaceX stock fell again on Monday, now poised for three straight down days after a massive run-up following its IPO earlier this month. SpaceX also confirmed its first-ever bond issuance in a filing.",
+        "summary_zh": "SpaceX 股价周一再次下跌，继本月初首次公开募股后大幅上涨后，目前已连续三天下跌。 SpaceX还在一份文件中确认了其首次债券发行。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-again-shaving-off-some-ipo-gains-confirms-debt-offering-141725657.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782137845,
         "type": "News"
     },
     {
@@ -16,27 +16,77 @@
         "summary_zh": "（彭博社）——史蒂夫·杰弗里（Steve Geoffrey）是中东约 3000 万外国人中的一员，他认为自己很幸运，仍然能够养活自己在肯尼亚的家人。彭博社伊朗的大多数报道称，霍尔木兹海峡再次关闭，因为与美国的谈判即将开放美国和伊朗取得“进展”......",
         "link": "https://finance.yahoo.com/economy/articles/iran-war-puts-124-billion-040015019.html",
         "publisher": "Bloomberg",
-        "publish_time": 1782100815,
+        "publish_time": 1782136921,
         "type": "News"
     },
     {
-        "title": "Tech, crypto firms to help tackle illegal wildlife trade",
-        "title_zh": "科技、加密货币公司帮助打击非法野生动物贸易",
-        "summary": "To look ⁠for ways to eradicate online listings, including through AI-enabled detection and prevention. Represent a ⁠fifth of the global e-commerce market and 90% of the world's social media users.",
-        "summary_zh": "寻找消除在线列表的方法，包括通过人工智能检测和预防。代表全球电子商务市场的五分之一和全球社交媒体用户的 90%。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/tech-crypto-firms-help-tackle-230522796.html",
+        "title": "Meta's WhatsApp to be led by Indian startup founder Kunal Shah",
+        "title_zh": "Meta 旗下 WhatsApp 将由印度初创公司创始人 Kunal Shah 领导",
+        "summary": "BANGALORE, June 22 - Indian fintech firm CRED's founder Kunal Shah will become Meta-owned WhatsApp's new leader, the messaging app's current head Will Cathcart said on Monday in a post on X.",
+        "summary_zh": "班加罗尔，6 月 22 日 - 印度金融科技公司 CRED 的创始人 Kunal Shah 将成为 Meta 旗下 WhatsApp 的新领导者，WhatsApp 现任负责人 Will Cathcart 周一在 X 上发帖表示。",
+        "link": "https://finance.yahoo.com/news/metas-whatsapp-led-indian-startup-134710837.html",
         "publisher": "Reuters",
-        "publish_time": 1782083122,
+        "publish_time": 1782136030,
         "type": "News"
     },
     {
-        "title": "'There's a new sheriff in town': Wall Street weighs Kevin Warsh's Fed debut",
-        "title_zh": "“镇上有一位新警长”：华尔街对凯文·沃什的美联储首次亮相进行评估",
-        "summary": "Wall Street tried to decode Kevin Warsh's Fed debut and its potential impact on stocks.",
-        "summary_zh": "华尔街试图解读凯文·沃什 (Kevin Warsh) 的美联储首次亮相及其对股市的潜在影响。",
-        "link": "https://finance.yahoo.com/markets/article/theres-a-new-sheriff-in-town-wall-street-weighs-kevin-warshs-fed-debut-114011265.html",
+        "title": "Microsoft CEO Satya Nadella warns of AI concentration risks",
+        "title_zh": "微软首席执行官萨蒂亚纳德拉警告人工智能集中风险",
+        "summary": "In an interview with the Wall Street Journal, Microsoft (MSFT) CEO Satya Nadella warned of the growing concentration in the handful of artificial intelligence companies leading the AI boom.",
+        "summary_zh": "微软（MSFT）首席执行官萨提亚·纳德拉（Satya Nadella）在接受《华尔街日报》采访时警告称，引领人工智能热潮的少数人工智能公司正日益集中在其中。",
+        "link": "https://finance.yahoo.com/video/microsoft-ceo-satya-nadella-warns-of-ai-concentration-risks-133935002.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782135575,
+        "type": "News"
+    },
+    {
+        "title": "Indian fintech firm CRED to raise $900 million from Meta at $4.5 billion valuation",
+        "title_zh": "印度金融科技公司 CRED 将从 Meta 融资 9 亿美元，估值 45 亿美元",
+        "summary": "Indian ‌fintech firm ‌CRED said ​on Monday it will raise ‌about $900 ⁠million from Meta Platforms ⁠at a ​post-money ​valuation ​of $4.5 billion, ‌as it seeks to accelerate growth ‌and ​prepare ​for ​an eventual ‌stock market ​listing.",
+        "summary_zh": "印度金融科技公司 CRED 周一表示，它将以 45 亿美元的投后估值从 Meta Platforms 筹集约 9 亿美元，以寻求加速增长并为最终的股票市场上市做准备。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/indian-fintech-firm-cred-raise-133555005.html",
+        "publisher": "Reuters",
+        "publish_time": 1782135355,
+        "type": "News"
+    },
+    {
+        "title": "Meta Taps New WhatsApp Boss as Part of $900 Million Investment",
+        "title_zh": "Meta 任命 WhatsApp 新任老板作为 9 亿美元投资的一部分",
+        "summary": "(Bloomberg) -- Meta Platforms Inc.",
+        "summary_zh": "（彭博社）——Meta Platforms Inc.",
+        "link": "https://finance.yahoo.com/technology/articles/meta-taps-whatsapp-boss-part-130000794.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782133200,
+        "type": "News"
+    },
+    {
+        "title": "Amazon Prime Day to gauge US consumer strain as focus shifts to basics",
+        "title_zh": "亚马逊 Prime Day 衡量美国消费者压力，焦点转向基础商品",
+        "summary": "Amazon Prime Day starting on Tuesday will be a litmus test of U.S. shoppers' spending power, with the earlier-than-usual sales event increasingly centered on perishable groceries, household basics and back-to-school needs ‌rather than carefree splurges.",
+        "summary_zh": "周二开始的亚马逊 Prime Day 将成为对美国购物者消费能力的试金石，比平常更早的销售活动越来越多地集中在易腐烂的杂货、家庭基本用品和返校需求上，而不是无忧无虑的挥霍。",
+        "link": "https://finance.yahoo.com/economy/articles/amazon-prime-day-gauge-us-120609864.html",
+        "publisher": "Reuters",
+        "publish_time": 1782129969,
+        "type": "News"
+    },
+    {
+        "title": "Micron earnings, PCE data, gas prices: What to watch this week",
+        "title_zh": "美光财报、PCE 数据、天然气价格：本周值得关注的内容",
+        "summary": "Micron earnings and PCE data headline a busy week for investors.",
+        "summary_zh": "美光财报和 PCE 数据是投资者忙碌的一周的头条新闻。",
+        "link": "https://finance.yahoo.com/markets/article/micron-earnings-pce-data-gas-prices-what-to-watch-this-week-100000040.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1782042011,
+        "publish_time": 1782122400,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500 rise, Nasdaq wavers with peace talks, AI demand in focus",
+        "title_zh": "今日股市：道指、标普 500 指数上涨，纳斯达克因和谈而动摇，人工智能需求成为焦点",
+        "summary": "Investors assessed progress in US-Iran peace talks and prepared for a pivotal inflation report later this week.",
+        "summary_zh": "投资者评估了美伊和平谈判的进展，并为本周晚些时候发布的关键通胀报告做准备。",
+        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782082697,
         "type": "News"
     }
 ]
