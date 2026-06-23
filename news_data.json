@@ -1,42 +1,72 @@
 [
     {
+        "title": "Morning Bid: SpaceXhaust",
+        "title_zh": "早间竞标：SpaceXhaust",
+        "summary": "By Mike Dolan June 23 (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-at-Large, Finance and Markets Big Tech started the week in reverse, with megacaps Alphabet and",
+        "summary_zh": "作者：迈克·多兰 (Mike Dolan) 6 月 23 日（路透社）——当今美国和全球市场最重要的是什么 作者：Mike Dolan，金融与市场特约编辑 大型科技公司本周开局相反，大型股 Alphabet 和",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-spacexhaust-103706009.html",
+        "publisher": "Reuters",
+        "publish_time": 1782211026,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides",
+        "title_zh": "随着科技股抛售加剧，纳斯达克 100 指数将损失超过 1 万亿美元； SpaceX 幻灯片",
+        "summary": "The Nasdaq 100 index was on pace to erase more than $1 trillion in market value on Tuesday as technology heavyweights and chip stocks tumbled, ‌while Elon Musk's SpaceX dropped below $2 trillion in market cap for the first ‌time since its U.S. debut.",
+        "summary_zh": "随着科技巨头和芯片股暴跌，纳斯达克 100 指数周二市值将蒸发逾 1 万亿美元，而埃隆·马斯克 (Elon Musk) 的 SpaceX 市值自美国上市以来首次跌破 2 万亿美元。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-set-shed-over-103346244.html",
+        "publisher": "Reuters",
+        "publish_time": 1782210826,
+        "type": "News"
+    },
+    {
+        "title": "Tech Weekly: SK Hynix takes the lead, Apple hikes prices",
+        "title_zh": "科技周刊：SK海力士领先，苹果涨价",
+        "summary": "STORY: From SK Hynix taking a lead to Apple's reported price hikes, this is Tech Weekly.:: Tech WeeklySK Hynix overtook rival Samsung Electronics to become South Korea's most valuable listed company.Shares rose high enough to turn SK Hynix into the world's most valuable memory...",
+        "summary_zh": "故事：从 SK 海力士领先到苹果公司涨价，这是《科技周刊》。:: 科技周刊 SK 海力士超越竞争对手三星电子，成为韩国最有价值的上市公司。股价上涨到足以让 SK 海力士成为世界上最有价值的存储器...",
+        "link": "https://finance.yahoo.com/video/tech-weekly-sk-hynix-takes-101452796.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1782209692,
+        "type": "News"
+    },
+    {
+        "title": "Oracle workforce shrinks by about 21,000 amid AI adoption",
+        "title_zh": "由于采用人工智能，甲骨文员工人数减少约 21,000 人",
+        "summary": "STORY: Oracle's total workforce declined 13%, or about 21,000 employees, in its fiscal 2026.It's as the cloud computing giant continued restructuring its business...partly driven by the adoption of AI across its operations.The company had a total workforce of 141,000 as of May...",
+        "summary_zh": "故事：在 2026 财年，甲骨文的员工总数减少了 13%，即约 21,000 名员工。这是因为这家云计算巨头继续重组其业务……部分原因是在其业务中采用人工智能。截至 5 月份，该公司的员工总数为 141,000 人……",
+        "link": "https://finance.yahoo.com/video/oracle-workforce-shrinks-21-000-101133153.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1782209493,
+        "type": "News"
+    },
+    {
+        "title": "Stocks hit by Fed rate reality check; oil slips",
+        "title_zh": "股市受到美联储利率现实检验的打击；油滑",
+        "summary": "By Amanda Cooper LONDON, June 23 (Reuters) - Global stocks fell on Tuesday, led by broad-based declines in technology stocks, as investors expect the Federal Reserve to take more aggressive action to",
+        "summary_zh": "路透伦敦 6 月 23 日 - 全球股市周二下跌，科技股普遍下跌，投资者预计美联储将采取更积极的行动",
+        "link": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
+        "publisher": "Reuters",
+        "publish_time": 1782206830,
+        "type": "News"
+    },
+    {
+        "title": "NatPower, Tesla reach deal on first phase of $5 billion battery storage plan",
+        "title_zh": "NatPower与特斯拉就价值50亿美元的电池存储计划第一阶段达成协议",
+        "summary": "LONDON, June 23 (Reuters) - Independent energy firm NatPower and ‌Tesla said on Tuesday they had reached ‌a deal to build 25 gigawatt hours of battery storage ​in Italy and Britain, the first phase of a project worth up to $5 billion.",
+        "summary_zh": "路透伦敦 6 月 23 日 - 独立能源公司 NatPower 和特斯拉周二表示，他们已达成协议，将在意大利和英国建设 25 吉瓦时的电池存储设施，这是该项目第一阶段价值高达 50 亿美元的项目。",
+        "link": "https://finance.yahoo.com/news/natpower-tesla-reach-deal-first-065052438.html",
+        "publisher": "Reuters",
+        "publish_time": 1782204974,
+        "type": "News"
+    },
+    {
         "title": "Does Elon Musk represent a new form of capitalism?: podcast",
         "title_zh": "埃隆·马斯克代表了一种新的资本主义形式吗？：播客",
-        "summary": "By Peter Thal Larsen LONDON, June 23 (Reuters Breakingviews) - Follow on Apple or Spotify. Listen on the Reuters app. Read the episode transcript. Listen to the podcast.",
-        "summary_zh": "作者：Peter Thal Larsen 伦敦，6 月 23 日（路透社 Breakingviews）- 在 Apple 或 Spotify 上关注。在路透社应用程序上收听。阅读剧集文字记录。收听播客。",
+        "summary": "LONDON, June 23 (Reuters Breakingviews) - Follow on Apple or Spotify. The SpaceX ​boss became the first trillionaire by defying business wisdom, upending financial standards and embracing far-right politics.",
+        "summary_zh": "伦敦，6 月 23 日（路透社 Breakingviews）——关注 Apple 或 Spotify。这位 SpaceX 老板通过藐视商业智慧、颠覆金融标准和拥抱极右政治，成为第一位万亿富翁。",
         "link": "https://finance.yahoo.com/news/does-elon-musk-represent-form-043229265.html",
         "publisher": "Reuters",
         "publish_time": 1782189149,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
-        "title_zh": "高通接近与 AI 芯片初创公司 Modular 达成交易",
-        "summary": "(Bloomberg) -- Qualcomm Inc. is in advanced talks to acquire Modular Inc.",
-        "summary_zh": "（彭博社）——高通公司正在就收购 Modular 公司进行深入谈判。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-nears-deal-ai-chip-210300507.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782183248,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as Wall Street weighs US-Iran talks, AI trade",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因华尔街权衡美伊谈判和人工智能交易而波动",
-        "summary": "US stock futures were little changed after a weak session on Wall Street as pressure on Big Tech and ongoing US-Iran talks weighed on sentiment.",
-        "summary_zh": "由于大型科技公司面临的压力以及正在进行的美伊谈判打压了市场情绪，华尔街股市疲软后，美国股指期货几乎没有变化。",
-        "link": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-waver-as-wall-street-weighs-us-iran-talks-ai-trade-230258084.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782169378,
-        "type": "News"
-    },
-    {
-        "title": "US stocks end mostly lower, dragged by megacap tech; focus on Iran",
-        "title_zh": "受大型科技股拖累，美国股市收盘大多走低；聚焦伊朗",
-        "summary": "STORY: Wall Street's main indexes closed mostly lower on Monday, with the exception of the Dow, which gained just under a third of a percent.",
-        "summary_zh": "故事：周一，华尔街主要股指收盘大多走低，但道指除外，该指数上涨了不到三分之一。",
-        "link": "https://finance.yahoo.com/video/us-stocks-end-mostly-lower-225701815.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1782169021,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/spacex-initiates-first-bond-sale-while-the-stock-sheds-post-ipo-gains-195906531.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1782158346,
-        "type": "News"
-    },
-    {
-        "title": "Abbvie acquiring Apogee for $10.9B, Coca-Cola vs. IRS in appeals court",
-        "title_zh": "Abbvie 以 $10.9B 收购 Apogee，可口可乐在上诉法院诉 IRS",
-        "summary": "Yahoo Finance Senior Reporter Brooke DiPalma joins Josh Lipton in highlighting the day's biggest stories and stock moves, including AbbVie's (ABBV) $10.9 billion acquisition of Apogee Therapeutics (APGE) and Coca-Cola's (KO) latest legal showdown with the IRS in US appeals court.",
-        "summary_zh": "雅虎财经高级记者布鲁克·迪帕尔玛 (Brooke DiPalma) 与乔什·利普顿 (Josh Lipton) 一起重点介绍了当天的重大新闻和股票走势，包括艾伯维 (AbbVie) (ABBV) 以 109 亿美元收购 Apogee Therapeutics (APGE) ...",
-        "link": "https://finance.yahoo.com/video/abbvie-acquiring-apogee-for-109b-coca-cola-vs-irs-in-appeals-court-194719799.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782157639,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX's retail boom runs into its first price wall",
-        "title_zh": "SpaceX 的零售热潮遇到了第一道价格墙",
-        "summary": "SpaceX instantly became a retail capital magnet. Now the stock is giving early buyers their first gut check.",
-        "summary_zh": "SpaceX 立即成为零售资本的磁石。现在，该股正在给早期买家进行第一次直觉检查。",
-        "link": "https://finance.yahoo.com/markets/article/spacexs-retail-boom-runs-into-its-first-price-wall-185036364.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782154236,
-        "type": "News"
-    },
-    {
-        "title": "Micron earnings, PCE data, gas prices: What to watch this week",
-        "title_zh": "美光财报、PCE 数据、天然气价格：本周值得关注的内容",
-        "summary": "Micron earnings and PCE data headline a busy week for investors.",
-        "summary_zh": "美光财报和 PCE 数据是投资者忙碌的一周的头条新闻。",
-        "link": "https://finance.yahoo.com/markets/article/micron-earnings-pce-data-gas-prices-what-to-watch-this-week-100000040.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782122400,
         "type": "News"
     }
 ]
