@@ -1,42 +1,12 @@
 [
     {
-        "title": "Super Micro-Backed AI Firm Bags $7.8 Billion Deals With Nvidia Chips in Demand",
-        "title_zh": "超微支持的人工智能公司与 Nvidia 芯片达成 78 亿美元交易",
-        "summary": "Argentum AI, which is backed by Super Micro Computer, has agreed deals to deploy 47,000 Nvidia GB300 chips.",
-        "summary_zh": "由 Super Micro Computer 支持的 Argentum AI 已同意部署 47,000 颗 Nvidia GB300 芯片。",
-        "link": "https://www.barrons.com/articles/super-micro-ai-argentum-nvidia-chips-895c7460?siteid=yhoof2&yptr=yahoo",
+        "title": "Buffered ETFs Offer Protection on Ugly Market Days. But the Cost Can Be Steep.",
+        "title_zh": "缓冲 ETF 在市场行情不佳时提供保护。但成本可能会很高。",
+        "summary": "Funds that cap losses are growing in popularity. But these buffered, or defined outcome, funds also miss out on big market gains.",
+        "summary_zh": "限制损失的基金越来越受欢迎。但这些缓冲或确定结果的基金也错过了巨大的市场收益。",
+        "link": "https://www.barrons.com/articles/buffered-etfs-funds-investing-stocks-52e75a0e?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "publish_time": 1782213660,
-        "type": "News"
-    },
-    {
-        "title": "Jim Cramer Discusses Big Salesforce (CRM) Deal",
-        "title_zh": "Jim Cramer 讨论大型 Salesforce (CRM) 交易",
-        "summary": "We recently published Jim Cramer Discussed Expensive Phones, A Cheap Stock Sector & These 18 Stocks. Salesforce, Inc. (NYSE:CRM) is one of the stocks discussed by Jim Cramer. Customer relationship management software products provider Salesforce, Inc.",
-        "summary_zh": "我们最近发表了吉姆·克莱默讨论昂贵的手机、廉价的股票行业和这 18 只股票。 Salesforce, Inc.（纽约证券交易所代码：CRM）是 Jim Cramer 讨论的股票之一。客户关系管理软件产品提供商 Salesforce, Inc.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-big-salesforce-065517418.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1782197717,
-        "type": "News"
-    },
-    {
-        "title": "Micron stock hits an all-time high, thanks to the new Anthropic deal",
-        "title_zh": "得益于新的 Anthropic 交易，美光股价创下历史新高",
-        "summary": "Micron (MU) stock hit a new all-time high on Monday after the company's deal with Anthropic (ANTH.PVT) was announced. Yahoo Finance Senior Business Reporter Ines Ferré takes a closer look in the video above.",
-        "summary_zh": "在宣布与 Anthropic (ANTH.PVT) 达成交易后，美光 (MU) 股价周一创下历史新高。雅虎财经高级商业记者 Ines Ferré 在上面的视频中仔细观察。",
-        "link": "https://finance.yahoo.com/video/micron-stock-hits-an-all-time-high-thanks-to-the-new-anthropic-deal-195156327.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782157916,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Prime Day to spark online spending frenzy as Walmart, Target lean into deal days",
-        "title_zh": "沃尔玛、塔吉特纷纷进入促销日，亚马逊 Prime Day 引发在线消费狂潮",
-        "summary": "Amazon Prime Days kick off on Tuesday. Walmart, Target, and Best Buy are competing for a piece of the pie.",
-        "summary_zh": "亚马逊 Prime Day 将于周二拉开帷幕。沃尔玛、塔吉特和百思买正在争夺这块蛋糕。",
-        "link": "https://finance.yahoo.com/markets/article/amazon-prime-day-to-spark-online-spending-frenzy-as-walmart-target-lean-into-deal-days-193421518.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782156861,
+        "publish_time": 1782236040,
         "type": "News"
     },
     {
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/healthcare/articles/abbvies-10-9-billion-apogee-185921152.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1782154761,
+        "type": "News"
+    },
+    {
+        "title": "Fidelity or State Street: Which Financial ETF Offers Better Returns?",
+        "title_zh": "富达或道富：哪个金融 ETF 提供更好的回报？",
+        "summary": "Portfolio depth, liquidity, and yield diverge sharply between these two sector giants—see how their differences could shape your investment strategy.",
+        "summary_zh": "这两个行业巨头的投资组合深度、流动性和收益率存在巨大差异——看看它们的差异如何影响您的投资策略。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-state-street-financial-etf-185022502.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1782154222,
+        "type": "News"
+    },
+    {
+        "title": "ARES vs. KKR: Which Asset Manager Offers Better Upside Now?",
+        "title_zh": "ARES 与 KKR：哪个资产管理公司现在提供更好的优势？",
+        "summary": "Ares Management and KKR & Co are benefiting from growing AUM, strategic acquisitions and expanding investment capabilities. Which stock is the better pick now?",
+        "summary_zh": "Ares Management 和 KKR & Co 正受益于不断增长的资产管理规模、战略收购和不断扩大的投资能力。现在选择哪只股票更好？",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
+        "publisher": "Zacks",
+        "publish_time": 1782143040,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
+        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
+        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
+        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1781004912,
         "type": "News"
     }
 ]
