@@ -1,15 +1,5 @@
 [
     {
-        "title": "Buffered ETFs Offer Protection on Ugly Market Days. But the Cost Can Be Steep.",
-        "title_zh": "缓冲 ETF 在市场行情不佳时提供保护。但成本可能会很高。",
-        "summary": "Funds that cap losses are growing in popularity. But these buffered, or defined outcome, funds also miss out on big market gains.",
-        "summary_zh": "限制损失的基金越来越受欢迎。但这些缓冲或确定结果的基金也错过了巨大的市场收益。",
-        "link": "https://www.barrons.com/articles/buffered-etfs-funds-investing-stocks-52e75a0e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1782236040,
-        "type": "News"
-    },
-    {
         "title": "AbbVie's $10.9 Billion Apogee Deal Joins a $200 Billion Pharma Spree",
         "title_zh": "艾伯维 (AbbVie) 109 亿美元的 Apogee 交易加入了 2000 亿美元的制药热潮",
         "summary": "The $135.11 per share cash offer for Apogee carries a 49% premium",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
         "publisher": "Private Banker International",
         "publish_time": 1781004912,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle Moves On $700 Million Korea Succession Deal",
+        "title_zh": "凯雷推进 7 亿美元韩国继任协议",
+        "summary": "Carlyle agreed to buy Chung Ho Group as inheritance-tax pressures reshape Korea's private business M&A market.",
+        "summary_zh": "由于遗产税压力重塑了韩国私营企业并购市场，凯雷同意收购中和集团。",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-moves-700-million-korea-200251606.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1780948971,
         "type": "News"
     }
 ]
