@@ -1,5 +1,45 @@
 [
     {
+        "title": "Walmart Expands Advertising Business with Vibe.co Acquisition, WSJ Reports",
+        "title_zh": "据《华尔街日报》报道，沃尔玛通过收购 Vibe.co 扩大广告业务",
+        "summary": "Walmart Inc. (NASDAQ:WMT) is included among the Top 10 Blue Chip Stocks with Growing Dividends. On June 23, The Wall Street Journal reported that Walmart Inc.",
+        "summary_zh": "沃尔玛公司（纳斯达克股票代码：WMT）被列入股息不断增长的十大蓝筹股之列。 6月23日，《华尔街日报》报道称，沃尔玛公司",
+        "link": "https://finance.yahoo.com/media-advertising/articles/walmart-expands-advertising-business-vibe-034007117.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1782358807,
+        "type": "News"
+    },
+    {
+        "title": "Danaher Is Down 22% This Year. Is the Masimo Acquisition the Entry Point Investors Have Been Waiting for?",
+        "title_zh": "丹纳赫今年股价下跌 22%。 Masimo 收购是投资者一直在等待的切入点吗？",
+        "summary": "The life sciences giant is transforming its diagnostics segment with its acquisition of Masimo Corporation, shifting from traditional laboratory testing into patient-connected, real-time data streams.",
+        "summary_zh": "这家生命科学巨头正在通过收购 Masimo Corporation 来改变其诊断领域，从传统的实验室测试转向与患者相连的实时数据流。",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-down-22-masimo-acquisition-175500019.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1782323700,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-Apple-Intel chip deal makes strategic sense but production is years away",
+        "title_zh": "分析：苹果与英特尔的芯片交易具有战略意义，但量产还需要数年时间",
+        "summary": "Apple turning to Intel for chips, as Washington announced last week, has the neat logic of necessity meeting ambition.",
+        "summary_zh": "正如华盛顿上周宣布的那样，苹果公司转向英特尔购买芯片，其逻辑是为了满足雄心壮志。",
+        "link": "https://finance.yahoo.com/technology/articles/analysis-apple-intel-chip-deal-141646096.html",
+        "publisher": "Reuters",
+        "publish_time": 1782310606,
+        "type": "News"
+    },
+    {
+        "title": "US-Iran Deal Hopes: ETFs to Buy & Avoid",
+        "title_zh": "美国与伊朗达成协议的希望：值得购买和避免的 ETF",
+        "summary": "US-Iran deal hopes may ease oil prices, curb inflation and lift risk appetite. Here are some ETFs that could win, and those that may lag.",
+        "summary_zh": "美伊协议有望缓解油价、抑制通胀并提振风险偏好。以下是一些可能获胜的 ETF，以及一些可能落后的 ETF。",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/us-iran-deal-hopes-etfs-115500992.html",
+        "publisher": "Zacks",
+        "publish_time": 1782302100,
+        "type": "News"
+    },
+    {
         "title": "AbbVie's $10.9 Billion Apogee Deal Joins a $200 Billion Pharma Spree",
         "title_zh": "艾伯维 (AbbVie) 109 亿美元的 Apogee 交易加入了 2000 亿美元的制药热潮",
         "summary": "The $135.11 per share cash offer for Apogee carries a 49% premium",
@@ -7,46 +47,6 @@
         "link": "https://finance.yahoo.com/healthcare/articles/abbvies-10-9-billion-apogee-185921152.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1782154761,
-        "type": "News"
-    },
-    {
-        "title": "Fidelity or State Street: Which Financial ETF Offers Better Returns?",
-        "title_zh": "富达或道富：哪个金融 ETF 提供更好的回报？",
-        "summary": "Portfolio depth, liquidity, and yield diverge sharply between these two sector giants—see how their differences could shape your investment strategy.",
-        "summary_zh": "这两个行业巨头的投资组合深度、流动性和收益率存在巨大差异——看看它们的差异如何影响您的投资策略。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-state-street-financial-etf-185022502.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1782154222,
-        "type": "News"
-    },
-    {
-        "title": "ARES vs. KKR: Which Asset Manager Offers Better Upside Now?",
-        "title_zh": "ARES 与 KKR：哪个资产管理公司现在提供更好的优势？",
-        "summary": "Ares Management and KKR & Co are benefiting from growing AUM, strategic acquisitions and expanding investment capabilities. Which stock is the better pick now?",
-        "summary_zh": "Ares Management 和 KKR & Co 正受益于不断增长的资产管理规模、战略收购和不断扩大的投资能力。现在选择哪只股票更好？",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
-        "publisher": "Zacks",
-        "publish_time": 1782143040,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
-        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
-        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
-        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1781004912,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle Moves On $700 Million Korea Succession Deal",
-        "title_zh": "凯雷推进 7 亿美元韩国继任协议",
-        "summary": "Carlyle agreed to buy Chung Ho Group as inheritance-tax pressures reshape Korea's private business M&A market.",
-        "summary_zh": "由于遗产税压力重塑了韩国私营企业并购市场，凯雷同意收购中和集团。",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-moves-700-million-korea-200251606.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1780948971,
         "type": "News"
     }
 ]
