@@ -1,22 +1,12 @@
 [
     {
-        "title": "Amazon dropped a finished Altman movie amid a $50B OpenAI deal",
-        "title_zh": "亚马逊在价值 500 亿美元的 OpenAI 交易中放弃了一部已完成的奥特曼电影",
-        "summary": "Every company likes to believe it can sit through a hard story about itself. The real test arrives when the hard story is about someone the company just handed an enormous check. For about three years, Hollywood and Silicon Valley have circled each other with mutual suspicion.",
-        "summary_zh": "每家公司都愿意相信自己能够安然度过有关自己的艰难故事。当公司刚刚向某个人发放巨额支票时，真正的考验就到来了。大约三年来，好莱坞和硅谷一直互相猜疑。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-dropped-finished-altman-movie-010300723.html",
-        "publisher": "TheStreet",
-        "publish_time": 1782435780,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm CFO talks Modular acquisition's significance for AI data centers",
-        "title_zh": "高通首席财务官谈论模块化收购对人工智能数据中心的意义",
-        "summary": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to discuss the AI chipmaker's announced acquisition of AI software infrastructure startup Modular.",
-        "summary_zh": "高通 (QCOM) 首席财务官兼首席运营官 Akash Palkhiwala 与雅虎财经技术编辑 Dan Howley 一起讨论这家 AI 芯片制造商宣布收购 AI 软件基础设施初创公司 Modular。",
-        "link": "https://finance.yahoo.com/video/qualcomm-cfo-talks-modular-acquisitions-160500980.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782403500,
+        "title": "Social Security's and Medicare's Dwindling Trust Funds Could Deal Seniors a Double Whammy in Just 7 Years",
+        "title_zh": "社会保障和医疗保险信托基金不断减少可能在短短 7 年内给老年人带来双重打击",
+        "summary": "Seniors' safety nets are headed for a cliff, but there's still time to save them.",
+        "summary_zh": "老年人的安全网正走向悬崖，但仍有时间来拯救他们。",
+        "link": "https://finance.yahoo.com/healthcare/articles/social-securitys-medicares-dwindling-trust-112000064.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1782472800,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-moves-700-million-korea-200251606.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1780948971,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     }
 ]
