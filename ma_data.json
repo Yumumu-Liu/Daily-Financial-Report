@@ -1,42 +1,22 @@
 [
     {
-        "title": "Will Nvidia Continue to Dominate in AI? This One Number Offers a Strikingly Clear Answer.",
-        "title_zh": "英伟达会继续在人工智能领域占据主导地位吗？这个数字提供了一个非常明确的答案。",
-        "summary": "Nvidia has built an AI empire.",
-        "summary_zh": "英伟达已经建立了一个人工智能帝国。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-continue-dominate-ai-one-071500510.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1782371700,
+        "title": "Amazon dropped a finished Altman movie amid a $50B OpenAI deal",
+        "title_zh": "亚马逊在价值 500 亿美元的 OpenAI 交易中放弃了一部已完成的奥特曼电影",
+        "summary": "Every company likes to believe it can sit through a hard story about itself. The real test arrives when the hard story is about someone the company just handed an enormous check. For about three years, Hollywood and Silicon Valley have circled each other with mutual suspicion.",
+        "summary_zh": "每家公司都愿意相信自己能够安然度过有关自己的艰难故事。当公司刚刚向某个人发放巨额支票时，真正的考验就到来了。大约三年来，好莱坞和硅谷一直互相猜疑。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-dropped-finished-altman-movie-010300723.html",
+        "publisher": "TheStreet",
+        "publish_time": 1782435780,
         "type": "News"
     },
     {
-        "title": "US-Iran Deal Hopes: ETFs to Buy & Avoid",
-        "title_zh": "美国与伊朗达成协议的希望：值得购买和避免的 ETF",
-        "summary": "US-Iran deal hopes may ease oil prices, curb inflation and lift risk appetite. Here are some ETFs that could win, and those that may lag.",
-        "summary_zh": "美伊协议有望缓解油价、抑制通胀并提振风险偏好。以下是一些可能获胜的 ETF，以及一些可能落后的 ETF。",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/us-iran-deal-hopes-etfs-115500992.html",
-        "publisher": "Zacks",
-        "publish_time": 1782302100,
-        "type": "News"
-    },
-    {
-        "title": "AbbVie's $10.9 Billion Apogee Deal Joins a $200 Billion Pharma Spree",
-        "title_zh": "艾伯维 (AbbVie) 109 亿美元的 Apogee 交易加入了 2000 亿美元的制药热潮",
-        "summary": "The $135.11 per share cash offer for Apogee carries a 49% premium",
-        "summary_zh": "Apogee 每股 135.11 美元的现金收购要约溢价 49%",
-        "link": "https://finance.yahoo.com/healthcare/articles/abbvies-10-9-billion-apogee-185921152.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1782154761,
-        "type": "News"
-    },
-    {
-        "title": "Fidelity or State Street: Which Financial ETF Offers Better Returns?",
-        "title_zh": "富达或道富：哪个金融 ETF 提供更好的回报？",
-        "summary": "Portfolio depth, liquidity, and yield diverge sharply between these two sector giants—see how their differences could shape your investment strategy.",
-        "summary_zh": "这两个行业巨头的投资组合深度、流动性和收益率存在巨大差异——看看它们的差异如何影响您的投资策略。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-state-street-financial-etf-185022502.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1782154222,
+        "title": "Qualcomm CFO talks Modular acquisition's significance for AI data centers",
+        "title_zh": "高通首席财务官谈论模块化收购对人工智能数据中心的意义",
+        "summary": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to discuss the AI chipmaker's announced acquisition of AI software infrastructure startup Modular.",
+        "summary_zh": "高通 (QCOM) 首席财务官兼首席运营官 Akash Palkhiwala 与雅虎财经技术编辑 Dan Howley 一起讨论这家 AI 芯片制造商宣布收购 AI 软件基础设施初创公司 Modular。",
+        "link": "https://finance.yahoo.com/video/qualcomm-cfo-talks-modular-acquisitions-160500980.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782403500,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
         "publisher": "Zacks",
         "publish_time": 1782143040,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
+        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
+        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
+        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1781004912,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle Moves On $700 Million Korea Succession Deal",
+        "title_zh": "凯雷推进 7 亿美元韩国继任协议",
+        "summary": "Carlyle agreed to buy Chung Ho Group as inheritance-tax pressures reshape Korea's private business M&A market.",
+        "summary_zh": "由于遗产税压力重塑了韩国私营企业并购市场，凯雷同意收购中和集团。",
+        "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-moves-700-million-korea-200251606.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1780948971,
         "type": "News"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "title": "Would Warren Buffett Buy SpaceX Stock? Here's What the Oracle of Omaha Says About IPOs",
+        "title_zh": "沃伦·巴菲特会购买 SpaceX 股票吗？以下是奥马哈先知对 IPO 的评价",
+        "summary": "Buffett has a clear opinion when it comes to IPOs.",
+        "summary_zh": "对于IPO，巴菲特有着明确的看法。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-buy-spacex-stock-235000134.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1782431400,
+        "type": "News"
+    },
+    {
         "title": "IPOs- How Much is TOO Much",
         "title_zh": "首次公开募股——多少才算太多",
         "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
         "publisher": "Zacks",
         "publish_time": 1780419600,
-        "type": "News"
-    },
-    {
-        "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
-        "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
-        "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
-        "summary_zh": "备受关注的投资者比尔·阿克曼 (Bill Ackman) 看来可能会通过其投资管理公司潘兴广场 (Pershing Square) 即将进行的首次公开募股 (IPO) 筹集 50 亿美元。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
-        "publisher": "TipRanks",
-        "publish_time": 1777332459,
         "type": "News"
     }
 ]
