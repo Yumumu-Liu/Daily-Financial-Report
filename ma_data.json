@@ -1,12 +1,32 @@
 [
     {
-        "title": "Social Security's and Medicare's Dwindling Trust Funds Could Deal Seniors a Double Whammy in Just 7 Years",
-        "title_zh": "社会保障和医疗保险信托基金不断减少可能在短短 7 年内给老年人带来双重打击",
-        "summary": "Seniors' safety nets are headed for a cliff, but there's still time to save them.",
-        "summary_zh": "老年人的安全网正走向悬崖，但仍有时间来拯救他们。",
-        "link": "https://finance.yahoo.com/healthcare/articles/social-securitys-medicares-dwindling-trust-112000064.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1782472800,
+        "title": "KKR (KKR) Eyes $1 Billion Plus Medicover Hospitals India Deal",
+        "title_zh": "KKR (KKR) 着眼于印度 10 亿美元加医疗保险医院交易",
+        "summary": "KKR is reported to be in advanced talks to acquire a majority stake in Medicover Hospitals India. The potential deal could be valued at more than $1b and would expand KKR's healthcare platform in India.",
+        "summary_zh": "据报道，KKR 正在就收购印度 Medicover Hospitals 多数股权进行深入谈判。这笔潜在交易的价值可能超过 10 亿美元，并将扩大 KKR 在印度的医疗保健平台。",
+        "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1782519261,
+        "type": "News"
+    },
+    {
+        "title": "American Airlines (AAL) Brings Starlink To 500 Planes And Signs Google Fuel Deal",
+        "title_zh": "美国航空 (AAL) 为 500 架飞机配备 Starlink 并签署 Google 燃油协议",
+        "summary": "American Airlines Group announced plans to equip over 500 aircraft with SpaceX Starlink high-speed in-flight Wi-Fi starting in 2027. The company also entered a three-year sustainable aviation fuel partnership with Google to support emissions reduction efforts.",
+        "summary_zh": "美国航空集团宣布计划从 2027 年开始为 500 多架飞机配备 SpaceX Starlink 高速机上 Wi-Fi。该公司还与谷歌建立了为期三年的可持续航空燃料合作伙伴关系，以支持减排工作。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-brings-starlink-230727652.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1782515247,
+        "type": "News"
+    },
+    {
+        "title": "GameStop pledges to pursue its takeover offer for eBay despite rejection",
+        "title_zh": "尽管遭到拒绝，GameStop 仍承诺继续对 eBay 提出收购要约",
+        "summary": "GameStop pledged on Friday to pursue its proposed takeover ‌of eBay, even after the e-commerce firm rejected ‌an unsolicited cash-and-stock offer of about $56 billion from the videogame retailer.",
+        "summary_zh": "GameStop 周五承诺继续收购 eBay，尽管这家电子商务公司拒绝了这家视频游戏零售商主动提出的约 560 亿美元的现金加股票要约。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-pledges-pursue-ebay-takeover-214513842.html",
+        "publisher": "Reuters",
+        "publish_time": 1782510313,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
         "publisher": "Private Banker International",
         "publish_time": 1781004912,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle Moves On $700 Million Korea Succession Deal",
-        "title_zh": "凯雷推进 7 亿美元韩国继任协议",
-        "summary": "Carlyle agreed to buy Chung Ho Group as inheritance-tax pressures reshape Korea's private business M&A market.",
-        "summary_zh": "由于遗产税压力重塑了韩国私营企业并购市场，凯雷同意收购中和集团。",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/carlyle-moves-700-million-korea-200251606.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1780948971,
-        "type": "News"
-    },
-    {
-        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
-        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
-        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
-        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
-        "publisher": "MarketBeat",
-        "publish_time": 1779022800,
         "type": "News"
     }
 ]

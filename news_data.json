@@ -1,32 +1,82 @@
 [
     {
-        "title": "Stocks slip as Apple price hikes fan tech jitters, oil slides",
-        "title_zh": "苹果涨价引发科技股恐慌，油价下跌，股市下滑",
-        "summary": "(Corrects US Treasury yields in paragraph 13) By Iain Withers and Stella Qiu LONDON/SYDNEY, June 26 (Reuters) - Global stocks slipped on Friday after Apple price hikes fuelled wider concerns over the",
-        "summary_zh": "（修正第 13 段中的美国国债收益率） 作者：Iain Withers 和 Stella Qiu 伦敦/悉尼，6 月 26 日（路透社）——苹果公司涨价引发了对苹果公司价格上涨的更广泛担忧后，全球股市周五下跌。",
-        "link": "https://finance.yahoo.com/news/asian-shares-fall-apples-price-022516064.html",
+        "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+        "title_zh": "据英国《金融时报》报道，苹果寻求批准从被列入黑名单的中国公司购买芯片",
+        "summary": "Apple is lobbying the Trump administration for clearance to buy memory chips from ChangXin ‌Memory Technologies, a Chinese company the Pentagon has ‌put on a blacklist, the Financial Times reported on Friday.",
+        "summary_zh": "据英国《金融时报》周五报道，苹果公司正在游说特朗普政府批准从长鑫存储科技公司购买存储芯片，五角大楼已将这家中国公司列入黑名单。",
+        "link": "https://finance.yahoo.com/technology/articles/apple-seeks-approval-buy-chips-032619573.html",
         "publisher": "Reuters",
-        "publish_time": 1782471965,
+        "publish_time": 1782530779,
         "type": "News"
     },
     {
-        "title": "The Week in Numbers: Micron climbs high, Apple raises prices",
-        "title_zh": "本周数据：美光股价攀升，苹果提高价格",
-        "summary": "STORY: From Micron's mega market cap to Apple's price hikes......this is the Week in Numbers.:: The Week in Numbers:: $1.4 trillion.About $1.4 trillion was Micron's market cap after it briefly blew past the value of Meta and Tesla for the first time.It came after the firm fore...",
-        "summary_zh": "故事：从美光科技的巨额市值到苹果公司的价格上涨……这是本周的数字。:: 本周的数字:: 1.4 万亿美元。大约 1.4 万亿美元是美光科技首次短暂超越 Meta 和特斯拉市值后的市值。这是在该公司提前...",
-        "link": "https://finance.yahoo.com/video/week-numbers-micron-climbs-high-110142703.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1782471702,
+        "title": "SpaceX rises modestly ahead of Russell rebalance, Nasdaq entry next",
+        "title_zh": "SpaceX 在罗素调整之前小幅上涨，接下来将进入纳斯达克",
+        "summary": "By Noel Randewich June 26 (Reuters) - Shares of SpaceX rose a marginal 0.15% on Friday ahead of its inclusion in Russell indexes, with passively managed funds tracking those benchmarks required to add",
+        "summary_zh": "作者：诺埃尔·兰德维奇 (Noel Randewich) 6 月 26 日（路透社）——周五，SpaceX 的股价在被纳入罗素指数之前小幅上涨 0.15%，被动管理基金跟踪了纳入罗素指数所需的基准。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-marginally-ahead-russell-205428459.html",
+        "publisher": "Reuters",
+        "publish_time": 1782524447,
         "type": "News"
     },
     {
-        "title": "Exclusive-Apple supplier Tata tightens internal controls after data breach, sources say",
-        "title_zh": "消息人士称，苹果独家供应商塔塔在数据泄露后加强内部控制",
-        "summary": "Tata Electronics, a key Indian supplier to Apple, has restricted internal access to sensitive systems as it investigates a leak of thousands of secret client files on the dark web, a Tata source and two industry officials said.",
-        "summary_zh": "塔塔消息人士和两名行业官员表示，苹果的印度主要供应商塔塔电子在调查暗网上泄露的数千份秘密客户文件时，限制了对敏感系统的内部访问。",
-        "link": "https://finance.yahoo.com/technology/articles/exclusive-apple-supplier-tata-tightens-103525535.html",
+        "title": "SpaceX set to join Nasdaq 100, paving way for wave of passive buying",
+        "title_zh": "SpaceX将加入纳斯达克100指数，为被动购买浪潮铺平道路",
+        "summary": "SpaceX will be added to the tech-heavy Nasdaq 100 index on July 7, exchange operator Nasdaq confirmed on Friday, ‌paving the way for a surge in passive investments in Elon ‌Musk's rocket and AI giant. To make it more attractive for companies seeking U.S.",
+        "summary_zh": "交易所运营商纳斯达克周五证实，SpaceX 将于 7 月 7 日被纳入以科技股为主的纳斯达克 100 指数，这为埃隆·马斯克的火箭和人工智能巨头被动投资激增铺平了道路。使其对寻求美国的公司更具吸引力",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/spacex-set-join-nasdaq-100-001521435.html",
         "publisher": "Reuters",
-        "publish_time": 1782470125,
+        "publish_time": 1782519321,
+        "type": "News"
+    },
+    {
+        "title": "GameStop pledges to pursue its takeover offer for eBay despite rejection",
+        "title_zh": "尽管遭到拒绝，GameStop 仍承诺继续对 eBay 提出收购要约",
+        "summary": "GameStop pledged on Friday to pursue its proposed takeover ‌of eBay, even after the e-commerce firm rejected ‌an unsolicited cash-and-stock offer of about $56 billion from the videogame retailer.",
+        "summary_zh": "GameStop 周五承诺继续收购 eBay，尽管这家电子商务公司拒绝了这家视频游戏零售商主动提出的约 560 亿美元的现金加股票要约。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-pledges-pursue-ebay-takeover-214513842.html",
+        "publisher": "Reuters",
+        "publish_time": 1782510313,
+        "type": "News"
+    },
+    {
+        "title": "Zuckerberg asks Meta to explore working with Polymarket and Kalshi, NYT reports",
+        "title_zh": "据《纽约时报》报道，扎克伯格要求 Meta 探索与 Polymarket 和 Kalshi 合作",
+        "summary": "Meta CEO Mark Zuckerberg has urged his lieutenants to explore partnerships with the popular prediction markets ‌Polymarket and Kalshi as his company builds a similar ‌app, the New York Times said on Friday, citing three employees with knowledge ​of the matter.",
+        "summary_zh": "《纽约时报》周五援引三名知情员工的话说，Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 敦促其副手探索与热门预测市场 Polymarket 和 Kalshi 的合作，因为他的公司正在开发一款类似的应用程序。",
+        "link": "https://finance.yahoo.com/technology/articles/zuckerberg-asks-meta-explore-working-213101350.html",
+        "publisher": "Reuters",
+        "publish_time": 1782509461,
+        "type": "News"
+    },
+    {
+        "title": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI",
+        "title_zh": "苹果 Vision Pro 和智能眼镜主管将加入 OpenAI",
+        "summary": "(Bloomberg) -- Apple Inc.’s top executive in charge of the Vision Pro headset and the company’s smart glasses efforts is leaving for OpenAI, continuing a streak of high-profile defections to rivals in the artificial intelligence and hardware sectors.Most Read from BloombergLut...",
+        "summary_zh": "（彭博社）——苹果公司负责 Vision Pro 耳机和公司智能眼镜业务的高管即将离职前往 OpenAI，继续高调倒戈人工智能和硬件领域的竞争对手。 大多数内容来自 BloombergLut...",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-vision-pro-smart-glasses-193101024.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782502261,
+        "type": "News"
+    },
+    {
+        "title": "What turning AI compute into a financial asset would look like",
+        "title_zh": "将人工智能计算转变为金融资产会是什么样子",
+        "summary": "What exactly does it mean when investors want to \"financialize\" AI computing, a.k.a, turning it into a liquid financial asset or market?",
+        "summary_zh": "当投资者想要将人工智能计算“金融化”，也就是将其转变为流动性金融资产或市场时，这到底意味着什么？",
+        "link": "https://finance.yahoo.com/video/turning-ai-compute-financial-asset-151459284.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782486899,
+        "type": "News"
+    },
+    {
+        "title": "Semiconductor stocks retreat over worries about memory costs",
+        "title_zh": "半导体股因内存成本担忧而下跌",
+        "summary": "The semiconductor sector declined on Friday as high memory and storage costs weighed on stocks.",
+        "summary_zh": "由于高内存和存储成本打压股市，半导体板块周五下跌。",
+        "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-retreat-over-worries-about-memory-costs-131508185.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782479708,
         "type": "News"
     },
     {
@@ -37,56 +87,6 @@
         "link": "https://finance.yahoo.com/markets/article/the-ai-boom-now-has-a-price-tag--and-micron-just-sent-the-bill-chart-of-the-day-100000526.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1782468000,
-        "type": "News"
-    },
-    {
-        "title": "Wall St futures fall as chip stocks resume slide after Micron-led rally",
-        "title_zh": "芯片股在美光科技领涨后恢复下滑，华尔街期货下跌",
-        "summary": "June 26 (Reuters) - Futures tied to the tech-heavy Nasdaq led Wall Street losses on Friday, as chip stocks came under renewed pressure after a sharp rally in the previous session, while some megacap",
-        "summary_zh": "路透 6 月 26 日 - 周五，与科技股为主的纳斯达克指数相关的期货导致华尔街股市下跌，原因是芯片股在前一交易日大幅上涨后再次面临压力，而一些大型股",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-chip-094732144.html",
-        "publisher": "Reuters",
-        "publish_time": 1782467252,
-        "type": "News"
-    },
-    {
-        "title": "Australia pledges tougher enforcement of social media ban for teens",
-        "title_zh": "澳大利亚承诺加强对青少年的社交媒体禁令",
-        "summary": "By Byron Kaye SYDNEY, June 26 (Reuters) - Australia's prime minister vowed on Friday to bullet-proof laws supporting a social media ban for under-16s as the government prepares legal action against",
-        "summary_zh": "路透悉尼 6 月 26 日 - 澳大利亚总理周五誓言将制定防弹法律，支持针对 16 岁以下青少年的社交媒体禁令，同时政府准备对这些人采取法律行动",
-        "link": "https://www.yahoo.com/news/articles/australia-considers-tougher-enforcement-social-025915219.html",
-        "publisher": "Reuters",
-        "publish_time": 1782460205,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq futures slide as OpenAI IPO delay report rattles techs",
-        "title_zh": "今日股市：OpenAI IPO 延迟报告令科技股不安，标准普尔 500 指数和纳斯达克期货下跌",
-        "summary": "Wall Street digested a downbeat week for tech stocks.",
-        "summary_zh": "华尔街消化了科技股悲观的一周。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-slide-as-openai-ipo-delay-report-rattles-techs-231347821.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782429227,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm raises data center outlook on AI demand",
-        "title_zh": "高通上调数据中心对人工智能需求的展望",
-        "summary": "Moor Insights & Strategy Founder, CEO & Chief Analyst Patrick Moorhead joins Julie Hyman on Market Catalysts to discuss Qualcomm's (QCOM) increased outlook for data center revenue and what it signals about the company's growing role in the AI infrastructure boom.",
-        "summary_zh": "Moor Insights & Strategy 创始人、首席执行官兼首席分析师帕特里克·穆尔黑德 (Patrick Moorhead) 与朱莉·海曼 (Julie Hyman) 一起参加《市场催化剂》，讨论高通 (QCOM) 数据中心收入预期的提高，以及这表明该公司在人工...",
-        "link": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782406200,
-        "type": "News"
-    },
-    {
-        "title": "Memory chip shortage is pushing Apple prices higher",
-        "title_zh": "内存芯片短缺导致苹果价格上涨",
-        "summary": "Apple is expected to raise prices across its product lineup as memory chip shortages increase component costs. Yahoo Finance Tech Editor Dan Howley joins Julie Hyman on Market Catalysts to discuss what the price hikes could mean for consumers and Apple's hardware business.",
-        "summary_zh": "由于存储芯片短缺增加了零部件成本，预计苹果将提高其产品线的价格。雅虎财经科技编辑丹·豪利 (Dan Howley) 与朱莉·海曼 (Julie Hyman) 共同参与《市场催化剂》，讨论价格上涨对消费者和苹果硬件业务可能意味着什么。",
-        "link": "https://finance.yahoo.com/video/memory-chip-shortage-pushing-apple-163000807.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782405000,
         "type": "News"
     }
 ]
