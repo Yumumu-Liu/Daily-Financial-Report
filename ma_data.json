@@ -1,5 +1,15 @@
 [
     {
+        "title": "Does KKR’s (KKR) India Hospital Deal And Fee Shift Reveal A New Earnings Playbook?",
+        "title_zh": "KKR (KKR) 印度医院交易和费用调整是否揭示了新的盈利策略？",
+        "summary": "KKR recently entered advanced talks to acquire Sweden-based Medicover’s 66.9% stake in its Indian hospital business for at least US$1.05 billion, while also reporting quarter-to-date monetization income above US$900 million, mostly from realized performance fees.",
+        "summary_zh": "KKR 最近进入高级谈判，以至少 10.5 亿美元收购总部位于瑞典的 Medicover 在其印度医院业务中 66.9% 的股份，同时报告本季度迄今的货币化收入超过 9 亿美元，其中大部分来自已实现的绩效费用。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-kkr-india-hospital-070756313.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1782544076,
+        "type": "News"
+    },
+    {
         "title": "KKR (KKR) Eyes $1 Billion Plus Medicover Hospitals India Deal",
         "title_zh": "KKR (KKR) 着眼于印度 10 亿美元加医疗保险医院交易",
         "summary": "KKR is reported to be in advanced talks to acquire a majority stake in Medicover Hospitals India. The potential deal could be valued at more than $1b and would expand KKR's healthcare platform in India.",
@@ -20,13 +30,13 @@
         "type": "News"
     },
     {
-        "title": "GameStop pledges to pursue its takeover offer for eBay despite rejection",
-        "title_zh": "尽管遭到拒绝，GameStop 仍承诺继续对 eBay 提出收购要约",
-        "summary": "GameStop pledged on Friday to pursue its proposed takeover ‌of eBay, even after the e-commerce firm rejected ‌an unsolicited cash-and-stock offer of about $56 billion from the videogame retailer.",
-        "summary_zh": "GameStop 周五承诺继续收购 eBay，尽管这家电子商务公司拒绝了这家视频游戏零售商主动提出的约 560 亿美元的现金加股票要约。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gamestop-pledges-pursue-ebay-takeover-214513842.html",
-        "publisher": "Reuters",
-        "publish_time": 1782510313,
+        "title": "How To Invest: 5 Tips For Dealing With This Stock Market",
+        "title_zh": "如何投资：应对股市的 5 个技巧",
+        "summary": "The power trend has generated impressive gains. Get ready to deal with whatever comes next with five guidelines for how to invest.",
+        "summary_zh": "电力趋势已经产生了令人印象深刻的收益。准备好应对接下来发生的任何事情，并提供五项投资指南。",
+        "link": "https://www.investors.com/how-to-invest/how-to-invest-nvidia-apple-stock-market-trends/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1782504277,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
         "publisher": "Zacks",
         "publish_time": 1782143040,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
-        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
-        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
-        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1781004912,
         "type": "News"
     }
 ]
