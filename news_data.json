@@ -1,12 +1,22 @@
 [
     {
-        "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
-        "title_zh": "科技股销售再次引发人工智能债务狂潮担忧",
-        "summary": "(Bloomberg) -- Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueOman Tells Allies Ships Going Through Hormuz May ...",
-        "summary_zh": "（彭博社）——科技公司正在像互联网泡沫一样出售股票，一些投资者担心这对债券持有人来说是一个坏兆头。彭博社的大多数报道卢特尼克推迟了加拿大大桥的开通，以寻求更大的通行费收入阿曼告诉盟国船只可能会通过霍尔木兹海峡...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-equity-sales-renew-ai-190000255.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782586800,
+        "title": "AI jitters meet a jobs report and falling oil prices: What to watch this week",
+        "title_zh": "人工智能的紧​​张情绪与就业报告和油价下跌相结合：本周值得关注的内容",
+        "summary": "After a roller-coaster week in the markets, thanks to flip-flopping sentiment about AI spending, investors will get plenty more action on the calendar as we enter jobs week.",
+        "summary_zh": "在市场经历了过山车般的一周之后，由于对人工智能支出的情绪反复无常，随着我们进入就业周，投资者将在日历上采取更多行动。",
+        "link": "https://finance.yahoo.com/markets/article/ai-jitters-meet-a-jobs-report-and-falling-oil-prices-what-to-watch-this-week-100000636.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782640800,
+        "type": "News"
+    },
+    {
+        "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
+        "title_zh": "据英国《金融时报》报道，谷歌限制 Meta 使用其 Gemini AI 模型",
+        "summary": "June 28 (Reuters) - Google has put limits on Meta’s use of its Gemini AI models after the social media company sought more computing capacity than the rival tech group could provide, the Financial",
+        "summary_zh": "6 月 28 日（路透社）——在社交媒体公司寻求比竞争对手科技集团所能提供的更多计算能力后，谷歌对 Meta 使用其 Gemini AI 模型设置了限制。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
+        "publisher": "Reuters",
+        "publish_time": 1782624182,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1782558512,
-        "type": "News"
-    },
-    {
-        "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
-        "title_zh": "苹果寻求美国批准从列入黑名单的CXMT购买芯片：FT",
-        "summary": "(Bloomberg) -- Apple Inc.",
-        "summary_zh": "（彭博社）——苹果公司",
-        "link": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782546323,
         "type": "News"
     },
     {
