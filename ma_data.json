@@ -1,5 +1,15 @@
 [
     {
+        "title": "Apple Inc. (AAPL) Allows Alternative App Stores and Payments in Brazil Following a Deal with Regulator",
+        "title_zh": "苹果公司 (AAPL) 与监管机构达成协议后允许在巴西推出替代应用商店和支付方式",
+        "summary": "Apple Inc. (NASDAQ:AAPL) is one of the 10 Best Brain-Computer Interface Stocks to Buy. On June 18, Reuters reported that Apple Inc.",
+        "summary_zh": "苹果公司（纳斯达克股票代码：AAPL）是十大最值得买入的脑机接口股票之一。 6 月 18 日，路透社报道称，苹果公司",
+        "link": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-inc-aapl-allows-alternative-153221691.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1782574341,
+        "type": "News"
+    },
+    {
         "title": "Does KKR’s (KKR) India Hospital Deal And Fee Shift Reveal A New Earnings Playbook?",
         "title_zh": "KKR (KKR) 印度医院交易和费用调整是否揭示了新的盈利策略？",
         "summary": "KKR recently entered advanced talks to acquire Sweden-based Medicover’s 66.9% stake in its Indian hospital business for at least US$1.05 billion, while also reporting quarter-to-date monetization income above US$900 million, mostly from realized performance fees.",
@@ -20,26 +30,6 @@
         "type": "News"
     },
     {
-        "title": "American Airlines (AAL) Brings Starlink To 500 Planes And Signs Google Fuel Deal",
-        "title_zh": "美国航空 (AAL) 为 500 架飞机配备 Starlink 并签署 Google 燃油协议",
-        "summary": "American Airlines Group announced plans to equip over 500 aircraft with SpaceX Starlink high-speed in-flight Wi-Fi starting in 2027. The company also entered a three-year sustainable aviation fuel partnership with Google to support emissions reduction efforts.",
-        "summary_zh": "美国航空集团宣布计划从 2027 年开始为 500 多架飞机配备 SpaceX Starlink 高速机上 Wi-Fi。该公司还与谷歌建立了为期三年的可持续航空燃料合作伙伴关系，以支持减排工作。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-brings-starlink-230727652.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1782515247,
-        "type": "News"
-    },
-    {
-        "title": "How To Invest: 5 Tips For Dealing With This Stock Market",
-        "title_zh": "如何投资：应对股市的 5 个技巧",
-        "summary": "The power trend has generated impressive gains. Get ready to deal with whatever comes next with five guidelines for how to invest.",
-        "summary_zh": "电力趋势已经产生了令人印象深刻的收益。准备好应对接下来发生的任何事情，并提供五项投资指南。",
-        "link": "https://www.investors.com/how-to-invest/how-to-invest-nvidia-apple-stock-market-trends/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1782504277,
-        "type": "News"
-    },
-    {
         "title": "ARES vs. KKR: Which Asset Manager Offers Better Upside Now?",
         "title_zh": "ARES 与 KKR：哪个资产管理公司现在提供更好的优势？",
         "summary": "Ares Management and KKR & Co are benefiting from growing AUM, strategic acquisitions and expanding investment capabilities. Which stock is the better pick now?",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
         "publisher": "Zacks",
         "publish_time": 1782143040,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
+        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
+        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
+        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1781004912,
         "type": "News"
     }
 ]

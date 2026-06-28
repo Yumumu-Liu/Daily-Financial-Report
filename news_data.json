@@ -1,12 +1,52 @@
 [
     {
-        "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
-        "title_zh": "据英国《金融时报》报道，苹果寻求批准从被列入黑名单的中国公司购买芯片",
-        "summary": "Apple is lobbying the Trump administration for clearance to buy memory chips from ChangXin ‌Memory Technologies, a Chinese company the Pentagon has ‌put on a blacklist, the Financial Times reported on Friday.",
-        "summary_zh": "据英国《金融时报》周五报道，苹果正在游说特朗普政府批准从长鑫存储技术公司购买存储芯片，五角大楼已将这家中国公司列入黑名单。",
-        "link": "https://finance.yahoo.com/technology/articles/apple-seeks-approval-buy-chips-032619573.html",
-        "publisher": "Reuters",
-        "publish_time": 1782530779,
+        "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
+        "title_zh": "科技股销售再次引发人工智能债务狂潮担忧",
+        "summary": "(Bloomberg) -- Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.Most Read from BloombergLutnick Delayed Canada Bridge Debut to Seek Bigger Cut of Toll RevenueOman Tells Allies Ships Going Through Hormuz May ...",
+        "summary_zh": "（彭博社）——科技公司正在像互联网泡沫一样出售股票，一些投资者担心这对债券持有人来说是一个坏兆头。彭博社的大多数报道卢特尼克推迟了加拿大大桥的开通，以寻求更大的通行费收入阿曼告诉盟国船只可能会通过霍尔木兹海峡...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-equity-sales-renew-ai-190000255.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782586800,
+        "type": "News"
+    },
+    {
+        "title": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
+        "title_zh": "加密货币残酷的一周回顾：比特币价格、伊朗非法交易等",
+        "summary": "Scott Melker reviews the week crypto just had, including bitcoin (BTC-USD) prices plummeting, Bitmine (BMNR) joining the Russell 1000 (^RUI), and more. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+        "summary_zh": "Scott Melker 回顾了加密货币刚刚过去的一周，包括比特币 (BTC-USD) 价格暴跌、Bitmine (BMNR) 加入 Russell 1000 (^RUI) 等。 《The Daily Wolf with Scott Melker》每天中午 12:00 播出...",
+        "link": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782561600,
+        "type": "News"
+    },
+    {
+        "title": "As oil fades as an inflation concern, will AI take its place? The Fed is watching closely.",
+        "title_zh": "随着石油不再成为通胀问题，人工智能会取代它吗？美联储正在密切关注。",
+        "summary": "Oil prices are tumbling now that the Strait of Hormuz is open, potentially averting a continued rise that could have led to broader, more persistent inflation. But as energy prices plunge, the Federal Reserve may have a new inflation hurdle: artificial intelligence.",
+        "summary_zh": "由于霍尔木兹海峡开放，油价正在暴跌，这可能会避免持续上涨，从而导致更广泛、更持久的通胀。但随着能源价格暴跌，美联储可能面临新的通胀障碍：人工智能。",
+        "link": "https://finance.yahoo.com/economy/policy/article/as-oil-fades-as-an-inflation-concern-will-ai-take-its-place-the-fed-is-watching-closely-110838570.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782558518,
+        "type": "News"
+    },
+    {
+        "title": "This is not what a risk-off month usually looks like: Chart of the Day",
+        "title_zh": "这不是避险月份通常的样子：每日图表",
+        "summary": "Many of the market's biggest winners this month are hiding in places investors were not watching a month ago.",
+        "summary_zh": "本月市场的许多最大赢家都躲在投资者一个月前没有关注的地方。",
+        "link": "https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782558512,
+        "type": "News"
+    },
+    {
+        "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+        "title_zh": "苹果寻求美国批准从列入黑名单的CXMT购买芯片：FT",
+        "summary": "(Bloomberg) -- Apple Inc.",
+        "summary_zh": "（彭博社）——苹果公司",
+        "link": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782546323,
         "type": "News"
     },
     {
@@ -27,66 +67,6 @@
         "link": "https://finance.yahoo.com/markets/world-indices/articles/spacex-set-join-nasdaq-100-001521435.html",
         "publisher": "Reuters",
         "publish_time": 1782519321,
-        "type": "News"
-    },
-    {
-        "title": "Zuckerberg asks Meta to explore working with Polymarket and Kalshi, NYT reports",
-        "title_zh": "据《纽约时报》报道，扎克伯格要求 Meta 探索与 Polymarket 和 Kalshi 的合作",
-        "summary": "Meta CEO Mark Zuckerberg has urged his lieutenants to explore partnerships with the popular prediction markets ‌Polymarket and Kalshi as his company builds a similar ‌app, the New York Times said on Friday, citing three employees with knowledge ​of the matter.",
-        "summary_zh": "《纽约时报》周五援引三名知情员工的话说，Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 敦促其副手探索与热门预测市场 Polymarket 和 Kalshi 的合作，因为他的公司正在开发一款类似的应用程序。",
-        "link": "https://finance.yahoo.com/technology/articles/zuckerberg-asks-meta-explore-working-213101350.html",
-        "publisher": "Reuters",
-        "publish_time": 1782509461,
-        "type": "News"
-    },
-    {
-        "title": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI",
-        "title_zh": "苹果 Vision Pro 和智能眼镜主管将加入 OpenAI",
-        "summary": "(Bloomberg) -- Apple Inc.’s top executive in charge of the Vision Pro headset and the company’s smart glasses efforts is leaving for OpenAI, continuing a streak of high-profile defections to rivals in the artificial intelligence and hardware sectors.Most Read from BloombergLut...",
-        "summary_zh": "（彭博社）——苹果公司负责 Vision Pro 耳机和公司智能眼镜业务的高管将前往 OpenAI，继续高调倒戈人工智能和硬件领域的竞争对手。 大多数内容来自 BloombergLut...",
-        "link": "https://finance.yahoo.com/technology/ai/articles/apple-vision-pro-smart-glasses-193101024.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782502261,
-        "type": "News"
-    },
-    {
-        "title": "What turning AI compute into a financial asset would look like",
-        "title_zh": "将人工智能计算转变为金融资产会是什么样子",
-        "summary": "What exactly does it mean when investors want to \"financialize\" AI computing, a.k.a, turning it into a liquid financial asset or market?",
-        "summary_zh": "当投资者想要将人工智能计算“金融化”，也就是将其转变为流动性金融资产或市场时，这到底意味着什么？",
-        "link": "https://finance.yahoo.com/video/turning-ai-compute-financial-asset-151459284.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782486899,
-        "type": "News"
-    },
-    {
-        "title": "Semiconductor stocks retreat over worries about memory costs",
-        "title_zh": "半导体股因内存成本担忧而下跌",
-        "summary": "The semiconductor sector declined on Friday as high memory and storage costs weighed on stocks.",
-        "summary_zh": "由于高内存和存储成本打压股市，半导体板块周五下跌。",
-        "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-retreat-over-worries-about-memory-costs-131508185.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782479708,
-        "type": "News"
-    },
-    {
-        "title": "Fed likely to 'stay put' on rates in 2026 after hot inflation data",
-        "title_zh": "通胀数据公布后，美联储可能在 2026 年维持利率不变",
-        "summary": "Coming off of May's hot Personal Consumption Expenditures (PCE) reading, Gradient Investments associate portfolio manager Lisa Schreiber weighs in on how the Federal Reserve may move on interest rates in 2026 based on the latest inflation data.",
-        "summary_zh": "Gradient Investments 副投资组合经理 Lisa Schreiber 在 5 月份热门个人消费支出 (PCE) 数据结束后，根据最新的通胀数据，对美联储在 2026 年可能如何调整利率进行了权衡。",
-        "link": "https://finance.yahoo.com/video/fed-likely-stay-put-rates-120000762.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782475200,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech",
-        "title_zh": "今日股市：人工智能紧张情绪给科技股带来压力，标普 500 指数和纳斯达克指数结束两周连涨",
-        "summary": "Wall Street digested a downbeat week for tech stocks.",
-        "summary_zh": "华尔街消化了科技股悲观的一周。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-snap-2-week-win-streak-as-ai-jitters-pressure-tech-231347821.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782429227,
         "type": "News"
     }
 ]
