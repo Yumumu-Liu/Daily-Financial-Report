@@ -1,17 +1,27 @@
 [
     {
-        "title": "Disney And Apple Almost Merged, Here's Why The Deal Didn't Work",
-        "title_zh": "迪士尼和苹果几乎合并，这就是交易失败的原因",
-        "summary": "Media giant Walt Disney Co has grown through acquisitions of several media companies under the previous leadership of CEO Bob Iger. The company may have looked significantly different if one or two proposed deals had happened. Disney Almost Merged With...",
-        "summary_zh": "媒体巨头华特迪士尼公司在首席执行官鲍勃·艾格 (Bob Iger) 的前任领导下通过收购多家媒体公司而发展壮大。如果发生一两笔拟议交易，该公司的面貌可能会大不相同。迪士尼差一点就合并了",
-        "link": "https://finance.yahoo.com/media-advertising/articles/disney-apple-almost-merged-heres-180056814.html",
-        "publisher": "Benzinga",
-        "publish_time": 1782669656,
+        "title": "Nvidia Backs Firmus AI Cloud Deal",
+        "title_zh": "Nvidia 支持 Firmus 人工智能云交易",
+        "summary": "The partnership will give smaller AI companies access to Nvidia-powered computing.",
+        "summary_zh": "此次合作将使小型人工智能公司能够使用 Nvidia 驱动的计算。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-firmus-ai-cloud-125705158.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1782737825,
+        "type": "News"
+    },
+    {
+        "title": "Danaher (DHR) Completes $9.9B Acquisition of Masimo Corporation",
+        "title_zh": "丹纳赫 (DHR) 完成 $9.9B 收购 Masimo Corporation",
+        "summary": "Danaher Corporation (NYSE:DHR) is one of the best long term stocks to buy according to hedge funds. On June 10, Danaher completed its acquisition of Masimo Corporation, a specialist in pulse oximetry and patient monitoring solutions.",
+        "summary_zh": "根据对冲基金的说法，丹纳赫公司（纽约证券交易所股票代码：DHR）是最值得购买的长期股票之一。 6 月 10 日，丹纳赫完成了对脉搏血氧饱和度和患者监测解决方案专家 Masimo Corporation 的收购。",
+        "link": "https://finance.yahoo.com/healthcare/articles/danaher-dhr-completes-9-9b-052800253.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1782710880,
         "type": "News"
     },
     {
         "title": "Did Salesforce Just Figure Out How to Beat the \"SaaSpocalypse\" With Its New Acquisition? Shares Are an Incredible Bargain If It Did.",
-        "title_zh": "Salesforce 是否刚刚弄清楚如何通过其新收购来击败“SaaS 末日”？如果确实如此，股票将是一个令人难以置信的便宜货。",
+        "title_zh": "Salesforce 是否刚刚弄清楚如何通过其新收购来击败“SaaS 末日”？如果确实如此，那么股票就是一个令人难以置信的便宜货。",
         "summary": "Salesforce's new acquisition has figured out how to win in the age of agentic AI.",
         "summary_zh": "Salesforce 的新收购已经找到了如何在代理人工智能时代获胜的方法。",
         "link": "https://finance.yahoo.com/technology/ai/articles/did-salesforce-just-figure-beat-122000060.html",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1782519261,
-        "type": "News"
-    },
-    {
-        "title": "ARES vs. KKR: Which Asset Manager Offers Better Upside Now?",
-        "title_zh": "ARES 与 KKR：哪个资产管理公司现在提供更好的优势？",
-        "summary": "Ares Management and KKR & Co are benefiting from growing AUM, strategic acquisitions and expanding investment capabilities. Which stock is the better pick now?",
-        "summary_zh": "Ares Management 和 KKR & Co 正受益于不断增长的资产管理规模、战略收购和不断扩大的投资能力。现在选择哪只股票更好？",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
-        "publisher": "Zacks",
-        "publish_time": 1782143040,
         "type": "News"
     }
 ]

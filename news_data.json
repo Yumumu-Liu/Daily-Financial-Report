@@ -1,62 +1,52 @@
 [
     {
-        "title": "Samsung, SK Reportedly to Invest $1.3 Trillion Over 10 Years",
-        "title_zh": "据报道三星和SK将在10年内投资1.3万亿美元",
-        "summary": "(Bloomberg) -- South Korea’s Samsung Group and SK Group are poised to announce as much as 2,000 trillion won ($1.3 trillion) of investments over the next decade as part of President Lee Jae Myung’s flagship industrial strategy, Korea Economic Daily reported Monday.",
-        "summary_zh": "（彭博社）——据《韩国经济日报》周一报道，作为韩国总统李在明旗舰产业战略的一部分，韩国三星集团和 SK 集团准备宣布在未来十年进行高达 2000 万亿韩元（1.3 万亿美元）的投资。",
-        "link": "https://finance.yahoo.com/technology/articles/samsung-sk-reportedly-invest-1-231704117.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782688624,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called",
-        "title_zh": "今日股市：随着美伊袭击停止，标准普尔 500 指数、纳斯达克指数和道琼斯指数期货上涨",
-        "summary": "The major gauges advanced as peace talks between Iran and the US were broached.",
-        "summary_zh": "随着伊朗和美国之间的和平谈判的展开，主要指标上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html",
+        "title": "The S&P 500 just sent a warning signal to investors",
+        "title_zh": "标准普尔500指数刚刚向投资者发出警告信号",
+        "summary": "Amid a week of heightened volatility, the S&P 500 closed below its 50-day moving average for the first time in more than two months.",
+        "summary_zh": "在波动加剧的一周内，标准普尔 500 指数两个多月来首次收于 50 日移动均线下方。",
+        "link": "https://finance.yahoo.com/markets/article/the-sp-500-just-sent-a-warning-signal-to-investors-121007971.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1782686550,
+        "publish_time": 1782735007,
         "type": "News"
     },
     {
-        "title": "'We don't view this as a bubble' that will pop soon: Wall Street weighs surging AI costs on stock market rally",
-        "title_zh": "“我们不认为这是一个很快就会破灭的泡沫”：华尔街在股市上涨中权衡人工智能成本飙升",
-        "summary": "Wall Street analysts told Yahoo Finance that Micron's earnings proved AI demand remains strong.",
-        "summary_zh": "华尔街分析师告诉雅虎财经，美光科技的财报证明人工智能需求仍然强劲。",
-        "link": "https://finance.yahoo.com/markets/article/we-dont-view-this-as-a-bubble-that-will-pop-soon-wall-street-weighs-surging-ai-costs-on-stock-market-rally-115642288.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782647802,
+        "title": "Why this startup says it can eliminate AI chatbot hallucinations",
+        "title_zh": "为什么这家初创公司说它可以消除人工智能聊天机器人的幻觉",
+        "summary": "Scaled Cognition CEO Dan Roth explains how his company is developing reliable artificial intelligence (AI) models that don't provide false or misleading information.",
+        "summary_zh": "Scaled Cognition 首席执行官 Dan Roth 解释了他的公司如何开发可靠的人工智能 (AI) 模型，这些模型不会提供虚假或误导性信息。",
+        "link": "https://finance.yahoo.com/video/why-startup-says-eliminate-ai-120000642.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782734400,
         "type": "News"
     },
     {
-        "title": "Slate's CEO on launching a $25K EV and why it's 'fun to have a contrarian point of view'",
-        "title_zh": "Slate 首席执行官谈推出一款售价 2.5 万美元的电动汽车，以及为什么“持有逆向观点很有趣”",
-        "summary": "A new car for under $25,000 is rare enough in America these days, but one that happens to be an EV pickup is a downright unicorn. That's the bet Slate is making with its first EV, and CEO Peter Faricy is not shy about singing its praises.",
-        "summary_zh": "如今，一辆售价低于 25,000 美元的新车在美国已经很少见了，但如果是电动皮卡，那就是彻头彻尾的独角兽。这是 Slate 对其首款电动汽车的押注，首席执行官彼得·法里西 (Peter Faricy) 并不羞于赞扬它。",
-        "link": "https://finance.yahoo.com/technology/article/slates-ceo-on-launching-a-25k-ev-and-why-its-fun-to-have-a-contrarian-point-of-view-115639741.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782647799,
-        "type": "News"
-    },
-    {
-        "title": "AI jitters meet a jobs report and falling oil prices: What to watch this week",
-        "title_zh": "人工智能的紧​​张情绪与就业报告和油价下跌相结合：本周值得关注的内容",
-        "summary": "After a roller-coaster week in the markets, thanks to flip-flopping sentiment about AI spending, investors will get plenty more action on the calendar as we enter jobs week.",
-        "summary_zh": "在市场经历了过山车般的一周之后，由于对人工智能支出的情绪反复无常，随着我们进入就业周，投资者将在日历上采取更多行动。",
-        "link": "https://finance.yahoo.com/markets/article/ai-jitters-meet-a-jobs-report-and-falling-oil-prices-what-to-watch-this-week-100000636.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782640800,
-        "type": "News"
-    },
-    {
-        "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-        "title_zh": "据英国《金融时报》报道，谷歌限制 Meta 使用其 Gemini AI 模型",
-        "summary": "June 28 (Reuters) - Google has put limits on Meta’s use of its Gemini AI models after the social media company sought more computing capacity than the rival tech group could provide, the Financial",
-        "summary_zh": "6 月 28 日（路透社）——在社交媒体公司寻求比竞争对手科技集团所能提供的更多计算能力后，谷歌对 Meta 使用其 Gemini AI 模型设置了限制。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
+        "title": "Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation",
+        "title_zh": "独家——苹果指责印度在反垄断调查中“复制粘贴”竞争对手的主张",
+        "summary": "By Aditya Kalra NEW DELHI, June 29 (Reuters) - Apple has accused Indian antitrust investigators of \"copy-pasting\" its rivals' claims and failing to properly conduct its own investigation in concluding",
+        "summary_zh": "路透新德里 6 月 29 日 - 苹果指责印度反垄断调查人员“复制粘贴”其竞争对手的说法，并且未能正确开展自己的调查以得出结论",
+        "link": "https://finance.yahoo.com/news/exclusive-apple-accuses-india-copy-095932181.html",
         "publisher": "Reuters",
-        "publish_time": 1782624182,
+        "publish_time": 1782727754,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-What's good for the US economy now may not be good for stocks",
+        "title_zh": "分析-现在对美国经济有利的事情可能对股市不利",
+        "summary": "By Caroline Valetkevitch and Karen Brettell NEW YORK, June 29 (Reuters) - The U.S. economy and the U.S. stock market are starting to go their own ways.",
+        "summary_zh": "作者：Caroline Valetkevitch 和 Karen Brettell 纽约，6 月 29 日（路透社）——美国经济和美国股市开始按自己的方式发展。",
+        "link": "https://finance.yahoo.com/economy/articles/analysis-whats-good-us-economy-100643368.html",
+        "publisher": "Reuters",
+        "publish_time": 1782727603,
+        "type": "News"
+    },
+    {
+        "title": "This is not what a risk-off month usually looks like: Chart of the Day",
+        "title_zh": "这不是避险月份通常的样子：每日图表",
+        "summary": "Many of the market's biggest winners this month are hiding in places investors were not watching a month ago.",
+        "summary_zh": "本月市场的许多最大赢家都躲在投资者一个月前没有关注的地方。",
+        "link": "https://finance.yahoo.com/markets/article/this-is-not-what-a-risk-off-month-usually-looks-like-chart-of-the-day-110832956.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782558512,
         "type": "News"
     }
 ]
