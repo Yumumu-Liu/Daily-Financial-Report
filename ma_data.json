@@ -1,42 +1,22 @@
 [
     {
-        "title": "Older tech workers are retiring at 55. But claiming Social Security early offers smaller checks for life.",
-        "title_zh": "年长的科技工作者将在 55 岁退休。但提前领取社会保障可以提供较小的终身支票。",
-        "summary": "Whether you choose to retire early or are pushed out by layoffs, it takes careful planning. Here’s what you need to know.",
-        "summary_zh": "无论您选择提前退休还是因裁员而被淘汰，都需要仔细规划。这是您需要了解的内容。",
-        "link": "https://finance.yahoo.com/small-business/articles/older-tech-workers-retiring-55-104500266.html",
-        "publisher": "Moneywise",
-        "publish_time": 1782643500,
+        "title": "Disney And Apple Almost Merged, Here's Why The Deal Didn't Work",
+        "title_zh": "迪士尼和苹果几乎合并，这就是交易失败的原因",
+        "summary": "Media giant Walt Disney Co has grown through acquisitions of several media companies under the previous leadership of CEO Bob Iger. The company may have looked significantly different if one or two proposed deals had happened. Disney Almost Merged With...",
+        "summary_zh": "媒体巨头华特迪士尼公司在首席执行官鲍勃·艾格 (Bob Iger) 的前任领导下通过收购多家媒体公司而发展壮大。如果发生一两笔拟议交易，该公司的面貌可能会大不相同。迪士尼差一点就合并了",
+        "link": "https://finance.yahoo.com/media-advertising/articles/disney-apple-almost-merged-heres-180056814.html",
+        "publisher": "Benzinga",
+        "publish_time": 1782669656,
         "type": "News"
     },
     {
-        "title": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia Deals As AI Data Center Expansion Grows",
-        "title_zh": "随着人工智能数据中心扩张的不断发展，IREN (NasdaqGS:IREN) 与微软和 Nvidia 达成交易",
-        "summary": "IREN (NasdaqGS:IREN) has shifted its focus toward building large scale data centers for artificial intelligence workloads. The company recently signed new long term infrastructure contracts with Microsoft and Nvidia tied to AI capacity.",
-        "summary_zh": "IREN（纳斯达克股票代码：IREN）已将重点转向为人工智能工作负载构建大型数据中心。该公司最近与微软和英伟达签署了与人工智能能力相关的新的长期基础设施合同。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/iren-nasdaqgs-iren-lands-microsoft-060727245.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1782626847,
-        "type": "News"
-    },
-    {
-        "title": "Lenovo (SEHK:992) Expands Hybrid AI Offerings And Launches Tab Plus Gen 2",
-        "title_zh": "联想 (SEHK:992) 扩展混合人工智能产品并推出 Tab Plus Gen 2",
-        "summary": "Lenovo Group (SEHK:992) expanded its Hybrid AI Advantage portfolio with new AI inferencing solutions and platforms for hybrid deployment. The company announced fresh collaborations with NVIDIA, Intel, Red Hat, and Canonical to support enterprise AI workloads.",
-        "summary_zh": "联想集团（SEHK：992）通过新的人工智能推理解决方案和混合部署平台扩展了其混合人工智能优势产品组合。该公司宣布与 NVIDIA、Intel、Red Hat 和 Canonical 开展新合作，以支持企业 AI 工作负载。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/lenovo-sehk-992-expands-hybrid-060726472.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1782626846,
-        "type": "News"
-    },
-    {
-        "title": "Apple Inc. (AAPL) Allows Alternative App Stores and Payments in Brazil Following a Deal with Regulator",
-        "title_zh": "苹果公司 (AAPL) 与监管机构达成协议后允许在巴西推出替代应用商店和支付方式",
-        "summary": "Apple Inc. (NASDAQ:AAPL) is one of the 10 Best Brain-Computer Interface Stocks to Buy. On June 18, Reuters reported that Apple Inc.",
-        "summary_zh": "苹果公司（纳斯达克股票代码：AAPL）是十大最值得买入的脑机接口股票之一。 6 月 18 日，路透社报道称，苹果公司",
-        "link": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-inc-aapl-allows-alternative-153221691.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1782574341,
+        "title": "Did Salesforce Just Figure Out How to Beat the \"SaaSpocalypse\" With Its New Acquisition? Shares Are an Incredible Bargain If It Did.",
+        "title_zh": "Salesforce 是否刚刚弄清楚如何通过其新收购来击败“SaaS 末日”？如果确实如此，股票将是一个令人难以置信的便宜货。",
+        "summary": "Salesforce's new acquisition has figured out how to win in the age of agentic AI.",
+        "summary_zh": "Salesforce 的新收购已经找到了如何在代理人工智能时代获胜的方法。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/did-salesforce-just-figure-beat-122000060.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1782649200,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-kkr-india-hospital-070756313.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1782544076,
+        "type": "News"
+    },
+    {
+        "title": "KKR (KKR) Eyes $1 Billion Plus Medicover Hospitals India Deal",
+        "title_zh": "KKR (KKR) 着眼于印度 10 亿美元加医疗保险医院交易",
+        "summary": "KKR is reported to be in advanced talks to acquire a majority stake in Medicover Hospitals India. The potential deal could be valued at more than $1b and would expand KKR's healthcare platform in India.",
+        "summary_zh": "据报道，KKR 正在就收购印度 Medicover Hospitals 多数股权进行深入谈判。这笔潜在交易的价值可能超过 10 亿美元，并将扩大 KKR 在印度的医疗保健平台。",
+        "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1782519261,
+        "type": "News"
+    },
+    {
+        "title": "ARES vs. KKR: Which Asset Manager Offers Better Upside Now?",
+        "title_zh": "ARES 与 KKR：哪个资产管理公司现在提供更好的优势？",
+        "summary": "Ares Management and KKR & Co are benefiting from growing AUM, strategic acquisitions and expanding investment capabilities. Which stock is the better pick now?",
+        "summary_zh": "Ares Management 和 KKR & Co 正受益于不断增长的资产管理规模、战略收购和不断扩大的投资能力。现在选择哪只股票更好？",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ares-vs-kkr-asset-manager-154400740.html",
+        "publisher": "Zacks",
+        "publish_time": 1782143040,
         "type": "News"
     }
 ]
