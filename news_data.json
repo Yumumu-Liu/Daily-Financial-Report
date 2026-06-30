@@ -1,5 +1,35 @@
 [
     {
+        "title": "Panasonic to localise its US data centre battery production, CEO says",
+        "title_zh": "松下首席执行官表示，将实现美国数据中心电池生产的本地化",
+        "summary": "Panasonic is seeking to localise its U.S. supply chain for energy storage systems as it prepares ‌to produce battery cells at a plant in Kansas as ‌part of a shift towards supplying data centres, the Japanese group's CEO said on ​Tuesday.",
+        "summary_zh": "日本松下集团首席执行官周二表示，松下正在寻求将其美国储能系统供应链本地化，准备在堪萨斯州的一家工厂生产电池，作为向数据中心供应转变的一部分。",
+        "link": "https://finance.yahoo.com/energy/articles/panasonic-localise-us-data-centre-103134306.html",
+        "publisher": "Reuters",
+        "publish_time": 1782815494,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks on pace for best 6 months since 2023 — even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day",
+        "title_zh": "科技股仍将创 2023 年以来 6 个月最佳表现——尽管“七强”中的大部分都处于“惩罚区”：每日图表",
+        "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
+        "summary_zh": "科技股今年上半年将创下自 2023 年以来最强劲的表现，当时人工智能热潮首次推动股市走高。",
+        "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782813600,
+        "type": "News"
+    },
+    {
+        "title": "Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings",
+        "title_zh": "芯片股有史以来最好的一个季度以剧烈波动结束",
+        "summary": "(Bloomberg) -- Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment.",
+        "summary_zh": "（彭博社）——在人工智能设备永不满足的需求的推动下，芯片股正迎来有史以来最好的季度，为今年带来了非凡的开局。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-best-quarter-ever-090051148.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1782810051,
+        "type": "News"
+    },
+    {
         "title": "House Passes Online Safety Bill as Senate Eyes Stricter Push",
         "title_zh": "众议院通过在线安全法案，参议院加大力度推动",
         "summary": "(Bloomberg) -- The House on Monday passed legislation to require new online safety protections for children, a sign of growing momentum in Washington to address a widespread concern among US parents even as the measure sets up a clash with senators seeking stronger safeguards....",
@@ -7,46 +37,6 @@
         "link": "https://finance.yahoo.com/technology/articles/house-passes-online-safety-bill-235117637.html",
         "publisher": "Bloomberg",
         "publish_time": 1782777077,
-        "type": "News"
-    },
-    {
-        "title": "China's Nexchip Semiconductor seeks up to $890.3 million in Hong Kong share sale",
-        "title_zh": "中国 Nexchip 半导体寻求在香港出售股票，融资金额高达 8.903 亿美元",
-        "summary": "China's Nexchip Semiconductor seeks to raise up to HK$6.98 billion ($890.26 million) in a ‌Hong Kong share sale, an exchange filing ‌showed on Tuesday.",
-        "summary_zh": "周二提交的一份交易所文件显示，中国的 Nexchip Semiconductor 寻求通过在香港发售股票筹集至多 69.8 亿港元（8.9026 亿美元）。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chinas-nexchip-semiconductor-seeks-890-234830986.html",
-        "publisher": "Reuters",
-        "publish_time": 1782776910,
-        "type": "News"
-    },
-    {
-        "title": "Australia sues Amazon unit over alleged breach via Prime Video ads",
-        "title_zh": "澳大利亚起诉亚马逊子公司，指控其通过 Prime Video 广告违规",
-        "summary": "Australia's competition regulator said on Tuesday it has taken Amazon's Australian unit to court, alleging its ‌Prime subscription contracts contained unfair terms that allowed the company ‌to add advertising to its video streaming platform.",
-        "summary_zh": "澳大利亚竞争监管机构周二表示，已将亚马逊澳大利亚子公司告上法庭，指控其 Prime 订阅合同包含不公平条款，允许该公司在其视频流平台上添加广告。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/australia-sues-amazon-unit-over-231157469.html",
-        "publisher": "Reuters",
-        "publish_time": 1782774717,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after tech rebounds",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货在科技股反弹后下跌",
-        "summary": "US stock futures teetered as Wall Street digested an upbeat start to the week.",
-        "summary_zh": "随着华尔街消化了本周的乐观开局，美国股指期货摇摇欲坠。",
-        "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-tech-rebounds-224823556.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782773303,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends higher as major tech-related shares jump",
-        "title_zh": "随着主要科技股上涨，华尔街收高",
-        "summary": "STORY: Wall Street's main indexes closed higher on Monday, with the Dow adding about six-tenths of a percent to notch a record closing high, the S&P 500 climbing nearly 1.2% and the Nasdaq gaining 2%.Several tech stocks that had fallen recently due to concerns about AI spendin...",
-        "summary_zh": "故事：华尔街主要股指周一收高，其中道琼斯指数上涨约十分之六，创下收盘新高，标准普尔 500 指数上涨近 1.2%，纳斯达克指数上涨 2%。最近由于对人工智能支出的担忧而下跌的几只科技股...",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-major-224730543.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1782773250,
         "type": "News"
     },
     {
@@ -60,23 +50,13 @@
         "type": "News"
     },
     {
-        "title": "Tech giants are not going to slash their AI spending plans, bullish tech analyst says",
-        "title_zh": "看涨的科技分析师表示，科技巨头不会削减人工智能支出计划",
-        "summary": "Expect big capital expenditure numbers this second quarter reporting season from the largest tech companies.",
-        "summary_zh": "预计最大的科技公司在第二季度财报季将出现大量资本支出。",
-        "link": "https://finance.yahoo.com/markets/article/tech-giants-are-not-going-to-slash-their-ai-spending-plans-bullish-tech-analyst-says-165146278.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782751906,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Tech stocks gain, Google rises after joining the Dow",
-        "title_zh": "今日科技股：科技股上涨，谷歌加入道指后上涨",
-        "summary": "Tech stocks enter the final few days of the quarter in the aftermath of one of their worst weeks of the year.",
-        "summary_zh": "在经历了今年最糟糕的一周后，科技股进入了本季度的最后几天。",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-tech-stocks-gain-google-rises-after-joining-the-dow-151053436.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782745853,
+        "title": "Alphabet joins the Dow, Verizon-BT deal, Comcast plans split into 2 companies",
+        "title_zh": "Alphabet 加入道指、Verizon-BT 交易，康卡斯特计划分拆为两家公司",
+        "summary": "Market Domination Host Josh Lipton tracks several of the day's top trending stock tickers, including Alphabet (GOOG, GOOGL) joining the Dow Jones Industrial Average (^DJI).",
+        "summary_zh": "市场主导主持人乔什·利普顿 (Josh Lipton) 追踪当日热门热门股票行情，其中包括加入道琼斯工业平均指数 (^DJI) 的 Alphabet (GOOG、GOOGL)。",
+        "link": "https://finance.yahoo.com/video/alphabet-joins-dow-verizon-bt-193230190.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782761550,
         "type": "News"
     },
     {
@@ -87,6 +67,26 @@
         "link": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1782745565,
+        "type": "News"
+    },
+    {
+        "title": "Why investors are rotating into mid and small-cap stocks",
+        "title_zh": "投资者为何转向中小盘股",
+        "summary": "Monetary Matters Network Co-Founder Jack Farley and AInvest Managing Editor Adam Shapiro join Julie Hyman on Morning Brief to discuss the market's rotation into mid-cap and small-cap stocks, highlighting which sectors are benefiting most.",
+        "summary_zh": "Monetary Matters Network 联合创始人 Jack Farley 和 AInvest 执行编辑 Adam Shapiro 与 Julie Hyman 一起在 Morning Brief 中讨论了市场转向中型和小型股票的情况，并强调了哪些行业受益最大。",
+        "link": "https://finance.yahoo.com/video/why-investors-are-rotating-into-mid-and-small-cap-stocks-142000684.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782742800,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street has sky-high expectations for second quarter earnings",
+        "title_zh": "华尔街对第二季度盈利抱有极高期望",
+        "summary": "Talk about high expectations for earnings season!",
+        "summary_zh": "谈论对财报季的高期望！",
+        "link": "https://finance.yahoo.com/markets/article/wall-street-has-sky-high-expectations-for-second-quarter-earnings-141310243.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1782742390,
         "type": "News"
     }
 ]
