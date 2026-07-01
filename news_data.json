@@ -1,92 +1,92 @@
 [
     {
-        "title": "Panasonic to localise its US data centre battery production, CEO says",
-        "title_zh": "松下首席执行官表示，将实现美国数据中心电池生产的本地化",
-        "summary": "Panasonic is seeking to localise its U.S. supply chain for energy storage systems as it prepares ‌to produce battery cells at a plant in Kansas as ‌part of a shift towards supplying data centres, the Japanese group's CEO said on ​Tuesday.",
-        "summary_zh": "日本松下集团首席执行官周二表示，松下正在寻求将其美国储能系统供应链本地化，准备在堪萨斯州的一家工厂生产电池，作为向数据中心供应转变的一部分。",
-        "link": "https://finance.yahoo.com/energy/articles/panasonic-localise-us-data-centre-103134306.html",
+        "title": "South Korean trade watchdog alleges Google abused its position in Android app store",
+        "title_zh": "韩国贸易监管机构指控谷歌滥用其在 Android 应用商店中的地位",
+        "summary": "SEOUL, July 1 (Reuters) - South Korea's antitrust regulator alleged on Wednesday that Alphabet's Google abused its dominant position in the Android app marketplace to hinder competition and will",
+        "summary_zh": "路透首尔 7 月 1 日 - 韩国反垄断监管机构周三指控 Alphabet 旗下的谷歌滥用其在 Android 应用市场的主导地位阻碍竞争，并将",
+        "link": "https://finance.yahoo.com/technology/articles/south-korean-trade-watchdog-alleges-030544775.html",
         "publisher": "Reuters",
-        "publish_time": 1782815494,
+        "publish_time": 1782875144,
         "type": "News"
     },
     {
-        "title": "Tech stocks on pace for best 6 months since 2023 — even with much of the 'Magnificent 7' in the 'penalty box': Chart of the Day",
-        "title_zh": "科技股仍将创 2023 年以来 6 个月最佳表现——尽管“七强”中的大部分都处于“惩罚区”：每日图表",
-        "summary": "Tech stocks are set to notch their strongest first half of the year since 2023, when the AI boom first drove equities higher.",
-        "summary_zh": "科技股今年上半年将创下自 2023 年以来最强劲的表现，当时人工智能热潮首次推动股市走高。",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-on-pace-for-best-6-months-since-2023--even-with-much-of-the-magnificent-7-in-the-penalty-box-chart-of-the-day-100000120.html",
+        "title": "Microsoft to cut under 2.5% of workforce in latest layoffs, Business Insider reports",
+        "title_zh": "据 Business Insider 报道，微软在最新的裁员中将裁员 2.5% 以下",
+        "summary": "Microsoft is planning to cut under 2.5% of its workforce in the latest round of layoffs ‌that could be announced as early as next week, Business ‌Insider reported on Tuesday, citing sources.",
+        "summary_zh": "Business Insider 周二援引消息人士的话报道称，微软计划在最新一轮裁员中裁员 2.5% 以下，最早可能于下周宣布。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-cut-under-2-5-232459745.html",
+        "publisher": "Reuters",
+        "publish_time": 1782861899,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500, Nasdaq post best quarter since 2020 despite Iran war",
+        "title_zh": "尽管伊朗战争，标普 500 指数和纳斯达克指数仍录得 2020 年以来最佳季度表现",
+        "summary": "STORY: U.S. stocks ended the second quarter on a high note...with the Dow on Tuesday adding about a quarter of a percent to notch another record high close.",
+        "summary_zh": "故事：美国股市第二季度高收，道指周二上涨约 25%，创下收盘新高。",
+        "link": "https://finance.yahoo.com/video/p-500-nasdaq-post-best-222922936.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1782858562,
+        "type": "News"
+    },
+    {
+        "title": "'The jury's still out' on AI winners and losers, investor says",
+        "title_zh": "投资者表示，人工智能的赢家和输家“尚无定论”",
+        "summary": "STORY: \"This market believes in AI one day and then it's just scared about the spending. Now all these companies that have pristine balance sheets, not only are they issuing stock, but they're also taking on a lot of debt.",
+        "summary_zh": "故事：“这个市场有一天相信人工智能，然后只是担心支出。现在所有这些拥有原始资产负债表的公司不仅在发行股票，而且还承担了大量债务。",
+        "link": "https://finance.yahoo.com/video/jurys-still-ai-winners-losers-210300299.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1782853380,
+        "type": "News"
+    },
+    {
+        "title": "Apple is trying to address AI-related cybersecurity risks. What's going on?",
+        "title_zh": "苹果正在努力解决与人工智能相关的网络安全风险。这是怎么回事？",
+        "summary": "Apple (AAPL) is reportedly releasing early software updates to address AI cybersecurity concerns. Yahoo Finance Technology Editor Dan Howley takes a closer look in the video above.",
+        "summary_zh": "据报道，苹果公司（AAPL）正在发布早期软件更新，以解决人工智能网络安全问题。雅虎财经技术编辑丹·豪利 (Dan Howley) 仔细观看了上面的视频。",
+        "link": "https://finance.yahoo.com/video/apple-is-trying-to-address-ai-related-cybersecurity-risks-whats-going-on-202159291.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782850919,
+        "type": "News"
+    },
+    {
+        "title": "What to know about Anthropic's new Claude 'Sonnet 5' AI model",
+        "title_zh": "关于 Anthropic 的新 Claude“Sonnet 5”人工智能模型的了解",
+        "summary": "Anthropic (ANTH.PVT) revealed its newest AI model, Claude Sonnet 5. Yahoo Finance Technology Editor Dan Howley explains what investors should know.",
+        "summary_zh": "Anthropic (ANTH.PVT) 公布了其最新的人工智能模型 Claude Sonnet 5。雅虎财经技术编辑 Dan Howley 解释了投资者应该了解的内容。",
+        "link": "https://finance.yahoo.com/video/what-to-know-about-anthropics-new-claude-sonnet-5-ai-model-194802841.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782848882,
+        "type": "News"
+    },
+    {
+        "title": "AMD stock jumps, Circle plummets on stablecoin competition",
+        "title_zh": "AMD 股价上涨，Circle 因稳定币竞争而暴跌",
+        "summary": "Market Domination Host Josh Lipton tracks several of the day's top trending stock tickers, including Advanced Micro Devices (AMD) shares getting a lift after Wells Fargo analysts boosted their price target on the chipmaker's stock, while Circle Internet Group (CRCL) plummets o...",
+        "summary_zh": "市场主导主持人乔希·利普顿（Josh Lipton）追踪了当天几只热门股票行情，其中包括先进微设备公司（AMD）的股价在富国银行分析师提高了该芯片制造商股票的价格目标后上涨，而 Circle Internet Group（CRCL）的股价则暴跌。",
+        "link": "https://finance.yahoo.com/video/amd-stock-jumps-circle-plummets-on-stablecoin-competition-192026614.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1782847226,
+        "type": "News"
+    },
+    {
+        "title": "Tesla Q2 delivery preview: Europe, international sales the driver as US sales in decline",
+        "title_zh": "特斯拉第二季度交付预览：欧洲、国际销售是美国销量下降的推动力",
+        "summary": "Tesla will report second quarter delivery numbers as early as tomorrow as the EV maker seeks another quarter of recovering sales.",
+        "summary_zh": "特斯拉最早将于明天公布第二季度交付数据，这家电动汽车制造商寻求再一个季度恢复销售。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/tesla-q2-delivery-preview-europe-international-sales-the-driver-as-us-sales-in-decline-152919456.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1782813600,
+        "publish_time": 1782833359,
         "type": "News"
     },
     {
-        "title": "Chip Stocks’ Best Quarter Ever Is Ending With Some Wild Swings",
-        "title_zh": "芯片股有史以来最好的一个季度以剧烈波动结束",
-        "summary": "(Bloomberg) -- Chip stocks are heading for their best quarter ever, extending an extraordinary start to the year driven by insatiable demand for artificial intelligence equipment.",
-        "summary_zh": "（彭博社）——在人工智能设备永不满足的需求的推动下，芯片股正迎来有史以来最好的季度，为今年带来了非凡的开局。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-best-quarter-ever-090051148.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782810051,
-        "type": "News"
-    },
-    {
-        "title": "House Passes Online Safety Bill as Senate Eyes Stricter Push",
-        "title_zh": "众议院通过在线安全法案，参议院加大力度推动",
-        "summary": "(Bloomberg) -- The House on Monday passed legislation to require new online safety protections for children, a sign of growing momentum in Washington to address a widespread concern among US parents even as the measure sets up a clash with senators seeking stronger safeguards....",
-        "summary_zh": "（彭博社）——众议院周一通过了一项立法，要求对儿童采取新的在线安全保护措施，这是华盛顿解决美国家长普遍担忧的势头不断增强的迹象，尽管该措施与寻求更强有力保护措施的参议员发生了冲突。",
-        "link": "https://finance.yahoo.com/technology/articles/house-passes-online-safety-bill-235117637.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1782777077,
-        "type": "News"
-    },
-    {
-        "title": "Retail 'FOMO' drives record SpaceX Options volume following blockbuster IPO",
-        "title_zh": "零售业“FOMO”推动 SpaceX 期权成交量创历史新高",
-        "summary": "Henry Schwartz, Cboe VP of Derivatives Market Intelligence joins Yahoo Finance's Josh Lipton to discuss how SpaceX (SPCX) options volume exploded on day one, shattering Meta’s (META) previous record with 1.8 million contracts traded.",
-        "summary_zh": "芝加哥期权交易所衍生品市场情报副总裁亨利·施瓦茨 (Henry Schwartz) 与雅虎财经的乔什·利普顿 (Josh Lipton) 一起讨论了 SpaceX (SPCX) 期权交易量如何在第一天爆炸式增长，打破了 Meta (META) 之前的 180 万份合约交易记录。",
-        "link": "https://finance.yahoo.com/video/retail-fomo-drives-record-spacex-204641428.html",
+        "title": "Were the Mag 7 more like the Lag 7 in Q2 2026?",
+        "title_zh": "Mag 7 更像 2026 年第二季度的 Lag 7 吗？",
+        "summary": "As US stocks (^DJI, ^IXIC, ^GSPC) tick up in Tuesday's session — the last trading day of 2026's first half — investors' eyes are on the segments of Big Tech that have underperformed thus far.",
+        "summary_zh": "随着美国股市（^DJI、^IXIC、^GSPC）在周二（2026 年上半年的最后一个交易日）上涨，投资者的目光集中在迄今为止表现不佳的大型科技板块上。",
+        "link": "https://finance.yahoo.com/video/were-the-mag-7-more-like-the-lag-7-in-q2-2026-140012890.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1782766001,
-        "type": "News"
-    },
-    {
-        "title": "Alphabet joins the Dow, Verizon-BT deal, Comcast plans split into 2 companies",
-        "title_zh": "Alphabet 加入道指、Verizon-BT 交易，康卡斯特计划分拆为两家公司",
-        "summary": "Market Domination Host Josh Lipton tracks several of the day's top trending stock tickers, including Alphabet (GOOG, GOOGL) joining the Dow Jones Industrial Average (^DJI).",
-        "summary_zh": "市场主导主持人乔什·利普顿 (Josh Lipton) 追踪当日热门热门股票行情，其中包括加入道琼斯工业平均指数 (^DJI) 的 Alphabet (GOOG、GOOGL)。",
-        "link": "https://finance.yahoo.com/video/alphabet-joins-dow-verizon-bt-193230190.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782761550,
-        "type": "News"
-    },
-    {
-        "title": "Why Samsung & SK Hynix are investing so much in South Korea's AI build-out",
-        "title_zh": "为什么三星和 SK 海力士在韩国的人工智能建设上投入如此多的资金",
-        "summary": "Samsung (005930.KS) and SK Hynix (000660.KS) are investing $880 billion in South Korea's artificial intelligence (AI) build-out. Yahoo Finance Technology Editor Dan Howley outlines the details.",
-        "summary_zh": "三星 (005930.KS) 和 SK 海力士 (000660.KS) 正在投资 8800 亿美元用于韩国人工智能 (AI) 建设。雅虎财经技术编辑 Dan Howley 概述了详细信息。",
-        "link": "https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782745565,
-        "type": "News"
-    },
-    {
-        "title": "Why investors are rotating into mid and small-cap stocks",
-        "title_zh": "投资者为何转向中小盘股",
-        "summary": "Monetary Matters Network Co-Founder Jack Farley and AInvest Managing Editor Adam Shapiro join Julie Hyman on Morning Brief to discuss the market's rotation into mid-cap and small-cap stocks, highlighting which sectors are benefiting most.",
-        "summary_zh": "Monetary Matters Network 联合创始人 Jack Farley 和 AInvest 执行编辑 Adam Shapiro 与 Julie Hyman 一起在 Morning Brief 中讨论了市场转向中型和小型股票的情况，并强调了哪些行业受益最大。",
-        "link": "https://finance.yahoo.com/video/why-investors-are-rotating-into-mid-and-small-cap-stocks-142000684.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1782742800,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street has sky-high expectations for second quarter earnings",
-        "title_zh": "华尔街对第二季度盈利抱有极高期望",
-        "summary": "Talk about high expectations for earnings season!",
-        "summary_zh": "谈论对财报季的高期望！",
-        "link": "https://finance.yahoo.com/markets/article/wall-street-has-sky-high-expectations-for-second-quarter-earnings-141310243.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1782742390,
+        "publish_time": 1782828012,
         "type": "News"
     }
 ]
