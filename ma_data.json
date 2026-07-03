@@ -20,26 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Digital Realty Strengthens Portfolio With $7.8B Data Center Deal",
-        "title_zh": "Digital Realty 通过 7.8B 美元数据中心交易强化产品组合",
-        "summary": "DLR is set to acquire Blackstone's stake in three Northern Virginia data centers, strengthening its hyperscale portfolio and supporting future Core FFO growth.",
-        "summary_zh": "DLR 将收购 Blackstone 在北弗吉尼亚州三个数据中心的股份，加强其超大规模投资组合并支持未来核心 FFO 的增长。",
-        "link": "https://finance.yahoo.com/real-estate/articles/digital-realty-strengthens-portfolio-7-165000493.html",
-        "publisher": "Zacks",
-        "publish_time": 1782838200,
-        "type": "News"
-    },
-    {
-        "title": "Digital Realty Trust Reports $2.35 Billion Common Stock Offering by Blackstone",
-        "title_zh": "Digital Realty Trust 报告 Blackstone 发行 23.5 亿美元普通股",
-        "summary": "Digital Realty Trust (DLR) said late Monday affiliates of Blackstone (BX) have commenced an underwri",
-        "summary_zh": "Digital Realty Trust (DLR) 周一晚间表示 Blackstone (BX) 的附属公司已开始承保",
-        "link": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-reports-2-203416555.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1782765256,
-        "type": "News"
-    },
-    {
         "title": "Does KKR’s (KKR) India Hospital Deal And Fee Shift Reveal A New Earnings Playbook?",
         "title_zh": "KKR (KKR) 印度医院交易和费用调整是否揭示了新的盈利策略？",
         "summary": "KKR recently entered advanced talks to acquire Sweden-based Medicover’s 66.9% stake in its Indian hospital business for at least US$1.05 billion, while also reporting quarter-to-date monetization income above US$900 million, mostly from realized performance fees.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-kkr-india-hospital-070756313.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1782544076,
+        "type": "News"
+    },
+    {
+        "title": "KKR (KKR) Eyes $1 Billion Plus Medicover Hospitals India Deal",
+        "title_zh": "KKR (KKR) 着眼于印度 10 亿美元加医疗保险医院交易",
+        "summary": "KKR is reported to be in advanced talks to acquire a majority stake in Medicover Hospitals India. The potential deal could be valued at more than $1b and would expand KKR's healthcare platform in India.",
+        "summary_zh": "据报道，KKR 正在就收购印度 Medicover Hospitals 多数股权进行深入谈判。这笔潜在交易的价值可能超过 10 亿美元，并将扩大 KKR 在印度的医疗保健平台。",
+        "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1782519261,
+        "type": "News"
+    },
+    {
+        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
+        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
+        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
+        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1781004912,
         "type": "News"
     }
 ]
