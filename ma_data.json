@@ -1,5 +1,15 @@
 [
     {
+        "title": "Should You Buy the Invesco QQQ ETF After the Recent Nasdaq Sell-Off? History Offers a Crystal-Clear Answer.",
+        "title_zh": "在最近的纳斯达克抛售之后，您应该购买 Invesco QQQ ETF 吗？历史给出了清晰的答案。",
+        "summary": "Some of America's largest growth stocks struggled during the first half of 2026.",
+        "summary_zh": "美国一些最大的成长型股票在 2026 年上半年表现不佳。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-invesco-qqq-etf-recent-110500285.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783076700,
+        "type": "News"
+    },
+    {
         "title": "Blackstone (BX) Sells Northern Virginia Data Centers In $3.5 Billion Digital Realty Deal",
         "title_zh": "Blackstone (BX) 以 35 亿美元的 Digital Realty 交易出售北弗吉尼亚数据中心",
         "summary": "Blackstone (NYSE:BX) is exiting major Northern Virginia data center investments in a US$3.5b transaction with Digital Realty. The deal involves Blackstone selling significant data center stakes that were originally acquired within the past three years.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1782519261,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
-        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
-        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
-        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1781004912,
         "type": "News"
     }
 ]
