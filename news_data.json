@@ -1,92 +1,32 @@
 [
     {
-        "title": "Tesla posts record Q2 deliveries, boosting growth hopes",
-        "title_zh": "特斯拉第二季度交付量创历史新高，提振增长希望",
-        "summary": "STORY: Tesla posted record second-quarter deliveries on Thursday.The automaker beat Wall Street estimates and boosted hopes that it could end its two-year streak of annual sales declines.The company delivered more than 480,000 vehicles between April and June, up about 25% from...",
-        "summary_zh": "故事：特斯拉周四发布了创纪录的第二季度交付量。这家汽车制造商超出了华尔街的预期，并增强了人们对其结束两年连续年度销量下滑的希望。该公司在 4 月至 6 月期间交付了超过 48 万辆汽车，较之增长约 25%。",
-        "link": "https://finance.yahoo.com/video/tesla-posts-record-q2-deliveries-083601159.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783067761,
-        "type": "News"
-    },
-    {
-        "title": "Exclusive-World's biggest domain seller fears India's fake site crackdown could damage internet",
-        "title_zh": "独家——全球最大域名卖家担心印度打击假冒网站可能会损害互联网",
-        "summary": "By Aditya Kalra, Arpan Chaturvedi and Munsif Vengattil NEW DELHI, July 3 (Reuters) - The world's biggest internet domain seller, GoDaddy, has warned that India's crackdown on fake websites",
-        "summary_zh": "作者：Aditya Kalra、Arpan Chaturvedi 和 Munsif Vengattil 新德里，7 月 3 日（路透社）——全球最大的互联网域名卖家 GoDaddy 警告说，印度对虚假网站的打击",
-        "link": "https://finance.yahoo.com/news/exclusive-worlds-biggest-domain-seller-071956740.html",
-        "publisher": "Reuters",
-        "publish_time": 1783063196,
-        "type": "News"
-    },
-    {
-        "title": "AMP Says Bonds No Longer a Hedge, Cuts From Some Pension Funds",
-        "title_zh": "AMP 表示债券不再是对冲工具，部分养老基金削减了资金",
-        "summary": "(Bloomberg) -- AMP Ltd., one of Australia’s top asset managers, has ditched bonds from some of its retirement funds with sovereign debt no longer offering the diversification investors have relied on for decades as a ballast against stock volatility.Most Read from BloombergExx...",
-        "summary_zh": "（彭博社）——澳大利亚顶级资产管理公司之一 AMP Ltd. 已放弃部分退休基金的债券，主权债务不再提供投资者几十年来赖以稳定股市波动的多元化投资。 BloombergExx 的大多数阅读...",
-        "link": "https://finance.yahoo.com/markets/options/articles/amp-says-bonds-no-longer-030718382.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1783048038,
-        "type": "News"
-    },
-    {
-        "title": "Chip Industry Urges US to Avoid Moves That Distort Memory Market",
-        "title_zh": "芯片行业敦促美国避免扭曲内存市场的举动",
-        "summary": "(Bloomberg) -- Government attempts to address the global memory chip shortage by influencing prices or production capacity would worsen a historic squeeze on supply driven by the artificial intelligence boom, a semiconductor industry group warned the Trump administration.",
-        "summary_zh": "（彭博社）——一个半导体行业组织警告特朗普政府，政府试图通过影响价格或产能来解决全球存储芯片短缺问题，这将加剧人工智能热潮推动的历史性供应紧张。",
-        "link": "https://finance.yahoo.com/technology/articles/chip-industry-urges-us-avoid-235959366.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1783036799,
-        "type": "News"
-    },
-    {
-        "title": "Tumbling tech shares weigh on Nasdaq; investors assess soft jobs data",
-        "title_zh": "科技股暴跌给纳斯达克带来压力；投资者评估软就业数据",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/tumbling-tech-shares-weigh-nasdaq-222400355.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783031040,
-        "type": "News"
-    },
-    {
-        "title": "Inside Securitize's SPAC IPO and tokenization strategy",
-        "title_zh": "深入了解 Securitize 的 SPAC IPO 和代币化战略",
-        "summary": "Securitize CEO Carlos Domingo joins Yahoo Finance to discuss the company's planned IPO via SPAC, why financial markets need a tokenization platform, and how investors could benefit.",
-        "summary_zh": "Securitize 首席执行官卡洛斯·多明戈 (Carlos Domingo) 与雅虎财经一起讨论该公司计划通过 SPAC 进行 IPO、金融市场为何需要代币化平台以及投资者如何受益。",
-        "link": "https://finance.yahoo.com/video/inside-securitizes-spac-ipo-tokenization-203100628.html",
+        "title": "Meet the 441K 'everyday millionaires' created in the US in 2025",
+        "title_zh": "来认识一下 2025 年美国创造的 44.1 万名“日常百万富翁”",
+        "summary": "UBS has reported a spike in \"everyday millionaires\" in 2025 as 1,200 US millionaires were created every day last year, amounting to over 440,000 new millionaires.",
+        "summary_zh": "瑞银报告称，2025 年“日常百万富翁”数量将激增，去年每天新增 1,200 名美国百万富翁，总计超过 44 万新百万富翁。",
+        "link": "https://finance.yahoo.com/video/meet-441k-everyday-millionaires-created-180000330.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1783024260,
+        "publish_time": 1783101600,
         "type": "News"
     },
     {
-        "title": "What's next for the IPO market in 2026?",
-        "title_zh": "2026年IPO市场将何去何从？",
-        "summary": "Morning Brief host Brooke DiPalma welcomes Business Insider Today Executive Editor and Anchor Dan DeFrancesco to discuss the timeline for a potential SpaceX (SPCX) IPO, what he expects from the IPO market through the rest of 2026, and what could happen once OpenAI (OPAI.PVT) a...",
-        "summary_zh": "Morning Brief 主持人 Brooke DiPalma 欢迎《今日商业内幕》执行编辑兼主播 Dan DeFrancesco 讨论 SpaceX (SPCX) IPO 的时间表、他对 2026 年剩余时间 IPO 市场的预期，以及 OpenAI (OPAI.PVT)...",
-        "link": "https://finance.yahoo.com/video/whats-next-for-the-ipo-market-in-2026-142111431.html",
+        "title": "Tokenmaxxing is out, but companies are still spending on AI. What's changed?",
+        "title_zh": "Tokenmaxxing 已经退出，但企业仍在人工智能上投入。发生了什么变化？",
+        "summary": "In just a short amount of time, corporate policy on \"tokenmaxxing\" — or excessively using AI models to inflate usage on internal leaderboards — has already peaked and valleyed.",
+        "summary_zh": "在短短的时间内，公司关于“tokenmaxshing”（即过度使用人工智能模型来增加内部排行榜上的使用量）的政策已经达到了顶峰和谷底。",
+        "link": "https://finance.yahoo.com/video/tokenmaxxing-companies-still-spending-ai-120000127.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1783002071,
+        "publish_time": 1783080000,
         "type": "News"
     },
     {
-        "title": "Palantir stock jumps on analyst upgrade 'as profits have soared'",
-        "title_zh": "Palantir 股价因分析师升级“利润飙升”而上涨",
-        "summary": "Palantir stock extended gains on Thursay after an upgrade at DA Davidson.",
-        "summary_zh": "在 DA Davidson 上调评级后，Palantir 股票在周四上涨。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-on-analyst-upgrade-as-profits-have-soared-141251986.html",
+        "title": "Here's how much more expensive your devices have gotten thanks to AI",
+        "title_zh": "以下是人工智能让你的设备变得更加昂贵的原因",
+        "summary": "The AI price increase is coming for your wallet.",
+        "summary_zh": "AI价格上涨即将来临，你的钱包即将到来。",
+        "link": "https://finance.yahoo.com/technology/article/heres-how-much-more-expensive-your-devices-have-gotten-thanks-to-ai-121100267.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783001571,
-        "type": "News"
-    },
-    {
-        "title": "June jobs report misses expectations: What it means for the economy",
-        "title_zh": "六月就业报告未达预期：这对经济意味着什么",
-        "summary": "The US labor market added just 57,000 jobs in June, below expectations. Morning Brief Host Brooke DiPalma welcomes Business Insider Today Executive Editor and Anchor Dan DeFrancesco to break down the report and what it means for the economy.",
-        "summary_zh": "6 月份美国劳动力市场仅新增 57,000 个就业岗位，低于预期。早间简报主持人布鲁克·迪帕尔玛欢迎《今日商业内幕》执行主编兼主持人丹·德弗朗西斯科详细分析该报告及其对经济的意义。",
-        "link": "https://finance.yahoo.com/video/june-jobs-report-misses-expectations-what-it-means-for-the-economy-141045333.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783001445,
+        "publish_time": 1782994260,
         "type": "News"
     }
 ]
