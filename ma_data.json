@@ -1,5 +1,25 @@
 [
     {
+        "title": "OpenAI to Offer Trump Administration a 5% Equity Stake and Other AI Firms Could Also Follow: Report",
+        "title_zh": "OpenAI 将向特朗普政府提供 5% 的股权，其他人工智能公司也可能效仿：报告",
+        "summary": "OpenAI is reportedly considering offering the U.S. government a 5% equity stake as part of a broader effort to deepen ties with the Trump administration and secure financial backing. CEO Sam Altman has reportedly held preliminary discussions with the Trump...",
+        "summary_zh": "据报道，OpenAI 正在考虑向美国政府提供 5% 的股权，作为加深与特朗普政府关系并确保财务支持的更广泛努力的一部分。据报道，首席执行官萨姆·奥尔特曼已与特朗普进行了初步讨论......",
+        "link": "https://finance.yahoo.com/technology/ai/articles/openai-offer-trump-administration-5-153000566.html",
+        "publisher": "Benzinga",
+        "publish_time": 1783179000,
+        "type": "News"
+    },
+    {
+        "title": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover",
+        "title_zh": "Meta 斥资 65 亿美元的大胆举措，加速其云和人工智能接管",
+        "summary": "The AI arms race has entered a new phase. For the past three years, the biggest technology companies have competed by buying as many Nvidia (NASDAQ:NVDA) GPUs as they could get their hands on. Now they’re racing to build something even more valuable: their own AI chips.",
+        "summary_zh": "人工智能军备竞赛已进入新阶段。在过去的三年里，最大的科技公司通过购买尽可能多的 Nvidia（纳斯达克股票代码：NVDA）GPU 来展开竞争。现在，他们正在竞相打造更有价值的东西：自己的人工智能芯片。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-bold-6-5-billion-120602699.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1783166762,
+        "type": "News"
+    },
+    {
         "title": "Foes of PNM takeover applaud as regulators order $400 million stock deal undone",
         "title_zh": "监管机构下令撤销 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
         "summary": "New Mexico regulators voted Thursday to nullify a year-old purchase of stock in the state’s largest electric utility by a private equity firm and issue penalties against both, finding they violated state law by completing the sale without approval.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-kkr-india-hospital-070756313.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1782544076,
-        "type": "News"
-    },
-    {
-        "title": "KKR (KKR) Eyes $1 Billion Plus Medicover Hospitals India Deal",
-        "title_zh": "KKR (KKR) 着眼于印度 10 亿美元加医疗保险医院交易",
-        "summary": "KKR is reported to be in advanced talks to acquire a majority stake in Medicover Hospitals India. The potential deal could be valued at more than $1b and would expand KKR's healthcare platform in India.",
-        "summary_zh": "据报道，KKR 正在就收购印度 Medicover Hospitals 多数股权进行深入谈判。这笔潜在交易的价值可能超过 10 亿美元，并将扩大 KKR 在印度的医疗保健平台。",
-        "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-eyes-1-billion-001421908.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1782519261,
-        "type": "News"
-    },
-    {
-        "title": "Carlyle finalises $2.8bn acquisition of majority stake in MAI Capital",
-        "title_zh": "凯雷完成 28 亿美元收购 MAI Capital 多数股权",
-        "summary": "The existing management of MAI remains in place, with the business maintaining operational independence.",
-        "summary_zh": "MAI 现有管理层保持不变，业务保持运营独立性。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/carlyle-finalises-2-8bn-acquisition-113512302.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1781004912,
         "type": "News"
     }
 ]
