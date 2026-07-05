@@ -1,5 +1,25 @@
 [
     {
+        "title": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
+        "title_zh": "这家 AI 芯片股刚刚与 3 家超大规模公司签署了大规模交易，目前看起来仍然值得买入（提示：不是 Nvidia 或英特尔）",
+        "summary": "Data center chip sales could go from $0 to $15 billion in four years.",
+        "summary_zh": "四年内数据中心芯片销售额可能从 0 美元增至 150 亿美元。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stock-just-signed-085000284.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783241400,
+        "type": "News"
+    },
+    {
+        "title": "Warren Buffett Just Offered 11 Words of Warning That Could Reshape Your Investing Strategy",
+        "title_zh": "沃伦·巴菲特刚刚提出了 11 条警告，可能会重塑你的投资策略",
+        "summary": "Warren Buffett has made several statements recently denouncing the idea of \"gambling\" in the financial markets.",
+        "summary_zh": "沃伦·巴菲特最近多次发表声明，谴责金融市场“赌博”的想法。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-offered-11-045000941.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783227000,
+        "type": "News"
+    },
+    {
         "title": "OpenAI to Offer Trump Administration a 5% Equity Stake and Other AI Firms Could Also Follow: Report",
         "title_zh": "OpenAI 将向特朗普政府提供 5% 的股权，其他人工智能公司也可能效仿：报告",
         "summary": "OpenAI is reportedly considering offering the U.S. government a 5% equity stake as part of a broader effort to deepen ties with the Trump administration and secure financial backing. CEO Sam Altman has reportedly held preliminary discussions with the Trump...",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/energy/articles/foes-pnm-takeover-applaud-regulators-035900723.html",
         "publisher": "The Santa Fe New Mexican",
         "publish_time": 1783051140,
-        "type": "News"
-    },
-    {
-        "title": "HSBC Weighs Turkey Exit as Emirates NBD Explores Acquisition Deal",
-        "title_zh": "阿联酋国民银行 (Emirates NBD) 探索收购交易，汇丰银行考虑退出土耳其",
-        "summary": "HSBC is reportedly exploring a sale of its Turkey business to Emirates NBD, extending its global restructuring while sharpening its focus on core growth markets.",
-        "summary_zh": "据报道，汇丰银行正在考虑将其土耳其业务出售给阿联酋国民银行，以扩大其全球重组，同时加强对核心增长市场的关注。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-weighs-turkey-exit-emirates-134100000.html",
-        "publisher": "Zacks",
-        "publish_time": 1782913260,
-        "type": "News"
-    },
-    {
-        "title": "Does KKR’s (KKR) India Hospital Deal And Fee Shift Reveal A New Earnings Playbook?",
-        "title_zh": "KKR (KKR) 印度医院交易和费用调整是否揭示了新的盈利策略？",
-        "summary": "KKR recently entered advanced talks to acquire Sweden-based Medicover’s 66.9% stake in its Indian hospital business for at least US$1.05 billion, while also reporting quarter-to-date monetization income above US$900 million, mostly from realized performance fees.",
-        "summary_zh": "KKR 最近进入高级谈判，以至少 10.5 亿美元收购总部位于瑞典的 Medicover 在其印度医院业务中 66.9% 的股份，同时报告本季度迄今的货币化收入超过 9 亿美元，其中大部分来自已实现的绩效费用。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/does-kkr-kkr-india-hospital-070756313.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1782544076,
         "type": "News"
     }
 ]
