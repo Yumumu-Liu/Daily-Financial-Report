@@ -1,5 +1,35 @@
 [
     {
+        "title": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
+        "title_zh": "特斯拉和 SpaceX 合并的可能性超过 80%？它可能会改变游戏规则。",
+        "summary": "The debate over a possible Tesla-SpaceX merger is getting harder to ignore.",
+        "summary_zh": "关于特斯拉与 SpaceX 可能合并的争论越来越难以忽视。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/more-80-chance-tesla-spacex-012700132.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783301220,
+        "type": "News"
+    },
+    {
+        "title": "Super Micro Computer (SMCI) Expands Its Edge AI Computing Hardware Offerings",
+        "title_zh": "Super Micro Computer (SMCI) 扩展其边缘人工智能计算硬件产品",
+        "summary": "Super Micro Computer Inc. (NASDAQ:SMCI) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional owner in the company, with 7.21% or 43.36 million outstanding shares, according to Yahoo Finance data.",
+        "summary_zh": "Super Micro Computer Inc.（纳斯达克股票代码：SMCI）是贝莱德目前最重要的 30 只人工智能股票之一。雅虎财经数据显示，贝莱德是该公司最大的机构所有者，拥有 7.21% 或 4336 万股流通股。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-expands-004425764.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1783298665,
+        "type": "News"
+    },
+    {
+        "title": "Jeff Bezos Held 60 Meetings To Secure Amazon Investors But 40 Declined His Offer Of $50K For 1% Ownership — Today, That Would Be Worth $25B",
+        "title_zh": "杰夫·贝佐斯举行了 60 次会议以确保亚马逊投资者的安全，但 40 人拒绝了他以 5 万美元换取 1% 所有权的报价 — 如今，这将价值 $25B",
+        "summary": "A $50,000 check can buy plenty of things. In 1995, it could have bought a sliver of an online bookstore that many people did not yet understand because they were still asking one very fair question: What’s the internet? Amazon...",
+        "summary_zh": "一张5万美元的支票可以买很多东西。 1995年，它本可以收购一家网上书店的一小部分，但许多人还不了解，因为他们仍在问一个非常公平的问题：什么是互联网？亚马逊...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-held-60-meetings-183108743.html",
+        "publisher": "Benzinga",
+        "publish_time": 1783276268,
+        "type": "News"
+    },
+    {
         "title": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
         "title_zh": "这家 AI 芯片股刚刚与 3 家超大规模公司签署了大规模交易，目前看起来仍然值得买入（提示：不是 Nvidia 或英特尔）",
         "summary": "Data center chip sales could go from $0 to $15 billion in four years.",
@@ -10,38 +40,8 @@
         "type": "News"
     },
     {
-        "title": "Warren Buffett Just Offered 11 Words of Warning That Could Reshape Your Investing Strategy",
-        "title_zh": "沃伦·巴菲特刚刚提出了 11 条警告，可能会重塑你的投资策略",
-        "summary": "Warren Buffett has made several statements recently denouncing the idea of \"gambling\" in the financial markets.",
-        "summary_zh": "沃伦·巴菲特最近多次发表声明，谴责金融市场“赌博”的想法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-offered-11-045000941.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1783227000,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI to Offer Trump Administration a 5% Equity Stake and Other AI Firms Could Also Follow: Report",
-        "title_zh": "OpenAI 将向特朗普政府提供 5% 的股权，其他人工智能公司也可能效仿：报告",
-        "summary": "OpenAI is reportedly considering offering the U.S. government a 5% equity stake as part of a broader effort to deepen ties with the Trump administration and secure financial backing. CEO Sam Altman has reportedly held preliminary discussions with the Trump...",
-        "summary_zh": "据报道，OpenAI 正在考虑向美国政府提供 5% 的股权，作为加深与特朗普政府关系并确保财务支持的更广泛努力的一部分。据报道，首席执行官萨姆·奥尔特曼已与特朗普进行了初步讨论......",
-        "link": "https://finance.yahoo.com/technology/ai/articles/openai-offer-trump-administration-5-153000566.html",
-        "publisher": "Benzinga",
-        "publish_time": 1783179000,
-        "type": "News"
-    },
-    {
-        "title": "Meta’s Bold $6.5 Billion Power Move to Turbocharge Its Cloud and AI Takeover",
-        "title_zh": "Meta 斥资 65 亿美元的大胆举措，加速其云和人工智能接管",
-        "summary": "The AI arms race has entered a new phase. For the past three years, the biggest technology companies have competed by buying as many Nvidia (NASDAQ:NVDA) GPUs as they could get their hands on. Now they’re racing to build something even more valuable: their own AI chips.",
-        "summary_zh": "人工智能军备竞赛已进入新阶段。在过去的三年里，最大的科技公司通过购买尽可能多的 Nvidia（纳斯达克股票代码：NVDA）GPU 来展开竞争。现在，他们正在竞相打造更有价值的东西：自己的人工智能芯片。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-bold-6-5-billion-120602699.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1783166762,
-        "type": "News"
-    },
-    {
         "title": "Foes of PNM takeover applaud as regulators order $400 million stock deal undone",
-        "title_zh": "监管机构下令撤销 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
+        "title_zh": "监管机构下令撤消 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
         "summary": "New Mexico regulators voted Thursday to nullify a year-old purchase of stock in the state’s largest electric utility by a private equity firm and issue penalties against both, finding they violated state law by completing the sale without approval.",
         "summary_zh": "新墨西哥州监管机构周四投票决定取消一家私募股权公司一年前购买该州最大电力公司股票的行为，并对两家公司进行处罚，发现他们未经批准就完成出售，违反了州法律。",
         "link": "https://finance.yahoo.com/energy/articles/foes-pnm-takeover-applaud-regulators-035900723.html",

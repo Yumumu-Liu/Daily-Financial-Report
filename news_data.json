@@ -1,12 +1,72 @@
 [
     {
-        "title": "Trump executed 22,000 crypto trades in 2025",
-        "title_zh": "特朗普在 2025 年执行了 22,000 笔加密货币交易",
-        "summary": "Scott Melker discusses President Trump's crypto trading earnings after the president made more than 22,000 crypto trades in 2025. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-        "summary_zh": "Scott Melker 讨论了特朗普总统在 2025 年进行了超过 22,000 笔加密货币交易后的加密货币交易收入。“The Daily Wolf with Scott Melker”每天中午 12:00 播出。请关注您每天对加密事物的了解。",
-        "link": "https://finance.yahoo.com/video/trump-executed-22-000-crypto-120000605.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783166400,
+        "title": "Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs",
+        "title_zh": "自动驾驶初创公司 Turing 获得 AMD 支持并采用 AMD GPU",
+        "summary": "(Bloomberg) -- Self-driving tech developer Turing Inc.",
+        "summary_zh": "（彭博社）——自动驾驶技术开发商图灵公司",
+        "link": "https://finance.yahoo.com/technology/ai/articles/self-driving-startup-turing-gets-010035122.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783299635,
+        "type": "News"
+    },
+    {
+        "title": "Chip Stock Bulls Count on Samsung to Soothe AI Trade Jitters",
+        "title_zh": "芯片股多头指望三星能缓解人工智能贸易紧张情绪",
+        "summary": "(Bloomberg) -- A wild ride for global chip stocks in recent weeks has left investors looking for fresh validation of the artificial intelligence trade. Samsung Electronics Co.",
+        "summary_zh": "（彭博社）——最近几周全球芯片股的疯狂上涨让投资者开始寻找人工智能行业的新验证。三星电子公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-bulls-count-samsung-235318720.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783295598,
+        "type": "News"
+    },
+    {
+        "title": "Rate hike readjustment and AI hardware momentum: What to watch this week",
+        "title_zh": "加息调整和人工智能硬件动力：本周看点",
+        "summary": "A quiet calendar ahead gives the market plenty of space to go off the beaten path this week as investors gear up for the beginning of earnings season.",
+        "summary_zh": "随着投资者为财报季的开始做好准备，本周平静的日历为市场提供了足够的空间来打破常规。",
+        "link": "https://finance.yahoo.com/economy/article/rate-hike-readjustment-and-ai-hardware-momentum-what-to-watch-this-week-160059243.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783267259,
+        "type": "News"
+    },
+    {
+        "title": "AI bubble fears, the endless K-shaped economy, and insane hyperscaler capex spending",
+        "title_zh": "人工智能泡沫担忧、无尽的 K 型经济以及疯狂的超大规模资本支出",
+        "summary": "A little bit of everything for investors this holiday weekend!",
+        "summary_zh": "这个假期周末为投资者提供了一切！",
+        "link": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783254600,
+        "type": "News"
+    },
+    {
+        "title": "'It's a bull market': Wall Street sees more upside in stocks for the second half of 2026",
+        "title_zh": "“这是一个牛市”：华尔街预计 2026 年下半年股市将有更多上涨空间",
+        "summary": "Stocks closed out the quarter with a bang, and Wall Street sees more gains ahead.",
+        "summary_zh": "本季度股市大涨，华尔街预计未来还会有更多上涨。",
+        "link": "https://finance.yahoo.com/markets/article/its-a-bull-market-wall-street-sees-more-upside-in-stocks-for-the-second-half-of-2026-120220657.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783252940,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Supplier Hon Hai Reports Surging Sales on Solid AI Demand",
+        "title_zh": "Nvidia 供应商鸿海报告称，人工智能需求强劲，销售额激增",
+        "summary": "(Bloomberg) -- Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co.",
+        "summary_zh": "（彭博社）——英伟达公司的服务器组装合作伙伴鸿海精密工业有限公司。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-hon-hai-reports-074723309.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783237643,
+        "type": "News"
+    },
+    {
+        "title": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
+        "title_zh": "富士康第二季度营收大幅增长，公司对地缘政治发出警告",
+        "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, reported a 39.8% year-on-year ‌rise in second-quarter revenue that beat market forecasts ‌on strong demand for AI products, though it cautioned about \"volatile\" global politics.",
+        "summary_zh": "全球最大的合约电子产品制造商台湾富士康报告称，由于人工智能产品的强劲需求，第二季度收入同比增长 39.8%，超出了市场预期，但该公司对“不稳定”的全球政治提出了警告。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-second-quarter-revenue-jumps-074232190.html",
+        "publisher": "Reuters",
+        "publish_time": 1783237352,
         "type": "News"
     }
 ]
