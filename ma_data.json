@@ -1,12 +1,32 @@
 [
     {
-        "title": "A More Than 80% Chance of a Tesla and SpaceX Merger? It Could Be a Game Changer.",
-        "title_zh": "特斯拉和 SpaceX 合并的可能性超过 80%？它可能会改变游戏规则。",
-        "summary": "The debate over a possible Tesla-SpaceX merger is getting harder to ignore.",
-        "summary_zh": "关于特斯拉与 SpaceX 可能合并的争论越来越难以忽视。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/more-80-chance-tesla-spacex-012700132.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1783301220,
+        "title": "Frankfurter Leben lines up offer for Athora’s German unit – report",
+        "title_zh": "《法兰克福生活》正在为阿索拉的德国部门提出报价——报告",
+        "summary": "Apollo Global Management-backed Athora has been weighing the future of its German operation, including a possible disposal, after finding it difficult to expand the business.",
+        "summary_zh": "在发现业务扩展困难后，阿波罗全球管理公司支持的 Athora 一直在权衡其德国业务的未来，包括可能的出售。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/frankfurter-leben-lines-offer-athora-121332183.html",
+        "publisher": "Life Insurance International",
+        "publish_time": 1783340012,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom, Apple extend chip supply deal through 2031",
+        "title_zh": "博通与苹果将芯片供应协议延长至 2031 年",
+        "summary": "Broadcom said on Monday it has agreed to expand its partnership with ‌Apple through 2031 to develop and supply ‌a range of custom chips, sending the shares of the chipmaker ​up nearly 4% in premarket trading.",
+        "summary_zh": "博通周一表示，已同意将与苹果的合作关系扩大到 2031 年，以开发和供应一系列定制芯片，这使得该芯片制造商的股价在盘前交易中上涨了近 4%。",
+        "link": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html",
+        "publisher": "Reuters",
+        "publish_time": 1783339632,
+        "type": "News"
+    },
+    {
+        "title": "ITV and Sky reshape British TV landscape with $2.1 billion deal",
+        "title_zh": "ITV 和 Sky 以 21 亿美元的交易重塑英国电视格局",
+        "summary": "Comcast's Sky has agreed to buy the broadcast channels and streaming service of Britain's ITV for £1.6 billion ($2.13 billion), creating a British champion to compete with global players YouTube, Netflix, Amazon and Disney.",
+        "summary_zh": "康卡斯特旗下的天空电视台已同意以 16 亿英镑（合 21.3 亿美元）的价格收购英国独立电视台 (ITV) 的广播频道和流媒体服务，打造英国冠军品牌，与全球巨头 YouTube、Netflix、亚马逊和迪士尼竞争。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/itv-sky-reshape-british-tv-062014500.html",
+        "publisher": "Reuters",
+        "publish_time": 1783318814,
         "type": "News"
     },
     {
@@ -20,28 +40,8 @@
         "type": "News"
     },
     {
-        "title": "Jeff Bezos Held 60 Meetings To Secure Amazon Investors But 40 Declined His Offer Of $50K For 1% Ownership — Today, That Would Be Worth $25B",
-        "title_zh": "杰夫·贝佐斯举行了 60 次会议以确保亚马逊投资者的安全，但 40 人拒绝了他以 5 万美元换取 1% 所有权的报价 — 如今，这将价值 $25B",
-        "summary": "A $50,000 check can buy plenty of things. In 1995, it could have bought a sliver of an online bookstore that many people did not yet understand because they were still asking one very fair question: What’s the internet? Amazon...",
-        "summary_zh": "一张5万美元的支票可以买很多东西。 1995年，它本可以收购一家网上书店的一小部分，但许多人还不了解，因为他们仍在问一个非常公平的问题：什么是互联网？亚马逊...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-held-60-meetings-183108743.html",
-        "publisher": "Benzinga",
-        "publish_time": 1783276268,
-        "type": "News"
-    },
-    {
-        "title": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
-        "title_zh": "这家 AI 芯片股刚刚与 3 家超大规模公司签署了大规模交易，目前看起来仍然值得买入（提示：不是 Nvidia 或英特尔）",
-        "summary": "Data center chip sales could go from $0 to $15 billion in four years.",
-        "summary_zh": "四年内数据中心芯片销售额可能从 0 美元增至 150 亿美元。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stock-just-signed-085000284.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1783241400,
-        "type": "News"
-    },
-    {
         "title": "Foes of PNM takeover applaud as regulators order $400 million stock deal undone",
-        "title_zh": "监管机构下令撤消 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
+        "title_zh": "监管机构下令撤销 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
         "summary": "New Mexico regulators voted Thursday to nullify a year-old purchase of stock in the state’s largest electric utility by a private equity firm and issue penalties against both, finding they violated state law by completing the sale without approval.",
         "summary_zh": "新墨西哥州监管机构周四投票决定取消一家私募股权公司一年前购买该州最大电力公司股票的行为，并对两家公司进行处罚，发现他们未经批准就完成出售，违反了州法律。",
         "link": "https://finance.yahoo.com/energy/articles/foes-pnm-takeover-applaud-regulators-035900723.html",
