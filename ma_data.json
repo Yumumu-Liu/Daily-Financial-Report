@@ -1,5 +1,25 @@
 [
     {
+        "title": "JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World",
+        "title_zh": "摩根大通、美国银行和其他银行探索一项撼动支付世界的交易",
+        "summary": "A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.",
+        "summary_zh": "卡网络交易可能会收取更高的交易费用，但一些银行高管担心会出现强烈反对。",
+        "link": "https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1783378800,
+        "type": "News"
+    },
+    {
+        "title": "Garbage Stock GFL Rises on Potential Buyout. Here’s the Math.",
+        "title_zh": "垃圾股 GFL 因潜在收购而上涨。这是数学。",
+        "summary": "The stock has been weak lately, along with shares of other waste haulers, because investors want more AI in their portfolios and less garbage.",
+        "summary_zh": "该股以及其他垃圾运输公司的股票最近一直疲软，因为投资者希望他们的投资组合中有更多的人工智能和更少的垃圾。",
+        "link": "https://www.barrons.com/articles/gfl-stock-private-equity-takeout-apollo-management-2b66cd63?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1783369800,
+        "type": "News"
+    },
+    {
         "title": "Frankfurter Leben lines up offer for Athora’s German unit – report",
         "title_zh": "《法兰克福生活》正在为阿索拉的德国部门提出报价——报告",
         "summary": "Apollo Global Management-backed Athora has been weighing the future of its German operation, including a possible disposal, after finding it difficult to expand the business.",
@@ -10,36 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Broadcom, Apple extend chip supply deal through 2031",
-        "title_zh": "博通与苹果将芯片供应协议延长至 2031 年",
-        "summary": "Broadcom said on Monday it has agreed to expand its partnership with ‌Apple through 2031 to develop and supply ‌a range of custom chips, sending the shares of the chipmaker ​up nearly 4% in premarket trading.",
-        "summary_zh": "博通周一表示，已同意将与苹果的合作关系扩大到 2031 年，以开发和供应一系列定制芯片，这使得该芯片制造商的股价在盘前交易中上涨了近 4%。",
-        "link": "https://finance.yahoo.com/technology/articles/broadcom-apple-extend-chip-partnership-120712484.html",
-        "publisher": "Reuters",
-        "publish_time": 1783339632,
-        "type": "News"
-    },
-    {
-        "title": "ITV and Sky reshape British TV landscape with $2.1 billion deal",
-        "title_zh": "ITV 和 Sky 以 21 亿美元的交易重塑英国电视格局",
-        "summary": "Comcast's Sky has agreed to buy the broadcast channels and streaming service of Britain's ITV for £1.6 billion ($2.13 billion), creating a British champion to compete with global players YouTube, Netflix, Amazon and Disney.",
-        "summary_zh": "康卡斯特旗下的天空电视台已同意以 16 亿英镑（合 21.3 亿美元）的价格收购英国独立电视台 (ITV) 的广播频道和流媒体服务，打造英国冠军品牌，与全球巨头 YouTube、Netflix、亚马逊和迪士尼竞争。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/itv-sky-reshape-british-tv-062014500.html",
-        "publisher": "Reuters",
-        "publish_time": 1783318814,
-        "type": "News"
-    },
-    {
-        "title": "Super Micro Computer (SMCI) Expands Its Edge AI Computing Hardware Offerings",
-        "title_zh": "Super Micro Computer (SMCI) 扩展其边缘人工智能计算硬件产品",
-        "summary": "Super Micro Computer Inc. (NASDAQ:SMCI) is one of BlackRock’s 30 most important AI stocks right now. BlackRock is the largest institutional owner in the company, with 7.21% or 43.36 million outstanding shares, according to Yahoo Finance data.",
-        "summary_zh": "Super Micro Computer Inc.（纳斯达克股票代码：SMCI）是贝莱德目前最重要的 30 只人工智能股票之一。雅虎财经数据显示，贝莱德是该公司最大的机构所有者，拥有 7.21% 或 4336 万股流通股。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-expands-004425764.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1783298665,
-        "type": "News"
-    },
-    {
         "title": "Foes of PNM takeover applaud as regulators order $400 million stock deal undone",
         "title_zh": "监管机构下令撤销 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
         "summary": "New Mexico regulators voted Thursday to nullify a year-old purchase of stock in the state’s largest electric utility by a private equity firm and issue penalties against both, finding they violated state law by completing the sale without approval.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/energy/articles/foes-pnm-takeover-applaud-regulators-035900723.html",
         "publisher": "The Santa Fe New Mexican",
         "publish_time": 1783051140,
+        "type": "News"
+    },
+    {
+        "title": "HSBC Weighs Turkey Exit as Emirates NBD Explores Acquisition Deal",
+        "title_zh": "阿联酋国民银行 (Emirates NBD) 探索收购交易，汇丰银行考虑退出土耳其",
+        "summary": "HSBC is reportedly exploring a sale of its Turkey business to Emirates NBD, extending its global restructuring while sharpening its focus on core growth markets.",
+        "summary_zh": "据报道，汇丰银行正在考虑将其土耳其业务出售给阿联酋国民银行，以扩大其全球重组，同时加强对核心增长市场的关注。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-weighs-turkey-exit-emirates-134100000.html",
+        "publisher": "Zacks",
+        "publish_time": 1782913260,
         "type": "News"
     }
 ]
