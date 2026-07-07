@@ -1,42 +1,82 @@
 [
     {
-        "title": "Meta says US states are seeking $1.4 trillion in penalties in August youth safety trial",
-        "title_zh": "Meta称美国各州正在寻求8月份青少年安全审判中1.4万亿美元的罚款",
-        "summary": "By Diana Novak Jones July 6 (Reuters) - Meta Platforms said in a court filing on Monday that four states were seeking $1.4 trillion in penalties over accusations the company designed its Facebook and",
-        "summary_zh": "戴安娜·诺瓦克·琼斯 (Diana Novak Jones) 7 月 6 日（路透社） - Meta Platforms 在周一提交的一份法庭文件中表示，四个州正在寻求 1.4 万亿美元的罚款，指控该公司设计了 Facebook 和",
-        "link": "https://finance.yahoo.com/media-advertising/articles/meta-says-us-states-are-seeking-14-trillion-in-penalties-in-august-youth-safety-trial-034217946.html",
+        "title": "Nasdaq futures fall after record Samsung profit fails to calm AI chip worries",
+        "title_zh": "三星创纪录利润未能平息人工智能芯片担忧，纳斯达克期货下跌",
+        "summary": "By Shashwat Chauhan and Avinash P July 7 (Reuters) - Nasdaq futures dropped on Tuesday following declines in chip stocks as investors reassessed the sustainability of the AI-driven rally despite",
+        "summary_zh": "作者：Shashwat Chauhan 和 Avinash P 7 月 7 日（路透社）——随着芯片股下跌，纳斯达克期货周二下跌，因为投资者重新评估了人工智能驱动的涨势的可持续性，尽管",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-fall-samsungs-record-092753715.html",
         "publisher": "Reuters",
-        "publish_time": 1783395737,
+        "publish_time": 1783423202,
         "type": "News"
     },
     {
-        "title": "Wall Street closes higher as Broadcom rallies",
-        "title_zh": "随着博通上涨，华尔街收高",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-closes-higher-broadcom-225411916.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783378451,
+        "title": "Exclusive-China's DeepSeek developing its own AI chip, sources say",
+        "title_zh": "独家——消息人士称中国DeepSeek正在开发自己的AI芯片",
+        "summary": "July 7 () - Chinese startup DeepSeek is developing its own AI chip, according to three people familiar with the matter, a push that could reduce its reliance on Nvidia and Huawei chips, which it has depended on to train and run its globally popular models.",
+        "summary_zh": "7 月 7 日 - 据三名知情人士透露，中国初创公司 DeepSeek 正在开发自己的人工智能芯片，此举可能会减少其对英伟达和华为芯片的依赖，该公司一直依赖这些芯片来训练和运行其全球流行的模型。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-deepseek-developing-own-103437335.html",
+        "publisher": "Reuters",
+        "publish_time": 1783422419,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip with AI trade in focus",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，人工智能交易成为焦点",
-        "summary": "US stock futures edged up on the heels of a record-setting day on Wall Street.",
-        "summary_zh": "华尔街创纪录的一天后，美国股指期货小幅上涨。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-with-ai-trade-in-focus-223015294.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783377015,
-        "type": "News"
-    },
-    {
-        "title": "Intel-Backed AI Chip and Software Maker Syntiant Files for IPO",
-        "title_zh": "英特尔支持的人工智能芯片和软件制造商 Syntiant 申请 IPO",
-        "summary": "(Bloomberg) -- Syntiant Corp., a company making semiconductors and software for artificial intelligence, filed for an initial public offering to tap investors’ enthusiasm for the technology.",
-        "summary_zh": "（彭博社）——Syntiant Corp. 是一家生产半导体和人工智能软件的公司，已申请首次公开募股，以激发投资者对该技术的热情。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/intel-backed-ai-chip-software-222745613.html",
+        "title": "Mag 7 Loses Market Swagger as AI Trade Spreads Beyond Behemoths",
+        "title_zh": "随着人工智能贸易规模超越庞然大物，Mag 7 失去了市场霸气",
+        "summary": "(Bloomberg) -- For years, the Magnificent Seven tech giants commanded investors’ attention, dominating the S&P 500 Index and determining which way the overall stock market was headed.",
+        "summary_zh": "（彭博社）——多年来，七大科技巨头一直吸引着投资者的注意力，主导着标准普尔 500 指数并决定了整个股市的走向。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mag-7-loses-market-swagger-104934165.html",
         "publisher": "Bloomberg",
-        "publish_time": 1783376865,
+        "publish_time": 1783421374,
+        "type": "News"
+    },
+    {
+        "title": "Tech Weekly: Tesla's surge, robot footballers target glory",
+        "title_zh": "科技周刊：特斯拉飙升，机器人足球运动员瞄准荣耀",
+        "summary": "STORY: From Tesla driving up sales to robot footballers competing in their own competition...This is Tech Weekly.:: Tech WeeklyTesla beat Wall Street estimates when it posted record second-quarter deliveries.The electric vehicle maker delivered more than 480,000 vehicles betwe...",
+        "summary_zh": "故事：从特斯拉提高销量到机器人足球运动员参加自己的比赛...这是《科技周刊》。::《科技周刊》特斯拉公布第二季度交付量创纪录，超出了华尔街的预期。这家电动汽车制造商在 2019 年交付了超过 480,000 辆汽车...",
+        "link": "https://finance.yahoo.com/video/tech-weekly-teslas-surge-robot-101226793.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1783419146,
+        "type": "News"
+    },
+    {
+        "title": "China-based Apple supplier Luxshare sets Hong Kong listing at top of range, raises over $3 billion",
+        "title_zh": "中国苹果供应商立讯精密将香港上市列为首选，融资超过 30 亿美元",
+        "summary": "China-headquartered Luxshare Precision Industry said on Tuesday it had priced its Hong ‌Kong listing at the top end of ‌its marketed range, raising about HK$24.27 billion ($3.09 billion).",
+        "summary_zh": "总部位于中国的立讯精密工业周二表示，其在香港上市的定价处于其上市区间的上限，筹集资金约 242.7 亿港元（30.9 亿美元）。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/china-based-apple-supplier-luxshare-095133717.html",
+        "publisher": "Reuters",
+        "publish_time": 1783417893,
+        "type": "News"
+    },
+    {
+        "title": "Stocks stumble as tech slides despite Samsung's record profit; oil rises",
+        "title_zh": "尽管三星盈利创纪录，但随着科技股下滑，股市下跌；石油上涨",
+        "summary": "By Amanda Cooper LONDON, July 7 (Reuters) - Global stocks fell on Tuesday as technology shares slid despite blockbuster results from Samsung Electronics, with investors remaining concerned about the",
+        "summary_zh": "路透伦敦 7 月 7 日 - 尽管三星电子取得了重磅业绩，但全球股市周二下跌，科技股下跌，投资者仍对",
+        "link": "https://finance.yahoo.com/news/stocks-ease-despite-upbeat-samsung-020825000.html",
+        "publisher": "Reuters",
+        "publish_time": 1783416621,
+        "type": "News"
+    },
+    {
+        "title": "Michaels Crafts an Unlikely Comeback Under Apollo",
+        "title_zh": "迈克尔斯在阿波罗的带领下实现了不太可能的复出",
+        "summary": "(Bloomberg) -- When Michaels Cos. tapped a new CEO in early 2025, the company’s chairman, 25-year Apollo Global Management Inc.",
+        "summary_zh": "（彭博社）——当 Michaels Cos. 于 2025 年初任命新首席执行官时，该公司董事长、拥有 25 年历史的 Apollo Global Management Inc.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michaels-crafts-unlikely-comeback-under-093020602.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783416620,
+        "type": "News"
+    },
+    {
+        "title": "NYSE president optimistic about forthcoming IPOs, says economy is doing 'extraordinarily well'",
+        "title_zh": "纽约证券交易所总裁对即将举行的首次公开募股持乐观态度，称经济表现“非常好”",
+        "summary": "New York Stock Exchange President Lynn Martin told Yahoo Finance that she feels optimistic about the stock market and the economy as momentum builds for companies going public following a long IPO drought.",
+        "summary_zh": "纽约证券交易所总裁林恩·马丁 (Lynn Martin) 告诉雅虎财经，她对股市和经济感到乐观，因为在经历了长期 IPO 荒之后，公司上市的势头正在增强。",
+        "link": "https://finance.yahoo.com/markets/article/nyse-president-optimistic-about-forthcoming-ipos-says-economy-is-doing-extraordinarily-well-090000313.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783414800,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/video/why-microsoft-cut-3-200-220300732.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1783375380,
-        "type": "News"
-    },
-    {
-        "title": "Apple's $2,500 foldable iPhone could sell out instantly",
-        "title_zh": "苹果售价 2,500 美元的可折叠 iPhone 可能会立即售空",
-        "summary": "Yahoo Finance Tech Editor Dan Howley reacts to analyst predictions that Apple's long-rumored foldable iPhone could instantly sell out upon its launch, despite a massive projected price tag of up to $2,500.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 回应了分析师的预测，即传闻已久的苹果可折叠 iPhone 可能会在推出后立即售空，尽管预计售价高达 2,500 美元。",
-        "link": "https://finance.yahoo.com/video/apples-2-500-foldable-iphone-214500723.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783374300,
-        "type": "News"
-    },
-    {
-        "title": "Why this AI chip startup could rival Nvidia",
-        "title_zh": "为什么这家人工智能芯片初创公司可以与英伟达相媲美",
-        "summary": "Etched co-founder and president Robert Wachen explains how his company fits into the artificial intelligence (AI) trade and how it compares to Nvidia (NVDA).",
-        "summary_zh": "Etched 联合创始人兼总裁 Robert Wachen 解释了他的公司如何融入人工智能 (AI) 行业以及与 Nvidia (NVDA) 的比较。",
-        "link": "https://finance.yahoo.com/video/why-this-ai-chip-startup-could-rival-nvidia-211438725.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783372478,
-        "type": "News"
-    },
-    {
-        "title": "Trading Day: Chips bounce back, oil eases",
-        "title_zh": "交易日：筹码反弹，油价回落",
-        "summary": "By Stephen Culp NEW YORK, July 6 (Reuters) - Wall Street advanced on Monday as a rebound in semiconductors put the Nasdaq on top.",
-        "summary_zh": "作者：Stephen Culp 纽约，7 月 6 日（路透社）——周一华尔街股市上涨，半导体股反弹使得纳斯达克指数位居榜首。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chips-bounce-back-210912860.html",
-        "publisher": "Reuters",
-        "publish_time": 1783372152,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia denies report its next-generation AI server faces delays, says roadmap is intact",
-        "title_zh": "英伟达否认其下一代人工智能服务器面临延迟的报道，称路线图完好无损",
-        "summary": "Nvidia is pushing back on a report that its next-generation Kyber server will be delayed by a year.",
-        "summary_zh": "Nvidia 正在反驳有关其下一代 Kyber 服务器将推迟一年的报道。",
-        "link": "https://finance.yahoo.com/technology/article/nvidia-denies-report-its-next-generation-ai-server-faces-delays-says-roadmap-is-intact-183310296.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783362790,
         "type": "News"
     }
 ]

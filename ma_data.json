@@ -1,5 +1,25 @@
 [
     {
+        "title": "Broadcom signs multi-year chip supply deal with Apple until 2031",
+        "title_zh": "博通与苹果签署多年芯片供应协议直至 2031 年",
+        "summary": "The semiconductor group will supply custom silicon components for multiple future Apple devices under a new agreement running through 2031.",
+        "summary_zh": "根据一项持续到 2031 年的新协议，该半导体集团将为未来的多种 Apple 设备提供定制硅元件。",
+        "link": "https://finance.yahoo.com/technology/articles/broadcom-signs-multi-chip-supply-090935282.html",
+        "publisher": "Verdict",
+        "publish_time": 1783415375,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom (AVGO) Extends Apple Deal Following A Fresh Look At Its Fair Value",
+        "title_zh": "博通 (AVGO) 重新审视其公允价值后延长了与苹果的交易",
+        "summary": "Broadcom (AVGO) extended its long running chip supply partnership with Apple through 2031, sending the stock higher as investors weighed what fresh multi year custom ASIC commitments might mean for revenue visibility and AI exposure. See our latest analysis for Broadcom.",
+        "summary_zh": "博通 (AVGO) 将与苹果的长期芯片供应合作伙伴关系延长至 2031 年，随着投资者权衡新的多年定制 ASIC 承诺可能对收入可见性和人工智能敞口意味着什么，该股走高。请参阅我们对博通的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-extends-apple-deal-052756072.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1783402076,
+        "type": "News"
+    },
+    {
         "title": "JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World",
         "title_zh": "摩根大通、美国银行和其他银行探索一项撼动支付世界的交易",
         "summary": "A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/frankfurter-leben-lines-offer-athora-121332183.html",
         "publisher": "Life Insurance International",
         "publish_time": 1783340012,
-        "type": "News"
-    },
-    {
-        "title": "Foes of PNM takeover applaud as regulators order $400 million stock deal undone",
-        "title_zh": "监管机构下令撤销 4 亿美元股票交易，PNM 收购的反对者欢呼雀跃",
-        "summary": "New Mexico regulators voted Thursday to nullify a year-old purchase of stock in the state’s largest electric utility by a private equity firm and issue penalties against both, finding they violated state law by completing the sale without approval.",
-        "summary_zh": "新墨西哥州监管机构周四投票决定取消一家私募股权公司一年前购买该州最大电力公司股票的行为，并对两家公司进行处罚，发现他们未经批准就完成出售，违反了州法律。",
-        "link": "https://finance.yahoo.com/energy/articles/foes-pnm-takeover-applaud-regulators-035900723.html",
-        "publisher": "The Santa Fe New Mexican",
-        "publish_time": 1783051140,
-        "type": "News"
-    },
-    {
-        "title": "HSBC Weighs Turkey Exit as Emirates NBD Explores Acquisition Deal",
-        "title_zh": "阿联酋国民银行 (Emirates NBD) 探索收购交易，汇丰银行考虑退出土耳其",
-        "summary": "HSBC is reportedly exploring a sale of its Turkey business to Emirates NBD, extending its global restructuring while sharpening its focus on core growth markets.",
-        "summary_zh": "据报道，汇丰银行正在考虑将其土耳其业务出售给阿联酋国民银行，以扩大其全球重组，同时加强对核心增长市场的关注。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-weighs-turkey-exit-emirates-134100000.html",
-        "publisher": "Zacks",
-        "publish_time": 1782913260,
         "type": "News"
     }
 ]
