@@ -1,15 +1,5 @@
 [
     {
-        "title": "SpaceX Is Quickly Entering Index Funds. Will OpenAI and Anthropic do the Same After Their IPOs?",
-        "title_zh": "SpaceX 正在迅速进入指数基金。 OpenAI 和 Anthropic IPO 后会采取同样的做法吗？",
-        "summary": "SpaceX's fast move into index funds could reshape how investors think about future AI IPOs.",
-        "summary_zh": "SpaceX 快速进军指数基金可能会重塑投资者对未来人工智能 IPO 的看法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-quickly-entering-index-funds-232000314.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1783466400,
-        "type": "News"
-    },
-    {
         "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain",
         "title_zh": "SK 海力士着眼于美国大规模上市：ETF 有望获利",
         "summary": "SK Hynix's blockbuster U.S. listing could reshape semiconductor investing. Here's how chip, Korea, Nasdaq and IPO ETFs stand to benefit.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
+        "type": "News"
+    },
+    {
+        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
+        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
+        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
+        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
+        "publisher": "Zacks",
+        "publish_time": 1780419600,
         "type": "News"
     }
 ]

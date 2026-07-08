@@ -1,72 +1,92 @@
 [
     {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures trade flat with Iran and the Fed in focus",
-        "title_zh": "今日股市：标准普尔 500 指数、纳斯达克指数、道琼斯指数期货持平，伊朗和美联储成为焦点",
-        "summary": "The major gauges wavered after strikes in Iran resumed to end a brief period of stability.",
-        "summary_zh": "伊朗的罢工恢复结束了短暂的稳定期后，主要指标出现动摇。",
-        "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-230111117.html",
+        "title": "French antitrust watchdog orders Meta to resume talks with media groups over publishing fees",
+        "title_zh": "法国反垄断监管机构命令 Meta 恢复与媒体集团就出版费用进行谈判",
+        "summary": "PARIS, July 8 () - France's competition authority on Wednesday ordered Meta Platforms to resume talks with French ‌media groups over payments for publishing content, after the ‌publishers complained following the collapse of previous negotiations.",
+        "summary_zh": "巴黎，7 月 8 日 - 法国竞争主管机构周三下令 Meta Platforms 恢复与法国媒体集团就出版内容付费问题进行谈判，此前出版商因之前的谈判破裂而提出抱怨。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/french-antitrust-watchdog-orders-meta-093634084.html",
+        "publisher": "Reuters",
+        "publish_time": 1783507194,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech joins Calgary Stampede oil bash, as Canada courts data centers",
+        "title_zh": "加拿大寻求数据中心，大型科技公司加入卡尔加里牛仔节石油狂欢",
+        "summary": "By Amanda Stephenson CALGARY, July 8 (Reuters) - Big Tech has joined the party at the Calgary Stampede, a sign of growing interest in Canada from U.S.-based hyperscalers as the province of Alberta",
+        "summary_zh": "作者：Amanda Stephenson 卡尔加里，7 月 8 日（路透社）——大型科技公司加入了卡尔加里牛仔节的行列，这表明美国的超大规模企业对加拿大的兴趣日益浓厚，如艾伯塔省",
+        "link": "https://finance.yahoo.com/news/big-tech-joins-calgary-stampede-100211421.html",
+        "publisher": "Reuters",
+        "publish_time": 1783506108,
+        "type": "News"
+    },
+    {
+        "title": "Crypto firms prepare defenses as quantum threat to encryption draws nearer",
+        "title_zh": "随着加密的量子威胁越来越近，加密货币公司准备防御",
+        "summary": "The cryptocurrency industry is starting to prepare for the threat of quantum computing as recent advances fuel concerns that the technology could soon be able to crack the cryptography that protects transactions and digital wallets.",
+        "summary_zh": "加密货币行业正在开始为量子计算的威胁做好准备，因为最近的进展引发了人们的担忧，即该技术可能很快就能破解保护交易和数字钱包的密码学。",
+        "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-firms-prepare-defenses-quantum-100220845.html",
+        "publisher": "Reuters",
+        "publish_time": 1783504940,
+        "type": "News"
+    },
+    {
+        "title": "Apple to spend $30 billion in Broadcom chips deal that will see Colorado factory expand",
+        "title_zh": "苹果将​​斥资 300 亿美元收购博通芯片交易，科罗拉多州工厂将扩建",
+        "summary": "Apple plans to spend more than $30 billion as part ‌of a chip-supply agreement reached earlier this ‌week with Broadcom that will also see the chipmaker expand a ​factory in Colorado, the companies said on Wednesday.",
+        "summary_zh": "两家公司周三表示，苹果计划斥资超过 300 亿美元，作为本周早些时候与博通达成的芯片供应协议的一部分，该芯片制造商还将扩建科罗拉多州的一家工厂。",
+        "link": "https://finance.yahoo.com/technology/articles/apple-spend-30-billion-broadcom-100100178.html",
+        "publisher": "Reuters",
+        "publish_time": 1783504860,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech is dodging the chip stocks wipeout: AlphaCheck",
+        "title_zh": "AlphaCheck：大型科技公司正在躲避芯片股的暴跌",
+        "summary": "Memory stocks are in a bear market, but the Magnificent Seven are back on the offense — leading the market higher once again.",
+        "summary_zh": "内存股正处于熊市，但七巨头重新发起进攻，再次引领市场走高。",
+        "link": "https://finance.yahoo.com/markets/article/big-tech-is-dodging-the-chip-stocks-wipeout-alphacheck-100000687.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783465271,
+        "publish_time": 1783504800,
         "type": "News"
     },
     {
-        "title": "DeepSeek looks to reduce reliance on Nvidia with own AI chip",
-        "title_zh": "DeepSeek 希望通过自己的 AI 芯片减少对 Nvidia 的依赖",
-        "summary": "Yahoo Finance's Dan Howley joins Josh Lipton to examine DeepSeek's development of a custom AI chip to bypass U.S. export restrictions and reduce its reliance on Nvidia.",
-        "summary_zh": "雅虎财经的 Dan Howley 与 Josh Lipton 一起研究 DeepSeek 开发的定制 AI 芯片，以绕过美国的出口限制并减少对 Nvidia 的依赖。",
-        "link": "https://finance.yahoo.com/video/deepseek-looks-to-reduce-reliance-on-nvidia-with-own-ai-chip-203313261.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783456393,
-        "type": "News"
-    },
-    {
-        "title": "US Chief Design Officer Joe Gebbia breaks down the website creation for Trump Accounts",
-        "title_zh": "美国首席设计官乔·杰比亚 (Joe Gebbia) 详细介绍了特朗普账户的网站创建过程",
-        "summary": "Yahoo Finance's Jennifer Schonberger spoke with the first-ever Chief Design Officer of the United States, Joe Gebbia, highlighting the rollout, engineering process, and early funding milestones of the new \"Trump Accounts\" savings and trading platform for children.",
-        "summary_zh": "雅虎财经的 Jennifer Schonberger 与美国首位首席设计官 Joe Gebbia 进行了交谈，重点介绍了新的儿童储蓄和交易平台“特朗普账户”的推出、工程流程和早期融资里程碑。",
-        "link": "https://finance.yahoo.com/video/us-chief-design-officer-joe-gebbia-breaks-down-the-website-creation-for-trump-accounts-152532047.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783437932,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX to join the Nasdaq 100: How Wall Street feels about the Elon Musk story",
-        "title_zh": "SpaceX 加入纳斯达克 100 指数：华尔街如何看待埃隆·马斯克的故事",
-        "summary": "SpaceX (SPCX) will join the Nasdaq 100 (^NDX) on Tuesday after going public via an IPO over 3 weeks ago.",
-        "summary_zh": "SpaceX (SPCX) 在三周前通过 IPO 上市后，将于周二加入纳斯达克 100 指数 (^NDX)。",
-        "link": "https://finance.yahoo.com/video/spacex-join-nasdaq-100-wall-140000776.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783432800,
-        "type": "News"
-    },
-    {
-        "title": "Who will be the AI trade's real winners: The makers vs. the takers?",
-        "title_zh": "谁将成为人工智能行业的真正赢家：制造者与接受者？",
-        "summary": "Samsung Electronics (005930.KS) released preliminary second quarter earnings results on Tuesday, reporting a 19-fold profit jump from a year ago, amounting to $58 billion.",
-        "summary_zh": "三星电子(005930.KS)周二公布了第二季度初步财报，利润同比增长19倍，达到580亿美元。",
-        "link": "https://finance.yahoo.com/video/who-will-be-the-ai-trades-real-winners-the-makers-vs-the-takers-133155603.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783431115,
-        "type": "News"
-    },
-    {
-        "title": "NYSE president optimistic about forthcoming IPOs, says economy is doing 'extraordinarily well'",
-        "title_zh": "纽约证券交易所总裁对即将举行的首次公开募股持乐观态度，称经济表现“非常好”",
-        "summary": "New York Stock Exchange President Lynn Martin told Yahoo Finance that she feels optimistic about the stock market and the economy as momentum builds for companies going public following a long IPO drought.",
-        "summary_zh": "纽约证券交易所总裁林恩·马丁 (Lynn Martin) 告诉雅虎财经，她对股市和经济感到乐观，因为在经历了长期 IPO 荒之后，公司上市的势头正在增强。",
-        "link": "https://finance.yahoo.com/markets/article/nyse-president-optimistic-about-forthcoming-ipos-says-economy-is-doing-extraordinarily-well-090000313.html",
+        "title": "Apple announces chip deal with Broadcom worth more than $30 billion",
+        "title_zh": "苹果宣布与博通达成价值超过 300 亿美元的芯片交易",
+        "summary": "Apple announced a $30 billion deal with Broadcom.",
+        "summary_zh": "苹果宣布与博通达成价值 300 亿美元的交易。",
+        "link": "https://finance.yahoo.com/technology/article/apple-announces-chip-deal-with-broadcom-worth-more-than-30-billion-100000097.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783414800,
+        "publish_time": 1783504800,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as semiconductors sell off, oil prices jump",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克指数因半导体抛售而下跌，油价上涨",
-        "summary": "US stocks were mixed on the heels of a record-setting day on Wall Street.",
-        "summary_zh": "华尔街创纪录的一天后，美国股市涨跌互现。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-futures-slip-after-samsung-results-spark-chip-sell-off-223015294.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783377015,
+        "title": "US stock futures tumble as Trump says Iran deal is 'over'; oil climbs",
+        "title_zh": "特朗普称伊朗协议“结束”，美国股指期货暴跌；石油攀升",
+        "summary": "July 8 (Reuters) - U.S. stock index futures slid sharply on Wednesday, with Nasdaq futures touching a four-week low after President Donald Trump said a memorandum of understanding aimed at ending the",
+        "summary_zh": "路透7月8日 - 美国股指期货周三大幅下跌，纳斯达克期货触及四周新低，此前美国总统特朗普表示将签署旨在结束美国股指期货的谅解备忘录。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-tumble-trump-091610475.html",
+        "publisher": "Reuters",
+        "publish_time": 1783502170,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia’s $1 Trillion Slide Sends Valuation to Pre-AI Boom Levels",
+        "title_zh": "Nvidia 的 1 万亿美元下滑使估值达到人工智能繁荣之前的水平",
+        "summary": "(Bloomberg) -- After losing roughly $1 trillion in market value in less than two months, Nvidia Corp.’s stock is the cheapest it’s been since before the AI boom kicked off and sent the shares into the stratosphere.Most Read from BloombergGreece Offers Bounty to Catch Ravenous ...",
+        "summary_zh": "（彭博社）——在不到两个月的时间里，英伟达公司的市值损失了大约 1 万亿美元，而现在，英伟达公司的股价已经达到了自人工智能热潮开始并将其股价推向平流层之前以来的最低水平。彭博社希腊的大多数文章都提供了赏金以吸引贪婪......",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-1-trillion-slide-sends-084308296.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783500188,
+        "type": "News"
+    },
+    {
+        "title": "Apple loses challenges against EU rules to curb Big Tech",
+        "title_zh": "苹果在针对欧盟遏制大型科技规则的挑战中败诉",
+        "summary": "Apple lost its challenge on Wednesday against landmark EU rules that designate its app stores and operating system iOS as gatekeepers subject to obligations ‌aimed at giving rivals more room to compete.",
+        "summary_zh": "周三，苹果公司在对具有里程碑意义的欧盟规则的挑战中失败，该规则指定其应用程序商店和操作系统 iOS 为看门人，并遵守旨在为竞争对手提供更多竞争空间的义务。",
+        "link": "https://finance.yahoo.com/technology/articles/eu-court-rejects-apples-challenge-075945996.html",
+        "publisher": "Reuters",
+        "publish_time": 1783497585,
         "type": "News"
     }
 ]
