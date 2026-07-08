@@ -1,5 +1,25 @@
 [
     {
+        "title": "SpaceX Is Quickly Entering Index Funds. Will OpenAI and Anthropic do the Same After Their IPOs?",
+        "title_zh": "SpaceX 正在迅速进入指数基金。 OpenAI 和 Anthropic IPO 后会采取同样的做法吗？",
+        "summary": "SpaceX's fast move into index funds could reshape how investors think about future AI IPOs.",
+        "summary_zh": "SpaceX 快速进军指数基金可能会重塑投资者对未来人工智能 IPO 的看法。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-quickly-entering-index-funds-232000314.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783466400,
+        "type": "News"
+    },
+    {
+        "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain",
+        "title_zh": "SK 海力士着眼于美国大规模上市：ETF 有望获利",
+        "summary": "SK Hynix's blockbuster U.S. listing could reshape semiconductor investing. Here's how chip, Korea, Nasdaq and IPO ETFs stand to benefit.",
+        "summary_zh": "SK 海力士在美国的重磅上市可能会重塑半导体投资。以下是芯片、韩国、纳斯达克和 IPO ETF 的受益方式。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-eyes-massive-u-160000193.html",
+        "publisher": "Zacks",
+        "publish_time": 1783440000,
+        "type": "News"
+    },
+    {
         "title": "IPOs- How Much is TOO Much",
         "title_zh": "首次公开募股——多少才算太多",
         "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
-        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "publish_time": 1780419600,
-        "type": "News"
-    },
-    {
-        "title": "Bill Ackman’s Pershing Square to Raise $5 Billion from IPO",
-        "title_zh": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 将通过 IPO 筹集 50 亿美元",
-        "summary": "Closely followed investor Bill Ackman looks likely to raise $5 billion from the upcoming initial public offering (IPO) of his investment ​management company Pershing Square.",
-        "summary_zh": "备受关注的投资者比尔·阿克曼 (Bill Ackman) 看来可能会通过其投资管理公司潘兴广场 (Pershing Square) 即将进行的首次公开募股 (IPO) 筹集 50 亿美元。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-pershing-square-raise-232739846.html",
-        "publisher": "TipRanks",
-        "publish_time": 1777332459,
         "type": "News"
     }
 ]
