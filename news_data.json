@@ -1,32 +1,62 @@
 [
     {
-        "title": "S&P 500 ends down after Trump says Iran deal is 'over'",
-        "title_zh": "特朗普表示伊朗协议“结束”后标普 500 指数收低",
-        "summary": "STORY: U.S. stocks finished mostly lower on Wednesday, with the Dow dropping about 1% and the S&P 500 shedding more than a quarter of a percent.",
-        "summary_zh": "故事：美国股市周三收盘大多走低，道指下跌约 1%，标准普尔 500 指数跌幅超过 25%。",
-        "link": "https://finance.yahoo.com/video/p-500-ends-down-trump-231012117.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783552212,
+        "title": "Exclusive-Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+        "title_zh": "备忘录显示，Exclusive-Meta 将于 9 月将人工智能芯片投入生产，希望将计算能力提高一倍",
+        "summary": "Meta Platforms plans to start manufacturing an artificial intelligence chip from September as part of its plan to boost overall ‌computing power to 14 gigawatts next year, showed an internal memo reviewed by Reuters.",
+        "summary_zh": "路透社查阅的一份内部备忘录显示，Meta Platforms 计划从 9 月开始制造人工智能芯片，作为明年将整体计算能力提高到 14 吉瓦计划的一部分。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-meta-put-ai-chip-112222555.html",
+        "publisher": "Reuters",
+        "publish_time": 1783596142,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rose after US strikes Iran for second day",
-        "title_zh": "今日股市：美国连续第二天袭击伊朗后道琼斯指数、标准普尔 500 指数和纳斯达克期货上涨",
-        "summary": "US stock futures slipped as the US struck Iran for the second day in a row, hours after President Trump declared the ceasefire between the two countries \"over.\"",
-        "summary_zh": "在特朗普总统宣布两国停火“结束”数小时后，美国连续第二天袭击伊朗，美国股指期货下跌。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rose-after-us-strikes-iran-for-second-day-223149196.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783549909,
-        "type": "News"
-    },
-    {
-        "title": "Jeff Bezos's Blue Origin is looking to fuel growth. What does that mean for rival SpaceX?",
-        "title_zh": "杰夫·贝索斯的蓝色起源正在寻求推动增长。这对竞争对手 SpaceX 意味着什么？",
-        "summary": "SpaceX (SPCX) rival Blue Origin, which is owned by Amazon (AMZN) founder Jeff Bezos, is reportedly seeking $10 billion in fresh funding. Yahoo Finance Breaking Business News Reporter Jake Conley breaks down the details.",
-        "summary_zh": "据报道，亚马逊 (AMZN) 创始人杰夫·贝索斯 (Jeff Bezos) 旗下的 SpaceX (SPCX) 竞争对手蓝色起源 (Blue Origin) 正在寻求 100 亿美元的新资金。雅虎财经突发商业新闻记者杰克·康利 (Jake Conley) 详细分析了这些细节。",
-        "link": "https://finance.yahoo.com/video/jeff-bezoss-blue-origin-is-looking-to-fuel-growth-what-does-that-mean-for-rival-spacex-210129232.html",
+        "title": "How Jeff Bezos fueled Lyft's comeback: CEO",
+        "title_zh": "杰夫·贝佐斯如何推动 Lyft 东山再起：首席执行官",
+        "summary": "Lyft CEO David Risher explains to Yahoo Finance Executive Editor Brian Sozzi how Jeff Bezos's customer obsession became his operating playbook to launch a hard reset at Lyft.",
+        "summary_zh": "Lyft 首席执行官 David Risher 向雅虎财经执行编辑 Brian Sozzi 解释了 Jeff Bezos 对客户的痴迷如何成为他在 Lyft 实施硬重置的运营手册。",
+        "link": "https://finance.yahoo.com/video/jeff-bezos-fueled-lyfts-comeback-110000331.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1783544489,
+        "publish_time": 1783594800,
+        "type": "News"
+    },
+    {
+        "title": "Google appeals Indian ruling over its ads platform, citing consumer harm",
+        "title_zh": "谷歌以消费者伤害为由，对印度对其广告平台的裁决提出上诉",
+        "summary": "By Aditya Kalra NEW DELHI, July 9 (Reuters) - Google has challenged an Indian court ruling that it infringed on a company's trademark rights by allowing rivals to use its name as an advertising",
+        "summary_zh": "新德里，7 月 9 日（路透社） - 谷歌对印度法院的一项裁决提出质疑，该裁决称其允许竞争对手使用其名称作为广告，侵犯了该公司的商标权",
+        "link": "https://finance.yahoo.com/media-advertising/articles/google-appeals-indian-ruling-over-103527622.html",
+        "publisher": "Reuters",
+        "publish_time": 1783593429,
+        "type": "News"
+    },
+    {
+        "title": "AI Weekly: Samsung's massive profits, Microsoft's big layoffs",
+        "title_zh": "AI周刊：三星巨额利润，微软大裁员",
+        "summary": "STORY: From Samsung's huge quarter to Microsoft's big lay offs...This is AI Weekly.:: AI WeeklySamsung flagged a 19-fold jump in second-quarter profits from a year earlier.The South Korean giant estimated April-June operating profit at just over $58 billion - ahead of analyst ...",
+        "summary_zh": "故事：从三星的巨大季度到微软的大规模裁员......这是 AI Weekly.:: AI Weekly三星表示第二季度利润同比增长 19 倍。这家韩国巨头预计 4 月至 6 月的营业利润略高于 580 亿美元 - 领先于分析师......",
+        "link": "https://finance.yahoo.com/video/ai-weekly-samsungs-massive-profits-095459626.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1783593200,
+        "type": "News"
+    },
+    {
+        "title": "Nigerian Stocks Vault Past Korea’s Kospi to Claim World’s Top Returns",
+        "title_zh": "尼日利亚股市超越韩国 Kospi 成为全球回报率最高的股票",
+        "summary": "(Bloomberg) -- Nigerian equities have overtaken South Korea’s to hand investors the highest dollar-based returns this year, as souring sentiment on artificial-intelligence stocks pushes the Asian nation’s world-beating rally into bear territory.",
+        "summary_zh": "（彭博社）——尼日利亚股市已经超越韩国股市，为投资者带来了今年最高的以美元为基础的回报，因为人工智能股票的情绪恶化将这个亚洲国家的世界领先的涨势推入了熊市。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nigerian-stocks-vault-past-korea-102646964.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783592806,
+        "type": "News"
+    },
+    {
+        "title": "India removes import duty on some electronics, smartphone parts",
+        "title_zh": "印度取消部分电子产品、智能手机零部件的进口关税",
+        "summary": "India has scrapped import duties ‌on some parts used to make ‌mobile phones and other electronic devices, removing the ​current 7.5% and 5% levies, in a move that could help companies like Apple and Xiaomi.",
+        "summary_zh": "印度取消了一些用于制造手机和其他电子设备的零部件的进口关税，取消了目前的 7.5% 和 5% 的关税，此举可能有助于苹果和小米等公司。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/india-removes-import-duty-electronics-094957498.html",
+        "publisher": "Reuters",
+        "publish_time": 1783590597,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/technology/article/meta-is-expanding-its-data-center-build-out-to-canada-203557315.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1783542957,
-        "type": "News"
-    },
-    {
-        "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
-        "title_zh": "博通股价因苹果人工智能芯片交易而上涨，而英伟达的相对股价下跌",
-        "summary": "Yahoo Finance's Josh Lipton takes a closer look at some of Wednesday's trending tickers and stories, including Nvidia's (NVDA) relative stock price; Broadcom's (AVGO) and Apple's (AAPL) AI chip deal; and travel-related stocks like Carnival (CCL), United (UAL), and Delta (DAL).",
-        "summary_zh": "雅虎财经的 Josh Lipton 仔细研究了周三的一些热门股票和故事，包括 Nvidia (NVDA) 的相对股价；博通（AVGO）和苹果（AAPL）的人工智能芯片交易；以及与旅游相关的股票，如嘉年华 (CCL)、联合航空 (UAL) 和达美航空 (DAL)。",
-        "link": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783541068,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia's $1 trillion rout: Do you buy or sell the stock here?",
-        "title_zh": "英伟达1万亿美元暴跌：你在这里买还是卖股票？",
-        "summary": "What's the play on Nvidia?",
-        "summary_zh": "Nvidia 有什么玩法？",
-        "link": "https://finance.yahoo.com/markets/article/nvidias-1-trillion-rout-do-you-buy-or-sell-the-stock-here-190000970.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783537200,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia's valuation just hit a multiyear low — even as revenue sets records",
-        "title_zh": "英伟达的估值刚刚触及多年来的低点——尽管收入创下了纪录",
-        "summary": "Nvidia's forward P/E ratio is at its lowest since 2019.",
-        "summary_zh": "英伟达的远期市盈率处于 2019 年以来的最低水平。",
-        "link": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783526388,
         "type": "News"
     }
 ]

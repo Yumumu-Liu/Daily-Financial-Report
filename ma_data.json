@@ -1,12 +1,32 @@
 [
     {
-        "title": "Apple (AAPL) Secures Largest Ever US Chip Deal With Broadcom For $30 Billion",
-        "title_zh": "苹果 (AAPL) 以 300 亿美元与博通达成美国有史以来最大的芯片交易",
-        "summary": "Apple (NasdaqGS:AAPL) has agreed a multi year US chip manufacturing and co development deal with Broadcom valued at more than US$30b. The agreement runs through 2031 and covers the production of over 15b custom chips for Apple products in the US.",
-        "summary_zh": "Apple (NasdaqGS:AAPL) 已与 Broadcom 达成一项为期多年的美国芯片制造和联合开发协议，价值超过 300 亿美元。该协议有效期至 2031 年，涵盖在美国为 Apple 产品生产超过 15b 颗定制芯片。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-secures-largest-ever-231307290.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1783552387,
+        "title": "Chip stocks rise as Trump says Iran called for a deal",
+        "title_zh": "特朗普表示伊朗要求达成协议，芯片股上涨",
+        "summary": "S&P 500 and Nasdaq futures pointed higher Thursday after Trump said Iran reached out, even as U.S.-Iran fighting continued overnight",
+        "summary_zh": "在特朗普表示伊朗伸出援手后，标准普尔 500 指数和纳斯达克期货周四走高，尽管美伊战斗隔夜仍在继续",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-rise-trump-says-113718438.html",
+        "publisher": "Quartz",
+        "publish_time": 1783597038,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Barclays Readies $875 Million Debt Sale for Blackstone's Senior Takeover",
+        "title_zh": "市场热议：巴克莱银行准备出售 8.75 亿美元债务以收购黑石集团的高级收购",
+        "summary": "Barclays (BCS) is preparing to sell about $875 million of debt financing to support Blackstone (BX)",
+        "summary_zh": "巴克莱银行 (BCS) 准备出售约 8.75 亿美元债务融资以支持黑石 (BX)",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-barclays-readies-875-105805237.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1783594685,
+        "type": "News"
+    },
+    {
+        "title": "Apple signs $30bn Broadcom deal to boost US chip production",
+        "title_zh": "苹果与博通签署 300 亿美元协议以提高美国芯片产量",
+        "summary": "The agreement aims to manufacture more than 15 billion chips in the US and create hundreds of jobs.",
+        "summary_zh": "该协议旨在在美国生产超过150亿颗芯片并创造数百个就业机会。",
+        "link": "https://finance.yahoo.com/technology/articles/apple-signs-30bn-broadcom-deal-091830495.html",
+        "publisher": "Verdict",
+        "publish_time": 1783588710,
         "type": "News"
     },
     {
@@ -20,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "As Cognizant Links Up with Google on AI Deal, Here’s How to Play CTSH Stock Now",
-        "title_zh": "随着 Cognizant 与 Google 就 AI 交易达成合作，现在介绍如何玩 CTSH 股票",
-        "summary": "Cognizant is strengthening its AI push with Google, lifting optimism as investors weigh whether CTSH can build on the momentum.",
-        "summary_zh": "Cognizant 正在与谷歌加强人工智能的合作，这在投资者权衡 CTSH 是否能够延续这一势头之际提振了人们的乐观情绪。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-links-google-ai-deal-205920031.html",
-        "publisher": "Barchart",
-        "publish_time": 1783544360,
-        "type": "News"
-    },
-    {
         "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
         "title_zh": "博通股价因苹果人工智能芯片交易而上涨，而英伟达的相对股价下跌",
         "summary": "Yahoo Finance's Josh Lipton takes a closer look at some of Wednesday's trending tickers and stories, including Nvidia's (NVDA) relative stock price; Broadcom's (AVGO) and Apple's (AAPL) AI chip deal; and travel-related stocks like Carnival (CCL), United (UAL), and Delta (DAL).",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/video/broadcom-stock-jumps-on-apple-ai-chip-deal-while-nvidias-relative-stock-price-drops-200428968.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1783541068,
-        "type": "News"
-    },
-    {
-        "title": "Apple and Intel Corporation (INTC) Chip Deal makes Strategic Sense but Production is Years Away",
-        "title_zh": "苹果和英特尔公司 (INTC) 芯片交易具有战略意义，但量产还需要数年时间",
-        "summary": "Intel Corporation (NASDAQ:INTC) is one of the Best Stocks To Buy. On June 24, Reuters reported that a potential Apple and Intel Corporation (NASDAQ:INTC) chip manufacturing agreement could strengthen the latter’s contract chip business.",
-        "summary_zh": "英特尔公司（纳斯达克股票代码：INTC）是最值得购买的股票之一。 6 月 24 日，路透社报道称，苹果和英特尔公司（纳斯达克股票代码：INTC）可能达成的芯片制造协议可能会加强后者的代工芯片业务。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-intel-corporation-intc-chip-184928887.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1783536568,
         "type": "News"
     }
 ]
