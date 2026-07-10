@@ -1,22 +1,62 @@
 [
     {
-        "title": "Tencent in talks to become AI startup Manus' largest shareholder, sources say",
-        "title_zh": "消息人士称，腾讯正在洽谈成为人工智能初创公司Manus最大股东",
-        "summary": "Chinese ‌gaming and internet company Tencent ‌is in talks to become Manus' largest ​shareholder as investors seek alternatives after Beijing ordered Meta to unwind its $2 billion acquisition of the AI ‌startup, two ⁠people with knowledge of the matter said on Friday.",
-        "summary_zh": "两位知情人士周五表示，中国游戏和互联网公司腾讯正在就成为 Manus 最大股东进行谈判，因为在北京方面命令 Meta 解除对这家人工智能初创公司 20 亿美元的收购后，投资者寻求替代方案。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/tencent-talks-become-ai-start-030728722.html",
-        "publisher": "Reuters",
-        "publish_time": 1783652848,
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures diverge ahead of SK Hynix's mega US IPO",
+        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货在 SK 海力士美国大型 IPO 之前出现分歧",
+        "summary": "Stocks were on track for a choppy week as investors awaited the marquee SK Hynix US listing.",
+        "summary_zh": "由于投资者等待 SK 海力士在美国上市，股市将迎来动荡的一周。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783683561,
         "type": "News"
     },
     {
-        "title": "Meta to produce AI chips in September, memo shows",
-        "title_zh": "备忘录显示 Meta 将于 9 月生产人工智能芯片",
-        "summary": "STORY: :: A memo seen by Reuters shows that Meta plans to produce AI chips this September&nbsp;:: The move will likely help Meta gain more independence from chip suppliers such as Nvidia:: Katie Paul, Tech Correspondent:: Meta / Archive\"In the world of AI, those who control th...",
-        "summary_zh": "故事:::路透社看到的一份备忘录显示，Meta 计划在今年 9 月生产人工智能芯片&nbsp;::此举可能会帮助 Meta 从 Nvidia 等芯片供应商那里获得更多的独立性::凯蒂·保罗，科技记者::Meta / Archive“在人工智能的世界里，那些控制着人工智能的人...",
-        "link": "https://finance.yahoo.com/video/meta-produce-ai-chips-september-232348609.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783639428,
+        "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
+        "title_zh": "英国将对微软、谷歌等云服务提供商进行监管，以保护金融稳定",
+        "summary": "LONDON, July 10 () - Britain has designated cloud service providers Microsoft, Google, Amazon and Oracle as ‌critical third-party suppliers to its financial sector, bringing them ‌under direct regulatory oversight.",
+        "summary_zh": "伦敦，7 月 10 日 - 英国已指定云服务提供商微软、谷歌、亚马逊和甲骨文为其金融部门的关键第三方供应商，将它们置于直接监管之下。",
+        "link": "https://finance.yahoo.com/technology/articles/uk-regulate-cloud-providers-microsoft-101817675.html",
+        "publisher": "Reuters",
+        "publish_time": 1783681337,
+        "type": "News"
+    },
+    {
+        "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
+        "title_zh": "SpaceX 首次公开募股一个月后，特斯拉股价保持坚挺",
+        "summary": "(Bloomberg) -- In the weeks leading up to SpaceX’s monster IPO, many Wall Street pros feared the deal represented an existential threat for Elon Musk’s other giant, Tesla Inc. But after a month in the stock market, the outcome is far from clear.",
+        "summary_zh": "（彭博社）——在 SpaceX 大规模首次公开募股（IPO）前的几周，许多华尔街专业人士担心这笔交易对埃隆·马斯克（Elon Musk）的另一家巨头特斯拉公司（Tesla Inc.）构成生存威胁。但在股市上市一个月后，结果还远未明朗。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/month-spacex-ipo-tesla-stock-110001358.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783681201,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree",
+        "title_zh": "大型科技公司在人工智能方面的支出狂潮，债务负担翻了一番，达到 3500 亿美元",
+        "summary": "(Bloomberg) -- The largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform the economy.",
+        "summary_zh": "（彭博社）——过去五年里，最大的人工智能数据中心建设者的债务负担增加了一倍，转向借贷来为他们声称的经济转型所需的前所未有的支出热潮提供资金。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-doubles-debt-load-103000041.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783679400,
+        "type": "News"
+    },
+    {
+        "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom",
+        "title_zh": "台湾芯片制造商南亚科技计划 2027 年支出 60 亿美元，乘势人工智能热潮",
+        "summary": "Taiwanese memory chipmaker Nanya Technology said on Friday it plans capital spending of more than ‌T$200 billion ($6.2 billion) next year, roughly four times this year's figure, ‌amid soaring demand for memory chips as it rides an AI boom.",
+        "summary_zh": "台湾存储芯片制造商南亚科技周五表示，随着人工智能的蓬勃发展，存储芯片的需求不断飙升，该公司计划明年的资本支出超过 2000 亿新台币（合 62 亿美元），大约是今年数字的四倍。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/taiwanese-chipmaker-nanya-plans-6-092507004.html",
+        "publisher": "Reuters",
+        "publish_time": 1783675507,
+        "type": "News"
+    },
+    {
+        "title": "Take Five: Chips, banks and volatility",
+        "title_zh": "要点五：筹码、银行和波动性",
+        "summary": "July 10 (Reuters) - The results season is kicking off with the world's largest chipmaker and key U.S. banks reporting, while data out of the U.S. and China will give a fresh perspective on the state",
+        "summary_zh": "7 月 10 日（路透社）——随着全球最大的芯片制造商和美国主要银行发布财报，业绩季拉开序幕，而来自美国和中国的数据将为该州提供新的视角",
+        "link": "https://finance.yahoo.com/markets/articles/five-chips-banks-volatility-084111323.html",
+        "publisher": "Reuters",
+        "publish_time": 1783672871,
         "type": "News"
     },
     {
@@ -27,16 +67,6 @@
         "link": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1783638000,
-        "type": "News"
-    },
-    {
-        "title": "US stocks end higher; chip surge offsets Iran worries",
-        "title_zh": "美股收高；芯片激增抵消了伊朗的担忧",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/us-stocks-end-higher-chip-225534795.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783637734,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/markets/article/apollos-sl%C3%B8k-the-market-faces-big-risks-if-hyperscalers-ai-profits-get-delayed-161708773.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1783613828,
-        "type": "News"
-    },
-    {
-        "title": "The 'Magnificent 7' stocks are trading at their cheapest valuation in more than a decade",
-        "title_zh": "“Magnificent 7”股票的交易价格处于十多年来的最低水平",
-        "summary": "It's a rarity to see the “Magnificent Seven” tech stocks this cheap.",
-        "summary_zh": "“七大”科技股如此便宜，实属罕见。",
-        "link": "https://finance.yahoo.com/markets/article/the-magnificent-7-stocks-are-trading-at-their-cheapest-valuation-in-more-than-a-decade-131922532.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783603162,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia's nearly $1 trillion wipeout could prompt this bullish action",
-        "title_zh": "Nvidia 近 1 万亿美元的损失可能会引发这种看涨行动",
-        "summary": "It might be time for Nvidia to unleash the stock buybacks.",
-        "summary_zh": "英伟达可能是时候进行股票回购了。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783600027,
-        "type": "News"
-    },
-    {
-        "title": "Is AI investment ROI ever going to come? These 2 signals can give us some clues",
-        "title_zh": "人工智能投资的投资回报率会到来吗？这2个信号可以给我们一些线索",
-        "summary": "Apollo Global Management partner and chief economist Torsten Sløk shares his thoughts on the future of AI revenue and ROI. Disclosure: Yahoo is a portfolio company of funds managed by affiliates of Apollo Global Management.",
-        "summary_zh": "Apollo 全球管理合伙人兼首席经济学家 Torsten Sløk 分享了他对人工智能收入和投资回报率未来的看法。披露：雅虎是一家由阿波罗全球管理公司附属公司管理的基金的投资组合公司。",
-        "link": "https://finance.yahoo.com/video/ai-investment-roi-ever-going-120000200.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783598400,
         "type": "News"
     }
 ]

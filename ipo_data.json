@@ -1,5 +1,15 @@
 [
     {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures diverge ahead of SK Hynix's mega US IPO",
+        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货在 SK 海力士美国大型 IPO 之前出现分歧",
+        "summary": "Stocks were on track for a choppy week as investors awaited the marquee SK Hynix US listing.",
+        "summary_zh": "由于投资者等待 SK 海力士在美国上市，股市将迎来动荡的一周。",
+        "link": "https://finance.yahoo.com/news/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1783683561,
+        "type": "News"
+    },
+    {
         "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain",
         "title_zh": "SK 海力士着眼于美国大规模上市：ETF 有望获利",
         "summary": "SK Hynix's blockbuster U.S. listing could reshape semiconductor investing. Here's how chip, Korea, Nasdaq and IPO ETFs stand to benefit.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
-        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "publish_time": 1780419600,
         "type": "News"
     }
 ]
