@@ -1,5 +1,15 @@
 [
     {
+        "title": "Apple CEO Tim Cook Announces $30 Billion Broadcom Deal to Produce 15 Billion Chips",
+        "title_zh": "Apple CEO 蒂姆·库克 (Tim Cook) 宣布与博通 (Broadcom) 斥资 300 亿美元生产 150 亿颗芯片",
+        "summary": "The major chip deal with Broadcom is part of Apple's American Manufacturing Program.",
+        "summary_zh": "与博通的主要芯片交易是苹果美国制造计划的一部分。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-ceo-tim-cook-announces-082500953.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783758300,
+        "type": "News"
+    },
+    {
         "title": "Apollo Gatecrashes easyJet’s Takeover Flight",
         "title_zh": "阿波罗计划破坏了易捷航空的收购航班",
         "summary": "The US buyout giant has topped Castlelake’s offer with a £5.7 billion proposal, turning easyJet from budget airline into premium bidding-war cargo.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-qiagen-attracts-early-152816921.html",
         "publisher": "MT Newswires",
         "publish_time": 1783610896,
-        "type": "News"
-    },
-    {
-        "title": "Apollo’s $35 Billion AI Chip Credit Deal Is Set to Begin Trading",
-        "title_zh": "Apollo 350 亿美元的 AI 芯片信贷交易即将开始交易",
-        "summary": "(Bloomberg) -- More money managers and dealers are about to get their hands on pieces of the largest private credit deal on record — when a chunk of a $35 billion financing package for Broadcom Inc.",
-        "summary_zh": "(彭博社)——当博通公司 (Broadcom Inc.) 350 亿美元的融资计划中的一部分即将投入使用时，更多的基金经理和交易商即将获得有史以来最大的私人信贷交易的一部分。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-35-billion-ai-chip-130451313.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1783602291,
         "type": "News"
     }
 ]
