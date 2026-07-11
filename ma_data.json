@@ -1,22 +1,12 @@
 [
     {
-        "title": "EasyJet backs $7.7 billion Apollo takeover bid over Castlelake offer",
-        "title_zh": "EasyJet 支持 Apollo 77 亿美元收购 Castlelake 收购要约",
-        "summary": "STORY: A takeover battle for one of Europe's biggest airlines could be brewing.Apollo Global Management announced a $7.7 billion bid for easyJet on Friday.The U.S.",
-        "summary_zh": "故事：欧洲最大航空公司之一的收购战可能正在酝酿之中。阿波罗全球管理公司周五宣布以 77 亿美元收购易捷航空。",
-        "link": "https://finance.yahoo.com/video/easyjet-backs-7-7-billion-112241246.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783682561,
-        "type": "News"
-    },
-    {
-        "title": "Corning (GLW) Lands Amazon Deal And Nvidia Tie Up For AI Fiber Expansion",
-        "title_zh": "康宁 (GLW) 与亚马逊达成协议，与 Nvidia 合作拓展 AI 光纤业务",
-        "summary": "Corning (NYSE:GLW) has signed a multi billion dollar agreement with Amazon to expand US production of optical fiber products used in AI data centers.",
-        "summary_zh": "康宁公司（纽约证券交易所股票代码：GLW）与亚马逊签署了一项价值数十亿美元的协议，以扩大美国人工智能数据中心使用的光纤产品的生产。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/corning-glw-lands-amazon-deal-100930043.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1783678170,
+        "title": "Apollo Gatecrashes easyJet’s Takeover Flight",
+        "title_zh": "阿波罗计划破坏了易捷航空的收购航班",
+        "summary": "The US buyout giant has topped Castlelake’s offer with a £5.7 billion proposal, turning easyJet from budget airline into premium bidding-war cargo.",
+        "summary_zh": "这家美国收购巨头以 57 亿英镑的报价超越了 Castlelake 的报价，将易捷航空从廉价航空公司转变为优质的竞购战货运航空公司。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-gatecrashes-easyjet-takeover-flight-142818474.html",
+        "publisher": "Moby",
+        "publish_time": 1783693698,
         "type": "News"
     },
     {
@@ -26,27 +16,37 @@
         "summary_zh": "廉价航空公司易捷航空 (easyJet) 转而支持美国私募股权巨头阿波罗 (Apollo) 的 57 亿英镑（66 亿欧元）收购提议，并在同意该提议几天后放弃了对美国竞争对手的支持。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-hijacks-easyjet-takeover-5-085636231.html",
         "publisher": "Euronews",
-        "publish_time": 1783673796,
+        "publish_time": 1783691442,
         "type": "News"
     },
     {
-        "title": "Apple Announces $30 billion Multi-year Chip Deal With Broadcom (AVGO)",
-        "title_zh": "苹果宣布与博通 (AVGO) 达成价值 300 亿美元的多年期芯片协议",
-        "summary": "Broadcom Inc. (NASDAQ:AVGO) is one of the 10 Best Data Center Stocks to Buy in July. On July 8, Apple announced a multi-year chip deal with Broadcom expected to exceed $30 billion, the largest U.S. manufacturing commitment to date, CNBC reported.",
-        "summary_zh": "Broadcom Inc.（纳斯达克股票代码：AVGO）是 7 月最值得买入的 10 只数据中心股票之一。据 CNBC 报道，7 月 8 日，苹果宣布与博通达成一项多年期芯片协议，预计金额将超过 300 亿美元，这是美国迄今为止最大的制造业承诺。",
-        "link": "https://finance.yahoo.com/technology/articles/apple-announces-30-billion-multi-065814718.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1783666694,
+        "title": "$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances",
+        "title_zh": "随着博通融资的推进，350 亿美元的人工智能信贷交易即将完成交易",
+        "summary": "About $15 billion of the AI infrastructure financing could become tradable by early next year.",
+        "summary_zh": "到明年初，大约 150 亿美元的人工智能基础设施融资可能可以进行交易。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/35-billion-ai-credit-deal-184014429.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1783622414,
         "type": "News"
     },
     {
-        "title": "EasyJet Gets Surprise Apollo Offer That Beats Castlelake Bid",
-        "title_zh": "EasyJet 获得令人惊讶的 Apollo 报价，击败 Castlelake 出价",
-        "summary": "(Bloomberg) -- EasyJet Plc received a fresh offer from private equity firm Apollo Global Management for 715 pence a share that beats a rival proposal from Castlelake, a surprise twist in the takeover battle for the UK budget carrier that sets up a possible competition between ...",
-        "summary_zh": "（彭博社）——易捷航空 (EasyJet Plc) 收到了私募股权公司阿波罗全球管理公司 (Apollo Global Management) 提出的每股 715 便士的新报价，该报价击败了卡斯尔莱克 (Castlelake) 的竞争对手报价，这是这家英国廉价航空公司的收购...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/easyjet-gets-surprise-apollo-offer-062047938.html",
+        "title": "Update: Market Chatter: Qiagen Attracts Early Takeover Interest From EQT, Advent, KKR",
+        "title_zh": "更新：市场热议：Qiagen 吸引了 EQT、Advent、KKR 的早期收购兴趣",
+        "summary": "(Updates with Qiagen's response in the last paragraph.) Qiagen (QGEN) is attracting early takeove",
+        "summary_zh": "（更新了最后一段中 Qiagen 的回应。）Qiagen (QGEN) 正在吸引早期收购",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-qiagen-attracts-early-152816921.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1783610896,
+        "type": "News"
+    },
+    {
+        "title": "Apollo’s $35 Billion AI Chip Credit Deal Is Set to Begin Trading",
+        "title_zh": "Apollo 350 亿美元的 AI 芯片信贷交易即将开始交易",
+        "summary": "(Bloomberg) -- More money managers and dealers are about to get their hands on pieces of the largest private credit deal on record — when a chunk of a $35 billion financing package for Broadcom Inc.",
+        "summary_zh": "(彭博社)——当博通公司 (Broadcom Inc.) 350 亿美元的融资计划中的一部分即将投入使用时，更多的基金经理和交易商即将获得有史以来最大的私人信贷交易的一部分。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-35-billion-ai-chip-130451313.html",
         "publisher": "Bloomberg",
-        "publish_time": 1783664447,
+        "publish_time": 1783602291,
         "type": "News"
     }
 ]
