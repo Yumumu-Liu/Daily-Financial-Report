@@ -1,12 +1,12 @@
 [
     {
-        "title": "AbbVie Is Already a Dividend King. Here's Why the $10.9 Billion Apogee Deal Could Make It a Dynasty",
-        "title_zh": "艾伯维（AbbVie）已经是股息之王。这就是为什么 109 亿美元的 Apogee 交易可以使其成为一个王朝",
-        "summary": "AbbVie inherited its status as a Dividend King, but it is building a strong foundation to continue the dividend streak.",
-        "summary_zh": "艾伯维继承了股息之王的地位，但它正在为继续股息增长奠定坚实的基础。",
-        "link": "https://finance.yahoo.com/healthcare/articles/abbvie-already-dividend-king-heres-003500796.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1783816500,
+        "title": "More tech workers are retiring early because they don’t want to deal with AI-related changes: ‘Many people believe it’s overblown’",
+        "title_zh": "越来越多的科技工作者提前退休，因为他们不想应对与人工智能相关的变化：“许多人认为这有些言过其实”",
+        "summary": "“For tech people, one of the distinctive features is that the learning curve of getting up to speed on a new technology can be a lot of effort,” one retirement expert said.",
+        "summary_zh": "一位退休专家表示：“对于科技人员来说，一个显着特征是，加快掌握新技术的学习曲线可能需要付出很大的努力。”",
+        "link": "https://finance.yahoo.com/technology/ai/articles/more-tech-workers-retiring-early-070000172.html",
+        "publisher": "Fortune",
+        "publish_time": 1783839600,
         "type": "News"
     },
     {
@@ -17,16 +17,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-lands-30-billion-chip-173002657.html",
         "publisher": "Barchart",
         "publish_time": 1783791002,
-        "type": "News"
-    },
-    {
-        "title": "Microsoft's retirement offer is a wake-up call for workers",
-        "title_zh": "微软的退休优惠给员工敲响了警钟",
-        "summary": "About 8,750 Microsoft employees recently had roughly 30 days to decide whether their savings could support walking away from their careers for good.",
-        "summary_zh": "大约 8,750 名微软员工最近有大约 30 天的时间来决定他们的积蓄是否足以支持永远放弃自己的职业生涯。",
-        "link": "https://finance.yahoo.com/healthcare/articles/microsofts-retirement-offer-wake-call-150700814.html",
-        "publisher": "TheStreet",
-        "publish_time": 1783782420,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-hijacks-easyjet-takeover-5-085636231.html",
         "publisher": "Euronews",
         "publish_time": 1783691442,
+        "type": "News"
+    },
+    {
+        "title": "$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances",
+        "title_zh": "随着博通融资的推进，350 亿美元的人工智能信贷交易即将完成交易",
+        "summary": "About $15 billion of the AI infrastructure financing could become tradable by early next year.",
+        "summary_zh": "到明年初，大约 150 亿美元的人工智能基础设施融资可能可以进行交易。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/35-billion-ai-credit-deal-184014429.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1783622414,
         "type": "News"
     }
 ]
