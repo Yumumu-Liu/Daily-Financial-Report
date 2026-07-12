@@ -1,92 +1,22 @@
 [
     {
-        "title": "Wall Street ends higher as investors turn to earnings season",
-        "title_zh": "随着投资者转向财报季，华尔街收高",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-investors-224020146.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783723220,
-        "type": "News"
-    },
-    {
-        "title": "Apple is suing OpenAI over alleged trade secret theft",
-        "title_zh": "苹果起诉 OpenAI 涉嫌窃取商业机密",
-        "summary": "Apple is suing OpenAI, alleging trade secret theft.",
-        "summary_zh": "苹果正在起诉 OpenAI，指控其窃取商业机密。",
-        "link": "https://finance.yahoo.com/technology/article/apple-is-suing-openai-over-alleged-trade-secret-theft-213609180.html",
+        "title": "'Market is becoming more discerning': Wall Street weighs next catalyst for AI trade",
+        "title_zh": "“市场变得更加挑剔”：华尔街正在权衡人工智能贸易的下一个催化剂",
+        "summary": "Wall Street is looking toward earnings for a follow-through of the AI trade.",
+        "summary_zh": "华尔街正在关注人工智能交易的后续收益。",
+        "link": "https://finance.yahoo.com/markets/article/market-is-becoming-more-discerning-wall-street-weighs-next-catalyst-for-ai-trade-114052280.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783719369,
+        "publish_time": 1783770052,
         "type": "News"
     },
     {
-        "title": "What Meta's Muse AI image tool means for Instagram privacy",
-        "title_zh": "Meta 的 Muse AI 图像工具对 Instagram 隐私意味着什么",
-        "summary": "Yahoo Finance Tech Editor Dan Howley explains how Meta's new Muse AI tool generates images using a public user's likeness and how users can manage their privacy settings to opt out.",
-        "summary_zh": "雅虎财经技术编辑 Dan Howley 解释了 Meta 的新 Muse AI 工具如何使用公共用户的肖像生成图像，以及用户如何管理其隐私设置以选择退出。",
-        "link": "https://finance.yahoo.com/video/what-metas-muse-ai-image-tool-means-for-instagram-privacy-203855526.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783715935,
-        "type": "News"
-    },
-    {
-        "title": "PC shipments fall as AI demand spikes memory prices",
-        "title_zh": "随着人工智能需求推高内存价格，PC 出货量下降",
-        "summary": "Yahoo Finance Tech Editor Dan Howley breaks down how an AI-driven memory shortage is driving down PC shipments while forcing major tech companies to increase laptop prices.",
-        "summary_zh": "雅虎财经科技编辑丹·豪利 (Dan Howley) 详细分析了人工智能驱动的内存短缺如何导致个人电脑出货量下降，同时迫使大型科技公司提高笔记本电脑价格。",
-        "link": "https://finance.yahoo.com/video/pc-shipments-fall-as-ai-demand-spikes-memory-prices-200214556.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783713734,
-        "type": "News"
-    },
-    {
-        "title": "How SK Hynix picked the 'perfect time' to list in the US",
-        "title_zh": "SK海力士如何选择在美国上市的“最佳时机”",
-        "summary": "SK Hynix (SKHYV, 000660.KS) began trading on the Nasdaq after launching its new US listing on Friday.",
-        "summary_zh": "SK 海力士（SKHYV，000660.KS）于周五在美国上市后开始在纳斯达克交易。",
-        "link": "https://finance.yahoo.com/video/how-sk-hynix-picked-the-perfect-time-to-list-in-the-us-193227347.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783711947,
-        "type": "News"
-    },
-    {
-        "title": "Meta stock turns positive on the year on data center plans, new AI model pricing",
-        "title_zh": "Meta 股票今年因数据中心计划和新人工智能模型定价而转为积极",
-        "summary": "Meta rose more than 5% on Friday after Mark Zuckerberg said the company is looking into renting out data center computing capacity.",
-        "summary_zh": "在马克·扎克伯格表示该公司正在考虑出租数据中心计算能力后，周五 Meta 股价上涨超过 5%。",
-        "link": "https://finance.yahoo.com/technology/article/meta-stock-turns-positive-on-the-year-on-data-center-plans-new-ai-model-pricing-174120336.html",
+        "title": "Big Tech is paying for the AI boom, and chipmakers are cashing in: Chart of the Day",
+        "title_zh": "大型科技公司正在为人工智能的繁荣付出代价，芯片制造商正在获利：每日图表",
+        "summary": "Wall Street knows Big Tech can spend on AI — the harder question is how fast that spending turns back into cash.",
+        "summary_zh": "华尔街知道大型科技公司可以在人工智能上进行投资——更难的问题是这些支出以多快的速度变回现金。",
+        "link": "https://finance.yahoo.com/markets/article/big-tech-is-paying-for-the-ai-boom-and-chipmakers-are-cashing-in-chart-of-the-day-114043038.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783705280,
-        "type": "News"
-    },
-    {
-        "title": "What to expect this earnings season amid lingering Hindenburg Omens",
-        "title_zh": "在挥之不去的兴登堡预兆中，本财报季会发生什么",
-        "summary": "B.",
-        "summary_zh": "B.",
-        "link": "https://finance.yahoo.com/video/expect-earnings-season-amid-lingering-151000741.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783696200,
-        "type": "News"
-    },
-    {
-        "title": "Chip stocks regain some ground after whipsaw of a trading week",
-        "title_zh": "经过一周的震荡后，芯片股收复部分失地",
-        "summary": "While South Korean memory chipmaker SK Hynix (000660.KS) makes its debut on US market with a fresh listing on the Nasdaq, Yahoo Finance Markets and Data Editor Jared Blikre and Senior Business Reporter Ines Ferré take a closer look at the semiconductor landscape and memory chi...",
-        "summary_zh": "虽然韩国存储芯片制造商 SK 海力士 (000660.KS) 在纳斯达克首次上市并在美国市场首次上市，但雅虎金融市场和数据编辑 Jared Blikre 和高级商业记者 Ines Ferré 仔细研究了半导体前景和存储芯片。",
-        "link": "https://finance.yahoo.com/video/chip-stocks-regain-ground-whipsaw-143000172.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783693800,
-        "type": "News"
-    },
-    {
-        "title": "Why you should care about SK Hynix's IPO",
-        "title_zh": "为什么你应该关心 SK 海力士的 IPO",
-        "summary": "SK Hynix (SKHY, SKHYV) has officially gone public in the US. Yahoo Finance Executive Editor Brian Sozzi is joined by Breaking News Reporter Jake Conley and Trustless Media founder Zack Guzman to discuss the IPO.",
-        "summary_zh": "SK海力士（SKHY、SKHYV）已正式在美国上市。雅虎财经执行编辑 Brian Sozzi 与突发新闻记者 Jake Conley 和 Trustless Media 创始人 Zack Guzman 一起讨论了 IPO。",
-        "link": "https://finance.yahoo.com/video/why-you-should-care-about-sk-hynixs-ipo-142904448.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783693744,
+        "publish_time": 1783770043,
         "type": "News"
     }
 ]
