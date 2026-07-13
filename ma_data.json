@@ -1,12 +1,22 @@
 [
     {
-        "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
-        "title_zh": "摩根大通称埃隆·马斯克 SpaceX 与特斯拉的潜在合并“战略一致”",
-        "summary": "J.P. Morgan just outlined why a SpaceX-Tesla merger could make strategic sense on paper. It also got into why investors shouldn't mistake that for a likely deal.",
-        "summary_zh": "摩根大通刚刚概述了为什么 SpaceX 与特斯拉的合并在纸上具有战略意义。它还解释了为什么投资者不应将其误认为是可能的交易。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-called-potential-205000345.html",
+        "title": "Salesforce Could Be Undervalued if This Acquisition Solves Its Biggest Growth Problem",
+        "title_zh": "如果此次收购解决了 Salesforce 最大的增长问题，其价值可能会被低估",
+        "summary": "Salesforce is hoping its acquisition of Fin can help accelerate revenue growth.",
+        "summary_zh": "Salesforce 希望收购 Fin 能够帮助加速收入增长。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-could-undervalued-acquisition-solves-062000105.html",
         "publisher": "Motley Fool",
-        "publish_time": 1783889400,
+        "publish_time": 1783923600,
+        "type": "News"
+    },
+    {
+        "title": "INTC, AMD, NVDA, AVGO: Chip Stocks Slide As Fresh US-Iran Strikes Test Peace Deal",
+        "title_zh": "INTC、AMD、NVDA、AVGO：随着美伊新一轮袭击测试和平协议，芯片股下跌",
+        "summary": "The selloff in chip stocks comes amid a broader rotation within the tech sector, with investor money flowing out of chip names and back into Big Tech.",
+        "summary_zh": "芯片股遭到抛售之际，科技行业内部出现更广泛的轮动，投资者的资金从芯片股流出，回流到大型科技股。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-nvda-avgo-chip-045819398.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1783918699,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-hijacks-easyjet-takeover-5-085636231.html",
         "publisher": "Euronews",
         "publish_time": 1783691442,
-        "type": "News"
-    },
-    {
-        "title": "$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances",
-        "title_zh": "随着博通融资的推进，350 亿美元的人工智能信贷交易即将完成交易",
-        "summary": "About $15 billion of the AI infrastructure financing could become tradable by early next year.",
-        "summary_zh": "到明年初，大约 150 亿美元的人工智能基础设施融资可能可以进行交易。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/35-billion-ai-credit-deal-184014429.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1783622414,
         "type": "News"
     }
 ]

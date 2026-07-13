@@ -1,22 +1,92 @@
 [
     {
-        "title": "Is it easier to become a stock picker in a stock picker's market?",
-        "title_zh": "在选股市场里成为选股者是不是更容易？",
-        "summary": "Thinking about the challenge of trading individual stocks to generate above-average returns.",
-        "summary_zh": "思考交易个股以产生高于平均水平的回报所面临的挑战。",
-        "link": "https://finance.yahoo.com/economy/article/is-it-easier-to-become-a-stock-picker-in-a-stock-pickers-market-140752298.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783865272,
+        "title": "Wall St futures decline as US-Iran escalation rattles sentiment",
+        "title_zh": "由于美伊局势升级扰乱市场情绪，华尔街期货下跌",
+        "summary": "By Ragini Mathur and Avinash P July 13 (Reuters) - Wall Street futures fell on Monday, as a fresh escalation between Iran and the U.S. in the Gulf rattled investors and sent oil prices higher, while",
+        "summary_zh": "路透拉吉尼·马图尔 (Ragini Mathur) 和阿维纳什·P (Avinash P) 7 月 13 日报道 - 华尔街期货周一下跌，原因是伊朗和美国在海湾地区的冲突升级令投资者感到不安，并推高了油价。",
+        "link": "https://finance.yahoo.com/markets/articles/p-500-nasdaq-futures-decline-095349478.html",
+        "publisher": "Reuters",
+        "publish_time": 1783942519,
         "type": "News"
     },
     {
-        "title": "Coinbase, Lyft, and Axon prove there's more going on in markets than the 'Magnificent 7'",
-        "title_zh": "Coinbase、Lyft 和 Axon 证明市场上发生的事情比“Magnificent 7”还要多",
-        "summary": "There's more happening in the investor world than Micron, Nvidia, and earnings season.",
-        "summary_zh": "投资者界发生的事情不仅仅是美光、英伟达和财报季。",
-        "link": "https://finance.yahoo.com/markets/article/coinbase-lyft-and-axon-prove-theres-more-going-on-in-markets-than-the-magnificent-7-123000539.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as US and Iran exchange fire, oil jumps",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货因美国和伊朗交火而下跌，油价上涨",
+        "summary": "Markets were subdued ahead of a busy week for markets, with inflation reports, bank earnings, and geopolitical risk hanging in the balance.",
+        "summary_zh": "在市场繁忙的一周到来之前，市场表现疲软，通胀报告、银行盈利和地缘政治风险悬而未决。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-13-dow-sp-nasdaq-113249278.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1783859400,
+        "publish_time": 1783942369,
+        "type": "News"
+    },
+    {
+        "title": "Over 200 experts call for urgent action to tackle AI's economic impact",
+        "title_zh": "200 多名专家呼吁采取紧急行动应对人工智能的经济影响",
+        "summary": "July 13 (Reuters) - More than 200 researchers and economists, including 15 Nobel laureates and researchers at OpenAI, Anthropic and Google, have called for governments and technology leaders to",
+        "summary_zh": "7 月 13 日（路透社）——200 多名研究人员和经济学家，其中包括 15 名诺贝尔奖获得者以及 OpenAI、Anthropic 和 Google 的研究人员，呼吁政府和技术领导者",
+        "link": "https://finance.yahoo.com/technology/ai/articles/over-200-experts-call-urgent-110606535.html",
+        "publisher": "Reuters",
+        "publish_time": 1783940766,
+        "type": "News"
+    },
+    {
+        "title": "TSMC posts record revenue in second quarter on AI demand",
+        "title_zh": "人工智能需求推动台积电第二季度营收创历史新高",
+        "summary": "STORY: TSMC reported record high second-quarter revenue on Monday.&nbsp;The world’s largest contract chipmaker posted that Q2 revenue rose 36% from a year earlier on surging interest in AI applications.&nbsp;Reuters calculated TSMC’s earnings came in at just over $39.6 billion...",
+        "summary_zh": "故事：台积电周一报告第二季度收入创历史新高。全球最大的代工芯片制造商表示，由于人们对人工智能应用的兴趣高涨，第二季度收入同比增长 36%。据路透社计算，台积电的盈利略高于 396 亿美元……",
+        "link": "https://finance.yahoo.com/video/tsmc-posts-record-revenue-second-102513810.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1783938313,
+        "type": "News"
+    },
+    {
+        "title": "Apple’s $600 Billion Rally Fueled by Traders Fleeing AI Selloff",
+        "title_zh": "交易员逃离人工智能抛售推动苹果股价上涨 6000 亿美元",
+        "summary": "(Bloomberg) -- Investors are flocking back to Apple Inc. as nervousness about artificial intelligence spending weighs on the stocks of chipmakers and cloud-computing giants.",
+        "summary_zh": "（彭博社）——由于对人工智能支出的担忧令芯片制造商和云计算巨头的股票承压，投资者纷纷涌回苹果公司。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-600-billion-rally-fueled-101317523.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783937597,
+        "type": "News"
+    },
+    {
+        "title": "Meta expands Louisiana data center to 5 gigawatts compute capacity",
+        "title_zh": "Meta 将路易斯安那州数据中心的计算能力扩展到 5 吉瓦",
+        "summary": "July 13 (Reuters) - Meta said on Monday its data center in Richland Parish, Louisiana will expand to 5 gigawatts of compute capacity, in a bid to support the social media company's AI ambitions.",
+        "summary_zh": "7 月 13 日（路透社）——Meta 周一表示，其位于路易斯安那州里奇兰教区的数据中心的计算能力将扩大到 5 吉瓦，以支持这家社交媒体公司的人工智能雄心。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-expands-louisiana-data-center-100140641.html",
+        "publisher": "Reuters",
+        "publish_time": 1783936900,
+        "type": "News"
+    },
+    {
+        "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion",
+        "title_zh": "Meta 将路易斯安那州数据中心扩建至 5 吉瓦，投资突破 500 亿美元",
+        "summary": "Meta said on Monday its data center in Richland Parish, Louisiana, will expand to 5 gigawatts ‌of compute capacity, with investment in the project increasing to ‌more than $50 billion.",
+        "summary_zh": "Meta 周一表示，其位于路易斯安那州里奇兰教区的数据中心的计算能力将扩大至 5 吉瓦，该项目的投资将增加至超过 500 亿美元。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-expands-louisiana-data-center-100140668.html",
+        "publisher": "Reuters",
+        "publish_time": 1783936900,
+        "type": "News"
+    },
+    {
+        "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
+        "title_zh": "Meta 路易斯安那州数据中心的造价将超过 2500 亿美元",
+        "summary": "(Bloomberg) -- Meta Platforms Inc.",
+        "summary_zh": "（彭博社）——Meta Platforms Inc.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-louisiana-data-center-surpass-093000903.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783935000,
+        "type": "News"
+    },
+    {
+        "title": "EU to Present Plan to Restrict Children’s Access to Social Media",
+        "title_zh": "欧盟将提出限制儿童使用社交媒体的计划",
+        "summary": "(Bloomberg) -- The European Union will propose a law to restrict children’s access to social media, according to the bloc’s top official, as part of a growing global consensus about the harm it causes.",
+        "summary_zh": "（彭博社）——据欧盟高级官员称，欧盟将提出一项限制儿童使用社交媒体的法律，作为全球对其造成的危害日益增长的共识的一部分。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/eu-present-plan-restrict-children-084459499.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783932299,
         "type": "News"
     }
 ]
