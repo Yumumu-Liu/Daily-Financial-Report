@@ -1,5 +1,15 @@
 [
     {
+        "title": "Why Chipotle Stock Topped the Market Today",
+        "title_zh": "为什么 Chipotle 股票今天在市场上名列前茅",
+        "summary": "It's pushing into an adjacent market that's quite promising.",
+        "summary_zh": "它正在进军一个非常有前途的邻近市场。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-chipotle-stock-topped-market-234839478.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1783986519,
+        "type": "News"
+    },
+    {
         "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain",
         "title_zh": "SK 海力士着眼于美国大规模上市：ETF 有望获利",
         "summary": "SK Hynix's blockbuster U.S. listing could reshape semiconductor investing. Here's how chip, Korea, Nasdaq and IPO ETFs stand to benefit.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
         "publisher": "Zacks",
         "publish_time": 1780920420,
-        "type": "News"
-    },
-    {
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "title_zh": "Anthropic 着眼于重磅 IPO，ETF 成为焦点",
-        "summary": "Anthropic's potential IPO could be a blockbuster. Here's how AI and IPO-focused ETFs may benefit from one of the biggest listings in tech.",
-        "summary_zh": "Anthropic 潜在的 IPO 可能会引起轰动。以下是专注于人工智能和 IPO 的 ETF 如何从科技领域最大的上市之一中受益。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "publish_time": 1780419600,
         "type": "News"
     }
 ]
