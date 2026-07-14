@@ -1,22 +1,52 @@
 [
     {
-        "title": "SK Hynix set to benefit as South Korea's ruling party seeks to ease capital-raising rules",
-        "title_zh": "韩国执政党寻求放宽融资规定，SK海力士将从中受益",
-        "summary": "South Korea's ruling party is seeking to make it easier for chipmaker SK Hynix to set up ventures to ‌build factories with outside investors — a move that follows a government ‌push to position the country as an AI powerhouse.",
-        "summary_zh": "韩国执政党正在寻求让芯片制造商 SK 海力士更容易与外部投资者设立合资企业，建厂——此举是在政府推动将韩国定位为人工智能强国之后采取的。",
-        "link": "https://finance.yahoo.com/technology/articles/sk-hynix-set-benefit-south-033300276.html",
-        "publisher": "Reuters",
-        "publish_time": 1783999980,
+        "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
+        "title_zh": "美光和英伟达正在推动 7000 亿美元的芯片利润繁荣：每日图表",
+        "summary": "Chip stocks have shed $2.7 trillion since late June, yet Wall Street still sees industry profits reaching roughly $700 billion in 2027.",
+        "summary_zh": "自 6 月底以来，芯片股已蒸发 2.7 万亿美元，但华尔街仍预计 2027 年该行业利润将达到约 7000 亿美元。",
+        "link": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784023200,
         "type": "News"
     },
     {
-        "title": "Nvidia halves Asia buyer list in China chip crackdown, FT reports",
-        "title_zh": "据英国《金融时报》报道，英伟达在中国芯片打击行动中将亚洲买家名单减半",
-        "summary": "Nvidia has more than ‌halved the number ‌of Asian customers authorised to ​buy its AI chips after creating a new \"white list\" of ‌companies ⁠that have passed tougher compliance checks ⁠aimed at preventing the products from ​reaching China, ​the ​Financial Times reported ‌on Mo...",
-        "summary_zh": "据《金融时报》报道，英伟达在制定了新的公司“白名单”后，已将授权购买其人工智能芯片的亚洲客户数量减少了一半以上，这些公司已经通过了更严格的合规检查，旨在阻止产品进入中国。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-halves-asia-buyer-list-033140201.html",
+        "title": "Google probed by Swiss regulator over Android default search feature",
+        "title_zh": "谷歌因 Android 默认搜索功能受到瑞士监管机构调查",
+        "summary": "Switzerland's Competition Commission (COMCO) has launched a preliminary investigation into Google's removal of a ‌feature that allows mobile phone users to opt out ‌of using its search engine as default, the authority said on Tuesday.",
+        "summary_zh": "瑞士竞争委员会 (COMCO) 周二表示，该机构已对谷歌删除一项允许手机用户选择不使用其默认搜索引擎的功能展开初步调查。",
+        "link": "https://finance.yahoo.com/technology/articles/google-probed-swiss-regulator-over-071613288.html",
         "publisher": "Reuters",
-        "publish_time": 1783999900,
+        "publish_time": 1784013373,
+        "type": "News"
+    },
+    {
+        "title": "A hidden pipeline brings Amazon and Walmart to African shoppers",
+        "title_zh": "一条隐藏的管道将亚马逊和沃尔玛带给非洲购物者",
+        "summary": "DAKAR, July 14 (Reuters) - No bank card. Shoppers in Africa increasingly are buying online from big brands such as Amazon or Walmart even though they have no physical presence on much of the continent.",
+        "summary_zh": "达喀尔，7 月 14 日（路透社）——没有银行卡。非洲的购物者越来越多地从亚马逊或沃尔玛等大品牌网上购物，尽管这些品牌在非洲大陆的大部分地区没有实体店。",
+        "link": "https://finance.yahoo.com/news/hidden-pipeline-brings-amazon-walmart-063637974.html",
+        "publisher": "Reuters",
+        "publish_time": 1784010997,
+        "type": "News"
+    },
+    {
+        "title": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC",
+        "title_zh": "由于成本上升，中国智能手机出货量连续第五个季度下降 - IDC",
+        "summary": "China's smartphone shipments fell 4.3% to 66 million ‌units in the second quarter from a year ‌earlier, as many manufacturers hiked prices to reflect rising memory and ​component costs, research firm IDC said on Tuesday.",
+        "summary_zh": "研究公司 IDC 周二表示，由于许多制造商提高价格以反映内存和零部件成本上涨，第二季度中国智能手机出货量较去年同期下降 4.3%，至 6600 万部。",
+        "link": "https://finance.yahoo.com/technology/articles/china-smartphone-shipments-fall-fifth-052311893.html",
+        "publisher": "Reuters",
+        "publish_time": 1784006591,
+        "type": "News"
+    },
+    {
+        "title": "Huawei, Apple Get Boost in China From Memory Costs, IDC Says",
+        "title_zh": "IDC 称，华为、苹果在中国市场受益于内存成本",
+        "summary": "(Bloomberg) -- Huawei Technologies Co. and Apple Inc.",
+        "summary_zh": "（彭博社）——华为技术有限公司和苹果公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/huawei-apple-boost-china-memory-041142975.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784002302,
         "type": "News"
     },
     {
@@ -30,23 +60,23 @@
         "type": "News"
     },
     {
-        "title": "Why Fortune 500 companies are flocking to open source AI",
-        "title_zh": "为什么财富 500 强公司纷纷涌向开源人工智能",
-        "summary": "Ollama CEO Jeffrey Morgan joins Yahoo Finance's Josh Lipton to explain how open-source AI models provide cost savings, data control, and secure localized deployment for major enterprise clients like the Fortune 500.",
-        "summary_zh": "Ollama 首席执行官 Jeffrey Morgan 与雅虎财经的 Josh Lipton 一起解释开源 AI 模型如何为财富 500 强等主要企业客户提供成本节约、数据控制和安全本地化部署。",
-        "link": "https://finance.yahoo.com/video/why-fortune-500-companies-are-flocking-to-open-source-ai-223952992.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783982392,
+        "title": "SoftBank’s Masayoshi Son Sees Fusion Power as Key to AI’s Future",
+        "title_zh": "软银的孙正义将聚变能力视为人工智能未来的关键",
+        "summary": "(Bloomberg) -- SoftBank Group Corp. founder Masayoshi Son said that in the not-so-distant future, nuclear fusion technology will offer the most realistic solution for powering AI data centers’ ballooning needs.",
+        "summary_zh": "（彭博社）——软银集团创始人孙正义表示，在不远的将来，核聚变技术将为满足人工智能数据中心不断增长的需求提供最现实的解决方案。",
+        "link": "https://finance.yahoo.com/energy/articles/softbank-masayoshi-son-sees-fusion-030408005.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783998248,
         "type": "News"
     },
     {
-        "title": "Wall Street ends lower as Iran tensions dampen risk appetite",
-        "title_zh": "由于伊朗紧张局势抑制风险偏好，华尔街收低",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-lower-iran-222620456.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1783981580,
+        "title": "Huawei's $11 Billion Clean Energy Empire Is Opening New Markets",
+        "title_zh": "华为110亿美元的清洁能源帝国正在开拓新市场",
+        "summary": "(Bloomberg) -- Surrounded by the turquoise waters of the Atlantic and dotted with native fig trees, the archipelago of Fernando de Noronha is one of Brazil’s most coveted tourist destinations.",
+        "summary_zh": "（彭博社）——费尔南多-迪诺罗尼亚群岛周围环绕着碧绿的大西洋海水，点缀着本土无花果树，是巴西最令人向往的旅游目的地之一。",
+        "link": "https://finance.yahoo.com/energy/articles/huaweis-11-billion-clean-energy-230120283.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1783983680,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/metas-data-center-costs-are-skyrocketing-heres-what-you-need-to-know-203416070.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1783974856,
-        "type": "News"
-    },
-    {
-        "title": "'Scam Altman strikes again': Why SpaceX CEO Elon Musk was beefing on X over the weekend",
-        "title_zh": "“诈骗奥特曼再次出击”：为什么 SpaceX 首席执行官埃隆·马斯克在周末对 X 表示不满",
-        "summary": "SpaceX (SPCX) and Tesla (TSLA) CEO Elon Musk was sparring with OpenAI (OPAI.PVT) CEO Sam Altman on X over the weekend. Yahoo Finance Technology Editor Dan Howley breaks down the details.",
-        "summary_zh": "周末，SpaceX (SPCX) 和特斯拉 (TSLA) 首席执行官埃隆·马斯克 (Elon Musk) 与 OpenAI (OPAI.PVT) 首席执行官萨姆·奥尔特曼 (Sam Altman) 在 X 上发生了争执。雅虎财经技术编辑丹·豪利 (Dan Howley) 详...",
-        "link": "https://finance.yahoo.com/video/scam-altman-strikes-again-why-spacex-ceo-elon-musk-was-beefing-on-x-over-the-weekend-202657668.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783974417,
-        "type": "News"
-    },
-    {
-        "title": "Chip stocks may be selling off, but profits are set to triple by 2027: Chart of the Day",
-        "title_zh": "芯片股可能遭到抛售，但到 2027 年利润将增加两倍：每日图表",
-        "summary": "The S&P 500 (^GSPC) is holding strong despite the recent sell-off in chip stocks. Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look.",
-        "summary_zh": "尽管最近芯片股遭到抛售，但标准普尔 500 指数 (^GSPC) 仍保持坚挺。雅虎金融市场和数据编辑 Jared Blikre 进行了仔细研究。",
-        "link": "https://finance.yahoo.com/video/chip-stocks-may-be-selling-off-but-profits-are-set-to-triple-by-2027-chart-of-the-day-195803178.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1783972683,
-        "type": "News"
-    },
-    {
-        "title": "Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day",
-        "title_zh": "散户投资者正在从苹果、特斯拉和芯片股中套现：每日图表",
-        "summary": "Retail is selling former leaders, but record market breadth shows the broader rally is still holding up.",
-        "summary_zh": "零售业正在抛售前领头羊，但创纪录的市场广度表明更广泛的涨势仍在持续。",
-        "link": "https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1783959844,
         "type": "News"
     }
 ]

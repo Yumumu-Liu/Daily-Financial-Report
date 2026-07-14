@@ -1,5 +1,15 @@
 [
     {
+        "title": "What Broadcom (AVGO)'s Extended Apple Custom Chip Deal Through 2031 Means For Shareholders",
+        "title_zh": "Broadcom (AVGO) 将苹果定制芯片交易延长至 2031 年对股东意味着什么",
+        "summary": "In early July 2026, Broadcom Inc. announced that it and Apple Inc. had expanded their long-running technology collaboration through 2031 with new multi-year agreements for Broadcom to develop and supply custom ASIC silicon across multiple generations of Apple products.",
+        "summary_zh": "2026 年 7 月上旬，博通公司 (Broadcom Inc.) 宣布，其与苹果公司 (Apple Inc.) 已将长期技术合作范围扩大到 2031 年，并签署了新的多年协议，让博通 (Broadcom) 为多代苹果产品开发和供应定制 ASIC 芯片。",
+        "link": "https://finance.yahoo.com/technology/articles/broadcom-avgo-extended-apple-custom-051036035.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1784005836,
+        "type": "News"
+    },
+    {
         "title": "ORCL Stock At 14-Month Low Amid High Debt, Execution Risks: Retail Calls $300B OpenAI Deal A 'Liability'",
         "title_zh": "ORCL 股价处于 14 个月低点，债务高企，执行风险：散户称 300B 美元的 OpenAI 交易是“负债”",
         "summary": "Oracle shares tumbled 6.5% on Monday amid a market-wide sell-off triggered by the escalation of the war in Iran.",
@@ -7,26 +17,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-14-month-low-031211710.html",
         "publisher": "Stocktwits",
         "publish_time": 1783998731,
-        "type": "News"
-    },
-    {
-        "title": "How a Major U.S. Air Force Fleet Deal At Salesforce (CRM) Has Changed Its Investment Story",
-        "title_zh": "Salesforce (CRM) 的一项重大美国空军舰队交易如何改变了其投资故事",
-        "summary": "Earlier this month, Salesforce announced that the U.S.",
-        "summary_zh": "本月早些时候，Salesforce 宣布美国",
-        "link": "https://finance.yahoo.com/technology/ai/articles/major-u-air-force-fleet-221608609.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1783980968,
-        "type": "News"
-    },
-    {
-        "title": "$35 Billion AI Credit Deal Nears Trading as Broadcom Financing Advances",
-        "title_zh": "随着博通融资的推进，350 亿美元的人工智能信贷交易即将完成交易",
-        "summary": "About $15 billion of the AI infrastructure financing could become tradable by early next year.",
-        "summary_zh": "到明年初，大约 150 亿美元的人工智能基础设施融资可能可以进行交易。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/35-billion-ai-credit-deal-184014429.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1783622414,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/energy/articles/kkr-kkr-korea-renewables-deal-121308627.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1783512788,
+        "type": "News"
+    },
+    {
+        "title": "HSBC Weighs Turkey Exit as Emirates NBD Explores Acquisition Deal",
+        "title_zh": "阿联酋国民银行 (Emirates NBD) 探索收购交易，汇丰银行考虑退出土耳其",
+        "summary": "HSBC is reportedly exploring a sale of its Turkey business to Emirates NBD, extending its global restructuring while sharpening its focus on core growth markets.",
+        "summary_zh": "据报道，汇丰银行正在考虑将其土耳其业务出售给阿联酋国民银行，以扩大其全球重组，同时加强对核心增长市场的关注。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-weighs-turkey-exit-emirates-134100000.html",
+        "publisher": "Zacks",
+        "publish_time": 1782913260,
         "type": "News"
     }
 ]
