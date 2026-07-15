@@ -1,12 +1,62 @@
 [
     {
-        "title": "Wall Street ends higher on cool inflation data, solid bank earnings",
-        "title_zh": "通胀数据温和、银行盈利稳健，华尔街收高",
-        "summary": "STORY: U.S. stocks closed mostly higher on Tuesday, with the Dow ending little changed, the S&P 500 adding almost four-tenths of a percent and the Nasdaq gaining nine-tenths of a percent.Second-quarter earnings season began with five big U.S.",
-        "summary_zh": "故事：美国股市周二收盘大多走高，道琼斯指数收盘变化不大，标准普尔 500 指数上涨近十分之四，纳斯达克指数上涨十分之九。美国五大股指第二季度财报季拉开帷幕。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-cool-224417283.html",
+        "title": "Google urges EU top court to back ruling scrapping $1.7 billion antitrust fine",
+        "title_zh": "谷歌敦促欧盟最高法院支持取消 17 亿美元反垄断罚款的裁决",
+        "summary": "Alphabet unit Google on Wednesday urged Europe's top court to dismiss EU antitrust regulators' appeal ‌against a lower court ruling that scrapped a €1.49 billion ($1.7 billion) fine, saying ‌the regulators' arguments were flawed.",
+        "summary_zh": "Alphabet 旗下谷歌周三敦促欧洲最高法院驳回欧盟反垄断监管机构对下级法院撤销 14.9 亿欧元（17 亿美元）罚款的裁决提出的上诉，称监管机构的论点存在缺陷。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/google-urges-eu-top-court-102512478.html",
+        "publisher": "Reuters",
+        "publish_time": 1784111112,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend gains ahead of earnings, wholesale inflation data",
+        "title_zh": "今日股市：道指、标准普尔 500 指数、纳斯达克期货在财报、批发通胀数据之前扩大涨幅",
+        "summary": "The focus turns to Wednesday's release of the Producer Price Index after the latest Consumer Price Index data showed the largest single-month decline in inflation since April 2020.",
+        "summary_zh": "在最新的消费者价格指数数据显示通胀出现 2020 年 4 月以来最大单月降幅后，焦点转向周三发布的生产者价格指数。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-extend-gains-ahead-of-earnings-wholesale-inflation-data-091813320.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784107093,
+        "type": "News"
+    },
+    {
+        "title": "Apple Intelligence AI service registered with China's cyberspace regulator",
+        "title_zh": "Apple Intelligence人工智能服务已在中国网信监管机构注册",
+        "summary": "China's cyberspace ‌regulator said on Wednesday ‌that Apple's on-device generative AI service \"Apple Intelligence\" ​has been registered for use on iPhones in the country.",
+        "summary_zh": "中国网络空间监管机构周三表示，苹果的设备端生成人工智能服务“Apple Intelligence”已在中国注册，可在 iPhone 上使用。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-intelligence-ai-registered-chinas-091201616.html",
+        "publisher": "Reuters",
+        "publish_time": 1784106721,
+        "type": "News"
+    },
+    {
+        "title": "Stocks steady as oil surge offsets ASML boost to tech shares",
+        "title_zh": "油价上涨抵消了 ASML 对科技股的提振，股市保持稳定",
+        "summary": "By Danilo Masoni and Tom Westbrook MILAN/SINGAPORE, July 15 (Reuters) - World shares steadied on Wednesday as upbeat earnings from chipmaking equipment maker ASML and gains in Asian semiconductor",
+        "summary_zh": "作者：Danilo Masoni 和 Tom Westbrook 米兰/新加坡，7 月 15 日（路透社）——由于芯片制造设备制造商 ASML 的乐观盈利以及亚洲半导体的上涨，周三世界股市持稳",
+        "link": "https://finance.yahoo.com/news/asian-stocks-gain-drop-us-015011670.html",
+        "publisher": "Reuters",
+        "publish_time": 1784106265,
+        "type": "News"
+    },
+    {
+        "title": "BMW races to catch up in a Chinese EV market that won't slow down",
+        "title_zh": "宝马竞相追赶中国电动汽车市场，势头不会放缓",
+        "summary": "STORY: \"The Neue Klasse was first unveiled by BMW five years ago, and that's the sort of typical speed it would take for cars to hit the market. So, four, five years would normally not be a problem.",
+        "summary_zh": "故事：“五年前，宝马首次推出了 Neue Klasse，这是汽车上市所需的典型速度。因此，四、五年通常不是问题。",
+        "link": "https://finance.yahoo.com/video/bmw-races-catch-chinese-ev-074841750.html",
         "publisher": "Reuters Videos",
-        "publish_time": 1784069057,
+        "publish_time": 1784101721,
+        "type": "News"
+    },
+    {
+        "title": "ASML Raises Full-Year Outlook as AI Boosts Demand at Chipmakers",
+        "title_zh": "人工智能提振芯片制造商需求，ASML 上调全年业绩预期",
+        "summary": "(Bloomberg) -- ASML Holding NV lifted its annual sales forecast for the second time this year as a surge in artificial intelligence spending drives demand for the Dutch company’s chip-making machines.",
+        "summary_zh": "（彭博社）——ASML Holding NV 今年第二次上调了年度销售预期，因为人工智能支出的激增推动了对这家荷兰公司芯片制造机器的需求。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/asml-raises-full-outlook-ai-050748708.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784092068,
         "type": "News"
     },
     {
@@ -30,16 +80,6 @@
         "type": "News"
     },
     {
-        "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
-        "title_zh": "OpenAI 的首款设备将是可移动、无屏幕扬声器，作为人工智能伴侣",
-        "summary": "(Bloomberg) -- OpenAI’s much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of home computer for the AI era, according to people familiar with the matter.Most Read from BloombergUS Hits Iran With Str...",
-        "summary_zh": "(彭博社)——据知情人士透露，备受期待的 OpenAI 进军消费设备领域的计划将从一款移动、无屏幕智能音箱开始，该音箱旨在成为人工智能时代的新型家用电脑。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/openai-first-device-movable-screenless-205215714.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784062335,
-        "type": "News"
-    },
-    {
         "title": "Why Meta stock suddenly broke out after a long slide",
         "title_zh": "为什么Meta股票在长期下滑后突然爆发",
         "summary": "Meta stock is back in rally mode, for now.",
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/why-meta-stock-suddenly-broke-out-after-a-long-slide-182755052.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1784053675,
-        "type": "News"
-    },
-    {
-        "title": "June CPI report tests Fed rate cut outlook as Kevin Warsh testifies",
-        "title_zh": "凯文·沃什 (Kevin Warsh) 作证时，6 月 CPI 报告测试美联储降息前景",
-        "summary": "Yahoo Finance's Markets and Data Editor Jared Blikre and Senior Business Reporter Brooke DiPalma join Julie Hyman on Market Catalysts to break down the June Consumer Price Index (CPI) report, what it means for the Federal Reserve's rate-cut outlook, and how Fed Chair Kevin War...",
-        "summary_zh": "雅虎财经的市场和数据编辑贾里德·布利克尔 (Jared Blikre) 和高级商业记者布鲁克·迪帕尔玛 (Brooke DiPalma) 与朱莉·海曼 (Julie Hyman) 一起在市场催化剂上详细分析了 6 月份消费者价格指数 (CPI) 报告、这对美联储降息前景意味...",
-        "link": "https://finance.yahoo.com/video/june-cpi-report-tests-fed-rate-cut-outlook-as-kevin-warsh-testifies-155010151.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784044210,
-        "type": "News"
-    },
-    {
-        "title": "IBM stock closes down more than 25% after preannounced earnings results",
-        "title_zh": "IBM 公布财报后股价收盘下跌逾 25%",
-        "summary": "IBM stock collapsed 25% after the company preannounced its Q2 earnings results.",
-        "summary_zh": "IBM 预先公布第二季度盈利结果后，该公司股价暴跌 25%。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784041565,
-        "type": "News"
-    },
-    {
-        "title": "Meta expands Louisiana data center to 5GW in new AI push",
-        "title_zh": "Meta 在新的人工智能推动下将路易斯安那州数据中心扩展至 5GW",
-        "summary": "Meta Platforms (META) will be expanding its data center project in Louisiana to 5 gigawatts of compute capacity. Yahoo Finance Tech Editor Dan Howley examines this latest news.",
-        "summary_zh": "Meta Platforms (META) 将把其位于路易斯安那州的数据中心项目的计算能力扩展到 5 吉瓦。雅虎财经技术编辑丹·豪利 (Dan Howley) 审视了这一最新消息。",
-        "link": "https://finance.yahoo.com/video/meta-expands-louisiana-data-center-to-5gw-in-new-ai-push-150033147.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784041233,
-        "type": "News"
-    },
-    {
-        "title": "Is Meta's recent rally sustainable?",
-        "title_zh": "Meta近期的涨势能否持续？",
-        "summary": "Meta Platforms (META) stock has finally crossed back above its 200-day moving average, consecutively in its last two sessions.",
-        "summary_zh": "Meta Platforms (META) 股票终于在过去两个交易日连续回穿 200 日移动均线上方。",
-        "link": "https://finance.yahoo.com/video/is-metas-recent-rally-sustainable-143140725.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784039500,
         "type": "News"
     }
 ]
