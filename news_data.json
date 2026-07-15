@@ -1,92 +1,92 @@
 [
     {
-        "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day",
-        "title_zh": "美光和英伟达正在推动 7000 亿美元的芯片利润繁荣：每日图表",
-        "summary": "Chip stocks have shed $2.7 trillion since late June, yet Wall Street still sees industry profits reaching roughly $700 billion in 2027.",
-        "summary_zh": "自 6 月底以来，芯片股已蒸发 2.7 万亿美元，但华尔街仍预计 2027 年该行业利润将达到约 7000 亿美元。",
-        "link": "https://finance.yahoo.com/markets/article/micron-and-nvidia-are-powering-a-700-billion-chip-profit-boom-chart-of-the-day-100000068.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784023200,
+        "title": "Wall Street ends higher on cool inflation data, solid bank earnings",
+        "title_zh": "通胀数据温和、银行盈利稳健，华尔街收高",
+        "summary": "STORY: U.S. stocks closed mostly higher on Tuesday, with the Dow ending little changed, the S&P 500 adding almost four-tenths of a percent and the Nasdaq gaining nine-tenths of a percent.Second-quarter earnings season began with five big U.S.",
+        "summary_zh": "故事：美国股市周二收盘大多走高，道琼斯指数收盘变化不大，标准普尔 500 指数上涨近十分之四，纳斯达克指数上涨十分之九。美国五大股指第二季度财报季拉开帷幕。",
+        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-cool-224417283.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1784069057,
         "type": "News"
     },
     {
-        "title": "Google probed by Swiss regulator over Android default search feature",
-        "title_zh": "谷歌因 Android 默认搜索功能受到瑞士监管机构调查",
-        "summary": "Switzerland's Competition Commission (COMCO) has launched a preliminary investigation into Google's removal of a ‌feature that allows mobile phone users to opt out ‌of using its search engine as default, the authority said on Tuesday.",
-        "summary_zh": "瑞士竞争委员会 (COMCO) 周二表示，该机构已对谷歌删除一项允许手机用户选择不使用其默认搜索引擎的功能展开初步调查。",
-        "link": "https://finance.yahoo.com/technology/articles/google-probed-swiss-regulator-over-071613288.html",
-        "publisher": "Reuters",
-        "publish_time": 1784013373,
-        "type": "News"
-    },
-    {
-        "title": "A hidden pipeline brings Amazon and Walmart to African shoppers",
-        "title_zh": "一条隐藏的管道将亚马逊和沃尔玛带给非洲购物者",
-        "summary": "DAKAR, July 14 (Reuters) - No bank card. Shoppers in Africa increasingly are buying online from big brands such as Amazon or Walmart even though they have no physical presence on much of the continent.",
-        "summary_zh": "达喀尔，7 月 14 日（路透社）——没有银行卡。非洲的购物者越来越多地从亚马逊或沃尔玛等大品牌网上购物，尽管这些品牌在非洲大陆的大部分地区没有实体店。",
-        "link": "https://finance.yahoo.com/news/hidden-pipeline-brings-amazon-walmart-063637974.html",
-        "publisher": "Reuters",
-        "publish_time": 1784010997,
-        "type": "News"
-    },
-    {
-        "title": "China smartphone shipments fall for fifth straight quarter as costs rise - IDC",
-        "title_zh": "由于成本上升，中国智能手机出货量连续第五个季度下降 - IDC",
-        "summary": "China's smartphone shipments fell 4.3% to 66 million ‌units in the second quarter from a year ‌earlier, as many manufacturers hiked prices to reflect rising memory and ​component costs, research firm IDC said on Tuesday.",
-        "summary_zh": "研究公司 IDC 周二表示，由于许多制造商提高价格以反映内存和零部件成本上涨，第二季度中国智能手机出货量较去年同期下降 4.3%，至 6600 万部。",
-        "link": "https://finance.yahoo.com/technology/articles/china-smartphone-shipments-fall-fifth-052311893.html",
-        "publisher": "Reuters",
-        "publish_time": 1784006591,
-        "type": "News"
-    },
-    {
-        "title": "Huawei, Apple Get Boost in China From Memory Costs, IDC Says",
-        "title_zh": "IDC 称，华为、苹果在中国市场受益于内存成本",
-        "summary": "(Bloomberg) -- Huawei Technologies Co. and Apple Inc.",
-        "summary_zh": "（彭博社）——华为技术有限公司和苹果公司",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/huawei-apple-boost-china-memory-041142975.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784002302,
-        "type": "News"
-    },
-    {
-        "title": "TSMC seen riding AI boom to fifth straight quarter of record profit",
-        "title_zh": "台积电有望乘着人工智能热潮，连续第五个季度实现创纪录的利润",
-        "summary": "TSMC, the world's largest manufacturer of advanced AI chips, will likely notch a fifth consecutive quarter of record earnings, driven ‌by booming AI infrastructure spending.",
-        "summary_zh": "在人工智能基础设施支出蓬勃发展的推动下，全球最大的先进人工智能芯片制造商台积电可能会连续第五个季度实现创纪录的盈利。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-seen-riding-ai-boom-031106342.html",
-        "publisher": "Reuters",
-        "publish_time": 1783998666,
-        "type": "News"
-    },
-    {
-        "title": "SoftBank’s Masayoshi Son Sees Fusion Power as Key to AI’s Future",
-        "title_zh": "软银的孙正义将聚变能力视为人工智能未来的关键",
-        "summary": "(Bloomberg) -- SoftBank Group Corp. founder Masayoshi Son said that in the not-so-distant future, nuclear fusion technology will offer the most realistic solution for powering AI data centers’ ballooning needs.",
-        "summary_zh": "（彭博社）——软银集团创始人孙正义表示，在不远的将来，核聚变技术将为满足人工智能数据中心不断增长的需求提供最现实的解决方案。",
-        "link": "https://finance.yahoo.com/energy/articles/softbank-masayoshi-son-sees-fusion-030408005.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1783998248,
-        "type": "News"
-    },
-    {
-        "title": "Huawei's $11 Billion Clean Energy Empire Is Opening New Markets",
-        "title_zh": "华为110亿美元的清洁能源帝国正在开拓新市场",
-        "summary": "(Bloomberg) -- Surrounded by the turquoise waters of the Atlantic and dotted with native fig trees, the archipelago of Fernando de Noronha is one of Brazil’s most coveted tourist destinations.",
-        "summary_zh": "（彭博社）——费尔南多-迪诺罗尼亚群岛周围环绕着碧绿的大西洋海水，点缀着本土无花果树，是巴西最令人向往的旅游目的地之一。",
-        "link": "https://finance.yahoo.com/energy/articles/huaweis-11-billion-clean-energy-230120283.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1783983680,
-        "type": "News"
-    },
-    {
-        "title": "Meta's data center costs are skyrocketing. Here's what you need to know.",
-        "title_zh": "Meta 的数据中心成本正在飙升。这是您需要了解的内容。",
-        "summary": "Meta (META) raised the budget for its Louisiana data center from $27 billion to $50 billion. Yahoo Finance Technology Editor Dan Howley takes a closer look at the company's surging costs.",
-        "summary_zh": "Meta (META) 将其路易斯安那州数据中心的预算从 270 亿美元提高到 500 亿美元。雅虎财经技术编辑丹·豪利（Dan Howley）仔细研究了该公司飙升的成本。",
-        "link": "https://finance.yahoo.com/video/metas-data-center-costs-are-skyrocketing-heres-what-you-need-to-know-203416070.html",
+        "title": "New York enacts statewide moratorium on AI data center construction: A closer look",
+        "title_zh": "纽约颁布全州暂停人工智能数据中心建设：仔细观察",
+        "summary": "New York Governor Kathy Hochul signed an executive order to place a moratorium on the construction of new AI data centers. Yahoo Finance Technology Editor Dan Howley explains the details.",
+        "summary_zh": "纽约州州长 Kathy Hochul 签署了一项行政命令，暂停建设新的人工智能数据中心。雅虎财经技术编辑 Dan Howley 解释了细节。",
+        "link": "https://finance.yahoo.com/video/new-york-enacts-statewide-moratorium-on-ai-data-center-construction-a-closer-look-210912459.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1783974856,
+        "publish_time": 1784063352,
+        "type": "News"
+    },
+    {
+        "title": "Chinese AI model developer DeepSeek preps for IPO: What to know",
+        "title_zh": "中国人工智能模型开发商 DeepSeek 为 IPO 做准备：需要了解什么",
+        "summary": "Chinese large language model (LLM) developer DeepSeek is reportedly preparing for an IPO later this year or in 2027. Yahoo Finance Technology Editor Dan Howley outlines what we know so far.",
+        "summary_zh": "据报道，中国大语言模型 (LLM) 开发商 DeepSeek 正准备在今年晚些时候或 2027 年进行 IPO。雅虎财经技术编辑丹·豪利 (Dan Howley) 概述了我们目前所知的情况。",
+        "link": "https://finance.yahoo.com/video/chinese-ai-model-developer-deepseek-preps-for-ipo-what-to-know-205729630.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784062649,
+        "type": "News"
+    },
+    {
+        "title": "OpenAI’s First Device Will Be Movable, Screenless Speaker Built as AI Companion",
+        "title_zh": "OpenAI 的首款设备将是可移动、无屏幕扬声器，作为人工智能伴侣",
+        "summary": "(Bloomberg) -- OpenAI’s much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of home computer for the AI era, according to people familiar with the matter.Most Read from BloombergUS Hits Iran With Str...",
+        "summary_zh": "(彭博社)——据知情人士透露，备受期待的 OpenAI 进军消费设备领域的计划将从一款移动、无屏幕智能音箱开始，该音箱旨在成为人工智能时代的新型家用电脑。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/openai-first-device-movable-screenless-205215714.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784062335,
+        "type": "News"
+    },
+    {
+        "title": "Why Meta stock suddenly broke out after a long slide",
+        "title_zh": "为什么Meta股票在长期下滑后突然爆发",
+        "summary": "Meta stock is back in rally mode, for now.",
+        "summary_zh": "目前，Meta 股票又回到反弹模式。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/why-meta-stock-suddenly-broke-out-after-a-long-slide-182755052.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784053675,
+        "type": "News"
+    },
+    {
+        "title": "June CPI report tests Fed rate cut outlook as Kevin Warsh testifies",
+        "title_zh": "凯文·沃什 (Kevin Warsh) 作证时，6 月 CPI 报告测试美联储降息前景",
+        "summary": "Yahoo Finance's Markets and Data Editor Jared Blikre and Senior Business Reporter Brooke DiPalma join Julie Hyman on Market Catalysts to break down the June Consumer Price Index (CPI) report, what it means for the Federal Reserve's rate-cut outlook, and how Fed Chair Kevin War...",
+        "summary_zh": "雅虎财经的市场和数据编辑贾里德·布利克尔 (Jared Blikre) 和高级商业记者布鲁克·迪帕尔玛 (Brooke DiPalma) 与朱莉·海曼 (Julie Hyman) 一起在市场催化剂上详细分析了 6 月份消费者价格指数 (CPI) 报告、这对美联储降息前景意味...",
+        "link": "https://finance.yahoo.com/video/june-cpi-report-tests-fed-rate-cut-outlook-as-kevin-warsh-testifies-155010151.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784044210,
+        "type": "News"
+    },
+    {
+        "title": "IBM stock closes down more than 25% after preannounced earnings results",
+        "title_zh": "IBM 公布财报后股价收盘下跌逾 25%",
+        "summary": "IBM stock collapsed 25% after the company preannounced its Q2 earnings results.",
+        "summary_zh": "IBM 预先公布第二季度盈利结果后，该公司股价暴跌 25%。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-closes-down-more-than-25-after-preannounced-earnings-results-150605880.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784041565,
+        "type": "News"
+    },
+    {
+        "title": "Meta expands Louisiana data center to 5GW in new AI push",
+        "title_zh": "Meta 在新的人工智能推动下将路易斯安那州数据中心扩展至 5GW",
+        "summary": "Meta Platforms (META) will be expanding its data center project in Louisiana to 5 gigawatts of compute capacity. Yahoo Finance Tech Editor Dan Howley examines this latest news.",
+        "summary_zh": "Meta Platforms (META) 将把其位于路易斯安那州的数据中心项目的计算能力扩展到 5 吉瓦。雅虎财经技术编辑丹·豪利 (Dan Howley) 审视了这一最新消息。",
+        "link": "https://finance.yahoo.com/video/meta-expands-louisiana-data-center-to-5gw-in-new-ai-push-150033147.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784041233,
+        "type": "News"
+    },
+    {
+        "title": "Is Meta's recent rally sustainable?",
+        "title_zh": "Meta近期的涨势能否持续？",
+        "summary": "Meta Platforms (META) stock has finally crossed back above its 200-day moving average, consecutively in its last two sessions.",
+        "summary_zh": "Meta Platforms (META) 股票终于在过去两个交易日连续回穿 200 日移动均线上方。",
+        "link": "https://finance.yahoo.com/video/is-metas-recent-rally-sustainable-143140725.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784039500,
         "type": "News"
     }
 ]
