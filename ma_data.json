@@ -1,15 +1,5 @@
 [
     {
-        "title": "ELVA Stock Clocks Best Day In Over 13 Years As Amazon Deal Ignites Rally — Wall Street Eyes Further Jump",
-        "title_zh": "亚马逊交易引发反弹，ELVA 股价创下 13 年来最好单日 — 华尔街期待进一步上涨",
-        "summary": "Roth Capital analyst Craig Irwin advised investors to evaluate Electrovaya’s Amazon pact in the context of Ford Motor Co.’s (F) energy storage system agreement with EDF.",
-        "summary_zh": "Roth Capital 分析师 Craig Irwin 建议投资者在福特汽车公司 (F) 与 EDF 的储能系统协议的背景下评估 Electrovaya 的亚马逊协议。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/elva-stock-clocks-best-day-232548105.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1784157948,
-        "type": "News"
-    },
-    {
         "title": "Market Chatter: JPMorgan-Led Lenders Prepare Up to $3 Billion Financing for Warburg's Pantherx Deal",
         "title_zh": "市场热议：摩根大通牵头的贷款机构为 Warburg 的 Pantherx 交易准备高达 30 亿美元的融资",
         "summary": "JPMorgan Chase & Co (JPM) led group of lenders is arranging a financing package of up to $3 billion",
@@ -30,16 +20,6 @@
         "type": "News"
     },
     {
-        "title": "Amazon strikes a deal that could get it a chunk of a Canadian battery company in the future",
-        "title_zh": "亚马逊达成一项交易，未来可能会获得一家加拿大电池公司的大部分股份",
-        "summary": "Electrovaya gave Amazon options to buy over 20% of its shares, but they only vest as Amazon purchases more products",
-        "summary_zh": "Electrovaya 给予亚马逊购买超过 20% 股份的选择权，但只有当亚马逊购买更多产品时才行权",
-        "link": "https://finance.yahoo.com/news/amazon-strikes-deal-could-chunk-195502586.html",
-        "publisher": "Financial Post",
-        "publish_time": 1784145302,
-        "type": "News"
-    },
-    {
         "title": "New York Yankees in Talks With Apollo Over $3 Billion Financing Deal",
         "title_zh": "纽约洋基队与 Apollo 就 30 亿美元融资交易进行谈判",
         "summary": "(Bloomberg) -- The New York Yankees are in advanced talks to raise nearly $3 billion dollars of financing from Apollo Global Management Inc., people with knowledge of the matter said, as more institutional capital flows into professional sports.",
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/media-advertising/articles/york-yankees-talks-apollo-over-155153951.html",
         "publisher": "Bloomberg",
         "publish_time": 1784130713,
+        "type": "News"
+    },
+    {
+        "title": "AI Push to M&A-Starved Loans Gains Fuel With Supersized QTS Deal",
+        "title_zh": "人工智能推动并购匮乏的贷款通过超大规模的 QTS 交易获得动力",
+        "summary": "(Bloomberg) -- Wall Street banks, scouring every corner of the capital markets to finance the artificial intelligence buildout, have landed on a new pool of funds: US leveraged loans, which are clamoring for the transactions amid a dearth of buyout deals.Most Read from Bloombe...",
+        "summary_zh": "（彭博社）——华尔街银行在资本市场的各个角落为人工智能建设提供资金，他们已经找到了一个新的资金池：美国杠杆贷款，这些贷款在收购交易匮乏的情况下迫切需要交易。",
+        "link": "https://finance.yahoo.com/markets/options/articles/ai-push-m-starved-loans-152946370.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784129386,
+        "type": "News"
+    },
+    {
+        "title": "Apollo Lands Record $35 Billion AI Credit Deal, Challenging Wall Street Banks",
+        "title_zh": "Apollo 达成创纪录的 350 亿美元人工智能信贷交易，给华尔街银行带来挑战",
+        "summary": "Apollo structured a record financing for Broadcom and Anthropic while keeping the debt off Broadcom's balance sheet.",
+        "summary_zh": "Apollo 为 Broadcom 和 Anthropic 提供了创纪录的融资，同时将债务排除在 Broadcom 的资产负债表之外。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-lands-record-35-billion-151249670.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1784128369,
         "type": "News"
     }
 ]
