@@ -1,12 +1,42 @@
 [
     {
-        "title": "Market Chatter: JPMorgan-Led Lenders Prepare Up to $3 Billion Financing for Warburg's Pantherx Deal",
-        "title_zh": "市场热议：摩根大通牵头的贷款机构为 Warburg 的 Pantherx 交易准备高达 30 亿美元的融资",
-        "summary": "JPMorgan Chase & Co (JPM) led group of lenders is arranging a financing package of up to $3 billion",
-        "summary_zh": "摩根大通 (JPM) 领导的贷款机构正在安排高达 30 亿美元的融资方案",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-led-lenders-224614255.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1784155574,
+        "title": "Cisco (CSCO) Stock Looks About Right As Security Deal Talk Grows",
+        "title_zh": "随着安全交易讨论的增多，思科（CSCO）股票看起来不错",
+        "summary": "Cisco Systems has delivered a strong 131.2% total return over the past 5 years, yet current checks suggest the stock now sits close to its estimated intrinsic value rather than standing out as a clear bargain.",
+        "summary_zh": "过去 5 年，思科系统公司的总回报率高达 131.2%，但目前的调查显示，该股目前接近其估计的内在价值，而不是明显便宜的股票。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-security-021630753.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1784254590,
+        "type": "News"
+    },
+    {
+        "title": "Nebius lands $1 billion AI deal as one major risk looms",
+        "title_zh": "Nebius 达成 10 亿美元人工智能交易，重大风险迫在眉睫",
+        "summary": "Nebius Group’s latest $1 billion artificial intelligence contract suggests customer demand is not the company’s biggest problem. Paying to build the capacity may be.",
+        "summary_zh": "Nebius Group 最新价值 10 亿美元的人工智能合同表明，客户需求并不是该公司最大的问题。可能需要付费来建设能力。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nebius-lands-1-billion-ai-003700829.html",
+        "publisher": "TheStreet",
+        "publish_time": 1784248620,
+        "type": "News"
+    },
+    {
+        "title": "Apollo's 715p EasyJet Bid Forces Castlelake Into Higher-Offer Decision",
+        "title_zh": "Apollo 的 715p EasyJet 出价迫使 Castlelake 做出更高报价的决定",
+        "summary": "EasyJet (EJTTF), a UK discount airline, has backed a surprise takeover offer from Apollo Global Management (NYSE:APO), a US investment firm with aircraft leasing and airline financing interests, increasing pressure on Castlelake, a US investment firm that has already made five...",
+        "summary_zh": "英国折扣航空公司易捷航空 (EJTTF) 出人意料地支持了美国投资公司阿波罗全球管理公司 (NYSE:APO) 的收购要约，阿波罗全球管理公司是一家从事飞机租赁和航空公司融资业务的美国投资公司，这给已经获得五项投资的美国投资公司 Castlelake 带来了更大的压力。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollos-715p-easyjet-bid-forces-194333730.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1784231013,
+        "type": "News"
+    },
+    {
+        "title": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom",
+        "title_zh": "SpaceX 和人工智能交易热潮推动高盛股票承销收入跃升 130%",
+        "summary": "Wall Street banks posted their strongest second-quarter ECM revenue since 2021, led by SpaceX and AI fundraising.",
+        "summary_zh": "在 SpaceX 和 AI 融资的带动下，华尔街银行公布了自 2021 年以来最强劲的第二季度 ECM 收入。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldmans-equity-underwriting-revenue-jumps-192710160.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1784230030,
         "type": "News"
     },
     {
@@ -17,36 +47,6 @@
         "link": "https://www.wsj.com/sports/baseball/new-york-yankees-apollo-in-talks-for-3-billion-financing-deal-6c6d8ecf?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1784150220,
-        "type": "News"
-    },
-    {
-        "title": "New York Yankees in Talks With Apollo Over $3 Billion Financing Deal",
-        "title_zh": "纽约洋基队与 Apollo 就 30 亿美元融资交易进行谈判",
-        "summary": "(Bloomberg) -- The New York Yankees are in advanced talks to raise nearly $3 billion dollars of financing from Apollo Global Management Inc., people with knowledge of the matter said, as more institutional capital flows into professional sports.",
-        "summary_zh": "(彭博社)——据知情人士透露，随着越来越多的机构资本流入职业体育运动，纽约洋基队正在就从阿波罗全球管理公司筹集近 30 亿美元融资进行深入谈判。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/york-yankees-talks-apollo-over-155153951.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784130713,
-        "type": "News"
-    },
-    {
-        "title": "AI Push to M&A-Starved Loans Gains Fuel With Supersized QTS Deal",
-        "title_zh": "人工智能推动并购匮乏的贷款通过超大规模的 QTS 交易获得动力",
-        "summary": "(Bloomberg) -- Wall Street banks, scouring every corner of the capital markets to finance the artificial intelligence buildout, have landed on a new pool of funds: US leveraged loans, which are clamoring for the transactions amid a dearth of buyout deals.Most Read from Bloombe...",
-        "summary_zh": "（彭博社）——华尔街银行在资本市场的各个角落为人工智能建设提供资金，他们已经找到了一个新的资金池：美国杠杆贷款，这些贷款在收购交易匮乏的情况下迫切需要交易。",
-        "link": "https://finance.yahoo.com/markets/options/articles/ai-push-m-starved-loans-152946370.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784129386,
-        "type": "News"
-    },
-    {
-        "title": "Apollo Lands Record $35 Billion AI Credit Deal, Challenging Wall Street Banks",
-        "title_zh": "Apollo 达成创纪录的 350 亿美元人工智能信贷交易，给华尔街银行带来挑战",
-        "summary": "Apollo structured a record financing for Broadcom and Anthropic while keeping the debt off Broadcom's balance sheet.",
-        "summary_zh": "Apollo 为 Broadcom 和 Anthropic 提供了创纪录的融资，同时将债务排除在 Broadcom 的资产负债表之外。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-lands-record-35-billion-151249670.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1784128369,
         "type": "News"
     }
 ]
