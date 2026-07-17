@@ -10,16 +10,6 @@
         "type": "News"
     },
     {
-        "title": "Nebius lands $1 billion AI deal as one major risk looms",
-        "title_zh": "Nebius 达成 10 亿美元人工智能交易，重大风险迫在眉睫",
-        "summary": "Nebius Group’s latest $1 billion artificial intelligence contract suggests customer demand is not the company’s biggest problem. Paying to build the capacity may be.",
-        "summary_zh": "Nebius Group 最新价值 10 亿美元的人工智能合同表明，客户需求并不是该公司最大的问题。可能需要付费来建设能力。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nebius-lands-1-billion-ai-003700829.html",
-        "publisher": "TheStreet",
-        "publish_time": 1784248620,
-        "type": "News"
-    },
-    {
         "title": "Apollo's 715p EasyJet Bid Forces Castlelake Into Higher-Offer Decision",
         "title_zh": "Apollo 的 715p EasyJet 出价迫使 Castlelake 做出更高报价的决定",
         "summary": "EasyJet (EJTTF), a UK discount airline, has backed a surprise takeover offer from Apollo Global Management (NYSE:APO), a US investment firm with aircraft leasing and airline financing interests, increasing pressure on Castlelake, a US investment firm that has already made five...",
@@ -47,6 +37,16 @@
         "link": "https://www.wsj.com/sports/baseball/new-york-yankees-apollo-in-talks-for-3-billion-financing-deal-6c6d8ecf?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1784150220,
+        "type": "News"
+    },
+    {
+        "title": "New York Yankees in Talks With Apollo Over $3 Billion Financing Deal",
+        "title_zh": "纽约洋基队与 Apollo 就 30 亿美元融资交易进行谈判",
+        "summary": "(Bloomberg) -- The New York Yankees are in advanced talks to raise nearly $3 billion dollars of financing from Apollo Global Management Inc., people with knowledge of the matter said, as more institutional capital flows into professional sports.",
+        "summary_zh": "(彭博社)——据知情人士透露，随着越来越多的机构资本流入职业体育运动，纽约洋基队正在就从阿波罗全球管理公司筹集近 30 亿美元融资进行深入谈判。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/york-yankees-talks-apollo-over-155153951.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784130713,
         "type": "News"
     }
 ]

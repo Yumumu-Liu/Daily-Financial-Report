@@ -1,32 +1,62 @@
 [
     {
-        "title": "Stocks stumble, oil set for weekly gain on renewed Gulf hostilities",
-        "title_zh": "海湾地区战事重燃，股市下跌，油价每周上涨",
-        "summary": "By Rae Wee SINGAPORE, July 17 (Reuters) - Asian stocks got off to a rocky start on Friday as the drag from chipmakers weighed on global equity indexes, while oil prices were set for their sharpest",
-        "summary_zh": "路透新加坡 7 月 17 日 - 亚洲股市周五开局不利，芯片制造商的拖累打压全球股指，而油价也将创历史新高。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-stumble-oil-set-weekly-011728443.html",
+        "title": "Alphabet, Intel results in focus for AI trade as US earnings rev up",
+        "title_zh": "随着美国盈利增长，Alphabet、英特尔成为人工智能贸易的焦点",
+        "summary": "By Lewis Krauskopf NEW YORK, July 17 (Reuters) - U.S. corporate earnings season heats up in the coming week, with Alphabet and Intel set to offer updates that could sway the market-leading AI trade",
+        "summary_zh": "作者：Lewis Krauskopf 纽约，7 月 17 日（路透社）——美国企业财报季将在未来一周升温，Alphabet 和英特尔将提供可能影响市场领先人工智能行业的最新消息",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-intel-results-focus-ai-100413182.html",
         "publisher": "Reuters",
-        "publish_time": 1784251048,
+        "publish_time": 1784282653,
         "type": "News"
     },
     {
-        "title": "Wall St ends lower as chip weakness offsets solid earnings, data",
-        "title_zh": "由于芯片疲软抵消了稳健的盈利和数据，华尔街收低",
-        "summary": "STORY: Wall Street's main indexes ended lower on Thursday, with the Dow dropping two-tenths of a percent, the S&P 500 shedding about half a percent and the tech-heavy Nasdaq losing almost one-and-a-half percent.Chip stocks tumbled despite bellwether TSMC posting a 77% jump in ...",
-        "summary_zh": "故事：华尔街主要股指周四收低，道琼斯指数下跌了十分之二，标准普尔 500 指数下跌了约半个百分点，以科技股为主的纳斯达克指数下跌了近一个半。尽管领头羊台积电在 2019 年上涨了 77％，但芯片股还是暴跌。",
-        "link": "https://finance.yahoo.com/video/wall-st-ends-lower-chip-223110982.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1784241070,
+        "title": "Stock market today: Stocks fall after Netflix whiff, chips sell-off hammers Nasdaq",
+        "title_zh": "今日股市：Netflix 事件后股市下跌，芯片抛售重创纳斯达克",
+        "summary": "US stocks were on track for weekly losses, as the semiconductor sector continued to drag markets lower.",
+        "summary_zh": "由于半导体行业继续拖累市场走低，美国股市有望每周下跌。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784280225,
         "type": "News"
     },
     {
-        "title": "Should the Fed aim to 'modestly' raise interest rates?",
-        "title_zh": "美联储应该“适度”加息吗？",
-        "summary": "Federal Reserve Bank of Dallas president Lorie Logan came out in favor of \"modestly\" higher interest rates to better balance inflation risks on Thursday.",
-        "summary_zh": "达拉斯联邦储备银行行长洛里·洛根周四表示支持“适度”提高利率，以更好地平衡通胀风险。",
-        "link": "https://finance.yahoo.com/video/should-the-fed-aim-to-modestly-raise-interest-rates-193818950.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784230698,
+        "title": "US Equity Futures Slide as Chip Selloff Prompts Sector Rotation",
+        "title_zh": "芯片抛售促使板块轮动，美国股指期货下跌",
+        "summary": "(Bloomberg) -- US equity futures fell as a selloff in semiconductor stocks gathered steam, pushing investors to look for alternatives in other corners of the market.",
+        "summary_zh": "（彭博社）——随着半导体股票抛售加剧，美国股指期货下跌，促使投资者在市场其他领域寻找替代品。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-slide-chip-083245327.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784277165,
+        "type": "News"
+    },
+    {
+        "title": "Network School founder says immigration probe at tech commune is a risk to Malaysia's tech ambitions",
+        "title_zh": "网络学校创始人表示，科技公社的移民调查对马来西亚的科技雄心构成风险",
+        "summary": "KUALA LUMPUR, July 17 (Reuters) - U.S. investor Balaji Srinivasan said an immigration check at a \"digital nomad\" community in Malaysia based on anonymous social media claims of law violations that",
+        "summary_zh": "路透吉隆坡7月17日 - 美国投资者巴拉吉·斯里尼瓦桑(Balaji Srinivasan)表示，根据匿名社交媒体声称的违法行为，对马来西亚“数字游牧”社区进行了移民检查，",
+        "link": "https://finance.yahoo.com/technology/articles/network-school-founder-says-immigration-055628947.html",
+        "publisher": "Reuters",
+        "publish_time": 1784267788,
+        "type": "News"
+    },
+    {
+        "title": "Xi Vows to Make AI for All in Debut at China’s Top Tech Summit",
+        "title_zh": "习近平誓言让人工智能在中国顶级科技峰会上首次亮相",
+        "summary": "(Bloomberg) -- President Xi Jinping hailed China’s progress in developing low-cost artificial intelligence, pressing his personal imprint on the country’s rapidly expanding global influence to call for a more open technological order.Most Read from BloombergThailand Scraps Pla...",
+        "summary_zh": "（彭博社）——国家主席习近平赞扬中国在开发低成本人工智能方面取得的进展，强调他个人对中国迅速扩大的全球影响力的影响，呼吁建立更加开放的技术秩序。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/xi-vows-ai-debut-china-024305898.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784256185,
+        "type": "News"
+    },
+    {
+        "title": "DeepSeek Champions China’s Bid to Flood the World With Cheap AI",
+        "title_zh": "DeepSeek 支持中国用廉价人工智能淹没世界",
+        "summary": "(Bloomberg) -- On a video conference call from Hangzhou earlier this year, one of China’s hottest startups held a four-hour pitch meeting with potential venture investors that was unusual by almost any measure. Only two representatives per institution were allowed.",
+        "summary_zh": "（彭博社）——今年早些时候，在杭州举行的一次视频电话会议上，中国最热门的初创公司之一与潜在风险投资者举行了长达四个小时的推介会，这几乎从任何角度来看都是不寻常的。每个机构只允许两名代表。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/deepseek-champions-china-bid-flood-003610561.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784248570,
         "type": "News"
     },
     {
@@ -41,7 +71,7 @@
     },
     {
         "title": "Big Tech earnings will put focus on AI spending",
-        "title_zh": "大型科技公司的盈利将重点放在人工智能支出上",
+        "title_zh": "大型科技公司的盈利将集中在人工智能支出上",
         "summary": "Big Tech's earnings are coming fast, and it'll be all about AI spending.",
         "summary_zh": "大型科技公司的盈利正在快速增长，而这一切都将与人工智能支出有关。",
         "link": "https://finance.yahoo.com/technology/article/big-tech-earnings-will-put-focus-on-ai-spending-165004022.html",
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/technology/article/metas-data-center-plans-could-help-solve-its-ai-spending-problems-164031347.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1784220031,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX stock dips below IPO price ahead of Starship test flight: 'It's a bet on Elon'",
-        "title_zh": "星际飞船试飞前 SpaceX 股价跌破 IPO 价格：“这是对埃隆的赌注”",
-        "summary": "SpaceX (SPCX) stock dipped below its $135 IPO price for the first time since its debut. This comes as the company prepares for its 13th Starship test flight. Laffer Tengler Investments CEO and CIO, Nancy Tengler, explains why her confidence in the company hasn't shaken.",
-        "summary_zh": "SpaceX (SPCX) 股价自上市以来首次跌破 135 美元的 IPO 价格。此举正值该公司准备其第 13 次 Starship 试飞之际。 Laffer Tengler Investments 首席执行官兼首席信息官 Nancy Tengler 解释了为什么她对公司的...",
-        "link": "https://finance.yahoo.com/video/spacex-stock-dips-below-ipo-price-ahead-of-starship-test-flight-its-a-bet-on-elon-150934643.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784214574,
-        "type": "News"
-    },
-    {
-        "title": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand",
-        "title_zh": "台积电上调资本支出和收入预测，凸显人工智能芯片需求不断增长",
-        "summary": "TSMC, the world's largest made-to-order chipmaker, reported second quarter results.",
-        "summary_zh": "全球最大的定制芯片制造商台积电公布了第二季度业绩。",
-        "link": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784201461,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq drop as chip stocks tumble, Alphabet stock sinks",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克指数因芯片股暴跌而下跌，Alphabet 股票下跌",
-        "summary": "Investors parsed signals on the AI build-out, consumer spending, geopolitical uncertainty, and more in a packed Thursday session.",
-        "summary_zh": "投资者在周四的交易中解析了有关人工智能发展、消费者支出、地缘政治不确定性等的信号。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-chip-stocks-slide-103116735.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784197876,
         "type": "News"
     }
 ]
