@@ -1,5 +1,25 @@
 [
     {
+        "title": "ConocoPhillips Joins US Firms Vowing $60 Billion for Iraqi Deals",
+        "title_zh": "康菲石油公司与美国公司一起誓言斥资 600 亿美元用于伊拉克交易",
+        "summary": "(Bloomberg) -- ConocoPhillips joined dozens of US firms from the energy, healthcare, finance and tech sectors in signing some $60 billion in deals to lift the Iraqi economy.Most Read from BloombergFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesChip Stocks Poised f...",
+        "summary_zh": "（彭博社）——康菲石油公司与能源、医疗保健、金融和科技领域的数十家美国公司一起签署了约 600 亿美元的协议，以提振伊拉克经济。彭博社的大多数报道 FCC 就“The View”、电视许可证等问题对迪士尼做出了近乎裁决 芯片股准备好...",
+        "link": "https://finance.yahoo.com/energy/articles/conocophillips-joins-us-firms-vowing-185215847.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784314335,
+        "type": "News"
+    },
+    {
+        "title": "Apollo (APO) Completes Emerald And Questex Deals To Build A B2B Events Platform",
+        "title_zh": "Apollo (APO) 完成 Emerald 和 Questex 交易，打造 B2B 活动平台",
+        "summary": "Apollo Global Management (NYSE:APO) has completed the acquisitions of Emerald Holding and Questex. The deals combine the two businesses into a new B2B experiential events and media platform under Apollo-managed funds.",
+        "summary_zh": "Apollo Global Management（纽约证券交易所股票代码：APO）已完成对 Emerald Holding 和 Questex 的收购。这些交易将两家公司合并为一个新的 B2B 体验活动和媒体平台，由 Apollo 管理的基金管理。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-apo-completes-emerald-questex-170947634.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1784308187,
+        "type": "News"
+    },
+    {
         "title": "Cisco (CSCO) Stock Looks About Right As Security Deal Talk Grows",
         "title_zh": "随着安全交易讨论的增多，思科（CSCO）股票看起来不错",
         "summary": "Cisco Systems has delivered a strong 131.2% total return over the past 5 years, yet current checks suggest the stock now sits close to its estimated intrinsic value rather than standing out as a clear bargain.",
@@ -20,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom",
-        "title_zh": "SpaceX 和人工智能交易热潮推动高盛股票承销收入跃升 130%",
-        "summary": "Wall Street banks posted their strongest second-quarter ECM revenue since 2021, led by SpaceX and AI fundraising.",
-        "summary_zh": "在 SpaceX 和 AI 融资的带动下，华尔街银行公布了自 2021 年以来最强劲的第二季度 ECM 收入。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldmans-equity-underwriting-revenue-jumps-192710160.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1784230030,
-        "type": "News"
-    },
-    {
         "title": "New York Yankees, Apollo in Talks for $3 Billion Financing Deal",
         "title_zh": "纽约洋基队与 Apollo 正在洽谈 30 亿美元融资协议",
         "summary": "The New York Yankees, the most successful team in Major League Baseball history, are in advanced talks with  Apollo  Global Management to raise about $3 billion of financing, people familiar with the matter said.",
@@ -37,16 +47,6 @@
         "link": "https://www.wsj.com/sports/baseball/new-york-yankees-apollo-in-talks-for-3-billion-financing-deal-6c6d8ecf?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1784150220,
-        "type": "News"
-    },
-    {
-        "title": "New York Yankees in Talks With Apollo Over $3 Billion Financing Deal",
-        "title_zh": "纽约洋基队与 Apollo 就 30 亿美元融资交易进行谈判",
-        "summary": "(Bloomberg) -- The New York Yankees are in advanced talks to raise nearly $3 billion dollars of financing from Apollo Global Management Inc., people with knowledge of the matter said, as more institutional capital flows into professional sports.",
-        "summary_zh": "(彭博社)——据知情人士透露，随着越来越多的机构资本流入职业体育运动，纽约洋基队正在就从阿波罗全球管理公司筹集近 30 亿美元融资进行深入谈判。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/york-yankees-talks-apollo-over-155153951.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784130713,
         "type": "News"
     }
 ]
