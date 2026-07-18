@@ -1,5 +1,25 @@
 [
     {
+        "title": "Warren Buffett's Top Rule for Dealing With a Stock Market Crash",
+        "title_zh": "沃伦·巴菲特应对股市崩盘的首要规则",
+        "summary": "The Oracle of Omaha views corrections and bear markets through a completely different lens than most investors do.",
+        "summary_zh": "这位奥马哈先知以与大多数投资者完全不同的视角看待调整和熊市。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-top-rule-dealing-093700633.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1784367420,
+        "type": "News"
+    },
+    {
+        "title": "Electrovaya (TSX:ELVA) Signs Amazon Deal, Is The Stock Fully Valued?",
+        "title_zh": "Electrovaya (TSX:ELVA) 签署亚马逊交易，该股是否已完全估值？",
+        "summary": "Electrovaya (TSX:ELVA) is in focus after announcing a commercial agreement and warrant transaction with Amazon, linking future Infinity Battery Technology deployments to Amazon purchase volumes and potential equity ownership. See our latest analysis for Electrovaya.",
+        "summary_zh": "Electrovaya (TSX:ELVA) 在宣布与亚马逊达成商业协议和权证交易后成为焦点，将未来的无限电池技术部署与亚马逊的采购量和潜在股权联系起来。请参阅我们对 Electrovaya 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/electrovaya-tsx-elva-signs-amazon-071227007.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1784358747,
+        "type": "News"
+    },
+    {
         "title": "ConocoPhillips Joins US Firms Vowing $60 Billion for Iraqi Deals",
         "title_zh": "康菲石油公司与美国公司一起誓言斥资 600 亿美元用于伊拉克交易",
         "summary": "(Bloomberg) -- ConocoPhillips joined dozens of US firms from the energy, healthcare, finance and tech sectors in signing some $60 billion in deals to lift the Iraqi economy.Most Read from BloombergFCC Near Rulings Against Disney Over ‘The View,’ TV LicensesChip Stocks Poised f...",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-looks-security-021630753.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1784254590,
-        "type": "News"
-    },
-    {
-        "title": "Apollo's 715p EasyJet Bid Forces Castlelake Into Higher-Offer Decision",
-        "title_zh": "Apollo 的 715p EasyJet 出价迫使 Castlelake 做出更高报价的决定",
-        "summary": "EasyJet (EJTTF), a UK discount airline, has backed a surprise takeover offer from Apollo Global Management (NYSE:APO), a US investment firm with aircraft leasing and airline financing interests, increasing pressure on Castlelake, a US investment firm that has already made five...",
-        "summary_zh": "英国折扣航空公司易捷航空 (EJTTF) 出人意料地支持了美国投资公司阿波罗全球管理公司 (NYSE:APO) 的收购要约，阿波罗全球管理公司是一家从事飞机租赁和航空公司融资业务的美国投资公司，这给已经获得五项投资的美国投资公司 Castlelake 带来了更大的压力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/apollos-715p-easyjet-bid-forces-194333730.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1784231013,
-        "type": "News"
-    },
-    {
-        "title": "New York Yankees, Apollo in Talks for $3 Billion Financing Deal",
-        "title_zh": "纽约洋基队与 Apollo 正在洽谈 30 亿美元融资协议",
-        "summary": "The New York Yankees, the most successful team in Major League Baseball history, are in advanced talks with  Apollo  Global Management to raise about $3 billion of financing, people familiar with the matter said.",
-        "summary_zh": "知情人士称，美国职业棒球大联盟历史上最成功的球队纽约洋基队正在与阿波罗全球管理公司进行高级谈判，以筹集约 30 亿美元的资金。",
-        "link": "https://www.wsj.com/sports/baseball/new-york-yankees-apollo-in-talks-for-3-billion-financing-deal-6c6d8ecf?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1784150220,
         "type": "News"
     }
 ]
