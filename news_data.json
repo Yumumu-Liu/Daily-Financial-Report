@@ -1,82 +1,22 @@
 [
     {
-        "title": "Fanatics Fest traders on sports cards vs. stocks",
-        "title_zh": "体育卡与股票的狂热交易者",
-        "summary": "At Fanatics Fest, prominent sports card traders and dealers discuss the massive growth of the alternative collectibles market, highlighting cards that fetch upwards of a million dollars.",
-        "summary_zh": "在 Fanatics Fest 上，著名的运动卡交易商和经销商讨论了另类收藏品市场的大规模增长，重点介绍了售价超过 100 万美元的卡片。",
-        "link": "https://finance.yahoo.com/video/fanatics-fest-traders-on-sports-cards-vs-stocks-212906436.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784323746,
-        "type": "News"
-    },
-    {
-        "title": "Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",
-        "title_zh": "雅虎财经试驾梅赛德斯-奔驰新款豪华电动车 CLA 250+",
-        "summary": "Mercedes-Benz (MBG.DE, MBGAF) is shifting into high gear with a new luxury EV designed to better compete with Tesla's (TSLA) Model 3.",
-        "summary_zh": "梅赛德斯-奔驰 (MBG.DE, MBGAF) 正全力推出一款新型豪华电动汽车，旨在更好地与特斯拉 (TSLA) Model 3 竞争。",
-        "link": "https://finance.yahoo.com/video/yahoo-finance-test-drives-mercedes-benzs-new-luxury-ev-the-cla-250-203949728.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784320789,
-        "type": "News"
-    },
-    {
-        "title": "How Starlink is SpaceX's key to making big 'star bucks'",
-        "title_zh": "星链如何成为 SpaceX 赚大钱的关键",
-        "summary": "SpaceX (SPCX) canceled the test launch of its latest Starship rocket on Thursday due to engine ignition failure. The space venture's stock sinks lower ahead of Friday's close after already dropping below its mega-IPO price earlier this week.",
-        "summary_zh": "由于发动机点火故障，SpaceX (SPCX) 取消了周四最新型 Starship 火箭的试射。这家太空企业的股价在本周早些时候已经跌破其大型IPO价格后，在周五收盘前下跌。",
-        "link": "https://finance.yahoo.com/video/starlink-spacexs-key-making-big-202500888.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784319900,
-        "type": "News"
-    },
-    {
-        "title": "US stocks sink this week, semiconductors walloped amid sell-off",
-        "title_zh": "本周美股下跌，半导体遭遇抛售",
-        "summary": "US equities (^DJI, ^IXIC, ^GSPC) closed Friday's session in negative territory — led by the Nasdaq Composite's 1.4% drop — all three of the market indexes seeing weekly losses amid the recent sell-off in semiconductor stocks.",
-        "summary_zh": "美国股市（^DJI、^IXIC、^GSPC）周五收盘下跌，纳斯达克综合指数下跌 1.4%，所有三个市场指数均因近期半导体股票抛售而出现周跌幅。",
-        "link": "https://finance.yahoo.com/video/us-stocks-sink-this-week-semiconductors-walloped-amid-sell-off-201117763.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784319077,
-        "type": "News"
-    },
-    {
-        "title": "Bull market remains historically strong despite recent tech stock pain: Chart",
-        "title_zh": "尽管最近科技股遭遇痛苦，但牛市仍保持历史强劲：图表",
-        "summary": "The bull market is still alive.",
-        "summary_zh": "牛市依然活跃。",
-        "link": "https://finance.yahoo.com/markets/article/bull-market-remains-historically-strong-despite-recent-tech-stock-pain-chart-152657879.html",
+        "title": "This week's AI winners and losers",
+        "title_zh": "本周人工智能的赢家和输家",
+        "summary": "Yahoo Finance's AI winners and losers include TSMC, Moonshot AI, IBM, and the chip industry.",
+        "summary_zh": "雅虎财经的人工智能赢家和输家包括台积电、Moonshot AI、IBM 和芯片行业。",
+        "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1784302017,
+        "publish_time": 1784380614,
         "type": "News"
     },
     {
-        "title": "Apple reclaims world's most valuable company as Nvidia slips",
-        "title_zh": "随着英伟达的下滑，苹果重新成为全球最有价值的公司",
-        "summary": "Apple (AAPL) has reclaimed its title as the world's most valuable company after a tech-led sell-off pushed Nvidia (NVDA) shares lower, allowing the iPhone maker to retake the top spot by market capitalization.",
-        "summary_zh": "在科技股引发的抛售推低英伟达 (NVDA) 股价后，苹果 (AAPL) 重新夺回了全球最有价值公司的称号，使这家 iPhone 制造商重新夺回了市值榜首的位置。",
-        "link": "https://finance.yahoo.com/video/apple-reclaims-worlds-most-valuable-company-as-nvidia-slips-151104675.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784301064,
-        "type": "News"
-    },
-    {
-        "title": "Oracle's stock crash looks embarrassing for billionaire founder Larry Ellison",
-        "title_zh": "甲骨文的股价暴跌让亿万富翁创始人拉里·埃里森感到尴尬",
-        "summary": "Oracle stock has sunk to the ocean floor, and it's unclear what will bring it back afloat.",
-        "summary_zh": "甲骨文的股票已经沉入海底，目前还不清楚什么能够让它重新浮出水面。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/oracles-stock-crash-looks-embarrassing-for-billionaire-founder-larry-ellison-131809503.html",
+        "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
+        "title_zh": "标准普尔 500 指数正在打破盈利策略：每日图表",
+        "summary": "The S&P 500 is in an earnings boom — but the usual earnings bust never came.",
+        "summary_zh": "标准普尔 500 指数正处于盈利繁荣时期，但通常的盈利衰退从未到来。",
+        "link": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1784294289,
-        "type": "News"
-    },
-    {
-        "title": "Semiconductor stocks trim losses as investors buy the dip",
-        "title_zh": "投资者逢低买入，半导体股减少跌幅",
-        "summary": "Chip stocks trimmed losses on Friday as investors bought the dip despite AI jitters.",
-        "summary_zh": "尽管对人工智能感到不安，但由于投资者逢低买入，芯片股周五收窄跌幅。",
-        "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-trim-losses-as-investors-buy-the-dip-130920103.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784293760,
+        "publish_time": 1784375762,
         "type": "News"
     }
 ]
