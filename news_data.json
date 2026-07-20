@@ -1,52 +1,92 @@
 [
     {
-        "title": "Tesla, Alphabet, Intel, GM: Earnings to watch this week",
-        "title_zh": "特斯拉、Alphabet、英特尔、通用汽车：本周值得关注的财报",
-        "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come throughout next week, including earnings results out from Alphabet (GOOG, GOOGL), Tesla (TSLA), General Motors (GM), and Intel (INTC).",
-        "summary_zh": "《寻求趋势》主持人乔希·利普顿 (Josh Lipton) 预览了下周即将发布的几个重大新闻，包括 Alphabet (GOOG、GOOGL)、特斯拉 (TSLA)、通用汽车 (GM) 和英特尔 (INTC) 的财报。",
-        "link": "https://finance.yahoo.com/video/tesla-alphabet-intel-gm-earnings-000000527.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784505600,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
-        "title_zh": "随着投资者抛售股票，大型科技公司需要证明人工智能支出的合理性",
-        "summary": "(Bloomberg) -- After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sel...",
-        "summary_zh": "（彭博社）——在上周芯片股暴跌和科技股大范围抛售之后，人工智能领域最大的投资者面临着越来越大的压力，他们需要向陷入困境的交易员证明他们的支出是合理的，交易员的手指越来越痒。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784466000,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech earnings test tech's big rotation: What to watch this week",
-        "title_zh": "大型科技公司的盈利测试了科技公司的大轮换：本周值得关注的内容",
-        "summary": "Earnings results from Alphabet and Tesla headline a busy week, amid a chip sell-off and a conflict in Iran that keeps geopolitics simmering and oil prices rising.",
-        "summary_zh": "在芯片抛售和伊朗冲突导致地缘政治持续发酵和油价上涨的背景下，Alphabet 和特斯拉的财报成为忙碌的一周的头条新闻。",
-        "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨，因等待大型科技公司财报而油价走低",
+        "summary": "Wall Street is in search of the next big catalyst for AI heading into a busy week of earnings.",
+        "summary_zh": "华尔街正在寻找人工智能的下一个重要催化剂，进入繁忙的财报周。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1784463839,
+        "publish_time": 1784546069,
         "type": "News"
     },
     {
-        "title": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
-        "title_zh": "“盈利需要强劲”：华尔街评估人工智能贸易的下一个催化剂",
-        "summary": "Wall Street is looking to earnings season for evidence that the AI trade is tact.",
-        "summary_zh": "华尔街正在关注财报季，寻找人工智能交易顺利进行的证据。",
-        "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784462921,
+        "title": "Bristol Myers buys Nvidia's latest AI computing system for drug research",
+        "title_zh": "百时美施贵宝购买英伟达最新的人工智能计算系统用于药物研究",
+        "summary": "Bristol Myers Squibb said on Monday it is buying the latest-generation computing system from chip company Nvidia ‌to support its use of artificial intelligence across its drug discovery and development ‌operations.",
+        "summary_zh": "百时美施贵宝周一表示，它正在从芯片公司 Nvidia 购买最新一代计算系统，以支持其在药物发现和开发业务中使用人工智能。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/bristol-myers-buys-nvidias-latest-110116053.html",
+        "publisher": "Reuters",
+        "publish_time": 1784545276,
         "type": "News"
     },
     {
-        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough",
-        "title_zh": "人工智能突破后，中国登月计划在六个月内首次公开募股",
-        "summary": "(Bloomberg) -- Moonshot AI has told investors it’s preparing to list in as early as six months, seizing the opportunity to tap capital markets after its latest model upended industry perceptions of China’s burgeoning capabilities and sent global tech stocks reeling.Most Read f...",
-        "summary_zh": "（彭博社）——Moonshot AI 告诉投资者，它准备最早在六个月内上市，在其最新模型颠覆了行业对中国新兴能力的看法并导致全球科技股震荡之后，抓住了利用资本市场的机会。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
+        "title": "Hut 8 signs $9.8 billion AI data center lease, fully commercializes Texas campus",
+        "title_zh": "Hut 8签署价值98亿美元的人工智能数据中心租约，将德克萨斯园区全面商业化",
+        "summary": "July 20 (Reuters) - Hut 8, a crypto-mining turned AI data center company, said on Monday it has signed a second 15-year lease worth $9.8 billion with an existing investment-grade customer, fully",
+        "summary_zh": "7 月 20 日（路透社）——加密货币挖矿转型的人工智能数据中心公司 Hut 8 周一表示，已与现有投资级客户签署了第二份为期 15 年的租赁合同，价值 98 亿美元，完全",
+        "link": "https://finance.yahoo.com/technology/ai/articles/hut-8-signs-9-8-103741725.html",
+        "publisher": "Reuters",
+        "publish_time": 1784544001,
+        "type": "News"
+    },
+    {
+        "title": "Meta faces Tennessee trial over allegations Instagram was designed to be addictive",
+        "title_zh": "Meta 因涉嫌 Instagram 被设计成令人上瘾而面临田纳西州审判",
+        "summary": "By Diana Novak Jones July 20 (Reuters) - Meta Platforms faces trial in Tennessee on Monday over the state's claims that Instagram's design is to blame for a youth mental-health crisis, one of several",
+        "summary_zh": "作者：戴安娜·诺瓦克·琼斯 (Diana Novak Jones) 7 月 20 日（路透社） - Meta Platforms 周一在田纳西州面临审判，该州声称 Instagram 的设计应归咎于青少年心理健康危机，这是几起青少年心理健康危机之一",
+        "link": "https://finance.yahoo.com/news/meta-faces-tennessee-trial-over-101458167.html",
+        "publisher": "Reuters",
+        "publish_time": 1784543238,
+        "type": "News"
+    },
+    {
+        "title": "Chipmakers head for big profit gains, but will it be enough?",
+        "title_zh": "芯片制造商正寻求大幅利润增长，但这就足够了吗？",
+        "summary": "By Caroline Valetkevitch NEW YORK, July 20 (Reuters) - Chipmakers are in focus on Wall Street, with their shares turning mercurial this month and investors banking on a few dozen newly valuable",
+        "summary_zh": "作者：Caroline Valetkevitch 纽约，7 月 20 日（路透社）——芯片制造商成为华尔街的焦点，他们的股价本月变得反复无常，投资者寄希望于几十个新估值的芯片制造商",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html",
+        "publisher": "Reuters",
+        "publish_time": 1784542191,
+        "type": "News"
+    },
+    {
+        "title": "Wall St futures edge higher ahead of this week's megacap earnings",
+        "title_zh": "在本周大型股收益发布之前，华尔街期货小幅走高",
+        "summary": "July 20 (Reuters) - U.S. stock index futures rose slightly on Monday, following last week's chip-stocks-led pullback, as investors awaited a key slate of earnings that could test Wall Street's AI-",
+        "summary_zh": "7 月 20 日（路透社）——继上周芯片股主导的回调之后，美国股指期货周一小幅上涨，投资者等待可能测试华尔街人工智能的关键财报。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-higher-095551303.html",
+        "publisher": "Reuters",
+        "publish_time": 1784541351,
+        "type": "News"
+    },
+    {
+        "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+        "title_zh": "AI芯片热潮能让ASML成为欧洲第一家万亿美元公司吗？",
+        "summary": "The global artificial intelligence boom has propelled ASML to the top of Europe's stock market, as soaring demand for AI computer chips flows to the Dutch company that dominates the market for the equipment needed to ‌make them.",
+        "summary_zh": "全球人工智能热潮将 ASML 推上了欧洲股市的榜首，因为对 AI 计算机芯片的需求不断飙升，这家荷兰公司在制造这些芯片所需的设备市场上占据主导地位。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/could-ai-chip-boom-asml-081518524.html",
+        "publisher": "Reuters",
+        "publish_time": 1784535318,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-Could AI chip boom make ASML Europe's first trillion-dollar firm?",
+        "title_zh": "分析——AI芯片热潮能否让ASML成为欧洲首家万亿美元企业？",
+        "summary": "The global artificial intelligence boom has propelled ASML to the top of Europe's stock market, as soaring demand for AI computer chips flows to the Dutch company that dominates the market for the equipment needed to ‌make them.",
+        "summary_zh": "全球人工智能热潮将 ASML 推上了欧洲股市的榜首，因为对 AI 计算机芯片的需求不断飙升，这家荷兰公司在制造这些芯片所需的设备市场上占据主导地位。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/analysis-could-ai-chip-boom-050243913.html",
+        "publisher": "Reuters",
+        "publish_time": 1784523763,
+        "type": "News"
+    },
+    {
+        "title": "Bezos Backs AI Startup to Discover New Materials for Chipmaking",
+        "title_zh": "贝佐斯支持人工智能初创公司发现芯片制造新材料",
+        "summary": "(Bloomberg) -- Producing the world’s most in-demand semiconductors requires enormous amounts of energy and access to rare minerals. CuspAI, a two-year-old British startup, has raised nearly half a billion dollars on its bet that artificial intelligence can improve that process.",
+        "summary_zh": "（彭博社）——生产世界上需求量最大的半导体需要大量的能源和稀有矿物。 CuspAI 是一家成立两年的英国初创公司，它已筹集了近 5 亿美元资金，押注人工智能可以改善这一过程。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/bezos-backs-ai-startup-discover-050020599.html",
         "publisher": "Bloomberg",
-        "publish_time": 1784439091,
+        "publish_time": 1784523620,
         "type": "News"
     }
 ]
