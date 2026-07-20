@@ -1,22 +1,52 @@
 [
     {
-        "title": "This week's AI winners and losers",
-        "title_zh": "本周人工智能的赢家和输家",
-        "summary": "Yahoo Finance's AI winners and losers include TSMC, Moonshot AI, IBM, and the chip industry.",
-        "summary_zh": "雅虎财经的人工智能赢家和输家包括台积电、Moonshot AI、IBM 和芯片行业。",
-        "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784380614,
+        "title": "Tesla, Alphabet, Intel, GM: Earnings to watch this week",
+        "title_zh": "特斯拉、Alphabet、英特尔、通用汽车：本周值得关注的财报",
+        "summary": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come throughout next week, including earnings results out from Alphabet (GOOG, GOOGL), Tesla (TSLA), General Motors (GM), and Intel (INTC).",
+        "summary_zh": "《寻求趋势》主持人乔希·利普顿 (Josh Lipton) 预览了下周即将发布的几个重大新闻，包括 Alphabet (GOOG、GOOGL)、特斯拉 (TSLA)、通用汽车 (GM) 和英特尔 (INTC) 的财报。",
+        "link": "https://finance.yahoo.com/video/tesla-alphabet-intel-gm-earnings-000000527.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784505600,
         "type": "News"
     },
     {
-        "title": "The S&P 500 is breaking the earnings playbook: Chart of the Day",
-        "title_zh": "标准普尔 500 指数正在打破盈利策略：每日图表",
-        "summary": "The S&P 500 is in an earnings boom — but the usual earnings bust never came.",
-        "summary_zh": "标准普尔 500 指数正处于盈利繁荣时期，但通常的盈利衰退从未到来。",
-        "link": "https://finance.yahoo.com/markets/article/the-sp-500-is-breaking-the-earnings-playbook-chart-of-the-day-115602014.html",
+        "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+        "title_zh": "随着投资者抛售股票，大型科技公司需要证明人工智能支出的合理性",
+        "summary": "(Bloomberg) -- After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sel...",
+        "summary_zh": "（彭博社）——在上周芯片股暴跌和科技股大范围抛售之后，人工智能领域最大的投资者面临着越来越大的压力，他们需要向陷入困境的交易员证明他们的支出是合理的，交易员的手指越来越痒。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784466000,
+        "type": "News"
+    },
+    {
+        "title": "Big Tech earnings test tech's big rotation: What to watch this week",
+        "title_zh": "大型科技公司的盈利测试了科技公司的大轮换：本周值得关注的内容",
+        "summary": "Earnings results from Alphabet and Tesla headline a busy week, amid a chip sell-off and a conflict in Iran that keeps geopolitics simmering and oil prices rising.",
+        "summary_zh": "在芯片抛售和伊朗冲突导致地缘政治持续发酵和油价上涨的背景下，Alphabet 和特斯拉的财报成为忙碌的一周的头条新闻。",
+        "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1784375762,
+        "publish_time": 1784463839,
+        "type": "News"
+    },
+    {
+        "title": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
+        "title_zh": "“盈利需要强劲”：华尔街评估人工智能贸易的下一个催化剂",
+        "summary": "Wall Street is looking to earnings season for evidence that the AI trade is tact.",
+        "summary_zh": "华尔街正在关注财报季，寻找人工智能交易顺利进行的证据。",
+        "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784462921,
+        "type": "News"
+    },
+    {
+        "title": "China’s Moonshot Plans IPO in Six Months After AI Breakthrough",
+        "title_zh": "人工智能突破后，中国登月计划在六个月内首次公开募股",
+        "summary": "(Bloomberg) -- Moonshot AI has told investors it’s preparing to list in as early as six months, seizing the opportunity to tap capital markets after its latest model upended industry perceptions of China’s burgeoning capabilities and sent global tech stocks reeling.Most Read f...",
+        "summary_zh": "（彭博社）——Moonshot AI 告诉投资者，它准备最早在六个月内上市，在其最新模型颠覆了行业对中国新兴能力的看法并导致全球科技股震荡之后，抓住了利用资本市场的机会。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-plans-ipo-six-053131621.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784439091,
         "type": "News"
     }
 ]
