@@ -1,92 +1,92 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as oil turns lower in wait for Big Tech earnings",
-        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货小幅上涨，因等待大型科技公司财报而油价走低",
-        "summary": "Wall Street is in search of the next big catalyst for AI heading into a busy week of earnings.",
-        "summary_zh": "华尔街正在寻找人工智能的下一个重要催化剂，进入繁忙的财报周。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-20-dow-sp-500-nasdaq-111429441.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784546069,
-        "type": "News"
-    },
-    {
-        "title": "Bristol Myers buys Nvidia's latest AI computing system for drug research",
-        "title_zh": "百时美施贵宝购买英伟达最新的人工智能计算系统用于药物研究",
-        "summary": "Bristol Myers Squibb said on Monday it is buying the latest-generation computing system from chip company Nvidia ‌to support its use of artificial intelligence across its drug discovery and development ‌operations.",
-        "summary_zh": "百时美施贵宝周一表示，它正在从芯片公司 Nvidia 购买最新一代计算系统，以支持其在药物发现和开发业务中使用人工智能。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bristol-myers-buys-nvidias-latest-110116053.html",
-        "publisher": "Reuters",
-        "publish_time": 1784545276,
-        "type": "News"
-    },
-    {
-        "title": "Hut 8 signs $9.8 billion AI data center lease, fully commercializes Texas campus",
-        "title_zh": "Hut 8签署价值98亿美元的人工智能数据中心租约，将德克萨斯园区全面商业化",
-        "summary": "July 20 (Reuters) - Hut 8, a crypto-mining turned AI data center company, said on Monday it has signed a second 15-year lease worth $9.8 billion with an existing investment-grade customer, fully",
-        "summary_zh": "7 月 20 日（路透社）——加密货币挖矿转型的人工智能数据中心公司 Hut 8 周一表示，已与现有投资级客户签署了第二份为期 15 年的租赁合同，价值 98 亿美元，完全",
-        "link": "https://finance.yahoo.com/technology/ai/articles/hut-8-signs-9-8-103741725.html",
-        "publisher": "Reuters",
-        "publish_time": 1784544001,
-        "type": "News"
-    },
-    {
-        "title": "Meta faces Tennessee trial over allegations Instagram was designed to be addictive",
-        "title_zh": "Meta 因涉嫌 Instagram 被设计成令人上瘾而面临田纳西州审判",
-        "summary": "By Diana Novak Jones July 20 (Reuters) - Meta Platforms faces trial in Tennessee on Monday over the state's claims that Instagram's design is to blame for a youth mental-health crisis, one of several",
-        "summary_zh": "作者：戴安娜·诺瓦克·琼斯 (Diana Novak Jones) 7 月 20 日（路透社） - Meta Platforms 周一在田纳西州面临审判，该州声称 Instagram 的设计应归咎于青少年心理健康危机，这是几起青少年心理健康危机之一",
-        "link": "https://finance.yahoo.com/news/meta-faces-tennessee-trial-over-101458167.html",
-        "publisher": "Reuters",
-        "publish_time": 1784543238,
-        "type": "News"
-    },
-    {
-        "title": "Chipmakers head for big profit gains, but will it be enough?",
-        "title_zh": "芯片制造商正寻求大幅利润增长，但这就足够了吗？",
-        "summary": "By Caroline Valetkevitch NEW YORK, July 20 (Reuters) - Chipmakers are in focus on Wall Street, with their shares turning mercurial this month and investors banking on a few dozen newly valuable",
-        "summary_zh": "作者：Caroline Valetkevitch 纽约，7 月 20 日（路透社）——芯片制造商成为华尔街的焦点，他们的股价本月变得反复无常，投资者寄希望于几十个新估值的芯片制造商",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309070.html",
-        "publisher": "Reuters",
-        "publish_time": 1784542191,
-        "type": "News"
-    },
-    {
-        "title": "Wall St futures edge higher ahead of this week's megacap earnings",
-        "title_zh": "在本周大型股收益发布之前，华尔街期货小幅走高",
-        "summary": "July 20 (Reuters) - U.S. stock index futures rose slightly on Monday, following last week's chip-stocks-led pullback, as investors awaited a key slate of earnings that could test Wall Street's AI-",
-        "summary_zh": "7 月 20 日（路透社）——继上周芯片股主导的回调之后，美国股指期货周一小幅上涨，投资者等待可能测试华尔街人工智能的关键财报。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-edge-higher-095551303.html",
-        "publisher": "Reuters",
-        "publish_time": 1784541351,
-        "type": "News"
-    },
-    {
-        "title": "Could AI chip boom make ASML Europe's first trillion-dollar firm?",
-        "title_zh": "AI芯片热潮能让ASML成为欧洲第一家万亿美元公司吗？",
-        "summary": "The global artificial intelligence boom has propelled ASML to the top of Europe's stock market, as soaring demand for AI computer chips flows to the Dutch company that dominates the market for the equipment needed to ‌make them.",
-        "summary_zh": "全球人工智能热潮将 ASML 推上了欧洲股市的榜首，因为对 AI 计算机芯片的需求不断飙升，这家荷兰公司在制造这些芯片所需的设备市场上占据主导地位。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/could-ai-chip-boom-asml-081518524.html",
-        "publisher": "Reuters",
-        "publish_time": 1784535318,
-        "type": "News"
-    },
-    {
-        "title": "Analysis-Could AI chip boom make ASML Europe's first trillion-dollar firm?",
-        "title_zh": "分析——AI芯片热潮能否让ASML成为欧洲首家万亿美元企业？",
-        "summary": "The global artificial intelligence boom has propelled ASML to the top of Europe's stock market, as soaring demand for AI computer chips flows to the Dutch company that dominates the market for the equipment needed to ‌make them.",
-        "summary_zh": "全球人工智能热潮将 ASML 推上了欧洲股市的榜首，因为对 AI 计算机芯片的需求不断飙升，这家荷兰公司在制造这些芯片所需的设备市场上占据主导地位。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/analysis-could-ai-chip-boom-050243913.html",
-        "publisher": "Reuters",
-        "publish_time": 1784523763,
-        "type": "News"
-    },
-    {
-        "title": "Bezos Backs AI Startup to Discover New Materials for Chipmaking",
-        "title_zh": "贝佐斯支持人工智能初创公司发现芯片制造新材料",
-        "summary": "(Bloomberg) -- Producing the world’s most in-demand semiconductors requires enormous amounts of energy and access to rare minerals. CuspAI, a two-year-old British startup, has raised nearly half a billion dollars on its bet that artificial intelligence can improve that process.",
-        "summary_zh": "（彭博社）——生产世界上需求量最大的半导体需要大量的能源和稀有矿物。 CuspAI 是一家成立两年的英国初创公司，它已筹集了近 5 亿美元资金，押注人工智能可以改善这一过程。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/bezos-backs-ai-startup-discover-050020599.html",
+        "title": "China’s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
+        "title_zh": "中国GigaAI寻求2026年香港IPO，成为世界典范",
+        "summary": "(Bloomberg) -- Jijia Vision is in discussions to hold an initial public offering on Hong Kong’s stock exchange as soon as this year, joining a flurry of Chinese AI firms planning public market debuts.",
+        "summary_zh": "（彭博社）——积家视觉正在讨论最快今年在香港证券交易所进行首次公开​​募股，加入众多计划公开市场的中国人工智能公司的行列。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/china-gigaai-seeks-2026-hong-011444029.html",
         "publisher": "Bloomberg",
-        "publish_time": 1784523620,
+        "publish_time": 1784596484,
+        "type": "News"
+    },
+    {
+        "title": "US stocks edge down with Iran and earnings season in focus",
+        "title_zh": "美国股市小幅下跌，伊朗和财报季成为焦点",
+        "summary": "STORY: Stocks started the week on a down note, with the Dow falling about six tenths of one percent, while the S&P 500 dropped two tenths and the Nasdaq ended basically flat.:: ArchiveInvestors looked for moves toward de-escalation in the Middle East&nbsp;while they waited for...",
+        "summary_zh": "故事：股市本周开局下跌，道琼斯指数下跌约十分之六百分之一，标准普尔 500 指数下跌十分之二，纳斯达克指数收盘基本持平。：档案投资者在等待...的同时，也在寻找中东局势缓和的举措。",
+        "link": "https://finance.yahoo.com/video/us-stocks-edge-down-iran-224330051.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1784587410,
+        "type": "News"
+    },
+    {
+        "title": "Is the collectibles market in a bubble? Realest CEO says memorabilia is 'wildly undervalued'",
+        "title_zh": "收藏品市场是否存在泡沫？ Realest首席执行官表示纪念品“被严重低估”",
+        "summary": "The Realest founder and CEO Scott Keeney joins Yahoo Finance Executive Editor Brian Sozzi to discuss why high-end memorabilia remains \"wildly undervalued\" despite market bubble concerns.",
+        "summary_zh": "The Realest 创始人兼首席执行官斯科特·基尼 (Scott Keeney) 与雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 一起讨论了为什么尽管存在市场泡沫担忧，高端纪念品仍然“被严重低估”。",
+        "link": "https://finance.yahoo.com/video/collectibles-market-bubble-realest-ceo-221500840.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784585700,
+        "type": "News"
+    },
+    {
+        "title": "Trump Media pitches $100K-a-month Truth Social feed",
+        "title_zh": "特朗普媒体推出每月 10 万美元的真相社交信息流",
+        "summary": "Scott Melker discusses Trump Media's proposal to charge institutional traders $100,000 a month for early access to Truth Social posts, warning that retail investors will likely get front-run and lose money trying to trade on the news.",
+        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了特朗普媒体 (Trump Media) 向机构交易员收取每月 10 万美元费用以让他们提前访问 Truth Social 帖子的提议，他警告说，散户投资者可能会抢先一步，并在尝试根据该消息进行交易时遭受损失。",
+        "link": "https://finance.yahoo.com/video/trump-media-pitches-100k-month-220000188.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784584800,
+        "type": "News"
+    },
+    {
+        "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+        "title_zh": "美国法官批准 Anthropic 15 亿美元版权诉讼和解",
+        "summary": "By Blake Brittain July 20 (Reuters) - A federal judge in San Francisco on Monday signed off on artificial intelligence company Anthropic's landmark $1.5 billion settlement of a class action lawsuit",
+        "summary_zh": "作者：Blake Brittain 7 月 20 日（路透社）——周一，旧金山的一名联邦法官签署了人工智能公司 Anthropic 具有里程碑意义的 15 亿美元集体诉讼和解协议",
+        "link": "https://finance.yahoo.com/news/us-judge-approves-anthropics-1-205152567.html",
+        "publisher": "Reuters",
+        "publish_time": 1784581054,
+        "type": "News"
+    },
+    {
+        "title": "AMD stock rises on price target bumps, Microsoft deal",
+        "title_zh": "AMD 股价因目标价上涨和微软交易而上涨",
+        "summary": "AMD stock rose more than 3% on Monday.",
+        "summary_zh": "AMD 股价周一上涨超过 3%。",
+        "link": "https://finance.yahoo.com/technology/article/amd-stock-rises-on-price-target-bumps-microsoft-deal-170106894.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784566866,
+        "type": "News"
+    },
+    {
+        "title": "Why it's time to retire the 'Magnificent 7' name: Strategist",
+        "title_zh": "为什么是时候废除“华丽七人组”这个名字了：战略家",
+        "summary": "It's time to retire the group name as the AI revolution creates new power players.",
+        "summary_zh": "随着人工智能革命创造出新的强者，是时候让这个团体的名字退役了。",
+        "link": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784566552,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
+        "title_zh": "科技股活跃：芯片股从上周谷歌、AMD 消息的损失中恢复过来",
+        "summary": "Tech stock news live.",
+        "summary_zh": "科技股新闻直播。",
+        "link": "https://finance.yahoo.com/news/live/tech-stocks-live-chip-stocks-recover-from-last-weeks-losses-on-google-amd-news-164334720.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784565814,
+        "type": "News"
+    },
+    {
+        "title": "MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B",
+        "title_zh": "MicroStrategy 持有 843K 比特币，现金储备达到 $3.2B",
+        "summary": "Scott Melker discusses the latest crypto-related headlines. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了最新的加密货币相关头条新闻。 《The Daily Wolf with Scott Melker》每天中午 12:00 播出。请关注您每天对加密事物的了解。请务必查看雅虎财经的新加密中心，以查找最新的加密相关新闻。",
+        "link": "https://finance.yahoo.com/video/microstrategy-holds-843k-bitcoin-as-cash-reserves-reach-32b-155722352.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784563042,
         "type": "News"
     }
 ]
