@@ -1,22 +1,12 @@
 [
     {
-        "title": "“Grow a Spine”: All-In Podcast Pushes Back on AI Regulation and Calls PayPal’s $60 Takeover Offer Just an Opening Bid",
-        "title_zh": "“Grow a Spine”：All-In Podcast 抵制人工智能监管，并称 PayPal 的 60 美元收购要约只是开盘要约",
-        "summary": "David Sacks issued a sharp warning to tech executives cozying up to Washington regulators, while investors are already debating whether PayPal's reported takeover offer drastically undersells one of fintech's most contested assets.",
-        "summary_zh": "戴维·萨克斯 (David Sacks) 对讨好华盛顿监管机构的科技高管发出了严厉警告，而投资者已经在争论 PayPal 报道的收购要约是否大幅低于金融科技最具争议资产之一的售价。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/grow-spine-podcast-pushes-back-013144148.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1784597504,
-        "type": "News"
-    },
-    {
-        "title": "Does US$2.8 Billion in AI Cloud Deals with Tech Giants Change The Bull Case For IREN (IREN)?",
-        "title_zh": "与科技巨头的 28 亿美元人工智能云交易是否会改变 IREN (IREN) 的牛市理由？",
-        "summary": "In July 2026, IREN Limited announced it had secured US$2.80 billion in new multi-year AI cloud services contracts with customers including Microsoft, NVIDIA, and several AI developers, lifting its 2026 AI Cloud annualized run-rate revenue target to more than US$4.00 billion, a...",
-        "summary_zh": "2026 年 7 月，IREN Limited 宣布已与微软、NVIDIA 和多家人工智能开发商等客户签订了价值 28 亿美元的新的多年期人工智能云服务合同，将其 2026 年人工智能云年化运行收入目标提升至超过 40 亿美元，...",
-        "link": "https://finance.yahoo.com/technology/ai/articles/does-us-2-8-billion-001801443.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1784593081,
+        "title": "Paramount-Warner Deal at Risk of Delays That Would Cost Billions",
+        "title_zh": "派拉蒙与华纳的交易面临延误风险，损失数十亿美元",
+        "summary": "(Bloomberg) -- Paramount Skydance Corp. was on the brink of closing its blockbuster $110 billion takeover of Warner Bros. Discovery Inc.",
+        "summary_zh": "（彭博社）——派拉蒙 Skydance 公司即将完成对华纳兄弟探索公司 1100 亿美元的重磅收购。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-risk-delays-003438906.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784594078,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-backs-futronic-deal-valuing-162433196.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1784564673,
+        "type": "News"
+    },
+    {
+        "title": "Goldman Offers Preferred Stock Days After Post-Crisis Spread Low",
+        "title_zh": "高盛在危机后利差低位几天后提供优先股",
+        "summary": "(Bloomberg) -- Goldman Sachs Group Inc.",
+        "summary_zh": "（彭博社）——高盛集团",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-offers-preferred-stock-days-125659186.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784552219,
         "type": "News"
     }
 ]

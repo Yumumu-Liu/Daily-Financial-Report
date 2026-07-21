@@ -1,5 +1,35 @@
 [
     {
+        "title": "Tesla cash burn to test investor faith in AI bets",
+        "title_zh": "特斯拉烧钱测试投资者对人工智能押注的信心",
+        "summary": "Tesla is expected to report its first quarterly cash burn in over two years on Wednesday, as its spending on AI and robotics soars, intensifying investor scrutiny over when those bets ‌will pay off.",
+        "summary_zh": "特斯拉预计将在周三公布两年多以来的首次季度现金消耗情况，因为其在人工智能和机器人技术上的支出飙升，这将加强投资者对这些押注何时获得回报的审查。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cash-burn-test-investor-100151216.html",
+        "publisher": "Reuters",
+        "publish_time": 1784628111,
+        "type": "News"
+    },
+    {
+        "title": "Alibaba's Apple tie-up adds fuel to China's hottest ETF: Chart of the Day",
+        "title_zh": "阿里巴巴与苹果的合作为中国最热门的 ETF 注入了动力：每日图表",
+        "summary": "Alibaba is helping power a broad rebound in Chinese internet stocks.",
+        "summary_zh": "阿里巴巴正在帮助推动中国互联网股票的全面反弹。",
+        "link": "https://finance.yahoo.com/markets/article/alibabas-apple-tie-up-adds-fuel-to-chinas-hottest-etf-chart-of-the-day-101500518.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784628000,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
+        "title_zh": "今日股市：随着芯片股复苏，纳斯达克指数领先道琼斯指数和标准普尔 500 指数期货走高",
+        "summary": "Markets weighed new tariffs imposed on Canadian goods, the latest US-Iran escalation, and fresh earnings from General Motors and other companies.",
+        "summary_zh": "市场权衡了对加拿大商品征收的新关税、美国与伊朗之间的最新升级，以及通用汽车和其他公司的新盈利。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784623591,
+        "type": "News"
+    },
+    {
         "title": "China’s GigaAI Seeks 2026 Hong Kong IPO in First for World Model",
         "title_zh": "中国GigaAI寻求2026年香港IPO，成为世界典范",
         "summary": "(Bloomberg) -- Jijia Vision is in discussions to hold an initial public offering on Hong Kong’s stock exchange as soon as this year, joining a flurry of Chinese AI firms planning public market debuts.",
@@ -7,6 +37,16 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/china-gigaai-seeks-2026-hong-011444029.html",
         "publisher": "Bloomberg",
         "publish_time": 1784596484,
+        "type": "News"
+    },
+    {
+        "title": "Paramount-Warner Deal at Risk of Delays That Would Cost Billions",
+        "title_zh": "派拉蒙与华纳的交易面临延误风险，损失数十亿美元",
+        "summary": "(Bloomberg) -- Paramount Skydance Corp. was on the brink of closing its blockbuster $110 billion takeover of Warner Bros. Discovery Inc.",
+        "summary_zh": "（彭博社）——派拉蒙 Skydance 公司即将完成对华纳兄弟探索公司 1100 亿美元的重磅收购。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-risk-delays-003438906.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784594078,
         "type": "News"
     },
     {
@@ -20,26 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Is the collectibles market in a bubble? Realest CEO says memorabilia is 'wildly undervalued'",
-        "title_zh": "收藏品市场是否存在泡沫？ Realest首席执行官表示纪念品“被严重低估”",
-        "summary": "The Realest founder and CEO Scott Keeney joins Yahoo Finance Executive Editor Brian Sozzi to discuss why high-end memorabilia remains \"wildly undervalued\" despite market bubble concerns.",
-        "summary_zh": "The Realest 创始人兼首席执行官斯科特·基尼 (Scott Keeney) 与雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 一起讨论了为什么尽管存在市场泡沫担忧，高端纪念品仍然“被严重低估”。",
-        "link": "https://finance.yahoo.com/video/collectibles-market-bubble-realest-ceo-221500840.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784585700,
-        "type": "News"
-    },
-    {
-        "title": "Trump Media pitches $100K-a-month Truth Social feed",
-        "title_zh": "特朗普媒体推出每月 10 万美元的真相社交信息流",
-        "summary": "Scott Melker discusses Trump Media's proposal to charge institutional traders $100,000 a month for early access to Truth Social posts, warning that retail investors will likely get front-run and lose money trying to trade on the news.",
-        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了特朗普媒体 (Trump Media) 向机构交易员收取每月 10 万美元费用以让他们提前访问 Truth Social 帖子的提议，他警告说，散户投资者可能会抢先一步，并在尝试根据该消息进行交易时遭受损失。",
-        "link": "https://finance.yahoo.com/video/trump-media-pitches-100k-month-220000188.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784584800,
-        "type": "News"
-    },
-    {
         "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
         "title_zh": "美国法官批准 Anthropic 15 亿美元版权诉讼和解",
         "summary": "By Blake Brittain July 20 (Reuters) - A federal judge in San Francisco on Monday signed off on artificial intelligence company Anthropic's landmark $1.5 billion settlement of a class action lawsuit",
@@ -50,6 +70,16 @@
         "type": "News"
     },
     {
+        "title": "AMD sets sights on Nvidia with Helios AI racks",
+        "title_zh": "AMD 通过 Helios AI 机架瞄准 Nvidia",
+        "summary": "Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss AMD (AMD) new Helios AI rack server platform and how the chipmaker is ramping up its challenge to AI leader Nvidia (NVDA).",
+        "summary_zh": "雅虎财经科技编辑 Dan Howley 与 Market Domination 一起讨论 AMD (AMD) 新的 Helios AI 机架服务器平台，以及这家芯片制造商如何加大对人工智能领导者 Nvidia (NVDA) 的挑战。",
+        "link": "https://finance.yahoo.com/video/amd-sets-sights-on-nvidia-with-helios-ai-racks-195850534.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1784577530,
+        "type": "News"
+    },
+    {
         "title": "AMD stock rises on price target bumps, Microsoft deal",
         "title_zh": "AMD 股价因目标价上涨和微软交易而上涨",
         "summary": "AMD stock rose more than 3% on Monday.",
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/technology/article/amd-stock-rises-on-price-target-bumps-microsoft-deal-170106894.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1784566866,
-        "type": "News"
-    },
-    {
-        "title": "Why it's time to retire the 'Magnificent 7' name: Strategist",
-        "title_zh": "为什么是时候废除“华丽七人组”这个名字了：战略家",
-        "summary": "It's time to retire the group name as the AI revolution creates new power players.",
-        "summary_zh": "随着人工智能革命创造出新的强者，是时候让这个团体的名字退役了。",
-        "link": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784566552,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks live: Chip stocks recover from last week's losses on Google, AMD news",
-        "title_zh": "科技股活跃：芯片股从上周谷歌、AMD 消息的损失中恢复过来",
-        "summary": "Tech stock news live.",
-        "summary_zh": "科技股新闻直播。",
-        "link": "https://finance.yahoo.com/news/live/tech-stocks-live-chip-stocks-recover-from-last-weeks-losses-on-google-amd-news-164334720.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784565814,
-        "type": "News"
-    },
-    {
-        "title": "MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B",
-        "title_zh": "MicroStrategy 持有 843K 比特币，现金储备达到 $3.2B",
-        "summary": "Scott Melker discusses the latest crypto-related headlines. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-        "summary_zh": "斯科特·梅尔克 (Scott Melker) 讨论了最新的加密货币相关头条新闻。 《The Daily Wolf with Scott Melker》每天中午 12:00 播出。请关注您每天对加密事物的了解。请务必查看雅虎财经的新加密中心，以查找最新的加密相关新闻。",
-        "link": "https://finance.yahoo.com/video/microstrategy-holds-843k-bitcoin-as-cash-reserves-reach-32b-155722352.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784563042,
         "type": "News"
     }
 ]
