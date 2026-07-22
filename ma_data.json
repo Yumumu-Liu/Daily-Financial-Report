@@ -1,32 +1,32 @@
 [
     {
-        "title": "Paramount-Warner Deal at Risk of Delays That Would Cost Billions",
-        "title_zh": "派拉蒙与华纳的交易面临延误风险，损失数十亿美元",
-        "summary": "(Bloomberg) -- Paramount Skydance Corp. was on the brink of closing its blockbuster $110 billion takeover of Warner Bros. Discovery Inc.",
-        "summary_zh": "（彭博社）——派拉蒙 Skydance 公司即将完成对华纳兄弟探索公司 1100 亿美元的重磅收购。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-warner-deal-risk-delays-003438906.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784594078,
+        "title": "Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.",
+        "title_zh": "沃伦·巴菲特的伯克希尔·哈撒韦公司拥有零只纯人工智能股票。但 2016 年的这次收购使其暴露在数据中心热潮中。",
+        "summary": "A Berkshire acquisition from 10 years ago gives the Oracle of Omaha's conglomerate exposure to the data center proliferation trend.",
+        "summary_zh": "伯克希尔哈撒韦公司十年前的收购让这家奥马哈甲骨文集团接触到了数据中心激增的趋势。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffetts-berkshire-hathaway-owns-202500994.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1784665500,
         "type": "News"
     },
     {
-        "title": "JPMorgan Chase (JPM) Helps Drive $60 Billion In U.S. Iraq Deals",
-        "title_zh": "摩根大通 (JPM) 帮助美国在伊拉克的交易中推动了 600 亿美元的交易",
-        "summary": "JPMorgan Chase is involved in a series of high profile economic agreements between U.S. companies and Iraq tied to the Iraqi Prime Minister’s recent visit to Washington.",
-        "summary_zh": "摩根大通参与了美国公司与伊拉克之间与伊拉克总理最近访问华盛顿有关的一系列备受瞩目的经济协议。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-helps-drive-221233611.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1784585553,
+        "title": "AMD just landed its biggest AI deal yet",
+        "title_zh": "AMD 刚刚达成迄今为止最大的人工智能交易",
+        "summary": "AMD has broken a chip monopoly before. In the 2000s, it took server market share away from Intel’s dominant x86 processors, forcing years of price and performance competition that reshaped enterprise computing.",
+        "summary_zh": "AMD此前曾打破过芯片垄断。在 2000 年代，它从英特尔占主导地位的 x86 处理器手中夺走了服务器市场份额，迫使人们进行多年的价格和性能竞争，从而重塑了企业计算。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-landed-biggest-ai-180300334.html",
+        "publisher": "TheStreet",
+        "publish_time": 1784656980,
         "type": "News"
     },
     {
-        "title": "AMD stock rises on price target bumps, Microsoft deal",
-        "title_zh": "AMD 股价因目标价上涨和微软交易而上涨",
-        "summary": "AMD stock rose more than 3% on Monday.",
-        "summary_zh": "AMD 股价周一上涨超过 3%。",
-        "link": "https://finance.yahoo.com/technology/article/amd-stock-rises-on-price-target-bumps-microsoft-deal-170106894.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784566866,
+        "title": "BlackRock Launches $12 Billion+ Meta Data Center Debt Deal",
+        "title_zh": "贝莱德启动超过 120 亿美元的元数据中心债务交易",
+        "summary": "BlackRock combines GIP and HPS to finance Meta's AI data center project through a major bond sale.",
+        "summary_zh": "贝莱德将 GIP 和 HPS 结合起来，通过一次大型债券销售为 Meta 的人工智能数据中心项目提供资金。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/blackrock-launches-12-billion-meta-162658885.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1784651218,
         "type": "News"
     },
     {
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Goldman Offers Preferred Stock Days After Post-Crisis Spread Low",
-        "title_zh": "高盛在危机后利差低位几天后提供优先股",
-        "summary": "(Bloomberg) -- Goldman Sachs Group Inc.",
-        "summary_zh": "（彭博社）——高盛集团",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-offers-preferred-stock-days-125659186.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784552219,
+        "title": "Anthropic-Meta AI Deal in the Cards? ETFs in Focus",
+        "title_zh": "人择-元人工智能交易即将到来？焦点ETF",
+        "summary": "Anthropic's potential $10B AI computing deal with Meta could boost AI infrastructure demand and lift Meta-focused communication services ETFs like XLC and VOX.",
+        "summary_zh": "Anthropic 与 Meta 潜在的 10B 美元人工智能计算交易可能会增加人工智能基础设施需求，并提振 XLC 和 VOX 等专注于 Meta 的通信服务 ETF。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-meta-ai-deal-cards-120000533.html",
+        "publisher": "Zacks",
+        "publish_time": 1784548800,
         "type": "News"
     }
 ]
