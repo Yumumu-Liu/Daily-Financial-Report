@@ -1,42 +1,82 @@
 [
     {
-        "title": "Nvidia supplier Wistron launches $700 million Texas factory for AI system production",
-        "title_zh": "Nvidia 供应商纬创资通 (Wistron) 斥资 7 亿美元在德克萨斯州设立工厂，用于生产人工智能系统",
-        "summary": "Taiwan's Wistron, a supplier to Nvidia, launched a $700 million ‌manufacturing facility in Texas on Tuesday to ‌produce the U.S. chipmaker's latest AI systems, as Taiwanese electronics ​makers expand U.S. production to meet soaring demand for AI infrastructure.",
-        "summary_zh": "英伟达 (Nvidia) 的供应商台湾纬创资通 (Wistron) 周二在德克萨斯州启动了一座价值 7 亿美元的制造工厂，用于生产这家美国芯片制造商最新的人工智能系统，同时台湾电子制造商扩大了美国的生产，以满足对人工智能基础设施不断飙升的需求。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-wistron-launches-700-030749259.html",
+        "title": "Morning Bid: Alphabetting",
+        "title_zh": "早盘竞价：按字母顺序排列",
+        "summary": "LONDON, July 22 - What matters in U. and global markets today , Editor-At-Large, Finance and Markets Oil prices, bond yields and chip stocks were rising in sync again overnight, as this renewed round of fighting between the U.",
+        "summary_zh": "伦敦，7 月 22 日 - 今日美国和全球市场最重要的是什么，《金融与市场》特约编辑 随着美国与美国之间新一轮的战斗，油价、债券收益率和芯片股隔夜再次同步上涨。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-alphabetting-103647749.html",
         "publisher": "Reuters",
-        "publish_time": 1784689669,
+        "publish_time": 1784716607,
+        "type": "News"
+    },
+    {
+        "title": "Intel results to test if AI-fueled rally has room to run",
+        "title_zh": "英特尔结果测试人工智能推动的反弹是否还有空间",
+        "summary": "Intel's results on Thursday will show whether the American chip icon has the numbers to back a Wall Street rally that has ‌sent its shares nearly three times higher this year, as its turnaround ‌push wins over investors and the AI buildout powers demand.",
+        "summary_zh": "英特尔周四的业绩将显示，这家美国芯片巨头是否有足够的数据来支持华尔街的反弹，今年以来，随着英特尔的扭亏为盈赢得了投资者的青睐，以及人工智能的扩张推动了需求，该公司的股价今年已上涨近三倍。",
+        "link": "https://finance.yahoo.com/technology/articles/intel-results-test-ai-fueled-101457897.html",
+        "publisher": "Reuters",
+        "publish_time": 1784715297,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-Meta employees' lawsuit shows that if AI fires you, proving it is the hard part",
+        "title_zh": "分析-Meta员工诉讼表明，如果人工智能解雇你，证明它是最困难的部分",
+        "summary": "By Daniel Wiessner July 22 (Reuters) - A novel lawsuit claiming that Meta Platforms relied on discriminatory AI tools to select employees for layoffs highlights the problems workers face in suing",
+        "summary_zh": "作者：丹尼尔·威斯纳 (Daniel Wiessner) 7 月 22 日（路透社）——一项新颖的诉讼声称 Meta Platforms 依靠歧视性人工智能工具来选择裁员员工，凸显了工人在起诉时面临的问题",
+        "link": "https://www.yahoo.com/news/us/articles/analysis-meta-employees-lawsuit-shows-100414748.html",
+        "publisher": "Reuters",
+        "publish_time": 1784715164,
+        "type": "News"
+    },
+    {
+        "title": "A violent AI unwind is hiding beneath a resilient stock market: Chart of the Day",
+        "title_zh": "强劲的股市背后隐藏着人工智能的猛烈放松：每日图表",
+        "summary": "Fear has surged in chip stocks while remaining remarkably contained across the broader market.",
+        "summary_zh": "芯片股的恐慌情绪激增，而整个市场的恐慌情绪仍然明显受到抑制。",
+        "link": "https://finance.yahoo.com/markets/article/a-violent-ai-unwind-is-hiding-beneath-a-resilient-stock-market-chart-of-the-day-100000350.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784714400,
+        "type": "News"
+    },
+    {
+        "title": "Wall St futures edge lower as caution builds ahead of Big Tech earnings",
+        "title_zh": "华尔街期货小幅走低，因大型科技公司财报公布前谨慎情绪增强",
+        "summary": "July 22 (Reuters) - U.S. stock index futures dipped on Wednesday, pressured by weakness in chip stocks, as investors remained cautious ahead of the first batch of Big Tech earnings that could decide",
+        "summary_zh": "路透 7 月 22 日 - 美国股指期货周三下跌，受芯片股疲软打压，投资者在第一批可能决定的大型科技财报公布之前保持谨慎态度",
+        "link": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
+        "publisher": "Reuters",
+        "publish_time": 1784714355,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货下跌，Alphabet、特斯拉财报公布",
+        "summary": "Stocks slid as markets braced for a round of Big Tech earnings, the next AI trade test.",
+        "summary_zh": "随着市场准备迎接一轮大型科技公司的财报，即下一次人工智能贸易测试，股市下跌。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784709404,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-AI investment boom puts Big Tech's free cash flow under pressure",
+        "title_zh": "分析-人工智能投资热潮令大型科技公司的自由现金流面临压力",
+        "summary": "U.S. hyperscalers are starting to show returns on their artificial intelligence investments, but the rising cost of the buildout is taking a bite out of their free cash flow, and investors are noticing.",
+        "summary_zh": "美国超大规模企业开始展示其人工智能投资的回报，但不断上升的扩建成本正在蚕食他们的自由现金流，投资者也注意到了这一点。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/analysis-ai-investment-boom-puts-050142660.html",
+        "publisher": "Reuters",
+        "publish_time": 1784696502,
         "type": "News"
     },
     {
         "title": "Stocks jump with chipmakers; oil rises to 5-week high",
-        "title_zh": "芯片制造商股价上涨；油价升至5周高点",
+        "title_zh": "芯片制造商股价上涨；油价升至5周高位",
         "summary": "By Caroline Valetkevitch and Ankur Banerjee NEW YORK/SINGAPORE, July 21 (Reuters) - Major stock indexes rose on Tuesday with the Nasdaq and chipmaker shares surging, while oil prices climbed to a five",
         "summary_zh": "作者：Caroline Valetkevitch 和 Ankur Banerjee 纽约/新加坡，7 月 21 日（路透社）——主要股指周二上涨，纳斯达克和芯片制造商股价飙升，而油价则攀升至 5 点。",
         "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-mideast-mediation-020338229.html",
         "publisher": "Reuters",
         "publish_time": 1784674559,
-        "type": "News"
-    },
-    {
-        "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
-        "title_zh": "Supermicro 股价因毛利率上涨而上涨，积压创纪录的 600 亿美元",
-        "summary": "Supermicro stock jumped in after-hours trading as the company upped its gross margin guidance amid a record backlog of orders.",
-        "summary_zh": "由于订单积压创纪录，超微公司上调了毛利率指引，该公司股价在盘后交易中上涨。",
-        "link": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784673037,
-        "type": "News"
-    },
-    {
-        "title": "Why 1 in 3 investors don't know how their 401k is invested",
-        "title_zh": "为什么三分之一的投资者不知道他们的 401k 是如何投资的",
-        "summary": "Yahoo Finance Senior Columnist Kerry Hannon discusses findings from the Schroders 2026 U.S.",
-        "summary_zh": "雅虎财经高级专栏作家 Kerry Hannon 讨论 Schroders 2026 美国的调查结果",
-        "link": "https://finance.yahoo.com/video/why-1-in-3-investors-dont-know-how-their-401k-is-invested-210648809.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784668008,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/video/google--tesla-kick-off-big-tech-earnings-what-to-watch-210020832.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1784667620,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech's big AI spending is 'a good thing' right now",
-        "title_zh": "大型科技公司在人工智能方面的巨额支出现在是“一件好事”",
-        "summary": "The Nasdaq Composite (^IXIC) led US stocks (^DJI, ^GSPC) to daily gains on Tuesday as chip stocks began to show signs of recovering from last week's sell-off. Investors' eyes are especially wide on Big Tech earnings expected out this week.",
-        "summary_zh": "由于芯片股开始显示出从上周抛售中复苏的迹象，纳斯达克综合指数 (^IXIC) 带领美国股市 (^DJI、^GSPC) 周二上涨。投资者尤其关注本周预计公布的大型科技公司盈利。",
-        "link": "https://finance.yahoo.com/video/big-techs-big-ai-spending-is-a-good-thing-right-now-203258720.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784665978,
-        "type": "News"
-    },
-    {
-        "title": "3M turns to AI to fuel turnaround",
-        "title_zh": "3M 转向人工智能以推动扭亏为盈",
-        "summary": "Yahoo Finance Ines Ferre joins Josh Lipton on Market Domination to discuss the 3M Company (MMM) turnaround after the company beat earnings expectations and raised its full-year outlook.",
-        "summary_zh": "雅虎财经 Ines Ferre 与 Josh Lipton 共同探讨了 3M 公司 (MMM) 在超出盈利预期并上调全年预期后的扭亏为盈。",
-        "link": "https://finance.yahoo.com/video/3m-turns-to-ai-to-fuel-turnaround-194739770.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784663259,
-        "type": "News"
-    },
-    {
-        "title": "GM earnings & outlook impressed, thanks to lower tariffs. But don't get too comfortable.",
-        "title_zh": "由于关税降低，通用汽车的盈利和前景令人印象深刻。但不要太舒服。",
-        "summary": "General Motors (GM) raised its 2026 outlook by $500 million, thanks in part to better margins and lower tariffs. Morning Brief host Julie Hyman discusses more with Yahoo Finance Breaking Business News Reporter Jake Conley and Payne Capital Management president Ryan Payne.",
-        "summary_zh": "通用汽车 (GM) 将 2026 年前景上调了 5 亿美元，部分原因是利润率提高和关税降低。早间简报主持人朱莉·海曼与雅虎财经突发商业新闻记者杰克·康利和佩恩资本管理公司总裁瑞安·佩恩进行了更多讨论。",
-        "link": "https://finance.yahoo.com/video/gm-earnings--outlook-impressed-thanks-to-lower-tariffs-but-dont-get-too-comfortable-134716891.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784641636,
-        "type": "News"
-    },
-    {
-        "title": "Tesla's jump in sales comes as Optimus, Robotaxi bets require more cash: Q2 earnings preview",
-        "title_zh": "特斯拉销量猛增之际，Optimus、Robotaxi 押注需要更多现金：第二季度收益预览",
-        "summary": "Tesla will report second quarter results after the closing bell on Wednesday. For the first time in a long while, the car business is not the problem, but increased cash burn could be.",
-        "summary_zh": "特斯拉将于周三收盘后公布第二季度业绩。很长一段时间以来第一次，汽车业务不是问题，但现金消耗增加可能是问题。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/teslas-jump-in-sales-comes-as-optimus-robotaxi-bets-require-more-cash-q2-earnings-preview-110300122.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784631780,
         "type": "News"
     }
 ]

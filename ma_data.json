@@ -1,5 +1,15 @@
 [
     {
+        "title": "Market Chatter: SK hynix Weighs Acquisition of Intel's Ohio Chip Campus",
+        "title_zh": "市场热议：SK 海力士考虑收购英特尔俄亥俄州芯片园区",
+        "summary": "SK hynix (SKHY) is considering acquiring Intel's (INTC) semiconductor campus in New Albany, Ohio, as",
+        "summary_zh": "SK 海力士 (SKHY) 正在考虑收购英特尔 (INTC) 位于俄亥俄州新奥尔巴尼的半导体园区，因为",
+        "link": "https://finance.yahoo.com/technology/articles/market-chatter-sk-hynix-weighs-104400571.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1784717040,
+        "type": "News"
+    },
+    {
         "title": "Warren Buffett's Berkshire Hathaway Owns Zero Pure-Play AI Stocks. But This 2016 Acquisition Gives It Exposure to the Data Center Boom.",
         "title_zh": "沃伦·巴菲特的伯克希尔·哈撒韦公司拥有零只纯人工智能股票。但 2016 年的这次收购使其暴露在数据中心热潮中。",
         "summary": "A Berkshire acquisition from 10 years ago gives the Oracle of Omaha's conglomerate exposure to the data center proliferation trend.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-backs-futronic-deal-valuing-162433196.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1784564673,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic-Meta AI Deal in the Cards? ETFs in Focus",
-        "title_zh": "人择-元人工智能交易即将到来？焦点ETF",
-        "summary": "Anthropic's potential $10B AI computing deal with Meta could boost AI infrastructure demand and lift Meta-focused communication services ETFs like XLC and VOX.",
-        "summary_zh": "Anthropic 与 Meta 潜在的 10B 美元人工智能计算交易可能会增加人工智能基础设施需求，并提振 XLC 和 VOX 等专注于 Meta 的通信服务 ETF。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-meta-ai-deal-cards-120000533.html",
-        "publisher": "Zacks",
-        "publish_time": 1784548800,
         "type": "News"
     }
 ]
