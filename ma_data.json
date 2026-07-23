@@ -1,22 +1,32 @@
 [
     {
-        "title": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
-        "title_zh": "独家消息：消息人士称，随着价格飙升，英特尔、AMD 与中国客户签署长期服务器 CPU 协议",
-        "summary": "U.S. chipmaking giants Intel and Advanced Micro Devices are signing longer-term purchase commitments with Chinese server customers for data-centre processors as prices ‌surge, two people familiar with the talks said.",
-        "summary_zh": "两位知情人士表示，随着价格飙升，美国芯片制造巨头英特尔和 Advanced Micro Devices 正在与中国服务器客户签署数据中心处理器的长期采购承诺。",
-        "link": "https://finance.yahoo.com/technology/articles/exclusive-intel-amd-sign-long-032439242.html",
-        "publisher": "Reuters",
-        "publish_time": 1784777079,
+        "title": "Morgan Stanley leads TMT M&A advisory by deal value in H1 2026",
+        "title_zh": "摩根士丹利在 2026 年上半年交易金额方面领先 TMT 并购咨询公司",
+        "summary": "Houlihan Lokey led by deal volume in H1 2026, advising on 34 transactions across the TMT sector.",
+        "summary_zh": "Houlihan Lokey 在 2026 年上半年的交易量方面处于领先地位，为 TMT 行业的 34 笔交易提供了咨询服务。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-leads-tmt-m-090241978.html",
+        "publisher": "Verdict",
+        "publish_time": 1784797361,
         "type": "News"
     },
     {
-        "title": "SK Hynix denies Intel Ohio fab deal, but the market didn't care",
-        "title_zh": "SK海力士否认英特尔俄亥俄州晶圆厂交易，但市场并不在意",
-        "summary": "A report out of South Korea on Tuesday, July 21, claimed SK Hynix was in talks to buy Intel’s unfinished Ohio semiconductor campus, according to Stocktwits.",
-        "summary_zh": "据 Stocktwits 报道，7 月 21 日星期二，韩国发布的一份报告称，SK 海力士正在就收购英特尔未完工的俄亥俄州半导体园区进行谈判。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-denies-intel-ohio-030700820.html",
-        "publisher": "TheStreet",
-        "publish_time": 1784776020,
+        "title": "Is Bloom Energy (BE) Undervalued After JPMorgan Backed Its Brookfield AI Power Deal?",
+        "title_zh": "摩根大通支持其布鲁克菲尔德人工智能电力交易后，布鲁姆能源 (BE) 的价值是否被低估？",
+        "summary": "Bloom Energy (BE) is back in focus after JPMorgan reaffirmed its positive stance on the stock, highlighting strong interest from technology firms in off grid power and a larger partnership with Brookfield. See our latest analysis for Bloom Energy.",
+        "summary_zh": "摩根大通重申了对 Bloom Energy (BE) 股票的积极立场，突显了科技公司对离网电力的强烈兴趣以及与布鲁克菲尔德建立更大的合作伙伴关系，之后布鲁姆能源 (BE) 重新成为人们关注的焦点。请参阅我们对 Bloom Energy 的最新分析。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-undervalued-jpmorgan-backed-060946948.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1784786986,
+        "type": "News"
+    },
+    {
+        "title": "KKR Real Estate Finance Trust Weighs Sale or Merger Options",
+        "title_zh": "KKR 房地产金融信托考虑出售或合并选择",
+        "summary": "KKR Real Estate Finance Trust weighs a sale, merger, or asset sale as loan losses mount, signaling growing strain on mortgage REITs.",
+        "summary_zh": "随着贷款损失的增加，KKR 房地产金融信托公司会权衡出售、合并或资产出售，这表明抵押贷款房地产投资信托基金面临的压力越来越大。",
+        "link": "https://finance.yahoo.com/real-estate/articles/kkr-real-estate-finance-trust-040813785.html",
+        "publisher": "CRE Daily",
+        "publish_time": 1784779693,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://www.investors.com/news/technology/amd-stock-cerebras-rise-ai-chip-deals/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "publish_time": 1784757464,
-        "type": "News"
-    },
-    {
-        "title": "KKR-Backed Vertis Nears $800 Million India Roads Acquisition",
-        "title_zh": "KKR 支持的 Vertis 斥资近 8 亿美元收购印度道路",
-        "summary": "Vertis is in advanced talks to buy eight road assets from Megha Engineering, valued at about $800 million including debt.",
-        "summary_zh": "Vertis 正在就从 Megha Engineering 购买八项道路资产进行深入谈判，包括债务在内，价值约为 8 亿美元。",
-        "link": "https://finance.yahoo.com/real-estate/articles/kkr-backed-vertis-nears-800-205832272.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1784753912,
         "type": "News"
     }
 ]

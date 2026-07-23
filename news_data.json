@@ -1,32 +1,52 @@
 [
     {
-        "title": "Exclusive-Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say",
-        "title_zh": "独家消息：消息人士称，随着价格飙升，英特尔、AMD 与中国客户签署长期服务器 CPU 协议",
-        "summary": "U.S. chipmaking giants Intel and Advanced Micro Devices are signing longer-term purchase commitments with Chinese server customers for data-centre processors as prices ‌surge, two people familiar with the talks said.",
-        "summary_zh": "两位知情人士表示，随着价格飙升，美国芯片制造巨头英特尔和 Advanced Micro Devices 正在与中国服务器客户签署数据中心处理器的长期采购承诺。",
-        "link": "https://finance.yahoo.com/technology/articles/exclusive-intel-amd-sign-long-032439242.html",
+        "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia",
+        "title_zh": "AMD预计推出下一代AI基础设施挑战Nvidia",
+        "summary": "SAN FRANCISCO, July 23 (Reuters) - Advanced Micro Devices is set to launch a raft of AI hardware that ‌will rival Nvidia on Thursday at an event at a downtown convention ‌center in San Francisco.",
+        "summary_zh": "路透旧金山 7 月 23 日 - Advanced Micro Devices 将于周四在旧金山市中心会议中心举行的一次活动中推出一系列人工智能硬件，与 Nvidia 展开竞争。",
+        "link": "https://finance.yahoo.com/news/amd-expected-launch-next-generation-100622308.html",
         "publisher": "Reuters",
-        "publish_time": 1784777079,
+        "publish_time": 1784803549,
         "type": "News"
     },
     {
-        "title": "Pichai pushes back on claims Google is losing ground in AI race",
-        "title_zh": "皮查伊反驳谷歌在人工智能竞赛中节节败退的说法",
-        "summary": "Alphabet CEO Sundar Pichai used Wednesday's earnings call to mount a robust defence of Google's AI strategy, pushing back on concerns that the company has fallen behind rivals after ‌delaying a flagship model and ceding ground in AI coding.",
-        "summary_zh": "Alphabet 首席执行官桑达尔·皮查伊 (Sundar Pichai) 在周三的财报电话会议上对谷歌的人工智能战略进行了强有力的辩护，反驳了人们对该公司在推迟旗舰模型和在人工智能编码领域让步后落后于竞争对手的担忧。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/pichai-pushes-back-claims-google-011727016.html",
+        "title": "Morning Bid: Magnificent cash burn",
+        "title_zh": "早间竞价：大量现金消耗",
+        "summary": "July 23 (Reuters) - What matters in U. and global markets today , Editor-at-Large, Finance and Markets There was a familiar playbook in response to Alphabet's earnings beat and capital expenditure boost overnight - its stock fell and chip stocks rose.",
+        "summary_zh": "7 月 23 日（路透社） - 当今美国和全球市场最重要的是什么，《金融与市场》杂志特约编辑 对于隔夜 Alphabet 的盈利增长和资本支出增加，有一个熟悉的策略 - 其股价下跌，芯片股上涨。",
+        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
         "publisher": "Reuters",
-        "publish_time": 1784769447,
+        "publish_time": 1784803080,
         "type": "News"
     },
     {
-        "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-        "title_zh": "马斯克称特斯拉与 SpaceX 合并的猜测不断增加，重叠日益增多",
-        "summary": "Tesla CEO Elon Musk on Wednesday left the door open to the EV maker merging with his other trillion-dollar-plus-valued firm SpaceX, declining to ‌dismiss the possibility and citing growing overlap between the companies.",
-        "summary_zh": "周三，特斯拉首席执行官埃隆·马斯克(Elon Musk)为这家电动汽车制造商与他的另一家价值数万亿美元以上的公司 SpaceX 合并敞开了大门，他拒绝否认这种可能性，并指出两家公司之间的重叠越来越大。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/musk-keeps-tesla-spacex-merger-011328678.html",
-        "publisher": "Reuters",
-        "publish_time": 1784769208,
+        "title": "Google Cloud is becoming Alphabet's new profit engine: Chart of the Day",
+        "title_zh": "谷歌云正在成为 Alphabet 新的利润引擎：每日图表",
+        "summary": "Google Cloud delivered one of the rarest combinations in big tech — faster growth and wider profitability at the same time.",
+        "summary_zh": "谷歌云提供了大型科技领域最罕见的组合之一——同时实现更快的增长和更广泛的盈利能力。",
+        "link": "https://finance.yahoo.com/markets/article/google-cloud-is-becoming-alphabets-new-profit-engine-chart-of-the-day-090000053.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784797200,
+        "type": "News"
+    },
+    {
+        "title": "Intel Needs More Than Blowout Earnings as Chips Rally Falters",
+        "title_zh": "随着芯片市场涨势疲软，英特尔需要的不仅仅是井喷式盈利",
+        "summary": "(Bloomberg) -- Intel Corp. is expected to report strong second-quarter earnings after the market close Thursday, but even blowout results likely won’t be enough to reverse the stock’s July slide.",
+        "summary_zh": "(彭博社)——英特尔公司预计将在周四收盘后公布强劲的第二季度收益，但即使是井喷的业绩也可能不足以扭转该股 7 月份的下滑趋势。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-needs-more-blowout-earnings-083556946.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784795756,
+        "type": "News"
+    },
+    {
+        "title": "STMicro Plunges as Weak Forecast Eclipses Fourth-Quarter Outlook",
+        "title_zh": "由于疲软的预测掩盖了第四季度的前景，意法半导体股价暴跌",
+        "summary": "(Bloomberg) -- STMicroelectronics NV plunged the most in a year after the chipmaker forecast third-quarter sales that missed analysts’ expectations, dimming hopes for a stronger recovery on the back of artificial intelligence data center demand.",
+        "summary_zh": "（彭博社）——芯片制造商意法半导体公司第三季度销售额低于分析师预期，导致该公司股价出现一年来最大跌幅，这使得人工智能数据中心需求强劲复苏的希望黯淡。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/stmicro-plunges-weak-forecast-eclipses-072217426.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784791337,
         "type": "News"
     },
     {
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/video/inside-alphabets-earnings-call-with-google-ceo-sundar-pichai-223755892.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1784759875,
-        "type": "News"
-    },
-    {
-        "title": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
-        "title_zh": "埃隆·马斯克“否认”特斯拉只是一家电动汽车公司：罗斯·格伯",
-        "summary": "EV maker Tesla (TSLA) released mixed second quarter results after Wednesday's close, reporting adjusted earnings of $0.33 per share (vs. estimates of $0.51) and revenue of $28.24 billion (vs. estimates of $26.32 billion). The stock is sliding in extended hours trading.",
-        "summary_zh": "电动汽车制造商特斯拉 (TSLA) 在周三收盘后公布了喜忧参半的第二季度业绩，调整后每股收益为 0.33 美元（预期为 0.51 美元），营收为 282.4 亿美元（预期为 263.2 亿美元）。该股在延长交易时间内下跌。",
-        "link": "https://finance.yahoo.com/video/elon-musk-is-in-denial-that-tesla-is-just-an-ev-company-ross-gerber-210812615.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784754492,
-        "type": "News"
-    },
-    {
-        "title": "Options strategist reveals how he'd trading Alphabet ahead of earnings",
-        "title_zh": "期权策略师透露他将如何在盈利前交易 Alphabet",
-        "summary": "All-Star Charts chief options strategist Sean McLaughlin joins Josh Lipton on Market Domination to share how he's looking at the earnings, specifically Alphabet (GOOGL), with options in mind.",
-        "summary_zh": "全明星图表首席期权策略师肖恩·麦克劳克林 (Sean McLaughlin) 与乔什·利普顿 (Josh Lipton) 一起讨论市场支配地位，分享他如何看待盈利，特别是考虑到期权的 Alphabet (GOOGL)。",
-        "link": "https://finance.yahoo.com/video/options-strategist-reveals-how-hed-trading-alphabet-ahead-of-earnings-195523889.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784750123,
         "type": "News"
     }
 ]
