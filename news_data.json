@@ -1,32 +1,62 @@
 [
     {
-        "title": "Japan's Nikkei falls more than 2% on AI spending worries",
-        "title_zh": "日本日经指数因人工智能支出担忧而下跌超过 2%",
-        "summary": "By Junko Fujita TOKYO, July 24 (Reuters) - Japan's Nikkei share average fell more than 2% on Friday, as a sharp decline in Google parent Alphabet shares spurred concerns about heavy AI spending.",
-        "summary_zh": "作者：Junko Fujita 东京，7 月 24 日（路透社）——日本日经指数周五下跌超过 2%，谷歌母公司 Alphabet 股价大幅下跌引发了人们对人工智能巨额支出的担忧。",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/japans-nikkei-falls-more-2-015731311.html",
+        "title": "Morning Bid: Running on empty",
+        "title_zh": "早间出价：空运行",
+        "summary": "By Anna Szymanski July 24 (Reuters) - From the Editor Hello Morning Bid readers! Cash burn and spiking crude prices dominated market headlines this week.",
+        "summary_zh": "作者：Anna Szymanski 7 月 24 日（路透社）- 来自编辑 早上好 Bid 读者们好！现金消耗和原油价格飙升成为本周市场头条新闻。",
+        "link": "https://finance.yahoo.com/news/morning-bid-running-empty-104033048.html",
         "publisher": "Reuters",
-        "publish_time": 1784858251,
+        "publish_time": 1784889633,
         "type": "News"
     },
     {
-        "title": "Wall St falls as tech earnings spark AI spending worries",
-        "title_zh": "科技财报引发人工智能支出担忧，华尔街下跌",
-        "summary": "STORY: Wall Street stocks plummeted on Thursday, with the Dow dropping about 1%, the S&P 500 shedding 1.2% and the Nasdaq tumbling more than 2%.The latest earnings results from large tech companies such as Alphabet and Tesla revived concerns about heavy AI spending, says Keith...",
-        "summary_zh": "故事：华尔街股市周四暴跌，道琼斯指数下跌约 1%，标准普尔 500 指数下跌 1.2%，纳斯达克指数下跌超过 2%。基思表示，Alphabet 和特斯拉等大型科技公司的最新财报再次引发了人们对人工智能巨额支出的担忧……",
-        "link": "https://finance.yahoo.com/video/wall-st-falls-tech-earnings-230417338.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1784847857,
+        "title": "Intel rises as strong forecasts signal AI boost for turnaround",
+        "title_zh": "强劲的预测表明人工智能将推动扭亏为盈，英特尔股价上涨",
+        "summary": "Intel's shares rose 6% in premarket trading on Friday after bullish forecasts signaled the AI boom was propelling ‌the chipmaker's long-awaited turnaround.",
+        "summary_zh": "英特尔股价周五在盘前交易中上涨 6%，此前乐观的预测表明人工智能热潮正在推动这家芯片制造商实现期待已久的扭亏为盈。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/intel-rises-strong-forecasts-signal-103424987.html",
+        "publisher": "Reuters",
+        "publish_time": 1784889264,
         "type": "News"
     },
     {
-        "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
-        "title_zh": "高盛提供一次交易 2.5 亿美元人工智能垃圾债券的方法",
-        "summary": "(Bloomberg) -- Goldman Sachs Group Inc. and JPMorgan Chase & Co.",
-        "summary_zh": "（彭博社）——高盛集团和摩根大通公司",
-        "link": "https://finance.yahoo.com/markets/options/articles/goldman-offers-way-trade-ai-204112017.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784839272,
+        "title": "Wall St futures rise after tech rout; Mideast, tariffs in focus",
+        "title_zh": "科技股暴跌后华尔街期货上涨；中东，关税成为焦点",
+        "summary": "July 24 (Reuters) - U.S. stock index futures edged higher on Friday after a tech-led selloff in the previous session, as investors weighed fresh earnings, escalating Middle East tensions and a new",
+        "summary_zh": "路透 7 月 24 日 - 美国股指期货周五小幅走高，此前一交易日科技股引发抛售，投资者权衡新财报、中东紧张局势升级以及新一轮",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-tech-101753664.html",
+        "publisher": "Reuters",
+        "publish_time": 1784888273,
+        "type": "News"
+    },
+    {
+        "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
+        "title_zh": "美股面临美联储决定和科技股带来的盈利洪流的考验",
+        "summary": "By Lewis Krauskopf NEW YORK, July 24 (Reuters) - A wobbly U.S. stock market will take its cues in the coming week from a Federal Reserve meeting set to shed light on the path for interest rates, and",
+        "summary_zh": "作者：Lewis Krauskopf 纽约，7 月 24 日（路透社）——未来一周，美国股市的波动将从美联储会议上得到暗示，该会议将阐明利率走势，",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-face-tests-fed-100455048.html",
+        "publisher": "Reuters",
+        "publish_time": 1784887495,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after tech rout as new Trump tariffs take effect",
+        "title_zh": "今日股市：随着特朗普新关税生效，道琼斯指数、标准普尔 500 指数和纳斯达克期货在科技股暴跌后上涨",
+        "summary": "Stocks stabilized on Friday but were on track for weekly losses as investors assessed a new set of global tariffs against a backdrop of AI jitters, rising oil prices, and elevated bond yields.",
+        "summary_zh": "周五股市企稳，但由于投资者在人工智能不安、油价上涨和债券收益率上升的背景下评估了一套新的全球关税，股市有望出现每周下跌。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784881134,
+        "type": "News"
+    },
+    {
+        "title": "Asian stocks sink, bonds struggle as oil spike stokes rate risks",
+        "title_zh": "由于油价飙升引发利率风险，亚洲股市下跌，债券陷入困境",
+        "summary": "By Stella Qiu SYDNEY, July 24 (Reuters) - Asian shares sank on Friday as a near 40% rise in oil prices this month due to the intensifying conflict in the Gulf revived inflation fears, rattling bond",
+        "summary_zh": "路透悉尼 7 月 24 日 - 亚洲股市周五下跌，因海湾地区冲突加剧，本月油价上涨近 40%，引发通胀担忧，债券市场陷入困境",
+        "link": "https://finance.yahoo.com/news/asian-stocks-sink-bonds-struggle-054726268.html",
+        "publisher": "Reuters",
+        "publish_time": 1784872046,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1784837299,
-        "type": "News"
-    },
-    {
-        "title": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
-        "title_zh": "AMD的新Helios AI机架系统能否推动其超越Nvidia？",
-        "summary": "Advanced Micro Devices (AMD) unveiled its latest AI infrastructure product, the Helios rackscale systems for data centers.",
-        "summary_zh": "Advanced Micro Devices (AMD) 推出了其最新的人工智能基础设施产品，即用于数据中心的 Helios 机架规模系统。",
-        "link": "https://finance.yahoo.com/video/could-amds-new-helios-ai-rack-system-push-it-to-outperform-nvidia-193930252.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784835570,
-        "type": "News"
-    },
-    {
-        "title": "Google, Amazon, Meta, & Microsoft will spend 'unprecedented' $1T on AI capex in 2027: Analyst",
-        "title_zh": "分析师：谷歌、亚马逊、Meta 和微软将在 2027 年在人工智能资本支出上花费“前所未有”的 1T 美元",
-        "summary": "Evercore ISI senior managing director and head of internet research, Mark Mahaney, discusses Alphabet's (GOOG, GOOGL) recent earnings results and his outlook for AI capex spending.",
-        "summary_zh": "Evercore ISI 高级董事总经理兼互联网研究主管 Mark Mahaney 讨论了 Alphabet（GOOG、GOOGL）最近的盈利结果以及他对人工智能资本支出的展望。",
-        "link": "https://finance.yahoo.com/video/google-amazon-meta--microsoft-will-spend-unprecedented-1t-on-ai-capex-in-2027-analyst-160800379.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784822880,
-        "type": "News"
-    },
-    {
-        "title": "How Tesla's robotaxi struggle is akin to the Apple vs. Google Maps rivalry",
-        "title_zh": "特斯拉的机器人出租车之争类似于苹果与谷歌地图的竞争",
-        "summary": "RBC Capital Markets lead equity analyst on global autos, Tom Narayan, sits down with Julie Hyman on Market Catalysts to expand more on his takeaways from Tesla's (TSLA) latest earnings and where it may be facing the biggest problems in expanding its robotaxi business.",
-        "summary_zh": "加拿大皇家银行资本市场 (RBC Capital Markets) 全球汽车首席股票分析师汤姆·纳拉扬 (Tom Narayan) 在市场催化剂上与朱莉·海曼 (Julie Hyman) 进行了座谈，进一步阐述了他对特斯拉 (TSLA) 最新财报的看法，以及该公司在扩大机器...",
-        "link": "https://finance.yahoo.com/video/teslas-robotaxi-struggle-akin-apple-151500987.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784819700,
         "type": "News"
     }
 ]
