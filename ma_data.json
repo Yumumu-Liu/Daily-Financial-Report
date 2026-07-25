@@ -1,52 +1,52 @@
 [
     {
-        "title": "Oracle’s $7B Pentagon Deal Win Sparks 'Buy' Calls From Retail Traders As ORCL Rebounds Premarket",
-        "title_zh": "随着 ORCL 盘前反弹，甲骨文赢得五角大楼 70 亿美元交易引发零售交易商“买入”呼吁",
-        "summary": "The move came as a relief for the stock which has fallen sharply over the last two months.",
-        "summary_zh": "此举让该股在过去两个月大幅下跌中松了一口气。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-7b-pentagon-deal-win-091858256.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1784884738,
-        "type": "News"
-    },
-    {
-        "title": "Ford set to challenge Tesla after big new deal with tech giant",
-        "title_zh": "福特与科技巨头达成新协议后将挑战特斯拉",
-        "summary": "Doug Field spent years at Apple working on a car the company never built. When Apple shut down Project Titan in early 2024, Field moved to Ford. He's been leading the automaker's technology strategy since. On July 23, you could see exactly what he's been building toward.",
-        "summary_zh": "道格·菲尔德（Doug Field）在苹果公司工作了数年，致力于开发一款该公司从未生产过的汽车。当苹果公司于 2024 年初关闭泰坦计划时，菲尔德跳槽到了福特。此后他一直领导该汽车制造商的技术战略。 7 月 23 日，你可以清楚地看到他一直在努力实现的目标。",
-        "link": "https://finance.yahoo.com/technology/articles/ford-set-challenge-tesla-big-024700737.html",
-        "publisher": "TheStreet",
-        "publish_time": 1784861220,
-        "type": "News"
-    },
-    {
-        "title": "ORCL Stock Rises After-Hours On Pentagon Deal Worth Up To $7B — Why Retail Sees NOW, PLTR, MSFT And Others Benefiting Too",
-        "title_zh": "ORCL 股价因五角大楼价值高达 7B 美元的交易而在盘后上涨 - 为什么零售业现在认为 PLTR、MSFT 和其他公司也受益",
-        "summary": "Stocktwits retail traders said the contract could be the first of many government AI wins, with some also turning bullish on Palantir and enterprise software peers.",
-        "summary_zh": "Stocktwits 零售交易员表示，这份合同可能是政府在人工智能方面赢得的众多胜利中的第一个，一些人也开始看好 Palantir 和企业软件同行。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-rises-hours-pentagon-000726653.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1784851646,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Offers Way to Trade AI Junk Bonds $250 Million at a Time",
-        "title_zh": "高盛提供一次交易 2.5 亿美元人工智能垃圾债券的方法",
-        "summary": "(Bloomberg) -- Goldman Sachs Group Inc. and JPMorgan Chase & Co.",
-        "summary_zh": "（彭博社）——高盛集团和摩根大通公司",
-        "link": "https://finance.yahoo.com/markets/options/articles/goldman-offers-way-trade-ai-204112017.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784839272,
-        "type": "News"
-    },
-    {
-        "title": "Has Cisco Systems (CSCO) Run Ahead Of Fair Value Following Its Webex Contact Center Deal?",
-        "title_zh": "思科系统公司 (CSCO) 在其 Webex 联络中心交易后，其公允价值是否高于公允价值？",
-        "summary": "Cisco Systems (CSCO) has been in focus after SuccessKPI announced a partnership to integrate its Workforce Engagement Management and intelligence tools directly into Cisco’s Webex Contact Center, creating a single cloud-native platform for hybrid human and AI contact centers.",
-        "summary_zh": "在 SuccessKPI 宣布建立合作伙伴关系，将其员工敬业度管理和智能工具直接集成到思科的 Webex 联络中心，为混合人力和人工智能联络中心创建单一云原生平台后，思科系统公司 (CSCO) 一直受到关注。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-run-ahead-151526960.html",
+        "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
+        "title_zh": "Salesforce (CRM) 与 VA 达成 16 亿美元交易，为退伍军人护理提供支持",
+        "summary": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans.",
+        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）已与美国退伍军人事务部签订了一份价值 16 亿美元、为期三年的合同。 Missionforce 平台将用于为超过 1700 万退伍军人提供现代化的护理和服务。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-lands-1-6-020852466.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1784819726,
+        "publish_time": 1784945332,
+        "type": "News"
+    },
+    {
+        "title": "Uber’s New Acquisition and GE Aerospace’s Search for Parts",
+        "title_zh": "Uber 的新收购和 GE 航空航天公司寻找零部件",
+        "summary": "Uber is leaning into delivery services with its acquisition of Delivery Hero. Plus, GE Aerospace is having a hard time sourcing materials.",
+        "summary_zh": "Uber 通过收购 Delivery Hero 进军配送服务领域。此外，通用电气航空航天公司在采购材料方面也遇到了困难。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-acquisition-ge-aerospace-search-015155881.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1784944315,
+        "type": "News"
+    },
+    {
+        "title": "Verizon Just Signed a More Than $1 Billion Dark Fiber Deal With Google. Here's What It Means for the 6.3% Dividend.",
+        "title_zh": "Verizon 刚刚与 Google 签署了价值超过 10 亿美元的暗光纤协议。这就是 6.3% 股息的含义。",
+        "summary": "The telecom giant just signed a major dark fiber agreement with one of the world's biggest AI spenders.",
+        "summary_zh": "这家电信巨头刚刚与全球最大的人工智能消费者之一签署了一项重要的暗光纤协议。",
+        "link": "https://finance.yahoo.com/technology/articles/verizon-just-signed-more-1-013100104.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1784943060,
+        "type": "News"
+    },
+    {
+        "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal",
+        "title_zh": "尽管有五角大楼软件交易，甲骨文股价仍下跌",
+        "summary": "Oracle stock initially climbed after news of a software deal with the Pentagon. But the gains didn't hold.",
+        "summary_zh": "在与五角大楼达成软件交易的消息传出后，甲骨文股价最初上涨。但收益并没有保持。",
+        "link": "https://www.investors.com/news/technology/oracle-stock-pentagon-deal-orcl-news/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1784926708,
+        "type": "News"
+    },
+    {
+        "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
+        "title_zh": "政府人工智能交易提振企业软件，ServiceNow 飙升 6%，Salesforce 攀升 4%",
+        "summary": "Federal AI contracts are pouring into enterprise software order books, and two of the sector's most beaten-down stocks are suddenly surging.",
+        "summary_zh": "联邦人工智能合同正在涌入企业软件订单簿，该行业最受打击的两只股票突然飙升。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-surges-6-salesforce-climbs-173831058.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1784914711,
         "type": "News"
     }
 ]
