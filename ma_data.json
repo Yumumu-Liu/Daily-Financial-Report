@@ -1,22 +1,12 @@
 [
     {
-        "title": "Amkor Technology (AMKR) Lands Nvidia Deal As Investors Ask If The Stock Is Already Priced In",
-        "title_zh": "Amkor Technology (AMKR) 与 Nvidia 达成交易，投资者询问该股是否已定价",
-        "summary": "Amkor Technology (AMKR) is back in focus after announcing a multi-year, $1.5b partnership with NVIDIA, including a sizeable prepayment aimed at expanding Amkor’s advanced semiconductor packaging and testing capacity in the U.S. See our latest analysis for Amkor Technology.",
-        "summary_zh": "Amkor Technology (AMKR) 宣布与 NVIDIA 建立为期 1.5 亿美元的多年合作伙伴关系，其中包括一笔巨额预付款，旨在扩大 Amkor 在美国的先进半导体封装和测试能力，从而重新成为人们关注的焦点。请参阅我们对 Amkor Technology 的最...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-amkr-lands-nvidia-091055217.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1784970655,
-        "type": "News"
-    },
-    {
-        "title": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron’s The Real Deal, Says Jim Cramer",
-        "title_zh": "吉姆·克莱默 (Jim Cramer) 表示，西部数据公司（纳斯达克股票代码：WDC）在美光的真正交易中很幸运",
-        "summary": "Even though the shares have been among the top performers in the market, CNBC’s Jim Cramer still believes that Western Digital Corporation (NASDAQ:WDC) got lucky. The stock is up by 644% over the past year and by 173% year-to-date.",
-        "summary_zh": "尽管该股一直是市场表现最好的股票之一，但 CNBC 的 Jim Cramer 仍然认为西部数据公司（纳斯达克股票代码：WDC）很幸运。该股去年上涨了 644%，今年迄今上涨了 173%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-nasdaq-wdc-080209259.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1784966529,
+        "title": "Larry Ellison Personally Guaranteed $40.4 Billion of His Son's Warner Bros. Discovery Deal. Now 12 States Have Sued to Block It, and Oracle Stock Has Fallen 34% This Month.",
+        "title_zh": "拉里·埃里森 (Larry Ellison) 亲自为儿子的华纳兄弟探索交易提供 404 亿美元的担保。现在已有 12 个州提起诉讼要求阻止，甲骨文股价本月已下跌 34%。",
+        "summary": "Larry Ellison's fortune, Oracle's stock, and Hollywood's biggest merger are now deeply intertwined -- and investors should understand why the outcome could matter far beyond the entertainment industry.",
+        "summary_zh": "拉里·埃里森的财富、甲骨文的股票和好莱坞最大的合并现在已经深深地交织在一起——投资者应该理解为什么结果的影响可能远远超出娱乐业。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-personally-guaranteed-40-171000750.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1784999400,
         "type": "News"
     },
     {
@@ -30,6 +20,16 @@
         "type": "News"
     },
     {
+        "title": "Blackstone, Brookfield, KKR Ink $16 Billion Kuwait Pipeline Deal",
+        "title_zh": "Blackstone、Brookfield 和 KKR 签署价值 160 亿美元的科威特管道交易",
+        "summary": "(Bloomberg) -- Kuwait has agreed a $16 billion infrastructure partnership with Blackstone Inc., Brookfield Asset Management Ltd. and KKR & Co.",
+        "summary_zh": "（彭博社）——科威特已与 Blackstone Inc.、Brookfield Asset Management Ltd. 和 KKR & Co. 达成价值 160 亿美元的基础设施合作伙伴关系。",
+        "link": "https://finance.yahoo.com/energy/articles/blackstone-brookfield-kkr-ink-16-050551257.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1784955951,
+        "type": "News"
+    },
+    {
         "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
         "title_zh": "Salesforce (CRM) 与 VA 达成 16 亿美元交易，为退伍军人护理提供支持",
         "summary": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans.",
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Oracle Stock Reverses Lower Despite Pentagon Software Deal",
-        "title_zh": "尽管有五角大楼软件交易，甲骨文股价仍下跌",
-        "summary": "Oracle stock initially climbed after news of a software deal with the Pentagon. But the gains didn't hold.",
-        "summary_zh": "在与五角大楼达成软件交易的消息传出后，甲骨文股价最初上涨。但收益并没有保持。",
-        "link": "https://www.investors.com/news/technology/oracle-stock-pentagon-deal-orcl-news/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1784926708,
+        "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
+        "title_zh": "政府人工智能交易提振企业软件，ServiceNow 飙升 6%，Salesforce 攀升 4%",
+        "summary": "Federal AI contracts are pouring into enterprise software order books, and two of the sector's most beaten-down stocks are suddenly surging.",
+        "summary_zh": "联邦人工智能合同正在涌入企业软件订单簿，该行业最受打击的两只股票突然飙升。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-surges-6-salesforce-climbs-173831058.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1784914711,
         "type": "News"
     }
 ]

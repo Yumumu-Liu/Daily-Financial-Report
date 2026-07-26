@@ -1,5 +1,25 @@
 [
     {
+        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+        "title_zh": "Alphabet 的失败、英特尔的冲击和特斯拉的坦克：AlphaSpace 每周回顾",
+        "summary": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
+        "summary_zh": "一些市场观察，雅虎财经 AlphaSpace 的赞扬。",
+        "link": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784983096,
+        "type": "News"
+    },
+    {
+        "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
+        "title_zh": "谷歌和特斯拉本周因供应商套现而损失了 5000 亿美元：每日图表",
+        "summary": "Wall Street spent months buying the AI buildout — this week it started asking who actually pays for it.",
+        "summary_zh": "华尔街花了几个月的时间购买人工智能扩建项目——本周它开始询问谁真正为此买单。",
+        "link": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1784981643,
+        "type": "News"
+    },
+    {
         "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
         "title_zh": "财报发布前，纳斯达克因人工智能支出的担忧而落后",
         "summary": "STORY: U.S.",
@@ -7,86 +27,6 @@
         "link": "https://finance.yahoo.com/video/nasdaq-lags-angst-over-ai-221946761.html",
         "publisher": "Reuters Videos",
         "publish_time": 1784931586,
-        "type": "News"
-    },
-    {
-        "title": "What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",
-        "title_zh": "下周看点：大型科技公司财报、美联储和消费者信心",
-        "summary": "Asking for a Trend Host Brooke DiPalma previews several of the biggest stories to come next week, including Mag 7 earnings from Microsoft (MSFT), Meta (META), Apple (AAPL) and Amazon (AMZN), as well as the Fed decision and the latest Consumer confidence data.",
-        "summary_zh": "《寻求趋势》主持人布鲁克·迪帕尔玛 (Brooke DiPalma) 预览了下周即将发布的几个重大新闻，包括微软 (MSFT)、Meta (META)、苹果 (AAPL) 和亚马逊 (AMZN) 的 Mag 7 财报，以及美联储的决定和最新的消费者信心数据。",
-        "link": "https://finance.yahoo.com/video/watch-next-week-big-tech-220000158.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784930400,
-        "type": "News"
-    },
-    {
-        "title": "Why Tesla, Google, and other Mag 7 stocks are losing billions in valuation",
-        "title_zh": "为什么特斯拉、谷歌和其他 Mag 7 股票的估值正在损失数十亿美元",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at stock valuation losses from Tesla (TSLA), Alphabet (GOOG, GOOGL), Meta (META), Amazon (AMZN), and Microsoft (MSFT).",
-        "summary_zh": "雅虎金融市场和数据编辑 Jared Blikre 仔细研究了特斯拉 (TSLA)、Alphabet (GOOG、GOOGL)、Meta (META)、亚马逊 (AMZN) 和微软 (MSFT) 的股票估值损失。",
-        "link": "https://finance.yahoo.com/video/why-tesla-google-and-other-mag-7-stocks-are-losing-billions-in-valuation-200043787.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784923243,
-        "type": "News"
-    },
-    {
-        "title": "AMD CEO Lisa Su isn't worried about an AI house of cards",
-        "title_zh": "AMD 首席执行官苏姿丰并不担心 AI 纸牌屋",
-        "summary": "It makes sense for tech companies to work together in the age of AI, no?",
-        "summary_zh": "在人工智能时代，科技公司合作是有意义的，不是吗？",
-        "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-isnt-worried-about-an-ai-house-of-cards-180022112.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784916022,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
-        "title_zh": "OpenAI 总裁格雷格·布罗克曼 (Greg Brockman)：“无论如何，我们都将面临计算短缺的局面”",
-        "summary": "OpenAI president Greg Brockman says AI-driven computing constraints will last for the foreseeable future.",
-        "summary_zh": "OpenAI 总裁格雷格·布罗克曼 (Greg Brockman) 表示，人工智能驱动的计算限制将在可预见的未来持续存在。",
-        "link": "https://finance.yahoo.com/technology/article/openai-president-greg-brockman-we-will-remain-in-this-compute-shortage-no-matter-what-155249677.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1784908369,
-        "type": "News"
-    },
-    {
-        "title": "Trump's new tariff push has investors rethinking their playbook",
-        "title_zh": "特朗普的新关税举措让投资者重新思考他们的策略",
-        "summary": "President Trump has proposed new tariffs on roughly 60 countries, adding another layer of uncertainty for investors.",
-        "summary_zh": "特朗普总统提议对大约 60 个国家征收新关税，这给投资者增添了另一层不确定性。",
-        "link": "https://finance.yahoo.com/video/trumps-new-tariff-push-has-investors-rethinking-their-playbook-143509808.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784903709,
-        "type": "News"
-    },
-    {
-        "title": "Why Big Tech barnings could define the market next week",
-        "title_zh": "为什么大型科技公司的禁令可能决定下周的市场",
-        "summary": "Next week's earnings from Apple (AAPL), Meta (META), Amazon (AMZN) and Microsoft (MSFT) could set the tone for the broader market, making it one of the most consequential weeks of the summer.",
-        "summary_zh": "下周苹果（AAPL）、Meta（META）、亚马逊（AMZN）和微软（MSFT）的财报可能会为更广泛的市场定下基调，使其成为夏季最重要的一周之一。",
-        "link": "https://finance.yahoo.com/video/why-big-tech-barnings-could-define-the-market-next-week-142459959.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784903099,
-        "type": "News"
-    },
-    {
-        "title": "Is Wall Street buying Intel's comeback story after blowout Q2 earnings?",
-        "title_zh": "华尔街是否相信英特尔在第二季度业绩井喷后卷土重来的故事？",
-        "summary": "Intel stock (INTC), which initially surged following its second quarter earnings yesterday, is trying to hold onto some of its gains Friday morning.",
-        "summary_zh": "英特尔股票（INTC）昨天公布第二季度财报后最初飙升，周五上午正试图保持部分涨幅。",
-        "link": "https://finance.yahoo.com/video/is-wall-street-buying-intels-comeback-story-after-blowout-q2-earnings-141629070.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784902589,
-        "type": "News"
-    },
-    {
-        "title": "Capex fears trigger biggest Tech sell-off since 'Liberation Day'",
-        "title_zh": "资本支出担忧引发“解放日”以来最大规模的科技股抛售",
-        "summary": "Capital expenditure (capex) concerns are weighing on technology stocks as investors scrutinize Big Tech's heavy spending on AI infrastructure.",
-        "summary_zh": "由于投资者密切关注大型科技公司在人工智能基础设施上的巨额支出，资本支出（capex）担忧正在给科技股带来压力。",
-        "link": "https://finance.yahoo.com/video/capex-fears-trigger-biggest-tech-sell-off-since-liberation-day-141624797.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1784902584,
         "type": "News"
     }
 ]
