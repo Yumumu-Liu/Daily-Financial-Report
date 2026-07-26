@@ -1,12 +1,12 @@
 [
     {
-        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
-        "title_zh": "Alphabet 的失败、英特尔的冲击和特斯拉的坦克：AlphaSpace 每周回顾",
-        "summary": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
-        "summary_zh": "一些市场观察，雅虎财经 AlphaSpace 的赞扬。",
-        "link": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+        "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
+        "title_zh": "四大科技公司财报、美联储会议和 100 美元油价：这是本季度最繁忙的一周",
+        "summary": "Investors step into the busiest week of the quarter with hyperscaler earnings, the June Fed meeting, and escalations in the Middle East all in focus.",
+        "summary_zh": "投资者进入本季度最繁忙的一周，超大规模盈利、六月美联储会议以及中东局势升级都是焦点。",
+        "link": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1784983096,
+        "publish_time": 1785060000,
         "type": "News"
     },
     {
@@ -17,16 +17,6 @@
         "link": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1784981643,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-        "title_zh": "财报发布前，纳斯达克因人工智能支出的担忧而落后",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/nasdaq-lags-angst-over-ai-221946761.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1784931586,
         "type": "News"
     }
 ]
