@@ -1,5 +1,35 @@
 [
     {
+        "title": "SK Hynix, Samsung Ink $950 Billion AI Chip Deals, But Stocks Still Slide",
+        "title_zh": "SK 海力士和三星签署 9500 亿美元的 AI 芯片交易，但股价仍在下滑",
+        "summary": "SK Hynix and Samsung signed $950 billion in AI chip deals with Nvidia and Broadcom, yet both stocks fell Monday as investors booked profits.",
+        "summary_zh": "SK 海力士和三星与英伟达和博通签署了 9500 亿美元的人工智能芯片协议，但由于投资者获利了结，两家公司的股价周一均下跌。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-samsung-ink-950-033645132.html",
+        "publisher": "BeInCrypto",
+        "publish_time": 1785123405,
+        "type": "News"
+    },
+    {
+        "title": "Salesforce’s new deal could reshape veteran health care",
+        "title_zh": "Salesforce 的新交易可能会重塑退伍军人医疗保健",
+        "summary": "Five years ago, the Department of Veterans Affairs launched a new medical records system meant to fix a health network running on decades old technology.",
+        "summary_zh": "五年前，退伍军人事务部推出了一个新的医疗记录系统，旨在修复使用数十年历史技术运行的医疗网络。",
+        "link": "https://finance.yahoo.com/healthcare/articles/salesforce-deal-could-reshape-veteran-010300393.html",
+        "publisher": "TheStreet",
+        "publish_time": 1785114180,
+        "type": "News"
+    },
+    {
+        "title": "Why Paramount's Warner Bros. deal suddenly looks less certain",
+        "title_zh": "为什么派拉蒙与华纳兄弟的交易突然看起来不太确定",
+        "summary": "State attorneys general, led by California AG Rob Bonta, plan to ask for a trial in 2027 -- after the midterm elections.",
+        "summary_zh": "由加州总检察长 Rob Bonta 领导的州总检察长计划在 2027 年中期选举之后要求进行审判。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/why-paramounts-warner-bros-deal-173919861.html",
+        "publisher": "LA Times",
+        "publish_time": 1785001159,
+        "type": "News"
+    },
+    {
         "title": "Larry Ellison Personally Guaranteed $40.4 Billion of His Son's Warner Bros. Discovery Deal. Now 12 States Have Sued to Block It, and Oracle Stock Has Fallen 34% This Month.",
         "title_zh": "拉里·埃里森 (Larry Ellison) 亲自为儿子的华纳兄弟探索交易提供 404 亿美元的担保。现在已有 12 个州提起诉讼要求阻止，甲骨文股价本月已下跌 34%。",
         "summary": "Larry Ellison's fortune, Oracle's stock, and Hollywood's biggest merger are now deeply intertwined -- and investors should understand why the outcome could matter far beyond the entertainment industry.",
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/energy/articles/kuwait-signs-16-billion-oil-071157032.html",
         "publisher": "Investing.com",
         "publish_time": 1784963517,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone, Brookfield, KKR Ink $16 Billion Kuwait Pipeline Deal",
-        "title_zh": "Blackstone、Brookfield 和 KKR 签署价值 160 亿美元的科威特管道交易",
-        "summary": "(Bloomberg) -- Kuwait has agreed a $16 billion infrastructure partnership with Blackstone Inc., Brookfield Asset Management Ltd. and KKR & Co.",
-        "summary_zh": "（彭博社）——科威特已与 Blackstone Inc.、Brookfield Asset Management Ltd. 和 KKR & Co. 达成价值 160 亿美元的基础设施合作伙伴关系。",
-        "link": "https://finance.yahoo.com/energy/articles/blackstone-brookfield-kkr-ink-16-050551257.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1784955951,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
-        "title_zh": "Salesforce (CRM) 与 VA 达成 16 亿美元交易，为退伍军人护理提供支持",
-        "summary": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans.",
-        "summary_zh": "Salesforce（纽约证券交易所股票代码：CRM）已与美国退伍军人事务部签订了一份价值 16 亿美元、为期三年的合同。 Missionforce 平台将用于为超过 1700 万退伍军人提供现代化的护理和服务。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-lands-1-6-020852466.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1784945332,
-        "type": "News"
-    },
-    {
-        "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
-        "title_zh": "政府人工智能交易提振企业软件，ServiceNow 飙升 6%，Salesforce 攀升 4%",
-        "summary": "Federal AI contracts are pouring into enterprise software order books, and two of the sector's most beaten-down stocks are suddenly surging.",
-        "summary_zh": "联邦人工智能合同正在涌入企业软件订单簿，该行业最受打击的两只股票突然飙升。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-surges-6-salesforce-climbs-173831058.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1784914711,
         "type": "News"
     }
 ]
