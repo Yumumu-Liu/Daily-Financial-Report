@@ -1,5 +1,25 @@
 [
     {
+        "title": "NVDA, Chip Stocks Extend Rout: Analysts Say OpenAI Deal Fears Overblown",
+        "title_zh": "NVDA、芯片股延续跌势：分析师称 OpenAI 交易担忧被夸大",
+        "summary": "Nvidia is on track to fall for a third straight day.",
+        "summary_zh": "英伟达有望连续第三天下跌。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-chip-stocks-extend-rout-094902224.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1785232142,
+        "type": "News"
+    },
+    {
+        "title": "SCHH Offers Low-Cost U.S. REITs While REET Adds Global Reach",
+        "title_zh": "SCHH 提供低成本美国 REIT，而 REET 则扩大全球影响力",
+        "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio that still has a large U.S. core.",
+        "summary_zh": "Schwab U.S. REIT ETF (SCHH) 为投资者提供了一种更便宜的方式来拥有国内股本 REIT，而 iShares Global REIT ETF (REET) 将海外房地产市场添加到仍以美国为核心的投资组合中。",
+        "link": "https://finance.yahoo.com/real-estate/articles/schh-offers-low-cost-u-052010606.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1785216010,
+        "type": "News"
+    },
+    {
         "title": "Will Salesforce’s (CRM) US$1.6 Billion VA AI Deal Redefine Its Government-Cloud Narrative?",
         "title_zh": "Salesforce (CRM) 价值 16 亿美元的 VA AI 交易是否会重新定义其政府云叙事？",
         "summary": "Earlier this month, the U.S.",
@@ -20,33 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Intel’s Capex Plans Offer a Quiet Positive for the Foundry Business. The Real Test Is Still Execution.",
-        "title_zh": "英特尔的资本支出计划为代工业务带来了悄然的积极影响。真正的考验仍然是执行。",
-        "summary": "Intel said 2026 capital expenditures will rise above $20 billion, with 2027 spending expected to be even higher, as the company invests to address tight capacity and AI-driven demand in its foundry business.",
-        "summary_zh": "英特尔表示，2026 年的资本支出将超过 200 亿美元，2027 年的支出预计会更高，因为该公司将进行投资以解决其代工业务的产能紧张和人工智能驱动的需求。",
-        "link": "https://finance.yahoo.com/technology/articles/intel-capex-plans-offer-quiet-191919116.html",
-        "publisher": "Barchart",
-        "publish_time": 1785179959,
-        "type": "News"
-    },
-    {
         "title": "SoundHound vs. Five9: Which Customer AI Stock Offers Better Growth?",
         "title_zh": "SoundHound 与 Five9：哪种客户 AI 股票提供更好的增长？",
         "summary": "Do FIVN's profitable AI growth, stronger cash flow and lower valuation make it a better customer AI stock than SOUN?",
-        "summary_zh": "FIVN 的盈利性 AI 增长、更强的现金流和较低的估值是否使其成为比 SOUN 更好的客户 AI 股票？",
+        "summary_zh": "FIVN 的人工智能盈利增长、更强的现金流和更低的估值是否使其成为比 SOUN 更好的客户人工智能股票？",
         "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-vs-five9-customer-ai-164900514.html",
         "publisher": "Zacks",
         "publish_time": 1785170940,
-        "type": "News"
-    },
-    {
-        "title": "KKR, Blackstone Sign $16 Billion Kuwait Oil Deal",
-        "title_zh": "KKR 与 Blackstone 签署 160 亿美元科威特石油交易",
-        "summary": "The companies that manage Kuwait’s oil sector signed a $16 billion lease agreement with a group of investors led by Blackstone, Brookfield and KKR.",
-        "summary_zh": "管理科威特石油行业的公司与以 Blackstone、Brookfield 和 KKR 为首的投资者集团签署了价值 160 亿美元的租赁协议。",
-        "link": "https://www.wsj.com/business/energy-oil/kkr-blackstone-sign-16-billion-kuwait-oil-deal-e864ed68?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1785152820,
         "type": "News"
     }
 ]

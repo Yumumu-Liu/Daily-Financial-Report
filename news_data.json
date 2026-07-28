@@ -1,52 +1,82 @@
 [
     {
-        "title": "AI anxiety sparks tech rout, broad selloff in Asian markets",
-        "title_zh": "人工智能焦虑引发科技股溃败和亚洲市场广泛抛售",
-        "summary": "SINGAPORE, July 28 (Reuters) - Asian markets fell on Tuesday led by chipmakers on unease about the massive funding demands of the AI boom, while a slide in oil prices did relatively little to lift",
-        "summary_zh": "路透新加坡 7 月 28 日 - 亚洲市场周二下跌，芯片制造商领跌，原因是对人工智能繁荣的巨大资金需求感到不安，而油价下跌对提振作用相对较小。",
-        "link": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
-        "publisher": "Reuters",
-        "publish_time": 1785205892,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing",
-        "title_zh": "Anthropic 的 Amodei 拒绝开放模型禁令，但呼吁进行测试",
-        "summary": "(Bloomberg) -- Silicon Valley leaders, including Anthropic PBC Chief Executive Officer Dario Amodei and Nvidia Corp.",
-        "summary_zh": "（彭博社）——硅谷领导人，包括 Anthropic PBC 首席执行官 Dario Amodei 和 Nvidia 公司。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-amodei-rejects-open-model-015132572.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785203492,
-        "type": "News"
-    },
-    {
-        "title": "SK Hynix’s Rebound From $470 Billion Rout Hinges on AI Spending",
-        "title_zh": "SK 海力士从 4700 亿美元的溃败中反弹取决于人工智能支出",
-        "summary": "(Bloomberg) -- A $470 billion rout in just a little over a month has flipped SK Hynix Inc.",
-        "summary_zh": "(彭博社)——在短短一个多月的时间里，SK海力士公司就遭遇了 4700 亿美元的暴跌。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-rebound-470-billion-233004396.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785195004,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends mixed as investors focus on tech earnings",
-        "title_zh": "投资者关注科技股盈利，华尔街收盘涨跌互现",
-        "summary": "STORY: Wall Street ended mixed on Monday, with the Dow gaining half a percent, the S&P 500 virtually flat and the Nasdaq dropping marginally.Investors awaited earnings results from Big Tech companies this week, including Microsoft, Amazon, Meta and Apple.",
-        "summary_zh": "故事：华尔街周一收盘涨跌不一，道指上涨 0.5%，标准普尔 500 指数基本持平，纳斯达克指数小幅下跌。投资者等待本周微软、亚马逊、Meta 和苹果等大型科技公司的财报。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-mixed-investors-225434749.html",
+        "title": "Tech Weekly: Tesla under strain, Lockheed innovates drone fighter",
+        "title_zh": "科技周刊：特斯拉面临压力，洛克希德创新无人机战斗机",
+        "summary": "STORY: From Tesla feeling the strain to Lockheed Martin's new drone fighter...",
+        "summary_zh": "故事：从感受到压力的特斯拉到洛克希德·马丁公司的新型无人机战斗机……",
+        "link": "https://finance.yahoo.com/video/tech-weekly-tesla-under-strain-104132059.html",
         "publisher": "Reuters Videos",
-        "publish_time": 1785192874,
+        "publish_time": 1785235292,
         "type": "News"
     },
     {
-        "title": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
-        "title_zh": "据报道 Nvidia 正在洽谈为 OpenAI 俄亥俄州大型数据中心提供资金",
-        "summary": "Chipmaker Nvidia (NVDA) is reportedly in talks with OpenAI (OPAI.PVT) to help fund a $250 billion backstop, according to the Wall Street Journal, that would guarantee the latter's plans for an AI data center in Ohio.",
-        "summary_zh": "据《华尔街日报》报道，芯片制造商 Nvidia (NVDA) 正在与 OpenAI (OPAI.PVT) 进行谈判，以帮助资助 2500 亿美元的支持资金，这将保证后者在俄亥俄州建立人工智能数据中心的计划。",
-        "link": "https://finance.yahoo.com/video/nvidia-reportedly-in-talks-to-finance-openais-massive-ohio-data-center-204640730.html",
+        "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports",
+        "title_zh": "据《商业内幕》报道，亚马逊在战略改革中逐步淘汰了大多数旗舰人工智能模型",
+        "summary": "Amazon.com is revamping its AI strategy, winding down many of its in-house AI models and sharpening focus on ‌a new frontier-model effort, Business Insider reported on Tuesday citing people ‌familiar with the matter.",
+        "summary_zh": "据《商业内幕》周二援引知情人士的话报道，亚马逊正在修改其人工智能战略，逐步缩减其许多内部人工智能模型，并加强对新前沿模型工作的关注。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-winds-down-most-flagship-103406019.html",
+        "publisher": "Reuters",
+        "publish_time": 1785234846,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq futures drop on AI chip worries ahead of pivotal earnings",
+        "title_zh": "纳斯达克期货下跌，因人工智能芯片在关键盈利之前的担忧",
+        "summary": "By Johann M Cherian July 28 (Reuters) - Nasdaq futures fell on Tuesday, mirroring a cautious mood across global markets toward AI chip stocks on concerns about hefty corporate spending and rising",
+        "summary_zh": "作者：Johann M Cherian 7 月 28 日（路透社） - 纳斯达克期货周二下跌，反映出全球市场对人工智能芯片股的谨慎情绪，原因是担心企业支出巨额和上涨",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-ai-chip-085903477.html",
+        "publisher": "Reuters",
+        "publish_time": 1785231949,
+        "type": "News"
+    },
+    {
+        "title": "Meta, BlackRock partner on $14 billion El Paso data center",
+        "title_zh": "Meta 与贝莱德合作斥资 140 亿美元建设埃尔帕索数据中心",
+        "summary": "Meta Platforms and the world's largest asset manager BlackRock on Tuesday announced a venture to develop and operate a data center campus ‌in El Paso, Texas, a project that would cost about $14 billion in ‌development.",
+        "summary_zh": "Meta Platforms 和全球最大的资产管理公司贝莱德周二宣布成立合资公司，在德克萨斯州埃尔帕索开发和运营一个数据中心园区，该项目的开发成本约为 140 亿美元。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-partner-14-billion-093946704.html",
+        "publisher": "Reuters",
+        "publish_time": 1785231586,
+        "type": "News"
+    },
+    {
+        "title": "AI Is Replacing Customer Service Jobs at CBA, Microsoft, Uber",
+        "title_zh": "人工智能正在取代 CBA、微软、Uber 的客户服务工作",
+        "summary": "(Bloomberg) -- AI’s decimation of call center jobs has begun.Most Read from BloombergNvidia’s $750 Billion in Deals Reignite Circular AI FearsDeepSeek Suspends Fundraising After Viral US-China PostsS&P 500 Wobbles as AI Angst Offsets Oil Decline: Markets WrapCitadel Securities...",
+        "summary_zh": "（彭博社）——人工智能对呼叫中心工作岗位的大量削减已经开始。彭博社的大多数报道 英伟达 7500 亿美元的交易重新点燃了对人工智能的循环恐惧 DeepSeek 在美中帖子病毒传播后暂停筹款 由于人工智能焦虑抵消了石油下跌，标准普尔 500 指数出现波动：市场 WrapCit...",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-replacing-customer-jobs-cba-093026192.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785231026,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
+        "title_zh": "今日股市：随着芯片抛售加深，标准普尔 500 指数和纳斯达克期货下跌",
+        "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
+        "summary_zh": "对人工智能繁荣可持续性的担忧抵消了油价下跌和盈利乐观情绪对市场的影响。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785227312,
+        "type": "News"
+    },
+    {
+        "title": "Incoming Apple CEO aims to build on movie and TV progress",
+        "title_zh": "即将上任的苹果首席执行官致力于在电影和电视领域取得进步",
+        "summary": "STORY: :: Los Angeles, California / July 27, 2026:: Apple's incoming CEO says he plans to build on the company's momentum in film and television:: John Ternus, Incoming Apple CEO\"Yeah, I think we have such tremendous momentum right now at Apple TV.",
+        "summary_zh": "故事：：加利福尼亚州洛杉矶/2026 年 7 月 27 日：：苹果即将上任的首席执行官表示，他计划在公司在电影和电视领域的发展势头上再接再厉：：即将上任的苹果首席执行官约翰·特努斯（John Ternus）“是的，我认为 Apple TV 目前拥有如此巨大的势头。",
+        "link": "https://finance.yahoo.com/video/incoming-apple-ceo-aims-build-072714845.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1785223634,
+        "type": "News"
+    },
+    {
+        "title": "AI trade faces test as Wall Street enters busy earnings week",
+        "title_zh": "随着华尔街进入繁忙的财报周，人工智能行业面临考验",
+        "summary": "The Street enters its busiest week of the quarter. Carson Group chief macro strategist Sonu Varghese joins Josh Lipton on Market Domination Overtime to break down the recent chip sell-off and how investors should approach the AI trade amid shifting market dynamics",
+        "summary_zh": "华尔街进入本季度最繁忙的一周。 Carson Group 首席宏观策略师 Sonu Varghese 与 Josh Lipton 一起探讨《Market Domination Overtime》，分析近期的芯片抛售情况，以及投资者应如何在不断变化的市场动态中应对人工智能交易",
+        "link": "https://finance.yahoo.com/video/ai-trade-faces-test-as-wall-street-enters-busy-earnings-week-203307968.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1785185200,
+        "publish_time": 1785184387,
         "type": "News"
     },
     {
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/video/elon-musks-tesla-spacex-shed-12t-in-july-while-apple-sprints-ahead-chart-of-the-day-202410236.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1785183850,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX stock plunge sends a big reminder to those who want to get in on or near IPO day",
-        "title_zh": "SpaceX 股价暴跌给那些想在 IPO 日或临近 IPO 日入场的人敲响了警钟",
-        "summary": "A reminder to IPO fans.",
-        "summary_zh": "给 IPO 粉丝的一个提醒。",
-        "link": "https://finance.yahoo.com/markets/article/spacex-stock-plunge-sends-a-big-reminder-to-those-who-want-to-get-in-on-or-near-ipo-day-174744909.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785174464,
-        "type": "News"
-    },
-    {
-        "title": "Why all eyes are on Meta & Amazon earnings this week",
-        "title_zh": "为什么本周所有人的目光都集中在 Meta 和亚马逊的财报上",
-        "summary": "It's a big week for tech earnings, with Amazon (AMZN), Apple (AAPL), Meta (META), and Microsoft (MSFT) all set to report quarterly results.",
-        "summary_zh": "对于科技公司来说，这是重要的一周，亚马逊 (AMZN)、苹果 (AAPL)、Meta (META) 和微软 (MSFT) 都将公布季度业绩。",
-        "link": "https://finance.yahoo.com/video/why-all-eyes-are-on-meta--amazon-earnings-this-week-120000561.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785168763,
-        "type": "News"
-    },
-    {
-        "title": "Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance?",
-        "title_zh": "中国存储芯片制造商长鑫存储IPO火爆。美国记忆还有机会吗？",
-        "summary": "China's biggest memory chipmaker, ChangXin Memory Technologies (CXMT), is surging in its IPO on the Shanghai Stock Exchange. Yahoo Finance Technology Editor Dan Howley explains what investors should know about emerging Chinese competition in the tech space.",
-        "summary_zh": "中国最大的存储芯片制造商长鑫存储科技（CXMT）在上海证券交易所的首次公开募股（IPO）进展顺利。雅虎财经科技编辑丹·豪利 (Dan Howley) 解释了投资者应该了解中国科技领域新兴竞争的哪些信息。",
-        "link": "https://finance.yahoo.com/video/chinese-memory-chipmaker-cxmt-booms-in-ipo-does-us-memory-stand-a-chance-161109405.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785168669,
         "type": "News"
     }
 ]
