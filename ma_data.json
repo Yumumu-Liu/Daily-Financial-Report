@@ -1,52 +1,52 @@
 [
     {
-        "title": "NVDA, Chip Stocks Extend Rout: Analysts Say OpenAI Deal Fears Overblown",
-        "title_zh": "NVDA、芯片股延续跌势：分析师称 OpenAI 交易担忧被夸大",
-        "summary": "Nvidia is on track to fall for a third straight day.",
-        "summary_zh": "英伟达有望连续第三天下跌。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-chip-stocks-extend-rout-094902224.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1785232142,
-        "type": "News"
-    },
-    {
-        "title": "SCHH Offers Low-Cost U.S. REITs While REET Adds Global Reach",
-        "title_zh": "SCHH 提供低成本美国 REIT，而 REET 则扩大全球影响力",
-        "summary": "The Schwab U.S. REIT ETF (SCHH) gives investors a cheaper way to own domestic equity REITs, while the iShares Global REIT ETF (REET) adds overseas property markets to a portfolio that still has a large U.S. core.",
-        "summary_zh": "Schwab U.S. REIT ETF (SCHH) 为投资者提供了一种更便宜的方式来拥有国内股本 REIT，而 iShares Global REIT ETF (REET) 将海外房地产市场添加到仍以美国为核心的投资组合中。",
-        "link": "https://finance.yahoo.com/real-estate/articles/schh-offers-low-cost-u-052010606.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1785216010,
-        "type": "News"
-    },
-    {
-        "title": "Will Salesforce’s (CRM) US$1.6 Billion VA AI Deal Redefine Its Government-Cloud Narrative?",
-        "title_zh": "Salesforce (CRM) 价值 16 亿美元的 VA AI 交易是否会重新定义其政府云叙事？",
-        "summary": "Earlier this month, the U.S.",
-        "summary_zh": "本月早些时候，美国",
-        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-us-1-6-001727068.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1785197847,
-        "type": "News"
-    },
-    {
-        "title": "BlackRock Dodges AI Bond Flop as $12.3 Billion Debt Deal Rallies",
-        "title_zh": "贝莱德 (BlackRock) 避免 AI 债券失败，123 亿美元债务交易反弹",
-        "summary": "(Bloomberg) -- Bonds that BlackRock Inc. is selling, tied to a Meta Platforms Inc.",
-        "summary_zh": "（彭博社）——贝莱德公司正在出售的债券，与 Meta Platforms Inc. 挂钩。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-dodges-ai-bond-flop-211813215.html",
+        "title": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion",
+        "title_zh": "华纳兄弟交易失败将使埃里森家族损失 98 亿美元",
+        "summary": "(Bloomberg) -- Larry Ellison and his family would be on the hook for $9.8 billion if Paramount Skydance Corp.’s deal to buy Warner Bros. Discovery Inc.",
+        "summary_zh": "（彭博社）——如果派拉蒙 Skydance Corp. 收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的交易成功，拉里·埃里森 (Larry Ellison) 及其家人将面临 98 亿美元的损失。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/warner-bros-deal-collapse-cost-184428975.html",
         "publisher": "Bloomberg",
-        "publish_time": 1785187093,
+        "publish_time": 1785264268,
         "type": "News"
     },
     {
-        "title": "SoundHound vs. Five9: Which Customer AI Stock Offers Better Growth?",
-        "title_zh": "SoundHound 与 Five9：哪种客户 AI 股票提供更好的增长？",
-        "summary": "Do FIVN's profitable AI growth, stronger cash flow and lower valuation make it a better customer AI stock than SOUN?",
-        "summary_zh": "FIVN 的人工智能盈利增长、更强的现金流和更低的估值是否使其成为比 SOUN 更好的客户人工智能股票？",
-        "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-vs-five9-customer-ai-164900514.html",
-        "publisher": "Zacks",
-        "publish_time": 1785170940,
+        "title": "KKR, Blackstone Sign $16 Billion Kuwait Oil Deal",
+        "title_zh": "KKR 与 Blackstone 签署 160 亿美元科威特石油交易",
+        "summary": "The companies that manage Kuwait’s oil sector signed a $16 billion lease agreement with a group of investors led by Blackstone, Brookfield and KKR.",
+        "summary_zh": "管理科威特石油行业的公司与以 Blackstone、Brookfield 和 KKR 为首的投资者集团签署了价值 160 亿美元的租赁协议。",
+        "link": "https://www.wsj.com/business/energy-oil/kkr-blackstone-sign-16-billion-kuwait-oil-deal-e864ed68?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1785152820,
+        "type": "News"
+    },
+    {
+        "title": "Blackstone credit arm nears deal for HSBC’s Australian loan book – report",
+        "title_zh": "黑石信贷部门即将完成汇丰银行澳大利亚贷款账簿的交易——报告",
+        "summary": "HSBC is carrying out a broad global reorganisation under chief executive Georges Elhedery, who took the role last September.",
+        "summary_zh": "汇丰银行在去年 9 月上任的首席执行官 Georges Elhedery 的领导下正在进行广泛的全球重组。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-credit-arm-nears-deal-112555843.html",
+        "publisher": "Retail Banker International",
+        "publish_time": 1785151555,
+        "type": "News"
+    },
+    {
+        "title": "Revolut to Offer Clients Apollo, Ares Funds for as Little as €1",
+        "title_zh": "Revolut 向客户提供 Apollo、Ares 基金，价格低至 1 欧元",
+        "summary": "(Bloomberg) -- Revolut Ltd.",
+        "summary_zh": "（彭博社）——Revolut 有限公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/revolut-offer-clients-apollo-ares-105500876.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785149700,
+        "type": "News"
+    },
+    {
+        "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
+        "title_zh": "科威特与 Blackstone、KKR 和 Brookfield 签署价值 160 亿美元的石油管道协议",
+        "summary": "Investing.com -- Kuwait Petroleum Corporation has signed a $16 billion lease and leaseback agreement covering its crude oil pipeline network with Blackstone, KKR and Brookfield, Reuters reported.",
+        "summary_zh": "据路透社报道，科威特石油公司已与 Blackstone、KKR 和 Brookfield 签署了价值 160 亿美元的租赁和回租协议，涵盖其原油管道网络。",
+        "link": "https://finance.yahoo.com/energy/articles/kuwait-signs-16-billion-oil-071157032.html",
+        "publisher": "Investing.com",
+        "publish_time": 1784963517,
         "type": "News"
     }
 ]
