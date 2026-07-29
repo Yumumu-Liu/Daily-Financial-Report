@@ -1,5 +1,15 @@
 [
     {
+        "title": "Market Chatter: ING Groep Plans $10 Billion in Credit Risk Transfer Deals to Expand Lending Capacity",
+        "title_zh": "市场热议：ING Groep 计划进行 100 亿美元的信用风险转移交易以扩大贷款能力",
+        "summary": "ING Groep (ING) is preparing two significant risk transfer transactions covering about $10 billion o",
+        "summary_zh": "ING Groep (ING) 正在准备两项重大风险转移交易，涉及约 100 亿美元",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ing-groep-plans-095043903.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1785318643,
+        "type": "News"
+    },
+    {
         "title": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8 Billion",
         "title_zh": "华纳兄弟交易失败将使埃里森家族损失 98 亿美元",
         "summary": "(Bloomberg) -- Larry Ellison and his family would be on the hook for $9.8 billion if Paramount Skydance Corp.’s deal to buy Warner Bros. Discovery Inc.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/revolut-offer-clients-apollo-ares-105500876.html",
         "publisher": "Bloomberg",
         "publish_time": 1785149700,
-        "type": "News"
-    },
-    {
-        "title": "Kuwait signs $16 billion oil pipeline deal with Blackstone, KKR and Brookfield",
-        "title_zh": "科威特与 Blackstone、KKR 和 Brookfield 签署价值 160 亿美元的石油管道协议",
-        "summary": "Investing.com -- Kuwait Petroleum Corporation has signed a $16 billion lease and leaseback agreement covering its crude oil pipeline network with Blackstone, KKR and Brookfield, Reuters reported.",
-        "summary_zh": "据路透社报道，科威特石油公司已与 Blackstone、KKR 和 Brookfield 签署了价值 160 亿美元的租赁和回租协议，涵盖其原油管道网络。",
-        "link": "https://finance.yahoo.com/energy/articles/kuwait-signs-16-billion-oil-071157032.html",
-        "publisher": "Investing.com",
-        "publish_time": 1784963517,
         "type": "News"
     }
 ]
