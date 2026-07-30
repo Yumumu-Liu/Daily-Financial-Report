@@ -1,5 +1,15 @@
 [
     {
+        "title": "The Clock Is Ticking On David Ellison’s $111 Billion Media Empire Dream. Stalled Merger Will Start Costing Paramount $7 Million A Day On Sept 30.",
+        "title_zh": "大卫·埃里森 (David Ellison) 1110 亿美元媒体帝国梦想的时钟正在滴答作响。停滞不前的合并将从 9 月 30 日开始每天损失 700 万美元。",
+        "summary": "David Ellison insists his blockbuster media merger is still on track, but a legal standoff with a coalition of state attorneys general is about to flip an abstract delay into a very concrete and very expensive problem.",
+        "summary_zh": "大卫·埃里森坚称，他轰动一时的媒体合并仍在进行中，但与州总检察长联盟的法律僵局即将将一个抽象的延迟转变为一个非常具体且非常昂贵的问题。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/clock-ticking-david-ellison-111-101804899.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1785406684,
+        "type": "News"
+    },
+    {
         "title": "Morgan Stanley offering new ethereum, solana ETFs",
         "title_zh": "摩根士丹利推出新的以太坊、solana ETF",
         "summary": "Scott Melker discusses how Morgan Stanley Investment Management (MS) launched its own ethereum (MSSE) and solana (MSOL) ETFs. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
@@ -33,20 +43,10 @@
         "title": "Blackstone (BX) Leads Kuwait Pipeline Deal In Record Foreign Investment",
         "title_zh": "Blackstone (BX) 引领科威特管道交易创下外国投资纪录",
         "summary": "Blackstone (NYSE:BX) is leading a consortium in a joint venture with Kuwait Oil Company. The deal is structured as a 20.5-year lease and leaseback of Kuwait's entire domestic and export pipeline network.",
-        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）领导一个财团与科威特石油公司成立合资企业。该交易的结构为科威特整个国内和出口管道网络的 20.5 年租赁和回租。",
+        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）牵头组成一个财团，与科威特石油公司成立合资企业。该交易的结构为科威特整个国内和出口管道网络的 20.5 年租赁和回租。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-leads-kuwait-pipeline-130832270.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1785330512,
-        "type": "News"
-    },
-    {
-        "title": "Market Chatter: ING Groep Plans $10 Billion in Credit Risk Transfer Deals to Expand Lending Capacity",
-        "title_zh": "市场热议：ING Groep 计划进行 100 亿美元的信用风险转移交易以扩大贷款能力",
-        "summary": "ING Groep (ING) is preparing two significant risk transfer transactions covering about $10 billion o",
-        "summary_zh": "ING Groep (ING) 正在准备两项重大风险转移交易，涉及约 100 亿美元",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ing-groep-plans-095043903.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1785318643,
         "type": "News"
     }
 ]

@@ -1,22 +1,32 @@
 [
     {
-        "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-        "title_zh": "美联储维持利率不变后华尔街大幅收跌",
-        "summary": "STORY: Wall Street ended sharply lower on Wednesday, with the Dow tumbling more than two percent, the S&P 500 shedding one-and-a-half percent and the Nasdaq falling one-and-three-quarters percent.:: ArchiveThe Fed's widely expected decision to leave interest rates unchanged dr...",
-        "summary_zh": "故事：华尔街周三收盘大幅走低，道琼斯指数下跌逾百分之二，标准普尔 500 指数下跌百分之五，纳斯达克指数下跌四分之三。:: 美联储普遍预期将决定维持利率不变...",
-        "link": "https://finance.yahoo.com/video/wall-street-closes-down-sharply-224632926.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1785365192,
+        "title": "Analysis-Meta's AI splurge lays bare its compute conundrum",
+        "title_zh": "Analysis-Meta 的 AI 挥霍暴露了其计算难题",
+        "summary": "Meta can simultaneously fuel its own AI ambitions and rent out its scarce computing capacity to bolster returns, CEO Mark Zuckerberg signaled on Wednesday.",
+        "summary_zh": "首席执行官马克扎克伯格周三表示，Meta 可以同时推动自己的人工智能雄心，并出租其稀缺的计算能力以提高回报。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/analysis-metas-ai-splurge-lays-101819356.html",
+        "publisher": "Reuters",
+        "publish_time": 1785406699,
         "type": "News"
     },
     {
-        "title": "Senators Warn Apple Not to Buy Memory Chips From Chinese Firms",
-        "title_zh": "参议员警告苹果不要从中国公司购买存储芯片",
-        "summary": "(Bloomberg) -- A bipartisan group of US senators urged Apple Inc. to abandon any efforts to buy chips from blacklisted Chinese semiconductor suppliers CXMT Corp.",
-        "summary_zh": "（彭博社）——美国参议员两党团体敦促苹果公司放弃从被列入黑名单的中国半导体供应商长鑫存储购买芯片的任何努力。",
-        "link": "https://finance.yahoo.com/technology/articles/senators-warn-apple-not-buy-223631097.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785364591,
+        "title": "Amazon, Walmart AI detect 'made in USA' fraud but do not flag it, study says",
+        "title_zh": "研究称，亚马逊、沃尔玛人工智能检测到“美国制造”欺诈，但没有标记它",
+        "summary": "By Jody Godoy July 30 (Reuters) - Amazon and Walmart AI shopping assistants can often detect when \"Made in USA\" product labels are false, but the big retailers are not using that technology to crack",
+        "summary_zh": "作者：乔迪·戈多伊 7 月 30 日（路透社）——亚马逊和沃尔玛的人工智能购物助手通常可以检测出“美国制造”产品标签的虚假信息，但大型零售商并没有使用该技术来破解",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-doj-charged-hundreds-assaulting-100249658.html",
+        "publisher": "Reuters",
+        "publish_time": 1785406476,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",
+        "title_zh": "今日股市：道指、标普 500 指数、纳斯达克期货在通胀数据公布前反弹",
+        "summary": "Traders will be watching Apple and Amazon earnings, fresh inflation data, and the direction of Treasurys and oil prices.",
+        "summary_zh": "交易员将关注苹果和亚马逊的收益、最新的通胀数据以及美国国债和油价的走向。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785399775,
         "type": "News"
     },
     {
@@ -40,16 +50,6 @@
         "type": "News"
     },
     {
-        "title": "Meta's revenue forecast is 'barely passable': D.A. Davidson analyst",
-        "title_zh": "D.A. Meta 的收入预测“勉强过得去”戴维森分析师",
-        "summary": "D.A. Davidson head of technology research Gil Luria joins the Market Domination Overtime team in reacting to Meta Platforms' (META) second quarter earnings results.",
-        "summary_zh": "DA Davidson 技术研究主管 Gil Luria 加入了 Market Domination Overtime 团队，对 Meta Platforms (META) 第二季度收益结果做出反应。",
-        "link": "https://finance.yahoo.com/video/metas-revenue-forecast-barely-passable-211000416.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785359400,
-        "type": "News"
-    },
-    {
         "title": "Microsoft shares rise after Q4 beat",
         "title_zh": "第四季度业绩好转后微软股价上涨",
         "summary": "Microsoft (MSFT) rise after reporting Q4 results. Market Domination Host Josh Lipton delivers the latest earnings details as the numbers cross the wire.",
@@ -57,16 +57,6 @@
         "link": "https://finance.yahoo.com/video/microsoft-shares-rise-q4-beat-202831072.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1785356911,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm Gives Tepid Profit Forecast in Sign of Phone Woes",
-        "title_zh": "手机困境迹象显示高通利润预测不温不火",
-        "summary": "(Bloomberg) -- Qualcomm Inc., the largest maker of smartphone processors, gave a weak profit forecast for the current quarter, signaling that component shortages and rising costs are taking a toll on its main market.",
-        "summary_zh": "（彭博社）——最大的智能手机处理器制造商高通公司对本季度的利润预测疲软，表明零部件短缺和成本上升正在对其主要市场造成影响。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-gives-tepid-profit-forecast-202310071.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785356590,
         "type": "News"
     },
     {
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/video/apple-options-trades-whats-covered-201000242.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1785355800,
+        "type": "News"
+    },
+    {
+        "title": "Rivian R2 production ramp, profit path key for investors: Q2 preview",
+        "title_zh": "Rivian R2 产量增加，投资者的利润路径关键：第二季度预览",
+        "summary": "Rivian is set to report second quarter results on Thursday, with investors focused on the ramp of its new R2 SUV and the electric vehicle maker's path toward narrowing losses.",
+        "summary_zh": "Rivian 将于周四公布第二季度业绩，投资者关注其新款 R2 SUV 的销量增长以及这家电动汽车制造商缩小亏损的道路。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/rivian-r2-production-ramp-profit-path-key-for-investors-q2-preview-185442823.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785351282,
         "type": "News"
     }
 ]
