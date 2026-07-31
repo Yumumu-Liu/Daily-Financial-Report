@@ -1,52 +1,52 @@
 [
     {
-        "title": "The Clock Is Ticking On David Ellison’s $111 Billion Media Empire Dream. Stalled Merger Will Start Costing Paramount $7 Million A Day On Sept 30.",
-        "title_zh": "大卫·埃里森 (David Ellison) 1110 亿美元媒体帝国梦想的时钟正在滴答作响。停滞不前的合并将从 9 月 30 日开始每天损失 700 万美元。",
-        "summary": "David Ellison insists his blockbuster media merger is still on track, but a legal standoff with a coalition of state attorneys general is about to flip an abstract delay into a very concrete and very expensive problem.",
-        "summary_zh": "大卫·埃里森坚称，他轰动一时的媒体合并仍在进行中，但与州总检察长联盟的法律僵局即将将一个抽象的延迟转变为一个非常具体且非常昂贵的问题。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/clock-ticking-david-ellison-111-101804899.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1785406684,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley offering new ethereum, solana ETFs",
-        "title_zh": "摩根士丹利推出新的以太坊、solana ETF",
-        "summary": "Scott Melker discusses how Morgan Stanley Investment Management (MS) launched its own ethereum (MSSE) and solana (MSOL) ETFs. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-        "summary_zh": "Scott Melker 讨论了摩根士丹利投资管理公司 (MS) 如何推出自己的以太坊 (MSSE) 和 solana (MSOL) ETF。 《The Daily Wolf with Scott Melker》每天中午 12:00 播出。请关注您每天对加密事物的了解。",
-        "link": "https://finance.yahoo.com/video/morgan-stanley-offering-ethereum-solana-193000936.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785353400,
-        "type": "News"
-    },
-    {
-        "title": "Larry Ellison Owns 40.6% of Oracle and Has Backstopped $40.4 Billion of a Media Deal. Here's Why That's an Oracle Shareholder's Problem.",
-        "title_zh": "拉里·埃里森 (Larry Ellison) 拥有甲骨文 40.6% 的股份，并支持了价值 404 亿美元的媒体交易。这就是为什么这是甲骨文股东的问题。",
-        "summary": "The promise hasn't changed since December. The stock behind the man who made it has been cut by more than half.",
-        "summary_zh": "自去年 12 月以来，这一承诺从未改变。制造它的人背后的库存已经减少了一半以上。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-owns-40-6-185800407.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1785351480,
-        "type": "News"
-    },
-    {
-        "title": "Is ACN's Deal With Radisson for Booking App Launch a Growth Catalyst?",
-        "title_zh": "ACN 与 Radisson 合作推出预订应用程序是增长催化剂吗？",
-        "summary": "Accenture's AI-powered Radisson booking app in ChatGPT expands its agentic commerce reach and may unlock more travel-sector transformation opportunities.",
-        "summary_zh": "埃森哲在 ChatGPT 中采用人工智能的 Radisson 预订应用程序扩大了其代理商务范围，并可能释放更多旅游行业转型机会。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/acns-deal-radisson-booking-app-143400799.html",
+        "title": "Evercore Q2 Earnings Miss Estimates, Revenues Rise on Deal Activity",
+        "title_zh": "Evercore 第二季度盈利未达预期，收入因交易活动而增长",
+        "summary": "EVR posts record Q2 revenues on stronger deal activity and higher AUM, but rising expenses and special charges weighed on earnings.",
+        "summary_zh": "由于交易活动增强和资产管理规模增加，EVR 第二季度收入创历史新高，但费用和特殊费用的增加对收益造成了压力。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-q2-earnings-miss-estimates-153600734.html",
         "publisher": "Zacks",
-        "publish_time": 1785335640,
+        "publish_time": 1785425760,
         "type": "News"
     },
     {
-        "title": "Blackstone (BX) Leads Kuwait Pipeline Deal In Record Foreign Investment",
-        "title_zh": "Blackstone (BX) 引领科威特管道交易创下外国投资纪录",
-        "summary": "Blackstone (NYSE:BX) is leading a consortium in a joint venture with Kuwait Oil Company. The deal is structured as a 20.5-year lease and leaseback of Kuwait's entire domestic and export pipeline network.",
-        "summary_zh": "Blackstone（纽约证券交易所股票代码：BX）牵头组成一个财团，与科威特石油公司成立合资企业。该交易的结构为科威特整个国内和出口管道网络的 20.5 年租赁和回租。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-leads-kuwait-pipeline-130832270.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1785330512,
+        "title": "Market Chatter: ING Groep Plans $10 Billion in Credit Risk Transfer Deals to Expand Lending Capacity",
+        "title_zh": "市场热议：ING Groep 计划进行 100 亿美元的信用风险转移交易以扩大贷款能力",
+        "summary": "ING Groep (ING) is preparing two significant risk transfer transactions covering about $10 billion o",
+        "summary_zh": "ING Groep (ING) 正在准备两项重大风险转移交易，涉及约 100 亿美元",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ing-groep-plans-095043903.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1785318643,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic-Meta AI Deal in the Cards? ETFs in Focus",
+        "title_zh": "人择-元人工智能交易即将到来？焦点ETF",
+        "summary": "Anthropic's potential $10B AI computing deal with Meta could boost AI infrastructure demand and lift Meta-focused communication services ETFs like XLC and VOX.",
+        "summary_zh": "Anthropic 与 Meta 潜在的 10B 美元人工智能计算交易可能会增加人工智能基础设施需求，并提振 XLC 和 VOX 等专注于 Meta 的通信服务 ETF。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-meta-ai-deal-cards-120000533.html",
+        "publisher": "Zacks",
+        "publish_time": 1784548800,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
