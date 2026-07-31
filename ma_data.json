@@ -1,7 +1,17 @@
 [
     {
+        "title": "Griffin’s Move Offers AI Reprieve as Traders Eye More Blowouts",
+        "title_zh": "随着交易员看到更多井喷，格里芬的举动为人工智能提供了喘息之机",
+        "summary": "(Bloomberg) -- Billionaire Ken Griffin’s rescue of hedge fund Situational Awareness helped trigger a relief rally in global AI stocks, leaving traders debating if the worst is over or more blowouts are on the way.Most Read from BloombergSingapore's Gated Island for the Rich Is...",
+        "summary_zh": "（彭博社）——亿万富翁肯·格里芬 (Ken Griffin) 对对冲基金态势感知的救助引发了全球人工智能股票的缓解性反弹，让交易员们争论最坏的情况是否已经过去，还是更多的井喷即将到来。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/griffin-move-offers-ai-reprieve-073245622.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785483165,
+        "type": "News"
+    },
+    {
         "title": "Evercore Q2 Earnings Miss Estimates, Revenues Rise on Deal Activity",
-        "title_zh": "Evercore 第二季度盈利未达预期，收入因交易活动而增长",
+        "title_zh": "Evercore 第二季度收益未达预期，收入因交易活动而增长",
         "summary": "EVR posts record Q2 revenues on stronger deal activity and higher AUM, but rising expenses and special charges weighed on earnings.",
         "summary_zh": "由于交易活动增强和资产管理规模增加，EVR 第二季度收入创历史新高，但费用和特殊费用的增加对收益造成了压力。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/evercore-q2-earnings-miss-estimates-153600734.html",
@@ -21,7 +31,7 @@
     },
     {
         "title": "Anthropic-Meta AI Deal in the Cards? ETFs in Focus",
-        "title_zh": "人择-元人工智能交易即将到来？焦点ETF",
+        "title_zh": "人择-元人工智能交易即将到来？焦点 ETF",
         "summary": "Anthropic's potential $10B AI computing deal with Meta could boost AI infrastructure demand and lift Meta-focused communication services ETFs like XLC and VOX.",
         "summary_zh": "Anthropic 与 Meta 潜在的 10B 美元人工智能计算交易可能会增加人工智能基础设施需求，并提振 XLC 和 VOX 等专注于 Meta 的通信服务 ETF。",
         "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-meta-ai-deal-cards-120000533.html",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
         "publisher": "MarketBeat",
         "publish_time": 1779022800,
-        "type": "News"
-    },
-    {
-        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
-        "title_zh": "2025 年并购交易蓬勃发展：ETF 成为焦点",
-        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
-        "summary_zh": "尽管交易量减少，但 2025 年并购交易仍将蓬勃发展——大型交易、人工智能押注和美联储降息可能会推动 MNA、IAI、KBWB 和 CHAT 等 ETF 的发展。",
-        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
-        "publisher": "Zacks",
-        "publish_time": 1759492800,
         "type": "News"
     }
 ]
