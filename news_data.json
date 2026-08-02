@@ -1,5 +1,25 @@
 [
     {
+        "title": "Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings",
+        "title_zh": "沃什的沉默对待让标普交易员做好了迎接剧烈波动的准备",
+        "summary": "(Bloomberg) -- A relentless run of uncertainty, from war to tariff fights to inflation that refuses to die, has challenged investors this year.",
+        "summary_zh": "（彭博社）——从战争到关税战，再到持续不断的通货膨胀，一系列的不确定性今年给投资者带来了挑战。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/warsh-silent-treatment-p-traders-130000019.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785589200,
+        "type": "News"
+    },
+    {
+        "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+        "title_zh": "在这个财报季节，人工智能并不是股票的万能交易",
+        "summary": "(Bloomberg) -- Equity investors are learning a harsh lesson this corporate earnings season: Not all artificial intelligence trades are created equal.Most Read from BloombergSingapore's Gated Island for the Rich Is Marred by Decayed HomesMoonshot’s Kimi Uses 20,000 Nvidia Chip ...",
+        "summary_zh": "（彭博社）——在这个企业财报季，股票投资者正在吸取惨痛的教训：并非所有的人工智能交易都是平等的。彭博社的大多数报道《新加坡的富人之门岛因破烂的房屋而受损》Moonshot 的 Kimi 使用 20,000 个 Nvidia 芯片……",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785585600,
+        "type": "News"
+    },
+    {
         "title": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results",
         "title_zh": "SpaceX 会将其火箭涂成粉红色吗？在第一批结果发布之前，投资者的问题超出了月球和火星的范围",
         "summary": "SpaceX's first earnings call as a public company may be expected to focus on AI spending and profits from its Starlink satellite communications network, but many retail investors have other ‌things on their minds.",
@@ -10,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "South Korea July exports beat forecasts on robust demand for AI investments",
-        "title_zh": "人工智能投资需求强劲，韩国 7 月出口超出预期",
-        "summary": "SEOUL, Aug 1 (Reuters) - South Korea's exports grew more strongly than expected in July on global chip and computer demand for AI investments.",
-        "summary_zh": "路透首尔 8 月 1 日 - 由于全球人工智能投资对芯片和计算机的需求，韩国 7 月份出口增长强劲超过预期。",
-        "link": "https://finance.yahoo.com/economy/articles/south-korea-july-exports-beat-010531292.html",
-        "publisher": "Reuters",
-        "publish_time": 1785546331,
-        "type": "News"
-    },
-    {
         "title": "Wall Street ends higher as Amazon soothes AI jitters",
         "title_zh": "亚马逊缓解人工智能恐慌，华尔街收高",
         "summary": "STORY: Wall Street ended higher on Friday, with the Dow adding more than half a percent, the S&P 500 gaining seven-tenths of a percent and the Nasdaq climbing one percent.:: AmazonAmazon surged more than 15% after the tech giant posted its biggest quarterly revenue growth in o...",
@@ -27,66 +37,6 @@
         "link": "https://finance.yahoo.com/video/wall-street-ends-higher-amazon-224141562.html",
         "publisher": "Reuters Videos",
         "publish_time": 1785537701,
-        "type": "News"
-    },
-    {
-        "title": "Teetering US stock market faces jobs report, big earnings week",
-        "title_zh": "摇摇欲坠的美国股市面临就业报告和财报周",
-        "summary": "By Lewis Krauskopf NEW YORK, July 31 (Reuters) - U.S. employment data and a batch of corporate results this coming week will keep equity investors on edge over the direction of the stock market, which",
-        "summary_zh": "作者：Lewis Krauskopf 纽约，7 月 31 日（路透社）——下周美国就业数据和一批企业业绩将使股票投资者对股市的走向感到紧张。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html",
-        "publisher": "Reuters",
-        "publish_time": 1785534068,
-        "type": "News"
-    },
-    {
-        "title": "AI trade is a combination of 'perception and reality': Bradley Tusk",
-        "title_zh": "人工智能贸易是“感知与现实”的结合：布拉德利·图斯克",
-        "summary": "Tusk Ventures founder and CEO Bradley Tusk dives into the \"perception vs. reality\" aspects of the broad AI trade and commenting on where these speculation trades may be manifesting behind SpaceX (SPCX) and OpenAI (OPAI.PVT) valuations.",
-        "summary_zh": "Tusk Ventures 创始人兼首席执行官 Bradley Tusk 深入探讨了广泛的人工智能交易的“感知与现实”方面，并评论了这些投机交易可能在 SpaceX (SPCX) 和 OpenAI (OPAI.PVT) 估值背后体现出来。",
-        "link": "https://finance.yahoo.com/video/ai-trade-combination-perception-reality-212136645.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785532896,
-        "type": "News"
-    },
-    {
-        "title": "Reddit stock tumbles the most on record as lack of new AI deals, US daily users metric disappoints",
-        "title_zh": "由于缺乏新的人工智能交易，Reddit 股价创历史新高，美国每日用户指标令人失望",
-        "summary": "Reddit shares plunged the most on record on Friday after US daily users, lack of new AI deal announcements dissapointed investors.",
-        "summary_zh": "由于美国日常用户缺乏新的人工智能交易公告令投资者感到失望，Reddit 股价周五创下有记录以来的最大跌幅。",
-        "link": "https://finance.yahoo.com/markets/article/reddit-stock-tumbles-the-most-on-record-as-lack-of-new-ai-deals-us-daily-users-metric-disappoints-153413759.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785512053,
-        "type": "News"
-    },
-    {
-        "title": "Tesla reportedly considering a spin off of its China business",
-        "title_zh": "据报道，特斯拉正在考虑剥离其中国业务",
-        "summary": "Tesla (TSLA) is reportedly considering a spin-off of its China business, according to the Wall Street Journal. This comes amid murmurs of a possible merger between the EV maker and Elon Musk's space venture SpaceX (SPCX).",
-        "summary_zh": "据《华尔街日报》报道，特斯拉（TSLA）正在考虑剥离其中国业务。此前，有传言称这家电动汽车制造商可能与埃隆·马斯克(Elon Musk)的太空企业SpaceX (SPCX)合并。",
-        "link": "https://finance.yahoo.com/video/tesla-reportedly-considering-a-spin-off-of-its-china-business-145947803.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785509987,
-        "type": "News"
-    },
-    {
-        "title": "Apple stock plunges: CEO Tim Cook explains weak revenue forecast",
-        "title_zh": "苹果股价暴跌：首席执行官蒂姆·库克解释疲软的收入预测",
-        "summary": "Apple (AAPL) stock is moving lower after the company's revenue forecast fell short of Wall Street's expectations. Yahoo Finance Technology Editor Dan Howley chats with Yahoo Finance Executive Editor Brian Sozzi about what's driving the stock and guidance lower.",
-        "summary_zh": "苹果公司 (AAPL) 的营收预期低于华尔街预期，导致该公司股价走低。雅虎财经技术编辑丹·豪利 (Dan Howley) 与雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 讨论了推动股价和指引下跌的原因。",
-        "link": "https://finance.yahoo.com/video/apple-stock-plunges-ceo-tim-145105241.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785509465,
-        "type": "News"
-    },
-    {
-        "title": "Amazon's AWS business has taken on a life of its own: Earnings call takeaways",
-        "title_zh": "亚马逊的AWS业务已经有了自己的生命力：财报电话会议要点",
-        "summary": "Amazon's (AMZN) AWS business saw 37% revenue growth this most recent quarter. Yahoo Finance Technology Editor Dan Howley chats with Yahoo Finance Executive Editor Brian Sozzi about the results and future growth.",
-        "summary_zh": "亚马逊 (AMZN) 的 AWS 业务最近一个季度的收入增长了 37%。雅虎财经技术编辑 Dan Howley 与雅虎财经执行编辑 Brian Sozzi 讨论了结果和未来增长。",
-        "link": "https://finance.yahoo.com/video/amazons-aws-business-taken-life-143824372.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785508704,
         "type": "News"
     }
 ]
