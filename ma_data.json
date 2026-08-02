@@ -1,35 +1,5 @@
 [
     {
-        "title": "With Paramount's Acquisition of Warner Bros. on Hold and Netflix Down 38%, Is Netflix Stock Finally a Buy?",
-        "title_zh": "派拉蒙对华纳兄弟的收购被搁置，Netflix 股价下跌 38%，Netflix 股票终于值得买入吗？",
-        "summary": "Video podcasting and gaming could be revenue generators for Netflix, but there isn't anything on the immediate horizon to help reverse stock price losses.",
-        "summary_zh": "视频播客和游戏可能会成为 Netflix 的收入来源，但短期内没有任何东西可以帮助扭转股价损失。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/paramounts-acquisition-warner-bros-hold-024500471.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1785638700,
-        "type": "News"
-    },
-    {
-        "title": "Louis Navellier sends strong message on Nvidia’s circular deals",
-        "title_zh": "Louis Navellier 对 Nvidia 的循环交易发出强烈信息",
-        "summary": "Louis Navellier has been active in the stock market for approximately 46 years, beginning with the publication of his quantitative research in 1980, the MPT Review. He regularly shares his thoughts with TheStreet readers in this column.",
-        "summary_zh": "自 1980 年发表定量研究《MPT Review》以来，Louis Navellier 已活跃于股票市场约 46 年。他经常在本专栏中与 TheStreet 读者分享他的想法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-sends-strong-message-020243794.html",
-        "publisher": "TheStreet",
-        "publish_time": 1785636163,
-        "type": "News"
-    },
-    {
-        "title": "Berkshire Hathaway's Record $397 Billion Cash Pile Gives Greg Abel Room for Buybacks or a Big Acquisition",
-        "title_zh": "伯克希尔·哈撒韦公司创纪录的 3970 亿美元现金储备为格雷格·阿贝尔提供了回购或大规模收购的空间",
-        "summary": "The new CEO took over the conglomerate with a massive nest egg that he must try to deploy.",
-        "summary_zh": "新任首席执行官接管了这家企业集团，他必须设法利用巨额资金。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-record-397-billion-000500462.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1785629100,
-        "type": "News"
-    },
-    {
         "title": "How Investors Are Reacting To JPMorgan Chase (JPM) Record Q2 Profit And Fresh Bond Offerings",
         "title_zh": "投资者对摩根大通 (JPM) 创纪录的第二季度利润和新债券发行有何反应",
         "summary": "In late July 2026, JPMorgan Chase & Co.",
@@ -47,6 +17,36 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-may-49-221125398.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1785535885,
+        "type": "News"
+    },
+    {
+        "title": "Integer Holdings stock surges 21% on KKR takeover report",
+        "title_zh": "KKR 收购报告影响 Integer Holdings 股价飙升 21%",
+        "summary": "Investing.com -- Integer Holdings (NYSE:ITGR) shares surged 21% Friday afternoon following a Wall Street Journal report that private-equity firm KKR is near a deal to take the medical-device outsourcing company private.",
+        "summary_zh": "Investing.com——周五下午，《华尔街日报》报道私募股权公司 KKR 即将达成将这家医疗设备外包公司私有化的交易后，Integer Holdings (NYSE:ITGR) 股价飙升 21%。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/integer-holdings-stock-surges-21-195140512.html",
+        "publisher": "Investing.com",
+        "publish_time": 1785527500,
+        "type": "News"
+    },
+    {
+        "title": "KKR Near Deal to Buy Integer Holdings",
+        "title_zh": "KKR 即将达成收购 Integer Holdings 的交易",
+        "summary": "Private-equity firm  KKR  is near a deal to take medical-device outsourcing company  Integer Holdings  private, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，私募股权公司 KKR 即将达成协议，将医疗设备外包公司 Integer Holdings 私有化。",
+        "link": "https://www.wsj.com/business/deals/kkr-integer-holdings-deal-485461fa?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1785525720,
+        "type": "News"
+    },
+    {
+        "title": "KKR (KKR) Is Up 5.2% After Record Q2 Earnings And Landmark Kuwait Infrastructure Deal",
+        "title_zh": "KKR (KKR) 第二季度盈利创纪录，并签署具有里程碑意义的科威特基础设施交易，股价上涨 5.2%",
+        "summary": "In the past week, KKR & Co. Inc.",
+        "summary_zh": "过去一周，KKR & Co. Inc.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-kkr-5-2-record-140802993.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1785506882,
         "type": "News"
     }
 ]

@@ -1,5 +1,15 @@
 [
     {
+        "title": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
+        "title_zh": "7 月就业报告、SpaceX 盈利和人工智能困境：本周看点",
+        "summary": "Investors step into another busy week, with the July jobs report and SpaceX earnings in focus.",
+        "summary_zh": "投资者又迎来了忙碌的一周，其中 7 月份就业报告和 SpaceX 盈利成为焦点。",
+        "link": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785664800,
+        "type": "News"
+    },
+    {
         "title": "Warsh’s Silent Treatment Has S&P Traders Bracing for Wild Swings",
         "title_zh": "沃什的沉默对待让标普交易员做好了迎接剧烈波动的准备",
         "summary": "(Bloomberg) -- A relentless run of uncertainty, from war to tariff fights to inflation that refuses to die, has challenged investors this year.",
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-paint-rocket-pink-investor-100131452.html",
         "publisher": "Reuters",
         "publish_time": 1785578491,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street ends higher as Amazon soothes AI jitters",
-        "title_zh": "亚马逊缓解人工智能恐慌，华尔街收高",
-        "summary": "STORY: Wall Street ended higher on Friday, with the Dow adding more than half a percent, the S&P 500 gaining seven-tenths of a percent and the Nasdaq climbing one percent.:: AmazonAmazon surged more than 15% after the tech giant posted its biggest quarterly revenue growth in o...",
-        "summary_zh": "故事：华尔街周五收高，道琼斯指数上涨超过半个百分点，标准普尔 500 指数上涨十分之七，纳斯达克指数上涨百分之一。亚马逊 亚马逊在这家科技巨头公布了有史以来最大的季度收入增长后，股价飙升超过 15%。",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-higher-amazon-224141562.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1785537701,
         "type": "News"
     }
 ]
