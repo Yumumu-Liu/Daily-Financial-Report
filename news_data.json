@@ -1,12 +1,42 @@
 [
     {
-        "title": "Oil slumps on hopes of Iran deal, yen firms up after intervention",
-        "title_zh": "油价因伊朗协议希望而暴跌，日元在干预后走强",
-        "summary": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and stocks wobbled on Monday as hopes of a peace deal in the Middle East grew, while the yen jumped suddenly again after the U.S. and",
-        "summary_zh": "路透新加坡 8 月 3 日 - 由于中东达成和平协议的希望增强，周一油价下滑，股市波动，而日元在美国和美元贬值后再次突然上涨。",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+        "title": "Tech stock investors have a $1 trillion problem that won't improve until at least 2028",
+        "title_zh": "科技股投资者面临的价值 1 万亿美元的问题至少要到 2028 年才会得到改善",
+        "summary": "Tech investors hoping for less robust AI spending may have to wait until 2028 before the fog lifts on this balance sheet line item.",
+        "summary_zh": "希望人工智能支出不那么强劲的科技投资者可能要等到 2028 年，资产负债表这一项目的迷雾才会消散。",
+        "link": "https://finance.yahoo.com/markets/article/tech-stock-investors-have-a-1-trillion-problem-that-wont-improve-until-at-least-2028-120918848.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785758958,
+        "type": "News"
+    },
+    {
+        "title": "AMD to report Q2 earnings as chip stocks continue to waver",
+        "title_zh": "AMD将公布第二季度财报，芯片股继续波动",
+        "summary": "AMD will report its Q2 earnings Tuesday.",
+        "summary_zh": "AMD 将于周二公布第二季度财报。",
+        "link": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785754800,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump calls off Iran attack, oil prices ease",
+        "title_zh": "今日股市：随着特朗普取消伊朗袭击，道指、标准普尔 500 指数、纳斯达克期货上涨，油价回落",
+        "summary": "Stocks rose to begin the week as oil prices eased and investors geared up for Palantir earnings.",
+        "summary_zh": "随着油价下跌以及投资者为 Palantir 盈利做好准备，股市本周初上涨。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785749116,
+        "type": "News"
+    },
+    {
+        "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple",
+        "title_zh": "印度提议延长合同制造税收减免以提振苹果",
+        "summary": "India has proposed extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, handing a major win to Apple which had lobbied for such changes, and is ‌fast expanding in the market.",
+        "summary_zh": "印度提议将向合同制造商提供机械的外国公司的免税期限延长至 2041 年，这让苹果公司取得了重大胜利，该公司曾游说此类变革，并正在快速扩张市场。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/india-proposes-extending-tax-breaks-092049397.html",
         "publisher": "Reuters",
-        "publish_time": 1785729247,
+        "publish_time": 1785748849,
         "type": "News"
     },
     {
@@ -27,36 +57,6 @@
         "link": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1785673800,
-        "type": "News"
-    },
-    {
-        "title": "Leopold Aschenbrenner just learned Wall Street's oldest lesson: Chart of the Day",
-        "title_zh": "利奥波德·阿申布伦纳 (Leopold Aschenbrenner) 刚刚学到了华尔街最古老的教训：每日图表",
-        "summary": "The chip wipeout reached a climax this week. One of the AI boom's most prescient young investors was caught at the center of it.",
-        "summary_zh": "本周芯片淘汰达到高潮。人工智能热潮中最有先见之明的年轻投资者之一被卷入了这场热潮的中心。",
-        "link": "https://finance.yahoo.com/markets/article/leopold-aschenbrenner-just-learned-wall-streets-oldest-lesson-chart-of-the-day-120146045.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785672106,
-        "type": "News"
-    },
-    {
-        "title": "Banks Offload Risk from Leveraged ETFs With Exotic ‘Crash Puts’",
-        "title_zh": "银行通过异国情调的“崩盘”来减轻杠杆ETF的风险",
-        "summary": "(Bloomberg) -- Leveraged ETFs that offer the tantalizing prospect of doubling or tripling the daily returns of an individual stock are famously risky for investors who buy them.",
-        "summary_zh": "（彭博社）——杠杆 ETF 提供的诱人前景是单只股票的每日回报增加一倍或三倍，但对于购买它们的投资者来说，其风险是众所周知的。",
-        "link": "https://finance.yahoo.com/markets/options/articles/banks-offload-risk-leveraged-etfs-110000259.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785668400,
-        "type": "News"
-    },
-    {
-        "title": "The July jobs report, SpaceX earnings, and AI struggles: What to watch this week",
-        "title_zh": "7 月就业报告、SpaceX 盈利和人工智能困境：本周看点",
-        "summary": "Investors step into another busy week, with the July jobs report and SpaceX earnings in focus.",
-        "summary_zh": "投资者又迎来了忙碌的一周，其中 7 月份就业报告和 SpaceX 盈利成为焦点。",
-        "link": "https://finance.yahoo.com/markets/article/the-july-jobs-report-spacex-earnings-and-ai-struggles-what-to-watch-this-week-100000237.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785664800,
         "type": "News"
     }
 ]

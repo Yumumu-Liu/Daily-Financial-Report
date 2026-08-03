@@ -1,22 +1,42 @@
 [
     {
-        "title": "Oil slumps on hopes of Iran deal, yen firms up after intervention",
-        "title_zh": "油价因伊朗协议希望而暴跌，日元在干预后走强",
-        "summary": "By Ankur Banerjee SINGAPORE, Aug 3 (Reuters) - Oil prices skidded and stocks wobbled on Monday as hopes of a peace deal in the Middle East grew, while the yen jumped suddenly again after the U.S. and",
-        "summary_zh": "路透新加坡 8 月 3 日 - 由于中东达成和平协议的希望增强，周一油价下滑，股市波动，而日元在美国和美元贬值后再次突然上涨。",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
-        "publisher": "Reuters",
-        "publish_time": 1785729247,
+        "title": "This Week In AI Chips - Palomino's Strategic Acquisition Boosts AI Interconnect Market Expansion",
+        "title_zh": "本周AI芯片——Palomino战略收购助推AI互连市场扩张",
+        "summary": "Palomino Laboratories has completed its acquisition of Vega Links, positioning itself as a key player in the next-generation AI interconnect field.",
+        "summary_zh": "Palomino Laboratories已完成对Vega Links的收购，将自己定位为下一代AI互联领域的关键参与者。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-palominos-strategic-113741943.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1785757061,
         "type": "News"
     },
     {
-        "title": "How Investors Are Reacting To JPMorgan Chase (JPM) Record Q2 Profit And Fresh Bond Offerings",
-        "title_zh": "投资者对摩根大通 (JPM) 创纪录的第二季度利润和新债券发行有何反应",
-        "summary": "In late July 2026, JPMorgan Chase & Co.",
-        "summary_zh": "2026 年 7 月下旬，摩根大通公司 (JPMorgan Chase & Co.)",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-jpmorgan-chase-jpm-140856255.html",
+        "title": "KKR to Buy Device Maker Integer in $5.7 Billion Deal",
+        "title_zh": "KKR 将斥资 57 亿美元收购 Device Maker Integer",
+        "summary": "(Bloomberg) -- KKR has agreed to buy US medical device company Integer Holdings Corp.",
+        "summary_zh": "(彭博社) -- KKR 已同意收购美国医疗器械公司 Integer Holdings Corp.",
+        "link": "https://finance.yahoo.com/healthcare/articles/kkr-buy-device-maker-integer-111544802.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785755744,
+        "type": "News"
+    },
+    {
+        "title": "IREN (NasdaqGS:IREN) Lands Microsoft And Nvidia AI Cloud Deals Covering Most Revenue Target",
+        "title_zh": "IREN (NasdaqGS:IREN) 与微软和 Nvidia 的人工智能云交易涵盖了大部分收入目标",
+        "summary": "IREN (NasdaqGS:IREN) has expanded its AI Cloud business with new multi-year contracts from major technology companies. These contracts include agreements with Microsoft and NVIDIA and cover a large share of IREN's targeted year-end revenue.",
+        "summary_zh": "IREN（纳斯达克股票代码：IREN）通过与主要科技公司签订的新的多年期合同扩展了其人工智能云业务。这些合同包括与微软和 NVIDIA 的协议，涵盖了 IREN 年终目标收入的很大一部分。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/iren-nasdaqgs-iren-lands-microsoft-110841703.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1785593336,
+        "publish_time": 1785755321,
+        "type": "News"
+    },
+    {
+        "title": "IonQ closes $1.8bn SkyWater acquisition after US FTC clearance",
+        "title_zh": "美国 FTC 批准后，IonQ 完成 18 亿美元收购 SkyWater",
+        "summary": "SkyWater will continue serving aerospace, defence, and commercial markets while adding IonQ’s quantum technologies.",
+        "summary_zh": "SkyWater 将继续服务航空航天、国防和商业市场，同时添加 IonQ 的量子技术。",
+        "link": "https://finance.yahoo.com/technology/articles/ionq-closes-1-8bn-skywater-091528091.html",
+        "publisher": "Verdict",
+        "publish_time": 1785748528,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-may-49-221125398.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1785535885,
-        "type": "News"
-    },
-    {
-        "title": "Integer Holdings stock surges 21% on KKR takeover report",
-        "title_zh": "KKR 收购报告影响 Integer Holdings 股价飙升 21%",
-        "summary": "Investing.com -- Integer Holdings (NYSE:ITGR) shares surged 21% Friday afternoon following a Wall Street Journal report that private-equity firm KKR is near a deal to take the medical-device outsourcing company private.",
-        "summary_zh": "Investing.com——周五下午，《华尔街日报》报道私募股权公司 KKR 即将达成将医疗设备外包公司私有化的交易后，Integer Holdings (NYSE:ITGR) 股价飙升 21%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/integer-holdings-stock-surges-21-195140512.html",
-        "publisher": "Investing.com",
-        "publish_time": 1785527500,
-        "type": "News"
-    },
-    {
-        "title": "KKR Near Deal to Buy Integer Holdings",
-        "title_zh": "KKR 即将达成收购 Integer Holdings 的交易",
-        "summary": "Private-equity firm  KKR  is near a deal to take medical-device outsourcing company  Integer Holdings  private, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，私募股权公司 KKR 即将达成协议，将医疗设备外包公司 Integer Holdings 私有化。",
-        "link": "https://www.wsj.com/business/deals/kkr-integer-holdings-deal-485461fa?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1785525720,
         "type": "News"
     }
 ]

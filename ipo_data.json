@@ -1,15 +1,5 @@
 [
     {
-        "title": "Chipotle Mexican Grill vs. Axon Enterprise: Comparing Recent Revenue Trends for These S&P 500 Companies",
-        "title_zh": "Chipotle Mexican Grill 与 Axon Enterprise：比较这些标准普尔 500 强公司的近期收入趋势",
-        "summary": "Axon Enterprise has posted consecutive quarter-over-quarter revenue gains, while Chipotle's growth has proven more uneven — a divergence that could reshape investor expectations.",
-        "summary_zh": "Axon Enterprise 的收入连续季度环比增长，而 Chipotle 的增长则更加不平衡——这种差异可能会重塑投资者的预期。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chipotle-mexican-grill-vs-axon-020901346.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1785722941,
-        "type": "News"
-    },
-    {
         "title": "U.S. IPO Market Has More Room to Rally in H2 2026: ETFs Poised to Win",
         "title_zh": "2026 年下半年美国 IPO 市场有更大上涨空间：ETF 有望获胜",
         "summary": "The next phase of the IPO rally could extend beyond tech mega-deals, driven by a more diversified pipeline, benefiting ETFs like FPX and IPO.",
@@ -23,7 +13,7 @@
         "title": "SK Hynix Eyes Massive U.S. Listing: ETFs That Are Likely to Gain",
         "title_zh": "SK 海力士着眼于美国大规模上市：ETF 有望获利",
         "summary": "SK Hynix's blockbuster U.S. listing could reshape semiconductor investing. Here's how chip, Korea, Nasdaq and IPO ETFs stand to benefit.",
-        "summary_zh": "SK 海力士在美国的重磅上市可能会重塑半导体投资。以下是芯片、韩国、纳斯达克和 IPO ETF 的受益方式。",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-eyes-massive-u-160000193.html",
         "publisher": "Zacks",
         "publish_time": 1783440000,
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
         "publisher": "MoneyShow",
         "publish_time": 1781014500,
+        "type": "News"
+    },
+    {
+        "title": "Anticipated SpaceX IPO ETFs: Massive Hype or Real Opportunity?",
+        "title_zh": "备受期待的 SpaceX IPO ETF：大规模炒作还是真正的机会？",
+        "summary": "SpaceX IPO fever is lifting space ETFs, but history warns against chasing debut-day hype. Here's how investors can gain diversified exposure.",
+        "summary_zh": "SpaceX IPO热潮正在提振太空ETF，但历史警告不要追逐首日炒作。以下是投资者如何获得多元化投资。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/anticipated-spacex-ipo-etfs-massive-120700397.html",
+        "publisher": "Zacks",
+        "publish_time": 1780920420,
         "type": "News"
     }
 ]
