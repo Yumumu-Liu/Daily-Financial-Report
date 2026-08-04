@@ -1,32 +1,72 @@
 [
     {
-        "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "STORY: U.S.",
-        "summary_zh": "故事：美国",
-        "link": "https://finance.yahoo.com/video/wall-street-rallies-dow-closes-224337380.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1785797017,
+        "title": "India paves way for return of merchant fees on digital payments",
+        "title_zh": "印度为返还数字支付商户费用铺平道路",
+        "summary": "NEW DELHI/MUMBAI, Aug 4 (Reuters) - India has moved a step closer to reintroducing merchant fees on transactions made through its popular Unified Payments Interface (UPI) after proposed changes to the",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/news/india-paves-way-return-merchant-105401090.html",
+        "publisher": "Reuters",
+        "publish_time": 1785841216,
+        "type": "News"
+    },
+    {
+        "title": "Uber’s Robotaxi Ambition to Face Scrutiny as Shares Languish",
+        "title_zh": "Uber 的 Robotaxi 雄心因股价低迷而面临审查",
+        "summary": "(Bloomberg) -- The breakdown of Uber Technologies Inc.’s robotaxi partnership with Alphabet Inc.’s Waymo is looming large over the ride-hailing giant’s quarterly results, as investors grow anxious about the stock that has lagged the broader market this year.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-robotaxi-ambition-face-scrutiny-103000460.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785839400,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货随着财报的公布而走高，Palantir 股价飙升",
+        "summary": "Markets are coming off a Big Tech rally, eyeing uncertainty in Middle East talks and  SpaceX earnings after the bell.",
+        "summary_zh": "市场正经历大型科技股的反弹，关注中东谈判和 SpaceX 收盘后盈利的不确定性。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1785837700,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq futures underpinned by strong AI forecasts; focus on earnings, data",
+        "title_zh": "强劲的人工智能预测支撑纳斯达克期货；关注收益、数据",
+        "summary": "Aug 4 (Reuters) - Nasdaq futures rose on Tuesday after strong forecasts from Palantir and ON Semiconductor reassured investors about AI-driven demand, while Middle East developments and U.S. earnings",
+        "summary_zh": "路透 8 月 4 日 - 纳斯达克期货周二上涨，此前 Palantir 和安森美半导体的强劲预测让投资者对人工智能驱动的需求感到放心，同时中东事态发展和美国盈利",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-underpinned-strong-ai-094041040.html",
+        "publisher": "Reuters",
+        "publish_time": 1785836441,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge",
+        "title_zh": "SpaceX 的首次财报为扭转股价暴跌提供了机会",
+        "summary": "(Bloomberg) -- SpaceX’s first earnings report following its blockbuster initial public offering is one of the most anticipated events of the summer on Wall Street.",
+        "summary_zh": "（彭博社）——SpaceX 在首次公开募股（IPO）后发布的第一份收益报告是华尔街今年夏天最受期待的事件之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-earnings-offer-chance-082619954.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785831979,
+        "type": "News"
+    },
+    {
+        "title": "Apple’s India Sales Top $10 Billion on Widening Retail Push",
+        "title_zh": "零售业务不断扩大，苹果在印度的销售额突破 100 亿美元",
+        "summary": "(Bloomberg) -- Apple Inc.",
+        "summary_zh": "（彭博社）——苹果公司",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-india-sales-top-10-072343630.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785828223,
         "type": "News"
     },
     {
         "title": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "科技股从八月开始上涨。芯片制造商能否满足需求？",
         "summary": "US stocks (^DJI, ^IXIC, ^GSPC) surge ahead to close out the first trading day of August with daily gains, the Nasdaq Composite rising by 2.13%.",
         "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1785792600,
-        "type": "News"
-    },
-    {
-        "title": "Why Palantir is the 'best' publicly traded tech company",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "D.A. Davidson Head of Technology Research Gil Luria joins Market Domination Overtime to discuss Palantir's (PLTR) strong second-quarter results and explain why he believes the AI leader is the \"best\" publicly traded technology company.",
-        "summary_zh": "DA戴维森技术研究主管 Gil Luria 加入 Market Domination Overtime，讨论 Palantir (PLTR) 强劲的第二季度业绩，并解释为什么他认为这家人工智能领导者是“最好的”上市技术公司。",
-        "link": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785789856,
         "type": "News"
     },
     {
@@ -40,16 +80,6 @@
         "type": "News"
     },
     {
-        "title": "AI is the 'main character' of the market's story, not US-Iran war",
-        "title_zh": "人工智能是市场故事的“主角”，而不是美伊战争",
-        "summary": "Aptus Capital Advisors head of equity and portfolio manager David Wagner comes on Market Domination to explain how he sees market fears over the US-Iran war begin to ease as AI continues to be a main driver for US equities (^DJI, ^IXIC, ^GSPC).",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/ai-main-character-markets-story-195216088.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785786736,
-        "type": "News"
-    },
-    {
         "title": "Big Tech's cloud backlog just hit $2.3 trillion — and it's feeding AI capex plans",
         "title_zh": "大型科技公司的云积压订单刚刚达到 2.3 万亿美元，并且正在为人工智能资本支出计划提供支持",
         "summary": "Investors who exited high-profile hyperscaler stocks because of surging AI capex may be overlooking an important point: Tech giants' cloud computing backlogs support their strong spending plans.",
@@ -57,36 +87,6 @@
         "link": "https://finance.yahoo.com/technology/article/big-techs-cloud-backlog-just-hit-23-trillion--and-its-feeding-ai-capex-plans-181459457.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1785780899,
-        "type": "News"
-    },
-    {
-        "title": "The AI spending boom is hitting a key Wall Street metric: Chart of the Day",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "The AI spending boom is becoming so large so quickly that it's hitting an important metric watched by investors: free cash flow.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/technology/article/the-ai-spending-boom-is-hitting-a-key-wall-street-metric-chart-of-the-day-181157588.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785780717,
-        "type": "News"
-    },
-    {
-        "title": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",
-        "title_zh": "随着人工智能超大规模企业公布强劲的盈利业绩，亚马逊、Meta 和微软的股价飙升",
-        "summary": "Shares of hyperscaler companies climbed higher on Monday.",
-        "summary_zh": "超大规模公司的股价周一攀升。",
-        "link": "https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785775049,
-        "type": "News"
-    },
-    {
-        "title": "AMD vs. Sandisk: Which company will get some post-earnings market love?",
-        "title_zh": "AMD vs. Sandisk：哪家公司会在财报发布后受到市场青睐？",
-        "summary": "AMD (AMD) and Sandisk (SNDK) are both set to report quarterly earnings this week.",
-        "summary_zh": "AMD (AMD) 和 Sandisk (SNDK) 都将于本周公布季度收益。",
-        "link": "https://finance.yahoo.com/video/amd-vs-sandisk-company-post-160000399.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785772800,
         "type": "News"
     }
 ]

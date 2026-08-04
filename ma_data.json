@@ -1,52 +1,52 @@
 [
     {
+        "title": "Microsoft Offered Longtime Workers Up to 39 Weeks of Pay. The Bigger Decision Is When to Claim Social Security.",
+        "title_zh": "Microsoft 为长期员工提供长达 39 周的工资。更大的决定是何时申请社会保障。",
+        "summary": "Microsoft's voluntary buyout offered longtime employees far more than a cash payout, and the most valuable piece had almost nothing to do with severance.",
+        "summary_zh": "微软的自愿收购为长期员工提供的不仅仅是现金支付，而且最有价值的部分几乎与遣散费无关。",
+        "link": "https://finance.yahoo.com/healthcare/articles/microsoft-offered-longtime-workers-39-100433160.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1785837873,
+        "type": "News"
+    },
+    {
+        "title": "Superblocks, AWS sign multi-year deal for enterprise AI on Bedrock",
+        "title_zh": "Superblocks 与 AWS 签署 Bedrock 企业人工智能多年协议",
+        "summary": "AWS customers will be able to deploy Superblocks’ generative AI platform within their own environments using AWS security and governance.",
+        "summary_zh": "AWS 客户将能够使用 AWS 安全性和治理在自己的环境中部署 Superblocks 的生成式 AI 平台。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/superblocks-aws-sign-multi-deal-092256048.html",
+        "publisher": "Verdict",
+        "publish_time": 1785835376,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX’s First Earnings Offer a Chance to Reverse Stock’s Plunge",
+        "title_zh": "SpaceX 的首次财报为扭转股价暴跌提供了机会",
+        "summary": "(Bloomberg) -- SpaceX’s first earnings report following its blockbuster initial public offering is one of the most anticipated events of the summer on Wall Street.",
+        "summary_zh": "（彭博社）——SpaceX 在首次公开募股（IPO）后发布的第一份收益报告是华尔街今年夏天最受期待的事件之一。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-earnings-offer-chance-082619954.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785831979,
+        "type": "News"
+    },
+    {
+        "title": "Pimco Dictates Terms on Oracle Data Center Debt Deal",
+        "title_zh": "Pimco 规定了 Oracle 数据中心债务交易的条款",
+        "summary": "Pimco is reshaping AI data center debt by setting stricter financing terms, starting with Oracle's $16B Michigan campus financing.",
+        "summary_zh": "Pimco 正在通过制定更严格的融资条款来重塑人工智能数据中心债务，首先是 Oracle 的 16B 美元密歇根园区融资。",
+        "link": "https://finance.yahoo.com/real-estate/articles/pimco-dictates-terms-oracle-data-060933863.html",
+        "publisher": "CRE Daily",
+        "publish_time": 1785823773,
+        "type": "News"
+    },
+    {
         "title": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
         "title_zh": "顶级技术分析师表示，超大规模企业是明显的人工智能赢家，但被淘汰的软件提供了价值",
         "summary": "Ray Wang sees the AI market splitting megacaps into two very different investment stories, and the beaten-down names Wall Street has abandoned may be hiding the more compelling opportunity.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "Ray Wang 认为人工智能市场将大型企业分成了两个截然不同的投资故事，而华尔街放弃的那些被击败的名字可能隐藏着更引人注目的机会。",
         "link": "https://finance.yahoo.com/technology/ai/articles/top-tech-analyst-says-hyperscalers-211132235.html",
         "publisher": "24/7 Wall St.",
         "publish_time": 1785791492,
-        "type": "News"
-    },
-    {
-        "title": "Update: Equities Rise Intraday, Oil Slides Amid Middle East Deal Optimism",
-        "title_zh": "更新：股市盘中上涨，油价因中东交易乐观情绪下滑",
-        "summary": "(Updates with latest market prices and developments.) US stocks climbed intraday as oil prices fe",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-slides-173112682.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1785778272,
-        "type": "News"
-    },
-    {
-        "title": "Integer Agrees to Be Taken Private by KKR in $5.7 Billion Deal",
-        "title_zh": "Integer 同意 KKR 以 57 亿美元的交易将其私有化",
-        "summary": "Integer (ITGR) has agreed to be acquired and taken private by investment firm KKR (KKR) in an all-ca",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/integer-agrees-taken-private-kkr-132837033.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1785763717,
-        "type": "News"
-    },
-    {
-        "title": "KKR to Buy Device Maker Integer in $5.7 Billion Deal",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "(Bloomberg) -- KKR has agreed to buy US medical device company Integer Holdings Corp.",
-        "summary_zh": "(彭博社) -- KKR 已同意收购美国医疗器械公司 Integer Holdings Corp.",
-        "link": "https://finance.yahoo.com/healthcare/articles/kkr-buy-device-maker-integer-111544802.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785755744,
-        "type": "News"
-    },
-    {
-        "title": "Integer Holdings stock surges 21% on KKR takeover report",
-        "title_zh": "KKR 收购报告影响 Integer Holdings 股价飙升 21%",
-        "summary": "Investing.com -- Integer Holdings (NYSE:ITGR) shares surged 21% Friday afternoon following a Wall Street Journal report that private-equity firm KKR is near a deal to take the medical-device outsourcing company private.",
-        "summary_zh": "Investing.com——周五下午，《华尔街日报》报道私募股权公司 KKR 即将达成将医疗设备外包公司私有化的交易后，Integer Holdings (NYSE:ITGR) 股价飙升 21%。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/integer-holdings-stock-surges-21-195140512.html",
-        "publisher": "Investing.com",
-        "publish_time": 1785527500,
         "type": "News"
     }
 ]
