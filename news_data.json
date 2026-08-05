@@ -1,22 +1,82 @@
 [
     {
-        "title": "Dow, S&P 500 close at records on AI results, Mideast deal hopes",
-        "title_zh": "道指、标准普尔 500 指数收盘人工智能业绩创历史新高，中东交易希望",
-        "summary": "STORY: Wall Street's main indexes surged on Tuesday, with the Dow and S&P 500 both gaining roughly one-and-three quarters percent to notch record-high closes, and the Nasdaq climbing more than two-and-a-half percent.Investors eagerly awaited SpaceX's first earnings results sin...",
-        "summary_zh": "故事：周二，华尔街主要股指飙升，道指和标准普尔 500 指数均上涨约百分之一又四分之三，创下收盘纪录新高，纳斯达克指数上涨逾百分之二半。投资者热切等待 SpaceX 自 2018 年以来的首次财报。",
-        "link": "https://finance.yahoo.com/video/dow-p-500-close-records-224540498.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1785883540,
+        "title": "Morning Bid: Outer SpaceX",
+        "title_zh": "早间竞标：Outer SpaceX",
+        "summary": "August 5 (Reuters) - What matters in U. and global markets today , Editor-at-Large, Finance and Markets For all the doubts and handwringing, the S&P; 500 and Dow Jones are back at record highs after surging on Tuesday amid falling oil prices and the bumper earnings season.",
+        "summary_zh": "8 月 5 日（路透社）——《金融与市场》特约编辑，当今美国和全球市场最重要的是什么？ 500 指数和道琼斯指数在周二因油价下跌和财报季丰收而飙升后又回到历史高位。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-outer-spacex-104035545.html",
+        "publisher": "Reuters",
+        "publish_time": 1785926435,
         "type": "News"
     },
     {
-        "title": "Arista forecasts upbeat quarterly revenue on AI-driven networking demand",
-        "title_zh": "Arista 预测人工智能驱动的网络需求将带来乐观的季度收入",
-        "summary": "Arista Networks forecast third-quarter revenue above Wall Street ‌estimates on Tuesday, betting on strong ‌demand for its networking gear as companies ​expand their AI infrastructure.",
-        "summary_zh": "Arista Networks 周二预测第三季度收入将高于华尔街的预期，并押注随着公司扩展其人工智能基础设施，对其网络设备的强劲需求。",
-        "link": "https://finance.yahoo.com/technology/articles/arista-forecasts-upbeat-quarterly-revenue-221420916.html",
+        "title": "Wall Street warms to healthcare stocks as tech trade faces turbulence",
+        "title_zh": "由于科技贸易面临动荡，华尔街对医疗保健股青睐有加",
+        "summary": "August 5 (Reuters) - Investors are pouring money into U. healthcare stocks, betting that improving earnings, rising dealmaking and attractive valuations will extend the sector's rebound after years of underperformance.",
+        "summary_zh": "8 月 5 日（路透社）——投资者正在向美国医疗保健股注入资金，押注盈利改善、交易增加和有吸引力的估值将延续该行业在多年表现不佳后的反弹。",
+        "link": "https://finance.yahoo.com/news/wall-street-warms-healthcare-stocks-103857604.html",
         "publisher": "Reuters",
-        "publish_time": 1785881660,
+        "publish_time": 1785926337,
+        "type": "News"
+    },
+    {
+        "title": "Kenya's stock exchange plans East Africa's first AI-focused ETF",
+        "title_zh": "肯尼亚证券交易所计划推出东非首个以人工智能为重点的 ETF",
+        "summary": "Kenya's Nairobi Securities Exchange is creating East Africa's first AI stocks-focused exchange-traded fund, which it plans to offer to investors before year-end, its CEO said.",
+        "summary_zh": "肯尼亚内罗毕证券交易所首席执行官表示，该交易所正在创建东非首个专注于人工智能股票的交易所交易基金，计划在年底前向投资者发售。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kenyas-stock-exchange-plans-east-102634788.html",
+        "publisher": "Reuters",
+        "publish_time": 1785925594,
+        "type": "News"
+    },
+    {
+        "title": "AI CapEx fears: Is big tech overspending?",
+        "title_zh": "人工智能资本支出担忧：大型科技公司是否超支？",
+        "summary": "Host Kenny Polcari joins Man Group Chief Market Strategist Kristina Hooper and Legato Financial CIO Ryan Kelly to debate the risks of massive AI CapEx spending and how a hawkish Federal Reserve could impact markets ahead of the midterms.",
+        "summary_zh": "主持人 Kenny Polcari 与英仕曼集团首席市场策略师 Kristina Hooper 和 Legato Financial 首席信息官 Ryan Kelly 一起讨论大规模人工智能资本支出的风险，以及鹰派的美联储将如何在中期选举前影响市场。",
+        "link": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1785924000,
+        "type": "News"
+    },
+    {
+        "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
+        "title_zh": "科技股熔涨带动纳斯达克 100 指数在四天内上涨 3.5 万亿美元",
+        "summary": "(Bloomberg) -- A dramatic turnaround in technology stocks has powered a $3.5 trillion increase in the Nasdaq 100’s market capitalization in just four days, driven by strong earnings that have emboldened investors about the AI outlook.Most Read from BloombergTrump Says Iran Tal...",
+        "summary_zh": "（彭博社）——科技股的戏剧性转变推动纳斯达克 100 指数市值在短短四天内增长了 3.5 万亿美元，强劲的盈利让投资者对人工智能前景更加乐观。彭博社的大多数报道特朗普称伊朗塔尔...",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785921972,
+        "type": "News"
+    },
+    {
+        "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
+        "title_zh": "报告称，美国对中国光学零件的禁令损害了超大规模企业",
+        "summary": "(Bloomberg) -- A potential ban on the import of Chinese optical transceiver modules into the US would inflict collateral damage on US hyperscalers, exacerbating a supply bottleneck that no American firm can ease, research firm Counterpoint warned on Wednesday.Most Read from Bl...",
+        "summary_zh": "（彭博社）——研究公司 Counterpoint 周三警告称，美国可能禁止进口中国光收发器模块，这将对美国超大规模企业造成附带损害，从而加剧美国公司无法缓解的供应瓶颈。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785918187,
+        "type": "News"
+    },
+    {
+        "title": "AI demand pushes Foxconn's monthly revenue to record in July",
+        "title_zh": "AI需求推动富士康7月月营收创历史新高",
+        "summary": "Monthly revenue at Taiwanese contract electronics manufacturer Foxconn hit a record ‌in July, surpassing T$900 billion ($27.93 billion) for ‌the first time as strong demand for AI products boosted sales, ​the company said on Wednesday.",
+        "summary_zh": "台湾代工电子制造商富士康周三表示，由于对人工智能产品的强劲需求推动了销售，该公司 7 月份的月收入创下历史新高，首次超过 9000 亿新台币（合 279.3 亿美元）。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
+        "publisher": "Reuters",
+        "publish_time": 1785915934,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+        "title_zh": "人工智能需求强劲，英伟达合作伙伴鸿海销售额增长 54%",
+        "summary": "(Bloomberg) -- Hon Hai Precision Industry Co.",
+        "summary_zh": "（彭博社）——鸿海精密工业有限公司",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-hon-hai-sales-073743931.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785915463,
         "type": "News"
     },
     {
@@ -27,66 +87,6 @@
         "link": "https://finance.yahoo.com/video/spacex-teams-nvidia-musk-says-221211771.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1785881531,
-        "type": "News"
-    },
-    {
-        "title": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
-        "title_zh": "“这不是一个特殊的结果”：策略师谈论 AMD 收益和“令人震惊的”资本支出",
-        "summary": "AMD (AMD) reported second quarter results on Tuesday after the closing bell.",
-        "summary_zh": "AMD（AMD）周二收盘后公布了第二季度业绩。",
-        "link": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785876774,
-        "type": "News"
-    },
-    {
-        "title": "Pinterest expects slower quarterly revenue growth as ad competition heats up",
-        "title_zh": "随着广告竞争加剧，Pinterest 预计季度收入增长放缓",
-        "summary": "Image-sharing platform Pinterest forecast slower revenue growth for the third quarter on Tuesday, a sign of tough ‌competition for digital advertising from bigger players including Meta's Instagram, sending its ‌shares down 9% in extended trading.",
-        "summary_zh": "图片共享平台 Pinterest 周二预测第三季度收入增长放缓，这表明来自 Meta 旗下 Instagram 等大型企业对数字广告的激烈竞争，导致其股价在盘后交易中下跌 9%。",
-        "link": "https://finance.yahoo.com/media-advertising/articles/pinterest-expects-slower-quarterly-revenue-200832530.html",
-        "publisher": "Reuters",
-        "publish_time": 1785874112,
-        "type": "News"
-    },
-    {
-        "title": "US dollar shaken after intervention to strengthen Japanese yen",
-        "title_zh": "干预日元走强后美元震荡",
-        "summary": "The US dollar (DX-Y.NYB) has weakened after the US and Japan jointly intervened to boost the yen. Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the dollar's decline and the yen's growing strength, comparing it to prior events in the yen's history.",
-        "summary_zh": "在美国和日本联合干预提振日元后，美元(DX-Y.NYB)走弱。雅虎金融市场和数据编辑 Jared Blikre 仔细研究了美元的下跌和日元的走强，并将其与日元历史上的先前事件进行了比较。",
-        "link": "https://finance.yahoo.com/video/us-dollar-shaken-intervention-strengthen-153000392.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785857400,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX profitability will come down to Starlink's success: Lee Munson",
-        "title_zh": "Lee Munson：SpaceX 的盈利能力将取决于星链的成功",
-        "summary": "As SpaceX (SPCX) prepares to release its first-ever earnings report after Tuesday's market close, investors are beginning to wonder whether Elon Musk's space venture is overvalued or not.",
-        "summary_zh": "随着 SpaceX (SPCX) 准备在周二收盘后发布其首份收益报告，投资者开始怀疑埃隆·马斯克的太空事业是否被高估。",
-        "link": "https://finance.yahoo.com/video/spacex-profitability-come-down-starlinks-150000084.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1785855600,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow and S&P 500 soar to record highs, Nasdaq rallies on hopes for a Hormuz deal",
-        "title_zh": "今日股市：道琼斯指数和标准普尔 500 指数飙升至历史新高，纳斯达克指数因霍尔木兹协议的希望而上涨",
-        "summary": "Markets are coming off a Big Tech rally, eyeing uncertainty in Middle East talks and  SpaceX earnings after the bell.",
-        "summary_zh": "市场正经历大型科技股的反弹，关注中东谈判和 SpaceX 收盘后盈利的不确定性。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785837700,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
-        "title_zh": "今日科技股：SpaceX 和 AMD 发布季度业绩；投资者没有留下深刻的印象。",
-        "summary": "Tech stocks coverage for the week of Aug. 3.",
-        "summary_zh": "8 月 3 日当周科技股报道。",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1785765859,
         "type": "News"
     }
 ]
