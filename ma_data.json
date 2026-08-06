@@ -1,5 +1,25 @@
 [
     {
+        "title": "Nvidia’s (NVDA) Amkor (AMKR) Deal Adds Packaging Muscle Ahead Of Earnings",
+        "title_zh": "Nvidia (NVDA) Amkor (AMKR) 交易在盈利前增强了包装实力",
+        "summary": "Nvidia (NASDAQ:NVDA) is heading into its August 26 earnings date with fresh evidence that AI infrastructure spending is still accelerating.",
+        "summary_zh": "Nvidia（纳斯达克股票代码：NVDA）即将迎来 8 月 26 日的财报日，新的证据表明人工智能基础设施支出仍在加速。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-amkor-amkr-deal-104631781.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1786013191,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
+        "title_zh": "中东交易成为焦点，标普 500 指数和道指期货持稳；筹码绊倒",
+        "summary": "Aug 6 (Reuters) - S&P 500 and Dow futures were steady on Thursday after this week's record-breaking rally as investors awaited details on a Middle East peace deal, while Nasdaq futures slipped as",
+        "summary_zh": "路透 8 月 6 日 - 由于投资者等待中东和平协议的细节，标准普尔 500 指数和道琼斯指数期货在本周破纪录的上涨后周四保持稳定，而纳斯达克期货则下跌。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html",
+        "publisher": "Reuters",
+        "publish_time": 1786009518,
+        "type": "News"
+    },
+    {
         "title": "Apollo's Deal Spree Drives Fee-Related Revenue to a Record",
         "title_zh": "Apollo 的交易热潮推动收费相关收入创历史新高",
         "summary": "Bloomberg's Laura Benitez joins Dani Burger on \"Bloomberg Deals.\" Apollo Global Management reported record revenue from fees as it vies to be one of Wall Street's largest lenders.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-pitches-36-billion-debt-134437623.html",
         "publisher": "Quartz",
         "publish_time": 1785937477,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce (CRM) Lands VA Deal as Its Undervalued Narrative Gets Fresh Support",
-        "title_zh": "Salesforce (CRM) 获得 VA 交易，其被低估的说法得到新的支持",
-        "summary": "Salesforce (CRM) has secured a three year Agentic Enterprise License Agreement with the U.S. Department of Veterans Affairs, a contract valued at up to US$1.6b that highlights growing demand for its AI driven government cloud services. See our latest analysis for Salesforce.",
-        "summary_zh": "Salesforce (CRM) 已与美国退伍军人事务部签订了为期三年的代理企业许可协议，该合同价值高达 1.6 亿美元，凸显了对其人工智能驱动的政府云服务日益增长的需求。请参阅我们对 Salesforce 的最新分析。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-lands-va-deal-201052758.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1785874252,
-        "type": "News"
-    },
-    {
-        "title": "Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",
-        "title_zh": "午间热门故事：贝森特称美国和伊朗可能很快达成霍尔木兹协议； Palantir 股价因第二季度强劲业绩和指引而飙升",
-        "summary": "All three major US stock indexes were up in late-morning trading Tuesday, as investors grew more opt",
-        "summary_zh": "周二早盘交易中，美国三大股指均上涨，投资者的选择增多",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-bessent-says-160603083.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1785859563,
         "type": "News"
     }
 ]
