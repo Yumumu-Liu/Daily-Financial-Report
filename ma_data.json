@@ -1,12 +1,32 @@
 [
     {
-        "title": "Nasdaq, S&P 500 Futures Rise On Hormuz Deal Hopes, ADP Jobs Data Eyed: Why AMD, SPCX, ASTS, MSFT, PLTR, RKLB, SLV Are In Focus",
-        "title_zh": "纳斯达克、标准普尔 500 指数期货因霍尔木兹交易希望而上涨，ADP 就业数据受到关注：为什么 AMD、SPCX、ASTS、MSFT、PLTR、RKLB、SLV 成为焦点",
-        "summary": "Retail sentiment on Stocktwits has improved, turning ‘neutral’ on SPY, and ‘bullish’ on QQQ.",
-        "summary_zh": "Stocktwits 上的散户情绪有所改善，对 SPY 转为“中性”，对 QQQ 转为“看涨”。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-084145810.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1785919305,
+        "title": "Apollo's Deal Spree Drives Fee-Related Revenue to a Record",
+        "title_zh": "Apollo 的交易热潮推动收费相关收入创历史新高",
+        "summary": "Bloomberg's Laura Benitez joins Dani Burger on \"Bloomberg Deals.\" Apollo Global Management reported record revenue from fees as it vies to be one of Wall Street's largest lenders.",
+        "summary_zh": "彭博社的劳拉·贝尼特斯 (Laura Benitez) 与丹尼·伯格 (Dani Burger) 一起参加“彭博交易”。阿波罗全球管理公司公布了创纪录的收费收入，该公司力争成为华尔街最大的贷方之一。",
+        "link": "https://finance.yahoo.com/video/apollos-deal-spree-drives-fee-184215045.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1785955335,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks",
+        "title_zh": "Nvidia 刚刚赢得了 SpaceX 的一项重大人工智能交易。 AMD 股价下跌，股价上涨",
+        "summary": "Nvidia Stock Rises as SpaceX Picks It Over AMD for AI Infrastructure",
+        "summary_zh": "随着 SpaceX 在人工智能基础设施领域选择英伟达而非 AMD，英伟达股价上涨",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-won-major-spacex-171119544.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1785949879,
+        "type": "News"
+    },
+    {
+        "title": "Blackstone pitches $36 billion debt deal for Anthropic AI chips",
+        "title_zh": "Blackstone 拟定 360 亿美元债务交易收购 Anthropic AI 芯片",
+        "summary": "One early proposal put the package at $36 billion, which would exceed the $35 billion deal closed roughly two months ago",
+        "summary_zh": "一项早期提案将一揽子计划定为 360 亿美元，这将超过大约两个月前完成的 350 亿美元交易",
+        "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-pitches-36-billion-debt-134437623.html",
+        "publisher": "Quartz",
+        "publish_time": 1785937477,
         "type": "News"
     },
     {
@@ -20,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "The Unusual Cash Offer Sitting In IBM Stock",
-        "title_zh": "IBM 股票中不寻常的现金要约",
-        "summary": "The technology giant is returning an unusual amount of cash to shareholders, but the market sees a crack in the machine. Here's what's really going on.",
-        "summary_zh": "这家科技巨头正在向股东返还大量现金，但市场却发现这台机器出现了裂缝。这就是真正发生的事情。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-cash-offer-sitting-ibm-195942981.html",
-        "publisher": "Trefis",
-        "publish_time": 1785873582,
-        "type": "News"
-    },
-    {
         "title": "Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",
         "title_zh": "午间热门故事：贝森特称美国和伊朗可能很快达成霍尔木兹协议； Palantir 股价因第二季度强劲业绩和指引而飙升",
         "summary": "All three major US stock indexes were up in late-morning trading Tuesday, as investors grew more opt",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-bessent-says-160603083.html",
         "publisher": "MT Newswires",
         "publish_time": 1785859563,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone reportedly mulls second debt package for Anthropic chip deal",
-        "title_zh": "据报道 Blackstone 正在考虑 Anthropic 芯片交易的第二轮债务计划",
-        "summary": "Investing.com -- Blackstone Inc. has begun early talks with investors about a second large debt package to finance Anthropic PBC's use of chips from Alphabet Inc.'s Google, Bloomberg reported Tuesday.",
-        "summary_zh": "Investing.com——据彭博社周二报道，Blackstone Inc. 已开始与投资者就第二笔大型债务计划进行早期谈判，以资助 ​​Anthropic PBC 使用 Alphabet Inc. 旗下谷歌的芯片。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-reportedly-mulls-second-debt-151129042.html",
-        "publisher": "Investing.com",
-        "publish_time": 1785856289,
         "type": "News"
     }
 ]
