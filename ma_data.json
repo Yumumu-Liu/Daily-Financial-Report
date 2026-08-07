@@ -1,52 +1,52 @@
 [
     {
-        "title": "Nvidia’s (NVDA) Amkor (AMKR) Deal Adds Packaging Muscle Ahead Of Earnings",
-        "title_zh": "Nvidia (NVDA) Amkor (AMKR) 交易在盈利前增强了包装实力",
-        "summary": "Nvidia (NASDAQ:NVDA) is heading into its August 26 earnings date with fresh evidence that AI infrastructure spending is still accelerating.",
-        "summary_zh": "Nvidia（纳斯达克股票代码：NVDA）即将迎来 8 月 26 日的财报日，新的证据表明人工智能基础设施支出仍在加速。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-amkor-amkr-deal-104631781.html",
+        "title": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
+        "title_zh": "SpaceX 和特斯拉的合并谈判正在升温。这就是投资者应该关注的原因。",
+        "summary": "Elon Musk has a lot to gain from a potential megamerger.",
+        "summary_zh": "埃隆·马斯克可以从潜在的大型合并中获益匪浅。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-talks-heating-025000931.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1786071000,
+        "type": "News"
+    },
+    {
+        "title": "EasyJet agrees to £5.7bn takeover",
+        "title_zh": "易捷航空同意以 57 亿英镑收购",
+        "summary": "EasyJet has agreed to a deal to sell the airline for around £5.7bn ($7.7bn) to a US-based investment firm.",
+        "summary_zh": "EasyJet 已同意达成协议，以约 57 亿英镑（77 亿美元）的价格将该航空公司出售给一家美国投资公司。",
+        "link": "https://finance.yahoo.com/news/easyjet-agrees-5-7bn-takeover-191200916.html",
+        "publisher": "Sky News",
+        "publish_time": 1786043520,
+        "type": "News"
+    },
+    {
+        "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
+        "title_zh": "AMD 讨论长期中国交易，人工智能工作负载推动 CPU 需求",
+        "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is poised to benefit from the next phase of the AI infrastructure boom. This comes as chip demand expands beyond graphics processing units (GPUs) into central processing units (CPUs) and other data center products.",
+        "summary_zh": "Advanced Micro Devices, Inc.（纳斯达克股票代码：AMD）准备从人工智能基础设施热潮的下一阶段中受益。这是因为芯片需求已从图形处理单元 (GPU) 扩展到中央处理单元 (CPU) 和其他数据中心产品。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-workloads-drive-cpu-demand-182055034.html",
         "publisher": "Insider Monkey",
-        "publish_time": 1786013191,
+        "publish_time": 1786040455,
         "type": "News"
     },
     {
-        "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
-        "title_zh": "中东交易成为焦点，标普 500 指数和道指期货持稳；筹码绊倒",
-        "summary": "Aug 6 (Reuters) - S&P 500 and Dow futures were steady on Thursday after this week's record-breaking rally as investors awaited details on a Middle East peace deal, while Nasdaq futures slipped as",
-        "summary_zh": "路透 8 月 6 日 - 由于投资者等待中东和平协议的细节，标准普尔 500 指数和道琼斯指数期货在本周破纪录的上涨后周四保持稳定，而纳斯达克期货则下跌。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html",
-        "publisher": "Reuters",
-        "publish_time": 1786009518,
+        "title": "Budget carrier easyJet confirms €6.6 billion takeover by US private equity firm",
+        "title_zh": "廉价航空公司易捷航空确认被美国私募股权公司以 66 亿欧元收购",
+        "summary": "EasyJet was founded by British-Cypriot entrepreneur Stelios Haji-Ioannou in 1995 as a no-frills airline offering low-cost fares to destinations across Europe.View on euronews",
+        "summary_zh": "EasyJet 由英籍塞浦路斯企业家 Stelios Haji-Ioannou 于 1995 年创立，是一家提供飞往欧洲各地的廉价机票的廉价航空公司。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/budget-carrier-easyjet-confirms-6-174738861.html",
+        "publisher": "Euronews",
+        "publish_time": 1786038458,
         "type": "News"
     },
     {
-        "title": "Apollo's Deal Spree Drives Fee-Related Revenue to a Record",
-        "title_zh": "Apollo 的交易热潮推动收费相关收入创历史新高",
-        "summary": "Bloomberg's Laura Benitez joins Dani Burger on \"Bloomberg Deals.\" Apollo Global Management reported record revenue from fees as it vies to be one of Wall Street's largest lenders.",
-        "summary_zh": "彭博社的劳拉·贝尼特斯 (Laura Benitez) 与丹尼·伯格 (Dani Burger) 一起参加“彭博交易”。阿波罗全球管理公司公布了创纪录的收费收入，该公司力争成为华尔街最大的贷方之一。",
-        "link": "https://finance.yahoo.com/video/apollos-deal-spree-drives-fee-184215045.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1785955335,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks",
-        "title_zh": "Nvidia 刚刚赢得了 SpaceX 的一项重大人工智能交易。 AMD 股价下跌，股价上涨",
-        "summary": "Nvidia Stock Rises as SpaceX Picks It Over AMD for AI Infrastructure",
-        "summary_zh": "随着 SpaceX 在人工智能基础设施领域选择英伟达而非 AMD，英伟达股价上涨",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-won-major-spacex-171119544.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1785949879,
-        "type": "News"
-    },
-    {
-        "title": "Blackstone pitches $36 billion debt deal for Anthropic AI chips",
-        "title_zh": "Blackstone 拟定 360 亿美元债务交易收购 Anthropic AI 芯片",
-        "summary": "One early proposal put the package at $36 billion, which would exceed the $35 billion deal closed roughly two months ago",
-        "summary_zh": "一项早期提案将一揽子计划定为 360 亿美元，这将超过大约两个月前完成的 350 亿美元交易",
-        "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-pitches-36-billion-debt-134437623.html",
-        "publisher": "Quartz",
-        "publish_time": 1785937477,
+        "title": "Apollo Agrees to $7.7 Billion Deal for Britain’s easyJet",
+        "title_zh": "阿波罗同意以 77 亿美元收购英国易捷航空",
+        "summary": "Apollo Global Management looks set to take to the skies. The private-equity group on Thursday agreed a deal to buy British budget airline easyJet for the equivalent of roughly $7.7 billion, prevailing in a weekslong bidding war with fellow American investor Castlelake.",
+        "summary_zh": "阿波罗全球管理公司看起来即将飞向天空。该私募股权集团周四同意以约 77 亿美元的价格收购英国廉价航空公司易捷航空 (easyJet)，并在与美国投资者 Castlelake 长达一周的竞购战中获胜。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026/card/apollo-agrees-to-7-7-billion-deal-for-britain-s-easyjet-N1cs5fsT6RmehElHGi8o?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1786031718,
         "type": "News"
     }
 ]
