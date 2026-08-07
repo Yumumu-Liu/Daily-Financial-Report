@@ -1,15 +1,5 @@
 [
     {
-        "title": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
-        "title_zh": "SpaceX 和特斯拉的合并谈判正在升温。这就是投资者应该关注的原因。",
-        "summary": "Elon Musk has a lot to gain from a potential megamerger.",
-        "summary_zh": "埃隆·马斯克可以从潜在的大型合并中获益匪浅。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-talks-heating-025000931.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1786071000,
-        "type": "News"
-    },
-    {
         "title": "EasyJet agrees to £5.7bn takeover",
         "title_zh": "易捷航空同意以 57 亿英镑收购",
         "summary": "EasyJet has agreed to a deal to sell the airline for around £5.7bn ($7.7bn) to a US-based investment firm.",
@@ -47,6 +37,16 @@
         "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026/card/apollo-agrees-to-7-7-billion-deal-for-britain-s-easyjet-N1cs5fsT6RmehElHGi8o?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
         "publish_time": 1786031718,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: Apollo Acquires EasyJet in Deal Valued at $7.68 Billion; Honeywell Aerospace Shares Fall Following Guidance Cut",
+        "title_zh": "午间热门故事：Apollo 以 76.8 亿美元的交易收购 EasyJet；霍尼韦尔航空航天公司股价因指引下调而下跌",
+        "summary": "The Dow Jones Industrial Average was down in late-morning trading Thursday, while the the S&P 500 an",
+        "summary_zh": "周四早盘交易中，道琼斯工业平均指数下跌，而标准普尔 500 指数则下跌。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apollo-acquires-154510891.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1786031110,
         "type": "News"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
-        "title": "Firmus nearly doubles valuation to over $10.5 billion in 4 months with Nvidia-backed fundraise",
-        "title_zh": "通过 Nvidia 支持的融资，Firmus 的估值在 4 个月内几乎翻了一番，达到 105 亿美元以上",
-        "summary": "Firmus said on Friday it had raised $2 billion in equity in its ‌latest funding round to speed up the ‌build-out of AI factories in Australia and Asia Pacific, bringing up ​the company's post-money valuation to above $10.5 billion.",
-        "summary_zh": "Firmus 周五表示，它已在最新一轮融资中筹集了 20 亿美元的股权，以加快澳大利亚和亚太地区人工智能工厂的建设，使该公司的投后估值达到 105 亿美元以上。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/firmus-nearly-doubles-valuation-over-022927084.html",
+        "title": "Global equity funds draw inflows for 11th week as upbeat earnings lift sentiment",
+        "title_zh": "乐观的盈利提振市场情绪，全球股票基金连续 11 周吸引资金流入",
+        "summary": "Aug 7 (Reuters) - Global equity funds recorded inflows for an 11th consecutive week, as optimism about a strong earnings season and cooling crude oil prices boosted investors' appetite for risk assets",
+        "summary_zh": "路透8月7日 - 全球股票基金连续11周录得资金流入，因对强劲财报季的乐观情绪和原油价格降温提振了投资者对风险资产的兴趣",
+        "link": "https://finance.yahoo.com/news/global-equity-funds-draw-inflows-072641363.html",
         "publisher": "Reuters",
-        "publish_time": 1786069767,
+        "publish_time": 1786087601,
         "type": "News"
     },
     {
@@ -17,16 +17,6 @@
         "link": "https://finance.yahoo.com/media-advertising/articles/meta-ordered-pay-567-million-001541996.html",
         "publisher": "Reuters",
         "publish_time": 1786068523,
-        "type": "News"
-    },
-    {
-        "title": "Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say",
-        "title_zh": "消息人士称，阿里巴巴计划向大用户收取其下一代开源人工智能模型的费用",
-        "summary": "By Stephen Nellis and Eduardo Baptista Aug 7 (Reuters) - Chinese technology giant Alibaba plans to ask major users of the next version of its Qwen open-source AI model for a share of revenue they make",
-        "summary_zh": "作者：Stephen Nellis 和 Eduardo Baptista，8 月 7 日（路透社）——中国科技巨头阿里巴巴计划向其下一版本 Qwen 开源人工智能模型的主要用户询问其收入分成",
-        "link": "https://finance.yahoo.com/news/exclusive-alibaba-plans-charge-big-010423265.html",
-        "publisher": "Reuters",
-        "publish_time": 1786064927,
         "type": "News"
     },
     {
@@ -81,12 +71,22 @@
     },
     {
         "title": "What the bond market is signaling for SpaceX's hopes to ramp up debt sales",
-        "title_zh": "债券市场对 SpaceX 增加债务销售的希望发出了什么信号",
+        "title_zh": "债券市场向 SpaceX 希望增加债务销售发出了什么信号",
         "summary": "Wellington Management fixed income portfolio manager Brij Khurana weighs in on what the bond market (^TYX, ^TNX, ^FVX) could be signaling about SpaceX's (SPCX) debt sales plans, especially as shares of Elon Musk's space venture continue to slide lower.",
         "summary_zh": "Wellington Management 固定收益投资组合经理 Brij Khurana 对债券市场（^TYX、^TNX、^FVX）可能对 SpaceX (SPCX) 债务出售计划发出的信号进行了权衡，特别是在埃隆·马斯克 (Elon Musk) 的太空企业股价继续下滑的...",
         "link": "https://finance.yahoo.com/video/bond-market-signaling-spacexs-hopes-150000153.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1786028400,
+        "type": "News"
+    },
+    {
+        "title": "Small caps are quietly outperforming the S&P 500 and 'Magnificent 7' this year: AlphaCheck",
+        "title_zh": "AlphaCheck：今年小盘股的表现悄然跑赢了标准普尔 500 指数和“Magnificent 7”指数",
+        "summary": "The Russell 2000 index touched a record high on Wednesday, surpassing the 3,000 level for the first time. And the small-cap index's 20.7% return has outperformed the S&P 500's 12.8% gain this year.",
+        "summary_zh": "罗素2000指数周三触及历史新高，首次突破3000点大关。今年小盘股指数 20.7% 的回报率超过了标准普尔 500 指数 12.8% 的涨幅。",
+        "link": "https://finance.yahoo.com/markets/article/small-caps-are-quietly-outperforming-the-sp-500-and-magnificent-7-this-year-alphacheck-143906754.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1786027146,
         "type": "News"
     }
 ]
