@@ -10,16 +10,6 @@
         "type": "News"
     },
     {
-        "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
-        "title_zh": "AMD 讨论长期中国交易，人工智能工作负载推动 CPU 需求",
-        "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is poised to benefit from the next phase of the AI infrastructure boom. This comes as chip demand expands beyond graphics processing units (GPUs) into central processing units (CPUs) and other data center products.",
-        "summary_zh": "Advanced Micro Devices, Inc.（纳斯达克股票代码：AMD）准备从人工智能基础设施热潮的下一阶段中受益。这是因为芯片需求已从图形处理单元 (GPU) 扩展到中央处理单元 (CPU) 和其他数据中心产品。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-workloads-drive-cpu-demand-182055034.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1786040455,
-        "type": "News"
-    },
-    {
         "title": "Budget carrier easyJet confirms €6.6 billion takeover by US private equity firm",
         "title_zh": "廉价航空公司易捷航空确认被美国私募股权公司以 66 亿欧元收购",
         "summary": "EasyJet was founded by British-Cypriot entrepreneur Stelios Haji-Ioannou in 1995 as a no-frills airline offering low-cost fares to destinations across Europe.View on euronews",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-apollo-acquires-154510891.html",
         "publisher": "MT Newswires",
         "publish_time": 1786031110,
+        "type": "News"
+    },
+    {
+        "title": "Update: Equities Rise Intraday, Oil Slides Amid Middle East Deal Optimism",
+        "title_zh": "更新：股市盘中上涨，油价因中东交易乐观情绪下滑",
+        "summary": "(Updates with latest market prices and developments.) US stocks climbed intraday as oil prices fe",
+        "summary_zh": "（最新市场价格和发展动态。） 随着油价上涨，美国股市盘中攀升",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-slides-173112682.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1785778272,
         "type": "News"
     }
 ]
