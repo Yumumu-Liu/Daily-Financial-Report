@@ -1,17 +1,7 @@
 [
     {
-        "title": "Nvidia to invest up to $3 billion in Lancium, the Information reports",
-        "title_zh": "据《Information》报道，Nvidia 将向 Lancium 投资高达 30 亿美元",
-        "summary": "Nvidia will invest ‌up to $3 billion in ​Blackstone backed power infrastructure developer Lancium, the company behind Stargate, ‌the Information ⁠reported on Friday.",
-        "summary_zh": "据《Information》周五报道，Nvidia 将向 Blackstone 支持的电力基础设施开发商 Lancium（Stargate 背后的公司）投资至多 30 亿美元。",
-        "link": "https://finance.yahoo.com/technology/articles/nvidia-invest-3-billion-lancium-014211358.html",
-        "publisher": "Reuters",
-        "publish_time": 1786153331,
-        "type": "News"
-    },
-    {
         "title": "S&P closes at record high as soft jobs report eases rate-hike concerns",
-        "title_zh": "由于就业报告疲软缓解加息担忧，标普收盘创历史新高",
+        "title_zh": "由于疲软的就业报告缓解了加息担忧，标普收盘创历史新高",
         "summary": "STORY: U.S. stocks rallied on Friday, with the Dow gaining more than a quarter of a percent, the S&P 500 adding about six-tenths of a percent to notch a record high close, and the Nasdaq climbing 1.3%.Data from the Labor Department showed the U.S.",
         "summary_zh": "故事：美国股市周五上涨，道琼斯指数上涨超过四分之一个百分点，标准普尔 500 指数上涨约十分之六，创下收盘历史新高，纳斯达克指数上涨 1.3%。美国劳工部的数据显示，美国",
         "link": "https://finance.yahoo.com/video/p-closes-record-high-soft-224314395.html",
@@ -23,7 +13,7 @@
         "title": "MIAX expands footprint in US options market via Bloomberg partnership",
         "title_zh": "MIAX 通过与彭博社合作扩大在美国期权市场的足迹",
         "summary": "MIAX (MIAX) CEO Tom Gallagher discusses the surging retail adoption and market factors driving options and futures volume while highlighting the exchange operator's technology and Bloomberg index futures products.",
-        "summary_zh": "MIAX (MIAX) 首席执行官 Tom Gallagher 讨论了零售采用率的飙升以及推动期权和期货交易量的市场因素，同时重点介绍了交易所运营商的技术和彭博指数期货产品。",
+        "summary_zh": "MIAX (MIAX) 首席执行官 Tom Gallagher 讨论了零售采用率的飙升以及推动期权和期货交易量的市场因素，同时重点介绍了该交易所运营商的技术和彭博指数期货产品。",
         "link": "https://finance.yahoo.com/video/miax-expands-footprint-us-options-211255301.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1786137175,
@@ -71,7 +61,7 @@
     },
     {
         "title": "Berkshire investors seem to be warming up to Greg Abel's leadership. 👀\n\nThe stock is trading at its highest price since Warren Buffett announced his retirement in May 2025.\n\nThe recent gains have been fueled by a rotation back into safe-haven plays to hedge against riskier tech stocks.\n\nAlthough it's worth noting that the stock is still badly lagging the S&P 500.\n\n📈 Explore AlphaSpace for charts, analysis, and premium news on Berkshire Hathaway at the link in bio. 👉",
-        "title_zh": "伯克希尔哈撒韦的投资者似乎对格雷格·阿贝尔的领导越来越感兴趣。 👀\n\n该股目前处于沃伦·巴菲特 2025 年 5 月宣布退休以来的最高价格。\n\n最近的上涨是由于人们转向避险投资以对冲风险较高的科技股而推动的。\n\n但值得注意的是，该股仍严重落后于标准普尔 500 指数。\n\n📈 通过简介中的链接探索 AlphaSpace，了解伯克希尔哈撒韦公司的图表、分析和优质新闻。 👉",
+        "title_zh": "伯克希尔哈撒韦的投资者似乎对格雷格·阿贝尔的领导越来越感兴趣。 👀\n\n该股目前的交易价格为沃伦·巴菲特 2025 年 5 月宣布退休以来的最高价。\n\n最近的上涨是由于人们转向避险投资以对冲风险较高的科技股而推动的。\n\n但值得注意的是，该股仍严重落后于标准普尔 500 指数。\n\n📈 通过简介中的链接探索 AlphaSpace，获取有关伯克希尔哈撒韦公司的图表、分析和优质新闻。 👉",
         "summary": "Berkshire investors seem to be warming up to Greg Abel's leadership. 👀 The stock is trading at its highest price since Warren Buffett announced his retirement in May 2025.",
         "summary_zh": "伯克希尔哈撒韦的投资者似乎对格雷格·阿贝尔的领导越来越感兴趣。 👀 该股目前正处于沃伦·巴菲特 2025 年 5 月宣布退休以来的最高价格。",
         "link": "https://finance.yahoo.com/video/berkshire-investors-seem-warming-greg-151725019.html",
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1786113725,
+        "type": "News"
+    },
+    {
+        "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
+        "title_zh": "我们对 OpenAI 即将推出的手持设备的了解：彭博社",
+        "summary": "Details are emerging on OpenAI's (OPAI.PVT) upcoming AI device, according to Bloomberg. Morning Brief Host Julie Hyman is joined by Yahoo Breaking News Reporter Jake Conley and Monetary Matters Network co-founder Jack Farley take a closer look.",
+        "summary_zh": "据彭博社报道，OpenAI (OPAI.PVT) 即将推出的人工智能设备的详细信息正在浮出水面。早间简报主持人朱莉·海曼 (Julie Hyman) 与雅虎突发新闻记者杰克·康利 (Jake Conley) 和货币事务网络联合创始人杰克·法利 (Jack Farley) 一...",
+        "link": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1786111367,
         "type": "News"
     }
 ]
