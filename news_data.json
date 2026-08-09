@@ -1,22 +1,22 @@
 [
     {
-        "title": "S&P closes at record high as soft jobs report eases rate-hike concerns",
-        "title_zh": "由于疲软的就业报告缓解了加息担忧，标普收盘创历史新高",
-        "summary": "STORY: U.S. stocks rallied on Friday, with the Dow gaining more than a quarter of a percent, the S&P 500 adding about six-tenths of a percent to notch a record high close, and the Nasdaq climbing 1.3%.Data from the Labor Department showed the U.S.",
-        "summary_zh": "故事：美国股市周五上涨，道琼斯指数上涨超过四分之一个百分点，标准普尔 500 指数上涨约十分之六，创下收盘历史新高，纳斯达克指数上涨 1.3%。美国劳工部的数据显示，美国",
-        "link": "https://finance.yahoo.com/video/p-closes-record-high-soft-224314395.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1786142594,
+        "title": "Rivian's make-or-break R2 midsize EV delivers: Road test",
+        "title_zh": "Rivian 的成败 R2 中型电动车交付：道路测试",
+        "summary": "The Rivian R2 is, frankly, the most important vehicle Rivian has ever built. It's the car that's supposed to push Rivian over the edge on cost, scale, and profits.",
+        "summary_zh": "坦率地说，Rivian R2 是 Rivian 有史以来制造的最重要的车辆。这款汽车有望将 Rivian 推向成本、规模和利润的边缘。",
+        "link": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1786199512,
         "type": "News"
     },
     {
-        "title": "MIAX expands footprint in US options market via Bloomberg partnership",
-        "title_zh": "MIAX 通过与彭博社合作扩大在美国期权市场的足迹",
-        "summary": "MIAX (MIAX) CEO Tom Gallagher discusses the surging retail adoption and market factors driving options and futures volume while highlighting the exchange operator's technology and Bloomberg index futures products.",
-        "summary_zh": "MIAX (MIAX) 首席执行官 Tom Gallagher 讨论了零售采用率的飙升以及推动期权和期货交易量的市场因素，同时重点介绍了该交易所运营商的技术和彭博指数期货产品。",
-        "link": "https://finance.yahoo.com/video/miax-expands-footprint-us-options-211255301.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1786137175,
+        "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+        "title_zh": "苹果表示中国的 Mac 用户可以连接阿里巴巴的 Qwen AI 服务",
+        "summary": "Apple has published a guide explaining how eligible Mac users in mainland China can connect Alibaba's Qwen artificial-intelligence service to ‌the U.S. tech giant's Siri digital assistant and Writing Tools feature.",
+        "summary_zh": "苹果发布了一份指南，解释了中国大陆符合条件的 Mac 用户如何将阿里巴巴的 Qwen 人工智能服务连接到美国科技巨头的 Siri 数字助理和书写工具功能。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apple-says-mac-users-china-123458419.html",
+        "publisher": "Reuters",
+        "publish_time": 1786192498,
         "type": "News"
     },
     {
@@ -27,66 +27,6 @@
         "link": "https://finance.yahoo.com/video/ai-theme-long-way-run-204908888.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1786135748,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
-        "title_zh": "OpenAI 开发 300 美元以上的 AI 扬声器以挑战亚马逊 Alexa",
-        "summary": "Yahoo Finance Tech Editor discusses reports that OpenAI (OPAI.PVT) is developing a $300+ puck-sized smart home device designed to compete directly with Amazon (AMZN) Alexa and Google Home",
-        "summary_zh": "雅虎财经技术编辑讨论了有关 OpenAI (OPAI.PVT) 正在开发一款 300 美元以上冰球大小的智能家居设备的报道，旨在与亚马逊 (AMZN) Alexa 和 Google Home 直接竞争",
-        "link": "https://finance.yahoo.com/video/openai-developing-300-ai-speaker-202000842.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1786134000,
-        "type": "News"
-    },
-    {
-        "title": "Explainer-How could New Mexico's $567 million ruling change Meta?",
-        "title_zh": "解释者-新墨西哥州5.67亿美元的裁决如何改变Meta？",
-        "summary": "Aug 7 (Reuters) - A New Mexico state court ordered Meta Platforms, owner of Facebook and Instagram, to make major changes to its platforms and pay the largest sum yet in a growing wave of U. litigation over claims that social media harms young people.",
-        "summary_zh": "8 月 7 日（路透社） - 新墨西哥州法院命令 Facebook 和 Instagram 的所有者 Meta Platforms 对其平台进行重大改变，并在美国因社交媒体伤害年轻人的指控而提起的越来越多的诉讼中支付迄今为止最大的一笔赔偿金。",
-        "link": "https://finance.yahoo.com/news/explainer-could-mexicos-567-million-193540756.html",
-        "publisher": "Reuters",
-        "publish_time": 1786131578,
-        "type": "News"
-    },
-    {
-        "title": "Call options explained: From opening trade to expiration",
-        "title_zh": "看涨期权解释：从开仓交易到到期",
-        "summary": "Follow one Nvidia call option from the opening trade through expiration to see what call buyers and sellers gain, risk, and need to break even.",
-        "summary_zh": "跟踪一份 Nvidia 看涨期权从开仓交易到到期的整个过程，了解看涨期权买家和卖家的收益、风险以及盈亏平衡所需的内容。",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/call-options-165604768.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1786121764,
-        "type": "News"
-    },
-    {
-        "title": "Berkshire investors seem to be warming up to Greg Abel's leadership. 👀\n\nThe stock is trading at its highest price since Warren Buffett announced his retirement in May 2025.\n\nThe recent gains have been fueled by a rotation back into safe-haven plays to hedge against riskier tech stocks.\n\nAlthough it's worth noting that the stock is still badly lagging the S&P 500.\n\n📈 Explore AlphaSpace for charts, analysis, and premium news on Berkshire Hathaway at the link in bio. 👉",
-        "title_zh": "伯克希尔哈撒韦的投资者似乎对格雷格·阿贝尔的领导越来越感兴趣。 👀\n\n该股目前的交易价格为沃伦·巴菲特 2025 年 5 月宣布退休以来的最高价。\n\n最近的上涨是由于人们转向避险投资以对冲风险较高的科技股而推动的。\n\n但值得注意的是，该股仍严重落后于标准普尔 500 指数。\n\n📈 通过简介中的链接探索 AlphaSpace，获取有关伯克希尔哈撒韦公司的图表、分析和优质新闻。 👉",
-        "summary": "Berkshire investors seem to be warming up to Greg Abel's leadership. 👀 The stock is trading at its highest price since Warren Buffett announced his retirement in May 2025.",
-        "summary_zh": "伯克希尔哈撒韦的投资者似乎对格雷格·阿贝尔的领导越来越感兴趣。 👀 该股目前正处于沃伦·巴菲特 2025 年 5 月宣布退休以来的最高价格。",
-        "link": "https://finance.yahoo.com/video/berkshire-investors-seem-warming-greg-151725019.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1786115845,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX's influence ripples across markets: AlphaCheck",
-        "title_zh": "AlphaCheck：SpaceX 的影响力波及整个市场",
-        "summary": "SpaceX's gravitational pull is undeniable. That's why it's unsurprising that a few offhand remarks in SpaceX's earnings call on Tuesday still managed to jolt stocks in the further reaches of the company's orbit.",
-        "summary_zh": "SpaceX 的引力是不可否认的。这就是为什么 SpaceX 在周二的财报电话会议上的一些即兴言论仍然成功地震动了该公司其他轨道的股票，这并不奇怪。",
-        "link": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1786113725,
-        "type": "News"
-    },
-    {
-        "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-        "title_zh": "我们对 OpenAI 即将推出的手持设备的了解：彭博社",
-        "summary": "Details are emerging on OpenAI's (OPAI.PVT) upcoming AI device, according to Bloomberg. Morning Brief Host Julie Hyman is joined by Yahoo Breaking News Reporter Jake Conley and Monetary Matters Network co-founder Jack Farley take a closer look.",
-        "summary_zh": "据彭博社报道，OpenAI (OPAI.PVT) 即将推出的人工智能设备的详细信息正在浮出水面。早间简报主持人朱莉·海曼 (Julie Hyman) 与雅虎突发新闻记者杰克·康利 (Jake Conley) 和货币事务网络联合创始人杰克·法利 (Jack Farley) 一...",
-        "link": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1786111367,
         "type": "News"
     }
 ]
