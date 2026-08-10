@@ -1,5 +1,55 @@
 [
     {
+        "title": "Airbnb CEO: Why AI is the best thing to happen to us",
+        "title_zh": "Airbnb CEO：为什么人工智能是发生在我们身上最好的事情",
+        "summary": "Airbnb CEO Brian Chesky reveals to Yahoo Finance Executive Editor Brian Sozzi how AI is driving the company's fastest growth in years, shares his bold predictions for the future of consumer tech, and confirms the existence of a secret internal AI lab.",
+        "summary_zh": "Airbnb 首席执行官布莱恩·切斯基 (Brian Chesky) 向雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 透露了人工智能如何推动公司实现多年来最快的增长，分享了他对消费技术未来的大胆预测，并证实了一个秘密内部人工智能实验室的存在。",
+        "link": "https://finance.yahoo.com/video/airbnb-ceo-why-ai-best-100000572.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1786356000,
+        "type": "News"
+    },
+    {
+        "title": "Analysis-FOMO fuels Wall Street's breakout rally as traders pile in",
+        "title_zh": "分析：交易员纷纷涌入，FOMO 助长华尔街突破性反弹",
+        "summary": "By Saqib Iqbal Ahmed NEW YORK, Aug 10 (Reuters) - Fear of missing out is driving a buying rush on Wall Street, with options market metrics flashing some of the most bullish signals in years.",
+        "summary_zh": "作者：Saqib Iqbal Ahmed 纽约，8 月 10 日（路透社）——对错过机会的恐惧正在推动华尔街的买盘热潮，期权市场指标闪烁着多年来最乐观的信号。",
+        "link": "https://finance.yahoo.com/markets/options/articles/analysis-fomo-fuels-wall-streets-090420422.html",
+        "publisher": "Reuters",
+        "publish_time": 1786352660,
+        "type": "News"
+    },
+    {
+        "title": "Explainer-What is Unitree and why are China’s humanoid robot makers racing to list?",
+        "title_zh": "讲解员-什么是Unitree，为何中国仿人机器人厂商竞相上市？",
+        "summary": "Chinese robot maker Unitree has priced its Shanghai initial public offering at 150.8 yuan per share, with subscriptions to start on ‌Monday, as it seeks to raise 6.1 billion yuan ($904 million) in a deal that ‌would see it become the first mainland-listed humanoid robot manufa...",
+        "summary_zh": "中国机器人制造商Unitree将其在上海的首次公开募股定价为每股150.8元，认购将于周一开始，该公司寻求通过这笔交易筹集61亿元人民币（9.04亿美元），这将使其成为第一家在大陆上市的人形机器人制造商。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/explainer-unitree-why-china-humanoid-023633152.html",
+        "publisher": "Reuters",
+        "publish_time": 1786329393,
+        "type": "News"
+    },
+    {
+        "title": "Tencent AI Spending Key After Magnificent 7 Rout",
+        "title_zh": "7大溃败后，腾讯AI支出关键",
+        "summary": "(Bloomberg) -- Tencent Holdings Ltd.’s spending plans will draw investor scrutiny as investors cool on lavish outlays on artificial intelligence.Most Read from BloombergTrump Amps Up Pressure on Billionaire Sargeant to Exit VenezuelaIran Shakes Up Security Team After Saying Om...",
+        "summary_zh": "（彭博社）——随着投资者对人工智能的大笔支出降温，腾讯控股有限公司的支出计划将引起投资者的密切关注。彭博社的大多数报道特朗普加大了对亿万富翁萨金特退出委内瑞拉的压力伊朗在说“Om”后重组了安全团队",
+        "link": "https://finance.yahoo.com/technology/ai/articles/tencent-ai-spending-key-magnificent-004806894.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1786322886,
+        "type": "News"
+    },
+    {
+        "title": "Taylor Farms Pulls Salsa and Guacamole Over Salmonella Concerns",
+        "title_zh": "泰勒农场因沙门氏菌问题而下架莎莎酱和鳄梨酱",
+        "summary": "(Bloomberg) -- Taylor Farms is pulling more than a dozen prepared food items containing jalapeños, including salsas and guacamole, from retailers due to concerns over salmonella, just weeks after federal health officials tied the produce company to a separate outbreak of cyclo...",
+        "summary_zh": "（彭博社）——出于对沙门氏菌的担忧，泰勒农场正在从零售商手中撤下十多种含有墨西哥辣椒的预制食品，包括莎莎酱和鳄梨酱，而就在几周前，联邦卫生官员将这家农产品公司与另一场环...",
+        "link": "https://finance.yahoo.com/healthcare/articles/taylor-farms-pulls-salsa-guacamole-222513483.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1786314313,
+        "type": "News"
+    },
+    {
         "title": "How AI agents can power the S&P 500 higher",
         "title_zh": "AI 代理如何助力标普 500 指数走高",
         "summary": "AI agents are only getting more powerful.",
@@ -7,16 +57,6 @@
         "link": "https://finance.yahoo.com/markets/article/how-ai-agents-can-power-the-sp-500-higher-123000201.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1786278600,
-        "type": "News"
-    },
-    {
-        "title": "Apple tests China's CXMT memory chips for iPhones and MacBooks, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，苹果正在测​​试用于 iPhone 和 MacBook 的中国长鑫存储芯片",
-        "summary": "Apple has been testing memory chips from China's ‌CXMT across product lines including ‌iPhones and MacBooks, to mitigate a component shortage ​fueled by the AI boom, the Wall Street Journal reported on Sunday.",
-        "summary_zh": "据《华尔街日报》周日报道，苹果一直在 iPhone 和 MacBook 等产品线中测试中国长鑫存储的存储芯片，以缓解人工智能热潮引发的零部件短缺问题。",
-        "link": "https://finance.yahoo.com/technology/articles/apple-tests-chinas-cxmt-memory-120655649.html",
-        "publisher": "Reuters",
-        "publish_time": 1786277215,
         "type": "News"
     },
     {
@@ -30,13 +70,13 @@
         "type": "News"
     },
     {
-        "title": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-        "title_zh": "Rivian 的成败 R2 中型电动车交付：道路测试",
-        "summary": "The Rivian R2 is, frankly, the most important vehicle Rivian has ever built. It's the car that's supposed to push Rivian over the edge on cost, scale, and profits.",
-        "summary_zh": "坦率地说，Rivian R2 是 Rivian 有史以来制造的最重要的车辆。这款汽车有望将 Rivian 推向成本、规模和利润的边缘。",
-        "link": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
+        "title": "2 key checks on AI infrastructure and inflation: What to watch this week",
+        "title_zh": "人工智能基础设施和通货膨胀的 2 个关键检查：本周值得关注的内容",
+        "summary": "The stock market's first week after the Big Tech earnings extravaganza went about as well as any investor could have hoped.",
+        "summary_zh": "大型科技公司财报盛宴后的第一周，股市的表现正如任何投资者所希望的那样。",
+        "link": "https://finance.yahoo.com/markets/article/2-key-checks-on-ai-infrastructure-and-inflation-what-to-watch-this-week-100000678.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1786199512,
+        "publish_time": 1786269600,
         "type": "News"
     }
 ]

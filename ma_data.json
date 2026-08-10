@@ -1,5 +1,15 @@
 [
     {
+        "title": "Is It Really Safe to Invest in the S&P 500 Right Now? History Offers a Clear Answer.",
+        "title_zh": "现在投资标准普尔 500 指数真的安全吗？历史给出了明确的答案。",
+        "summary": "History actually offers two clear answers about whether to invest in the S&P 500 now.",
+        "summary_zh": "关于现在是否投资标普500指数，历史实际上提供了两个明确的答案。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/really-safe-invest-p-500-090400315.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1786352640,
+        "type": "News"
+    },
+    {
         "title": "This Trillion-Dollar AI Stock Offers Better Quantum Computing Exposure Than IonQ, Rigetti, or D-Wave at a Multi-Year Valuation Low",
         "title_zh": "这支价值数万亿美元的 AI 股票在量子计算方面的表现优于 IonQ、Rigetti 或 D-Wave，且估值处于多年低位",
         "summary": "Microsoft offers a lower-risk way to invest in the future of quantum computing by combining established AI and cloud leadership with an advancing quantum platform.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/news/easyjet-agrees-5-7bn-takeover-191200916.html",
         "publisher": "Sky News",
         "publish_time": 1786043520,
-        "type": "News"
-    },
-    {
-        "title": "Budget carrier easyJet confirms €6.6 billion takeover by US private equity firm",
-        "title_zh": "廉价航空公司易捷航空确认被美国私募股权公司以 66 亿欧元收购",
-        "summary": "EasyJet was founded by British-Cypriot entrepreneur Stelios Haji-Ioannou in 1995 as a no-frills airline offering low-cost fares to destinations across Europe.View on euronews",
-        "summary_zh": "EasyJet 由英籍塞浦路斯企业家 Stelios Haji-Ioannou 于 1995 年创立，是一家提供飞往欧洲各地的廉价机票的廉价航空公司。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/budget-carrier-easyjet-confirms-6-174738861.html",
-        "publisher": "Euronews",
-        "publish_time": 1786038458,
         "type": "News"
     }
 ]
