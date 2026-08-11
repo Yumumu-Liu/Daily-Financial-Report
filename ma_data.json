@@ -1,52 +1,52 @@
 [
     {
-        "title": "Wall Street ends down as expectations of Hormuz deal fade",
-        "title_zh": "随着霍尔木兹协议的预期消退，华尔街收跌",
-        "summary": "STORY: U.S. stocks closed lower on Monday, with the Dow and S&P 500 dipping marginally, and the Nasdaq shedding about a third of a percent.Investors became less confident about a deal to reopen the Strait of Hormuz, which sent U.S.",
-        "summary_zh": "故事：美国股市周一收低，道琼斯指数和标准普尔 500 指数小幅下跌，纳斯达克指数下跌约三分之一。投资者对重新开放霍尔木兹海峡的协议信心减弱，这导致美国",
-        "link": "https://finance.yahoo.com/video/wall-street-ends-down-expectations-224806034.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1786402086,
-        "type": "News"
-    },
-    {
-        "title": "Why Did Nvidia Stock Fall on Monday Despite a $500 Billion Wall Street AI Deal?",
-        "title_zh": "尽管与华尔街达成了 5000 亿美元的人工智能交易，为何 Nvidia 股价周一仍下跌？",
-        "summary": "Nvidia's $500 billion AI deal has it financing its own chip buyers. Why NVDA stock fell and what analysts see next.",
-        "summary_zh": "英伟达 5000 亿美元的人工智能交易为其自己的芯片买家提供了资金。 NVDA 股票为何下跌以及分析师接下来的看法。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-fall-224355830.html",
-        "publisher": "BeInCrypto",
-        "publish_time": 1786401835,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion",
-        "title_zh": "Nvidia 与华尔街公司达成目标 5000 亿美元的 AI 融资协议",
-        "summary": "Nvidia  reached deals with some of Wall Street’s largest firms aimed at raising massive amounts of capital to help the chipmaker’s customers finance the cost of computing power.",
-        "summary_zh": "英伟达与华尔街一些最大的公司达成了协议，旨在筹集大量资金，帮助该芯片制造商的客户支付计算能力的成本。",
-        "link": "https://www.wsj.com/business/deals/nvidia-wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db?siteid=yhoof2&yptr=yahoo",
+        "title": "Oil Surges With No Hormuz Deal in Sight—Heard on the Street Monday Recap",
+        "title_zh": "霍尔木兹协议尚未达成，石油价格飙升——周一街头回顾",
+        "summary": "Oil prices jumped yesterday after negotiations over the Strait of Hormuz turned south once again.",
+        "summary_zh": "霍尔木兹海峡谈判再次转向南面后，油价昨天上涨。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026/card/oil-surges-with-no-hormuz-deal-in-sight-heard-on-the-street-monday-recap-qz22GT5qE6yB2lfGZDX3?siteid=yhoof2&yptr=yahoo",
         "publisher": "The Wall Street Journal",
-        "publish_time": 1786398420,
+        "publish_time": 1786433998,
         "type": "News"
     },
     {
-        "title": "Amazon, SpaceX Eye Major Decart Acquisition",
-        "title_zh": "亚马逊和 SpaceX 重点收购 Decart",
-        "summary": "Strategic buyers are chasing scarce real-time AI technology",
-        "summary_zh": "战略买家正在追逐稀缺的实时人工智能技术",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-spacex-eye-major-decart-213728411.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1786397848,
+        "title": "Intel Increases Size of Stock Offering to Raise $20 Billion",
+        "title_zh": "英特尔增加股票发行规模，筹集 200 亿美元",
+        "summary": "Intel plans to raise $20 billion by way of an underwritten public offering of 210.5 million shares priced at $95 each.",
+        "summary_zh": "英特尔计划通过承销公开发行 2.105 亿股每股定价 95 美元的股票筹集 200 亿美元资金。",
+        "link": "https://www.wsj.com/tech/intel-increases-size-of-stock-offering-to-raise-20-billion-0a32a534?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1786432260,
         "type": "News"
     },
     {
-        "title": "Nvidia Strikes Deals With Wall Street Firms to Fund Its Own Customers",
-        "title_zh": "英伟达与华尔街公司达成协议为其自己的客户提供资金",
-        "summary": "The chip maker announces partnerships with Goldman Sachs, BlackRock, Blackstone, Apollo, Brookfield, and KKR to finance data centers.",
-        "summary_zh": "该芯片制造商宣布与高盛、贝莱德、黑石、阿波罗、布鲁克菲尔德和 KKR 建立合作伙伴关系，为数据中心提供融资。",
-        "link": "https://www.barrons.com/articles/nvidia-wall-street-500-billion-fund-ai-data-center-9c8ad31e?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1786396740,
+        "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom",
+        "title_zh": "人工智能最大的扩展就在这里。这些股票提供了一种投资数据中心繁荣的方式",
+        "summary": "For those seeking a pick-and-shovel approach to the AI wave, here's a guide to utilities, grid hardware, cooling firms, and refinery stocks.",
+        "summary_zh": "对于那些寻求以铲铲方式应对人工智能浪潮的人来说，这里有一份有关公用事业、电网硬件、冷却公司和炼油厂股票的指南。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-buildout-stocks-offer-065900313.html",
+        "publisher": "Fortune",
+        "publish_time": 1786431540,
+        "type": "News"
+    },
+    {
+        "title": "Jim Cramer Recommends Goldman Sachs and Morgan Stanley to Profit From Accelerating M&A Deals",
+        "title_zh": "吉姆克莱默建议高盛和摩根士丹利从加速并购交易中获利",
+        "summary": "During Mad Money’s August 6 episode, host Jim Cramer highlighted why investors should target elite advisory firms rather than speculating on acquisition targets, as he said: Here’s a big theme that right now really only impacts two large companies: pent-up demand for mergers a...",
+        "summary_zh": "在《Mad Money》8 月 6 日的节目中，主持人吉姆·克莱默 (Jim Cramer) 强调了为什么投资者应该瞄准精英咨询公司，而不是猜测收购目标，他说： 这是一个目前实际上只影响两家大公司的大主题：被压抑的合并需求和……",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-goldman-sachs-054332862.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1786427012,
+        "type": "News"
+    },
+    {
+        "title": "Making Sense of the Multibillion-Dollar Numbers of Nvidia Deal, Intel Share Sale",
+        "title_zh": "理解英伟达数十亿美元交易、英特尔股票出售的意义",
+        "summary": "Nvidia is becoming the \"banker of choice to the AI ecosystem\" as it seals $500 billion commitments from Wall Street giants. Meanwhile, Intel is looking at its first share sale since the 1970s.",
+        "summary_zh": "随着华尔街巨头 5000 亿美元的承诺，Nvidia 正在成为“人工智能生态系统的首选银行家”。与此同时，英特尔正在考虑自 20 世纪 70 年代以来的首次股票发行。",
+        "link": "https://finance.yahoo.com/video/making-sense-multibillion-dollar-numbers-052655909.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1786426015,
         "type": "News"
     }
 ]
