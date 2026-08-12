@@ -1,22 +1,12 @@
 [
     {
-        "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations",
-        "title_zh": "瑞安航空签署为期五年的谷歌云协议，扩大人工智能在航空公司运营中的使用",
-        "summary": "Ryanair said on Wednesday it would deploy Google's Gemini AI tools and DeepMind models ‌across its operations under a new five-year cloud partnership, using ‌the technology to help manage crew scheduling and make operational decisions.",
-        "summary_zh": "瑞安航空周三表示，根据一项新的五年云合作伙伴关系，将在其运营中部署谷歌的 Gemini AI 工具和 DeepMind 模型，利用该技术帮助管理机组人员调度并做出运营决策。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ryanair-signs-five-google-cloud-230235225.html",
-        "publisher": "Reuters",
-        "publish_time": 1786489355,
-        "type": "News"
-    },
-    {
         "title": "Quantinuum Posts First Earnings Since IPO; Strikes Oracle Quantum Deal",
         "title_zh": "Quantinuum 公布首次公开募股以来的首次盈利；罢工甲骨文量子交易",
-        "summary": "Quantinuum reports higher-than-expected revenue and issues an upbeat annual outlook, though the stock barely budges.",
-        "summary_zh": "Quantinuum 报告的收入高于预期，并发布了乐观的年度前景，但该股几乎没有变化。",
+        "summary": "Quantinuum  topped analysts’ estimates in its first quarterly report as a public company, though investors barely blinked. As an early-stage company,  Quantinuum’s  revenue is heavily tied to individual contracts and milestone deliveries.",
+        "summary_zh": "尽管投资者几乎没有眨眼，但 Quantinuum 作为上市公司的第一份季度报告超出了分析师的预期。作为一家早期公司，Quantinuum 的收入与个人合同和里程碑交付密切相关。",
         "link": "https://www.barrons.com/articles/quantinuum-earnings-stock-price-84df4562?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "publish_time": 1786485960,
+        "publish_time": 1786524480,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://www.investors.com/news/financial-stocks-jump-nvidia-ai-funding-deal/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "publish_time": 1786478672,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia and Wall Street’s Biggest Titans Just Struck a $500 Billion Deal. Here’s What’s In It For Both Sides",
+        "title_zh": "Nvidia 和华尔街最大的巨头刚刚达成了 5000 亿美元的交易。这是双方的利益",
+        "summary": "Jensen Huang just recruited six of the most powerful names in finance to solve the one problem threatening to put a ceiling on AI growth, and Nvidia is not spending a single dollar of its own money to do it.",
+        "summary_zh": "黄仁勋刚刚招募了六位金融界最有影响力的人物来解决威胁人工智能增长上限的一个问题，而英伟达并没有花一美元自己的钱来做这件事。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-wall-street-biggest-titans-113637036.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1786448197,
         "type": "News"
     }
 ]
