@@ -1,5 +1,35 @@
 [
     {
+        "title": "AI Weekly: Nvidia does deal with Wall Street, China's AI weather forecasts",
+        "title_zh": "AI周刊：英伟达确实与华尔街打交道，中国的AI天气预报",
+        "summary": "STORY: From Nvidia's deal with Wall Street giants...",
+        "summary_zh": "故事：来自英伟达与华尔街巨头的交易......",
+        "link": "https://finance.yahoo.com/video/ai-weekly-nvidia-does-deal-094706855.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1786614426,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Apple Seeks Deals With News Publishers to Improve Siri",
+        "title_zh": "市场热议：苹果寻求与新闻出版商达成协议以改进 Siri",
+        "summary": "Apple (AAPL) is discussing fresh arrangements with news organization to use their content to improve",
+        "summary_zh": "苹果公司（AAPL）正在与新闻机构讨论新的安排，以利用他们的内容来改进",
+        "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-seeks-deals-075311426.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1786607591,
+        "type": "News"
+    },
+    {
+        "title": "Adyen raises revenue forecast on acquisition boost, shares soar",
+        "title_zh": "Adyen 因收购增加而上调收入预测，股价飙升",
+        "summary": "Adyen raised its revenue growth forecast on Thursday, sending the shares 11% higher ‌and offering investors some relief after a year during which the ‌Dutch payments processor lost more than a third of its market value.",
+        "summary_zh": "Adyen 周四上调了收入增长预期，导致股价上涨 11%，并让投资者在这家荷兰支付处理商市值蒸发了三分之一以上的一年后松了口气。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/adyen-lifts-2026-revenue-outlook-054128944.html",
+        "publisher": "Reuters",
+        "publish_time": 1786599688,
+        "type": "News"
+    },
+    {
         "title": "Goldman Sachs Bets Again on Options ETFs With NEOS Deal",
         "title_zh": "高盛通过 NEOS 交易再次押注期权 ETF",
         "summary": "The bank will pay up to $2.25 billion for NEOS.",
@@ -10,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "The Latest Inflation Update Offers Incredible News for Social Security's 2027 COLA",
-        "title_zh": "最新的通胀更新为社会保障 2027 年可乐提供了令人难以置信的消息",
-        "summary": "The first of three puzzle pieces used to calculate Social Security's annual raise was just announced.",
-        "summary_zh": "用于计算社会保障年度加薪的三块拼图中的第一块刚刚公布。",
-        "link": "https://finance.yahoo.com/economy/policy/articles/latest-inflation-offers-incredible-news-003100570.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1786581060,
-        "type": "News"
-    },
-    {
         "title": "Apple Reportedly Negotiates Deals With Publishers For Real-Time Content To Power AI-Powered Siri",
         "title_zh": "据报道，苹果正在与出版商就实时内容进行谈判，以支持人工智能 Siri",
         "summary": "Apple is negotiating multiyear licensing deals with media companies to supply current news content to its upgraded Siri voice assistant using a pay-per-use compensation model.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-negotiates-deals-publishers-000157509.html",
         "publisher": "Stocktwits",
         "publish_time": 1786579317,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-        "title_zh": "高盛 2.25 亿美元 NEOS 交易为其现成的比特币收入 ETF 业务提供支持",
-        "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
-        "summary_zh": "这家期权收入专家的现金加股权交易纳入 NEOS 约 10 亿美元的比特币备兑看涨期权基金，使高盛在刚刚进入纸面的加密 ETF 利基市场中立即扩大规模。",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-2-25b-neos-185826212.html",
-        "publisher": "decrypt",
-        "publish_time": 1786561106,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs to Acquire NEOS Investments in Deal Worth Up to $2.25B, Expanding Options-Based ETF Lineup",
-        "title_zh": "高盛将以高达 $2.25B 的交易收购 NEOS 投资，扩大基于期权的 ETF 产品阵容",
-        "summary": "Goldman Sachs will acquire NEOS Investments in a deal worth up to $2.25 billion, adding $30 billion in options-based income ETFs and vaulting Goldman Sachs Asset Management into the ranks of top-eight active ETF issuers.",
-        "summary_zh": "高盛将以高达 22.5 亿美元的交易收购 NEOS Investments，增加 300 亿美元的基于期权的收益 ETF，并使高盛资产管理跻身前八名活跃 ETF 发行人之列。",
-        "link": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-acquire-neos-investments-183532423.html",
-        "publisher": "etf.com",
-        "publish_time": 1786559732,
         "type": "News"
     }
 ]

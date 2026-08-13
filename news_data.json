@@ -1,5 +1,25 @@
 [
     {
+        "title": "AI Weekly: Nvidia does deal with Wall Street, China's AI weather forecasts",
+        "title_zh": "AI周刊：英伟达确实与华尔街打交道，中国的AI天气预报",
+        "summary": "STORY: From Nvidia's deal with Wall Street giants...",
+        "summary_zh": "故事：来自英伟达与华尔街巨头的交易......",
+        "link": "https://finance.yahoo.com/video/ai-weekly-nvidia-does-deal-094706855.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1786614426,
+        "type": "News"
+    },
+    {
+        "title": "Adyen raises revenue forecast on acquisition boost, shares soar",
+        "title_zh": "Adyen 因收购增加而上调收入预测，股价飙升",
+        "summary": "Adyen raised its revenue growth forecast on Thursday, sending the shares 11% higher ‌and offering investors some relief after a year during which the ‌Dutch payments processor lost more than a third of its market value.",
+        "summary_zh": "Adyen 周四上调了收入增长预期，导致股价上涨 11%，并让投资者在这家荷兰支付处理商市值蒸发了三分之一以上的一年后松了口气。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/adyen-lifts-2026-revenue-outlook-054128944.html",
+        "publisher": "Reuters",
+        "publish_time": 1786599688,
+        "type": "News"
+    },
+    {
         "title": "Factbox-Large foreign investments in India's financial sector in recent months",
         "title_zh": "Factbox-近几个月印度金融业的大量外国投资",
         "summary": "By Gopika Gopakumar MUMBAI, Aug 13 (Reuters) - India's financial sector has seen several major deals since last year, including rare transactions involving foreign banks and financial institutions",
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/video/coreweave-nebius-soar-ai-spending-141200933.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1786543920,
-        "type": "News"
-    },
-    {
-        "title": "Google launches Pixel 11 smartphone line, including Pixel 11 Pro Fold, as Apple preps foldable iPhone",
-        "title_zh": "随着苹果准备可折叠 iPhone，谷歌推出 Pixel 11 智能手机系列，包括 Pixel 11 Pro Fold",
-        "summary": "Google debuted its Pixel 11 line of smartphones on Wednesday.",
-        "summary_zh": "谷歌于周三推出了 Pixel 11 系列智能手机。",
-        "link": "https://finance.yahoo.com/technology/article/google-launches-pixel-11-smartphone-line-including-pixel-11-pro-fold-as-apple-preps-foldable-iphone-140000624.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1786543200,
-        "type": "News"
-    },
-    {
-        "title": "Tech leads sectors higher in early trading as chip stocks gain: AlphaCheck",
-        "title_zh": "随着芯片股上涨，科技股在早盘交易中引领板块走高：AlphaCheck",
-        "summary": "Stocks traded higher on Wednesday after the Consumer Price Index report showed inflation moderated in July amid volatile oil price moves during the month.",
-        "summary_zh": "周三，消费者物价指数报告显示，由于油价波动，7 月份通胀有所放缓，股市周三走高。",
-        "link": "https://finance.yahoo.com/markets/article/tech-leads-sectors-higher-in-early-trading-as-chip-stocks-gain-alphacheck-134443200.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1786542283,
         "type": "News"
     }
 ]
