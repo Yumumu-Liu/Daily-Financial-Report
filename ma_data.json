@@ -1,12 +1,22 @@
 [
     {
-        "title": "Is the Reported $400 Billion AstraZeneca-Bristol Myers Squibb Megamerger a Slam Dunk -- or a Disaster Waiting to Happen?",
-        "title_zh": "据报道，阿斯利康与布里斯托尔迈尔斯施贵宝的 4000 亿美元大型合并是一次灌篮，还是一场即将发生的灾难？",
-        "summary": "There's a good reason why AstraZeneca tanked when merger rumors hit the Street.",
-        "summary_zh": "当合并传言传到华尔街时，阿斯利康的股价下跌是有充分理由的。",
-        "link": "https://finance.yahoo.com/healthcare/articles/reported-400-billion-astrazeneca-bristol-022000411.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1786674000,
+        "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+        "title_zh": "消息人士称，高盛在获得宝贵职位后正在与投资者就英伟达融资交易进行谈判",
+        "summary": "Goldman Sachs is in talks with potential investors about participating in Nvidia's $500 billion AI financing initiative, after leveraging its long-standing relationship with the chipmaker to secure a coveted role in the deal, people familiar with ‌the matter said. U.S.",
+        "summary_zh": "知情人士称，高盛正在与潜在投资者就参与英伟达 5000 亿美元的人工智能融资计划进行谈判，此前高盛利用其与芯片制造商的长期合作关系，在该交易中获得了令人垂涎的角色。我们。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html",
+        "publisher": "Reuters",
+        "publish_time": 1786680232,
+        "type": "News"
+    },
+    {
+        "title": "How Investors May Respond To Walmart (WMT) Earnings Countdown And New Exclusive Family-Focused Offerings",
+        "title_zh": "投资者如何应对沃尔玛（WMT）盈利倒计时和新的以家庭为中心的独家产品",
+        "summary": "In recent weeks, a stream of partner announcements has brought new exclusive products and wellness offerings to Walmart stores and Walmart.com, while the retailer also prepares to report its second-quarter earnings on August 20, 2026.",
+        "summary_zh": "最近几周，一系列合作伙伴公告为沃尔玛商店和 Walmart.com 带来了新的独家产品和健康产品，同时该零售商还准备于 2026 年 8 月 20 日报告第二季度收益。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-walmart-wmt-031601378.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1786677361,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-building-ai-quantum-161043534.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1786637443,
-        "type": "News"
-    },
-    {
-        "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
-        "title_zh": "AMD 将通过发债筹集高达 50 亿美元",
-        "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker’s biggest-ever investment-grade bond sale, adding to a wave of debt tied to the artificial intelligence boom.",
-        "summary_zh": "Advanced Micro Devices Inc. 计划筹集多达 50 亿美元，这可能是该芯片制造商有史以来规模最大的投资级债券发行，增加了与人工智能热潮相关的债务浪潮。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1786634056,
         "type": "News"
     }
 ]
