@@ -1,17 +1,7 @@
 [
     {
-        "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
-        "title_zh": "据《华尔街日报》报道，Nvidia 缩减了对俄亥俄州 OpenAI 数据中心的资金保证",
-        "summary": "Nvidia has revised its plans to support a proposed OpenAI data center project in ‌Ohio and is now expected to initially guarantee less ‌than $120 billion, down from the $250 billion previously discussed, the Wall Street Journal ​reported on Friday, citing people familiar with ...",
-        "summary_zh": "据《华尔街日报》周五援引知情人士的话报道，Nvidia 已修改其计划，以支持俄亥俄州拟议的 OpenAI 数据中心项目，目前预计最初的保证金额将低于 1200 亿美元，低于之前讨论的 2500 亿美元。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-scales-back-250-billion-234356524.html",
-        "publisher": "Reuters",
-        "publish_time": 1786751036,
-        "type": "News"
-    },
-    {
         "title": "Amazon reinstates binding arbitration, bars class-action lawsuits",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "亚马逊恢复具有约束力的仲裁，禁止集体诉讼",
         "summary": "By Greg Bensinger Aug 14 (Reuters) - Amazon on Friday reinstated binding arbitration for its U.S. customers while also barring them from seeking class-action lawsuits, making it more difficult for",
         "summary_zh": "路透 8 月 14 日 - 亚马逊周五恢复了对其美国客户具有约束力的仲裁，同时禁止他们寻求集体诉讼，这使得亚马逊更难",
         "link": "https://finance.yahoo.com/technology/articles/amazon-reinstates-binding-arbitration-bars-231548883.html",
@@ -81,12 +71,22 @@
     },
     {
         "title": "AI demand fuels a travel booking stock boom: How to spot AI's next under-the-radar winners",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "人工智能需求推动了旅行预订股票的繁荣：如何发现人工智能的下一个不为人知的赢家",
         "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a look at the travel sector's recent market performance, highlighting how AI demand and AI adoption are playing crucial roles.",
         "summary_zh": "雅虎财经市场和数据编辑 Jared Blikre 审视了旅游业近期的市场表现，强调了人工智能需求和人工智能采用如何发挥关键作用。",
         "link": "https://finance.yahoo.com/video/ai-demand-fuels-travel-booking-152938080.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1786721378,
+        "type": "News"
+    },
+    {
+        "title": "Stocks subdued as earnings season begins to wind down: AlphaCheck",
+        "title_zh": "随着财报季开始结束，股市下跌：AlphaCheck",
+        "summary": "Stocks got off to a quiet start a day after the S&P 500 hit a record high, while bitcoin fell.",
+        "summary_zh": "标准普尔 500 指数创下历史新高的一天后，股市开局平静，而比特币则下跌。",
+        "link": "https://finance.yahoo.com/markets/article/stocks-subdued-as-earnings-season-begins-to-wind-down-alphacheck-134418155.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1786715058,
         "type": "News"
     }
 ]
