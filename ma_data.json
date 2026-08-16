@@ -1,12 +1,32 @@
 [
     {
-        "title": "Applied Optoelectronics (AAOI) Could Be 93% Overvalued As Amazon Deal Lifts Revenue Hopes",
-        "title_zh": "亚马逊交易提升收入希望，应用光电 (AAOI) 估值可能被高估 93%",
-        "summary": "Applied Optoelectronics (AAOI) is in focus after a multi-year supply agreement with Amazon, fresh third quarter 2026 revenue guidance, and second quarter earnings that highlighted higher sales alongside continued net losses. See our latest analysis for Applied Optoelectronics.",
-        "summary_zh": "在与亚马逊签订多年供应协议、新的 2026 年第三季度收入指引以及第二季度收益（突显销售额增长和持续净亏损的同时）之后，应用光电子 (AAOI) 成为人们关注的焦点。请参阅我们对应用光电子学的最新分析。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-could-93-001604934.html",
+        "title": "Apple (AAPL) Launches Ads On Maps While Pursuing Siri AI Content Deals",
+        "title_zh": "苹果 (AAPL) 在地图上推出广告，同时寻求 Siri AI 内容交易",
+        "summary": "Apple (NasdaqGS:AAPL) has formally launched its 'Ads on Maps' platform, entering the local digital advertising market alongside Google and Meta.",
+        "summary_zh": "苹果公司（NasdaqGS：AAPL）正式推出“地图上的广告”平台，与谷歌和Meta一起进入当地数字广告市场。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-launches-ads-maps-200858734.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1786752964,
+        "publish_time": 1786824538,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "title_zh": "SpaceX 正式完成 Cursor 收购",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "summary_zh": "AI 编码初创公司 Cursor 现已正式成为 SpaceX 的一部分。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/spacex-officially-closes-cursor-acquisition-163000243.html",
+        "publisher": "TechCrunch",
+        "publish_time": 1786811400,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia’s Secret $21 Billion SpaceX Windfall — How One Chip Deal Turned Into a Rocket Fortune",
+        "title_zh": "Nvidia 秘密为 SpaceX 带来 210 亿美元意外之财——一笔芯片交易如何变成巨额财富",
+        "summary": "Nvidia cut a check for an AI startup and woke up owning a massive stake in Elon Musk's rocket empire.",
+        "summary_zh": "英伟达为一家人工智能初创公司开出了一张支票，并在埃隆·马斯克的火箭帝国中拥有大量股份。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-secret-21-billion-spacex-134148201.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1786801308,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/media-advertising/articles/jpmorgan-resets-knicks-valuation-lakers-184822278.html",
         "publisher": "GuruFocus.com",
         "publish_time": 1786733302,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs courts investors for Nvidia $500B AI financing deal",
-        "title_zh": "高盛为 Nvidia 500B 美元人工智能融资交易吸引投资者",
-        "summary": "U.S. insurers, money managers, and banks are expected to form the core investor base for the deal, which Nvidia announced earlier this week",
-        "summary_zh": "英伟达本周早些时候宣布，美国保险公司、基金管理公司和银行预计将成为此次交易的核心投资者基础",
-        "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-courts-investors-nvidia-175521279.html",
-        "publisher": "Quartz",
-        "publish_time": 1786730121,
-        "type": "News"
-    },
-    {
-        "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
-        "title_zh": "AMD 将通过发债筹集高达 50 亿美元",
-        "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker’s biggest-ever investment-grade bond sale, adding to a wave of debt tied to the artificial intelligence boom.",
-        "summary_zh": "Advanced Micro Devices Inc. 计划筹集多达 50 亿美元，这可能是该芯片制造商有史以来规模最大的投资级债券发行，增加了与人工智能热潮相关的债务浪潮。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1786634056,
         "type": "News"
     }
 ]
