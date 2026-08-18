@@ -1,5 +1,25 @@
 [
     {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数和纳斯达克期货在美伊紧张局势中扩大跌幅",
+        "summary": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
+        "summary_zh": "美国股指期货周二下跌，因美国和伊朗之间的紧张局势加剧重燃通胀担忧，油价上涨加剧压力。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1787040502,
+        "type": "News"
+    },
+    {
+        "title": "Global Bond Rout Sends Long-Term Borrowing Costs to Highest in Decades",
+        "title_zh": "全球债券溃败导致长期借贷成本升至数十年来最高水平",
+        "summary": "Longer-maturity bonds are at the epicenter of investor angst about everything from inflation to the debt-laden artificial-intelligence boom — and governments are paying the price.",
+        "summary_zh": "从通货膨胀到负债累累的人工智能繁荣，长期债券处于投资者焦虑的中心，而政府正在为此付出代价。",
+        "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-rout-sends-long-042511507.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1787027111,
+        "type": "News"
+    },
+    {
         "title": "Alphabet Kicks Off Aussie Dollar Bond Sale as AI Spending Soars",
         "title_zh": "随着人工智能支出飙升，Alphabet 启动澳元债券发售",
         "summary": "Alphabet Inc. started marketing its debut Australian debt offering as the US tech giant targets its latest multi-billion dollar fundraising, with AI spending skyrocketing.",
@@ -11,9 +31,9 @@
     },
     {
         "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "随着油价上涨，华尔街指数下滑，等待零售业绩",
         "summary": "VIDEO SHOWS: n/aSTORY: U.S.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "视频节目：n/aSTORY：美国",
         "link": "https://finance.yahoo.com/video/wall-street-indexes-slip-oil-221542467.html",
         "publisher": "Reuters Videos",
         "publish_time": 1787004942,
@@ -51,7 +71,7 @@
     },
     {
         "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "特朗普行政。敦促苹果不要购买中国存储芯片，但这提出了一个问题",
         "summary": "US Secretary of Commerce Howard Lutnick says the Trump administration does not want Apple (AAPL) to purchase memory chips from China. Yahoo Finance Technology Editor Dan Howley explains why this presents issues for Apple.",
         "summary_zh": "美国商务部长霍华德·卢特尼克表示，特朗普政府不希望苹果公司（AAPL）从中国购买存储芯片。雅虎财经技术编辑 Dan Howley 解释了为什么这会给苹果带来问题。",
         "link": "https://finance.yahoo.com/video/trump-admin-urges-apple-not-203543932.html",
@@ -67,26 +87,6 @@
         "link": "https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1786981786,
-        "type": "News"
-    },
-    {
-        "title": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
-        "title_zh": "《华尔街日报》报道称，3T 美元的人工智能支出承诺未计入资产负债表：完整细目",
-        "summary": "Morning Brief host Julie Hyman breaks down what you need to know about the Wall Street Journal's report on Big Tech's off-balance sheet AI spending.",
-        "summary_zh": "《早间简报》主持人朱莉·海曼（Julie Hyman）详细介绍了《华尔街日报》关于大型科技公司资产负债表外人工智能支出的报告中您需要了解的内容。",
-        "link": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1786977901,
-        "type": "News"
-    },
-    {
-        "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
-        "title_zh": "随着股市开盘摇摇欲坠，科技股寻求上涨：AlphaCheck",
-        "summary": "Stocks got off to a quiet start a day after the S&P 500 hit a record high, while bitcoin fell.",
-        "summary_zh": "标准普尔 500 指数创下历史新高的一天后，股市开局平静，而比特币则下跌。",
-        "link": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1786974715,
         "type": "News"
     }
 ]
