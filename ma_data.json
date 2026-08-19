@@ -21,7 +21,7 @@
     },
     {
         "title": "KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "KKR 出价 90 亿美元收购天然气和电力分销商",
         "summary": "Natural-gas and electricity distributor  UGI  recently received a roughly $9 billion takeover offer from  KKR  according to people familiar with the matter. The private-equity firm offered to buy UGI for $42.50 a share, the people said.",
         "summary_zh": "据知情人士透露，天然气和电力分销商 UGI 最近收到 KKR 约 90 亿美元的收购要约。知情人士称，这家私募股权公司提出以每股 42.50 美元的价格收购 UGI。",
         "link": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760?siteid=yhoof2&yptr=yahoo",
@@ -30,23 +30,23 @@
         "type": "News"
     },
     {
-        "title": "Goldman Sachs Bulks Up Asset Management Business With LCN Deal",
-        "title_zh": "高盛通过 LCN 交易扩大资产管理业务",
-        "summary": "Goldman Sachs&nbsp;struck its second deal in a week as the firm pushes ahead with plans to grow its $4 trillion money-management arm.",
-        "summary_zh": "高盛 (Goldman Sachs) 达成了一周内的第二笔交易，该公司正在推进扩大其 4 万亿美元资金管理部门的计划。",
-        "link": "https://finance.yahoo.com/video/goldman-sachs-bulks-asset-management-142802439.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787063282,
+        "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+        "title_zh": "Nvidia 5000 亿美元的华尔街交易预示着人工智能的繁荣",
+        "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on e...",
+        "summary_zh": "英伟达和全球六家最大的投资公司上周宣布计划将超过 5000 亿美元（4330 亿欧元）投入人工智能基础设施，这一安排旨在让科技公司在不将成本计入自己的资产负债表的情况下建设数据中心。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
+        "publisher": "Euronews",
+        "publish_time": 1786946719,
         "type": "News"
     },
     {
-        "title": "Goldman Sachs Agrees Deal to Buy LCN Capital Partners for Up to $410 Million",
-        "title_zh": "高盛同意以高达 4.1 亿美元收购 LCN Capital Partners",
-        "summary": "Goldman Sachs Group Inc (NYSE:GS) has agreed to acquire real estate investment manager LCN Capital Partners in a transaction potentially worth as much as $410 million, expanding its capabilities in sale-leaseback, build-to-suit and triple net lease investments.",
-        "summary_zh": "高盛集团 (NYSE:GS) 已同意收购房地产投资管理公司 LCN Capital Partners，交易价值可能高达 4.1 亿美元，从而扩大其在售后回租、定制建造和三重净租赁投资方面的能力。",
-        "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-agrees-deal-buy-134338291.html",
-        "publisher": "InvestorsHub",
-        "publish_time": 1787060618,
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     }
 ]
