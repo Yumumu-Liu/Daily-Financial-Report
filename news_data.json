@@ -1,5 +1,25 @@
 [
     {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady after Treasury's bond intervention buoys markets",
+        "title_zh": "今日股市：美国财政部债券干预提振市场后，道指、标准普尔 500 指数、纳斯达克期货稳定",
+        "summary": "Markets continued to assess the implications of the Treasury's bond buyback plans, Trump's economic warfare plans, and the national debt above $40 trillion.",
+        "summary_zh": "市场继续评估财政部债券回购计划、特朗普经济战计划以及超过40万亿美元的国债的影响。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1787213499,
+        "type": "News"
+    },
+    {
+        "title": "Australia passes law to levy tech giants that fail to pay for local news",
+        "title_zh": "澳大利亚通过法律对未能支付当地新闻费用的科技巨头征税",
+        "summary": "Australia passed legislation on Thursday that will force tech giants to pay millions of dollars in ‌levies if they fail to strike commercial deals with local ‌media outlets for news on their platforms.",
+        "summary_zh": "澳大利亚周四通过立法，如果科技巨头未能与当地媒体就其平台上的新闻达成商业协议，将迫使科技巨头缴纳数百万美元的税款。",
+        "link": "https://finance.yahoo.com/media-advertising/articles/australia-passes-law-levy-tech-075457253.html",
+        "publisher": "Reuters",
+        "publish_time": 1787212497,
+        "type": "News"
+    },
+    {
         "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
         "title_zh": "随着收益率下降，华尔街上涨，Moderna 提振医疗保健股",
         "summary": "VIDEO SHOWS: n/aSTORY: Wall Street's main indexes closed modestly higher on Wednesday, with the Dow, S&P 500 and the Nasdaq all adding less than a quarter of a percent.Risk appetite got a boost from easing government bond yields.",
@@ -27,16 +47,6 @@
         "link": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1787154732,
-        "type": "News"
-    },
-    {
-        "title": "Active ETFs enable more 'tactical' market moves for clients",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "In the latest installment of Yahoo Finance's ETF Report, Capital Group head of product group Holly Framsted sits down with Julie Hyman to discuss the benefits of actively-managed funds — a growing trend as ETFs have traditionally been passively managed — for investment clients.",
-        "summary_zh": "在雅虎财经最新一期的 ETF 报告中，Capital Group 产品组负责人 Holly Framsted 与 Julie Hyman 坐下来讨论了主动管理基金对投资客户的好处——传统上被动管理 ETF 的趋势日益明显。",
-        "link": "https://finance.yahoo.com/video/active-etfs-enable-more-tactical-144700650.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1787150820,
         "type": "News"
     },
     {
@@ -70,23 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Wall Street's hot streak is running into a midterm-year curse: Chart of the Day",
-        "title_zh": "华尔街的火热势头正遭遇中期诅咒：每日图表",
-        "summary": "The calendar is now pushing back against the 2026 stock market rally.",
-        "summary_zh": "日历现在正在推迟 2026 年股市的反弹。",
-        "link": "https://finance.yahoo.com/markets/article/wall-streets-hot-streak-is-running-into-a-midterm-year-curse-chart-of-the-day-100000963.html",
-        "publisher": "Yahoo Finance",
+        "title": "Forget the Mag 7: The phase 2 AI trade is here",
+        "title_zh": "忘记 Mag 7：第二阶段人工智能交易已经到来",
+        "summary": "Host Kenny Polcari joins Academy Securities' Peter Tchir and Wall Street Alliance Group's Aadil Zaman to break down the shift toward production for security, how to hedge geopolitical risks using the energy sector, and why the real AI money is moving into phase 2 industrial be...",
+        "summary_zh": "主持人 Kenny Polcari 与 Academy Securities 的 Peter Tchir 和华尔街联盟集团的 Aadil Zaman 一起探讨了向安全生产的转变、如何利用能源部门对冲地缘政治风险，以及为什么真正的人工智能资金正在进入第二阶段工业领域。",
+        "link": "https://finance.yahoo.com/video/forget-mag-7-phase-2-100000233.html",
+        "publisher": "Yahoo Finance Video",
         "publish_time": 1787133600,
-        "type": "News"
-    },
-    {
-        "title": "Meta social media addiction trial kicks off with major implications for company's future",
-        "title_zh": "元社交媒体成瘾试验开始对公司的未来产生重大影响",
-        "summary": "Meta is in court again, as it faces another social media addiction suit.",
-        "summary_zh": "Meta 再次出庭，面临另一起社交媒体成瘾诉讼。",
-        "link": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1787090098,
         "type": "News"
     }
 ]

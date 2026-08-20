@@ -1,5 +1,35 @@
 [
     {
+        "title": "Marvell Lands ‘White Whale’ Google, Raises Stakes Ahead Of Q2 Report: Analyst Says TPU Deal ‘Greatly Expands’ MRVL’s Long-Term AI Opportunity",
+        "title_zh": "Marvell 收购“白鲸”谷歌，在第二季度报告发布前增持股份：分析师称 TPU 交易“极大扩展”了 MRVL 的长期人工智能机会",
+        "summary": "Morningstar said the long-term opportunity far outweighs share-dilution concerns.",
+        "summary_zh": "晨星表示，长期机遇远远超过了股票稀释的担忧。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/marvell-lands-white-whale-google-072339694.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1787210619,
+        "type": "News"
+    },
+    {
+        "title": "Preferreds Offer 6.5% Yields or More After Bond Market Selloff",
+        "title_zh": "债券市场抛售后优先股收益率达 6.5% 或更高",
+        "summary": "Credit quality is strong in part because banks, the largest issuers, have rarely been in better shape over the past few decades.",
+        "summary_zh": "信贷质量之所以强劲，部分原因在于作为最大发行人的银行在过去几十年里的状况很少见。",
+        "link": "https://www.barrons.com/articles/preferred-stocks-yield-bond-market-selloff-7fb7f0c5?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1787207400,
+        "type": "News"
+    },
+    {
+        "title": "Nebius Increases Debt Raise Plan To $5B: Neocloud Operator Reportedly Bids For Decart AI Buyout Eyed by Anthropic",
+        "title_zh": "Nebius 将债务筹集计划提高至 50 亿美元：据报道 Neocloud 运营商竞标 Anthropic 关注的 Decart AI 收购",
+        "summary": "Nebius just announced its third major debt issue in a year to support its massive AI infrastructure expansion.",
+        "summary_zh": "Nebius 刚刚宣布了一年内的第三次重大债务发行，以支持其大规模的人工智能基础设施扩张。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nebius-increases-debt-raise-plan-054726339.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1787204846,
+        "type": "News"
+    },
+    {
         "title": "Stock Market Today, Aug. 19: Nebius Falls 10% on $4.5 Billion Convertible Note Offering",
         "title_zh": "今日股市，8 月 19 日：Nebius 发行 45 亿美元可转换票据，股价下跌 10%",
         "summary": "On Aug. 19, 2026, the AI cloud provider announced a massive debt-to-equity conversion plan, triggering dilution concerns and heavy selling pressure.",
@@ -17,36 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-madden-ai-persona-221754847.html",
         "publisher": "CorpGov.com",
         "publish_time": 1787177874,
-        "type": "News"
-    },
-    {
-        "title": "Marvell Technology Shares Jump on AI Chip Deal With Google",
-        "title_zh": "Marvell Technology 股价因与谷歌达成人工智能芯片交易而上涨",
-        "summary": "Marvell Technology (MRVL) shares jumped Wednesday after the chip designer entered into a deal that w",
-        "summary_zh": "Marvell Technology (MRVL) 股价周三上涨，此前这家芯片设计公司达成了一项协议，",
-        "link": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-shares-jump-ai-185544352.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1787165744,
-        "type": "News"
-    },
-    {
-        "title": "Goldman's LCN Deal Extends Its Push to Scale AWM & Durable Revenues",
-        "title_zh": "高盛的 LCN 交易进一步推动扩大 AWM 和持久收入",
-        "summary": "GS's LCN deal expands its AWM platform into private real estate, supporting recurring fees and a more capital-light revenue mix.",
-        "summary_zh": "GS 的 LCN 交易将其 AWM 平台扩展到私人房地产领域，支持经常性费用和更轻资本的收入组合。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldmans-lcn-deal-extends-push-143700238.html",
-        "publisher": "Zacks",
-        "publish_time": 1787150220,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs enters $410m deal to buy LCN Capital Partners",
-        "title_zh": "高盛以 4.1 亿美元收购 LCN Capital Partners",
-        "summary": "As of 30 June 2026, LCN supervised about $3bn in assets, with most of its capital coming from institutions, insurers and HNWIs.",
-        "summary_zh": "截至2026年6月30日，LCN监管的资产约为30亿美元，其中大部分资本来自机构、保险公司和富裕人士。",
-        "link": "https://finance.yahoo.com/real-estate/articles/goldman-sachs-enters-410m-deal-114719577.html",
-        "publisher": "Private Banker International",
-        "publish_time": 1787140039,
         "type": "News"
     }
 ]
