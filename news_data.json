@@ -1,72 +1,82 @@
 [
     {
-        "title": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
-        "title_zh": "Alphabet 首次发行澳元债券筹集 39 亿美元",
-        "summary": "Alphabet has raised A$5.5 billion ($3.89 billion) via ‌its inaugural Australian dollar debt issuance, ‌according to a term sheet seen by Reuters, ​adding to the hectic pace of fundraising by global tech companies. The U.S.",
-        "summary_zh": "根据路透社看到的条款清单，Alphabet 通过首次发行澳元债券筹集了 55 亿澳元（约合 38.9 亿美元），这加剧了全球科技公司融资的紧张步伐。美国",
-        "link": "https://finance.yahoo.com/technology/articles/alphabet-raises-3-9-billion-084802381.html",
-        "publisher": "Reuters",
-        "publish_time": 1787129282,
+        "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
+        "title_zh": "随着收益率下降，华尔街上涨，Moderna 提振医疗保健股",
+        "summary": "VIDEO SHOWS: n/aSTORY: Wall Street's main indexes closed modestly higher on Wednesday, with the Dow, S&P 500 and the Nasdaq all adding less than a quarter of a percent.Risk appetite got a boost from easing government bond yields.",
+        "summary_zh": "视频显示：无故事：周三华尔街主要股指小幅收高，道琼斯指数、标准普尔 500 指数和纳斯达克指数均上涨不到 25%。政府债券收益率的放松提振了风险偏好。",
+        "link": "https://finance.yahoo.com/video/wall-st-rises-yields-ease-222102525.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1787178062,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada",
-        "title_zh": "今日股市：特朗普暂停对加拿大征收关税后，道琼斯指数、标准普尔 500 指数和纳斯达克期货停滞不前",
-        "summary": "Stocks continued to be under pressure after the S&P 500 fell for three days in a row.",
-        "summary_zh": "标准普尔 500 指数连续三天下跌后，股市继续承压。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
+        "title": "Amazon Prime Air maybe coming to a city near you",
+        "title_zh": "Amazon Prime Air 可能会来到您附近的城市",
+        "summary": "Amazon (AMZN) is taking Prime Air to the next level. The tech and retail giant plans to expand its drone delivery service to nearly 500 U.S. cities and towns by the end of 2026, roughly a sixfold increase over its current footprint.",
+        "summary_zh": "亚马逊 (AMZN) 正在将 Prime Air 提升到一个新的水平。这家科技和零售巨头计划到 2026 年底将其无人机送货服务扩展到近 500 个美国城镇，比目前的覆盖范围大约增加六倍。",
+        "link": "https://finance.yahoo.com/video/amazon-prime-air-maybe-coming-200757375.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787170077,
+        "type": "News"
+    },
+    {
+        "title": "If Walmart doesn't raise its outlook, the stock will fall: CFRA Research",
+        "title_zh": "CFRA Research：如果沃尔玛不提高前景，该股将会下跌",
+        "summary": "Walmart (WMT) reports second quarter earnings on Thursday before the opening bell. CFRA Research senior vice president of equity research Arun Sundaram shares his expectations for the earnings print.",
+        "summary_zh": "沃尔玛（WMT）将于周四开盘前报告第二季度收益。 CFRA Research 股票研究高级副总裁 Arun Sundaram 分享了他对财报的预期。",
+        "link": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787154732,
+        "type": "News"
+    },
+    {
+        "title": "Active ETFs enable more 'tactical' market moves for clients",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "In the latest installment of Yahoo Finance's ETF Report, Capital Group head of product group Holly Framsted sits down with Julie Hyman to discuss the benefits of actively-managed funds — a growing trend as ETFs have traditionally been passively managed — for investment clients.",
+        "summary_zh": "在雅虎财经最新一期的 ETF 报告中，Capital Group 产品组负责人 Holly Framsted 与 Julie Hyman 坐下来讨论了主动管理基金对投资客户的好处——传统上被动管理 ETF 的趋势日益明显。",
+        "link": "https://finance.yahoo.com/video/active-etfs-enable-more-tactical-144700650.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787150820,
+        "type": "News"
+    },
+    {
+        "title": "Is Nvidia stock too cheap right now?",
+        "title_zh": "英伟达的股票现在太便宜了吗？",
+        "summary": "Nvidia (NVDA) reports earnings next week, on August 26th. Ahead of the print, Bank of America (BAC) says the AI chip giant could be significantly undervalued relative to its peers.",
+        "summary_zh": "英伟达 (NVDA) 将于下周 8 月 26 日公布财报。在印刷之前，美国银行（BAC）表示，相对于同行，这家人工智能芯片巨头的估值可能被严重低估。",
+        "link": "https://finance.yahoo.com/video/nvidia-stock-too-cheap-now-144036744.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787150436,
+        "type": "News"
+    },
+    {
+        "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+        "title_zh": "科技股抛售恢复，抵消了债券收益率的下降：AlphaCheck",
+        "summary": "Tech stocks faced renewed selling pressure, while healthcare, basic materials, and consumer discretionary stocks rose.",
+        "summary_zh": "科技股面临新的抛售压力，而医疗保健、基本材料和非必需消费品股票则上涨。",
+        "link": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1787127076,
+        "publish_time": 1787148886,
         "type": "News"
     },
     {
-        "title": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
-        "title_zh": "优树上海首发，中国仿人机器人领域里程碑",
-        "summary": "By Samuel Shen and Eduardo Baptista SHANGHAI/BEIJING, Aug 19 (Reuters) - Shares in Unitree, China's best-known humanoid robot maker, soared nearly six-fold in its Shanghai trading debut, in a landmark",
-        "summary_zh": "作者：Samuel Shen 和 Eduardo Baptista 上海/北京，8 月 19 日（路透社）——中国最著名的人形机器人制造商 Unitree 的股价在上海交易首日飙升近六倍，具有里程碑意义",
-        "link": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
-        "publisher": "Reuters",
-        "publish_time": 1787123335,
+        "title": "There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson",
+        "title_zh": "债券溃败之际，科技股迎来了“隧道尽头的曙光”：埃里克·杰克逊",
+        "summary": "As bond yields (^TYX, ^TNX, ^FVX) continue to surge ahead, EMJ Capital founder and president Eric Jackson and Yahoo Finance Markets and Data Editor Jared Blikre outline the impact this is having on Big Tech stocks and AI hyperscalers.",
+        "summary_zh": "随着债券收益率（^TYX、^TNX、^FVX）继续飙升，EMJ Capital 创始人兼总裁 Eric Jackson 和雅虎金融市场和数据编辑 Jared Blikre 概述了这对大型科技股和人工智能超大规模企业的影响。",
+        "link": "https://finance.yahoo.com/video/theres-light-end-tunnel-tech-140846636.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787148526,
         "type": "News"
     },
     {
-        "title": "Alphabet Set to Sell Long Aussie Bond at Record Near 7% Cost",
-        "title_zh": "Alphabet 将以接近 7% 的创纪录成本出售多头澳元债券",
-        "summary": "Alphabet Inc.",
-        "summary_zh": "字母表公司",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-set-sell-long-aussie-035631177.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787111791,
-        "type": "News"
-    },
-    {
-        "title": "Unitree surges in Shanghai debut, a milestone for China's humanoid robotics sector",
-        "title_zh": "优树上海首秀大放异彩，成为中国仿人机器人领域的里程碑",
-        "summary": "Shares in Unitree, China's best-known humanoid robot maker, soared more than five-fold in their Shanghai trading debut, in a landmark moment for the country's robotics sector which has become a key battleground in the Sino-U.S. tech war.",
-        "summary_zh": "中国最著名的人形机器人制造商优树科技的股价在上海上市首日飙升五倍多，这对于已成为中美科技战关键战场的中国机器人行业来说是一个具有里程碑意义的时刻。",
-        "link": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-012731295.html",
-        "publisher": "Reuters",
-        "publish_time": 1787102851,
-        "type": "News"
-    },
-    {
-        "title": "Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia",
-        "title_zh": "Cerebras 表示，最新产品是“业界最快的人工智能加速器”，目标是英伟达",
-        "summary": "Cerebras debuts a new rackscale system it says is the fastest AI accelerator in the industry.",
-        "summary_zh": "Cerebras 推出了一种新的机架规模系统，据称这是业内最快的人工智能加速器。",
-        "link": "https://finance.yahoo.com/technology/article/cerebras-says-latest-offering-is-fastest-ai-accelerator-in-the-industry-as-it-takes-aim-at-nvidia-000000090.html",
+        "title": "Wall Street's hot streak is running into a midterm-year curse: Chart of the Day",
+        "title_zh": "华尔街的火热势头正遭遇中期诅咒：每日图表",
+        "summary": "The calendar is now pushing back against the 2026 stock market rally.",
+        "summary_zh": "日历现在正在推迟 2026 年股市的反弹。",
+        "link": "https://finance.yahoo.com/markets/article/wall-streets-hot-streak-is-running-into-a-midterm-year-curse-chart-of-the-day-100000963.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1787097600,
-        "type": "News"
-    },
-    {
-        "title": "Meta rejects claims it sought to hook children to Facebook, Instagram as landmark trial begins",
-        "title_zh": "随着具有里程碑意义的试验开始，Meta 否认其试图让儿童使用 Facebook 和 Instagram 的说法",
-        "summary": "By Diana Novak Jones and Jonathan Stempel Aug 18 (Reuters) - Meta Platforms rejected accusations by U.S. states that it intentionally sought to addict children to its Facebook and Instagram platforms",
-        "summary_zh": "作者：戴安娜·诺瓦克·琼斯 (Diana Novak Jones) 和乔纳森·斯坦普尔 (Jonathan Stempel) 8 月 18 日（路透社） - Meta Platforms 驳回了美国各州对其故意试图让儿童沉迷于其 Facebook 和 Instagram 平...",
-        "link": "https://finance.yahoo.com/media-advertising/articles/meta-faces-29-state-trial-100301142.html",
-        "publisher": "Reuters",
-        "publish_time": 1787094926,
+        "publish_time": 1787133600,
         "type": "News"
     },
     {
@@ -77,16 +87,6 @@
         "link": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1787090098,
-        "type": "News"
-    },
-    {
-        "title": "OpenAI releases new ChatGPT for Teens with parental controls, guardrails",
-        "title_zh": "OpenAI 为青少年发布了新的 ChatGPT，具有家长控制、护栏",
-        "summary": "OpenAI (OPAI.PVT) released a new version of ChatGPT with updated parental controls and safety guardrails for teenage users. Yahoo Finance Tech Editor Dan Howley outlines the growing safety concerns around AI and the features of this new AI model.",
-        "summary_zh": "OpenAI (OPAI.PVT) 发布了新版本的 ChatGPT，为青少年用户提供了更新的家长控制和安全护栏。雅虎财经技术编辑丹·豪利 (Dan Howley) 概述了围绕人工智能日益增长的安全问题以及这种新人工智能模型的功能。",
-        "link": "https://finance.yahoo.com/video/openai-releases-chatgpt-teens-parental-195520710.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1787082920,
         "type": "News"
     }
 ]
