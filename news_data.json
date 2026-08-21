@@ -1,12 +1,12 @@
 [
     {
-        "title": "Wall Street sinks as bond yields rise, Walmart results disappoint",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "STORY: Wall Street's main indexes closed lower on Thursday, with the Dow tumbling about one-and-a-third percent, the S&P 500 falling just under one percent and the Nasdaq shedding one percent.Rising Treasury yields dented risk appetite, explains Chatham Financial Chairman Amol...",
-        "summary_zh": "故事：华尔街主要股指周四收低，道指下跌约三分之一，标准普尔 500 指数跌幅略低于百分之一，纳斯达克指数下跌百分之一。查塔姆金融公司主席阿莫尔解释说，国债收益率上升削弱了风险偏好……",
-        "link": "https://finance.yahoo.com/video/wall-street-sinks-bond-yields-221146360.html",
-        "publisher": "Reuters Videos",
-        "publish_time": 1787263906,
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting",
+        "title_zh": "今日股市：尽管国债收益率压力持续存在，道指、标准普尔 500 指数和纳斯达克期货走高",
+        "summary": "Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.",
+        "summary_zh": "本周债券抛售给科技和人工智能股带来压力后，股市每周都会下跌。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1787299533,
         "type": "News"
     },
     {
@@ -30,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-        "title_zh": "博通在最新的人工智能债务交易中寻求超过 600 亿美元的资金",
-        "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-        "summary_zh": "据知情人士透露，博通公司 (Broadcom Inc.) 正在与一组贷方进行谈判，为一项 AI 芯片融资交易筹集超过 600 亿美元的债务，这将使 Anthropic PBC 和其他公司受益。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787257022,
-        "type": "News"
-    },
-    {
         "title": "Waymo is making its own AI chip for its robotaxi service",
         "title_zh": "Waymo 正在为其机器人出租车服务制造自己的人工智能芯片",
         "summary": "Autonomous rideshare operator — which is owned by Alphabet (GOOG, GOOGL) — has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
@@ -60,20 +50,20 @@
         "type": "News"
     },
     {
-        "title": "Earnings live updates: Advance Auto Parts stock drops 24% as 'constrained' customer spending weighs on sales growth",
-        "title_zh": "收益实时更新：Advance Auto Parts 股票下跌 24%，因“受限”客户支出拖累销售增长",
-        "summary": "Retail earnings are set to offer a check of consumer health this week as the second quarter earnings season winds down.",
-        "summary_zh": "随着第二季度财报季的结束，零售收益本周将检验消费者的健康状况。",
-        "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-advance-auto-parts-stock-drops-24-as-constrained-customer-spending-weighs-on-sales-growth-115925351.html",
+        "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+        "title_zh": "随着债券收益率和油价上涨，股市下跌，沃尔玛盈利拖累零售业：AlphaCheck",
+        "summary": "Stocks got off to an unsteady start to trading as Treasury yields regained some of their losses from the day before.",
+        "summary_zh": "随着美国国债收益率收复前一天的部分跌幅，股市开局不稳定。",
+        "link": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1787054365,
+        "publish_time": 1787234502,
         "type": "News"
     },
     {
         "title": "Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade",
-        "title_zh": "今日科技股：Anthropic IPO计划成为焦点，英伟达财报为人工智能交易提供下一个考验",
+        "title_zh": "今日科技股：Anthropic IPO计划成为焦点，英伟达财报为人工智能行业提供下一个考验",
         "summary": "Tech stock coverage for the week of Aug. 17.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "8 月 17 日当周的科技股报道。",
         "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-ipo-plans-come-into-focus-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1786973385,

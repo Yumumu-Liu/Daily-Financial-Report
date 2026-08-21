@@ -1,12 +1,12 @@
 [
     {
-        "title": "NVIDIA Corporation (NVDA)’s Space Exploration Technologies (SPCX) Stake Traces Back to a Wild $1.25 Trillion Deal. Here’s How It Happened",
-        "title_zh": "NVIDIA 公司 (NVDA) 的太空探索技术 (SPCX) 股权可追溯至 1.25 万亿美元的疯狂交易。事情是这样发生的",
-        "summary": "On August 14, 2026, NVIDIA Corporation (NASDAQ:NVDA) disclosed that its Space Exploration Technologies Corp. (NASDAQ:SPCX) stake was worth about $21 billion at the end of the second quarter.",
-        "summary_zh": "2026 年 8 月 14 日，NVIDIA 公司（纳斯达克股票代码：NVDA）披露，截至第二季度末，其持有的 Space Exploration Technologies Corp.（纳斯达克股票代码：SPCX）股份价值约 210 亿美元。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-space-exploration-005825605.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1787273905,
+        "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
+        "title_zh": "英伟达正在与芯片初创公司 Rebellions 就潜在交易进行谈判",
+        "summary": "Nvidia Corp. is in early discussions with the Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment or perhaps even an acquisition, according to people familiar with the matter.",
+        "summary_zh": "据知情人士透露，英伟达公司正在与韩国人工智能芯片设计公司 Rebellions 就可能的合作进行早期讨论，包括技术合作、投资甚至收购。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-chip-startup-rebellions-074543725.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1787298343,
         "type": "News"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "博通在最新的人工智能债务交易中寻求超过 600 亿美元的资金",
         "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
         "summary_zh": "据知情人士透露，博通公司 (Broadcom Inc.) 正在与一组贷方进行谈判，为一项 AI 芯片融资交易筹集超过 600 亿美元的债务，这将使 Anthropic PBC 和其他公司受益。",
         "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
@@ -30,23 +30,23 @@
         "type": "News"
     },
     {
-        "title": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
-        "title_zh": "CoreWeave 与 Hudson River Trading 签署多年期人工智能协议",
-        "summary": "HRT becomes one of the first customers with wide-scale access to Nvidia's Vera Rubin chips",
-        "summary_zh": "HRT 成为首批大规模使用 Nvidia Vera Rubin 芯片的客户之一",
-        "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1787250653,
-        "type": "News"
-    },
-    {
         "title": "Stock Market Today, Aug. 19: Nebius Falls 10% on $4.5 Billion Convertible Note Offering",
-        "title_zh": "8 月 19 日今日股市：Nebius 发行 45 亿美元可转换票据，股价下跌 10%",
+        "title_zh": "今日股市，8 月 19 日：Nebius 发行 45 亿美元可转换票据，股价下跌 10%",
         "summary": "On Aug. 19, 2026, the AI cloud provider announced a massive debt-to-equity conversion plan, triggering dilution concerns and heavy selling pressure.",
         "summary_zh": "2026年8月19日，这家人工智能云提供商宣布了大规模债转股计划，引发稀释担忧和沉重的抛售压力。",
         "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-221801080.html",
         "publisher": "Motley Fool",
         "publish_time": 1787177881,
+        "type": "News"
+    },
+    {
+        "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+        "title_zh": "Nvidia 5000 亿美元的华尔街交易预示着人工智能的繁荣",
+        "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on e...",
+        "summary_zh": "英伟达和全球六家最大的投资公司上周宣布计划将超过 5000 亿美元（4330 亿欧元）投入人工智能基础设施，这一安排旨在让科技公司在不将成本计入自己的资产负债表的情况下建设数据中心。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
+        "publisher": "Euronews",
+        "publish_time": 1786946719,
         "type": "News"
     }
 ]
