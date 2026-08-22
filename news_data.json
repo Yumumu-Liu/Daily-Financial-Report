@@ -1,70 +1,70 @@
 [
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting",
-        "title_zh": "今日股市：尽管国债收益率压力持续存在，道指、标准普尔 500 指数和纳斯达克期货走高",
-        "summary": "Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.",
-        "summary_zh": "本周债券抛售给科技和人工智能股带来压力后，股市每周都会下跌。",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+        "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+        "title_zh": "华尔街当日上涨，但当周下跌；债券收益率和伊朗成为焦点",
+        "summary": "STORY: U.S.",
+        "summary_zh": "故事：美国",
+        "link": "https://finance.yahoo.com/video/wall-st-rises-day-falls-225040290.html",
+        "publisher": "Reuters Videos",
+        "publish_time": 1787352640,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
+        "title_zh": "英伟达的财报将于下周公布。这三个主题将是至关重要的。",
+        "summary": "Nvidia (NVDA) is set to report second quarter earnings results on Wednesday, Aug. 26, after markets close. Yahoo Finance Technology Editor Dan Howley discusses his expectations for the earnings print, highlighting what investors will be keeping an eye on.",
+        "summary_zh": "英伟达 (NVDA) 将于 8 月 26 日星期三收盘后公布第二季度盈利结果。雅虎财经科技编辑丹·豪利 (Dan Howley) 讨论了他对财报的预期，强调了投资者将关注的内容。",
+        "link": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787342571,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic's IPO could come sooner than you think — likely beating OpenAI to the punch",
+        "title_zh": "Anthropic 的 IPO 可能会比你想象的更早——可能会抢先一步 OpenAI",
+        "summary": "Anthropic's (ANTH.PVT) IPO paperwork could be filed as soon as this month, potentially beating OpenAI (OPAI.PVT) to the punch.  Yahoo Finance Technology Editor Dan Howley outlines what we know so far.",
+        "summary_zh": "Anthropic (ANTH.PVT) 的 IPO 文件最早可能于本月提交，这可能会抢先 OpenAI (OPAI.PVT)。  雅虎财经技术编辑丹·豪利 (Dan Howley) 概述了我们迄今为止所了解的情况。",
+        "link": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787341870,
+        "type": "News"
+    },
+    {
+        "title": "Tim Cook built Apple’s $32M-an-hour growth machine: Can John Ternus keep it going?",
+        "title_zh": "蒂姆·库克 (Tim Cook) 打造了苹果每小时 3200 万美元的增长机器：约翰·特努斯 (John Ternus) 能否让它继续运转？",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi and Tech Editor Dan Howley look back at Tim Cook’s tenure as Apple (AAPL) CEO, a period that saw the company generate roughly $32 million in growth per hour.",
+        "summary_zh": "雅虎财经执行主编布莱恩·索齐 (Brian Sozzi) 和技术编辑丹·豪利 (Dan Howley) 回顾了蒂姆·库克 (Tim Cook) 作为苹果 (AAPL) 首席执行官的任期，在此期间，该公司每小时实现约 3200 万美元的增长。",
+        "link": "https://finance.yahoo.com/video/tim-cook-built-apple-32m-155300126.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1787327580,
+        "type": "News"
+    },
+    {
+        "title": "Here's what Nvidia needs to do to unlock an even better stock valuation",
+        "title_zh": "为了获得更好的股票估值，英伟达需要采取以下措施",
+        "summary": "Nvidia investors want something new.",
+        "summary_zh": "英伟达投资者想要一些新东西。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/heres-what-nvidia-needs-to-do-to-unlock-an-even-better-stock-valuation-120651570.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1787314011,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克指数周线下跌，债券波动仍是焦点，比特币飙升",
+        "summary": "Stocks posted weekly losses after a bond sell-off this week put pressure on tech and AI stocks.",
+        "summary_zh": "本周债券抛售给科技和人工智能股带来压力后，股市每周下跌。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1787299533,
         "type": "News"
     },
     {
-        "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-        "title_zh": "ChatGPT 现在可以控制 iMessage，可能会引发 Apple 隐私问题",
-        "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
-        "summary_zh": "OpenAI 周四推出了通过 ChatGPT 控制苹果公司 iMessage 服务的支持，此举可能会引发这家 iPhone 制造商的隐私担忧。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787259393,
-        "type": "News"
-    },
-    {
-        "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
-        "title_zh": "据彭博社报道，博通在最新的人工智能债务交易中寻求超过 600 亿美元的资金",
-        "summary": "Broadcom is in talks with a group of lenders to raise more than $60 billion in debt for an AI ‌chip financing deal that will benefit Anthropic and other companies, ‌Bloomberg News reported on Thursday, citing people familiar with the matter.",
-        "summary_zh": "彭博新闻周四援引知情人士的话报道称，博通正在与一组贷方进行谈判，为一项人工智能芯片融资协议筹集超过 600 亿美元的债务，这将使 Anthropic 和其他公司受益。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
-        "publisher": "Reuters",
-        "publish_time": 1787258298,
-        "type": "News"
-    },
-    {
-        "title": "Waymo is making its own AI chip for its robotaxi service",
-        "title_zh": "Waymo 正在为其机器人出租车服务制造自己的人工智能芯片",
-        "summary": "Autonomous rideshare operator — which is owned by Alphabet (GOOG, GOOGL) — has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
-        "summary_zh": "据彭博社报道，Alphabet（GOOG、GOOGL）旗下的自动拼车运营商已开始构建自己的人工智能芯片，以更好地优化传感器数据。雅虎财经技术编辑丹·豪利 (Dan Howley) 探讨了 Waymo 将更多技术引入内部的举措。",
-        "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1787254998,
-        "type": "News"
-    },
-    {
-        "title": "Meta Is Now One of Microsoft's Largest AI Customers",
-        "title_zh": "Meta 现在是微软最大的人工智能客户之一",
-        "summary": "Meta has quietly become one of Microsoft's largest AI customers, spending hundreds of millions of dollars a year to access the Azure cloud service - and reviving concerns around circular business dealings in the AI space.",
-        "summary_zh": "Meta 已悄然成为微软最大的人工智能客户之一，每年花费数亿美元访问 Azure 云服务，并再次引发人们对人工智能领域循环业务交易的担忧。",
-        "link": "https://finance.yahoo.com/video/meta-now-one-microsofts-largest-181732793.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787249852,
-        "type": "News"
-    },
-    {
-        "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
-        "title_zh": "随着债券收益率和油价上涨，股市下跌，沃尔玛盈利拖累零售业：AlphaCheck",
-        "summary": "Stocks got off to an unsteady start to trading as Treasury yields regained some of their losses from the day before.",
-        "summary_zh": "随着美国国债收益率收复前一天的部分跌幅，股市开局不稳定。",
-        "link": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1787234502,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade",
-        "title_zh": "今日科技股：Anthropic IPO计划成为焦点，英伟达财报为人工智能行业提供下一个考验",
+        "title": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
+        "title_zh": "今日科技股：随着 Anthropic 准备 IPO 计划，英伟达盈利即将到来",
         "summary": "Tech stock coverage for the week of Aug. 17.",
         "summary_zh": "8 月 17 日当周的科技股报道。",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-ipo-plans-come-into-focus-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1786973385,
         "type": "News"

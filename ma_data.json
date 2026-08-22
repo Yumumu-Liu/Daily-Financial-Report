@@ -1,22 +1,42 @@
 [
     {
-        "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal",
-        "title_zh": "英伟达正在与芯片初创公司 Rebellions 就潜在交易进行谈判",
-        "summary": "Nvidia Corp. is in early discussions with the Korean AI chip designer Rebellions about possible collaborations, including a technical partnership, an investment or perhaps even an acquisition, according to people familiar with the matter.",
-        "summary_zh": "据知情人士透露，英伟达公司正在与韩国人工智能芯片设计公司 Rebellions 就可能的合作进行早期讨论，包括技术合作、投资甚至收购。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-chip-startup-rebellions-074543725.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787298343,
+        "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
+        "title_zh": "博通为人工智能芯片交易寻求高达 800 亿美元的债务",
+        "summary": "The chip designer is in talks with lenders on a deal that would benefit Anthropic and other AI companies, with a total potential raise of up to $100 billion",
+        "summary_zh": "这家芯片设计公司正在与贷方就一项交易进行谈判，该交易将使 Anthropic 和其他人工智能公司受益，潜在融资总额高达 1000 亿美元",
+        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html",
+        "publisher": "Quartz",
+        "publish_time": 1787332765,
         "type": "News"
     },
     {
-        "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
-        "title_zh": "据彭博社报道，博通在最新的人工智能债务交易中寻求超过 600 亿美元的资金",
-        "summary": "Broadcom is in talks with a group of lenders to raise more than $60 billion in debt for an AI ‌chip financing deal that will benefit Anthropic and other companies, ‌Bloomberg News reported on Thursday, citing people familiar with the matter.",
-        "summary_zh": "彭博新闻周四援引知情人士的话报道称，博通正在与一组贷方进行谈判，为一项人工智能芯片融资协议筹集超过 600 亿美元的债务，这将使 Anthropic 和其他公司受益。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
-        "publisher": "Reuters",
-        "publish_time": 1787258298,
+        "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
+        "title_zh": "博通瞄准高达 1000 亿美元的人工智能融资交易",
+        "summary": "The debt package could help fund Anthropic and other AI customers.",
+        "summary_zh": "该债务计划可以帮助为 Anthropic 和其他人工智能客户提供资金。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-eyes-100-billion-ai-162200783.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1787329320,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: Broadcom Said to be in Talks to Raise Up to $100 Billion for Chip Financing Deal; Nvidia Reportedly Eyes Investment in Cloverleaf",
+        "title_zh": "午间热门新闻：据称博通正在洽谈筹集高达 1000 亿美元的芯片融资交易；据报道 Nvidia 正在考虑投资 Cloverleaf",
+        "summary": "All three major US stock indexes were up in late-morning trading Friday despite long-dated Treasury",
+        "summary_zh": "尽管长期国债在周五早盘交易中美国三大股指均上涨",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-broadcom-said-155443229.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1787327683,
+        "type": "News"
+    },
+    {
+        "title": "Can TROW's F/m Investments Buyout Deal Accelerate Fixed-Income Growth?",
+        "title_zh": "TROW 的 F/m 投资收购交易能否加速固定收益增长？",
+        "summary": "T. Rowe Price's F/m Investments deal could accelerate fixed-income growth by expanding its ETF and SMA offerings.",
+        "summary_zh": "T. Rowe Price 的 F/m Investments 交易可以通过扩大其 ETF 和 SMA 产品来加速固定收益增长。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/trows-f-m-investments-buyout-140300532.html",
+        "publisher": "Zacks",
+        "publish_time": 1787320980,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
         "publisher": "Bloomberg",
         "publish_time": 1787257022,
-        "type": "News"
-    },
-    {
-        "title": "Stock Market Today, Aug. 19: Nebius Falls 10% on $4.5 Billion Convertible Note Offering",
-        "title_zh": "今日股市，8 月 19 日：Nebius 发行 45 亿美元可转换票据，股价下跌 10%",
-        "summary": "On Aug. 19, 2026, the AI cloud provider announced a massive debt-to-equity conversion plan, triggering dilution concerns and heavy selling pressure.",
-        "summary_zh": "2026年8月19日，这家人工智能云提供商宣布了大规模债转股计划，引发稀释担忧和沉重的抛售压力。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-221801080.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1787177881,
-        "type": "News"
-    },
-    {
-        "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
-        "title_zh": "Nvidia 5000 亿美元的华尔街交易预示着人工智能的繁荣",
-        "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on e...",
-        "summary_zh": "英伟达和全球六家最大的投资公司上周宣布计划将超过 5000 亿美元（4330 亿欧元）投入人工智能基础设施，这一安排旨在让科技公司在不将成本计入自己的资产负债表的情况下建设数据中心。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
-        "publisher": "Euronews",
-        "publish_time": 1786946719,
         "type": "News"
     }
 ]
