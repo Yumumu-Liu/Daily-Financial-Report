@@ -1,5 +1,15 @@
 [
     {
+        "title": "How NVIDIA’s AI Compute Financing Push and Blupine Deal Interest Could Impact Blackstone (BX) Investors",
+        "title_zh": "NVIDIA 的 AI 计算融资推动和 Blupine 交易兴趣如何影响 Blackstone (BX) 投资者",
+        "summary": "In August 2026, NVIDIA announced it had entered into partnerships with Blackstone, Apollo, BlackRock, Brookfield, Goldman Sachs and KKR to create new compute financing platforms that could mobilize over US$500 billion of third-party capital for AI infrastructure across its eco...",
+        "summary_zh": "2026 年 8 月，NVIDIA 宣布已与 Blackstone、Apollo、BlackRock、Brookfield、Goldman Sachs 和 KKR 建立合作伙伴关系，创建新的计算融资平台，可以为整个生态系统的 AI 基础设施动员超过 5000 亿美元的第三方资本。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-compute-financing-push-090917740.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1787389757,
+        "type": "News"
+    },
+    {
         "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
         "title_zh": "博通为人工智能芯片交易寻求高达 800 亿美元的债务",
         "summary": "The chip designer is in talks with lenders on a deal that would benefit Anthropic and other AI companies, with a total potential raise of up to $100 billion",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/trows-f-m-investments-buyout-140300532.html",
         "publisher": "Zacks",
         "publish_time": 1787320980,
-        "type": "News"
-    },
-    {
-        "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-        "title_zh": "博通在最新的人工智能债务交易中寻求超过 600 亿美元的资金",
-        "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-        "summary_zh": "据知情人士透露，博通公司 (Broadcom Inc.) 正在与一组贷方进行谈判，为一项 AI 芯片融资交易筹集超过 600 亿美元的债务，这将使 Anthropic PBC 和其他公司受益。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1787257022,
         "type": "News"
     }
 ]
