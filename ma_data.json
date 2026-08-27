@@ -1,12 +1,12 @@
 [
     {
-        "title": "Oracle (ORCL) Stock Still Trades Like A Bargain Despite VA Deal Expansion",
-        "title_zh": "尽管 VA 交易扩大，甲骨文 (ORCL) 股票交易仍很便宜",
-        "summary": "Oracle stock has delivered a 77.0% total return over the past five years, yet recent share price weakness this year sits alongside valuation checks that still point to it screening as cheap on several measures.",
-        "summary_zh": "甲骨文股票在过去五年中的总回报率为 77.0%，但今年近期股价疲软，同时估值检查仍表明该公司在多项指标上被筛选为便宜。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-still-trades-002323146.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1787790203,
+        "title": "KKR to Pay Record Settlement in Premerger-Filings Case",
+        "title_zh": "KKR 将在合并前备案案件中支付创纪录的和解金",
+        "summary": "The amount KKR agreed to pay to settle a case with the Justice Department alleging that the private-equity giant withheld and altered documents in premerger filings. The previous record, a $12 million penalty, was collectively held by Edwards Lifesciences and Genesis MedTech.",
+        "summary_zh": "KKR 同意支付的金额，以与司法部达成和解，指控这家私募股权巨头扣留并篡改了合并前备案文件中的文件。此前的记录是 1200 万美元的罚款，由 Edwards Lifesciences 和 Genesis MedTech 共同保持。",
+        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/kkr-to-pay-record-settlement-in-premerger-filings-case-goJg2dsQfnLhF13WLxKS?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1787840376,
         "type": "News"
     },
     {
@@ -17,16 +17,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/annuity-might-backed-lebron-nike-221701580.html",
         "publisher": "24/7 Wall St.",
         "publish_time": 1787782621,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-        "title_zh": "Anthropic 与 Nscale 达成 45B 美元交易，继续吞噬计算资源",
-        "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
-        "summary_zh": "与基础设施提供商的新协议是 Anthropic 白热化的计算吞噬趋势的最新例子。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-continues-compute-gobbling-streak-213739548.html",
-        "publisher": "TechCrunch",
-        "publish_time": 1787780259,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-credit-risk-measures-rise-181552128.html",
         "publisher": "Investing.com",
         "publish_time": 1787595352,
+        "type": "News"
+    },
+    {
+        "title": "How NVIDIA’s AI Compute Financing Push and Blupine Deal Interest Could Impact Blackstone (BX) Investors",
+        "title_zh": "NVIDIA 的 AI 计算融资推动和 Blupine 交易兴趣如何影响 Blackstone (BX) 投资者",
+        "summary": "In August 2026, NVIDIA announced it had entered into partnerships with Blackstone, Apollo, BlackRock, Brookfield, Goldman Sachs and KKR to create new compute financing platforms that could mobilize over US$500 billion of third-party capital for AI infrastructure across its eco...",
+        "summary_zh": "2026 年 8 月，NVIDIA 宣布已与 Blackstone、Apollo、BlackRock、Brookfield、Goldman Sachs 和 KKR 建立合作伙伴关系，创建新的计算融资平台，可以为整个生态系统的 AI 基础设施动员超过 5000 亿美元的第三方资本。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ai-compute-financing-push-090917740.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1787389757,
         "type": "News"
     }
 ]
