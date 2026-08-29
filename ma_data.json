@@ -1,32 +1,22 @@
 [
     {
-        "title": "Update: US Equity Indexes Slide, Treasury Yields Surge After Fed Chair Warsh Offers Little Monetary Policy Guidance",
+        "title": "Marvell Fell After Its Google Deal. Why Did Investors Sell These Two AI Optics Stocks Too?",
         "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
+        "summary": "Marvell’s shares fell after investors decided its giant Google AI deal would take too long to move the numbers. Then Coherent Corp. (NYSE:COHR) and Lumentum Holdings Inc. (NASDAQ:LITE) fell with it on August 28.",
         "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-slide-treasury-201740488.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1787948260,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic’s $45B Nscale Deal Adds an Eighth Compute Corridor — and a Pattern of Betting on Startups",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Anthropic has secured its eighth major compute corridor, committing to a $45 billion, six-year rental agreement with Nscale. The deal grants the AI firm access to approximately 460 megawatts of capacity at the Monarch Compute Campus in Mason County, West Virginia.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-45b-nscale-deal-adds-200722819.html",
-        "publisher": "Forkast News",
-        "publish_time": 1787947642,
-        "type": "News"
-    },
-    {
-        "title": "Marvell Announced a Google AI Deal That Could Generate Up to $120 Billion. The Stock Fell 8%",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) and Alphabet Inc. (NASDAQ:GOOGL) now have a much tighter AI relationship than a normal supplier contract.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/marvell-announced-google-ai-deal-180959027.html",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-fell-google-deal-why-025545596.html",
         "publisher": "Insider Monkey",
-        "publish_time": 1787940599,
+        "publish_time": 1787972145,
+        "type": "News"
+    },
+    {
+        "title": "Stock Market Today, Aug. 28: Marvell Slides 10% on Softer Fiscal 2028 Guidance and Google Deal Timing",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Fiscal Q2 results beat estimates, but investors zeroed in on near-term monetization risk tied to a major customer partnership, today, Aug. 28, 2026.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-28-212934389.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1787952574,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/technology/ai/articles/amazon-jumps-4-expanded-aws-175747219.html",
         "publisher": "24/7 Wall St.",
         "publish_time": 1787939867,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom (AVGO) Nears $70B Debt Financing Deal, Sources Say",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "CNBC reported on August 21, 2026, that Broadcom Inc. (NASDAQ:AVGO) is in talks to raise $70 billion to $80 billion in debt for a chip financing deal supporting AI companies, including Anthropic.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-nears-70b-debt-164236440.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1787935356,
         "type": "News"
     }
 ]
