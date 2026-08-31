@@ -1,5 +1,25 @@
 [
     {
+        "title": "Aon nears around $17B deal to buy KKR-backed USI Insurance – WSJ",
+        "title_zh": "Aon 接近以 17B 美元收购 KKR 支持的 USI Insurance – 华尔街日报",
+        "summary": "Investing.com -- Aon is close to signing a deal with private equity firm KKR to buy Valhalla, NY-based insurance brokerage USI Insurance for around $17 billion including debt, according to a report from the Wall Street Journal on Sunday.",
+        "summary_zh": "Investing.com——据《华尔街日报》周日报道，怡安即将与私募股权公司 KKR 签署协议，以约 170 亿美元（含债务）收购总部位于纽约瓦尔哈拉的保险经纪公司 USI Insurance。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/aon-nears-around-17b-deal-172141680.html",
+        "publisher": "Investing.com",
+        "publish_time": 1788110501,
+        "type": "News"
+    },
+    {
+        "title": "Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI",
+        "title_zh": "Aon 即将以约 170 亿美元收购保险经纪 USI",
+        "summary": "Aon  is near an agreement to buy insurance brokerage USI Insurance from private-equity firm  KKR  for roughly $17 billion, including debt, according to people familiar with the matter. USI, based in Valhalla, N.Y., is an insurance brokerage and consulting firm.",
+        "summary_zh": "据知情人士透露，怡安集团即将达成协议，以约 170 亿美元（含债务）从私募股权公司 KKR 手中收购保险经纪公司 USI Insurance。 USI 总部位于纽约州瓦尔哈拉，是一家保险经纪和咨询公司。",
+        "link": "https://www.wsj.com/finance/aon-nears-roughly-17-billion-deal-for-insurance-brokerage-usi-fcc9fba9?siteid=yhoof2&yptr=yahoo",
+        "publisher": "The Wall Street Journal",
+        "publish_time": 1788104400,
+        "type": "News"
+    },
+    {
         "title": "Is a Stock Market Crash Imminent Under President Donald Trump? More Than 85 Years of Historical Precedent Offers an Answer.",
         "title_zh": "唐纳德·特朗普总统领导下的股市崩盘是否迫在眉睫？超过 85 年的历史先例提供了答案。",
         "summary": "One scenario makes stock market crashes likelier, and Trump is overseeing it right now.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/energy/articles/nobodys-talking-energy-company-quietly-125501756.html",
         "publisher": "Motley Fool",
         "publish_time": 1788008101,
-        "type": "News"
-    },
-    {
-        "title": "Bandwidth (BAND) Could Be 27% Undervalued As Salesforce Deal And Outlook Lift Reset Views",
-        "title_zh": "随着 Salesforce 交易和 Outlook 提升重置视图，带宽 (BAND) 可能被低估 27%",
-        "summary": "Bandwidth (BAND) is back on investor radar after reporting robust revenue growth from its voice and messaging services, securing an exclusive infrastructure partnership with Salesforce, and lifting its full year outlook for revenue and adjusted EBITDA.",
-        "summary_zh": "Bandwidth (BAND) 在报告语音和消息服务收入强劲增长、与 Salesforce 建立独家基础设施合作伙伴关系、上调全年收入预期和调整后 EBITDA 后，重新受到投资者关注。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-band-could-27-undervalued-081207374.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1787991127,
-        "type": "News"
-    },
-    {
-        "title": "The Goldman Sachs Group (GS) Just Made Its Fourth Asset-Management Deal in a Year",
-        "title_zh": "高盛集团 (GS) 刚刚完成一年内的第四笔资产管理交易",
-        "summary": "On August 18, 2026, The Goldman Sachs Group, Inc. (NYSE:GS) agreed to buy real estate investment firm LCN Capital Partners for up to $410 million, its fourth asset-management acquisition in less than a year and second deal in under 10 days.",
-        "summary_zh": "2026 年 8 月 18 日，高盛集团 (NYSE:GS) 同意以高达 4.1 亿美元的价格收购房地产投资公司 LCN Capital Partners，这是其在不到一年内的第四次资产管理收购，也是不到 10 天内的第二笔交易。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-group-gs-just-175923889.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1787939963,
         "type": "News"
     }
 ]
