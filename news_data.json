@@ -1,12 +1,52 @@
 [
     {
-        "title": "Australian judge floats giving court-appointed expert access to Tesla's engineering systems",
-        "title_zh": "澳大利亚法官提议允许法院指定的专家访问特斯拉的工程系统",
-        "summary": "By Byron Kaye SYDNEY, Sept 1 (Reuters) - An Australian judge said he may order Tesla to give an independent expert access to its internal engineering platforms as part of a class action against the",
-        "summary_zh": "路透悉尼 9 月 1 日 - 一名澳大利亚法官表示，作为针对特斯拉的集体诉讼的一部分，他可能会命令特斯拉允许一名独立专家访问其内部工程平台。",
-        "link": "https://finance.yahoo.com/technology/articles/australian-judge-floats-giving-court-020957344.html",
-        "publisher": "Reuters",
-        "publish_time": 1788228597,
+        "title": "Anthropic's $35B cloud deal with Lambda adds new layer to circular financing concerns",
+        "title_zh": "Anthropic 与 Lambda 达成的 350 亿美元云协议为循环融资担忧增添了新的一层",
+        "summary": "Anthropic (ANTH.PVT) has signed a $35 billion cloud deal with Lambda (LAMD.PVT), according to Wall Street Journal reporting. Lambda is backed by Nvidia (NVDA).",
+        "summary_zh": "据《华尔街日报》报道，Anthropic (ANTH.PVT) 已与 Lambda (LAMD.PVT) 签署了价值 350 亿美元的云协议。 Lambda 由 Nvidia (NVDA) 支持。",
+        "link": "https://finance.yahoo.com/video/anthropics-35b-cloud-deal-lambda-134500271.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788270300,
+        "type": "News"
+    },
+    {
+        "title": "John Ternus's first day as Apple CEO, JOLTS data, Dell earnings: What to Watch",
+        "title_zh": "约翰·特努斯 (John Ternus) 就任苹果首席执行官的第一天、JOLTS 数据、戴尔财报：看点",
+        "summary": "Yahoo Finance's Josh Lipton takes a closer look at the top stories for investors to watch on Tuesday, Sept.",
+        "summary_zh": "雅虎财经的乔什·利普顿 (Josh Lipton) 仔细研究了 9 月 12 日星期二投资者关注的头条新闻。",
+        "link": "https://finance.yahoo.com/video/john-ternuss-first-day-apple-120000777.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788264000,
+        "type": "News"
+    },
+    {
+        "title": "Alphabet stock has tanked recently because of a 'brain drain'",
+        "title_zh": "Alphabet 股价最近因“人才流失”而暴跌",
+        "summary": "Alphabet has had a rough run.",
+        "summary_zh": "Alphabet 经历了一段艰难的时期。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788258139,
+        "type": "News"
+    },
+    {
+        "title": "Software stocks crushed chips in August. History says September gets tougher: Chart of the Day",
+        "title_zh": "软件股在八月份压垮了筹码。历史表明九月变得更加艰难：每日图表",
+        "summary": "Software stocks just posted their second-best month since 2002 as chip stocks only held on to small gains.",
+        "summary_zh": "软件股刚刚创下自 2002 年以来第二好的月份表现，而芯片股仅保持小幅上涨。",
+        "link": "https://finance.yahoo.com/markets/article/software-stocks-crushed-chips-in-august-history-says-september-gets-tougher-chart-of-the-day-100000653.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788256800,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq drop as rising bond yields, oil prices weigh on stocks",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克指数因债券收益率上升而下跌，油价打压股市",
+        "summary": "Stocks closed out August with solid gains and are now entering their historically weakest month.",
+        "summary_zh": "股市在 8 月份收盘时录得强劲上涨，目前正进入历史上最疲软的月份。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788249977,
         "type": "News"
     },
     {
@@ -17,16 +57,6 @@
         "link": "https://finance.yahoo.com/video/rewind-2011-tim-cooks-first-212632931.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788211592,
-        "type": "News"
-    },
-    {
-        "title": "What Tim Cook told employees on his last day at Apple",
-        "title_zh": "蒂姆·库克在苹果公司的最后一天告诉员工的话",
-        "summary": "Tim Cook stepped down as Apple CEO on Monday, leaving parting words to the company's employees who, he wrote, \"share a belief that what we build matters.\"",
-        "summary_zh": "蒂姆·库克周一辞去苹果首席执行官一职，给公司员工留下了临别赠言，他写道，“他们都坚信我们所创造的东西很重要”。",
-        "link": "https://finance.yahoo.com/technology/article/what-tim-cook-told-employees-on-his-last-day-at-apple-171506698.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788196506,
         "type": "News"
     },
     {
@@ -57,26 +87,6 @@
         "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788188183,
-        "type": "News"
-    },
-    {
-        "title": "After an 'extraordinary' earnings season, here's the next big positive for stocks",
-        "title_zh": "在经历了“非凡”的财报季之后，这是股市的下一个重大利好",
-        "summary": "The next stock catalyst is the one-two punch of rising analyst profit estimates and fewer estimate cuts.",
-        "summary_zh": "下一个股票催化剂是分析师利润预期上升和预期下调次数减少的双重打击。",
-        "link": "https://finance.yahoo.com/markets/article/after-an-extraordinary-earnings-season-heres-the-next-big-positive-for-stocks-122048479.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788178848,
-        "type": "News"
-    },
-    {
-        "title": "Best credit cards for shopping on Amazon (2026)",
-        "title_zh": "最适合在亚马逊购物的信用卡（2026 年）",
-        "summary": "The best credit cards for Amazon can help you earn valuable points, miles, or cash back on the purchases you're already making on Amazon and elsewhere.",
-        "summary_zh": "亚马逊最好的信用卡可以帮助您在亚马逊和其他地方购买商品时赚取宝贵的积分、里程或现金返还。",
-        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1763587302,
         "type": "News"
     }
 ]
