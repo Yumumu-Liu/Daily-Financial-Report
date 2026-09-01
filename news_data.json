@@ -1,62 +1,82 @@
 [
     {
+        "title": "Australian judge floats giving court-appointed expert access to Tesla's engineering systems",
+        "title_zh": "澳大利亚法官提议允许法院指定的专家访问特斯拉的工程系统",
+        "summary": "By Byron Kaye SYDNEY, Sept 1 (Reuters) - An Australian judge said he may order Tesla to give an independent expert access to its internal engineering platforms as part of a class action against the",
+        "summary_zh": "路透悉尼 9 月 1 日 - 一名澳大利亚法官表示，作为针对特斯拉的集体诉讼的一部分，他可能会命令特斯拉允许一名独立专家访问其内部工程平台。",
+        "link": "https://finance.yahoo.com/technology/articles/australian-judge-floats-giving-court-020957344.html",
+        "publisher": "Reuters",
+        "publish_time": 1788228597,
+        "type": "News"
+    },
+    {
+        "title": "Rewind to 2011: Tim Cook's first Apple product launch as CEO",
+        "title_zh": "时间倒回 2011 年：蒂姆·库克 (Tim Cook) 作为首席执行官推出首款苹果产品",
+        "summary": "Tim Cook's first product launch as Apple's (AAPL) CEO on Oct. 4, 2011, featured the unveiling of the iPhone 4s and the debut of Siri.",
+        "summary_zh": "2011 年 10 月 4 日，蒂姆·库克 (Tim Cook) 作为苹果 (AAPL) 首席执行官首次推出产品，其中包括 iPhone 4s 的发布和 Siri 的首次亮相。",
+        "link": "https://finance.yahoo.com/video/rewind-2011-tim-cooks-first-212632931.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788211592,
+        "type": "News"
+    },
+    {
+        "title": "What Tim Cook told employees on his last day at Apple",
+        "title_zh": "蒂姆·库克在苹果公司的最后一天告诉员工的话",
+        "summary": "Tim Cook stepped down as Apple CEO on Monday, leaving parting words to the company's employees who, he wrote, \"share a belief that what we build matters.\"",
+        "summary_zh": "蒂姆·库克周一辞去苹果首席执行官一职，给公司员工留下了临别赠言，他写道，“他们都坚信我们所创造的东西很重要”。",
+        "link": "https://finance.yahoo.com/technology/article/what-tim-cook-told-employees-on-his-last-day-at-apple-171506698.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788196506,
+        "type": "News"
+    },
+    {
+        "title": "Here comes the AI capex shocker, Goldman Sachs says",
+        "title_zh": "高盛表示，人工智能资本支出令人震惊",
+        "summary": "Big spending on AI is poised to continue well into 2027.",
+        "summary_zh": "人工智能方面的巨额支出预计将持续到 2027 年。",
+        "link": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788196226,
+        "type": "News"
+    },
+    {
+        "title": "What Nvidia's stellar Q2 earnings represent for AI in the rest of 2026",
+        "title_zh": "Nvidia 第二季度的出色盈利对 2026 年剩余时间的人工智能意味着什么",
+        "summary": "After a huge earnings season for Big Tech capped off with blowout second quarter results from Nvidia (NVDA), LPL Financial chief technical strategist Adam Turnquist weighs in on what this could mean for the AI narrative in the second half of 2026.",
+        "summary_zh": "英伟达 (NVDA) 的第二季度业绩井喷，为大型科技公司带来了巨大的财报季，LPL Financial 首席技术策略师 Adam Turnquist 对此发表了评论，探讨这对 2026 年下半年人工智能的影响。",
+        "link": "https://finance.yahoo.com/video/nvidias-stellar-q2-earnings-represent-153000546.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788190200,
+        "type": "News"
+    },
+    {
         "title": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "今日科技股：蒂姆·库克准备辞职，苹果股价下跌",
         "summary": "It's a momentous day for Apple as CEO Tim Cook prepares to step down.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "对于苹果公司来说，这是一个重要的日子，因为首席执行官蒂姆·库克准备辞职。",
         "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788188183,
         "type": "News"
     },
     {
-        "title": "Was the market's reaction to Alphabet’s earnings overblown?",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Goldman Sachs' Eric Sheridan joins Yahoo Finance Executive Editor Brian Sozzi to break down the market's reaction to Alphabet’s (GOOG) latest earnings report, Google’s brain drain, and why the launch of Gemini 4 could completely flip the narrative.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/markets-reaction-alphabet-earnings-overblown-144415674.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788187455,
-        "type": "News"
-    },
-    {
-        "title": "It's Tim Cook's final day as Apple CEO. Here's what investors need from John Ternus.",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Apple (AAPL) CEO Tim Cook is officially passing the reins to incoming CEO John Ternus on Tuesday, Sept. 1.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/tim-cooks-final-day-apple-135615675.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788184575,
-        "type": "News"
-    },
-    {
         "title": "After an 'extraordinary' earnings season, here's the next big positive for stocks",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "在经历了“非凡”的财报季之后，这是股市的下一个重大利好",
         "summary": "The next stock catalyst is the one-two punch of rising analyst profit estimates and fewer estimate cuts.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "下一个股票催化剂是分析师利润预期上升和预期下调次数减少的双重打击。",
         "link": "https://finance.yahoo.com/markets/article/after-an-extraordinary-earnings-season-heres-the-next-big-positive-for-stocks-122048479.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788178848,
         "type": "News"
     },
     {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as US strikes Iran, rate-hike bets jump",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Traders increased bets of a Fed rate hike following Kevin Warsh's speech on Friday and a flare-up in Middle East hostilities.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788176331,
-        "type": "News"
-    },
-    {
-        "title": "Apple's big handoff and a jobs report: What to watch this week",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "A roiling bond market hits jobs week — but the quarter's earnings season isn't done yet.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/article/apples-big-handoff-and-a-jobs-report-what-to-watch-this-week-100000786.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788084000,
+        "title": "Best credit cards for shopping on Amazon (2026)",
+        "title_zh": "最适合在亚马逊购物的信用卡（2026 年）",
+        "summary": "The best credit cards for Amazon can help you earn valuable points, miles, or cash back on the purchases you're already making on Amazon and elsewhere.",
+        "summary_zh": "亚马逊最好的信用卡可以帮助您在亚马逊和其他地方购买商品时赚取宝贵的积分、里程或现金返还。",
+        "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html",
+        "publisher": "Yahoo Personal Finance",
+        "publish_time": 1763587302,
         "type": "News"
     }
 ]
