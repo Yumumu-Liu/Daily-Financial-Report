@@ -1,9 +1,49 @@
 [
     {
+        "title": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
+        "title_zh": "英伟达不喜欢华尔街的估计。所以它试图重置它们。",
+        "summary": "More insight on Nvidia's guidance emerges.",
+        "summary_zh": "关于 Nvidia 指南的更多见解正在浮现。",
+        "link": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788351738,
+        "type": "News"
+    },
+    {
+        "title": "Amazon stock just entered the danger zone",
+        "title_zh": "亚马逊股票刚刚进入危险区",
+        "summary": "Amazon stock is on a late summer slide.",
+        "summary_zh": "亚马逊股价夏末下滑。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788345650,
+        "type": "News"
+    },
+    {
+        "title": "Tesla set to hold Cybercab event in Austin, Texas",
+        "title_zh": "特斯拉将在德克萨斯州奥斯汀举办 Cyber​​cab 活动",
+        "summary": "SAN FRANCISCO, Sept 2 (Reuters) - Tesla is set to hold an event for its purpose-built robotaxi Cybercab in Austin, Texas, on Thursday, amid much fanfare, as well as questions about regulatory hurdles",
+        "summary_zh": "路透旧金山 9 月 2 日 - 特斯拉将于周四在得克萨斯州奥斯汀举办一场专门打造的自动驾驶出租车 Cyber​​cab 活动，活动大张旗鼓，同时也引发了有关监管障碍的质疑",
+        "link": "https://finance.yahoo.com/news/tesla-set-hold-cybercab-event-100346187.html",
+        "publisher": "Reuters",
+        "publish_time": 1788344158,
+        "type": "News"
+    },
+    {
+        "title": "Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook",
+        "title_zh": "约翰·特努斯 (John Ternus) 掌舵后，苹果公司股价上涨——如何几乎不花钱地保护股票：阿尔法期权手册",
+        "summary": "The rally has pushed Apple away from a support zone near $310 and back toward its late-July record area near $340 — giving shareholders a natural way to define both their downside and upside with options.",
+        "summary_zh": "此次上涨已将苹果公司推离了 310 美元附近的支撑区域，并回到了 7 月下旬接近 340 美元的纪录区域，这为股东提供了一种自然的方式来通过期权来定义其下行和上行空间。",
+        "link": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788343200,
+        "type": "News"
+    },
+    {
         "title": "Are you willing to pay $2,000 for an iPhone? These customers may.",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "你愿意花2000美元买一部iPhone吗？这些客户可能会。",
         "summary": "IDC Research Director Ramon Llamas talks with Market Domination's Josh Lipton about Apple's (AAPL) next product launch, which could unveil a foldable iPhone and will be the first launch with John Ternus as CEO.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "IDC 研究总监 Ramon Llamas 与 Market Domination 的 Josh Lipton 讨论了苹果 (AAPL) 的下一款产品发布，该产品可能会推出可折叠 iPhone，并且将是 John Ternus 担任首席执行官时的首次发布。",
         "link": "https://finance.yahoo.com/video/willing-pay-2-000-iphone-203311978.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788294791,
@@ -11,82 +51,42 @@
     },
     {
         "title": "How Mark Zuckerberg and Elon Musk made the case for AI at the G20 meeting",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "马克·扎克伯格和埃隆·马斯克如何在 G20 会议上阐述人工智能的案例",
         "summary": "Yahoo Finance Fed Correspondent Jennifer Schonberger joins Market Domination host Josh Lipton to report on Meta (META) CEO Mark Zuckerberg and SpaceX (SPCX) CEO Elon Musk speaking on the projected benefits of AI, including job growth and boosting the global economy by 20 to 30...",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "雅虎财经联储记者詹妮弗·舍恩伯格 (Jennifer Schonberger) 与《市场支配》主持人乔什·利普顿 (Josh Lipton) 一起报道 Meta (META) 首席执行官马克·扎克伯格 (Mark Zuckerberg) 和 SpaceX (SPCX) 首席...",
         "link": "https://finance.yahoo.com/video/how-mark-zuckerberg-and-elon-musk-made-the-case-for-ai-at-the-g20-meeting-200154913.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788292914,
         "type": "News"
     },
     {
-        "title": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
-        "title_zh": "两笔交易，一项英伟达战略：这家芯片巨头最近合作伙伴关系背后的原因",
-        "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at Nvidia's (NVDA) two newest deals: one with Taiwanese AI chip designer Mediatek (2454.TW), and one with Anthropic (ANTH.PVT) and Lambda.",
-        "summary_zh": "雅虎财经市场和数据编辑 Jared Blikre 仔细研究了英伟达 (NVDA) 的两项最新交易：一项是与台湾人工智能芯片设计商联发科 (Mediatek) (2454.TW) 合作，另一项是与 Anthropic (ANTH.PVT) 和 Lambda 合作。",
-        "link": "https://finance.yahoo.com/video/two-deals-one-nvidia-strategy-193213308.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788291133,
-        "type": "News"
-    },
-    {
-        "title": "Has the AI trade become too 'monolithic'? Well, it's complicated.",
-        "title_zh": "人工智能行业是否变得过于“单一”？嗯，这很复杂。",
-        "summary": "Gresham Partners CEO and CIO Ted Neild addresses worries that the AI trade has become too \"monolithic,\" commenting on the returns that investors are still seeing from Big Tech names.",
-        "summary_zh": "Gresham Partners 首席执行官兼首席信息官 Ted Neild 谈到了对人工智能行业变得过于“单一”的担忧，并评论了投资者仍在从大型科技公司看到的回报。",
-        "link": "https://finance.yahoo.com/video/ai-trade-become-too-monolithic-193000961.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788291000,
-        "type": "News"
-    },
-    {
         "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "title_zh": "英伟达与联发科进行最大一笔海外投资：为何这是一笔极其重要的交易",
         "summary": "Nvidia (NVDA) is investing $3.5 billion in Taiwanese AI chip designer Mediatek (2454.TW). Yahoo Finance Senior Business Reporter Ines Ferré explains why this deal is a particularly crucial element of Nvidia's larger AI strategy.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary_zh": "英伟达 (NVDA) 向台湾人工智能芯片设计公司联发科 (Mediatek) (2454.TW) 投资 35 亿美元。雅虎财经高级商业记者伊内斯·费雷 (Ines Ferré) 解释了为什么这笔交易是 Nvidia 更大的人工智能战略中特别重要的组成部分。",
         "link": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788275120,
         "type": "News"
     },
     {
-        "title": "Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Stocks slipped in early trading on Tuesday as long-dated bond yields rose and speculation of a rate hike this year grew.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788270110,
-        "type": "News"
-    },
-    {
-        "title": "Hut 8 stock is a winner in a new deal between Anthropic and Nvidia-backed Lambda",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Hut 8 continues to have momentum at its back.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/hut-8-stock-is-a-winner-in-a-new-deal-between-anthropic-and-nvidia-backed-lambda-122511171.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788265511,
-        "type": "News"
-    },
-    {
-        "title": "John Ternus's first day as Apple CEO, JOLTS data, Dell earnings: What to Watch",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Yahoo Finance's Josh Lipton takes a closer look at the top stories for investors to watch on Tuesday, Sept.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/john-ternuss-first-day-apple-120000777.html",
+        "title": "Is Apple's hardware the key to John Ternus's success as new CEO?",
+        "title_zh": "苹果的硬件是 John Ternus 作为新任 CEO 取得成功的关键吗？",
+        "summary": "It's a brand-new era for Apple (AAPL) as Tim Cook officially hands off the chief executive reins on Tuesday and John Ternus starts his first day as CEO.",
+        "summary_zh": "对于苹果公司（AAPL）来说，这是一个全新的时代，蒂姆·库克（Tim Cook）于周二正式卸任首席执行官，约翰·特努斯（John Ternus）开始了他就任首席执行官的第一天。",
+        "link": "https://finance.yahoo.com/video/apples-hardware-key-john-ternuss-140000800.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1788264000,
+        "publish_time": 1788271200,
         "type": "News"
     },
     {
-        "title": "Alphabet stock has tanked recently because of a 'brain drain'",
-        "title_zh": "Alphabet 股价最近因“人才流失”而暴跌",
-        "summary": "Alphabet has had a rough run.",
-        "summary_zh": "Alphabet 经历了一段艰难的时期。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-recently-because-of-a-brain-drain-102219947.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788258139,
+        "title": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
+        "title_zh": "劳动节股市开市吗？这是 2026 年假期交易时间表。",
+        "summary": "The New York Stock Exchange and Nasdaq are closed for these 10 holidays in 2026 and 2027.",
+        "summary_zh": "纽约证券交易所和纳斯达克在 2026 年和 2027 年的这 10 个假期休市。",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html",
+        "publisher": "Yahoo Personal Finance",
+        "publish_time": 1711400559,
         "type": "News"
     }
 ]
