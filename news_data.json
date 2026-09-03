@@ -1,5 +1,45 @@
 [
     {
+        "title": "Steve Ballmer banned, Clippers fined $30M over Kawhi Leonard scandal",
+        "title_zh": "史蒂夫·鲍尔默因科怀·伦纳德丑闻被禁赛，快船队被罚款 3000 万美元",
+        "summary": "Asking for a Trend, Host Josh Lipton breaks down the latest bombshell in the NBA scandal involving Los Angeles Clippers owner and former Microsoft (MSFT) CEO Steve Ballmer, as the league hands down sweeping penalties following its investigation into the Clippers’ handling of K...",
+        "summary_zh": "在寻求趋势时，主持人乔什·利普顿 (Josh Lipton) 剖析了涉及洛杉矶快船队老板和前微软 (MSFT) 首席执行官史蒂夫·鲍尔默 (Steve Ballmer) 的 NBA 丑闻中的最新重磅炸弹，联盟在对快船队处理 K 的方式进行调查后做出了全面处罚。",
+        "link": "https://finance.yahoo.com/video/steve-ballmer-banned-clippers-fined-211000131.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788383400,
+        "type": "News"
+    },
+    {
+        "title": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
+        "title_zh": "博通第三季度盈利超出预期并不足以让投资者满意",
+        "summary": "Broadcom (AVGO) reported third quarter earnings results that modestly beat Wall Street's estimates. StoneX Financial equity research analyst Cody Acree shares his thoughts on the earnings print.",
+        "summary_zh": "博通（AVGO）公布的第三季度盈利结果略好于华尔街的预期。 StoneX Financial 股票研究分析师 Cody Acree 分享了他对财报的看法。",
+        "link": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788382149,
+        "type": "News"
+    },
+    {
+        "title": "Tesla's Cybercab to take center stage at Austin event",
+        "title_zh": "特斯拉的 Cyber​​cab 将在奥斯汀活动中占据中心舞台",
+        "summary": "Tesla (TSLA) will be holding an event for its driverless Cybercab in Austin, Texas, on Thursday. Yahoo Finance Senior Autos Reporter Pras Subramanian breaks down what to expect from the EV company and its robotaxi service.",
+        "summary_zh": "特斯拉 (TSLA) 将于周四在德克萨斯州奥斯汀举办无人驾驶 Cyber​​cab 活动。雅虎财经高级汽车记者 Pras Subramanian 详细分析了人们对这家电动汽车公司及其机器人出租车服务的期望。",
+        "link": "https://finance.yahoo.com/video/teslas-cybercab-center-stage-austin-200250161.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788379370,
+        "type": "News"
+    },
+    {
+        "title": "Goldman Sachs warns investors to expect lower returns over the next year",
+        "title_zh": "高盛警告投资者预计明年回报率将下降",
+        "summary": "One of Goldman's top minds on stocks offered a reality check on the stock market.",
+        "summary_zh": "高盛的一位股票专家对股市进行了现实检验。",
+        "link": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788369050,
+        "type": "News"
+    },
+    {
         "title": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
         "title_zh": "英伟达不喜欢华尔街的估计。所以它试图重置它们。",
         "summary": "More insight on Nvidia's guidance emerges.",
@@ -20,16 +60,6 @@
         "type": "News"
     },
     {
-        "title": "Tesla set to hold Cybercab event in Austin, Texas",
-        "title_zh": "特斯拉将在德克萨斯州奥斯汀举办 Cyber​​cab 活动",
-        "summary": "SAN FRANCISCO, Sept 2 (Reuters) - Tesla is set to hold an event for its purpose-built robotaxi Cybercab in Austin, Texas, on Thursday, amid much fanfare, as well as questions about regulatory hurdles",
-        "summary_zh": "路透旧金山 9 月 2 日 - 特斯拉将于周四在得克萨斯州奥斯汀举办一场专门打造的自动驾驶出租车 Cyber​​cab 活动，活动大张旗鼓，同时也引发了有关监管障碍的质疑",
-        "link": "https://finance.yahoo.com/news/tesla-set-hold-cybercab-event-100346187.html",
-        "publisher": "Reuters",
-        "publish_time": 1788344158,
-        "type": "News"
-    },
-    {
         "title": "Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook",
         "title_zh": "约翰·特努斯 (John Ternus) 掌舵后，苹果公司股价上涨——如何几乎不花钱地保护股票：阿尔法期权手册",
         "summary": "The rally has pushed Apple away from a support zone near $310 and back toward its late-July record area near $340 — giving shareholders a natural way to define both their downside and upside with options.",
@@ -37,46 +67,6 @@
         "link": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788343200,
-        "type": "News"
-    },
-    {
-        "title": "Are you willing to pay $2,000 for an iPhone? These customers may.",
-        "title_zh": "你愿意花2000美元买一部iPhone吗？这些客户可能会。",
-        "summary": "IDC Research Director Ramon Llamas talks with Market Domination's Josh Lipton about Apple's (AAPL) next product launch, which could unveil a foldable iPhone and will be the first launch with John Ternus as CEO.",
-        "summary_zh": "IDC 研究总监 Ramon Llamas 与 Market Domination 的 Josh Lipton 讨论了苹果 (AAPL) 的下一款产品发布，该产品可能会推出可折叠 iPhone，并且将是 John Ternus 担任首席执行官时的首次发布。",
-        "link": "https://finance.yahoo.com/video/willing-pay-2-000-iphone-203311978.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788294791,
-        "type": "News"
-    },
-    {
-        "title": "How Mark Zuckerberg and Elon Musk made the case for AI at the G20 meeting",
-        "title_zh": "马克·扎克伯格和埃隆·马斯克如何在 G20 会议上阐述人工智能的案例",
-        "summary": "Yahoo Finance Fed Correspondent Jennifer Schonberger joins Market Domination host Josh Lipton to report on Meta (META) CEO Mark Zuckerberg and SpaceX (SPCX) CEO Elon Musk speaking on the projected benefits of AI, including job growth and boosting the global economy by 20 to 30...",
-        "summary_zh": "雅虎财经联储记者詹妮弗·舍恩伯格 (Jennifer Schonberger) 与《市场支配》主持人乔什·利普顿 (Josh Lipton) 一起报道 Meta (META) 首席执行官马克·扎克伯格 (Mark Zuckerberg) 和 SpaceX (SPCX) 首席...",
-        "link": "https://finance.yahoo.com/video/how-mark-zuckerberg-and-elon-musk-made-the-case-for-ai-at-the-g20-meeting-200154913.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788292914,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
-        "title_zh": "英伟达与联发科进行最大一笔海外投资：为何这是一笔极其重要的交易",
-        "summary": "Nvidia (NVDA) is investing $3.5 billion in Taiwanese AI chip designer Mediatek (2454.TW). Yahoo Finance Senior Business Reporter Ines Ferré explains why this deal is a particularly crucial element of Nvidia's larger AI strategy.",
-        "summary_zh": "英伟达 (NVDA) 向台湾人工智能芯片设计公司联发科 (Mediatek) (2454.TW) 投资 35 亿美元。雅虎财经高级商业记者伊内斯·费雷 (Ines Ferré) 解释了为什么这笔交易是 Nvidia 更大的人工智能战略中特别重要的组成部分。",
-        "link": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788275120,
-        "type": "News"
-    },
-    {
-        "title": "Is Apple's hardware the key to John Ternus's success as new CEO?",
-        "title_zh": "苹果的硬件是 John Ternus 作为新任 CEO 取得成功的关键吗？",
-        "summary": "It's a brand-new era for Apple (AAPL) as Tim Cook officially hands off the chief executive reins on Tuesday and John Ternus starts his first day as CEO.",
-        "summary_zh": "对于苹果公司（AAPL）来说，这是一个全新的时代，蒂姆·库克（Tim Cook）于周二正式卸任首席执行官，约翰·特努斯（John Ternus）开始了他就任首席执行官的第一天。",
-        "link": "https://finance.yahoo.com/video/apples-hardware-key-john-ternuss-140000800.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788271200,
         "type": "News"
     },
     {
