@@ -1,5 +1,65 @@
 [
     {
+        "title": "For all their talk about AI, few companies are quantifying gains",
+        "title_zh": "尽管他们都在谈论人工智能，但很少有公司会量化收益",
+        "summary": "Is any money being made from AI?",
+        "summary_zh": "AI能赚钱吗？",
+        "link": "https://finance.yahoo.com/technology/article/for-all-their-talk-about-ai-few-companies-are-quantifying-gains-122132208.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788438092,
+        "type": "News"
+    },
+    {
+        "title": "How Apple's John Ternus inherited a 'reckoning' with China",
+        "title_zh": "苹果公司的约翰·特努斯如何继承对中国的“清算”",
+        "summary": "Strategy Risks founder and CEO, Isaac Stone Fish, sits down with Market Domination host Josh Lipton to discuss various aspects of Apple's (AAPL) overall strategy in China, India, and more.",
+        "summary_zh": "Strategy Risks 创始人兼首席执行官 Isaac Stone Fish 与《市场支配》主持人 Josh Lipton 坐下来讨论苹果 (AAPL) 在中国、印度等地区总体战略的各个方面。",
+        "link": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788436800,
+        "type": "News"
+    },
+    {
+        "title": "Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects",
+        "title_zh": "特斯拉的 Cyber​​cab 活动将于今晚举行。这是业界和华尔街的期望",
+        "summary": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-driving ambitions.",
+        "summary_zh": "特斯拉将于今天晚些时候在奥斯汀揭晓其生产的 Cyber​​cab 专用机器人出租车，这标志着该公司自动驾驶雄心的一个潜在转折点。",
+        "link": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788433200,
+        "type": "News"
+    },
+    {
+        "title": "Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules",
+        "title_zh": "苹果因“不公平”的应用程序跟踪规则在英国面临 27 亿美元的诉讼",
+        "summary": "LONDON, Sept 3 () - Apple is facing a £2 billion ($2.7 billion) London lawsuit brought on behalf of app developers over its app ‌tracking rules, with the iPhone maker accused of abusing its power ‌to unfairly impose greater restrictions on third parties.",
+        "summary_zh": "伦敦，9 月 3 日 - 苹果面临着代表应用程序开发商就其应用程序跟踪规则提起的价值 20 亿英镑（27 亿美元）的伦敦诉讼，这家 iPhone 制造商被指控滥用权力，不公平地对第三方施加更大的限制。",
+        "link": "https://finance.yahoo.com/news/apple-facing-2-7-billion-092405006.html",
+        "publisher": "Reuters",
+        "publish_time": 1788432648,
+        "type": "News"
+    },
+    {
+        "title": "How Amazon is transforming your Whole Foods run: CEO",
+        "title_zh": "亚马逊如何改变全食超市的运营：首席执行官",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with Whole Foods Market CEO Jason Buechel to discuss how Amazon's latest tech is reshaping the grocery giant.",
+        "summary_zh": "雅虎财经执行编辑 Brian Sozzi 与 Whole Foods Market 首席执行官 Jason Buechel 坐下来讨论亚马逊的最新技术如何重塑这家杂货巨头。",
+        "link": "https://finance.yahoo.com/video/amazon-transforming-whole-foods-run-100000050.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788429600,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as investors weigh Middle East tensions",
+        "title_zh": "今日股市：投资者权衡中东紧张局势，道琼斯指数、标准普尔 500 指数、纳斯达克期货波动",
+        "summary": "Markets searched for gains after three days of declines and as investors looked ahead to Friday's labor market report.",
+        "summary_zh": "市场在连续三天下跌后寻求上涨，投资者期待周五的劳动力市场报告。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788423325,
+        "type": "News"
+    },
+    {
         "title": "Steve Ballmer banned, Clippers fined $30M over Kawhi Leonard scandal",
         "title_zh": "史蒂夫·鲍尔默因科怀·伦纳德丑闻被禁赛，快船队被罚款 3000 万美元",
         "summary": "Asking for a Trend, Host Josh Lipton breaks down the latest bombshell in the NBA scandal involving Los Angeles Clippers owner and former Microsoft (MSFT) CEO Steve Ballmer, as the league hands down sweeping penalties following its investigation into the Clippers’ handling of K...",
@@ -27,56 +87,6 @@
         "link": "https://finance.yahoo.com/video/teslas-cybercab-center-stage-austin-200250161.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788379370,
-        "type": "News"
-    },
-    {
-        "title": "Goldman Sachs warns investors to expect lower returns over the next year",
-        "title_zh": "高盛警告投资者预计明年回报率将下降",
-        "summary": "One of Goldman's top minds on stocks offered a reality check on the stock market.",
-        "summary_zh": "高盛的一位股票专家对股市进行了现实检验。",
-        "link": "https://finance.yahoo.com/markets/article/goldman-sachs-warns-investors-to-expect-lower-returns-over-the-next-year-171050637.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788369050,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia didn't like Wall Street's estimates. So it tried to reset them.",
-        "title_zh": "英伟达不喜欢华尔街的估计。所以它试图重置它们。",
-        "summary": "More insight on Nvidia's guidance emerges.",
-        "summary_zh": "关于 Nvidia 指南的更多见解正在浮现。",
-        "link": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788351738,
-        "type": "News"
-    },
-    {
-        "title": "Amazon stock just entered the danger zone",
-        "title_zh": "亚马逊股票刚刚进入危险区",
-        "summary": "Amazon stock is on a late summer slide.",
-        "summary_zh": "亚马逊股价夏末下滑。",
-        "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788345650,
-        "type": "News"
-    },
-    {
-        "title": "Apple rallies as John Ternus takes the helm — how to protect the stock for almost nothing: Alpha Options Playbook",
-        "title_zh": "约翰·特努斯 (John Ternus) 掌舵后，苹果公司股价上涨——如何几乎不花钱地保护股票：阿尔法期权手册",
-        "summary": "The rally has pushed Apple away from a support zone near $310 and back toward its late-July record area near $340 — giving shareholders a natural way to define both their downside and upside with options.",
-        "summary_zh": "此次上涨已将苹果公司推离了 310 美元附近的支撑区域，并回到了 7 月下旬接近 340 美元的纪录区域，这为股东提供了一种自然的方式来通过期权来定义其下行和上行空间。",
-        "link": "https://finance.yahoo.com/markets/options/article/apple-rallies-as-john-ternus-takes-the-helm--how-to-protect-the-stock-for-almost-nothing-alpha-options-playbook-100000403.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788343200,
-        "type": "News"
-    },
-    {
-        "title": "Is the stock market open on Labor Day? Here's the holiday trading schedule for 2026.",
-        "title_zh": "劳动节股市开市吗？这是 2026 年假期交易时间表。",
-        "summary": "The New York Stock Exchange and Nasdaq are closed for these 10 holidays in 2026 and 2027.",
-        "summary_zh": "纽约证券交易所和纳斯达克在 2026 年和 2027 年的这 10 个假期休市。",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-labor-day-heres-the-holiday-trading-schedule-for-2026-210239142.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1711400559,
         "type": "News"
     }
 ]
