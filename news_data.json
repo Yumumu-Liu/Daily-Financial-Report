@@ -1,12 +1,62 @@
 [
     {
-        "title": "Tesla starts Cybercab rides in Austin, prompting US safety agency evaluation",
-        "title_zh": "特斯拉在奥斯汀推出 Cyber​​cab 服务，引发美国安全机构评估",
-        "summary": "By Chris Kirkham, Norihiko Shirouzu and Abhirup Roy AUSTIN, Texas, Sept 3 (Reuters) - Tesla said on Thursday it was offering rides in \"limited areas of Austin, Texas\" in its two-seater Cybercab, a",
-        "summary_zh": "作者：Chris Kirkham、Norihiko Shirouzu 和 Abhirup Roy 德克萨斯州奥斯汀，9 月 3 日（路透社）——特斯拉周四表示，将在“德克萨斯州奥斯汀的有限区域”提供其两座 Cyber​​cab 的乘车服务，这是一款",
-        "link": "https://finance.yahoo.com/news/tesla-starts-cybercab-rides-austin-014747138.html",
+        "title": "S&P 500 futures fall after August jobs data",
+        "title_zh": "8 月就业数据公布后标准普尔 500 指数期货下跌",
+        "summary": "Sept 4 (Reuters) - Futures tracking the benchmark S&P 500 index turned negative on Friday after data showed the U.S. economy added more-than-expected jobs in August.",
+        "summary_zh": "路透 9 月 4 日 - 数据显示美国 8 月份就业增长超预期后，追踪基准标准普尔 500 指数的期货周五转为负值。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-fall-august-123908579.html",
         "publisher": "Reuters",
-        "publish_time": 1788486467,
+        "publish_time": 1788525548,
+        "type": "News"
+    },
+    {
+        "title": "Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?",
+        "title_zh": "Meta 和 Nvidia 是否正在重新定义人工智能时代的价值股与成长股？",
+        "summary": "WisdomTree Global chief investment officer Jeremy Schwartz joins Market Catalyst's host Julie Hyman to explain why Meta (META) and Nvidia (NVDA) are leading the Magnificent Seven as growth stocks.",
+        "summary_zh": "WisdomTree Global 首席投资官杰里米·施瓦茨 (Jeremy Schwartz) 与 Market Catalyst 的主持人朱莉·海曼 (Julie Hyman) 一起解释了为什么 Meta (META) 和 Nvidia (NVDA) 作为成长股在七巨头...",
+        "link": "https://finance.yahoo.com/video/meta-nvidia-redefining-value-vs-120000681.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1788523200,
+        "type": "News"
+    },
+    {
+        "title": "Traders brace for US jobs data after Fed's Waller soothes bond markets",
+        "title_zh": "美联储沃勒安抚债券市场后，交易员等待美国就业数据",
+        "summary": "By Marc Jones LONDON, Sept 4 (Reuters) - World shares tip-toed higher ahead of U.S. jobs data on Friday, while bond markets got some much-needed relief after a top Federal Reserve official cooled rate",
+        "summary_zh": "路透伦敦9月4日 - 在周五美国就业数据公布之前，世界股市小幅走高，而在美联储高级官员降息后，债券市场得到了一些急需的缓解",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/asian-shares-climb-ahead-us-023357590.html",
+        "publisher": "Reuters",
+        "publish_time": 1788522013,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq, S&P 500 futures rise ahead of key jobs report",
+        "title_zh": "纳斯达克、标准普尔 500 指数期货在重要就业报告发布前上涨",
+        "summary": "By Niket Nishant and Tharuniyaa Lakshmi Sept 4 (Reuters) - Futures tracking the tech-heavy Nasdaq 100 and the benchmark S&P 500 indexes rose on Friday ahead of jobs data that could test the recent",
+        "summary_zh": "作者：Niket Nishant 和 Tharuniyaa Lakshmi 9 月 4 日（路透社）——追踪以科技股为主的纳斯达克 100 指数和基准标准普尔 500 指数的期货周五上涨，此前就业数据可能会测试近期的就业数据。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-climb-090500873.html",
+        "publisher": "Reuters",
+        "publish_time": 1788521697,
+        "type": "News"
+    },
+    {
+        "title": "Apple's first foldable iPhone may cost $2,000",
+        "title_zh": "苹果首款可折叠 iPhone 售价可能高达 2000 美元",
+        "summary": "Get ready to pay up for Apple!",
+        "summary_zh": "准备好为苹果付费吧！",
+        "link": "https://finance.yahoo.com/markets/stocks/article/apples-first-foldable-iphone-may-cost-2000-110739523.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788520059,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures diverge after blowout jobs report",
+        "title_zh": "今日股市：道琼斯指数、标准普尔 500 指数、纳斯达克期货在井喷式就业报告后出现分歧",
+        "summary": "All eyes were on the August jobs report for clues about the health of the labor market and whether the data could tip Fed interest rate bets one way or the other.",
+        "summary_zh": "所有的目光都集中在八月份的就业报告上，寻找有关劳动力市场健康状况的线索，以及该数据是否会以某种方式影响美联储的利率押注。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788509405,
         "type": "News"
     },
     {
@@ -20,73 +70,23 @@
         "type": "News"
     },
     {
-        "title": "AI demand is 'exceptional,' but the supply chain is not: HPE CEO",
-        "title_zh": "慧与首席执行官：人工智能需求“异常”，但供应链却并非如此",
-        "summary": "HPE (HPE) reported third quarter earnings results on Wednesday. HPE CEO Antonio Neri sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the relationship between the roaring demand for AI and the industry's extreme supply-chain constraints.",
-        "summary_zh": "慧与（HPE）周三公布了第三季度财报。 HPE 首席执行官 Antonio Neri 与雅虎财经执行编辑 Brian Sozzi 坐下来讨论人工智能需求的激增与行业极端供应链限制之间的关系。",
-        "link": "https://finance.yahoo.com/video/ai-demand-exceptional-supply-chain-201052714.html",
+        "title": "Broadcom's 2028 AI revenue outlook is what's really 'important'",
+        "title_zh": "博通 2028 年人工智能收入前景才是真正“重要”的",
+        "summary": "Broadcom (AVGO) reported quarterly earnings on Wednesday that only modestly beat Wall Street's expectations.",
+        "summary_zh": "博通（AVGO）周三公布的季度收益仅略高于华尔街的预期。",
+        "link": "https://finance.yahoo.com/video/broadcoms-2028-ai-revenue-outlook-160000306.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1788466252,
+        "publish_time": 1788451200,
         "type": "News"
     },
     {
         "title": "How Nvidia's latest deal continues to target all points of the AI trade",
         "title_zh": "英伟达的最新交易如何继续瞄准人工智能行业的所有领域",
         "summary": "Yahoo Finance Senior Business Reporter Ines Ferré joins Yahoo Finance Executive Editor Brian Sozzi to report on Nvidia's $12.9 billion acquisition of Hugging Face, the company's bet on open AI models, and now accounting for 8% of the S&P 500 market cap.",
-        "summary_zh": "雅虎财经高级商业记者 Ines Ferré 与雅虎财经执行编辑 Brian Sozzi 一起报道 Nvidia 以 129 亿美元收购 Hugging Face，该公司押注于开放人工智能模型，目前占标准普尔 500 指数市值的 8%。",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://finance.yahoo.com/video/nvidias-latest-deal-continues-target-143717372.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1788446237,
-        "type": "News"
-    },
-    {
-        "title": "Whole Foods CEO bets on smaller stores and the latest Amazon tech to win over shoppers",
-        "title_zh": "Whole Foods 首席执行官押注于小型商店和最新的亚马逊技术来赢得购物者",
-        "summary": "Whole Foods received some rare praise on a recent Amazon earnings call — for good reason.",
-        "summary_zh": "全食超市在最近的亚马逊财报电话会议上获得了罕见的赞扬——这是有充分理由的。",
-        "link": "https://finance.yahoo.com/markets/article/whole-foods-ceo-bets-on-smaller-stores-and-the-latest-amazon-tech-to-win-over-shoppers-140631065.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788444391,
-        "type": "News"
-    },
-    {
-        "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
-        "title_zh": "Hugging Face 交易宣布后，英伟达引领科技股走高，股市小幅上涨：AlphaCheck",
-        "summary": "Stocks edged higher as Treasury yields slipped ahead of Friday's jobs report.",
-        "summary_zh": "由于周五就业报告公布前美国国债收益率下滑，股市小幅走高。",
-        "link": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788444288,
-        "type": "News"
-    },
-    {
-        "title": "Why Nvidia's purchase of Hugging Face is an 'important strategic move'",
-        "title_zh": "为什么英伟达收购 Hugging Face 是一个“重要的战略举措”",
-        "summary": "Nvidia (NVDA) will be buying open-weight AI company Hugging Face for $12.9 billion.",
-        "summary_zh": "英伟达 (NVDA) 将以 129 亿美元收购开放式人工智能公司 Hugging Face。",
-        "link": "https://finance.yahoo.com/video/why-nvidias-purchase-hugging-face-132058312.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788441658,
-        "type": "News"
-    },
-    {
-        "title": "For all their talk about AI, few companies are quantifying gains",
-        "title_zh": "尽管他们都在谈论人工智能，但很少有公司会量化收益",
-        "summary": "Is any money being made from AI?",
-        "summary_zh": "AI能赚钱吗？",
-        "link": "https://finance.yahoo.com/technology/article/for-all-their-talk-about-ai-few-companies-are-quantifying-gains-122132208.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788438092,
-        "type": "News"
-    },
-    {
-        "title": "How Apple's John Ternus inherited a 'reckoning' with China",
-        "title_zh": "苹果公司的约翰·特努斯如何继承对中国的“清算”",
-        "summary": "Strategy Risks founder and CEO, Isaac Stone Fish, sits down with Market Domination host Josh Lipton to discuss various aspects of Apple's (AAPL) overall strategy in China, India, and more.",
-        "summary_zh": "Strategy Risks 创始人兼首席执行官 Isaac Stone Fish 与《市场支配》主持人 Josh Lipton 坐下来讨论苹果 (AAPL) 在中国、印度等地区总体战略的各个方面。",
-        "link": "https://finance.yahoo.com/video/apples-john-ternus-inherited-reckoning-120000967.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788436800,
         "type": "News"
     }
 ]
