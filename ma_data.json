@@ -1,5 +1,15 @@
 [
     {
+        "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much.",
+        "title_zh": "历史讲述了英伟达最后一次大规模收购的结果。拥抱脸部的成本几乎是原来的两倍。",
+        "summary": "The last big acquisition now anchors a $31 billion business line. The next one runs at more than $150 million a year.",
+        "summary_zh": "最后一次大型收购现在已成为价值 310 亿美元的业务线的支柱。下一个项目的运行费用每年超过 1.5 亿美元。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/history-says-nvidias-last-big-033801868.html",
+        "publisher": "Motley Fool",
+        "publish_time": 1788752281,
+        "type": "News"
+    },
+    {
         "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
         "title_zh": "英伟达的拥抱交易是对博通定制芯片威胁的对冲",
         "summary": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion. The deal signifies the chipmaker’s move beyond hardware and up the AI stack.",
@@ -20,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "What Berkshire Hathaway (BRK.A)'s Tech Tilt and Taylor Morrison Deal Means For Shareholders",
-        "title_zh": "伯克希尔哈撒韦公司 (BRK.A) 的 Tech Tilt 和泰勒莫里森交易对股东意味着什么",
-        "summary": "Berkshire Hathaway recently shifted from being a net seller to a net buyer of stocks under CEO Greg Abel, ramping up purchases including a roughly US$38.00 billion Alphabet stake and acquiring homebuilder Taylor Morrison for about US$6.80 billion.",
-        "summary_zh": "伯克希尔·哈撒韦公司最近在首席执行官格雷格·阿贝尔 (Greg Abel) 的领导下从股票净卖家转变为股票净买家，加大了购买力度，其中包括约 380 亿美元的 Alphabet 股份，并以约 68 亿美元收购了房屋建筑商泰勒·莫里森 (Taylor Morrison)。",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-tech-tilt-130531062.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1788613531,
-        "type": "News"
-    },
-    {
         "title": "Blackstone (BX) Joins $3 Billion Debt Deal As It Readies Hotel IPO",
         "title_zh": "Blackstone (BX) 加入 30 亿美元债务交易，准备酒店 IPO",
         "summary": "Blackstone (NYSE:BX) joined Waymo’s first major debt financing, a US$3b deal that marks the autonomous driving company’s debut in the debt market.",
@@ -40,13 +40,13 @@
         "type": "News"
     },
     {
-        "title": "Waymo raises $3 billion in first-ever debt deal with Pimco, Blackstone",
-        "title_zh": "Waymo 通过与 Pimco 和 Blackstone 的首笔债务交易筹集了 30 亿美元",
-        "summary": "The Alphabet unit is working with Goldman Sachs to finalize the loan, which could price at more than 500 basis points over the benchmark",
-        "summary_zh": "Alphabet 部门正在与高盛合作敲定这笔贷款，贷款定价可能比基准高出 500 个基点以上",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/waymo-raises-3-billion-first-133700942.html",
-        "publisher": "Quartz",
-        "publish_time": 1788442620,
+        "title": "Lilly’s Merida Deal Shows the GLP-1 King Is Already Thinking Beyond Obesity",
+        "title_zh": "礼来公司与 Merida 的交易表明 GLP-1 之王已经开始超越肥胖的思考",
+        "summary": "Eli Lilly's $2.875 billion Merida Biosciences deal expands its immunology pipeline, as strong GLP-1 growth continues while LLY shares trail the broader health care sector.",
+        "summary_zh": "礼来 (Eli Lilly) 价值 28.75 亿美元的 Merida Biosciences 交易扩大了其免疫学产品线，GLP-1 继续强劲增长，而 LLY 股价落后于更广泛的医疗保健行业。",
+        "link": "https://finance.yahoo.com/healthcare/articles/lilly-merida-deal-shows-glp-150000515.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1788361200,
         "type": "News"
     }
 ]

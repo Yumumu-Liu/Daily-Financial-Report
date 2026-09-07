@@ -1,5 +1,25 @@
 [
     {
+        "title": "Google-backed Indian space startup raises $100 million in latest funding round",
+        "title_zh": "谷歌支持的印度太空初创公司在最新一轮融资中筹集了 1 亿美元",
+        "summary": "Sept 7 (Reuters) - Indian space tech startup Pixxel said on Monday it had raised $100 million in a Series C funding round led by Singapore state investor Temasek and British space-technology venture",
+        "summary_zh": "路透 9 月 7 日 - 印度太空科技初创公司 Pixxel 周一表示，已在由新加坡国家投资者淡马锡和英国太空技术企业领投的 C 轮融资中筹集了 1 亿美元",
+        "link": "https://finance.yahoo.com/technology/articles/google-backed-indian-space-startup-013250812.html",
+        "publisher": "Reuters",
+        "publish_time": 1788744770,
+        "type": "News"
+    },
+    {
+        "title": "Why Nvidia wants Hugging Face to keep helping its rivals: Chart of the Day",
+        "title_zh": "为什么 Nvidia 希望 Hugging Face 继续帮助其竞争对手：每日图表",
+        "summary": "Nvidia got rich selling scarcity in AI — now it's betting on AI abundance.",
+        "summary_zh": "英伟达通过销售人工智能的稀缺性而发了财，现在它把赌注押在了人工智能的丰富性上。",
+        "link": "https://finance.yahoo.com/markets/article/why-nvidia-wants-hugging-face-to-keep-helping-its-rivals-chart-of-the-day-132655037.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788701215,
+        "type": "News"
+    },
+    {
         "title": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
         "title_zh": "通胀数据、甲骨文财报和能源供应紧缩：本周值得关注的内容",
         "summary": "Two questions are set to lead the week: Will the data push the Fed toward a rate hike, and what can Oracle tell Wall Street about the state of Big Tech's AI debt load?",
@@ -7,16 +27,6 @@
         "link": "https://finance.yahoo.com/economy/article/inflation-data-oracle-earnings-and-an-energy-supply-crunch-what-to-watch-this-week-120429533.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788696269,
-        "type": "News"
-    },
-    {
-        "title": "Exclusive-China's Xi seeks to bring large CEO delegation on US visit, sources say",
-        "title_zh": "消息人士称，中国习近平寻求率领大型首席执行官代表团访美",
-        "summary": "By Laurie Chen and Eduardo Baptista BEIJING, Sept 4 (Reuters) - President Xi Jinping is preparing a large business delegation to accompany him on his visit to Washington, two sources said, an unusual",
-        "summary_zh": "路透北京 9 月 4 日（路透社） - 两名消息人士称，习近平主席正在准备一个大型商业代表团陪同他访问华盛顿，这是一次不同寻常的情况",
-        "link": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
-        "publisher": "Reuters",
-        "publish_time": 1788559371,
         "type": "News"
     }
 ]
