@@ -1,22 +1,12 @@
 [
     {
-        "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much.",
-        "title_zh": "历史讲述了英伟达最后一次大规模收购的结果。拥抱脸部的成本几乎是原来的两倍。",
-        "summary": "The last big acquisition now anchors a $31 billion business line. The next one runs at more than $150 million a year.",
-        "summary_zh": "最后一次大型收购现在已成为价值 310 亿美元的业务线的支柱。下一个项目的运行费用每年超过 1.5 亿美元。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/history-says-nvidias-last-big-033801868.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1788752281,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia’s Hugging Face Deal Is a Hedge against Broadcom’s Custom Silicon Threat",
-        "title_zh": "英伟达的拥抱交易是对博通定制芯片威胁的对冲",
-        "summary": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion. The deal signifies the chipmaker’s move beyond hardware and up the AI stack.",
-        "summary_zh": "NVIDIA 公司（纳斯达克股票代码：NVDA）已正式向 AI 开发者平台 Hugging Face 投入数十亿美元，总金额为 129 亿美元。这笔交易标志着芯片制造商超越硬件并向人工智能堆栈迈进。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-hugging-face-deal-hedge-105111039.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1788691871,
+        "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
+        "title_zh": "NVIDIA抱脸收购：能否进一步巩固AI主导地位？",
+        "summary": "NVDA's $12.93B Hugging Face deal is likely to deepen its AI moat by combining chip leadership with a vast open-model platform and developer ecosystem.",
+        "summary_zh": "NVDA 的 12.93B 美元 Hugging Face 交易可能会通过将芯片领先地位与庞大的开放模型平台和开发者生态系统相结合来加深其人工智能护城河。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html",
+        "publisher": "Zacks",
+        "publish_time": 1788786120,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/healthcare/articles/lilly-merida-deal-shows-glp-150000515.html",
         "publisher": "MarketBeat",
         "publish_time": 1788361200,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "通过这些 ETF 瞄准炙手可热的分拆和合并空间",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "分拆和合并可能会导致股价大幅波动，但了解这些情况对投资者来说可能具有挑战性；这些 ETF 可以提供帮助。",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
         "type": "News"
     }
 ]
