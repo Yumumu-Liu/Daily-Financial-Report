@@ -1,42 +1,22 @@
 [
     {
-        "title": "QCOM Stock Extends Gains Overnight: Analyst Says Amazon AI Deal 'Changes Calculus For Qualcomm'",
-        "title_zh": "高通股票隔夜延续涨势：分析师称亚马逊人工智能交易“改变了高通的计算方式”",
-        "summary": "Amazon’s custom AI silicon push gives Qualcomm a fresh growth avenue beyond smartphones, with analysts reassessing the chipmaker’s prospects.",
-        "summary_zh": "亚马逊推出的定制人工智能芯片为高通提供了智能手机之外的新增长途径，分析师重新评估了这家芯片制造商的前景。",
-        "link": "https://finance.yahoo.com/technology/ai/articles/qcom-stock-extends-gains-overnight-022117425.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1788920477,
-        "type": "News"
-    },
-    {
-        "title": "States That Gave Data Centers Billions in Tax Breaks Are Now Ripping Up the Deals",
-        "title_zh": "为数据中心提供数十亿美元税收减免的州现在正在取消交易",
-        "summary": "Amazon, Meta and Google risk losing decadeslong exemptions due to a backlash against their facilities.",
-        "summary_zh": "亚马逊、Meta 和谷歌可能会因其设施遭到强烈抵制而失去长达数十年的豁免权。",
-        "link": "https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "The Wall Street Journal",
-        "publish_time": 1788915600,
+        "title": "Update: Market Chatter: Uber Targets 4 Billion Euros From Five-Tranche Euro Bond Deal, Deal Size Could Increase",
+        "title_zh": "更新：市场传言：Uber 的目标是通过五批欧元债券交易筹集 40 亿欧元，交易规模可能会增加",
+        "summary": "(Updates with more details on the transaction in the headline and second paragraph.) Uber Technol",
+        "summary_zh": "（在标题和第二段中更新了有关交易的更多详细信息。） Uber Technol",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-targets-4-092920356.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1788946160,
         "type": "News"
     },
     {
         "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
         "title_zh": "Constellation Energy 最大的人工智能电力交易要到 2027 年 6 月才会开始付款",
         "summary": "Meta signed a 20-year deal built around one Illinois nuclear plant. The first contracted dollar is still nine months away.",
-        "summary_zh": "Meta 签署了一项围绕伊利诺伊州一座核电站建设的 20 年协议。距离第一笔签约美元还有九个月的时间。",
+        "summary_zh": "Meta 签署了一项围绕伊利诺伊州一座核电站建设的为期 20 年的协议。距离第一笔签约美元还有九个月的时间。",
         "link": "https://finance.yahoo.com/energy/articles/constellation-energys-biggest-ai-power-235801730.html",
         "publisher": "Motley Fool",
         "publish_time": 1788911881,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm Stock Pops as Amazon Deal Ramps Up AI Ambitions",
-        "title_zh": "随着亚马逊交易增强人工智能野心，高通股价上涨",
-        "summary": "The chip maker and online retailer are teaming up to build data-center infrastructure, including chips and optical networking products.",
-        "summary_zh": "这家芯片制造商和在线零售商正在联手建设数据中心基础设施，包括芯片和光网络产品。",
-        "link": "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1788893940,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/qualcomm-and-amazon-ink-deal-for-custom-data-center-chips-170048117.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788886848,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia-Backed Firmus Passes 900 Megawatts With OpenAI Deal",
+        "title_zh": "Nvidia 支持的 Firmus 通过 OpenAI 交易突破 900 兆瓦",
+        "summary": "Firmus runs two data centres and has five more under development",
+        "summary_zh": "Firmus 运营着两个数据中心，另外五个数据中心正在开发中",
+        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-firmus-passes-900-122635680.html",
+        "publisher": "GuruFocus.com",
+        "publish_time": 1788870395,
+        "type": "News"
+    },
+    {
+        "title": "KKR (KKR) Bets On Data Centres, Home Services And Healthcare With New Deals",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "KKR (NYSE:KKR) is ramping up activity in digital infrastructure, home services and healthcare with a series of new deals. The firm agreed to acquire a majority stake in global data centre operator ST Telemedia Global Data Centres in recent days.",
+        "summary_zh": "KKR（纽约证券交易所股票代码：KKR）正在通过一系列新交易加强数字基础设施、家庭服务和医疗保健领域的活动。该公司近日同意收购全球数据中心运营商 ST Telemedia 全球数据中心的多数股权。",
+        "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-bets-data-centres-041925806.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1788668365,
         "type": "News"
     }
 ]

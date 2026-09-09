@@ -1,5 +1,45 @@
 [
     {
+        "title": "Why Nike and Lululemon are struggling: 'A lot of surface area to defend'",
+        "title_zh": "为什么耐克和 Lululemon 举步维艰：“有很多区域需要防守”",
+        "summary": "Shares in Nike and Lululemon have declined as the two athletic-wear retailers have struggled to find their footing.",
+        "summary_zh": "耐克和露露柠檬的股价下跌，因为这两家运动服装零售商一直在努力寻找立足点。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/why-nike-and-lululemon-are-struggling-a-lot-of-surface-area-to-defend-125242135.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788958362,
+        "type": "News"
+    },
+    {
+        "title": "Apple event live updates: Foldable iPhone and watches expected",
+        "title_zh": "苹果活动实时更新：预计可折叠 iPhone 和手表",
+        "summary": "Apple is hosting its annual fall event at its Cupertino, Calif., headquarters.",
+        "summary_zh": "苹果公司正在其加利福尼亚州库比蒂诺总部举办年度秋季活动。",
+        "link": "https://finance.yahoo.com/markets/stocks/article/apple-event-live-updates-foldable-iphone-and-watches-expected-122840434.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788956920,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as oil prices hit $100",
+        "title_zh": "今日股市：油价触及 100 美元，道琼斯指数、标准普尔 500 指数和纳斯达克期货下跌",
+        "summary": "Stocks were under pressure as oil prices continued their journey upward and traders shifted their expectations of a Fed rate hike in September.",
+        "summary_zh": "由于油价继续上涨，且交易员改变了对美联储 9 月加息的预期，股市承压。",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1788941051,
+        "type": "News"
+    },
+    {
+        "title": "Google to invest $15 billion AI infrastructure in Finland",
+        "title_zh": "谷歌将在芬兰投资 150 亿美元人工智能基础设施",
+        "summary": "HELSINKI, Sept 9 (Reuters) - Alphabet's Google will invest at least €13 billion ($15.1 billion) in artificial intelligence infrastructure in Finland over the next two years, it said on Wednesday,",
+        "summary_zh": "赫尔辛基，9 月 9 日（路透社） - Alphabet 旗下的谷歌周三表示，未来两年将在芬兰的人工智能基础设施上投资至少 130 亿欧元（151 亿美元）。",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html",
+        "publisher": "Reuters",
+        "publish_time": 1788937279,
+        "type": "News"
+    },
+    {
         "title": "Qualcomm and Amazon ink deal for custom data center chips",
         "title_zh": "高通和亚马逊签署定制数据中心芯片协议",
         "summary": "Qualcomm has signed a custom data center chip deal with Amazon.",
@@ -30,16 +70,6 @@
         "type": "News"
     },
     {
-        "title": "How Apple's stock is performing ahead of a pivotal product launch",
-        "title_zh": "苹果公司的股票在关键产品发布之前的表现如何",
-        "summary": "AllSource Investment Management founder and Managing Partner Patrick Kennedy and Yahoo Finance Senior Business Reporter Ines Ferré join Yahoo Finance Executive Editor Brian Sozzi to discuss Apple's (AAPL) stock performance one day before CEO John Ternus hosts his first iPhone ...",
-        "summary_zh": "AllSource Investment Management 创始人兼执行合伙人帕特里克·肯尼迪 (Patrick Kennedy) 和雅虎财经高级商业记者伊内斯·费雷 (Ines Ferré) 与雅虎财经执行编辑布莱恩·索齐 (Brian Sozzi) 一起讨论了苹果 ...",
-        "link": "https://finance.yahoo.com/video/apples-stock-performing-ahead-pivotal-150701777.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1788880021,
-        "type": "News"
-    },
-    {
         "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
         "title_zh": "随着油价上涨，债券收益率担忧持续存在：AlphaCheck",
         "summary": "Stocks fell on Monday as long-dated bond yields continued to climb amid surging oil prices, raising concerns that the Federal Reserve will need to hike rates at its policy meeting next week.",
@@ -47,16 +77,6 @@
         "link": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1788875518,
-        "type": "News"
-    },
-    {
-        "title": "The stock market's hot streak hints at more good times ahead",
-        "title_zh": "股市的持续火爆预示着未来还会有更多美好时光",
-        "summary": "Stocks remain in a clear long-term uptrend.",
-        "summary_zh": "股市仍处于明显的长期上升趋势。",
-        "link": "https://finance.yahoo.com/markets/article/the-stock-markets-hot-streak-hints-at-more-good-times-ahead-114050175.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1788867650,
         "type": "News"
     }
 ]
