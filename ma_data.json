@@ -1,5 +1,35 @@
 [
     {
+        "title": "Salesforce Closed Its $3.6B Fin Acquisition Months Early. The Timing Tells You More Than the Price.",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Salesforce closed its $3.6 billion acquisition of Fin on September 10, 2026, finishing the deal months ahead of the original Q4 FY2027 schedule.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-closed-3-6b-fin-230918074.html",
+        "publisher": "Forkast News",
+        "publish_time": 1789081758,
+        "type": "News"
+    },
+    {
+        "title": "Can Marvell Stock Make You Money Before Its Hyperscaler Deal Pays Off?",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Marvell Technology (MRVL) trades at $235.01, and it has expanded its agreement with a key hyperscaler, a deal analysts size at up to $120 billion of revenue over about six and a half years.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-money-hyperscaler-deal-173255900.html",
+        "publisher": "Trefis",
+        "publish_time": 1789061575,
+        "type": "News"
+    },
+    {
+        "title": "SpaceX stock rises with data center overhaul, budding UK defense deal in focus",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "SpaceEx stock is on the move Thursday as investors sort through a number of headlines affecting the rocket-and-satellite company.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-rises-with-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789056039,
+        "type": "News"
+    },
+    {
         "title": "Chime Paid $590 Million to Stop Renting Its Own Bank | Is This the Deal That Changes the Stock?",
         "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "Chime just agreed to buy the bank it has been renting for years, and the move promises cheaper funding and cleaner economics while dragging the fintech into a world of capital requirements and federal oversight it has never faced before.",
@@ -10,26 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Nvidia Stock Falls. DOJ Probes $20 Billion Groq Deal",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Nvidia Stock Under Pressure as DOJ Probes Groq Deal Structure",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-falls-doj-probes-122547655.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1789043147,
-        "type": "News"
-    },
-    {
-        "title": "Qualcomm’s $60 billion deal reveals what comes after smartphones",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Qualcomm just found a potential replacement for its fading Apple business",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-60-billion-deal-reveals-013700748.html",
-        "publisher": "TheStreet",
-        "publish_time": 1789004220,
-        "type": "News"
-    },
-    {
         "title": "Goldman's IG Deal Expands Canadian Wealth Reach & AWM Scale",
         "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "GS expands its Canadian wealth reach as its IG collaboration deepens AWM scale and recurring fee opportunities.",
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/goldmans-ig-deal-expands-canadian-134900537.html",
         "publisher": "Zacks",
         "publish_time": 1788961740,
-        "type": "News"
-    },
-    {
-        "title": "Update: Market Chatter: Uber Targets 4 Billion Euros From Five-Tranche Euro Bond Deal, Deal Size Could Increase",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "(Updates with more details on the transaction in the headline and second paragraph.) Uber Technol",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-targets-4-092920356.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1788946160,
         "type": "News"
     }
 ]
