@@ -1,5 +1,15 @@
 [
     {
+        "title": "Apple's AI vision is tailored for the moment of AI panic",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Apple isn't selling shelter and relief from potentially end-of-the-world technology. It's selling more iPhones.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/technology/article/apples-ai-vision-is-tailored-for-the-moment-of-ai-panic-100000576.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789207200,
+        "type": "News"
+    },
+    {
         "title": "Inside Tesla’s Cybertruck and robotaxi experience",
         "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "A week after Tesla's (TSLA) Cybertruck launch, The Verge Freelance Reporter Mack DeGeurin joins Ines Ferre on Market Domination to break down how the Cybertruck works and take viewers inside Tesla's highly anticipated robotaxi experience.",
@@ -7,6 +17,16 @@
         "link": "https://finance.yahoo.com/video/inside-tesla-cybertruck-robotaxi-experience-202100555.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1789158060,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk’s Boring Company raises $3B at $23B valuation",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination to discuss Elon Musk's tunnel-digging startup, The Boring Company, which announced it raised $3 billion in a Series D funding round, valuing the company at $23 billion",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/video/elon-musk-boring-company-raises-195300108.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789156380,
         "type": "News"
     },
     {
@@ -21,7 +41,7 @@
     },
     {
         "title": "SpaceX signs $1.1 billion-per month computing deal",
-        "title_zh": "SpaceX 签署每月 11 亿美元的计算协议",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination host Ines Ferré to report that SpaceX (SPCX) has signed a $1.1 billion-per month AI computing deal.",
         "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://finance.yahoo.com/video/spacex-signs-1-1-billion-195052486.html",
@@ -30,33 +50,23 @@
         "type": "News"
     },
     {
+        "title": "Options Greeks explained: A trader's guide to all five",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "How to read delta, gamma, theta, vega, and rho, and what each one says about an option. Plus, a real Nvidia call shows what those five figures mean in dollars.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/personal-finance/investing/article/options-greeks-181341422.html",
+        "publisher": "Yahoo Personal Finance",
+        "publish_time": 1789150421,
+        "type": "News"
+    },
+    {
         "title": "Oracle is the most attractive AI cloud, analyst says",
-        "title_zh": "分析师表示，甲骨文是最具吸引力的人工智能云",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "D.A. Davidson Head of Technology Research Gil Luria joins Julie Hyman on Market Catalyst to break down why he believes Oracle (ORCL) is \"by far the most attractive AI cloud.\"",
         "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "link": "https://finance.yahoo.com/video/oracle-most-attractive-ai-cloud-144500691.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1789137900,
-        "type": "News"
-    },
-    {
-        "title": "What a Republican 'wipeout' in the midterm elections means for investors",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Veda Partners managing partner and director of economic policy Henrietta Treyz outlines the type of policy shifts that could affect investors most if the Republicans end up \"wiping out\" in the midterm elections.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/republican-wipeout-midterm-elections-means-120000609.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789128000,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia CEO Jensen Huang just doubled down on his big 2030 prediction",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Huang reiterated his expectation that the size of the AI market will reach $3 trillion to $4 trillion by 2030.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-ceo-jensen-huang-just-doubled-down-on-his-big-2030-prediction-115945089.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789127985,
         "type": "News"
     }
 ]
