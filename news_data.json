@@ -1,5 +1,15 @@
 [
     {
+        "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day",
+        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "summary": "Rising long-dated bond yields haven't dented the stock market that much. The reason may have to do with why yields have been rising.",
+        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "link": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789216426,
+        "type": "News"
+    },
+    {
         "title": "Apple's AI vision is tailored for the moment of AI panic",
         "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
         "summary": "Apple isn't selling shelter and relief from potentially end-of-the-world technology. It's selling more iPhones.",
@@ -7,66 +17,6 @@
         "link": "https://finance.yahoo.com/technology/article/apples-ai-vision-is-tailored-for-the-moment-of-ai-panic-100000576.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1789207200,
-        "type": "News"
-    },
-    {
-        "title": "Inside Tesla’s Cybertruck and robotaxi experience",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "A week after Tesla's (TSLA) Cybertruck launch, The Verge Freelance Reporter Mack DeGeurin joins Ines Ferre on Market Domination to break down how the Cybertruck works and take viewers inside Tesla's highly anticipated robotaxi experience.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/inside-tesla-cybertruck-robotaxi-experience-202100555.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789158060,
-        "type": "News"
-    },
-    {
-        "title": "Elon Musk’s Boring Company raises $3B at $23B valuation",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination to discuss Elon Musk's tunnel-digging startup, The Boring Company, which announced it raised $3 billion in a Series D funding round, valuing the company at $23 billion",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/elon-musk-boring-company-raises-195300108.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789156380,
-        "type": "News"
-    },
-    {
-        "title": "Why the S&P 500 is 'like a duck' amid risks of rising interest rates",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Roundhill Investments chief investment strategist Drew Pettit and Wolfe Research chief economist Stephanie Roth join Market Domination to offer their insights into how the market (^DJI, ^IXIC, ^GSPC) is interpreting the latest economic data and the odds of the Federal Reserve ...",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/why-p-500-duck-amid-195113865.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789156273,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX signs $1.1 billion-per month computing deal",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "Yahoo Finance Senior Autos Reporter Pras Subramanian joins Market Domination host Ines Ferré to report that SpaceX (SPCX) has signed a $1.1 billion-per month AI computing deal.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/spacex-signs-1-1-billion-195052486.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789156252,
-        "type": "News"
-    },
-    {
-        "title": "Options Greeks explained: A trader's guide to all five",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "How to read delta, gamma, theta, vega, and rho, and what each one says about an option. Plus, a real Nvidia call shows what those five figures mean in dollars.",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/personal-finance/investing/article/options-greeks-181341422.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1789150421,
-        "type": "News"
-    },
-    {
-        "title": "Oracle is the most attractive AI cloud, analyst says",
-        "title_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "summary": "D.A. Davidson Head of Technology Research Gil Luria joins Julie Hyman on Market Catalyst to break down why he believes Oracle (ORCL) is \"by far the most attractive AI cloud.\"",
-        "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-        "link": "https://finance.yahoo.com/video/oracle-most-attractive-ai-cloud-144500691.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789137900,
         "type": "News"
     }
 ]
