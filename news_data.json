@@ -1,22 +1,82 @@
 [
     {
-        "title": "Apple's iPhone Duo event should put the bears to rest",
-        "title_zh": "Apple's iPhone Duo event should put the bears to rest",
-        "summary": "Apple, the innovator, just got its memory chip inflation-beating groove back.",
-        "summary_zh": "Apple, the innovator, just got its memory chip inflation-beating groove back.",
-        "link": "https://finance.yahoo.com/markets/article/apples-iphone-duo-event-should-put-the-bears-to-rest-123000593.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789302600,
+        "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
+        "title_zh": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
+        "summary": "Sept 14 (Reuters) - Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee",
+        "summary_zh": "Sept 14 (Reuters) - Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee",
+        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-curb-ai-model-151108619.html",
+        "publisher": "Reuters",
+        "publish_time": 1789398668,
         "type": "News"
     },
     {
-        "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
-        "title_zh": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week",
-        "summary": "All eyes will be on the Federal Reserve's rates decision this week.",
-        "summary_zh": "All eyes will be on the Federal Reserve's rates decision this week.",
-        "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
+        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "title_zh": "Tech pulls back on AI concerns, cybersecurity takes a step up",
+        "summary": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
+        "summary_zh": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
+        "link": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789396740,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
+        "title_zh": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
+        "summary": "Leave it to Elon Musk to say, essentially, I've been right all along.",
+        "summary_zh": "Leave it to Elon Musk to say, essentially, I've been right all along.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789293600,
+        "publish_time": 1789395498,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers",
+        "title_zh": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers",
+        "summary": "By Niket Nishant and Tharuniyaa Lakshmi Sept 14 (Reuters) - Wall Street's main indexes fell on Monday, weighed by a selloff in key AI stocks after top U.S. executives cited safety risks and called for",
+        "summary_zh": "By Niket Nishant and Tharuniyaa Lakshmi Sept 14 (Reuters) - Wall Street's main indexes fell on Monday, weighed by a selloff in key AI stocks after top U.S. executives cited safety risks and called for",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
+        "publisher": "Reuters",
+        "publish_time": 1789395256,
+        "type": "News"
+    },
+    {
+        "title": "Tech stocks today: AI warnings send shock through chip stocks",
+        "title_zh": "Tech stocks today: AI warnings send shock through chip stocks",
+        "summary": "Tech stock news for the week of Sept. 14.",
+        "summary_zh": "Tech stock news for the week of Sept. 14.",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789394494,
+        "type": "News"
+    },
+    {
+        "title": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO?",
+        "title_zh": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO?",
+        "summary": "Amid warnings to pace AI development, Anthropic (ANTH.PVT) is still preparing for an October IPO date while OpenAI (OPAI.PVT) CEO Sam Altman believes a 2026 IPO for his company would be \"ill-advised.\" Yahoo Finance's Jake Conley and Pras Subramanian are joined by Business Insi...",
+        "summary_zh": "Amid warnings to pace AI development, Anthropic (ANTH.PVT) is still preparing for an October IPO date while OpenAI (OPAI.PVT) CEO Sam Altman believes a 2026 IPO for his company would be \"ill-advised.\" Yahoo Finance's Jake Conley and Pras Subramanian are joined by Business Insi...",
+        "link": "https://finance.yahoo.com/video/could-dario-amodeis-ai-safety-135823957.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789394303,
+        "type": "News"
+    },
+    {
+        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+        "title_zh": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+        "summary": "Here's a check of the markets in the first few minutes of trading.",
+        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
+        "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789393519,
+        "type": "News"
+    },
+    {
+        "title": "Anthropic, OpenAI now want to tame the rapid pace of AI development",
+        "title_zh": "Anthropic, OpenAI now want to tame the rapid pace of AI development",
+        "summary": "Anthropic (ANTH.PVT) CEO Dario Amodei and OpenAI (OPAI.PVT) CEO Sam Altman are in agreement that the AI industry needs to pace its development.",
+        "summary_zh": "Anthropic (ANTH.PVT) CEO Dario Amodei and OpenAI (OPAI.PVT) CEO Sam Altman are in agreement that the AI industry needs to pace its development.",
+        "link": "https://finance.yahoo.com/video/anthropic-openai-now-want-to-tame-the-rapid-pace-of-ai-development-133545450.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789392945,
         "type": "News"
     }
 ]

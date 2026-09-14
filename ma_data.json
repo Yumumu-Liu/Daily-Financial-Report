@@ -1,32 +1,12 @@
 [
     {
-        "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
-        "title_zh": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
-        "summary": "Apple's recent acquisition gives investors a peek at what the company will be interested in developing under new CEO John Ternus.",
-        "summary_zh": "Apple's recent acquisition gives investors a peek at what the company will be interested in developing under new CEO John Ternus.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/sonera-acquisition-bodes-well-apple-191233662.html",
-        "publisher": "Barchart",
-        "publish_time": 1789326753,
-        "type": "News"
-    },
-    {
-        "title": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
-        "title_zh": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
-        "summary": "Salesforce Inc. (NYSE:CRM) continues to strengthen its enterprise artificial intelligence offering as it looks to make AI a larger part of its customer relationship management ecosystem.",
-        "summary_zh": "Salesforce Inc. (NYSE:CRM) continues to strengthen its enterprise artificial intelligence offering as it looks to make AI a larger part of its customer relationship management ecosystem.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
-        "publisher": "Insider Monkey",
-        "publish_time": 1789250758,
-        "type": "News"
-    },
-    {
-        "title": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.",
-        "title_zh": "Will Midterm Elections Cause the Stock Market to Plunge? 75 Years of History Offer an Unexpected Answer.",
-        "summary": "Although midterms lead to heightened stock market volatility, year six for two-term presidents has historically been a breadwinner for investors.",
-        "summary_zh": "Although midterms lead to heightened stock market volatility, year six for two-term presidents has historically been a breadwinner for investors.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-cause-stock-market-132601186.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1789219561,
+        "title": "Market Chatter: Aon Commences Seven-Part US Dollar Bond Sale to Fund USI Takeover",
+        "title_zh": "Market Chatter: Aon Commences Seven-Part US Dollar Bond Sale to Fund USI Takeover",
+        "summary": "Aon (AON) has commenced a US investment-grade debt sale in seven tranches to help fund its planned $",
+        "summary_zh": "Aon (AON) has commenced a US investment-grade debt sale in seven tranches to help fund its planned $",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-aon-commences-seven-124024801.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1789389624,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/healthcare/articles/kkr-kkr-bets-data-centres-041925806.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1788668365,
+        "type": "News"
+    },
+    {
+        "title": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "title_zh": "Target the Red-Hot Spin-Off and Merger Space With These ETFs",
+        "summary": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "summary_zh": "Spin-offs and mergers can lead to major movement for share prices, but accessing these scenarios can be challenging for investors; these ETFs can help.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/target-red-hot-spin-off-130000197.html",
+        "publisher": "MarketBeat",
+        "publish_time": 1779022800,
+        "type": "News"
+    },
+    {
+        "title": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "title_zh": "M&A Deals Thriving in 2025: ETFs in Focus",
+        "summary": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "summary_zh": "M&A deals are booming in 2025 despite fewer transactions -- megadeals, AI bets and Fed cuts may fuel ETFs like MNA, IAI, KBWB & CHAT.",
+        "link": "https://finance.yahoo.com/news/m-deals-thriving-2025-etfs-120000095.html",
+        "publisher": "Zacks",
+        "publish_time": 1759492800,
         "type": "News"
     }
 ]
