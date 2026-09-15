@@ -1,12 +1,12 @@
 [
     {
-        "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
-        "title_zh": "Palantir, Nvidia curb AI model use over data fears, The Information reports",
-        "summary": "Sept 14 (Reuters) - Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee",
-        "summary_zh": "Sept 14 (Reuters) - Large technology companies, including Palantir Technologies, Nvidia and Booz Allen Hamilton, could restrict or cease to use advanced AI models unless Anthropic and OpenAI guarantee",
-        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-curb-ai-model-151108619.html",
-        "publisher": "Reuters",
-        "publish_time": 1789398668,
+        "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
+        "title_zh": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
+        "summary": "Looking at history, the benchmark S&P 500 index has seen an average three-month return of negative 2% at the start of a Fed hiking cycle throughout the past few decades, according to Goldman Sachs.",
+        "summary_zh": "Looking at history, the benchmark S&P 500 index has seen an average three-month return of negative 2% at the start of a Fed hiking cycle throughout the past few decades, according to Goldman Sachs.",
+        "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789401138,
         "type": "News"
     },
     {
@@ -27,16 +27,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1789395498,
-        "type": "News"
-    },
-    {
-        "title": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers",
-        "title_zh": "Nasdaq drags on Wall St as AI slowdown fears hammer Nvidia, chipmakers",
-        "summary": "By Niket Nishant and Tharuniyaa Lakshmi Sept 14 (Reuters) - Wall Street's main indexes fell on Monday, weighed by a selloff in key AI stocks after top U.S. executives cited safety risks and called for",
-        "summary_zh": "By Niket Nishant and Tharuniyaa Lakshmi Sept 14 (Reuters) - Wall Street's main indexes fell on Monday, weighed by a selloff in key AI stocks after top U.S. executives cited safety risks and called for",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
-        "publisher": "Reuters",
-        "publish_time": 1789395256,
         "type": "News"
     },
     {
@@ -77,6 +67,16 @@
         "link": "https://finance.yahoo.com/video/anthropic-openai-now-want-to-tame-the-rapid-pace-of-ai-development-133545450.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1789392945,
+        "type": "News"
+    },
+    {
+        "title": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
+        "title_zh": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
+        "summary": "Here's how the Fed's rate decision could impact savings products, various types of loans, and credit cards.",
+        "summary_zh": "Here's how the Fed's rate decision could impact savings products, various types of loans, and credit cards.",
+        "link": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
+        "publisher": "Yahoo Personal Finance",
+        "publish_time": 1734473126,
         "type": "News"
     }
 ]
