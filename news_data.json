@@ -1,12 +1,82 @@
 [
     {
-        "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-        "title_zh": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-        "summary": "Looking at history, the benchmark S&P 500 index has seen an average three-month return of negative 2% at the start of a Fed hiking cycle throughout the past few decades, according to Goldman Sachs.",
-        "summary_zh": "Looking at history, the benchmark S&P 500 index has seen an average three-month return of negative 2% at the start of a Fed hiking cycle throughout the past few decades, according to Goldman Sachs.",
-        "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
+        "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+        "title_zh": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
+        "summary": "Here's a check of the markets in the first few minutes of trading.",
+        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
+        "link": "https://finance.yahoo.com/markets/article/10-year-treasury-hits-2007-high-as-oil-stays-above-100-alphacheck-140049622.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789401138,
+        "publish_time": 1789480849,
+        "type": "News"
+    },
+    {
+        "title": "Musk hints (again) at possible SpaceX, Tesla merger",
+        "title_zh": "Musk hints (again) at possible SpaceX, Tesla merger",
+        "summary": "Elon Musk once again hinted at possible deepening collaboration, perhaps the possibility of a merger, between his two major companies: Tesla and SpaceX.",
+        "summary_zh": "Elon Musk once again hinted at possible deepening collaboration, perhaps the possibility of a merger, between his two major companies: Tesla and SpaceX.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789480229,
+        "type": "News"
+    },
+    {
+        "title": "Wall St tepid at open as oil prices, Treasury yields rise",
+        "title_zh": "Wall St tepid at open as oil prices, Treasury yields rise",
+        "summary": "Sept 15 (Reuters) - The major U.S. stock indexes were subdued at open on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI demand kept investors at bay.",
+        "summary_zh": "Sept 15 (Reuters) - The major U.S. stock indexes were subdued at open on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI demand kept investors at bay.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-tepid-open-oil-133833231.html",
+        "publisher": "Reuters",
+        "publish_time": 1789479513,
+        "type": "News"
+    },
+    {
+        "title": "Wall St set to open lower as rising oil and yields deepen market gloom",
+        "title_zh": "Wall St set to open lower as rising oil and yields deepen market gloom",
+        "summary": "By Niket Nishant and Tharuniyaa Lakshmi Sept 15 (Reuters) - Major U.S. stock indexes were set to open lower on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI",
+        "summary_zh": "By Niket Nishant and Tharuniyaa Lakshmi Sept 15 (Reuters) - Major U.S. stock indexes were set to open lower on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
+        "publisher": "Reuters",
+        "publish_time": 1789476525,
+        "type": "News"
+    },
+    {
+        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+        "title_zh": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
+        "summary": "Wall Street pushed back against bleak warnings from AI developer titans, arguing that companies are not slowing development or spending.",
+        "summary_zh": "Wall Street pushed back against bleak warnings from AI developer titans, arguing that companies are not slowing development or spending.",
+        "link": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789466400,
+        "type": "News"
+    },
+    {
+        "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+        "title_zh": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+        "summary": "NEW DELHI, Sept 15 (Reuters) - India's consumer regulator is examining Apple's software warranty terms in an investigation of the iOS 18 update alleged to have damaged iPhone functionality, compelling users to pay \"exorbitant\" sums for repairs, documents show.",
+        "summary_zh": "NEW DELHI, Sept 15 (Reuters) - India's consumer regulator is examining Apple's software warranty terms in an investigation of the iOS 18 update alleged to have damaged iPhone functionality, compelling users to pay \"exorbitant\" sums for repairs, documents show.",
+        "link": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html",
+        "publisher": "Reuters",
+        "publish_time": 1789463404,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises",
+        "title_zh": "Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises",
+        "summary": "Investors braced for the Federal Reserve's interest rate decision on Wednesday and monitored the fallout from Anthropic CEO Dario Amodei's essay on AI safety fears.",
+        "summary_zh": "Investors braced for the Federal Reserve's interest rate decision on Wednesday and monitored the fallout from Anthropic CEO Dario Amodei's essay on AI safety fears.",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789459987,
+        "type": "News"
+    },
+    {
+        "title": "Australia's AI Regulation Debate",
+        "title_zh": "Australia's AI Regulation Debate",
+        "summary": "The global debate over AI safety is intensifying, as President Trump dismisses industry calls for a slowdown as a \"conspiracy theory,\" and China brands fresh warnings about the tech \"fearmongering.\" At the same time, Australia's cyber intelligence chief, Abigail Bradshaw, says...",
+        "summary_zh": "The global debate over AI safety is intensifying, as President Trump dismisses industry calls for a slowdown as a \"conspiracy theory,\" and China brands fresh warnings about the tech \"fearmongering.\" At the same time, Australia's cyber intelligence chief, Abigail Bradshaw, says...",
+        "link": "https://finance.yahoo.com/video/australias-ai-regulation-debate-045117172.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1789447877,
         "type": "News"
     },
     {
@@ -17,66 +87,6 @@
         "link": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1789396740,
-        "type": "News"
-    },
-    {
-        "title": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-        "title_zh": "Elon Musk: I've been 'sounding the alarm' on AI for a while",
-        "summary": "Leave it to Elon Musk to say, essentially, I've been right all along.",
-        "summary_zh": "Leave it to Elon Musk to say, essentially, I've been right all along.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789395498,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: AI warnings send shock through chip stocks",
-        "title_zh": "Tech stocks today: AI warnings send shock through chip stocks",
-        "summary": "Tech stock news for the week of Sept. 14.",
-        "summary_zh": "Tech stock news for the week of Sept. 14.",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789394494,
-        "type": "News"
-    },
-    {
-        "title": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO?",
-        "title_zh": "Could Dario Amodei's AI safety warnings hurt Anthropic's IPO?",
-        "summary": "Amid warnings to pace AI development, Anthropic (ANTH.PVT) is still preparing for an October IPO date while OpenAI (OPAI.PVT) CEO Sam Altman believes a 2026 IPO for his company would be \"ill-advised.\" Yahoo Finance's Jake Conley and Pras Subramanian are joined by Business Insi...",
-        "summary_zh": "Amid warnings to pace AI development, Anthropic (ANTH.PVT) is still preparing for an October IPO date while OpenAI (OPAI.PVT) CEO Sam Altman believes a 2026 IPO for his company would be \"ill-advised.\" Yahoo Finance's Jake Conley and Pras Subramanian are joined by Business Insi...",
-        "link": "https://finance.yahoo.com/video/could-dario-amodeis-ai-safety-135823957.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789394303,
-        "type": "News"
-    },
-    {
-        "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-        "title_zh": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-        "summary": "Here's a check of the markets in the first few minutes of trading.",
-        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
-        "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789393519,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic, OpenAI now want to tame the rapid pace of AI development",
-        "title_zh": "Anthropic, OpenAI now want to tame the rapid pace of AI development",
-        "summary": "Anthropic (ANTH.PVT) CEO Dario Amodei and OpenAI (OPAI.PVT) CEO Sam Altman are in agreement that the AI industry needs to pace its development.",
-        "summary_zh": "Anthropic (ANTH.PVT) CEO Dario Amodei and OpenAI (OPAI.PVT) CEO Sam Altman are in agreement that the AI industry needs to pace its development.",
-        "link": "https://finance.yahoo.com/video/anthropic-openai-now-want-to-tame-the-rapid-pace-of-ai-development-133545450.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789392945,
-        "type": "News"
-    },
-    {
-        "title": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
-        "title_zh": "How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments",
-        "summary": "Here's how the Fed's rate decision could impact savings products, various types of loans, and credit cards.",
-        "summary_zh": "Here's how the Fed's rate decision could impact savings products, various types of loans, and credit cards.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/how-a-fed-rate-hike-would-affect-your-bank-accounts-loans-credit-cards-and-investments-220526102.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1734473126,
         "type": "News"
     }
 ]

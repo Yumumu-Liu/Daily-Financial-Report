@@ -1,15 +1,5 @@
 [
     {
-        "title": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
-        "title_zh": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
-        "summary": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloa...",
-        "summary_zh": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloa...",
-        "link": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-6-8-231928896.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1789427968,
-        "type": "News"
-    },
-    {
         "title": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
         "title_zh": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
         "summary": "A surprise equity filing sent Corning to the bottom of the S&P 500 and pulled the entire AI optical sector down with it, raising a pointed question about whether a stock that surged 67% this year just flashed a warning sign for the broader hyperscaler buildout trade.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-aon-commences-seven-124024801.html",
         "publisher": "MT Newswires",
         "publish_time": 1789389624,
+        "type": "News"
+    },
+    {
+        "title": "KKR Expands Home Services Portfolio with $2 Billion A1 Deal",
+        "title_zh": "KKR Expands Home Services Portfolio with $2 Billion A1 Deal",
+        "summary": "KKR & Co. Inc. (NYSE:KKR) has agreed to acquire A1 Garage Door Service, a Phoenix-based residential garage door repair and replacement company, for around $2 billion, Reuters reported on September 2, citing sources familiar with the matter.",
+        "summary_zh": "KKR & Co. Inc. (NYSE:KKR) has agreed to acquire A1 Garage Door Service, a Phoenix-based residential garage door repair and replacement company, for around $2 billion, Reuters reported on September 2, citing sources familiar with the matter.",
+        "link": "https://finance.yahoo.com/real-estate/articles/kkr-expands-home-services-portfolio-030813064.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1789182493,
         "type": "News"
     }
 ]
