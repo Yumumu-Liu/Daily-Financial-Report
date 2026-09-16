@@ -1,5 +1,45 @@
 [
     {
+        "title": "SK Hynix Strikes Labor Union Deal to Pay Half of Bonuses in Cash",
+        "title_zh": "SK Hynix Strikes Labor Union Deal to Pay Half of Bonuses in Cash",
+        "summary": "SK Hynix Inc. has struck an agreement with its union to pay out half of all profit-sharing bonuses in cash, resolving a dispute that threatened to disrupt production at the world’s second-biggest memory chipmaker.",
+        "summary_zh": "SK Hynix Inc. has struck an agreement with its union to pay out half of all profit-sharing bonuses in cash, resolving a dispute that threatened to disrupt production at the world’s second-biggest memory chipmaker.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-strikes-labor-union-040121406.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1789531281,
+        "type": "News"
+    },
+    {
+        "title": "Asian markets make nervous start ahead of Fed decision",
+        "title_zh": "Asian markets make nervous start ahead of Fed decision",
+        "summary": "By Gregor Stuart Hunter SINGAPORE, Sept 16 (Reuters) - Stocks made tentative gains at the start of the Asian trading session on Wednesday as a rise in global bond yields and oil prices paused ahead of",
+        "summary_zh": "By Gregor Stuart Hunter SINGAPORE, Sept 16 (Reuters) - Stocks made tentative gains at the start of the Asian trading session on Wednesday as a rise in global bond yields and oil prices paused ahead of",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-nervous-start-ahead-012257597.html",
+        "publisher": "Reuters",
+        "publish_time": 1789521965,
+        "type": "News"
+    },
+    {
+        "title": "Stocks slip as yields rise, but these tailwinds are keeping markets afloat",
+        "title_zh": "Stocks slip as yields rise, but these tailwinds are keeping markets afloat",
+        "summary": "As US stocks (^GSPC, ^IXIC, ^DJI) slip as 10-Year Treasury (^TNX) climbs, Northwestern Mutual Wealth Management Chief Portfolio Manager of Equities Matt Stucky joins Market Domination Overtime to highlight the key tailwinds supporting the market despite rising yields.",
+        "summary_zh": "As US stocks (^GSPC, ^IXIC, ^DJI) slip as 10-Year Treasury (^TNX) climbs, Northwestern Mutual Wealth Management Chief Portfolio Manager of Equities Matt Stucky joins Market Domination Overtime to highlight the key tailwinds supporting the market despite rising yields.",
+        "link": "https://finance.yahoo.com/video/stocks-slip-yields-rise-tailwinds-203600441.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789504560,
+        "type": "News"
+    },
+    {
+        "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
+        "title_zh": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
+        "summary": "Meta launches Meta One subscription service.",
+        "summary_zh": "Meta launches Meta One subscription service.",
+        "link": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789485014,
+        "type": "News"
+    },
+    {
         "title": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
         "title_zh": "10-year Treasury hits 2007 high as oil stays above $100: AlphaCheck",
         "summary": "Here's a check of the markets in the first few minutes of trading.",
@@ -20,73 +60,13 @@
         "type": "News"
     },
     {
-        "title": "Wall St tepid at open as oil prices, Treasury yields rise",
-        "title_zh": "Wall St tepid at open as oil prices, Treasury yields rise",
-        "summary": "Sept 15 (Reuters) - The major U.S. stock indexes were subdued at open on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI demand kept investors at bay.",
-        "summary_zh": "Sept 15 (Reuters) - The major U.S. stock indexes were subdued at open on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI demand kept investors at bay.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-tepid-open-oil-133833231.html",
-        "publisher": "Reuters",
-        "publish_time": 1789479513,
-        "type": "News"
-    },
-    {
-        "title": "Wall St set to open lower as rising oil and yields deepen market gloom",
-        "title_zh": "Wall St set to open lower as rising oil and yields deepen market gloom",
-        "summary": "By Niket Nishant and Tharuniyaa Lakshmi Sept 15 (Reuters) - Major U.S. stock indexes were set to open lower on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI",
-        "summary_zh": "By Niket Nishant and Tharuniyaa Lakshmi Sept 15 (Reuters) - Major U.S. stock indexes were set to open lower on Tuesday as higher crude prices, elevated Treasury yields and an uncertain outlook for AI",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html",
-        "publisher": "Reuters",
-        "publish_time": 1789476525,
-        "type": "News"
-    },
-    {
-        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
-        "title_zh": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day",
-        "summary": "Wall Street pushed back against bleak warnings from AI developer titans, arguing that companies are not slowing development or spending.",
-        "summary_zh": "Wall Street pushed back against bleak warnings from AI developer titans, arguing that companies are not slowing development or spending.",
-        "link": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "title": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+        "title_zh": "Tech stocks today: CEOs call for pacing AI, as Nvidia CEO says extinction fears are made up",
+        "summary": "Tech stock news for the week of Sept. 14.",
+        "summary_zh": "Tech stock news for the week of Sept. 14.",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ceos-call-for-pacing-ai-as-nvidia-ceo-says-extinction-fears-are-made-up-140134624.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789466400,
-        "type": "News"
-    },
-    {
-        "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
-        "title_zh": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
-        "summary": "NEW DELHI, Sept 15 (Reuters) - India's consumer regulator is examining Apple's software warranty terms in an investigation of the iOS 18 update alleged to have damaged iPhone functionality, compelling users to pay \"exorbitant\" sums for repairs, documents show.",
-        "summary_zh": "NEW DELHI, Sept 15 (Reuters) - India's consumer regulator is examining Apple's software warranty terms in an investigation of the iOS 18 update alleged to have damaged iPhone functionality, compelling users to pay \"exorbitant\" sums for repairs, documents show.",
-        "link": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html",
-        "publisher": "Reuters",
-        "publish_time": 1789463404,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises",
-        "title_zh": "Stock market today: Dow, S&P 500, Nasdaq edge lower after 10-year Treasury yield rises",
-        "summary": "Investors braced for the Federal Reserve's interest rate decision on Wednesday and monitored the fallout from Anthropic CEO Dario Amodei's essay on AI safety fears.",
-        "summary_zh": "Investors braced for the Federal Reserve's interest rate decision on Wednesday and monitored the fallout from Anthropic CEO Dario Amodei's essay on AI safety fears.",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789459987,
-        "type": "News"
-    },
-    {
-        "title": "Australia's AI Regulation Debate",
-        "title_zh": "Australia's AI Regulation Debate",
-        "summary": "The global debate over AI safety is intensifying, as President Trump dismisses industry calls for a slowdown as a \"conspiracy theory,\" and China brands fresh warnings about the tech \"fearmongering.\" At the same time, Australia's cyber intelligence chief, Abigail Bradshaw, says...",
-        "summary_zh": "The global debate over AI safety is intensifying, as President Trump dismisses industry calls for a slowdown as a \"conspiracy theory,\" and China brands fresh warnings about the tech \"fearmongering.\" At the same time, Australia's cyber intelligence chief, Abigail Bradshaw, says...",
-        "link": "https://finance.yahoo.com/video/australias-ai-regulation-debate-045117172.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1789447877,
-        "type": "News"
-    },
-    {
-        "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "title_zh": "Tech pulls back on AI concerns, cybersecurity takes a step up",
-        "summary": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
-        "summary_zh": "Yahoo Finance Senior Markets Reporter Ines Ferre and DA Davidson Head of Technology Research Gil Luria break down the tech stock (XLK) pullback following calls to slow AI development, while highlighting the renewed strength in the cybersecurity sector.",
-        "link": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789396740,
+        "publish_time": 1789394494,
         "type": "News"
     }
 ]
