@@ -1,5 +1,75 @@
 [
     {
+        "title": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+        "title_zh": "Waymo to bring autonomous ride-hailing to Singapore in 2028",
+        "summary": "SINGAPORE, Sept 18 (Reuters) - Alphabet's autonomous driving unit Waymo will roll out its autonomous all-electric ride-hailing service in Singapore by 2028, Waymo announced on Friday, marking its",
+        "summary_zh": "SINGAPORE, Sept 18 (Reuters) - Alphabet's autonomous driving unit Waymo will roll out its autonomous all-electric ride-hailing service in Singapore by 2028, Waymo announced on Friday, marking its",
+        "link": "https://finance.yahoo.com/technology/articles/waymo-bring-autonomous-ride-hailing-020336648.html",
+        "publisher": "Reuters",
+        "publish_time": 1789697016,
+        "type": "News"
+    },
+    {
+        "title": "The market is ready for a few more rate hikes",
+        "title_zh": "The market is ready for a few more rate hikes",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) closed Thursday's session in the green — led by the Nasdaq Composite's gain of 1.69% — after the Federal Reserve unanimously voted to raise interest rates yesterday. U.S.",
+        "summary_zh": "US stocks (^DJI, ^IXIC, ^GSPC) closed Thursday's session in the green — led by the Nasdaq Composite's gain of 1.69% — after the Federal Reserve unanimously voted to raise interest rates yesterday. U.S.",
+        "link": "https://finance.yahoo.com/video/the-market-is-ready-for-a-few-more-rate-hikes-201851030.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789676331,
+        "type": "News"
+    },
+    {
+        "title": "Have markets finally found the 'right level' of interest rates?",
+        "title_zh": "Have markets finally found the 'right level' of interest rates?",
+        "summary": "Horizon CIO Scott Ladner discusses whether markets (^DJI, ^IXIC, ^GSPC) have settled into the \"right level\" of interest rates, especially as Federal Reserve officials anticipate another rate hike to come in 2026.",
+        "summary_zh": "Horizon CIO Scott Ladner discusses whether markets (^DJI, ^IXIC, ^GSPC) have settled into the \"right level\" of interest rates, especially as Federal Reserve officials anticipate another rate hike to come in 2026.",
+        "link": "https://finance.yahoo.com/video/markets-finally-found-level-interest-183000617.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789669800,
+        "type": "News"
+    },
+    {
+        "title": "AI agents will need their own financial infrastructure: Coinbase CEO",
+        "title_zh": "AI agents will need their own financial infrastructure: Coinbase CEO",
+        "summary": "Coinbase (COIN) CEO Brian Armstrong joins Scott Melker for a conversation the latest innovations in crypto trading, such as perpetual futures products and AI trading agents. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m.",
+        "summary_zh": "Coinbase (COIN) CEO Brian Armstrong joins Scott Melker for a conversation the latest innovations in crypto trading, such as perpetual futures products and AI trading agents. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m.",
+        "link": "https://finance.yahoo.com/video/ai-agents-own-financial-infrastructure-164000831.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789663200,
+        "type": "News"
+    },
+    {
+        "title": "AI industry is just following Jensen Huang's lead, Salesforce CEO explains",
+        "title_zh": "AI industry is just following Jensen Huang's lead, Salesforce CEO explains",
+        "summary": "Salesforce (CRM) CEO Marc Benioff speaks with Yahoo Finance Executive Editor Brian Sozzi about how the AI industry is just following Nvidia (NVDA) CEO Jensen Huang's lead and the chipmaker's contribution to Salesforce's AIforce platform.",
+        "summary_zh": "Salesforce (CRM) CEO Marc Benioff speaks with Yahoo Finance Executive Editor Brian Sozzi about how the AI industry is just following Nvidia (NVDA) CEO Jensen Huang's lead and the chipmaker's contribution to Salesforce's AIforce platform.",
+        "link": "https://finance.yahoo.com/video/ai-industry-just-following-jensen-153000978.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789659000,
+        "type": "News"
+    },
+    {
+        "title": "Who's really going to buy Snap's Specs",
+        "title_zh": "Who's really going to buy Snap's Specs",
+        "summary": "Payne Capital Management President & ‘Payne Points of Wealth’ Podcast Host Ryan Payne joins Yahoo Finance's Julie Hyman and Jake Conley to discuss Snap's (SNAP) new Specs. The group debates who the target buyer is and what the real-world use case is for Snap’s latest product.",
+        "summary_zh": "Payne Capital Management President & ‘Payne Points of Wealth’ Podcast Host Ryan Payne joins Yahoo Finance's Julie Hyman and Jake Conley to discuss Snap's (SNAP) new Specs. The group debates who the target buyer is and what the real-world use case is for Snap’s latest product.",
+        "link": "https://finance.yahoo.com/video/whos-really-going-buy-snaps-152200932.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789658520,
+        "type": "News"
+    },
+    {
+        "title": "AI is the latest addiction — Does it need to be regulated like cigarettes?",
+        "title_zh": "AI is the latest addiction — Does it need to be regulated like cigarettes?",
+        "summary": "Salesforce (CRM) kicked off its Dreamforce 2026 conference this week, where the company unveiled its new AI-powered AIforce platform.",
+        "summary_zh": "Salesforce (CRM) kicked off its Dreamforce 2026 conference this week, where the company unveiled its new AI-powered AIforce platform.",
+        "link": "https://finance.yahoo.com/video/ai-latest-addiction-does-regulated-135704921.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789653424,
+        "type": "News"
+    },
+    {
         "title": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
         "title_zh": "10-year Treasury yield eases, oil falls to $100: AlphaCheck",
         "summary": "Here's a check of the markets in the first few minutes of trading.",
@@ -17,76 +87,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/article/lucid-stock-jumps-on-25000-robotaxi-deal-with-europes-bolt-132433027.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1789651473,
-        "type": "News"
-    },
-    {
-        "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
-        "title_zh": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
-        "summary": "Eyes still on memory chips.",
-        "summary_zh": "Eyes still on memory chips.",
-        "link": "https://finance.yahoo.com/markets/article/top-strategist-thinks-the-federal-reserve-interest-rate-hike-wont-fix-this-huge-earnings-risk-121619669.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789647379,
-        "type": "News"
-    },
-    {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-        "title_zh": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-        "summary": "An expected Fed rate hike on Wednesday offered some relief to stock investors that the central bank was working to contain inflation.",
-        "summary_zh": "An expected Fed rate hike on Wednesday offered some relief to stock investors that the central bank was working to contain inflation.",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789632768,
-        "type": "News"
-    },
-    {
-        "title": "Snap launches $2,195 Specs smart glasses",
-        "title_zh": "Snap launches $2,195 Specs smart glasses",
-        "summary": "Snap has launched its $2,195 augmented reality glasses.",
-        "summary_zh": "Snap has launched its $2,195 augmented reality glasses.",
-        "link": "https://finance.yahoo.com/technology/article/snap-launches-2195-specs-smart-glasses-234000058.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789602000,
-        "type": "News"
-    },
-    {
-        "title": "SpaceX stock pops ahead of Starship launch",
-        "title_zh": "SpaceX stock pops ahead of Starship launch",
-        "summary": "SpaceX stock rose about 5% on Tuesday, coming on the heels of no new news, though a couple catalysts may be at work.",
-        "summary_zh": "SpaceX stock rose about 5% on Tuesday, coming on the heels of no new news, though a couple catalysts may be at work.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789581875,
-        "type": "News"
-    },
-    {
-        "title": "Tesla must prove Cybercab is legal to sell, NHTSA says",
-        "title_zh": "Tesla must prove Cybercab is legal to sell, NHTSA says",
-        "summary": "Tesla now has to prove to government regulators that its Cybercab — which has no steering wheel or pedals — is legal to sell, and safe for the road.",
-        "summary_zh": "Tesla now has to prove to government regulators that its Cybercab — which has no steering wheel or pedals — is legal to sell, and safe for the road.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/tesla-must-prove-cybercab-is-legal-to-sell-nhtsa-says-153610647.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789572970,
-        "type": "News"
-    },
-    {
-        "title": "How worried should software, semiconductor stocks be about AI risks?",
-        "title_zh": "How worried should software, semiconductor stocks be about AI risks?",
-        "summary": "SK hynix (SKHY) is reportedly in talks with Intel (INTC) to use the latter's facilities to manufacture memory chips in the US for the first time, according to Reuters.",
-        "summary_zh": "SK hynix (SKHY) is reportedly in talks with Intel (INTC) to use the latter's facilities to manufacture memory chips in the US for the first time, according to Reuters.",
-        "link": "https://finance.yahoo.com/video/worried-software-semiconductor-stocks-ai-141500749.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789568100,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior'",
-        "title_zh": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior'",
-        "summary": "Tech stock news for the week of Sept. 14.",
-        "summary_zh": "Tech stock news for the week of Sept. 14.",
-        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789394494,
         "type": "News"
     }
 ]
