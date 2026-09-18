@@ -1,22 +1,32 @@
 [
     {
-        "title": "What Amazon.com (AMZN)'s US$8 Billion Backup Power Deal With Generac Means For Shareholders",
-        "title_zh": "What Amazon.com (AMZN)'s US$8 Billion Backup Power Deal With Generac Means For Shareholders",
-        "summary": "In recent days, Generac Holdings announced a long-term agreement to supply Amazon with industrial backup generators for its global data centers, with initial deliveries of about US$2.40 billion in 2027–2028 and total potential purchases up to US$8.00 billion, alongside purchas...",
-        "summary_zh": "In recent days, Generac Holdings announced a long-term agreement to supply Amazon with industrial backup generators for its global data centers, with initial deliveries of about US$2.40 billion in 2027–2028 and total potential purchases up to US$8.00 billion, alongside purchas...",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-us-8-021233361.html",
+        "title": "Salesforce (CRM) Stock Sees Fair Value Lift After Koa Launch And Fin Acquisition",
+        "title_zh": "Salesforce (CRM) Stock Sees Fair Value Lift After Koa Launch And Fin Acquisition",
+        "summary": "The fair value estimate for Salesforce has been updated from US$241.72 to US$275.87, an uplift of about 14% in the latest analyst model.",
+        "summary_zh": "The fair value estimate for Salesforce has been updated from US$241.72 to US$275.87, an uplift of about 14% in the latest analyst model.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-sees-fair-111536905.html",
         "publisher": "Simply Wall St.",
-        "publish_time": 1789697553,
+        "publish_time": 1789730136,
         "type": "News"
     },
     {
-        "title": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
-        "title_zh": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
-        "summary": "Generac's Amazon agreement spotlighted an emerging growth lever as the rapid buildout of data centers offsets sluggish demand for home standby generators. The news also lifted several of Generac stock's electrical equipment and power management peers on Thursday.",
-        "summary_zh": "Generac's Amazon agreement spotlighted an emerging growth lever as the rapid buildout of data centers offsets sluggish demand for home standby generators. The news also lifted several of Generac stock's electrical equipment and power management peers on Thursday.",
-        "link": "https://www.investors.com/news/generac-stock-recharged-amazon-deal-unlocks-data-center-opportunity/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1789680064,
+        "title": "Can Trump’s Deals Survive the Next Congress?",
+        "title_zh": "Can Trump’s Deals Survive the Next Congress?",
+        "summary": "Major initiatives of one administration inevitably attract scrutiny when political power changes hands, Y. David Scharf writes.",
+        "summary_zh": "Major initiatives of one administration inevitably attract scrutiny when political power changes hands, Y. David Scharf writes.",
+        "link": "https://www.barrons.com/articles/can-trumps-deals-survive-the-next-congress-2686a380?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "publish_time": 1789723800,
+        "type": "News"
+    },
+    {
+        "title": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
+        "title_zh": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
+        "summary": "Analysts are pointing to Amazon’s deal as a potential catalyst for Generac’s expanding data center business.",
+        "summary_zh": "Analysts are pointing to Amazon’s deal as a potential catalyst for Generac’s expanding data center business.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/gnrc-stock-heads-best-week-085010167.html",
+        "publisher": "Stocktwits",
+        "publish_time": 1789721410,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-generac-supply-152914036.html",
         "publisher": "MT Newswires",
         "publish_time": 1789658954,
-        "type": "News"
-    },
-    {
-        "title": "Lucid stock jumps on 25,000 robotaxi deal with Europe's Bolt",
-        "title_zh": "Lucid stock jumps on 25,000 robotaxi deal with Europe's Bolt",
-        "summary": "Lucid (LCID) stock jumped on Wednesday after the electric vehicle maker signed a major partnership with European ride-hailing platform Bolt to deploy at least 25,000 autonomous vehicles across major European cities, extending Lucid's robotaxi push beyond the US for the first t...",
-        "summary_zh": "Lucid (LCID) stock jumped on Wednesday after the electric vehicle maker signed a major partnership with European ride-hailing platform Bolt to deploy at least 25,000 autonomous vehicles across major European cities, extending Lucid's robotaxi push beyond the US for the first t...",
-        "link": "https://finance.yahoo.com/markets/stocks/article/lucid-stock-jumps-on-25000-robotaxi-deal-with-europes-bolt-132433027.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789651473,
         "type": "News"
     }
 ]
