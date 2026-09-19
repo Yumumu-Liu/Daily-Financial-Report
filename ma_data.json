@@ -1,32 +1,22 @@
 [
     {
-        "title": "Salesforce (CRM) Stock Sees Fair Value Lift After Koa Launch And Fin Acquisition",
-        "title_zh": "Salesforce (CRM) Stock Sees Fair Value Lift After Koa Launch And Fin Acquisition",
-        "summary": "The fair value estimate for Salesforce has been updated from US$241.72 to US$275.87, an uplift of about 14% in the latest analyst model.",
-        "summary_zh": "The fair value estimate for Salesforce has been updated from US$241.72 to US$275.87, an uplift of about 14% in the latest analyst model.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-sees-fair-111536905.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1789730136,
+        "title": "Carlyle Expands Canadian Energy Footprint with Parallax Acquisition",
+        "title_zh": "Carlyle Expands Canadian Energy Footprint with Parallax Acquisition",
+        "summary": "The Carlyle Group Inc. (NASDAQ:CG) is expanding its Canadian energy footprint through Avenrock Energy, a newly formed company backed by its Carlyle International Energy Partners platform, which has agreed to acquire privately held Parallax Energy.",
+        "summary_zh": "The Carlyle Group Inc. (NASDAQ:CG) is expanding its Canadian energy footprint through Avenrock Energy, a newly formed company backed by its Carlyle International Energy Partners platform, which has agreed to acquire privately held Parallax Energy.",
+        "link": "https://finance.yahoo.com/energy/articles/carlyle-expands-canadian-energy-footprint-165537473.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1789750537,
         "type": "News"
     },
     {
-        "title": "Can Trump’s Deals Survive the Next Congress?",
-        "title_zh": "Can Trump’s Deals Survive the Next Congress?",
-        "summary": "Major initiatives of one administration inevitably attract scrutiny when political power changes hands, Y. David Scharf writes.",
-        "summary_zh": "Major initiatives of one administration inevitably attract scrutiny when political power changes hands, Y. David Scharf writes.",
-        "link": "https://www.barrons.com/articles/can-trumps-deals-survive-the-next-congress-2686a380?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1789723800,
-        "type": "News"
-    },
-    {
-        "title": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
-        "title_zh": "GNRC Stock Heads For Best Week Since May: Amazon Deal Sparks Fresh Data Center Growth Bets, Analysts Say Generac Is Trading Cheap",
-        "summary": "Analysts are pointing to Amazon’s deal as a potential catalyst for Generac’s expanding data center business.",
-        "summary_zh": "Analysts are pointing to Amazon’s deal as a potential catalyst for Generac’s expanding data center business.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/gnrc-stock-heads-best-week-085010167.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1789721410,
+        "title": "Salesforce's AIforce Offering has Potential to Drive Usage but Price Point is Too High, UBS Says",
+        "title_zh": "Salesforce's AIforce Offering has Potential to Drive Usage but Price Point is Too High, UBS Says",
+        "summary": "Salesforce's (CRM) new AIforce offering has the potential to drive usage, but its price point is too",
+        "summary_zh": "Salesforce's (CRM) new AIforce offering has the potential to drive usage, but its price point is too",
+        "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-apos-aiforce-offering-potential-162148065.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1789748508,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-generac-supply-152914036.html",
         "publisher": "MT Newswires",
         "publish_time": 1789658954,
+        "type": "News"
+    },
+    {
+        "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+        "title_zh": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+        "summary": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
+        "summary_zh": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+        "publisher": "Benzinga Private Markets",
+        "publish_time": 1789591731,
         "type": "News"
     }
 ]
