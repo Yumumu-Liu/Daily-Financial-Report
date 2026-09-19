@@ -1,5 +1,15 @@
 [
     {
+        "title": "GM brings back Apple CarPlay as buyers demand it",
+        "title_zh": "GM brings back Apple CarPlay as buyers demand it",
+        "summary": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
+        "summary_zh": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
+        "link": "https://finance.yahoo.com/markets/article/gm-brings-back-apple-carplay-as-buyers-demand-it-121047213.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789819847,
+        "type": "News"
+    },
+    {
         "title": "John Ternus has the 'Apple DNA' that will push company to the 'next level'",
         "title_zh": "John Ternus has the 'Apple DNA' that will push company to the 'next level'",
         "summary": "CFRA Research senior vice president Angelo Zino discusses why new Apple (AAPL) CEO John Ternus may be the right man for the job, especially after the release of the new iPhone 18 Pro and unveiling of the foldable iPhone Duo.",
@@ -30,16 +40,6 @@
         "type": "News"
     },
     {
-        "title": "Nvidia-Backed Data Center Firm Nscale Files Publicly for US IPO",
-        "title_zh": "Nvidia-Backed Data Center Firm Nscale Files Publicly for US IPO",
-        "summary": "Nscale, a developer of artificial intelligence data centers that counts Nvidia Corp. and Microsoft Corp. among its partners, filed for an initial public offering in New York to tap into AI’s insatiable demand for computing power.",
-        "summary_zh": "Nscale, a developer of artificial intelligence data centers that counts Nvidia Corp. and Microsoft Corp. among its partners, filed for an initial public offering in New York to tap into AI’s insatiable demand for computing power.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-data-center-firm-195220456.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1789761140,
-        "type": "News"
-    },
-    {
         "title": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know",
         "title_zh": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know",
         "summary": "Scott Melker explains what investors need to know about the US Securities and Exchange Commission's (SEC's) decision to bring tokenized stocks to the market. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
@@ -47,16 +47,6 @@
         "link": "https://finance.yahoo.com/video/sec-bringing-tokenized-stocks-markets-180000283.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1789754400,
-        "type": "News"
-    },
-    {
-        "title": "Sam Altman's Worldcoin just launched a global stablecoin app: What to know",
-        "title_zh": "Sam Altman's Worldcoin just launched a global stablecoin app: What to know",
-        "summary": "World (WLD-USD), a crypto network co-founded by OpenAI (OPAI.PVT) CEO Sam Altman, just launched its super app \"World Money,\" featuring global stablecoins, Stripe and Kalshi integration, and more. Scott Melker outlines the details in the video above.",
-        "summary_zh": "World (WLD-USD), a crypto network co-founded by OpenAI (OPAI.PVT) CEO Sam Altman, just launched its super app \"World Money,\" featuring global stablecoins, Stripe and Kalshi integration, and more. Scott Melker outlines the details in the video above.",
-        "link": "https://finance.yahoo.com/video/sam-altmans-worldcoin-just-launched-164204571.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1789749724,
         "type": "News"
     },
     {
@@ -87,6 +77,16 @@
         "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1789740802,
+        "type": "News"
+    },
+    {
+        "title": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
+        "title_zh": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
+        "summary": "Morning Brief host Julie Hyman sits down with Yahoo Finance Breaking Business News Reporter Jake Conley and Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss the latest updates with the New York Times's (NYT) lawsuit against OpenAI (OPAI.PVT) a...",
+        "summary_zh": "Morning Brief host Julie Hyman sits down with Yahoo Finance Breaking Business News Reporter Jake Conley and Washington Crossing Advisors senior portfolio manager Chad Morganlander to discuss the latest updates with the New York Times's (NYT) lawsuit against OpenAI (OPAI.PVT) a...",
+        "link": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789739302,
         "type": "News"
     }
 ]
