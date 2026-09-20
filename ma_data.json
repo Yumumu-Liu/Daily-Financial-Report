@@ -1,5 +1,25 @@
 [
     {
+        "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
+        "title_zh": "Bank of America does the math on Apple's $1,200 iPhone offer",
+        "summary": "The credit is bigger this year. The bill at the register still isn’t zero.",
+        "summary_zh": "The credit is bigger this year. The bill at the register still isn’t zero.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
+        "publisher": "TheStreet",
+        "publish_time": 1789855620,
+        "type": "News"
+    },
+    {
+        "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+        "title_zh": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+        "summary": "One year on from the $9.7 billion Microsoft deal, the company is finally delivering.",
+        "summary_zh": "One year on from the $9.7 billion Microsoft deal, the company is finally delivering.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
+        "publisher": "Barchart",
+        "publish_time": 1789828054,
+        "type": "News"
+    },
+    {
         "title": "Carlyle Expands Canadian Energy Footprint with Parallax Acquisition",
         "title_zh": "Carlyle Expands Canadian Energy Footprint with Parallax Acquisition",
         "summary": "The Carlyle Group Inc. (NASDAQ:CG) is expanding its Canadian energy footprint through Avenrock Energy, a newly formed company backed by its Carlyle International Energy Partners platform, which has agreed to acquire privately held Parallax Energy.",
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/aon-17-billion-usi-deal-165811093.html",
         "publisher": "Insider Monkey",
         "publish_time": 1789664291,
-        "type": "News"
-    },
-    {
-        "title": "Top Midday Stories: Generac to Supply Amazon With Backup Power Generators for Data Centers; CoreWeave to Offer $3 Billion of Senior Notes",
-        "title_zh": "Top Midday Stories: Generac to Supply Amazon With Backup Power Generators for Data Centers; CoreWeave to Offer $3 Billion of Senior Notes",
-        "summary": "All three major US stock indexes were up in late-morning trading Thursday, a day after the Federal R",
-        "summary_zh": "All three major US stock indexes were up in late-morning trading Thursday, a day after the Federal R",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-generac-supply-152914036.html",
-        "publisher": "MT Newswires",
-        "publish_time": 1789658954,
-        "type": "News"
-    },
-    {
-        "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
-        "title_zh": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
-        "summary": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
-        "summary_zh": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
-        "publisher": "Benzinga Private Markets",
-        "publish_time": 1789591731,
         "type": "News"
     }
 ]
