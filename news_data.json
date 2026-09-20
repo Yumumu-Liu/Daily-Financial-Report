@@ -1,12 +1,32 @@
 [
     {
-        "title": "GM brings back Apple CarPlay as buyers demand it",
-        "title_zh": "GM brings back Apple CarPlay as buyers demand it",
-        "summary": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
-        "summary_zh": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
-        "link": "https://finance.yahoo.com/markets/article/gm-brings-back-apple-carplay-as-buyers-demand-it-121047213.html",
+        "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
+        "title_zh": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
+        "summary": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
+        "summary_zh": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
+        "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789819847,
+        "publish_time": 1789907640,
+        "type": "News"
+    },
+    {
+        "title": "How small businesses should be deploying AI, according to Codie Sanchez",
+        "title_zh": "How small businesses should be deploying AI, according to Codie Sanchez",
+        "summary": "Contrarian Thinking founder and CEO Codie Sanchez highlights the most direct way that small business owners should be utilizing AI to expand their customer base.",
+        "summary_zh": "Contrarian Thinking founder and CEO Codie Sanchez highlights the most direct way that small business owners should be utilizing AI to expand their customer base.",
+        "link": "https://finance.yahoo.com/video/small-businesses-deploying-ai-according-120000799.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789905600,
+        "type": "News"
+    },
+    {
+        "title": "3 notable business takes that flew under the radar this week",
+        "title_zh": "3 notable business takes that flew under the radar this week",
+        "summary": "Inside the latest chatter from important business leaders.",
+        "summary_zh": "Inside the latest chatter from important business leaders.",
+        "link": "https://finance.yahoo.com/markets/article/3-notable-business-takes-that-flew-under-the-radar-this-week-120000112.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1789905600,
         "type": "News"
     }
 ]
