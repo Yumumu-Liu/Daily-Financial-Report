@@ -1,52 +1,42 @@
 [
     {
-        "title": "Tech leads shares higher in Asia as oil slips",
-        "title_zh": "Tech leads shares higher in Asia as oil slips",
-        "summary": "By Wayne Cole SYDNEY, Sept 21 (Reuters) - Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased on reports more oil was finding its way out",
-        "summary_zh": "By Wayne Cole SYDNEY, Sept 21 (Reuters) - Share markets edged higher in Asia on Monday as AI's insatiable demand for data buoyed chipmakers, and oil eased on reports more oil was finding its way out",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-shares-higher-asia-004028094.html",
-        "publisher": "Reuters",
-        "publish_time": 1789956673,
-        "type": "News"
-    },
-    {
-        "title": "Why India's Big Tech Companies Are Betting on Hyderabad",
-        "title_zh": "Why India's Big Tech Companies Are Betting on Hyderabad",
-        "summary": "Hyderabad has spent decades building the talent, infrastructure and business climate to compete with Bangalore, attracting major tech firms while becoming a hub for life sciences. But AI now threatens some of the lower-cost IT work that helped fuel its rise.",
-        "summary_zh": "Hyderabad has spent decades building the talent, infrastructure and business climate to compete with Bangalore, attracting major tech firms while becoming a hub for life sciences. But AI now threatens some of the lower-cost IT work that helped fuel its rise.",
-        "link": "https://finance.yahoo.com/video/why-indias-big-tech-companies-162028038.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1789921228,
-        "type": "News"
-    },
-    {
-        "title": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
-        "title_zh": "'This could be something more substantial': Wall Street braces for more Fed rate hikes",
-        "summary": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
-        "summary_zh": "Investors have priced in more than a 50% chance of another rate hike in October after the Federal Reserve voted unanimously last week to increase rates.",
-        "link": "https://finance.yahoo.com/economy/policy/article/this-could-be-something-more-substantial-wall-street-braces-for-more-fed-rate-hikes-123400710.html",
+        "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+        "title_zh": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+        "summary": "Tech stock news for the week of Sept. 21.",
+        "summary_zh": "Tech stock news for the week of Sept. 21.",
+        "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789907640,
+        "publish_time": 1790002158,
         "type": "News"
     },
     {
-        "title": "How small businesses should be deploying AI, according to Codie Sanchez",
-        "title_zh": "How small businesses should be deploying AI, according to Codie Sanchez",
-        "summary": "Contrarian Thinking founder and CEO Codie Sanchez highlights the most direct way that small business owners should be utilizing AI to expand their customer base.",
-        "summary_zh": "Contrarian Thinking founder and CEO Codie Sanchez highlights the most direct way that small business owners should be utilizing AI to expand their customer base.",
-        "link": "https://finance.yahoo.com/video/small-businesses-deploying-ai-according-120000799.html",
+        "title": "Jensen Huang pushes back on AI extinction fears",
+        "title_zh": "Jensen Huang pushes back on AI extinction fears",
+        "summary": "In the debut episode of Sozzi Unleashed, Yahoo Finance Executive Editor Brian Sozzi dives into Nvidia CEO Jensen Huang’s pushback against claims that artificial intelligence could lead to human extinction by 2030.",
+        "summary_zh": "In the debut episode of Sozzi Unleashed, Yahoo Finance Executive Editor Brian Sozzi dives into Nvidia CEO Jensen Huang’s pushback against claims that artificial intelligence could lead to human extinction by 2030.",
+        "link": "https://finance.yahoo.com/video/jensen-huang-pushes-back-ai-140400200.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1789905600,
+        "publish_time": 1789999440,
         "type": "News"
     },
     {
-        "title": "3 notable business takes that flew under the radar this week",
-        "title_zh": "3 notable business takes that flew under the radar this week",
-        "summary": "Inside the latest chatter from important business leaders.",
-        "summary_zh": "Inside the latest chatter from important business leaders.",
-        "link": "https://finance.yahoo.com/markets/article/3-notable-business-takes-that-flew-under-the-radar-this-week-120000112.html",
+        "title": "Resilient market warning signs and a John Summit NYSE DJ set",
+        "title_zh": "Resilient market warning signs and a John Summit NYSE DJ set",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi runs down the warning signs in resilient markets, including surging downside volume on the NYSE (^NYA), a 5% decline in small-cap stocks from their highs, mounting pressure from oil prices (BZ=F) (CL=F), and another possible Federal R...",
+        "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi runs down the warning signs in resilient markets, including surging downside volume on the NYSE (^NYA), a 5% decline in small-cap stocks from their highs, mounting pressure from oil prices (BZ=F) (CL=F), and another possible Federal R...",
+        "link": "https://finance.yahoo.com/video/resilient-market-warning-signs-john-140227430.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1789999347,
+        "type": "News"
+    },
+    {
+        "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+        "title_zh": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
+        "summary": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September.",
+        "summary_zh": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September.",
+        "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1789905600,
+        "publish_time": 1789984800,
         "type": "News"
     }
 ]
