@@ -1,22 +1,12 @@
 [
     {
-        "title": "Bank of America does the math on Apple's $1,200 iPhone offer",
-        "title_zh": "Bank of America does the math on Apple's $1,200 iPhone offer",
-        "summary": "The credit is bigger this year. The bill at the register still isn’t zero.",
-        "summary_zh": "The credit is bigger this year. The bill at the register still isn’t zero.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-does-math-apples-220700012.html",
-        "publisher": "TheStreet",
-        "publish_time": 1789855620,
-        "type": "News"
-    },
-    {
-        "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
-        "title_zh": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
-        "summary": "One year on from the $9.7 billion Microsoft deal, the company is finally delivering.",
-        "summary_zh": "One year on from the $9.7 billion Microsoft deal, the company is finally delivering.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
-        "publisher": "Barchart",
-        "publish_time": 1789828054,
+        "title": "What Is Apollo Global Management (APO) Signaling With Its AI And Global Deal Push?",
+        "title_zh": "What Is Apollo Global Management (APO) Signaling With Its AI And Global Deal Push?",
+        "summary": "Apollo Global Management (NYSE:APO) has begun backing AI startups, expanding its activity beyond traditional private credit and alternative assets. The firm is helping fund the BMG and Concord music deal, adding another large cross border transaction to its deal roster.",
+        "summary_zh": "Apollo Global Management (NYSE:APO) has begun backing AI startups, expanding its activity beyond traditional private credit and alternative assets. The firm is helping fund the BMG and Concord music deal, adding another large cross border transaction to its deal roster.",
+        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-global-management-apo-signaling-140848339.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1789913328,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/aon-17-billion-usi-deal-165811093.html",
         "publisher": "Insider Monkey",
         "publish_time": 1789664291,
+        "type": "News"
+    },
+    {
+        "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+        "title_zh": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+        "summary": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
+        "summary_zh": "KKR & Co. (NYSE:KKR) has expanded its private investment-grade financing business this year, with deal activity reaching more than twice last year’s level as borrowers seek more flexible alternatives to traditional bank financing. • KKR stock is showing downward bias....",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+        "publisher": "Benzinga Private Markets",
+        "publish_time": 1789591731,
         "type": "News"
     }
 ]
