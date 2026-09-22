@@ -1,32 +1,42 @@
 [
     {
-        "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-        "title_zh": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-        "summary": "Stock Market Today: The Dow Jones index rallies Monday as oil prices and Treasury yields drop. Nvidia and Google stock climb.",
-        "summary_zh": "Stock Market Today: The Dow Jones index rallies Monday as oil prices and Treasury yields drop. Nvidia and Google stock climb.",
-        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "publish_time": 1790003266,
+        "title": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+        "title_zh": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
+        "summary": "Electric utility Georgia Power and tech giant Google said the companies have an agreement under which Google will support power uprates at two of the utility's nuclear power plants.",
+        "summary_zh": "Electric utility Georgia Power and tech giant Google said the companies have an agreement under which Google will support power uprates at two of the utility's nuclear power plants.",
+        "link": "https://finance.yahoo.com/energy/articles/google-georgia-power-deal-support-234944806.html",
+        "publisher": "POWER Magazine",
+        "publish_time": 1790034584,
         "type": "News"
     },
     {
-        "title": "Critical Metals Stock Surges 35% and These Greenland Stocks Soar on Trump’s Security Deal",
-        "title_zh": "Critical Metals Stock Surges 35% and These Greenland Stocks Soar on Trump’s Security Deal",
-        "summary": "President Donald Trump’s announcement of a security deal with Greenland lifted  Critical Metals  shares and other stocks linked to the Danish territory Monday. Shares of  Critical Metals  rose 35% to $9.10; shares have risen 30% this year.",
-        "summary_zh": "President Donald Trump’s announcement of a security deal with Greenland lifted  Critical Metals  shares and other stocks linked to the Danish territory Monday. Shares of  Critical Metals  rose 35% to $9.10; shares have risen 30% this year.",
-        "link": "https://www.barrons.com/articles/critical-metals-stock-greenland-denmark-trump-09d1eee4?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1790000160,
+        "title": "Paramount settles with US states to clear Warner Bros. mega-merger",
+        "title_zh": "Paramount settles with US states to clear Warner Bros. mega-merger",
+        "summary": "Paramount has reached a settlement with a group of US states that clears the way for its takeover of Warner Bros.According to a joint court filing, the deal also requires at least $300 million more in annual spending on US film production by Paramount and Warner Bros.",
+        "summary_zh": "Paramount has reached a settlement with a group of US states that clears the way for its takeover of Warner Bros.According to a joint court filing, the deal also requires at least $300 million more in annual spending on US film production by Paramount and Warner Bros.",
+        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-us-states-clear-162242141.html",
+        "publisher": "AFP",
+        "publish_time": 1790015499,
         "type": "News"
     },
     {
-        "title": "Kuehne+Nagel signs long-term logistics deal with Amazon, AWS",
-        "title_zh": "Kuehne+Nagel signs long-term logistics deal with Amazon, AWS",
-        "summary": "The Swiss freight company will handle the infrastructure lifecycle for AWS data centers, from equipment deployment to maintenance and upgrades",
-        "summary_zh": "The Swiss freight company will handle the infrastructure lifecycle for AWS data centers, from equipment deployment to maintenance and upgrades",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/kuehne-nagel-signs-long-term-131553578.html",
-        "publisher": "Quartz",
-        "publish_time": 1789996553,
+        "title": "Paramount settles US states’ lawsuit to unlock $110bn Warner deal",
+        "title_zh": "Paramount settles US states’ lawsuit to unlock $110bn Warner deal",
+        "summary": "Paramount is poised to close its $111bn (£83bn) takeover of Warner Bros after settling a legal challenge to block the deal.",
+        "summary_zh": "Paramount is poised to close its $111bn (£83bn) takeover of Warner Bros after settling a legal challenge to block the deal.",
+        "link": "https://finance.yahoo.com/news/paramount-settles-us-states-lawsuit-164848354.html",
+        "publisher": "The Telegraph",
+        "publish_time": 1790009328,
+        "type": "News"
+    },
+    {
+        "title": "Top Midday Stories: Paramount Skydance Settles With US States to Pave Way for Warner Bros. Deal; Anthropic Now Eyeing November IPO",
+        "title_zh": "Top Midday Stories: Paramount Skydance Settles With US States to Pave Way for Warner Bros. Deal; Anthropic Now Eyeing November IPO",
+        "summary": "All three major US stock indexes were up in late-morning trading Monday, as oil prices and Treasury",
+        "summary_zh": "All three major US stock indexes were up in late-morning trading Monday, as oil prices and Treasury",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-paramount-skydance-153931434.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1790005171,
         "type": "News"
     },
     {
@@ -37,16 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-management-083938493.html",
         "publisher": "MT Newswires",
         "publish_time": 1789979978,
-        "type": "News"
-    },
-    {
-        "title": "What Is Apollo Global Management (APO) Signaling With Its AI And Global Deal Push?",
-        "title_zh": "What Is Apollo Global Management (APO) Signaling With Its AI And Global Deal Push?",
-        "summary": "Apollo Global Management (NYSE:APO) has begun backing AI startups, expanding its activity beyond traditional private credit and alternative assets. The firm is helping fund the BMG and Concord music deal, adding another large cross border transaction to its deal roster.",
-        "summary_zh": "Apollo Global Management (NYSE:APO) has begun backing AI startups, expanding its activity beyond traditional private credit and alternative assets. The firm is helping fund the BMG and Concord music deal, adding another large cross border transaction to its deal roster.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/apollo-global-management-apo-signaling-140848339.html",
-        "publisher": "Simply Wall St.",
-        "publish_time": 1789913328,
         "type": "News"
     }
 ]
