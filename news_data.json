@@ -1,12 +1,82 @@
 [
     {
-        "title": "Tencent Releases AI Image Model to Catch ByteDance, Alibaba",
-        "title_zh": "Tencent Releases AI Image Model to Catch ByteDance, Alibaba",
-        "summary": "Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba Group Holding Ltd. kicked off its AI conference, signaling intent to catch up to industry leaders like ByteDance Ltd.",
-        "summary_zh": "Tencent Holdings Ltd. launched its latest and best image-generation model on the same day as rival Alibaba Group Holding Ltd. kicked off its AI conference, signaling intent to catch up to industry leaders like ByteDance Ltd.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/tencent-releases-ai-image-model-031310630.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1790046790,
+        "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+        "title_zh": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+        "summary": "Here's a check of the markets in the first few minutes of trading.",
+        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
+        "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790084497,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq leads Wall St higher as investors weigh Mideast developments",
+        "title_zh": "Nasdaq leads Wall St higher as investors weigh Mideast developments",
+        "summary": "Sept 22 (Reuters) - Wall Street's main indexes opened higher on Tuesday, with the tech-heavy Nasdaq hitting an intraday record high for the first time since early June, while investors awaited",
+        "summary_zh": "Sept 22 (Reuters) - Wall Street's main indexes opened higher on Tuesday, with the tech-heavy Nasdaq hitting an intraday record high for the first time since early June, while investors awaited",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/nasdaq-leads-wall-st-higher-134019718.html",
+        "publisher": "Reuters",
+        "publish_time": 1790084419,
+        "type": "News"
+    },
+    {
+        "title": "Alibaba rolls out what it's touting as China's most powerful AI chip",
+        "title_zh": "Alibaba rolls out what it's touting as China's most powerful AI chip",
+        "summary": "Alibaba's (BABA) stock price is climbing premarket after it rolled out a new AI chip, the Zhenwu V900, pitting it against Nvidia chips as a powerful competitor.",
+        "summary_zh": "Alibaba's (BABA) stock price is climbing premarket after it rolled out a new AI chip, the Zhenwu V900, pitting it against Nvidia chips as a powerful competitor.",
+        "link": "https://finance.yahoo.com/video/alibaba-rolls-touting-chinas-most-132329685.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790083409,
+        "type": "News"
+    },
+    {
+        "title": "Cracks are forming in AI data center boom as projects face increased opposition",
+        "title_zh": "Cracks are forming in AI data center boom as projects face increased opposition",
+        "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the growing opposition to AI data centers in US communities.",
+        "summary_zh": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the growing opposition to AI data centers in US communities.",
+        "link": "https://finance.yahoo.com/video/cracks-forming-ai-data-center-131811568.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790083091,
+        "type": "News"
+    },
+    {
+        "title": "Why Meta's Muse AI agent is soaring in popularity",
+        "title_zh": "Why Meta's Muse AI agent is soaring in popularity",
+        "summary": "Meta's (META) new Muse AI app is topping charts. Yahoo Finance Breaking Business News Reporter Jake Conley, Yahoo Finance Senior Autos Reporter Pras Subramanian, and Yahoo Finance's Julie Hyman outline Muse's features and risks.",
+        "summary_zh": "Meta's (META) new Muse AI app is topping charts. Yahoo Finance Breaking Business News Reporter Jake Conley, Yahoo Finance Senior Autos Reporter Pras Subramanian, and Yahoo Finance's Julie Hyman outline Muse's features and risks.",
+        "link": "https://finance.yahoo.com/video/why-metas-muse-ai-agent-130246565.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790082166,
+        "type": "News"
+    },
+    {
+        "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs ",
+        "title_zh": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs ",
+        "summary": "By Stephen Nellis SAN FRANCISCO, Sept 22 (Reuters) - When Apple's new desktop computers start shipping Tuesday, the company's executives will make an unusual pitch to corporate buyers: They are",
+        "summary_zh": "By Stephen Nellis SAN FRANCISCO, Sept 22 (Reuters) - When Apple's new desktop computers start shipping Tuesday, the company's executives will make an unusual pitch to corporate buyers: They are",
+        "link": "https://finance.yahoo.com/technology/ai/articles/macs-apple-aims-microsoft-nvidia-130118449.html",
+        "publisher": "Reuters",
+        "publish_time": 1790082120,
+        "type": "News"
+    },
+    {
+        "title": "The return of the AI rally: What's fueling the latest push into tech?",
+        "title_zh": "The return of the AI rally: What's fueling the latest push into tech?",
+        "summary": "Leading AI stocks ripped higher to kick off this trading week as investors pile back into Big Tech. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley weigh in on the market breadth of the equities participating in this latest rally.",
+        "summary_zh": "Leading AI stocks ripped higher to kick off this trading week as investors pile back into Big Tech. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley weigh in on the market breadth of the equities participating in this latest rally.",
+        "link": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790081526,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq drift higher as oil retreats, AI trade powers market",
+        "title_zh": "Stock market today: Dow, S&P 500, Nasdaq drift higher as oil retreats, AI trade powers market",
+        "summary": "US stocks steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+        "summary_zh": "US stocks steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790064385,
         "type": "News"
     },
     {
@@ -17,76 +87,6 @@
         "link": "https://finance.yahoo.com/video/warren-buffett-down-greatest-investor-203100448.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1790022660,
-        "type": "News"
-    },
-    {
-        "title": "Meta stock jumps as Wells Fargo raises price target",
-        "title_zh": "Meta stock jumps as Wells Fargo raises price target",
-        "summary": "Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss Meta (META) more than 10% intraday surge after Wells Fargo (WFC) raised its price target on the stock from $640 to $796.",
-        "summary_zh": "Yahoo Finance Tech Editor Dan Howley joins Market Domination to discuss Meta (META) more than 10% intraday surge after Wells Fargo (WFC) raised its price target on the stock from $640 to $796.",
-        "link": "https://finance.yahoo.com/video/meta-stock-jumps-wells-fargo-195200224.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790020320,
-        "type": "News"
-    },
-    {
-        "title": "Maye Musk: Elon really wants to live on Mars in the coming decades",
-        "title_zh": "Maye Musk: Elon really wants to live on Mars in the coming decades",
-        "summary": "A rare glimpse into Elon Musk from his mother, Maye.",
-        "summary_zh": "A rare glimpse into Elon Musk from his mother, Maye.",
-        "link": "https://finance.yahoo.com/markets/article/maye-musk-elon-really-wants-to-live-on-mars-in-the-coming-decades-193421298.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790019261,
-        "type": "News"
-    },
-    {
-        "title": "Could Nvidia's prospects in China shift following the Trump and Xi's meeting?",
-        "title_zh": "Could Nvidia's prospects in China shift following the Trump and Xi's meeting?",
-        "summary": "US President Trump and Chinese President Xi are set to meet this week at a summit to discuss AI, war in Iran, trade negotiations, and more.",
-        "summary_zh": "US President Trump and Chinese President Xi are set to meet this week at a summit to discuss AI, war in Iran, trade negotiations, and more.",
-        "link": "https://finance.yahoo.com/video/could-nvidias-prospects-china-shift-183517435.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790015717,
-        "type": "News"
-    },
-    {
-        "title": "Apple’s new iPhone Duo: Will consumers bite?",
-        "title_zh": "Apple’s new iPhone Duo: Will consumers bite?",
-        "summary": "Laffer Tengler Investments CEO and chief investment officer Nancy Tengler, Epistrophy Capital Research chief market strategist and The Drill Down podcast host Cory Johnson, and Slatestone Wealth partner Kenny Polcari join Yahoo Finance Executive Editor Brian Sozzi to break dow...",
-        "summary_zh": "Laffer Tengler Investments CEO and chief investment officer Nancy Tengler, Epistrophy Capital Research chief market strategist and The Drill Down podcast host Cory Johnson, and Slatestone Wealth partner Kenny Polcari join Yahoo Finance Executive Editor Brian Sozzi to break dow...",
-        "link": "https://finance.yahoo.com/video/apple-iphone-duo-consumers-bite-174100022.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790012460,
-        "type": "News"
-    },
-    {
-        "title": "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
-        "title_zh": "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
-        "summary": "Yahoo Finance Executive Editor Brian Sozzi outlines a few unexpected events driving markets this week. For a closer look, watch the video above.",
-        "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi outlines a few unexpected events driving markets this week. For a closer look, watch the video above.",
-        "link": "https://finance.yahoo.com/video/bitcoin-prices-logan-jake-paul-144153828.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790001713,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
-        "title_zh": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
-        "summary": "Here's a check of the markets in the first few minutes of trading.",
-        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789998633,
-        "type": "News"
-    },
-    {
-        "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-        "title_zh": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-        "summary": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September.",
-        "summary_zh": "A state visit from Chinese leader Xi Jinping, conferences from Meta and Qualcomm, and a lot of FedSpeak form the last full week of September.",
-        "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1789984800,
         "type": "News"
     }
 ]
