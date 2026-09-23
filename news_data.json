@@ -1,42 +1,82 @@
 [
     {
-        "title": "Morning Bid: A$ gets a bit part as AI steals the show",
-        "title_zh": "Morning Bid: A$ gets a bit part as AI steals the show",
-        "summary": "Sept 23 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.",
-        "summary_zh": "Sept 23 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.",
-        "link": "https://finance.yahoo.com/markets/articles/morning-bid-gets-bit-part-043525187.html",
+        "title": "Why Apple's stock chart is probably putting a smile on the face of new CEO John Ternus",
+        "title_zh": "Why Apple's stock chart is probably putting a smile on the face of new CEO John Ternus",
+        "summary": "Apple stock hit $345 on Tuesday, marking a new all-time high for the iPhone maker.",
+        "summary_zh": "Apple stock hit $345 on Tuesday, marking a new all-time high for the iPhone maker.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/why-apples-stock-chart-is-probably-putting-a-smile-on-the-face-of-new-ceo-john-ternus-135340248.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790171620,
+        "type": "News"
+    },
+    {
+        "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+        "title_zh": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+        "summary": "Here's a check of the markets in the first few minutes of trading.",
+        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
+        "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790171603,
+        "type": "News"
+    },
+    {
+        "title": "Wall St opens lower as oil, bond yields mover higher",
+        "title_zh": "Wall St opens lower as oil, bond yields mover higher",
+        "summary": "Sept 23 (Reuters) - Wall Street's main indexes opened lower on Wednesday, pressured by rising crude prices and government bond yields as investors awaited developments from negotiations to end the",
+        "summary_zh": "Sept 23 (Reuters) - Wall Street's main indexes opened lower on Wednesday, pressured by rising crude prices and government bond yields as investors awaited developments from negotiations to end the",
+        "link": "https://finance.yahoo.com/markets/articles/wall-st-opens-lower-oil-133426733.html",
         "publisher": "Reuters",
-        "publish_time": 1790138125,
+        "publish_time": 1790170466,
         "type": "News"
     },
     {
-        "title": "Alibaba to Add Data Centers in Europe, Middle East in AI Push",
-        "title_zh": "Alibaba to Add Data Centers in Europe, Middle East in AI Push",
-        "summary": "Alibaba Group Holding Ltd. is accelerating its data center expansion in Europe and the Middle East, propelling its 20-gigawatt global infrastructure buildout during China’s escalating competition in AI chips and models with the US.",
-        "summary_zh": "Alibaba Group Holding Ltd. is accelerating its data center expansion in Europe and the Middle East, propelling its 20-gigawatt global infrastructure buildout during China’s escalating competition in AI chips and models with the US.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-add-data-centers-europe-015911428.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1790128751,
-        "type": "News"
-    },
-    {
-        "title": "Meta doesn't need the best AI model — it has something better: you.\n\nWhile OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out the middlemen and becoming the marketplace itself.\n\nWould you actually use an AI agent that knows you this well?\n\nWatch the full episode, In The Loop, on Youtube.",
-        "title_zh": "Meta doesn't need the best AI model — it has something better: you.\n\nWhile OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data. They know what you want to buy before you do, and now they can finally act on it, cutting out the middlemen and becoming the marketplace itself.\n\nWould you actually use an AI agent that knows you this well?\n\nWatch the full episode, In The Loop, on Youtube.",
-        "summary": "Meta doesn't need the best AI model — it has something better: you. While OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data.",
-        "summary_zh": "Meta doesn't need the best AI model — it has something better: you. While OpenAI and Anthropic compete on raw model performance, Meta's new agent wins on data.",
-        "link": "https://finance.yahoo.com/video/meta-doesnt-best-ai-model-230704784.html",
+        "title": "Meta’s Muse is a game changer—but can it win consumers' trust?",
+        "title_zh": "Meta’s Muse is a game changer—but can it win consumers' trust?",
+        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss how Meta's (META) new AI agent, Muse, could pose challenges to user trust and why being first may not be enough, as rivals like Apple (AAPL) and Google (GOOG) could prepare their own responses.",
+        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss how Meta's (META) new AI agent, Muse, could pose challenges to user trust and why being first may not be enough, as rivals like Apple (AAPL) and Google (GOOG) could prepare their own responses.",
+        "link": "https://finance.yahoo.com/video/meta-muse-game-changer-win-132958488.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1790118424,
+        "publish_time": 1790170198,
         "type": "News"
     },
     {
-        "title": "Meta’s new AI agent just got me $250 in flight credits",
-        "title_zh": "Meta’s new AI agent just got me $250 in flight credits",
-        "summary": "In the Loop host Ejaaz Ahamadeen recounts how Muse, Meta's (META) new AI agent, helped get him $250 in flight credits and rebooked a new flight after his original flight was delayed, demonstrating how users can now interact with an agent that handles web-based tasks on their b...",
-        "summary_zh": "In the Loop host Ejaaz Ahamadeen recounts how Muse, Meta's (META) new AI agent, helped get him $250 in flight credits and rebooked a new flight after his original flight was delayed, demonstrating how users can now interact with an agent that handles web-based tasks on their b...",
-        "link": "https://finance.yahoo.com/video/meta-ai-agent-just-got-214556275.html",
+        "title": "Here are the stocks taking a hit amid the Muse hype",
+        "title_zh": "Here are the stocks taking a hit amid the Muse hype",
+        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian look at the stocks taking a hit as Meta's (META) new AI agent, Muse, grows in popularity and why its hype may not measure up to its disruptive potential.",
+        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian look at the stocks taking a hit as Meta's (META) new AI agent, Muse, grows in popularity and why its hype may not measure up to its disruptive potential.",
+        "link": "https://finance.yahoo.com/video/here-are-the-stocks-taking-a-hit-amid-the-muse-hype-132037650.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1790113556,
+        "publish_time": 1790169637,
+        "type": "News"
+    },
+    {
+        "title": "Nasdaq climbs to record high off the back of revived AI trade",
+        "title_zh": "Nasdaq climbs to record high off the back of revived AI trade",
+        "summary": "The latest AI rally pushed the Nasdaq Composite (^IXIC) to an all-time record high above 27,200 on Tuesday. The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian examine Wall Street analysis that forecasts that the Nasdaq could move even higher after this rally.",
+        "summary_zh": "The latest AI rally pushed the Nasdaq Composite (^IXIC) to an all-time record high above 27,200 on Tuesday. The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian examine Wall Street analysis that forecasts that the Nasdaq could move even higher after this rally.",
+        "link": "https://finance.yahoo.com/video/nasdaq-climbs-record-high-off-125323424.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790168003,
+        "type": "News"
+    },
+    {
+        "title": "The AI panic, tech concentration, and Nvidia windfalls",
+        "title_zh": "The AI panic, tech concentration, and Nvidia windfalls",
+        "summary": "Gabelli Funds' John Belton and Wells Fargo Advisors' James Taylor break down the viral \"doomer\" warnings rippling through the AI industry, and why slowing down development might actually prevent a massive tech bubble.",
+        "summary_zh": "Gabelli Funds' John Belton and Wells Fargo Advisors' James Taylor break down the viral \"doomer\" warnings rippling through the AI industry, and why slowing down development might actually prevent a massive tech bubble.",
+        "link": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790157600,
+        "type": "News"
+    },
+    {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil steadies, markets eye looming Trump-Xi meeting",
+        "title_zh": "Stock market today: Dow, S&P 500, Nasdaq slip as oil steadies, markets eye looming Trump-Xi meeting",
+        "summary": "After back-to-back Nasdaq record highs,  investors are monitoring US diplomatic efforts with Iran and China, as well as a recent rally in tech stocks.",
+        "summary_zh": "After back-to-back Nasdaq record highs,  investors are monitoring US diplomatic efforts with Iran and China, as well as a recent rally in tech stocks.",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790150756,
         "type": "News"
     },
     {
@@ -47,46 +87,6 @@
         "link": "https://finance.yahoo.com/video/where-relative-value-outside-us-204204013.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1790109724,
-        "type": "News"
-    },
-    {
-        "title": "Meta's Muse AI teams up with Shopify, lifting its stock",
-        "title_zh": "Meta's Muse AI teams up with Shopify, lifting its stock",
-        "summary": "Meta Platforms' (META) new AI agent Muse is teaming up with Shopify (SHOP) to help and enable consumers to complete online purchases. Yahoo Finance Tech Editor Dan Howley breaks down the value this represents for Meta.",
-        "summary_zh": "Meta Platforms' (META) new AI agent Muse is teaming up with Shopify (SHOP) to help and enable consumers to complete online purchases. Yahoo Finance Tech Editor Dan Howley breaks down the value this represents for Meta.",
-        "link": "https://finance.yahoo.com/video/metas-muse-ai-teams-up-with-shopify-lifting-its-stock-195026601.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790106626,
-        "type": "News"
-    },
-    {
-        "title": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
-        "title_zh": "Anthropic vs. OpenAI: Competition heats up with release of new AI models",
-        "summary": "Anthropic (ANTH.PVT) unveiled its new Claude Opus 5.5 on Tuesday, the developer's latest AI model promising faster performance and lower costs for enterprise customers.",
-        "summary_zh": "Anthropic (ANTH.PVT) unveiled its new Claude Opus 5.5 on Tuesday, the developer's latest AI model promising faster performance and lower costs for enterprise customers.",
-        "link": "https://finance.yahoo.com/video/anthropic-vs-openai-competition-heats-193257545.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790105577,
-        "type": "News"
-    },
-    {
-        "title": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
-        "title_zh": "Is Tesla's evaluation based on pure faith or on hoping for the best?",
-        "summary": "Market Hang's panel talk about the evaluation of Tesla’s (TSLA) stock, highlighting how early faith in CEO Elon Musk's electric vehicle expansion has been underpinned by new endeavors of Cybercabs and humanoid robots.Defiance ETFs CIO Sylvia Jablonski, Gerber Kawasaki Wealth a...",
-        "summary_zh": "Market Hang's panel talk about the evaluation of Tesla’s (TSLA) stock, highlighting how early faith in CEO Elon Musk's electric vehicle expansion has been underpinned by new endeavors of Cybercabs and humanoid robots.Defiance ETFs CIO Sylvia Jablonski, Gerber Kawasaki Wealth a...",
-        "link": "https://finance.yahoo.com/video/teslas-evaluation-based-pure-faith-181659153.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790101019,
-        "type": "News"
-    },
-    {
-        "title": "Should investors play AI bottlenecks over social media stocks?",
-        "title_zh": "Should investors play AI bottlenecks over social media stocks?",
-        "summary": "Should investors bet more on the AI infrastructure bottlenecks than on other tech trends, such as social media?",
-        "summary_zh": "Should investors bet more on the AI infrastructure bottlenecks than on other tech trends, such as social media?",
-        "link": "https://finance.yahoo.com/video/investors-play-ai-bottlenecks-over-173922161.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790098762,
         "type": "News"
     }
 ]
