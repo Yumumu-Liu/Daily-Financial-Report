@@ -1,42 +1,32 @@
 [
     {
-        "title": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity",
-        "title_zh": "SO's Georgia Power Signs Google Deal to Boost Nuclear Capacity",
-        "summary": "Southern Company's Georgia Power plans nuclear upgrades with Google, potentially adding 96 MW while targeting $900 million in projected customer benefits.",
-        "summary_zh": "Southern Company's Georgia Power plans nuclear upgrades with Google, potentially adding 96 MW while targeting $900 million in projected customer benefits.",
-        "link": "https://finance.yahoo.com/energy/articles/sos-georgia-power-signs-google-135000498.html",
+        "title": "Top Midday Stories: McDonald's Plans $8.5 Billion in Franchisee Support; Morgan Stanley Staffer Accidentally Leaks Investment-Bank Deal List",
+        "title_zh": "Top Midday Stories: McDonald's Plans $8.5 Billion in Franchisee Support; Morgan Stanley Staffer Accidentally Leaks Investment-Bank Deal List",
+        "summary": "All three major US stock indexes were down in late-morning trading Wednesday, as Treasury yields ros",
+        "summary_zh": "All three major US stock indexes were down in late-morning trading Wednesday, as Treasury yields ros",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-mcdonald-apos-153952086.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1790177992,
+        "type": "News"
+    },
+    {
+        "title": "Is KKR (KKR) Fairly Valued Following Its Akrapoint Launch And UK Logistics Deal?",
+        "title_zh": "Is KKR (KKR) Fairly Valued Following Its Akrapoint Launch And UK Logistics Deal?",
+        "summary": "KKR (KKR) is back in focus after launching Akrapoint Commercial Capital, a new mid ticket equipment finance platform backed by a US$350 million commitment and paired with a fresh UK logistics real estate acquisition.",
+        "summary_zh": "KKR (KKR) is back in focus after launching Akrapoint Commercial Capital, a new mid ticket equipment finance platform backed by a US$350 million commitment and paired with a fresh UK logistics real estate acquisition.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/kkr-kkr-fairly-valued-following-151714857.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1790176634,
+        "type": "News"
+    },
+    {
+        "title": "Goldman Eyes Palmer Square Buyout to Strengthen Credit & AWM Franchise",
+        "title_zh": "Goldman Eyes Palmer Square Buyout to Strengthen Credit & AWM Franchise",
+        "summary": "GS is in talks to acquire Palmer Square, potentially boosting its credit capabilities, AWM franchise and recurring fee revenues.",
+        "summary_zh": "GS is in talks to acquire Palmer Square, potentially boosting its credit capabilities, AWM franchise and recurring fee revenues.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-eyes-palmer-square-buyout-143000242.html",
         "publisher": "Zacks",
-        "publish_time": 1790171400,
-        "type": "News"
-    },
-    {
-        "title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-        "title_zh": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
-        "summary": "IonQ just dropped two back-to-back announcements that sent its stock surging while the broader quantum ETF slipped, and the reason one company is pulling so far away from the pack reveals something important about where the real quantum race is being run.",
-        "summary_zh": "IonQ just dropped two back-to-back announcements that sent its stock surging while the broader quantum ETF slipped, and the reason one company is pulling so far away from the pack reveals something important about where the real quantum race is being run.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ionq-surges-11-nvidia-research-131945976.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1790169585,
-        "type": "News"
-    },
-    {
-        "title": "Morgan Stanley Investment-Bank Deal List Leaked in Email Misfire",
-        "title_zh": "Morgan Stanley Investment-Bank Deal List Leaked in Email Misfire",
-        "summary": "A Morgan Stanley staffer accidentally leaked an internal document listing more than 100 investment-banking deals the firm is pitching and monitoring in Asia, revealing details of the bank’s pipeline, according to people familiar with the matter.",
-        "summary_zh": "A Morgan Stanley staffer accidentally leaked an internal document listing more than 100 investment-banking deals the firm is pitching and monitoring in Asia, revealing details of the bank’s pipeline, according to people familiar with the matter.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-investment-bank-deal-124657863.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1790167617,
-        "type": "News"
-    },
-    {
-        "title": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
-        "title_zh": "6 ‘Moonshot’ Biotech Stocks That Offer Big Risks, Bigger Rewards",
-        "summary": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
-        "summary_zh": "Morgan Stanley highlights high-risk, high-reward biotech stocks poised for massive upside following key upcoming clinical readouts.",
-        "link": "https://www.barrons.com/articles/biotech-stocks-buy-risk-reward-ba468bd0?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "publish_time": 1790166480,
+        "publish_time": 1790173800,
         "type": "News"
     },
     {
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/media-advertising/articles/paramount-plans-49-billion-debt-113923908.html",
         "publisher": "Quartz",
         "publish_time": 1790163563,
+        "type": "News"
+    },
+    {
+        "title": "JPMorgan Chase (JPM) Lands $20 Billion Mandate As Dealmaking Hits Record Levels",
+        "title_zh": "JPMorgan Chase (JPM) Lands $20 Billion Mandate As Dealmaking Hits Record Levels",
+        "summary": "JPMorgan Chase (NYSE:JPM) and Qatar Investment Authority agreed a US$20b multi market investment partnership covering public equities and private credit. The alliance is led by J.P. Morgan Asset Management and allocates capital across several regions and asset classes for QIA.",
+        "summary_zh": "JPMorgan Chase (NYSE:JPM) and Qatar Investment Authority agreed a US$20b multi market investment partnership covering public equities and private credit. The alliance is led by J.P. Morgan Asset Management and allocates capital across several regions and asset classes for QIA.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-lands-20-081821032.html",
+        "publisher": "Simply Wall St.",
+        "publish_time": 1790151501,
         "type": "News"
     }
 ]
