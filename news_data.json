@@ -1,12 +1,82 @@
 [
     {
-        "title": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
-        "title_zh": "Meta's Mark Zuckerberg is in 'founder mode': Adviser and former longtime top exec",
-        "summary": "Zuck is having his latest Steve Jobs-like moment.",
-        "summary_zh": "Zuck is having his latest Steve Jobs-like moment.",
-        "link": "https://finance.yahoo.com/technology/article/metas-mark-zuckerberg-is-in-founder-mode-adviser-and-former-longtime-top-exec-135401215.html",
+        "title": "Tesla set to formally roll out Semi electric trucks at Nevada event",
+        "title_zh": "Tesla set to formally roll out Semi electric trucks at Nevada event",
+        "summary": "SAN FRANCISCO, Sept 24 (Reuters) - Tesla is set to roll out its Semi trucks late on Thursday at an inauguration ‌of its plant in Sparks, Nevada, the EV maker said on ‌its website and social media, almost nine years after CEO Elon Musk unveiled the electric big ​rigs.",
+        "summary_zh": "SAN FRANCISCO, Sept 24 (Reuters) - Tesla is set to roll out its Semi trucks late on Thursday at an inauguration ‌of its plant in Sparks, Nevada, the EV maker said on ‌its website and social media, almost nine years after CEO Elon Musk unveiled the electric big ​rigs.",
+        "link": "https://finance.yahoo.com/news/tesla-set-formally-roll-semi-230854250.html",
+        "publisher": "Reuters",
+        "publish_time": 1790291334,
+        "type": "News"
+    },
+    {
+        "title": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+        "title_zh": "S&P 500 ends marginally lower as investors focus on US-Iran war",
+        "summary": "By Noel Randewich and Johann M Cherian Sept 24 (Reuters) - The S&P 500 ended marginally down on Thursday, with Microsoft dipping and Meta Platforms rising, as uncertainty about the Middle East lifted",
+        "summary_zh": "By Noel Randewich and Johann M Cherian Sept 24 (Reuters) - The S&P 500 ended marginally down on Thursday, with Microsoft dipping and Meta Platforms rising, as uncertainty about the Middle East lifted",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
+        "publisher": "Reuters",
+        "publish_time": 1790280996,
+        "type": "News"
+    },
+    {
+        "title": "The era of AI wearables focused on listening is here",
+        "title_zh": "The era of AI wearables focused on listening is here",
+        "summary": "Yahoo Finance Technology Editor Dan Howley joins Market Domination host Brooke DiPalma to report on the next round of wearable devices focused on listening to collect data, including built-in cameras in Meta's (META) Smart Glasses and the Apple (AAPL) Watch's use of the \"Live ...",
+        "summary_zh": "Yahoo Finance Technology Editor Dan Howley joins Market Domination host Brooke DiPalma to report on the next round of wearable devices focused on listening to collect data, including built-in cameras in Meta's (META) Smart Glasses and the Apple (AAPL) Watch's use of the \"Live ...",
+        "link": "https://finance.yahoo.com/video/era-ai-wearables-focused-listening-200354391.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790280234,
+        "type": "News"
+    },
+    {
+        "title": "Meta's stock surges as it moves from AI laggard to leader",
+        "title_zh": "Meta's stock surges as it moves from AI laggard to leader",
+        "summary": "KeyBanc Capital Markets Managing Director Justin Patterson joins Market Domination's Brooke DiPalma to discuss the resurgence of Meta (META) stock and how its upcoming product releases could usher it into the next phase of growth.",
+        "summary_zh": "KeyBanc Capital Markets Managing Director Justin Patterson joins Market Domination's Brooke DiPalma to discuss the resurgence of Meta (META) stock and how its upcoming product releases could usher it into the next phase of growth.",
+        "link": "https://finance.yahoo.com/video/metas-stock-surges-moves-ai-194025560.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790278825,
+        "type": "News"
+    },
+    {
+        "title": "Meta is banking its future on its Muse AI agent — and winning user trust",
+        "title_zh": "Meta is banking its future on its Muse AI agent — and winning user trust",
+        "summary": "Muse is Meta's vision for its future.",
+        "summary_zh": "Muse is Meta's vision for its future.",
+        "link": "https://finance.yahoo.com/technology/article/meta-is-banking-its-future-on-its-muse-ai-agent--and-winning-user-trust-182927585.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1790258041,
+        "publish_time": 1790274567,
+        "type": "News"
+    },
+    {
+        "title": "How Muse AI is expanding Meta's moat, & why you shouldn't bring iced coffee to job interviews",
+        "title_zh": "How Muse AI is expanding Meta's moat, & why you shouldn't bring iced coffee to job interviews",
+        "summary": "In this episode of Market Hang, Turney Duff and his panel of experts weigh in on Meta's (META) Muse AI agent, how the bond market's recent moves could threaten the AI boom, job interview etiquette, and much more.Today's panel includes The Wall Street Skinny co-founders Kristen...",
+        "summary_zh": "In this episode of Market Hang, Turney Duff and his panel of experts weigh in on Meta's (META) Muse AI agent, how the bond market's recent moves could threaten the AI boom, job interview etiquette, and much more.Today's panel includes The Wall Street Skinny co-founders Kristen...",
+        "link": "https://finance.yahoo.com/video/muse-ai-expanding-metas-moat-180537667.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790273137,
+        "type": "News"
+    },
+    {
+        "title": "Meta's $14 billion AI bet looks like it's finally paying off",
+        "title_zh": "Meta's $14 billion AI bet looks like it's finally paying off",
+        "summary": "Mark Zuckerberg's Scale AI deal changed the view of Meta being late to the AI game to outright leading it.",
+        "summary_zh": "Mark Zuckerberg's Scale AI deal changed the view of Meta being late to the AI game to outright leading it.",
+        "link": "https://finance.yahoo.com/technology/article/metas-14-billion-ai-bet-looks-like-its-finally-paying-off-155139007.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790265099,
+        "type": "News"
+    },
+    {
+        "title": "Nvidia's valuation is falling, but it might not be a warning sign",
+        "title_zh": "Nvidia's valuation is falling, but it might not be a warning sign",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi explains why he doesn't see Nvidia's (NVDA) falling valuation as a \"flashing warning sign.\"",
+        "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi explains why he doesn't see Nvidia's (NVDA) falling valuation as a \"flashing warning sign.\"",
+        "link": "https://finance.yahoo.com/video/nvidias-valuation-falling-might-not-140207364.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790258527,
         "type": "News"
     },
     {
@@ -17,76 +87,6 @@
         "link": "https://finance.yahoo.com/video/muse-over-metaverse-good-thing-134030763.html",
         "publisher": "Yahoo Finance Video",
         "publish_time": 1790257230,
-        "type": "News"
-    },
-    {
-        "title": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-        "title_zh": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-        "summary": "Here's a check of the markets in the first few minutes of trading.",
-        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790257064,
-        "type": "News"
-    },
-    {
-        "title": "Wall St opens lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-        "title_zh": "Wall St opens lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-        "summary": "Sept 24 (Reuters) - Wall Street's main stock indexes opened lower on Thursday as simmering Middle East tensions lifted oil prices and Treasury yields, while investors also exercised caution ahead of a",
-        "summary_zh": "Sept 24 (Reuters) - Wall Street's main stock indexes opened lower on Thursday as simmering Middle East tensions lifted oil prices and Treasury yields, while investors also exercised caution ahead of a",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-lower-oil-133451332.html",
-        "publisher": "Reuters",
-        "publish_time": 1790256891,
-        "type": "News"
-    },
-    {
-        "title": "Bentley debuts its first electric car. Starting price: $250,000.",
-        "title_zh": "Bentley debuts its first electric car. Starting price: $250,000.",
-        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss Bentley (VWAGY) debuting its first electric car, the Torcal, an SUV with an estimated starting price of $250,000.",
-        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss Bentley (VWAGY) debuting its first electric car, the Torcal, an SUV with an estimated starting price of $250,000.",
-        "link": "https://finance.yahoo.com/video/bentley-debuts-first-electric-car-133008316.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790256608,
-        "type": "News"
-    },
-    {
-        "title": "Tesla to open doors of its Nevada Semi truck factory",
-        "title_zh": "Tesla to open doors of its Nevada Semi truck factory",
-        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss Tesla (TSLA) opening the doors to its new Semi factory in Sparks, Nev., in a showing to boost investor confidence in its electric Semi truck.",
-        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss Tesla (TSLA) opening the doors to its new Semi factory in Sparks, Nev., in a showing to boost investor confidence in its electric Semi truck.",
-        "link": "https://finance.yahoo.com/video/tesla-open-doors-nevada-semi-132030238.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790256030,
-        "type": "News"
-    },
-    {
-        "title": "Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-        "title_zh": "Wall St set for lower open as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-        "summary": "By Johann M Cherian and Avinash P Sept 24 (Reuters) - Wall Street was set to open lower on Thursday as simmering Middle East tensions lifted oil prices and Treasury yields, while investors also",
-        "summary_zh": "By Johann M Cherian and Avinash P Sept 24 (Reuters) - Wall Street was set to open lower on Thursday as simmering Middle East tensions lifted oil prices and Treasury yields, while investors also",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html",
-        "publisher": "Reuters",
-        "publish_time": 1790255991,
-        "type": "News"
-    },
-    {
-        "title": "The S&P 500 has never been this concentrated in just 2 stocks",
-        "title_zh": "The S&P 500 has never been this concentrated in just 2 stocks",
-        "summary": "Apple and Nvidia have truly become the straws that stir the stock market's drink.",
-        "summary_zh": "Apple and Nvidia have truly become the straws that stir the stock market's drink.",
-        "link": "https://finance.yahoo.com/markets/article/the-sp-500-has-never-been-this-concentrated-in-just-2-stocks-122519280.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790252719,
-        "type": "News"
-    },
-    {
-        "title": "Surviving Mark Zuckerberg's intense founder era: Fmr Meta CTO",
-        "title_zh": "Surviving Mark Zuckerberg's intense founder era: Fmr Meta CTO",
-        "summary": "Yahoo Finance Executive Editor Brian Sozzi sits down with former Meta CTO and Gigascale Capital founding partner Mike Schroepfer to discuss the massive energy demands of artificial intelligence and why nuclear fusion could be the ultimate economic solution to power the grid.",
-        "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi sits down with former Meta CTO and Gigascale Capital founding partner Mike Schroepfer to discuss the massive energy demands of artificial intelligence and why nuclear fusion could be the ultimate economic solution to power the grid.",
-        "link": "https://finance.yahoo.com/video/surviving-mark-zuckerbergs-intense-founder-era-fmr-meta-cto-100000110.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790244000,
         "type": "News"
     }
 ]

@@ -1,42 +1,22 @@
 [
     {
-        "title": "MGM Resorts stock sinks after Barry Diller withdraws buyout offer",
-        "title_zh": "MGM Resorts stock sinks after Barry Diller withdraws buyout offer",
-        "summary": "MGM Resorts International (MGM) stock is sinking in Tuesday's pre-market trading after billionaire Barry Diller dropped his buyout offer, while still maintaining his 27% stake in the company. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley react to this headline.",
-        "summary_zh": "MGM Resorts International (MGM) stock is sinking in Tuesday's pre-market trading after billionaire Barry Diller dropped his buyout offer, while still maintaining his 27% stake in the company. The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley react to this headline.",
-        "link": "https://finance.yahoo.com/video/mgm-resorts-stock-sinks-barry-134500025.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790257500,
+        "title": "Apollo’s Johnson & Johnson Deal Could Open a New Healthcare Growth Avenue",
+        "title_zh": "Apollo’s Johnson & Johnson Deal Could Open a New Healthcare Growth Avenue",
+        "summary": "It was reported on September 11 that Apollo Global Management, Inc. (NYSE:APO) is in discussions to acquire Johnson & Johnson (NYSE:JNJ)’s orthopedics business, DePuy Synthes, in a potential transaction valuing the unit at close to $20 billion, according to Bloomberg.",
+        "summary_zh": "It was reported on September 11 that Apollo Global Management, Inc. (NYSE:APO) is in discussions to acquire Johnson & Johnson (NYSE:JNJ)’s orthopedics business, DePuy Synthes, in a potential transaction valuing the unit at close to $20 billion, according to Bloomberg.",
+        "link": "https://finance.yahoo.com/healthcare/articles/apollo-johnson-johnson-deal-could-215518007.html",
+        "publisher": "Insider Monkey",
+        "publish_time": 1790286918,
         "type": "News"
     },
     {
-        "title": "Stock Slide Deepens as the Bond Market Offers No Relief",
-        "title_zh": "Stock Slide Deepens as the Bond Market Offers No Relief",
-        "summary": "The stock market extended losses on Thursday with all three major indexes opening lower as Treasury yields continued to rise. The S&P 500 fell 0.5%. The Nasdaq Composite dropped 0.8%. The Dow Jones Industrial Average was down 0.",
-        "summary_zh": "The stock market extended losses on Thursday with all three major indexes opening lower as Treasury yields continued to rise. The S&P 500 fell 0.5%. The Nasdaq Composite dropped 0.8%. The Dow Jones Industrial Average was down 0.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092426/card/stock-slide-deepens-as-the-bond-market-offers-no-relief-GN8gY87diYJBc8D76T0w?siteid=yhoof2&yptr=yahoo",
+        "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
+        "title_zh": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
+        "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+        "summary_zh": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+        "link": "https://www.barrons.com/articles/qualcomm-apple-stock-iphone-7432cf78?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "publish_time": 1790256735,
-        "type": "News"
-    },
-    {
-        "title": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
-        "title_zh": "MGM Resorts International Sinks 10% as Barry Diller Withdraws $48.30-a-Share Buyout Offer; Caesars Entertainment Barely Moves",
-        "summary": "Barry Diller just pulled a blockbuster buyout offer for one of Las Vegas's biggest casino operators, and the market is punishing the stock hard while leaving rivals completely unscathed. Find out what his next move signals for MGM shareholders.",
-        "summary_zh": "Barry Diller just pulled a blockbuster buyout offer for one of Las Vegas's biggest casino operators, and the market is punishing the stock hard while leaving rivals completely unscathed. Find out what his next move signals for MGM shareholders.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/mgm-resorts-international-sinks-10-132514357.html",
-        "publisher": "24/7 Wall St.",
-        "publish_time": 1790256314,
-        "type": "News"
-    },
-    {
-        "title": "PayPal Strikes Major Meta AI Shopping Deal",
-        "title_zh": "PayPal Strikes Major Meta AI Shopping Deal",
-        "summary": "PayPal Powers Meta's Muse as AI Shopping Enters New Era",
-        "summary_zh": "PayPal Powers Meta's Muse as AI Shopping Enters New Era",
-        "link": "https://finance.yahoo.com/technology/ai/articles/paypal-strikes-major-meta-ai-124807933.html",
-        "publisher": "GuruFocus.com",
-        "publish_time": 1790254087,
+        "publish_time": 1790282460,
         "type": "News"
     },
     {
@@ -47,6 +27,26 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/gs-vs-evr-investment-bank-122100117.html",
         "publisher": "Zacks",
         "publish_time": 1790252460,
+        "type": "News"
+    },
+    {
+        "title": "Morgan Stanley employee’s accidental email exposes Asia deal list – report",
+        "title_zh": "Morgan Stanley employee’s accidental email exposes Asia deal list – report",
+        "summary": "The document included potential initial public offerings across China, South Korea and India.",
+        "summary_zh": "The document included potential initial public offerings across China, South Korea and India.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-employee-accidental-email-115624194.html",
+        "publisher": "Private Banker International",
+        "publish_time": 1790250984,
+        "type": "News"
+    },
+    {
+        "title": "Market Chatter: Morgan Stanley Working on Damage Control After Accidental Deal List Leak",
+        "title_zh": "Market Chatter: Morgan Stanley Working on Damage Control After Accidental Deal List Leak",
+        "summary": "Morgan Stanley (MS) is working on damage control after a list of deals that it has been monitoring o",
+        "summary_zh": "Morgan Stanley (MS) is working on damage control after a list of deals that it has been monitoring o",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-morgan-stanley-working-090520663.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1790240720,
         "type": "News"
     }
 ]
