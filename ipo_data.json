@@ -1,15 +1,5 @@
 [
     {
-        "title": "Robinhood Stock Once Fell 82% Below Its IPO Price. $10,000 Invested at the IPO Has Still More Than Tripled.",
-        "title_zh": "Robinhood Stock Once Fell 82% Below Its IPO Price. $10,000 Invested at the IPO Has Still More Than Tripled.",
-        "summary": "Anyone who held on had to go through an 82% drop first. What changed?",
-        "summary_zh": "Anyone who held on had to go through an 82% drop first. What changed?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-once-fell-82-050102201.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1790398862,
-        "type": "News"
-    },
-    {
         "title": "SpaceX Raised $86 Billion and OpenAI Is Next. This ETF Owns the IPO Class of 2026",
         "title_zh": "SpaceX Raised $86 Billion and OpenAI Is Next. This ETF Owns the IPO Class of 2026",
         "summary": "SpaceX's blockbuster listing cracked open the 2026 IPO window, and Anthropic and OpenAI are already circling the runway. One ETF positions investors across the entire cohort, but its five-year track record reveals a tension that could define the next rebalance.",
@@ -47,6 +37,16 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-eyes-massive-u-160000193.html",
         "publisher": "Zacks",
         "publish_time": 1783440000,
+        "type": "News"
+    },
+    {
+        "title": "IPOs- How Much is TOO Much",
+        "title_zh": "IPOs- How Much is TOO Much",
+        "summary": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
+        "summary_zh": "When I was a kid, I begged my parents to go to Golden Corral. It’s a Southern staple. Not because it has good food, but because it has ALL the food.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ipos-much-too-much-050100032.html",
+        "publisher": "MoneyShow",
+        "publish_time": 1781067660,
         "type": "News"
     }
 ]

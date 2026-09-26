@@ -1,12 +1,22 @@
 [
     {
-        "title": "What's different about Microsoft's Copilot AI reboot",
-        "title_zh": "What's different about Microsoft's Copilot AI reboot",
-        "summary": "Microsoft (MSFT) launched a reboot of Copilot, shifting its focus from personal AI to workplace use. Yahoo Finance Technology Editor Dan Howley explains what you should know.",
-        "summary_zh": "Microsoft (MSFT) launched a reboot of Copilot, shifting its focus from personal AI to workplace use. Yahoo Finance Technology Editor Dan Howley explains what you should know.",
-        "link": "https://finance.yahoo.com/video/whats-different-microsofts-copilot-ai-195423063.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790366063,
+        "title": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+        "title_zh": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
+        "summary": "The Iran war has forced Big Tech to confront physical security in ways it never has before.",
+        "summary_zh": "The Iran war has forced Big Tech to confront physical security in ways it never has before.",
+        "link": "https://finance.yahoo.com/markets/article/big-techs-ai-build-out-ran-to-the-middle-east-then-the-iran-war-hit-114102296.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790422862,
+        "type": "News"
+    },
+    {
+        "title": "Meta has an AI solution to its misunderstood trust problem",
+        "title_zh": "Meta has an AI solution to its misunderstood trust problem",
+        "summary": "Being first and good enough might be enough for Muse to win.",
+        "summary_zh": "Being first and good enough might be enough for Muse to win.",
+        "link": "https://finance.yahoo.com/technology/article/meta-has-an-ai-solution-to-its-misunderstood-trust-problem-100000057.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790416800,
         "type": "News"
     },
     {
@@ -20,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Why this early Uber investor would short OpenAI",
-        "title_zh": "Why this early Uber investor would short OpenAI",
-        "summary": "OpenAI isn't even a public company yet, and there's already one prominent venture capitalist who would short the stock if it were public.",
-        "summary_zh": "OpenAI isn't even a public company yet, and there's already one prominent venture capitalist who would short the stock if it were public.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/why-this-early-uber-investor-would-short-openai-173506483.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790357706,
-        "type": "News"
-    },
-    {
         "title": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
         "title_zh": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
         "summary": "Call it a victory lap rather than an official launch event for the Tesla Semi. And while not a lot of new information was revealed, there were a few tidbits of note.",
@@ -40,13 +40,23 @@
         "type": "News"
     },
     {
-        "title": "Could OpenAI and Anthropic going public backfire?",
-        "title_zh": "Could OpenAI and Anthropic going public backfire?",
-        "summary": "Tusk Ventures Founder and CEO Bradley Tusk joins Yahoo Finance Executive Editor Brian Sozzi to make the case on why top AI companies like OpenAI and Anthropic are overvalued and the pressures of becoming a public company amid fears of AI safety.",
-        "summary_zh": "Tusk Ventures Founder and CEO Bradley Tusk joins Yahoo Finance Executive Editor Brian Sozzi to make the case on why top AI companies like OpenAI and Anthropic are overvalued and the pressures of becoming a public company amid fears of AI safety.",
-        "link": "https://finance.yahoo.com/video/could-openai-anthropic-going-public-150845369.html",
+        "title": "This Meta stock stat doesn't make sense after the Muse mic drop",
+        "title_zh": "This Meta stock stat doesn't make sense after the Muse mic drop",
+        "summary": "This valuation metric seems outdated for Meta.",
+        "summary_zh": "This valuation metric seems outdated for Meta.",
+        "link": "https://finance.yahoo.com/technology/article/this-meta-stock-stat-doesnt-make-sense-after-the-muse-mic-drop-160000647.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790352000,
+        "type": "News"
+    },
+    {
+        "title": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
+        "title_zh": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
+        "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley break down the biggest market and business stories driving the day's conversation.",
+        "summary_zh": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley break down the biggest market and business stories driving the day's conversation.",
+        "link": "https://finance.yahoo.com/video/the-830-trump-xi-summit-takeaways-an-interview-with-microsoft-ceo-satya-nadella-150434766.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1790348925,
+        "publish_time": 1790348674,
         "type": "News"
     },
     {
@@ -70,23 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Meta's Muse says it can manage your money. Should you let it?",
-        "title_zh": "Meta's Muse says it can manage your money. Should you let it?",
-        "summary": "Muse is Meta's new personal AI agent. Here are all the ways you can use it to improve your personal finances.",
-        "summary_zh": "Muse is Meta's new personal AI agent. Here are all the ways you can use it to improve your personal finances.",
-        "link": "https://finance.yahoo.com/personal-finance/banking/article/metas-muse-says-it-can-manage-your-money-should-you-let-it-141040045.html",
-        "publisher": "Yahoo Personal Finance",
-        "publish_time": 1790345440,
-        "type": "News"
-    },
-    {
-        "title": "CEO Satya Nadella on Microsoft's AI bet",
-        "title_zh": "CEO Satya Nadella on Microsoft's AI bet",
-        "summary": "Deirdre Bosa sat down with Microsoft (MSFT) CEO Satya Nadella to discuss its cloud-based Autopilot update, consumer trust in AI agents, and how US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with Pre...",
-        "summary_zh": "Deirdre Bosa sat down with Microsoft (MSFT) CEO Satya Nadella to discuss its cloud-based Autopilot update, consumer trust in AI agents, and how US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with Pre...",
-        "link": "https://finance.yahoo.com/video/ceo-satya-nadella-on-microsofts-ai-bet-140757895.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790345277,
+        "title": "AMD CEO Lisa Su is having a September to remember",
+        "title_zh": "AMD CEO Lisa Su is having a September to remember",
+        "summary": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
+        "summary_zh": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
+        "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790344742,
         "type": "News"
     }
 ]
