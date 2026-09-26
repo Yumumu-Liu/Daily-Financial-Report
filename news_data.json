@@ -1,5 +1,75 @@
 [
     {
+        "title": "What's different about Microsoft's Copilot AI reboot",
+        "title_zh": "What's different about Microsoft's Copilot AI reboot",
+        "summary": "Microsoft (MSFT) launched a reboot of Copilot, shifting its focus from personal AI to workplace use. Yahoo Finance Technology Editor Dan Howley explains what you should know.",
+        "summary_zh": "Microsoft (MSFT) launched a reboot of Copilot, shifting its focus from personal AI to workplace use. Yahoo Finance Technology Editor Dan Howley explains what you should know.",
+        "link": "https://finance.yahoo.com/video/whats-different-microsofts-copilot-ai-195423063.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790366063,
+        "type": "News"
+    },
+    {
+        "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+        "title_zh": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+        "summary": "President Trump said Chinese leader Xi Jinping appeared to like the term \"super intelligence,\" days after Trump said the US would officially use it in place of \"artificial intelligence.\"",
+        "summary_zh": "President Trump said Chinese leader Xi Jinping appeared to like the term \"super intelligence,\" days after Trump said the US would officially use it in place of \"artificial intelligence.\"",
+        "link": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790365085,
+        "type": "News"
+    },
+    {
+        "title": "Why this early Uber investor would short OpenAI",
+        "title_zh": "Why this early Uber investor would short OpenAI",
+        "summary": "OpenAI isn't even a public company yet, and there's already one prominent venture capitalist who would short the stock if it were public.",
+        "summary_zh": "OpenAI isn't even a public company yet, and there's already one prominent venture capitalist who would short the stock if it were public.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/why-this-early-uber-investor-would-short-openai-173506483.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790357706,
+        "type": "News"
+    },
+    {
+        "title": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
+        "title_zh": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
+        "summary": "Call it a victory lap rather than an official launch event for the Tesla Semi. And while not a lot of new information was revealed, there were a few tidbits of note.",
+        "summary_zh": "Call it a victory lap rather than an official launch event for the Tesla Semi. And while not a lot of new information was revealed, there were a few tidbits of note.",
+        "link": "https://finance.yahoo.com/markets/stocks/article/tesla-semi-diesels-surge-gives-the-electric-truck-an-opening-as-high-prices-improve-the-math-for-fleets-161104233.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790352664,
+        "type": "News"
+    },
+    {
+        "title": "Could OpenAI and Anthropic going public backfire?",
+        "title_zh": "Could OpenAI and Anthropic going public backfire?",
+        "summary": "Tusk Ventures Founder and CEO Bradley Tusk joins Yahoo Finance Executive Editor Brian Sozzi to make the case on why top AI companies like OpenAI and Anthropic are overvalued and the pressures of becoming a public company amid fears of AI safety.",
+        "summary_zh": "Tusk Ventures Founder and CEO Bradley Tusk joins Yahoo Finance Executive Editor Brian Sozzi to make the case on why top AI companies like OpenAI and Anthropic are overvalued and the pressures of becoming a public company amid fears of AI safety.",
+        "link": "https://finance.yahoo.com/video/could-openai-anthropic-going-public-150845369.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790348925,
+        "type": "News"
+    },
+    {
+        "title": "Tesla's big semi truck bet is officially in motion",
+        "title_zh": "Tesla's big semi truck bet is officially in motion",
+        "summary": "Yahoo Finance's Senior Autos Reporter Pras Subramanian and The 8:30 panel with Julie Hyman and Jake Conley break down Tesla's (TSLA) opening of its Nevada factory for semi trucks.",
+        "summary_zh": "Yahoo Finance's Senior Autos Reporter Pras Subramanian and The 8:30 panel with Julie Hyman and Jake Conley break down Tesla's (TSLA) opening of its Nevada factory for semi trucks.",
+        "link": "https://finance.yahoo.com/video/teslas-big-semi-truck-bet-143500697.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790346900,
+        "type": "News"
+    },
+    {
+        "title": "AI financing fears are mounting, sparked by Oracle's force majeure notice",
+        "title_zh": "AI financing fears are mounting, sparked by Oracle's force majeure notice",
+        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian chat with Deirdre Bosa about Oracle's (ORCL) force majeure at its AI data center and what it signals about the broader AI build-out.",
+        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian chat with Deirdre Bosa about Oracle's (ORCL) force majeure at its AI data center and what it signals about the broader AI build-out.",
+        "link": "https://finance.yahoo.com/video/ai-financing-fears-mounting-sparked-143411405.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790346851,
+        "type": "News"
+    },
+    {
         "title": "Meta's Muse says it can manage your money. Should you let it?",
         "title_zh": "Meta's Muse says it can manage your money. Should you let it?",
         "summary": "Muse is Meta's new personal AI agent. Here are all the ways you can use it to improve your personal finances.",
@@ -10,83 +80,13 @@
         "type": "News"
     },
     {
-        "title": "Why 'trust' will Microsoft's 'biggest' AI issue: CEO Satya Nadella explains",
-        "title_zh": "Why 'trust' will Microsoft's 'biggest' AI issue: CEO Satya Nadella explains",
-        "summary": "Deirdre Bosa talks with Microsoft (MSFT) CEO Satya Nadella about why consumer trust in AI agents matters and how Microsoft is working to build that trust.",
-        "summary_zh": "Deirdre Bosa talks with Microsoft (MSFT) CEO Satya Nadella about why consumer trust in AI agents matters and how Microsoft is working to build that trust.",
-        "link": "https://finance.yahoo.com/video/why-trust-microsofts-biggest-ai-140056063.html",
+        "title": "CEO Satya Nadella on Microsoft's AI bet",
+        "title_zh": "CEO Satya Nadella on Microsoft's AI bet",
+        "summary": "Deirdre Bosa sat down with Microsoft (MSFT) CEO Satya Nadella to discuss its cloud-based Autopilot update, consumer trust in AI agents, and how US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with Pre...",
+        "summary_zh": "Deirdre Bosa sat down with Microsoft (MSFT) CEO Satya Nadella to discuss its cloud-based Autopilot update, consumer trust in AI agents, and how US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with Pre...",
+        "link": "https://finance.yahoo.com/video/ceo-satya-nadella-on-microsofts-ai-bet-140757895.html",
         "publisher": "Yahoo Finance Video",
-        "publish_time": 1790344856,
-        "type": "News"
-    },
-    {
-        "title": "AMD CEO Lisa Su is having a September to remember",
-        "title_zh": "AMD CEO Lisa Su is having a September to remember",
-        "summary": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
-        "summary_zh": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
-        "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790344742,
-        "type": "News"
-    },
-    {
-        "title": "These are stocks getting lifted up by Meta's Muse",
-        "title_zh": "These are stocks getting lifted up by Meta's Muse",
-        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss the stocks that have seen gains amid the buzz around Meta's (META) Muse and whether investors should expect that to continue in the long term.",
-        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss the stocks that have seen gains amid the buzz around Meta's (META) Muse and whether investors should expect that to continue in the long term.",
-        "link": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790344520,
-        "type": "News"
-    },
-    {
-        "title": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
-        "title_zh": "Tech stocks gain after tech titan dinner with Trump and China's Xi Jinping: AlphaCheck",
-        "summary": "Here's a check of the markets in the first few minutes of trading.",
-        "summary_zh": "Here's a check of the markets in the first few minutes of trading.",
-        "link": "https://finance.yahoo.com/markets/article/tech-stocks-gain-after-tech-titan-dinner-with-trump-and-chinas-xi-jinping-alphacheck-135107178.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790344267,
-        "type": "News"
-    },
-    {
-        "title": "Satya Nadella sees that China and the US both want AI to help their citizens",
-        "title_zh": "Satya Nadella sees that China and the US both want AI to help their citizens",
-        "summary": "Deirdre Bosa talks with Microsoft (MSFT) CEO Satya Nadella about how the US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with President Trump.",
-        "summary_zh": "Deirdre Bosa talks with Microsoft (MSFT) CEO Satya Nadella about how the US and China might find common ground on AI development and safety as Chinese President Xi Jinping visits Washington to meet with President Trump.",
-        "link": "https://finance.yahoo.com/video/satya-nadella-sees-china-us-134800956.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790344080,
-        "type": "News"
-    },
-    {
-        "title": "Over 30 CEOs scored an invite to the US-China state dinner — and these 4 got a spot at the head table",
-        "title_zh": "Over 30 CEOs scored an invite to the US-China state dinner — and these 4 got a spot at the head table",
-        "summary": "President Trump touted Thursday's long-awaited state dinner at the White House as a tough ticket, and while the Chinese business delegation was notably absent, the glittering event featured a wide array of US CEOs.",
-        "summary_zh": "President Trump touted Thursday's long-awaited state dinner at the White House as a tough ticket, and while the Chinese business delegation was notably absent, the glittering event featured a wide array of US CEOs.",
-        "link": "https://finance.yahoo.com/markets/article/over-30-ceos-scored-an-invite-to-the-us-china-state-dinner--and-these-4-got-a-spot-at-the-head-table-134400923.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790343840,
-        "type": "News"
-    },
-    {
-        "title": "Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
-        "title_zh": "Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
-        "summary": "Sept 25 (Reuters) - Wall Street's main stock indexes were steady at open on Friday as AI optimism offset worries regarding high oil prices and rising Treasury yields, while investors monitored chances",
-        "summary_zh": "Sept 25 (Reuters) - Wall Street's main stock indexes were steady at open on Friday as AI optimism offset worries regarding high oil prices and rising Treasury yields, while investors monitored chances",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-steady-ai-133342696.html",
-        "publisher": "Reuters",
-        "publish_time": 1790343222,
-        "type": "News"
-    },
-    {
-        "title": "Nscale Raises $3.36 Billion in Pre-IPO Round Led by Third Point",
-        "title_zh": "Nscale Raises $3.36 Billion in Pre-IPO Round Led by Third Point",
-        "summary": "Nscale, a developer of artificial intelligence data centers that counts Nvidia Corp. and Microsoft Corp. among its partners, raised $3.36 billion in a pre-IPO financing round as the company raises to go public.",
-        "summary_zh": "Nscale, a developer of artificial intelligence data centers that counts Nvidia Corp. and Microsoft Corp. among its partners, raised $3.36 billion in a pre-IPO financing round as the company raises to go public.",
-        "link": "https://finance.yahoo.com/technology/ai/articles/nscale-raises-3-36-billion-131735543.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1790342255,
+        "publish_time": 1790345277,
         "type": "News"
     }
 ]
