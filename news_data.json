@@ -1,5 +1,25 @@
 [
     {
+        "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
+        "title_zh": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
+        "summary": "Meta went from an AI laggard to a leader in the course of a week.",
+        "summary_zh": "Meta went from an AI laggard to a leader in the course of a week.",
+        "link": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790514694,
+        "type": "News"
+    },
+    {
+        "title": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+        "title_zh": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+        "summary": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
+        "summary_zh": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
+        "link": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-corporate-bond-boom-chart-of-the-day-115022571.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790509822,
+        "type": "News"
+    },
+    {
         "title": "Banks have profited from idle cash for years. AI agents could change that.",
         "title_zh": "Banks have profited from idle cash for years. AI agents could change that.",
         "summary": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
@@ -7,26 +27,6 @@
         "link": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1790437335,
-        "type": "News"
-    },
-    {
-        "title": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
-        "title_zh": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
-        "summary": "The Iran war has forced Big Tech to confront physical security in ways it never has before.",
-        "summary_zh": "The Iran war has forced Big Tech to confront physical security in ways it never has before.",
-        "link": "https://finance.yahoo.com/markets/article/big-techs-ai-build-out-ran-to-the-middle-east-then-the-iran-war-hit-114102296.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790422862,
-        "type": "News"
-    },
-    {
-        "title": "Meta has an AI solution to its misunderstood trust problem",
-        "title_zh": "Meta has an AI solution to its misunderstood trust problem",
-        "summary": "Being first and good enough might be enough for Muse to win.",
-        "summary_zh": "Being first and good enough might be enough for Muse to win.",
-        "link": "https://finance.yahoo.com/technology/article/meta-has-an-ai-solution-to-its-misunderstood-trust-problem-100000057.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790416800,
         "type": "News"
     }
 ]
