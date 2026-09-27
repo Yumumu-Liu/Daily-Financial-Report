@@ -1,5 +1,15 @@
 [
     {
+        "title": "Banks have profited from idle cash for years. AI agents could change that.",
+        "title_zh": "Banks have profited from idle cash for years. AI agents could change that.",
+        "summary": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
+        "summary_zh": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
+        "link": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790437335,
+        "type": "News"
+    },
+    {
         "title": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
         "title_zh": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
         "summary": "The Iran war has forced Big Tech to confront physical security in ways it never has before.",
@@ -17,76 +27,6 @@
         "link": "https://finance.yahoo.com/technology/article/meta-has-an-ai-solution-to-its-misunderstood-trust-problem-100000057.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1790416800,
-        "type": "News"
-    },
-    {
-        "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
-        "title_zh": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
-        "summary": "President Trump said Chinese leader Xi Jinping appeared to like the term \"super intelligence,\" days after Trump said the US would officially use it in place of \"artificial intelligence.\"",
-        "summary_zh": "President Trump said Chinese leader Xi Jinping appeared to like the term \"super intelligence,\" days after Trump said the US would officially use it in place of \"artificial intelligence.\"",
-        "link": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790365085,
-        "type": "News"
-    },
-    {
-        "title": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
-        "title_zh": "Tesla Semi: Diesel's surge gives the electric truck an opening as high prices improve the math for fleets",
-        "summary": "Call it a victory lap rather than an official launch event for the Tesla Semi. And while not a lot of new information was revealed, there were a few tidbits of note.",
-        "summary_zh": "Call it a victory lap rather than an official launch event for the Tesla Semi. And while not a lot of new information was revealed, there were a few tidbits of note.",
-        "link": "https://finance.yahoo.com/markets/stocks/article/tesla-semi-diesels-surge-gives-the-electric-truck-an-opening-as-high-prices-improve-the-math-for-fleets-161104233.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790352664,
-        "type": "News"
-    },
-    {
-        "title": "This Meta stock stat doesn't make sense after the Muse mic drop",
-        "title_zh": "This Meta stock stat doesn't make sense after the Muse mic drop",
-        "summary": "This valuation metric seems outdated for Meta.",
-        "summary_zh": "This valuation metric seems outdated for Meta.",
-        "link": "https://finance.yahoo.com/technology/article/this-meta-stock-stat-doesnt-make-sense-after-the-muse-mic-drop-160000647.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790352000,
-        "type": "News"
-    },
-    {
-        "title": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
-        "title_zh": "The 8:30: Trump-Xi summit takeaways, an interview with Microsoft CEO Satya Nadella",
-        "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley break down the biggest market and business stories driving the day's conversation.",
-        "summary_zh": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley break down the biggest market and business stories driving the day's conversation.",
-        "link": "https://finance.yahoo.com/video/the-830-trump-xi-summit-takeaways-an-interview-with-microsoft-ceo-satya-nadella-150434766.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790348674,
-        "type": "News"
-    },
-    {
-        "title": "Tesla's big semi truck bet is officially in motion",
-        "title_zh": "Tesla's big semi truck bet is officially in motion",
-        "summary": "Yahoo Finance's Senior Autos Reporter Pras Subramanian and The 8:30 panel with Julie Hyman and Jake Conley break down Tesla's (TSLA) opening of its Nevada factory for semi trucks.",
-        "summary_zh": "Yahoo Finance's Senior Autos Reporter Pras Subramanian and The 8:30 panel with Julie Hyman and Jake Conley break down Tesla's (TSLA) opening of its Nevada factory for semi trucks.",
-        "link": "https://finance.yahoo.com/video/teslas-big-semi-truck-bet-143500697.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790346900,
-        "type": "News"
-    },
-    {
-        "title": "AI financing fears are mounting, sparked by Oracle's force majeure notice",
-        "title_zh": "AI financing fears are mounting, sparked by Oracle's force majeure notice",
-        "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian chat with Deirdre Bosa about Oracle's (ORCL) force majeure at its AI data center and what it signals about the broader AI build-out.",
-        "summary_zh": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian chat with Deirdre Bosa about Oracle's (ORCL) force majeure at its AI data center and what it signals about the broader AI build-out.",
-        "link": "https://finance.yahoo.com/video/ai-financing-fears-mounting-sparked-143411405.html",
-        "publisher": "Yahoo Finance Video",
-        "publish_time": 1790346851,
-        "type": "News"
-    },
-    {
-        "title": "AMD CEO Lisa Su is having a September to remember",
-        "title_zh": "AMD CEO Lisa Su is having a September to remember",
-        "summary": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
-        "summary_zh": "AMD CEO Lisa Su is getting her due after years of flying under the radar.",
-        "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790344742,
         "type": "News"
     }
 ]
