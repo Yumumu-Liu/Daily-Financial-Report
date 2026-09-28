@@ -1,5 +1,15 @@
 [
     {
+        "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
+        "title_zh": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
+        "summary": "Chinese shares touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.’s new chips and proposed US sanctions on foreign optical producers.",
+        "summary_zh": "Chinese shares touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.’s new chips and proposed US sanctions on foreign optical producers.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-stocks-hit-one-low-042212751.html",
+        "publisher": "Bloomberg",
+        "publish_time": 1790569332,
+        "type": "News"
+    },
+    {
         "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
         "title_zh": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
         "summary": "Meta went from an AI laggard to a leader in the course of a week.",
@@ -10,23 +20,13 @@
         "type": "News"
     },
     {
-        "title": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
-        "title_zh": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day",
+        "title": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
+        "title_zh": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
         "summary": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
         "summary_zh": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
-        "link": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-corporate-bond-boom-chart-of-the-day-115022571.html",
+        "link": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-tech-bond-boom-chart-of-the-day-115022571.html",
         "publisher": "Yahoo Finance",
         "publish_time": 1790509822,
-        "type": "News"
-    },
-    {
-        "title": "Banks have profited from idle cash for years. AI agents could change that.",
-        "title_zh": "Banks have profited from idle cash for years. AI agents could change that.",
-        "summary": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
-        "summary_zh": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
-        "link": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790437335,
         "type": "News"
     }
 ]
