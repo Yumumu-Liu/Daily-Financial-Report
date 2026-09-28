@@ -1,22 +1,42 @@
 [
     {
-        "title": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019. Where smart real estate money is going now",
-        "title_zh": "Seattle tower across from Amazon sold for $12.5M after a $97M deal in 2019. Where smart real estate money is going now",
-        "summary": "A 20-story tower across from Amazon's Seattle headquarters just sold for 87% less than its 2019 valuation, but that doesn't sound the alarm on real estate as an asset class.",
-        "summary_zh": "A 20-story tower across from Amazon's Seattle headquarters just sold for 87% less than its 2019 valuation, but that doesn't sound the alarm on real estate as an asset class.",
-        "link": "https://finance.yahoo.com/real-estate/articles/seattle-tower-across-amazon-sold-010000009.html",
-        "publisher": "Moneywise",
-        "publish_time": 1790557200,
+        "title": "Oil takes off again, Wall Street dips after Trump rejects Iran truce offer",
+        "title_zh": "Oil takes off again, Wall Street dips after Trump rejects Iran truce offer",
+        "summary": "Oil futures surged more than three percent Monday, while Wall Street dipped and European equities stalled after US President Donald Trump rejected Iran's offer of a seven-day truce.\"There was renewed strength in oil prices after comments from President Trump that he had reject...",
+        "summary_zh": "Oil futures surged more than three percent Monday, while Wall Street dipped and European equities stalled after US President Donald Trump rejected Iran's offer of a seven-day truce.\"There was renewed strength in oil prices after comments from President Trump that he had reject...",
+        "link": "https://finance.yahoo.com/energy/articles/oil-prices-spike-trump-rejects-034903535.html",
+        "publisher": "AFP",
+        "publish_time": 1790611738,
         "type": "News"
     },
     {
-        "title": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear Answer",
-        "title_zh": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear Answer",
-        "summary": "Should you buy at the high? The answer might surprise you.",
-        "summary_zh": "Should you buy at the high? The answer might surprise you.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/really-invest-stock-market-now-162900626.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1790526540,
+        "title": "European Equities Mixed in Monday Trading; UBS Sees Multiple Merger Inquiries",
+        "title_zh": "European Equities Mixed in Monday Trading; UBS Sees Multiple Merger Inquiries",
+        "summary": "European stock markets closed mixed in Monday trading, with the Stoxx 600 up 0.1%, Germany's DAX add",
+        "summary_zh": "European stock markets closed mixed in Monday trading, with the Stoxx 600 up 0.1%, Germany's DAX add",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/european-equities-mixed-monday-trading-155601811.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1790610961,
+        "type": "News"
+    },
+    {
+        "title": "Marvell Likely to Lift Fiscal 2029 AI Revenue Estimate by at Least $2 Billion Largely Due to Google Deal, RBC Says",
+        "title_zh": "Marvell Likely to Lift Fiscal 2029 AI Revenue Estimate by at Least $2 Billion Largely Due to Google Deal, RBC Says",
+        "summary": "Marvell Technology (MRVL) is expected to raise its fiscal 2029 artificial intelligence revenue forec",
+        "summary_zh": "Marvell Technology (MRVL) is expected to raise its fiscal 2029 artificial intelligence revenue forec",
+        "link": "https://finance.yahoo.com/technology/ai/articles/marvell-likely-lift-fiscal-2029-155105298.html",
+        "publisher": "MT Newswires",
+        "publish_time": 1790610665,
+        "type": "News"
+    },
+    {
+        "title": "Snowflake Slides 4% on Proposed $3.5B Convertible Offering; Oracle Falls 3%, Datadog Drops 4%",
+        "title_zh": "Snowflake Slides 4% on Proposed $3.5B Convertible Offering; Oracle Falls 3%, Datadog Drops 4%",
+        "summary": "Snowflake's massive convertible note proposal is rattling cloud stocks across the board, but the deal's unusual structure raises a question worth answering before assuming the worst about dilution.",
+        "summary_zh": "Snowflake's massive convertible note proposal is rattling cloud stocks across the board, but the deal's unusual structure raises a question worth answering before assuming the worst about dilution.",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-slides-4-proposed-3-134551515.html",
+        "publisher": "24/7 Wall St.",
+        "publish_time": 1790603151,
         "type": "News"
     },
     {
@@ -27,26 +47,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lagged-peers-ubs-094447004.html",
         "publisher": "TIKR",
         "publish_time": 1790502287,
-        "type": "News"
-    },
-    {
-        "title": "Is the Trump Bull Market About to Crash? A Historically Accurate Measure of Risk Offers a Chilling Answer.",
-        "title_zh": "Is the Trump Bull Market About to Crash? A Historically Accurate Measure of Risk Offers a Chilling Answer.",
-        "summary": "The stock market has a $1.5 trillion problem that can’t be swept under the rug.",
-        "summary_zh": "The stock market has a $1.5 trillion problem that can’t be swept under the rug.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-bull-market-crash-historically-082602905.html",
-        "publisher": "Motley Fool",
-        "publish_time": 1790411162,
-        "type": "News"
-    },
-    {
-        "title": "AKAM’s $11.6B Anthropic Deal Has Wall Street Rethinking The Stock — What Analysts See",
-        "title_zh": "AKAM’s $11.6B Anthropic Deal Has Wall Street Rethinking The Stock — What Analysts See",
-        "summary": "Analysts see the AI infrastructure deal accelerating Akamai’s growth, while the company ramps up spending to meet Anthropic’s computing demand.",
-        "summary_zh": "Analysts see the AI infrastructure deal accelerating Akamai’s growth, while the company ramps up spending to meet Anthropic’s computing demand.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/akam-11-6b-anthropic-deal-200127793.html",
-        "publisher": "Stocktwits",
-        "publish_time": 1790366487,
         "type": "News"
     }
 ]

@@ -1,32 +1,92 @@
 [
     {
-        "title": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
-        "title_zh": "Chinese Stocks Hit One-Year Low as Chip, Optical Firms Slide",
-        "summary": "Chinese shares touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.’s new chips and proposed US sanctions on foreign optical producers.",
-        "summary_zh": "Chinese shares touched a one-year low, led by a selloff in technology firms after a report that authorities may allow purchases of Nvidia Corp.’s new chips and proposed US sanctions on foreign optical producers.",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chinese-stocks-hit-one-low-042212751.html",
-        "publisher": "Bloomberg",
-        "publish_time": 1790569332,
+        "title": "AI safety: Is there too much industry self-interest for regulation now?",
+        "title_zh": "AI safety: Is there too much industry self-interest for regulation now?",
+        "summary": "While AI companies themselves are now calling for significant guardrails on their artificial intelligence technology, is there now too much corporate self-interest around regulation?",
+        "summary_zh": "While AI companies themselves are now calling for significant guardrails on their artificial intelligence technology, is there now too much corporate self-interest around regulation?",
+        "link": "https://finance.yahoo.com/video/ai-safety-too-much-industry-165622306.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790614582,
         "type": "News"
     },
     {
-        "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
-        "title_zh": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment",
-        "summary": "Meta went from an AI laggard to a leader in the course of a week.",
-        "summary_zh": "Meta went from an AI laggard to a leader in the course of a week.",
-        "link": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
-        "publisher": "Yahoo Finance",
-        "publish_time": 1790514694,
+        "title": "Stocks fall, squeezed by rising oil prices and Treasury yields ",
+        "title_zh": "Stocks fall, squeezed by rising oil prices and Treasury yields ",
+        "summary": "By Caroline Valetkevitch and Amanda Cooper NEW YORK/LONDON, Sept 28 (Reuters) - Major stock indexes fell on Monday, as oil resumed its rise after US-Iranian talks reached a stalemate, while Treasury",
+        "summary_zh": "By Caroline Valetkevitch and Amanda Cooper NEW YORK/LONDON, Sept 28 (Reuters) - Major stock indexes fell on Monday, as oil resumed its rise after US-Iranian talks reached a stalemate, while Treasury",
+        "link": "https://finance.yahoo.com/markets/articles/stocks-cautious-asia-oil-gains-005009179.html",
+        "publisher": "Reuters",
+        "publish_time": 1790613075,
         "type": "News"
     },
     {
-        "title": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
-        "title_zh": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
-        "summary": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
-        "summary_zh": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
-        "link": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-tech-bond-boom-chart-of-the-day-115022571.html",
+        "title": "Homebuilding stocks are feeling the bite of higher mortgage rates",
+        "title_zh": "Homebuilding stocks are feeling the bite of higher mortgage rates",
+        "summary": "A rapid run-up in mortgage rates to around 7.5% and slumping revenues at Lennar and KB Home have pushed the S&P 500 Homebuilding Index down 3.2% this month.",
+        "summary_zh": "A rapid run-up in mortgage rates to around 7.5% and slumping revenues at Lennar and KB Home have pushed the S&P 500 Homebuilding Index down 3.2% this month.",
+        "link": "https://finance.yahoo.com/markets/article/homebuilding-stocks-are-feeling-the-bite-of-higher-mortgage-rates-162417844.html",
         "publisher": "Yahoo Finance",
-        "publish_time": 1790509822,
+        "publish_time": 1790612657,
+        "type": "News"
+    },
+    {
+        "title": "The impact that AI will have on advertising, according to Sir Martin Sorrell",
+        "title_zh": "The impact that AI will have on advertising, according to Sir Martin Sorrell",
+        "summary": "Sir Martin Sorrell — the founder and executive chairman of S4Capital — sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss how Meta's (META) new Muse chatbot and other AI products will impact the advertising space.",
+        "summary_zh": "Sir Martin Sorrell — the founder and executive chairman of S4Capital — sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss how Meta's (META) new Muse chatbot and other AI products will impact the advertising space.",
+        "link": "https://finance.yahoo.com/video/impact-ai-advertising-according-sir-144000439.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790606400,
+        "type": "News"
+    },
+    {
+        "title": "Are investors still confident the Fed can tame inflation as yields sell off further?",
+        "title_zh": "Are investors still confident the Fed can tame inflation as yields sell off further?",
+        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) and the bond market (^TYX, ^TNX, ^FVX) are selling off Monday morning.",
+        "summary_zh": "US stocks (^DJI, ^IXIC, ^GSPC) and the bond market (^TYX, ^TNX, ^FVX) are selling off Monday morning.",
+        "link": "https://finance.yahoo.com/video/investors-still-confident-fed-tame-141537544.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790604937,
+        "type": "News"
+    },
+    {
+        "title": "Elon Musk’s big week faces a reality check from Wall Street",
+        "title_zh": "Elon Musk’s big week faces a reality check from Wall Street",
+        "summary": "Yahoo Finance Executive Editor Brian Sozzi gives a rundown of the big week for SpaceX (SPCX) and Tesla (TSLA) CEO Elon Musk, with a Starship flight launched, an upcoming Falcon 9 mission, and the unveiling of the Tesla Roadster.",
+        "summary_zh": "Yahoo Finance Executive Editor Brian Sozzi gives a rundown of the big week for SpaceX (SPCX) and Tesla (TSLA) CEO Elon Musk, with a Starship flight launched, an upcoming Falcon 9 mission, and the unveiling of the Tesla Roadster.",
+        "link": "https://finance.yahoo.com/video/elon-musk-big-week-faces-140736028.html",
+        "publisher": "Yahoo Finance Video",
+        "publish_time": 1790604456,
+        "type": "News"
+    },
+    {
+        "title": "'So much cash': Nvidia stock jumps after largest share buyback ever",
+        "title_zh": "'So much cash': Nvidia stock jumps after largest share buyback ever",
+        "summary": "Nvidia stock popped in early trading after the AI hardware giant announced the largest share buyback in history on Monday morning and a new platform for AI safety guardrails.",
+        "summary_zh": "Nvidia stock popped in early trading after the AI hardware giant announced the largest share buyback in history on Monday morning and a new platform for AI safety guardrails.",
+        "link": "https://finance.yahoo.com/markets/article/so-much-cash-nvidia-stock-jumps-after-largest-share-buyback-ever-134349202.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790603029,
+        "type": "News"
+    },
+    {
+        "title": "3 tech stock charts you probably won't believe",
+        "title_zh": "3 tech stock charts you probably won't believe",
+        "summary": "Truist chief market strategist Keith Lerner served up a few tech charts that will get you thinking.",
+        "summary_zh": "Truist chief market strategist Keith Lerner served up a few tech charts that will get you thinking.",
+        "link": "https://finance.yahoo.com/markets/article/3-tech-stock-charts-you-probably-wont-believe-133326724.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790602406,
+        "type": "News"
+    },
+    {
+        "title": "MongoDB stock tanks after Meta poaches CEO",
+        "title_zh": "MongoDB stock tanks after Meta poaches CEO",
+        "summary": "MongoDB shares are falling after Meta hired MongoDB CEO Chirantan \"CJ\" Desai to lead the new Meta Enterprise Platform.",
+        "summary_zh": "MongoDB shares are falling after Meta hired MongoDB CEO Chirantan \"CJ\" Desai to lead the new Meta Enterprise Platform.",
+        "link": "https://finance.yahoo.com/markets/article/mongodb-stock-tanks-after-meta-poaches-ceo-132048225.html",
+        "publisher": "Yahoo Finance",
+        "publish_time": 1790601648,
         "type": "News"
     }
 ]
