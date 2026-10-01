@@ -1,5 +1,25 @@
 [
     {
+        "title": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
+        "title_zh": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
+        "summary": "Amazon announced a 20-year nuclear power deal with Constellation Energy late Wednesday. The deal will enable expansion at the Maryland nuclear plant where the e-commerce giant just scrapped plans to build a data center in August, amid community opposition.",
+        "summary_zh": "Amazon announced a 20-year nuclear power deal with Constellation Energy late Wednesday. The deal will enable expansion at the Maryland nuclear plant where the e-commerce giant just scrapped plans to build a data center in August, amid community opposition.",
+        "link": "https://www.investors.com/news/amazon-nuclear-deal-constellation-energy-ceg-stock-sp-500/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1790864905,
+        "type": "News"
+    },
+    {
+        "title": "Oracle Lands Major Cloud Deal With Tencent: Report",
+        "title_zh": "Oracle Lands Major Cloud Deal With Tencent: Report",
+        "summary": "Oracle stock wavered following a report that the tech giant landed a $7 billion cloud deal with Tencent.",
+        "summary_zh": "Oracle stock wavered following a report that the tech giant landed a $7 billion cloud deal with Tencent.",
+        "link": "https://www.investors.com/news/technology/oracle-stock-tencent-cloud-deal/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "publish_time": 1790863749,
+        "type": "News"
+    },
+    {
         "title": "PHC Holdings surge to near 4-year high after Toho takeover proposal confirmed",
         "title_zh": "PHC Holdings surge to near 4-year high after Toho takeover proposal confirmed",
         "summary": "Investing.com -- PHC Holdings (TYO:6523) shares surged to a near four-year high, after the Japanese healthcare company confirmed it had received an initial takeover proposal from Toho Holdings.",
@@ -10,16 +30,6 @@
         "type": "News"
     },
     {
-        "title": "Constellation Energy stock climbs on Amazon nuclear power deal",
-        "title_zh": "Constellation Energy stock climbs on Amazon nuclear power deal",
-        "summary": "Investing.com -- Constellation Energy Corp (NASDAQ:CEG) shares rose as much as 5% in after-hours trading Wednesday following the announcement of a 20-year nuclear power agreement with Amazon.com Inc (NASDAQ:AMZN).",
-        "summary_zh": "Investing.com -- Constellation Energy Corp (NASDAQ:CEG) shares rose as much as 5% in after-hours trading Wednesday following the announcement of a 20-year nuclear power agreement with Amazon.com Inc (NASDAQ:AMZN).",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-climbs-amazon-204446267.html",
-        "publisher": "Investing.com",
-        "publish_time": 1790801086,
-        "type": "News"
-    },
-    {
         "title": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors?",
         "title_zh": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors?",
         "summary": "Morgan Stanley (NYSE:MS) is reportedly exploring a potential merger or combination with UBS AG under pressure from Swiss regulators. Swiss authorities are said to be urging UBS to reinforce its capital position, prompting discussions with several large foreign banks.",
@@ -27,16 +37,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/could-morgan-stanley-ms-merger-201016286.html",
         "publisher": "Simply Wall St.",
         "publish_time": 1790799016,
-        "type": "News"
-    },
-    {
-        "title": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
-        "title_zh": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
-        "summary": "Amazon.com Inc. (NASDAQ:AMZN) announced a multi-year deal worth more than $1 billion with Synopsys Inc. (NASDAQ:SNPS) Wednesday, expanding the chip-design technology behind AWS's custom silicon push as it builds alternatives to processors from Nvidia Corp. (NASDAQ:NVDA).",
-        "summary_zh": "Amazon.com Inc. (NASDAQ:AMZN) announced a multi-year deal worth more than $1 billion with Synopsys Inc. (NASDAQ:SNPS) Wednesday, expanding the chip-design technology behind AWS's custom silicon push as it builds alternatives to processors from Nvidia Corp. (NASDAQ:NVDA).",
-        "link": "https://finance.yahoo.com/technology/ai/articles/amazon-signs-1-billion-synopsys-193319799.html",
-        "publisher": "Benzinga Prediction Markets",
-        "publish_time": 1790796799,
         "type": "News"
     },
     {
