@@ -62,61 +62,61 @@
     {
         "symbol": "0700.HK",
         "name": "TENCENT",
-        "price": "424.80",
-        "change": "+13.40"
+        "price": "428.00",
+        "change": "+3.20"
     },
     {
         "symbol": "1299.HK",
         "name": "AIA",
-        "price": "71.25",
-        "change": "+2.00"
+        "price": "71.80",
+        "change": "+0.55"
     },
     {
         "symbol": "0005.HK",
         "name": "HSBC HOLDINGS",
-        "price": "145.20",
-        "change": "+2.60"
+        "price": "146.90",
+        "change": "+1.70"
     },
     {
         "symbol": "0941.HK",
         "name": "CHINA MOBILE",
         "price": "80.10",
-        "change": "+0.70"
+        "change": "+0.00"
     },
     {
         "symbol": "0883.HK",
         "name": "CNOOC",
-        "price": "23.90",
-        "change": "-0.14"
+        "price": "23.92",
+        "change": "+0.02"
     },
     {
         "symbol": "0857.HK",
         "name": "PETROCHINA",
-        "price": "9.83",
-        "change": "+0.00"
+        "price": "9.82",
+        "change": "-0.01"
     },
     {
         "symbol": "3988.HK",
         "name": "BANK OF CHINA",
-        "price": "6.12",
-        "change": "+0.09"
+        "price": "6.23",
+        "change": "+0.11"
     },
     {
         "symbol": "1398.HK",
         "name": "ICBC",
-        "price": "7.50",
-        "change": "-0.07"
+        "price": "7.59",
+        "change": "+0.09"
     },
     {
         "symbol": "0939.HK",
         "name": "CCB",
-        "price": "9.73",
-        "change": "+0.07"
+        "price": "9.89",
+        "change": "+0.15"
     },
     {
         "symbol": "3690.HK",
         "name": "MEITUAN-W",
-        "price": "71.50",
-        "change": "+2.10"
+        "price": "71.75",
+        "change": "+0.25"
     }
 ]
